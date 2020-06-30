@@ -105,7 +105,6 @@ $.getJSON('2018_match_2020.json', {}, function(c) {
     format: new ol.format.TopoJSON()
   }));
   map.on('singleclick', function(evt) {
-    content.innerHTML = '';
     pointClicked = false;
     map.forEachFeatureAtPixel(evt.pixel, function (feature, layer) {
       if(false === pointClicked) {
