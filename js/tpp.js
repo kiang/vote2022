@@ -7,15 +7,15 @@ var size = ol.extent.getWidth(projectionExtent) / 256;
 var resolutions = new Array(20);
 var matrixIds = new Array(20);
 for (var z = 0; z < 20; ++z) {
-    // generate resolutions and matrixIds arrays for this WMTS
-    resolutions[z] = size / Math.pow(2, z);
-    matrixIds[z] = z;
+  // generate resolutions and matrixIds arrays for this WMTS
+  resolutions[z] = size / Math.pow(2, z);
+  matrixIds[z] = z;
 }
 
 function areaStyleFunction(f) {
   var color = '', stroke, radius;
   var p = f.getProperties();
-  if(f === currentFeature) {
+  if (f === currentFeature) {
     color = 'rgba(200,200,0,0.5)';
     stroke = new ol.style.Stroke({
       color: 'rgba(255,0,0,0.5)',
@@ -23,12 +23,12 @@ function areaStyleFunction(f) {
     });
     radius = 25;
   } else {
-    if(tpp[p.id]) {
+    if (tpp[p.id]) {
       color = 'rgba(29,168,165,0.7)';
     } else {
       color = 'rgba(255,255,255,0.3)';
     }
-    
+
     stroke = new ol.style.Stroke({
       color: '#000',
       width: 1
@@ -53,21 +53,21 @@ var vectorAreas = new ol.layer.Vector({
 });
 
 var baseLayer = new ol.layer.Tile({
-    source: new ol.source.WMTS({
-        matrixSet: 'EPSG:3857',
-        format: 'image/png',
-        url: 'https://wmts.nlsc.gov.tw/wmts',
-        layer: 'EMAP',
-        tileGrid: new ol.tilegrid.WMTS({
-            origin: ol.extent.getTopLeft(projectionExtent),
-            resolutions: resolutions,
-            matrixIds: matrixIds
-        }),
-        style: 'default',
-        wrapX: true,
-        attributions: '<a href="http://maps.nlsc.gov.tw/" target="_blank">國土測繪圖資服務雲</a>'
+  source: new ol.source.WMTS({
+    matrixSet: 'EPSG:3857',
+    format: 'image/png',
+    url: 'https://wmts.nlsc.gov.tw/wmts',
+    layer: 'EMAP',
+    tileGrid: new ol.tilegrid.WMTS({
+      origin: ol.extent.getTopLeft(projectionExtent),
+      resolutions: resolutions,
+      matrixIds: matrixIds
     }),
-    opacity: 0.8
+    style: 'default',
+    wrapX: true,
+    attributions: '<a href="http://maps.nlsc.gov.tw/" target="_blank">國土測繪圖資服務雲</a>'
+  }),
+  opacity: 0.8
 });
 
 var map = new ol.Map({
@@ -81,37 +81,49 @@ var pointClicked = false;
 var previousFeature = false;
 var currentFeature = false;
 var tpp = {};
-$.getJSON('tpp/list.json', {}, function(c) {
+$.getJSON('tpp/list.json', {}, function (c) {
   tpp = c;
   vectorAreas.setSource(new ol.source.Vector({
     url: '2022.json',
     format: new ol.format.TopoJSON()
   }));
-  map.on('singleclick', function(evt) {
+  map.on('singleclick', function (evt) {
     pointClicked = false;
     map.forEachFeatureAtPixel(evt.pixel, function (feature, layer) {
-      if(false === pointClicked) {
+      if (false === pointClicked) {
         currentFeature = feature;
-        if(false !== previousFeature) {
+        if (false !== previousFeature) {
           previousFeature.setStyle(areaStyleFunction(previousFeature));
         }
         currentFeature.setStyle(areaStyleFunction(currentFeature));
         previousFeature = currentFeature;
         var p = feature.getProperties();
-        var c = '<img src="tpp/' + p.id + '.jpg" style="width: 100%;" />';
-        c += '<table class="table table-striped">';
-        c += '<tr><th>姓名</th><td>' + tpp[p.id].name + '</td></tr>';
-        c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
-        c += '<tr><th>介紹</th><td>' + tpp[p.id].info.replace("\n", '<br />') + '</td></tr>';
-        c += '</table>';
-        if(tpp[p.id].fb !== '') {
-          c += '<div class="fb-page" data-href="' + tpp[p.id].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[p.id].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[p.id].fb + '">' + tpp[p.id].name + '</a></blockquote></div>';
+        if (tpp[p.id]) {
+          var c = '<img src="tpp/' + p.id + '.jpg" style="width: 100%;" />';
+          c += '<table class="table table-striped">';
+          c += '<tr><th>姓名</th><td>' + tpp[p.id].name + '</td></tr>';
+          c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
+          c += '<tr><th>介紹</th><td>' + tpp[p.id].info.replace("\n", '<br />') + '</td></tr>';
+          c += '</table>';
+          if (tpp[p.id].fb !== '') {
+            c += '<div class="fb-page" data-href="' + tpp[p.id].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[p.id].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[p.id].fb + '">' + tpp[p.id].name + '</a></blockquote></div>';
+          }
+          $('#sidebarTitle').html(tpp[p.id].name);
+          $('#sidebarContent').html(c);
+        } else {
+          var c = '';
+          c += '<table class="table table-striped">';
+          c += '<tr><th>姓名</th><td></td></tr>';
+          c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
+          c += '<tr><th>介紹</th><td></td></tr>';
+          c += '</table>';
+          $('#sidebarTitle').html('');
+          $('#sidebarContent').html(c);
         }
-        $('#sidebarTitle').html(tpp[p.id].name);
-        $('#sidebarContent').html(c);
+
         sidebar.open('home');
         pointClicked = true;
-        if(FB) {
+        if (FB) {
           FB.XFBML.parse();
         }
       }
@@ -125,7 +137,7 @@ var geolocation = new ol.Geolocation({
 
 geolocation.setTracking(true);
 
-geolocation.on('error', function(error) {
+geolocation.on('error', function (error) {
   console.log(error.message);
 });
 
@@ -145,10 +157,10 @@ positionFeature.setStyle(new ol.style.Style({
 }));
 
 var firstPosDone = false;
-geolocation.on('change:position', function() {
+geolocation.on('change:position', function () {
   var coordinates = geolocation.getPosition();
   positionFeature.setGeometry(coordinates ? new ol.geom.Point(coordinates) : null);
-  if(false === firstPosDone) {
+  if (false === firstPosDone) {
     appView.setCenter(coordinates);
     firstPosDone = true;
   }
@@ -163,7 +175,7 @@ new ol.layer.Vector({
 
 $('#btn-geolocation').click(function () {
   var coordinates = geolocation.getPosition();
-  if(coordinates) {
+  if (coordinates) {
     appView.setCenter(coordinates);
   } else {
     alert('目前使用的設備無法提供地理資訊');
