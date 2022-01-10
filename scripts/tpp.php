@@ -47,7 +47,7 @@ $zones = [
     ],
     '10005-05' => [
         'name' => '林志學',
-        'fb' => 'https://www.facebook.com/chihhsueh.lin',
+        'fb' => 'https://www.facebook.com/%E6%9E%97%E5%BF%97%E5%AD%B8-%E6%B8%85%E6%96%B0%E5%89%8D%E9%80%B2%E7%9A%84%E5%8A%9B%E9%87%8F-100252622547425',
         'info' => '年齡：45歲
 學歷：中國文化大學
 現職：貿易公司業務協理
@@ -185,7 +185,7 @@ $zones = [
     ],
     '65000-03' => [
         'name' => '陳世軒',
-        'fb' => 'https://www.facebook.com/profile.php?id=100002056502815',
+        'fb' => 'https://www.facebook.com/jimmychen242',
         'info' => '年齡：26歲
 學歷：Monash University
 現職：立法委員蔡壁如秘書
@@ -193,7 +193,7 @@ $zones = [
     ],
     '65000-04' => [
         'name' => '陳俊霖',
-        'fb' => '',
+        'fb' => 'https://www.facebook.com/starfromlin',
         'info' => '',
     ],
     '65000-05' => [
@@ -214,7 +214,7 @@ $zones = [
     ],
     '65000-07' => [
         'name' => '林道然',
-        'fb' => 'https://www.facebook.com/sunlordring',
+        'fb' => 'https://www.facebook.com/UdCaresunlin',
         'info' => '年齡：34歲
 學歷：文化大學大氣科學系
 現職：居家安全達人執行長
@@ -239,7 +239,7 @@ $zones = [
     // '65000-10' => '瑞芳區,平溪區,雙溪區,貢寮區',
     '65000-11' => [
         'name' => '彭立信',
-        'fb' => '',
+        'fb' => 'https://www.facebook.com/%E5%BD%AD%E7%AB%8B%E4%BF%A1%E5%B0%8F%E7%A2%BA%E5%B9%B8%E7%BE%A4-106410588557132',
         'info' => '年齡：48歲
 學歷：美國Grand Canyon University M.B.A企管碩士
 現職：康民（腦）診所副總經理
