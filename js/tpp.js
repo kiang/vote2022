@@ -99,17 +99,38 @@ $.getJSON('tpp/list.json', {}, function (c) {
         previousFeature = currentFeature;
         var p = feature.getProperties();
         if (tpp[p.id]) {
-          var c = '<img src="tpp/' + p.id + '.jpg" style="width: 100%;" />';
-          c += '<table class="table table-striped">';
-          c += '<tr><th>姓名</th><td>' + tpp[p.id].name + '</td></tr>';
-          c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
-          c += '<tr><th>介紹</th><td>' + tpp[p.id].info.replace("\n", '<br />') + '</td></tr>';
-          c += '</table>';
-          if (tpp[p.id].fb !== '') {
-            c += '<div class="fb-page" data-href="' + tpp[p.id].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[p.id].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[p.id].fb + '">' + tpp[p.id].name + '</a></blockquote></div>';
+          if (tpp[p.id].name) {
+            var c = '<img src="tpp/' + p.id + '.jpg" style="width: 100%;" />';
+            c += '<table class="table table-striped">';
+            c += '<tr><th>姓名</th><td>' + tpp[p.id].name + '</td></tr>';
+            c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
+            c += '<tr><th>介紹</th><td>' + tpp[p.id].info.replace("\n", '<br />') + '</td></tr>';
+            c += '</table>';
+            if (tpp[p.id].fb !== '') {
+              c += '<div class="fb-page" data-href="' + tpp[p.id].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[p.id].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[p.id].fb + '">' + tpp[p.id].name + '</a></blockquote></div>';
+            }
+            $('#sidebarTitle').html(tpp[p.id].name);
+            $('#sidebarContent').html(c);
+          } else {
+            var c = '', sidebarTitle = '';
+            for (k in tpp[p.id]) {
+              c += '<img src="tpp/' + p.id + '-' + tpp[p.id][k].sort + '.jpg" style="width: 100%;" />';
+            }
+            for (k in tpp[p.id]) {
+              sidebarTitle += tpp[p.id][k].name + ' ';
+              c += '<table class="table table-striped">';
+              c += '<tr><th>姓名</th><td>' + tpp[p.id][k].name + '</td></tr>';
+              c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
+              c += '<tr><th>介紹</th><td>' + tpp[p.id][k].info.replace("\n", '<br />') + '</td></tr>';
+              c += '</table>';
+              if (tpp[p.id][k].fb !== '') {
+                c += '<div class="fb-page" data-href="' + tpp[p.id][k].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[p.id][k].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[p.id][k].fb + '">' + tpp[p.id][k].name + '</a></blockquote></div>';
+              }
+            }
+            $('#sidebarTitle').html(sidebarTitle);
+            $('#sidebarContent').html(c);
           }
-          $('#sidebarTitle').html(tpp[p.id].name);
-          $('#sidebarContent').html(c);
+
         } else {
           var c = '';
           c += '<table class="table table-striped">';
