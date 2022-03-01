@@ -34,11 +34,13 @@ $zones = [
     // '10002-10' => '蘇澳鎮,南澳鄉',
     '10004-01' => [
         [
+            'sort' => 1,
             'name' => '林碩彥',
             'fb' => 'https://www.facebook.com/zhubeipeoplesquare',
             'info' => '',
         ],
         [
+            'sort' => 2,
             'name' => '陳立基',
             'fb' => 'https://www.facebook.com/likey2016',
             'info' => '',
