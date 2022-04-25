@@ -49,7 +49,7 @@ foreach ($lines as $line) {
                 fclose($fh);
             }
         }
-        if (!isset($pool[$key][$line[0]])) {
+        if (!isset($pool[$key][$cols[1]])) {
             if (file_exists($dataFile)) {
                 $oFh = fopen($dataFile, 'a');
             } else {
