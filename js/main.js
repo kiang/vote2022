@@ -132,9 +132,10 @@ $.getJSON('2018_match_2020.json', {}, function(c) {
           c += '<td>' + dataPool[p.code][2018].detail[j].voteCount + '</td></tr>';
         }
         c += '</table><h4>2020政黨票</h4><table class="table table-striped">';
-        c += '<tr><th>政黨</th><th>得票</th></tr>';
+        c += '<tr><th>政黨</th><th>比例</th><th>得票</th></tr>';
         for(j in dataPool[p.code].votes) {
           c += '<tr><td>' + j + '</td>';
+          c += '<td>' + Math.round(dataPool[p.code].votes[j] / dataPool[p.code].total * 10000)/100 + '%</td>';
           c += '<td>' + dataPool[p.code].votes[j] + '</td></tr>';
         }
         c += '</table>';
