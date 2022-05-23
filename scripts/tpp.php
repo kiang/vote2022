@@ -406,7 +406,7 @@ $zones = [
     ],
     '64000-05' => [
         'name' => '陳惠君',
-        'fb' => 'https://www.facebook.com/huijun999/',
+        'fb' => 'https://www.facebook.com/Huijunforu',
         'info' => '學歷：國立臺灣師範大學音樂系指揮組碩士、國立臺灣師範大學音樂系學士
 經歷：音樂教師、鋼琴老師、財團法人長春防災基金會高雄區文教中心主任、禾鑫房產物業管理公司居家系統市場開發部執行長',
     ],
@@ -558,7 +558,7 @@ $zones = [
     ],
     '66000-11' => [
         'name' => '林俊凱',
-        'fb' => 'https://www.facebook.com/streetcleaner407',
+        'fb' => 'https://www.facebook.com/kai.gerger',
         'info' => '年齡：27歲
 學歷：臺中一中、臺灣警察專科學校
 現職：警員
@@ -585,7 +585,7 @@ $zones = [
     // '67000-04' => '玉井區,楠西區,南化區,左鎮區',
     '67000-05' => [
         'name' => '洪岳銘',
-        'fb' => 'https://www.facebook.com/%E6%B4%AA%E5%B2%B3%E9%8A%98-101279882465618',
+        'fb' => 'https://www.facebook.com/TPPumbilicus/',
         'info' => '年齡：29歲
 現職：行政院農業委員會農業技術團-台南團、台灣民眾黨台南市黨部善化、安定、新市、山上、新化區主任
 學歷：國立台北商業大學（原國立台北商業技術學院）企業管理系
@@ -593,7 +593,7 @@ $zones = [
     ],
     '67000-06' => [
         'name' => '陳詩薇',
-        'fb' => 'https://www.facebook.com/annantainan2022',
+        'fb' => 'https://www.facebook.com/wei0614annan',
         'info' => '年齡：37歲
 現職：台灣民眾黨台南市黨部安南區主任
 學歷：美國卡森紐曼學院教育碩士
