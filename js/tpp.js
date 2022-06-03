@@ -85,7 +85,7 @@ $.getJSON('tpp/list.json', {}, function (c) {
   tpp = c;
   vectorAreas.setSource(new ol.source.Vector({
     url: '2022.json',
-    format: new ol.format.TopoJSON()
+    format: new ol.format.GeoJSON()
   }));
   map.on('singleclick', function (evt) {
     pointClicked = false;
@@ -103,7 +103,8 @@ $.getJSON('tpp/list.json', {}, function (c) {
             var c = '<img src="tpp/' + p.id + '.jpg" style="width: 100%;" />';
             c += '<table class="table table-striped">';
             c += '<tr><th>姓名</th><td>' + tpp[p.id].name + '</td></tr>';
-            c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
+            c += '<tr><th>選區</th><td>' + p.name + '</td></tr>';
+            c += '<tr><th>行政區</th><td>' + p.areas + '</td></tr>';
             c += '<tr><th>介紹</th><td>' + tpp[p.id].info.replace("\n", '<br />') + '</td></tr>';
             c += '</table>';
             if (tpp[p.id].fb !== '') {
