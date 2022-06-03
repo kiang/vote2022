@@ -135,9 +135,10 @@ $.getJSON('tpp/list.json', {}, function (c) {
         } else {
           var c = '';
           c += '<table class="table table-striped">';
-          c += '<tr><th>姓名</th><td></td></tr>';
-          c += '<tr><th>區域</th><td>' + p.areas + '</td></tr>';
-          c += '<tr><th>介紹</th><td></td></tr>';
+          c += '<tr><th>姓名</th><td>&nbsp;</td></tr>';
+          c += '<tr><th>選區</th><td>' + p.name + '</td></tr>';
+          c += '<tr><th>行政區</th><td>' + p.areas + '</td></tr>';
+          c += '<tr><th>介紹</th><td>&nbsp;</td></tr>';
           c += '</table>';
           $('#sidebarTitle').html('');
           $('#sidebarContent').html(c);
