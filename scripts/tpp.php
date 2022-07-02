@@ -406,7 +406,7 @@ $zones = [
     ],
     '64000-05' => [
         'name' => '陳惠君',
-        'fb' => 'https://www.facebook.com/Huijunforu',
+        'fb' => 'https://www.facebook.com/Huijunchenforu',
         'info' => '學歷：國立臺灣師範大學音樂系指揮組碩士、國立臺灣師範大學音樂系學士
 經歷：音樂教師、鋼琴老師、財團法人長春防災基金會高雄區文教中心主任、禾鑫房產物業管理公司居家系統市場開發部執行長',
     ],
@@ -675,7 +675,7 @@ $zones = [
     // '68000-03' => '八德區',
     '68000-04' => [
         'name' => '黃國晏',
-        'fb' => 'https://www.facebook.com/TPPLuzhu',
+        'fb' => 'https://www.facebook.com/TPPWater',
         'info' => '年齡：41歲
 學歷：台灣大學政治學系政治理論組
 現職：台灣民眾黨桃園市蘆竹區主任、立委蔡壁如助理
@@ -700,7 +700,7 @@ $zones = [
     ],
     '68000-08' => [
         'name' => '曾姸潔',
-        'fb' => 'https://www.facebook.com/DrYenJTseng/',
+        'fb' => 'https://www.facebook.com/DrYenTseng/',
         'info' => '學歷：國立臺灣大學工學博士（環境工程、能源）、國立臺北科技大學建築系暨建築與都市設計學碩士
 經歷：桃園市政府建築管理處、國立臺北科技大學能源與冷凍空調工程學系所專案助理教授',
     ],
