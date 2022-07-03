@@ -23,7 +23,7 @@ $.getJSON('2022.json', {}, function (c) {
                             content += '<div class="fb-page" data-href="' + tpp[areaKey].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[areaKey].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[areaKey].fb + '">' + tpp[areaKey].name + '</a></blockquote></div>';
                         } else {
                             for (j in tpp[areaKey]) {
-                                content += '<div class="fb-page" data-href="' + tpp[areaKey][j].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[areaKey][j].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[areaKey][j].fb + '">' + tpp[areaKey].name + '</a></blockquote></div>';
+                                content += '<div class="fb-page" data-href="' + tpp[areaKey][j].fb + '" data-tabs="timeline" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="' + tpp[areaKey][j].fb + '" class="fb-xfbml-parse-ignore"><a href="' + tpp[areaKey][j].fb + '">' + tpp[areaKey][j].name + '</a></blockquote></div>';
                             }
                         }
                     }
