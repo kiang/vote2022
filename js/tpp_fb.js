@@ -35,6 +35,6 @@ $.getJSON('2022.json', {}, function (c) {
             } else {
                 $('#content').html('<div style="font-size: 200px;"><i class="fa-solid fa-arrow-up-long"></i>請選擇縣市</div>');
             }
-        });
+        }).trigger('change');
     });
 })
