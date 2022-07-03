@@ -1,11 +1,9 @@
 var areas = {}, cityPool = {}, tpp = {};
-var cityOptions = '<option value="">---</option>';
 $.getJSON('2022.json', {}, function (c) {
 
     for (k in c.features) {
         c.features[k].properties.city = c.features[k].properties.name.substring(0, 3);
         if (!cityPool[c.features[k].properties.city]) {
-            cityOptions += '<option>' + c.features[k].properties.city + '</option>';
             cityPool[c.features[k].properties.city] = [];
         }
         cityPool[c.features[k].properties.city].push(c.features[k].properties.id);
@@ -14,7 +12,6 @@ $.getJSON('2022.json', {}, function (c) {
 
     $.getJSON('tpp/list.json', {}, function (c) {
         tpp = c;
-        $('#menu').html(cityOptions);
         $('#menu').change(function () {
             var selected = $(this).val();
             if (selected !== '') {
@@ -35,6 +32,8 @@ $.getJSON('2022.json', {}, function (c) {
                 if (FB) {
                     FB.XFBML.parse();
                 }
+            } else {
+                $('#content').html('<div style="font-size: 200px;"><i class="fa-solid fa-arrow-up-long"></i>請選擇縣市</div>');
             }
         });
     });
