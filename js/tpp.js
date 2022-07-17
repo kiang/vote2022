@@ -175,10 +175,14 @@ $.getJSON('tpp/list.json', {}, function (c) {
           }
         } else {
           $('#sidebarTitle').html(p.name);
-          var c = '';
-          c += '<table class="table table-striped">';
+          var c = '', voteSum = 0;
           for (k in details[p.id]) {
-            c += '<tr><th>' + k + '</th><td>' + details[p.id][k] + '</td></tr>';
+            voteSum += details[p.id][k];
+          }
+          c += '<table class="table table-striped">';
+          c += '<tr><th>政黨</th><th>得票</th><th>比例</th></tr>';
+          for (k in details[p.id]) {
+            c += '<tr><th>' + k + '</th><td>' + details[p.id][k] + '</td><td>' + Math.round(details[p.id][k] / voteSum * 10000) / 100 + '%</td></tr>';
           }
           c += '</table>';
           $('#sidebarContent').html(c);
