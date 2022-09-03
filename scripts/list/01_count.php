@@ -2,6 +2,7 @@
 $basePath = dirname(dirname(__DIR__));
 
 $pool = [];
+$maxCount = 0;
 foreach (glob($basePath . '/raw/list/csv/*.csv') as $csvFile) {
     $p = pathinfo($csvFile);
     $parts = explode('111年', $p['filename']);
@@ -25,17 +26,27 @@ foreach (glob($basePath . '/raw/list/csv/*.csv') as $csvFile) {
             ];
         }
         ++$pool[$fname][$line[0]]['count'];
+        if($maxCount < $pool[$fname][$line[0]]['count']) {
+            $maxCount = $pool[$fname][$line[0]]['count'];
+        }
         $pool[$fname][$line[0]]['data'][] = $line;
     }
 }
 
 $oFh = fopen($basePath . '/reports/only_candidates.csv', 'w');
 fputcsv($oFh, ['選舉類型', '選區', '候選人', '推薦政黨']);
+$count = 0;
 foreach ($pool as $fname => $lv1) {
     foreach ($lv1 as $area => $item) {
         if ($item['count'] === 1) {
             $candidate = $item['data'][0];
             fputcsv($oFh, [$fname, $area, $candidate[2], $candidate[3]]);
+        } elseif($item['count'] === $maxCount) {
+            echo $fname;
+            print_r($item);
         }
+        $count += $item['count'];
     }
 }
+
+echo $count;
