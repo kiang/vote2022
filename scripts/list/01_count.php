@@ -29,11 +29,13 @@ foreach (glob($basePath . '/raw/list/csv/*.csv') as $csvFile) {
     }
 }
 
+$oFh = fopen($basePath . '/reports/only_candidates.csv', 'w');
+fputcsv($oFh, ['選舉類型', '選區', '候選人', '推薦政黨']);
 foreach ($pool as $fname => $lv1) {
     foreach ($lv1 as $area => $item) {
         if ($item['count'] === 1) {
             $candidate = $item['data'][0];
-            echo "{$fname} {$area} - {$candidate[2]} ({$candidate[3]})\n";
+            fputcsv($oFh, [$fname, $area, $candidate[2], $candidate[3]]);
         }
     }
 }
