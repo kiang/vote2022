@@ -5,11 +5,22 @@ if (!file_exists($cecCandidatePath)) {
     mkdir($cecCandidatePath, 0777, true);
 }
 $cities = json_decode(file_get_contents($basePath . '/raw/city.topo.json'), true);
+$countyPool = [];
 foreach ($cities['objects']['city']['geometries'] as $city) {
-    $file1 = $cecCandidatePath . '/' . $city['properties']['COUNTYCODE'] . '.json';
-    $c = file_get_contents('https://2022.cec.gov.tw/data/json/cand/C1/' . $city['properties']['COUNTYCODE'] . '.json');
-    if (!empty($c)) {
-        file_put_contents($file1, json_encode(json_decode($c), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    if (!isset($countyPool[$city['properties']['COUNTYCODE']])) {
+        $countyPool[$city['properties']['COUNTYCODE']] = true;
+
+        $file1 = $cecCandidatePath . '/' . $city['properties']['COUNTYCODE'] . '.json';
+        $c = file_get_contents('https://2022.cec.gov.tw/data/json/cand/C1/' . $city['properties']['COUNTYCODE'] . '.json');
+        if (!empty($c)) {
+            file_put_contents($file1, json_encode(json_decode($c), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        }
+
+        $file3 = $cecCandidatePath . '/T' . $city['properties']['COUNTYCODE'] . '.json';
+        $c = file_get_contents('https://2022.cec.gov.tw/data/json/cand/T/' . $city['properties']['COUNTYCODE'] . '.json');
+        if (!empty($c)) {
+            file_put_contents($file1, json_encode(json_decode($c), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        }
     }
 
     $file2 = $cecCandidatePath . '/' . $city['properties']['TOWNCODE'] . '.json';
