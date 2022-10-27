@@ -1,0 +1,4991 @@
+{
+    "R": [
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃文琴",
+                            "birth": "0470718",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "梁嬌雪",
+                            "birth": "0500728",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊雲亭",
+                            "birth": "0460201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉圓蘭",
+                            "birth": "0480118",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李肇文",
+                            "birth": "0570808",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "臺中市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "023"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王封台",
+                            "birth": "0480624",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "朱毅君",
+                            "birth": "0710114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃國建",
+                            "birth": "0850108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "魏誠良",
+                            "birth": "0531114",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳詩梵",
+                            "birth": "0790804",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉誠祖",
+                            "birth": "0880624",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江弘琪",
+                            "birth": "0800621",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "019",
+                        "025",
+                        "026"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃畯和",
+                            "birth": "0761217",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 1,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉秀蘭",
+                            "birth": "0400601",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊得君",
+                            "birth": "0681225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝長慶",
+                            "birth": "0450229",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "伍勝滐",
+                            "birth": "0751025",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂文松",
+                            "birth": "0480920",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "曾秋桃",
+                            "birth": "0530802",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "南投縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "謝汶秀",
+                            "birth": "0490606",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "嘉義縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄧兆達",
+                            "birth": "0490507",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉岳泓",
+                            "birth": "0760125",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 10,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "002",
+                        "020",
+                        "021",
+                        "022",
+                        "024",
+                        "027",
+                        "028"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝承恩",
+                            "birth": "0550802",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳仁杰",
+                            "birth": "0570121",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "梅雯霞",
+                            "birth": "0541229",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李建宏",
+                            "birth": "0730710",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉鳳瑩",
+                            "birth": "0480122",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭國平",
+                            "birth": "0680320",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃錦瑞",
+                            "birth": "0500210",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇文霸",
+                            "birth": "0451008",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張文勇",
+                            "birth": "0581122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "郭汶沂",
+                            "birth": "0700628",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張琦享",
+                            "birth": "0570913",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂景文",
+                            "birth": "0501122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭暉煌",
+                            "birth": "0640319",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "蔡明芳",
+                            "birth": "0641101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張素英",
+                            "birth": "0381003",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "洪晃琦",
+                            "birth": "0650606",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張平奇",
+                            "birth": "0491210",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳若安",
+                            "birth": "0640301",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王建鑫",
+                            "birth": "0630216",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "023"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江世坤",
+                            "birth": "0631105",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 1,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張文財",
+                            "birth": "0511205",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭明園",
+                            "birth": "0490428",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴政瑞",
+                            "birth": "0570902",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "019",
+                        "020",
+                        "021",
+                        "022",
+                        "024",
+                        "025"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹昌勳",
+                            "birth": "0771015",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳基寶",
+                            "birth": "0480324",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林俊廷",
+                            "birth": "0640906",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃永岡",
+                            "birth": "0470501",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉國成",
+                            "birth": "0501231",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "024"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳昭興",
+                            "birth": "0550420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐學承",
+                            "birth": "0620701",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐鈺婷",
+                            "birth": "0801009",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林月鳳",
+                            "birth": "0541016",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳珮均",
+                            "birth": "0460313",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇連泉",
+                            "birth": "0570702",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "繆宗翰",
+                            "birth": "0751123",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 7,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭國雄",
+                            "birth": "0410920",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳嘉星",
+                            "birth": "0551023",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "翁英雄",
+                            "birth": "0530116",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾潤祥",
+                            "birth": "0491012",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐淑雲",
+                            "birth": "0531225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳志豪",
+                            "birth": "0741230",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾榮銓",
+                            "birth": "0631228",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱日亮",
+                            "birth": "0450820",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾榮民",
+                            "birth": "0560304",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "019",
+                        "020",
+                        "021",
+                        "022",
+                        "023"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "呂金穎",
+                            "birth": "0471113",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "嘉義縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃啟森",
+                            "birth": "0531017",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "駱義明",
+                            "birth": "0591007",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王竟倫",
+                            "birth": "0870101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳文鋒",
+                            "birth": "0450823",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉少琪",
+                            "birth": "0680802",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林武宗",
+                            "birth": "0450921",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡津照",
+                            "birth": "0420611",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳奕臻",
+                            "birth": "0671216",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "023",
+                        "024",
+                        "025"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "孟豫中",
+                            "birth": "0650919",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳玉家",
+                            "birth": "0870517",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱炳琦",
+                            "birth": "0591214",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林進明",
+                            "birth": "0630801",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳志平",
+                            "birth": "0520303",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "洪榮標",
+                            "birth": "0420828",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "何秀綿",
+                            "birth": "0510925",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "嘉義縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱進旺",
+                            "birth": "0400622",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳永明",
+                            "birth": "0411119",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "葉秀賢",
+                            "birth": "0560713",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳幸義",
+                            "birth": "0380522",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳嘉榮",
+                            "birth": "0690324",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳萬典",
+                            "birth": "0411111",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李城",
+                            "birth": "0441115",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許崇傑",
+                            "birth": "0501206",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "019",
+                        "020",
+                        "021",
+                        "022"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳喬安",
+                            "birth": "0580408",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張中和",
+                            "birth": "0520727",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林家渝",
+                            "birth": "0631118",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "連清萬",
+                            "birth": "0520410",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅文豐",
+                            "birth": "0630923",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張修銘",
+                            "birth": "0770523",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張文政",
+                            "birth": "0591110",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉冠辰",
+                            "birth": "0780915",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃宣乾",
+                            "birth": "0500420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉宇哲",
+                            "birth": "0750510",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "020",
+                        "021",
+                        "030"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "温宜靜",
+                            "birth": "0670420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新北市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇信安",
+                            "birth": "0620614",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周訓宇",
+                            "birth": "0760805",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張愛炫",
+                            "birth": "0470929",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾振池",
+                            "birth": "0640626",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "薛慶光",
+                            "birth": "0391124",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "015",
+                        "016",
+                        "017",
+                        "028",
+                        "029",
+                        "031",
+                        "032",
+                        "033"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張家榮",
+                            "birth": "0621116",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "白珠珍",
+                            "birth": "0450810",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "南投縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱義智",
+                            "birth": "0800409",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許銑倫",
+                            "birth": "0610605",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳學琳",
+                            "birth": "0430113",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃育烈",
+                            "birth": "0530616",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅坤生",
+                            "birth": "0370908",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "田秋鳳",
+                            "birth": "0471006",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "013",
+                        "014",
+                        "018",
+                        "026"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾畯憲",
+                            "birth": "0480110",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉燕祥",
+                            "birth": "0390226",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳漢清",
+                            "birth": "0660417",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林俊光",
+                            "birth": "0610920",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "05",
+                    "areaName": "第5選舉區",
+                    "lis": [
+                        "019",
+                        "022",
+                        "023",
+                        "024",
+                        "025",
+                        "027"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "譚煒生",
+                            "birth": "0610114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝芷洋",
+                            "birth": "0581018",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 2,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃品原",
+                            "birth": "0640723",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "彰化縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李益宏",
+                            "birth": "0680225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張奕沂",
+                            "birth": "0581010",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黎運龍",
+                            "birth": "0420701",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "011",
+                        "013",
+                        "014"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝海山",
+                            "birth": "0490501",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂中慶",
+                            "birth": "0490705",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王光松",
+                            "birth": "0501210",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "花麗卿",
+                            "birth": "0570420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "彰化縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張欽",
+                            "birth": "0620427",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周政發",
+                            "birth": "0510108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "魏早焱",
+                            "birth": "0570415",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林家葦",
+                            "birth": "0621201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "魏水樹",
+                            "birth": "0340730",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "005",
+                        "012",
+                        "015",
+                        "016",
+                        "017",
+                        "018"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳美雪",
+                            "birth": "0461122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "趙羽茜",
+                            "birth": "0720811",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳國忠",
+                            "birth": "0500102",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "朱朝民",
+                            "birth": "0491219",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "019",
+                        "020",
+                        "021",
+                        "022",
+                        "023"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "苗延竹",
+                            "birth": "0530620",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王木林",
+                            "birth": "0451012",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "莊春秋",
+                            "birth": "0590708",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "詹麗容",
+                            "birth": "0430201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹豊霖",
+                            "birth": "0500325",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "詹愛純",
+                            "birth": "0400323",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹秉憲",
+                            "birth": "0680408",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "胡兆烈",
+                            "birth": "0630130",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林明聰",
+                            "birth": "0470329",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王俊昌",
+                            "birth": "0710710",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝永興",
+                            "birth": "0391126",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "003",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹偉廷",
+                            "birth": "0830330",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉蓁",
+                            "birth": "0630121",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉文彬",
+                            "birth": "0640303",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹永光",
+                            "birth": "0560401",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "賴秋蓉",
+                            "birth": "0511108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹偉強",
+                            "birth": "0770614",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "臺中市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "006",
+                        "011"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江文祺",
+                            "birth": "0520210",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李家龍",
+                            "birth": "0650712",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "姜運郎",
+                            "birth": "0400410",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳永豪",
+                            "birth": "0480211",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林裕欽",
+                            "birth": "0611103",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉琪熏",
+                            "birth": "0681222",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝見德",
+                            "birth": "0490717",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃貴賢",
+                            "birth": "0690218",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "涂德滄",
+                            "birth": "0550218",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉鴻均",
+                            "birth": "0540525",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林文宏",
+                            "birth": "0440201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉榕德",
+                            "birth": "0451006",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "007",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李文明",
+                            "birth": "0520825",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝慶德",
+                            "birth": "0540410",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邱菊英",
+                            "birth": "0360427",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "008",
+                        "011",
+                        "012"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹招坤",
+                            "birth": "0460916",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范鼎房",
+                            "birth": "0460114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃運德",
+                            "birth": "0540407",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳增堭",
+                            "birth": "0590823",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "彭旻萱",
+                            "birth": "0480607",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐子程",
+                            "birth": "0740118",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅國海",
+                            "birth": "0391129",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "湛炎慶",
+                            "birth": "0481220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳瑞雲",
+                            "birth": "0510425",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝文堂",
+                            "birth": "0461022",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳建華",
+                            "birth": "0691031",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊家樹",
+                            "birth": "0410228",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱德眞",
+                            "birth": "0440901",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃秀滿",
+                            "birth": "0451215",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "012",
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "019"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "孫有明",
+                            "birth": "0481125",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "趙興邦",
+                            "birth": "0530513",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "謝松鳳",
+                            "birth": "0470407",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "周羽心",
+                            "birth": "0770412",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "廖家盛",
+                            "birth": "0510417",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張金隆",
+                            "birth": "0491222",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐毓檀",
+                            "birth": "0550520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "蕭詩蓉",
+                            "birth": "0741011",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李信展",
+                            "birth": "0451205",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林九炲",
+                            "birth": "0380401",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳祁",
+                            "birth": "0420729",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "賴碧雲",
+                            "birth": "0490803",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張淑珍",
+                            "birth": "0641112",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾義維",
+                            "birth": "0500705",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐鴻鵠",
+                            "birth": "0481105",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "003",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉樹生",
+                            "birth": "0450520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾兆良",
+                            "birth": "0350420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張維翰",
+                            "birth": "0800228",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李棋明",
+                            "birth": "0360728",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳日盛",
+                            "birth": "0500221",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "朱啓棠",
+                            "birth": "0490501",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳美英",
+                            "birth": "0430214",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "南投縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉要國",
+                            "birth": "0450505",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐裕逢",
+                            "birth": "0651104",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "05",
+                    "areaName": "第5選舉區",
+                    "lis": [
+                        "008",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭成果",
+                            "birth": "0541225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳國球",
+                            "birth": "0480209",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "莊新妹",
+                            "birth": "0600417",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王玉魁",
+                            "birth": "0511005",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹永煌",
+                            "birth": "0410820",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳國順",
+                            "birth": "0510320",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張滿福",
+                            "birth": "0460603",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳清增",
+                            "birth": "0450929",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳紹祺",
+                            "birth": "0561110",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃順源",
+                            "birth": "0471021",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蕭阿秋",
+                            "birth": "0381120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉泰成",
+                            "birth": "0501031",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邱瑞君",
+                            "birth": "0580804",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "風志雄",
+                            "birth": "0580325",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "戴賢志",
+                            "birth": "0700313",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "003",
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張仲煌",
+                            "birth": "0480729",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐坤榮",
+                            "birth": "0491101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范賢達",
+                            "birth": "0461205",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳烘業",
+                            "birth": "0520108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "謝美春",
+                            "birth": "0671225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "巫志羽",
+                            "birth": "0661107",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江貴熙",
+                            "birth": "0610520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "魏沁渝",
+                            "birth": "0751112",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林文政",
+                            "birth": "0520811",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范發進",
+                            "birth": "0480527",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊謝國",
+                            "birth": "0470816",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "胡錦明",
+                            "birth": "0610602",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭國麟",
+                            "birth": "0460110",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李舜錢",
+                            "birth": "0580304",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭清文",
+                            "birth": "0440503",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "05",
+                    "areaName": "第5選舉區",
+                    "lis": [
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "温智維",
+                            "birth": "0500201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "涂金臺",
+                            "birth": "0561215",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉醇祿",
+                            "birth": "0310113",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林盈富",
+                            "birth": "0511206",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴昌爗",
+                            "birth": "0430822",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "臺北市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江明政",
+                            "birth": "0600114",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐慧珠",
+                            "birth": "0480120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古子峯",
+                            "birth": "0680616",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王文成",
+                            "birth": "0510802",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "臺中市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅時松",
+                            "birth": "0510220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林煒育",
+                            "birth": "0640915",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張玉鳳",
+                            "birth": "0491205",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳家榮",
+                            "birth": "0421016",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "005",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐誌鴻",
+                            "birth": "0481201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳永金",
+                            "birth": "0440112",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃富裕",
+                            "birth": "0520928",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "130"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉新溪",
+                            "birth": "0391024",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古金綱",
+                            "birth": "0410415",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱增雄",
+                            "birth": "0310502",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "賴竹英",
+                            "birth": "0411120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳碧華",
+                            "birth": "0471005",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "臺東縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "古秋雲",
+                            "birth": "0430804",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳承泰",
+                            "birth": "0600918",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古召善",
+                            "birth": "0360407",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳峻毅",
+                            "birth": "0551201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇文正",
+                            "birth": "0640430",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "140"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "栢健薰",
+                            "birth": "0720708",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "巫翔裘",
+                            "birth": "0661026",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔣運添",
+                            "birth": "0420225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳琦芳",
+                            "birth": "0441201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "004",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "楊金蓮",
+                            "birth": "0450905",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林鳳珠",
+                            "birth": "0430105",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃萬福",
+                            "birth": "0571216",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳有凌",
+                            "birth": "0720714",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃文昌",
+                            "birth": "0670727",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張梅蘭",
+                            "birth": "0450510",
+                            "type": "鄉鎮市民代表",
+                            "party": "共和黨",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "廖義勇",
+                            "birth": "0580707",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林文欽",
+                            "birth": "0470908",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳榮華",
+                            "birth": "0580220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "何朝根",
+                            "birth": "0391206",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳裕福",
+                            "birth": "0461118",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "150"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂金城",
+                            "birth": "0500101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張家綸",
+                            "birth": "0881122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "葉曉菁",
+                            "birth": "0610326",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "彭秀珠",
+                            "birth": "0471215",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "廖順和",
+                            "birth": "0490101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉國平",
+                            "birth": "0551216",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉宥興",
+                            "birth": "0551022",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳燕花",
+                            "birth": "0470205",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "湯春蓮",
+                            "birth": "0530910",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃開相",
+                            "birth": "0491124",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱騰森",
+                            "birth": "0490805",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "160"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "魏漢鎮",
+                            "birth": "0471105",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃敏琪",
+                            "birth": "0370907",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃媋蘭",
+                            "birth": "0420605",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林昌元",
+                            "birth": "0460501",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝發汶",
+                            "birth": "0360405",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃進雲",
+                            "birth": "0500908",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉漢廷",
+                            "birth": "0610120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉榮煌",
+                            "birth": "0450603",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉雪梅",
+                            "birth": "0450919",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴炫樺",
+                            "birth": "0610918",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "170"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃威銘",
+                            "birth": "0870903",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉純輝",
+                            "birth": "0460506",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林昭興",
+                            "birth": "0451010",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "盧光明",
+                            "birth": "0620209",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "曾玉琴",
+                            "birth": "0600712",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "何玉珍",
+                            "birth": "0520711",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林文祥",
+                            "birth": "0630818",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "簡義成",
+                            "birth": "0460110",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴哲明",
+                            "birth": "0601225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "柯武宏",
+                            "birth": "0540411",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳道光",
+                            "birth": "0470115",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹民杰",
+                            "birth": "0660520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳榮坤",
+                            "birth": "0461206",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "柯宏憲",
+                            "birth": "0560928",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "苗栗縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "180"
+        }
+    ]
+}

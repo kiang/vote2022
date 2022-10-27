@@ -1,0 +1,481 @@
+{
+    "R": [
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李忠堅",
+                            "birth": "0590222",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曹爾淼",
+                            "birth": "0650925",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳錦泰",
+                            "birth": "0591108",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李哲宇",
+                            "birth": "0740602",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳聖泓",
+                            "birth": "0790523",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳彥錡",
+                            "birth": "0770614",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林紹馨",
+                            "birth": "0620713",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳則汎",
+                            "birth": "0800311",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "楊水英",
+                            "birth": "0500411",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 9,
+                            "home": "連江縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王冠予",
+                            "birth": "0610403",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鄭禮頤",
+                            "birth": "0671106",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林加友",
+                            "birth": "0520225",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹庭語",
+                            "birth": "0760209",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 4,
+                            "home": "基隆市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "王芳瑤",
+                            "birth": "0720306",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王長源",
+                            "birth": "0710212",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "連江縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳飛汎",
+                            "birth": "0790217",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳竑任",
+                            "birth": "0501004",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 2,
+                            "home": "臺南市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林宏豫",
+                            "birth": "0610408",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳彥岑",
+                            "birth": "0750118",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "史麗彬",
+                            "birth": "0500301",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉秋富",
+                            "birth": "0460321",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曹端陽",
+                            "birth": "0540603",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "王秀金",
+                            "birth": "0440921",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉玉應",
+                            "birth": "0531227",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "連江縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王維德",
+                            "birth": "0611123",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王禮翼",
+                            "birth": "0590302",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳子驎",
+                            "birth": "0730518",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張雪華",
+                            "birth": "0500102",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉家宏",
+                            "birth": "0681013",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉淑娥",
+                            "birth": "0490506",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "連江縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林宇超",
+                            "birth": "0710218",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "連江縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "040"
+        }
+    ]
+}

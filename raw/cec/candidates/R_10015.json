@@ -1,0 +1,3743 @@
+{
+    "R": [
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "009",
+                        "010",
+                        "017",
+                        "018",
+                        "025",
+                        "026",
+                        "033",
+                        "045"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃達祥",
+                            "birth": "0621106",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔣邦法",
+                            "birth": "0440701",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡翼陽",
+                            "birth": "0800923",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "謝宜萱",
+                            "birth": "0741103",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "019",
+                        "027",
+                        "034",
+                        "035"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊哲灃",
+                            "birth": "0840807",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "004",
+                        "005",
+                        "006",
+                        "012",
+                        "013",
+                        "014",
+                        "020",
+                        "021",
+                        "028",
+                        "029",
+                        "036",
+                        "037",
+                        "042"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許願神",
+                            "birth": "0430612",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "歐彥志",
+                            "birth": "0770909",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "魏鈺晟",
+                            "birth": "0760303",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "江如玲",
+                            "birth": "0540219",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "潘文賢",
+                            "birth": "0480330",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "江奉宜",
+                            "birth": "0571130",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "015",
+                        "016",
+                        "022",
+                        "023",
+                        "024",
+                        "030",
+                        "031",
+                        "032",
+                        "038",
+                        "039",
+                        "040",
+                        "041",
+                        "043",
+                        "044"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂啓明",
+                            "birth": "0610716",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃瑞文",
+                            "birth": "0610825",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳惠卿",
+                            "birth": "0551226",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "田珍綺",
+                            "birth": "0690910",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林百瑞",
+                            "birth": "0511024",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "娃娃．攸攸 Wawa．Yuyuh",
+                            "birth": "0621004",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李振瑋",
+                            "birth": "0730918",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游政霖",
+                            "birth": "0790426",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "莊依婕",
+                            "birth": "0691113",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 9,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "05",
+                    "areaName": "第5選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "012",
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "019",
+                        "020",
+                        "021",
+                        "022",
+                        "023",
+                        "024",
+                        "025",
+                        "026",
+                        "027",
+                        "028",
+                        "029",
+                        "030",
+                        "031",
+                        "032",
+                        "033",
+                        "034",
+                        "035",
+                        "036",
+                        "037",
+                        "038",
+                        "039",
+                        "040",
+                        "041",
+                        "042",
+                        "043",
+                        "044",
+                        "045"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林錦生",
+                            "birth": "0541115",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "平島•部定",
+                            "birth": "0551030",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蕭民隆",
+                            "birth": "0400219",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第5選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "謝主羚",
+                            "birth": "0811104",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "石明俊",
+                            "birth": "0381025",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林冠宏",
+                            "birth": "0710324",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "郭岳霖",
+                            "birth": "0781119",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林子齊",
+                            "birth": "0840424",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "翁林瑞蘭",
+                            "birth": "0490512",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐登縣",
+                            "birth": "0530107",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "韓修義",
+                            "birth": "0640916",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃靜珠",
+                            "birth": "0540915",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹清忠",
+                            "birth": "0460224",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 9,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江慶裕",
+                            "birth": "0580930",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳明龍",
+                            "birth": "0540225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳徐素美",
+                            "birth": "0320509",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 12,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "008",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "馮文光",
+                            "birth": "0370116",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許朝輝",
+                            "birth": "0390402",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "龍春文",
+                            "birth": "0440127",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "011",
+                        "012"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉喜湘",
+                            "birth": "0401028",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周清豪",
+                            "birth": "0641127",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "連金福",
+                            "birth": "0550129",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃新德 Amid‧ ˆApak",
+                            "birth": "0510729",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "014",
+                        "015"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳聖義",
+                            "birth": "0570119",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳朝成",
+                            "birth": "0410514",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "嘉義縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳新文",
+                            "birth": "0570711",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張明慧",
+                            "birth": "0590705",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅世泉",
+                            "birth": "0520103",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄧坤明",
+                            "birth": "0441124",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "姜文博",
+                            "birth": "0520430",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐玉珠",
+                            "birth": "0540108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張添富",
+                            "birth": "0470422",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "呂佳怡",
+                            "birth": "0681204",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張一旻",
+                            "birth": "0680925",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "莊笠",
+                            "birth": "0751021",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 12,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "周鑾英",
+                            "birth": "0501030",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "014",
+                        "015"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林大豐",
+                            "birth": "0530720",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林彩英",
+                            "birth": "0520427",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺東縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鄭莉莉",
+                            "birth": "0590911",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳重吉",
+                            "birth": "0600607",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林金和",
+                            "birth": "0510710",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "秀吉‧撒夫洛",
+                            "birth": "0521224",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林錦鴻",
+                            "birth": "0610707",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝德川",
+                            "birth": "0600707",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳金龍",
+                            "birth": "0410520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林國賢",
+                            "birth": "0550226",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "004",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳柏錩",
+                            "birth": "0760109",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀玲",
+                            "birth": "0640228",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鄧可平",
+                            "birth": "0540928",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "傅緯豪",
+                            "birth": "0740119",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "余瑞宏",
+                            "birth": "0631003",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林志盛",
+                            "birth": "0550201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "郭彩寶",
+                            "birth": "0530114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "005",
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李秋男",
+                            "birth": "0660909",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "郭濬森",
+                            "birth": "0760223",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張美華",
+                            "birth": "0530212",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "梁玉華",
+                            "birth": "0490817",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "彰化縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "田金峰",
+                            "birth": "0430712",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王聰山",
+                            "birth": "0370216",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葛秋夫 Di‧Han‧Ulawer‧Panay",
+                            "birth": "0411001",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "呂春美 Iku‧Karang",
+                            "birth": "0490129",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "姜景文",
+                            "birth": "0651016",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉靜文",
+                            "birth": "0600823",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃登科",
+                            "birth": "0450331",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林宗達",
+                            "birth": "0700321",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇文將",
+                            "birth": "0481123",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高德安",
+                            "birth": "0630819",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "温文谷",
+                            "birth": "0540305",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃金發",
+                            "birth": "0460826",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "010",
+                        "011",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭建華",
+                            "birth": "0560205",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邱美雲",
+                            "birth": "0471216",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊進福",
+                            "birth": "0550627",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "臺東縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃松生",
+                            "birth": "0460829",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "楊靖妍",
+                            "birth": "0830323",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹益萬",
+                            "birth": "0630428",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "余震華",
+                            "birth": "0610906",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林志忠 Akiyu Malu",
+                            "birth": "0580117",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳世明",
+                            "birth": "0550717",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許凱彬",
+                            "birth": "0670511",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃水龍",
+                            "birth": "0410116",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鄭美香",
+                            "birth": "0461222",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "諶武成",
+                            "birth": "0450510",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "𡍼寶貴",
+                            "birth": "0440110",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "012"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李錦福",
+                            "birth": "0451022",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張仁俊",
+                            "birth": "0500930",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳靖雯",
+                            "birth": "0591009",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周欽南",
+                            "birth": "0520123",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "014",
+                        "015"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林瑞國",
+                            "birth": "0470911",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "南投縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "015"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "卓阿敏",
+                            "birth": "0510617",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝東穎",
+                            "birth": "0600913",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "房美瑤",
+                            "birth": "0561126",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "馬其山 Lasang Cilu",
+                            "birth": "0481118",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林晨延",
+                            "birth": "0440915",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "011",
+                        "012",
+                        "013",
+                        "014"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王武奇",
+                            "birth": "0461210",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李美瑩",
+                            "birth": "0530627",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林淑清",
+                            "birth": "0571107",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾貴雄",
+                            "birth": "0620721",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "廖翊鈞",
+                            "birth": "0671018",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林泰旭",
+                            "birth": "0510914",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾蔚諮",
+                            "birth": "0640817",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾玉清",
+                            "birth": "0500110",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡智輝",
+                            "birth": "0501202",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳榮豊",
+                            "birth": "0440821",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張惠美",
+                            "birth": "0541122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭萬正Ipay-Kaeti",
+                            "birth": "0510110",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "理新‧哈魯蔚 Lisin‧Haluwey",
+                            "birth": "0731112",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "011",
+                        "012",
+                        "013",
+                        "014"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳輝明",
+                            "birth": "0410617",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "萬榮中",
+                            "birth": "0520629",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊天明",
+                            "birth": "0470720",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "石美智",
+                            "birth": "0550515",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳依臻",
+                            "birth": "0520402",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭金寶Kumod‧Angan",
+                            "birth": "0470225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古方新",
+                            "birth": "0460829",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張仕學",
+                            "birth": "0690305",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳素英",
+                            "birth": "0480616",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "潘禎祥",
+                            "birth": "0610906",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "何俊雄",
+                            "birth": "0630820",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "司玉花 Akiyok‧Sawmah",
+                            "birth": "0550524",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳耀福",
+                            "birth": "0480528",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李威寰",
+                            "birth": "0470217",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉靜芳",
+                            "birth": "0420212",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林健正",
+                            "birth": "0641005",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾順成",
+                            "birth": "0610120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅文騰",
+                            "birth": "0480126",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳國政",
+                            "birth": "0520410",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳志明",
+                            "birth": "0600503",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林佳和",
+                            "birth": "0791022",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃建華",
+                            "birth": "0480712",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鍾明秋",
+                            "birth": "0451210",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳進光",
+                            "birth": "0500815",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林玉梅",
+                            "birth": "0550102",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "009",
+                        "010",
+                        "011"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾湧春",
+                            "birth": "0520302",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴柄佑",
+                            "birth": "0670801",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹金福",
+                            "birth": "0380408",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "余新德",
+                            "birth": "0450102",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀珍",
+                            "birth": "0540212",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "楊秀蘭",
+                            "birth": "0550517",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳源發",
+                            "birth": "0440301",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀蘭",
+                            "birth": "0560917",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐成國 Hane·Gayaw",
+                            "birth": "0520511",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鍾紫韻",
+                            "birth": "0640509",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林夢柔",
+                            "birth": "0780405",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄒文鈞",
+                            "birth": "0720611",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "潘武雄",
+                            "birth": "0320609",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉家鴻",
+                            "birth": "0540711",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蕭文龍",
+                            "birth": "0600927",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "何貴香",
+                            "birth": "0470424",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "簡明志",
+                            "birth": "0360822",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "南投縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "杜金模",
+                            "birth": "0360515",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張信興",
+                            "birth": "0510108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "潘務本 Saw Mah",
+                            "birth": "0550615",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高岳霖",
+                            "birth": "0640728",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺東縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "孫永承",
+                            "birth": "0390618",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "臺東縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "夏義松",
+                            "birth": "0460604",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林義裕 Sigi Mari",
+                            "birth": "0690507",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "白世義",
+                            "birth": "0430910",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "卓明義",
+                            "birth": "0530921",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳實誠 Mincung Sigibu",
+                            "birth": "0530903",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "潘正盈",
+                            "birth": "0540827",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王則元",
+                            "birth": "0700522",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "高毓真",
+                            "birth": "0660129",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "白秀娟",
+                            "birth": "0590623",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "胡瑞祥",
+                            "birth": "0640811",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "拉比馬沙 Labi．Masa",
+                            "birth": "0591122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴俊傑",
+                            "birth": "0690219",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 12,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鍾華玉",
+                            "birth": "0560514",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 13,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "郭新勇",
+                            "birth": "0571022",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 14,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "白靜文",
+                            "birth": "0600902",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 15,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "高維寧 Tapang·Cinsi",
+                            "birth": "0700420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "金云湘",
+                            "birth": "0611114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "巫佳霓",
+                            "birth": "0421029",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "駱燕玲",
+                            "birth": "0631123",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林俊雄",
+                            "birth": "0670401",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游青龍",
+                            "birth": "0610808",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "004",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邱惠英",
+                            "birth": "0640918",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴偉翔",
+                            "birth": "0730904",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺東縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "梁文孝",
+                            "birth": "0620331",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "賴惠美 Masay Lawking",
+                            "birth": "0460816",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "丁麗芳",
+                            "birth": "0720112",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡培火",
+                            "birth": "0430530",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王沈剛竹",
+                            "birth": "0740109",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃福祥",
+                            "birth": "0480903",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林素美",
+                            "birth": "0510725",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅名材 Halu·Lihang",
+                            "birth": "0600519",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉光照",
+                            "birth": "0551204",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "潘元基 Bowxil．Ragu",
+                            "birth": "0520829",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳添煌",
+                            "birth": "0490429",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃憲 Utay．Samaw",
+                            "birth": "0470221",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃坤耀 Lbak．Uking",
+                            "birth": "0711013",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高德亮",
+                            "birth": "0450917",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "賴淑鶯",
+                            "birth": "0571030",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉添順",
+                            "birth": "0480618",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "馬光榮",
+                            "birth": "0590405",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古金榮",
+                            "birth": "0600210",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳群",
+                            "birth": "0660721",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "嚴秋谷",
+                            "birth": "0480621",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江溫和",
+                            "birth": "0510907",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "温德魏",
+                            "birth": "0591121",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹志郎 Takun·Tusang",
+                            "birth": "0560105",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "施鎮村Ｑaisul．Sunavan",
+                            "birth": "0421014",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "蘇貴妹 Kimi‧Yuji",
+                            "birth": "0490106",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "卓孝明",
+                            "birth": "0661019",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張永華",
+                            "birth": "0600814",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高正虎",
+                            "birth": "0481130",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高發財",
+                            "birth": "0470120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林惠婷",
+                            "birth": "0740919",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邱秀英 A bus takisvilainan",
+                            "birth": "0520618",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "臺東縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李桂英 Savi Takisvilainan",
+                            "birth": "0570730",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "花蓮縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "130"
+        }
+    ]
+}

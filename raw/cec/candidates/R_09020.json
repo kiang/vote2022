@@ -1,0 +1,977 @@
+{
+    "R": [
+        {
+            "areas": [
+                {
+                    "areaCode": "00",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃金揚",
+                            "birth": "0491005",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林有進",
+                            "birth": "0570222",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "雲林縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳興德",
+                            "birth": "0530117",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡福春",
+                            "birth": "0530105",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "金門縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "00",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "洪健中",
+                            "birth": "0800705",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝景瑜",
+                            "birth": "0580328",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳家揚",
+                            "birth": "0840715",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "洪雅明",
+                            "birth": "0550606",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀治",
+                            "birth": "0410201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林宜蘭",
+                            "birth": "0640624",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳福全",
+                            "birth": "0510108",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林長耕",
+                            "birth": "0470108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "方駿洋",
+                            "birth": "0560610",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 9,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林長征",
+                            "birth": "0610401",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 10,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡昱軒",
+                            "birth": "0730709",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "金門縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "00",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "006",
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李銘騏",
+                            "birth": "0681228",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳孝融",
+                            "birth": "0801203",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃文欣",
+                            "birth": "0620630",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李俊龍",
+                            "birth": "0651012",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾尚志",
+                            "birth": "0630524",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "辛愛華",
+                            "birth": "0330729",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳尤莉",
+                            "birth": "0600331",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀金",
+                            "birth": "0490728",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "莊振源",
+                            "birth": "0491010",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 9,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊水信",
+                            "birth": "0491101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "翁明惠",
+                            "birth": "0581122",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "金門縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "00",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "008",
+                        "007",
+                        "006",
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李志鴻",
+                            "birth": "0630112",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂錦同",
+                            "birth": "0530301",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林慧君",
+                            "birth": "0720515",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳威彰",
+                            "birth": "0780207",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳淑亭",
+                            "birth": "0750118",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡乃靖",
+                            "birth": "0620814",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李秀華",
+                            "birth": "0470412",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡建偉",
+                            "birth": "0750527",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "洪海水",
+                            "birth": "0600221",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林麗芬",
+                            "birth": "0511218",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張中法",
+                            "birth": "0500530",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林嘉森",
+                            "birth": "0650312",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 12,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀卿",
+                            "birth": "0520502",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 13,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉時榮",
+                            "birth": "0730831",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 14,
+                            "home": "金門縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "00",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "008",
+                        "007",
+                        "006",
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡連進",
+                            "birth": "0510816",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "蔡寶愛",
+                            "birth": "0361102",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張成爵",
+                            "birth": "0520503",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周水土",
+                            "birth": "0400506",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃聰成",
+                            "birth": "0441204",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "何開忠",
+                            "birth": "0520802",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "周欣怡",
+                            "birth": "0700220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃奕焮",
+                            "birth": "0480526",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃秀花",
+                            "birth": "0591006",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "呂寶玉",
+                            "birth": "0471215",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 10,
+                            "home": "金門縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "00",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "008",
+                        "007",
+                        "006",
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "郭永隆",
+                            "birth": "0460415",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "翁沂杰",
+                            "birth": "0631010",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡云豪",
+                            "birth": "0740316",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "蘇碧浯",
+                            "birth": "0451028",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳天成",
+                            "birth": "0361111",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃文麟",
+                            "birth": "0620128",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "汪松威",
+                            "birth": "0760108",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "新北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許燕輝",
+                            "birth": "0670928",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "翁裕凱",
+                            "birth": "0810906",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "新北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳子芸",
+                            "birth": "0600808",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 10,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林金英",
+                            "birth": "0540605",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 11,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "莊嘉銘",
+                            "birth": "0730926",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 12,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡宗儒",
+                            "birth": "0710303",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 13,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡培榮",
+                            "birth": "0740426",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 14,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "倪于媃",
+                            "birth": "0510112",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 15,
+                            "home": "金門縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李錫瑜",
+                            "birth": "0530618",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 16,
+                            "home": "金門縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "010"
+        }
+    ]
+}

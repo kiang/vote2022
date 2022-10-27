@@ -1,0 +1,3809 @@
+{
+    "R": [
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "021",
+                        "027",
+                        "028",
+                        "029",
+                        "030"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "范格菱",
+                            "birth": "0831223",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張美珠",
+                            "birth": "0471101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林祺烜",
+                            "birth": "0491220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳信諭",
+                            "birth": "0750509",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林俊智",
+                            "birth": "0710914",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "戴佩如",
+                            "birth": "0710920",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "范佩瑤",
+                            "birth": "0700823",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張志偉",
+                            "birth": "0730314",
+                            "type": "鄉鎮市民代表",
+                            "party": "綠黨",
+                            "candNo": 8,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭竣志",
+                            "birth": "0750614",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳金湟",
+                            "birth": "0580515",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范光禮",
+                            "birth": "0580219",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "洪瑞瑾",
+                            "birth": "0711124",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 12,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴開隆",
+                            "birth": "0551024",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 13,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳禹同",
+                            "birth": "0750508",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 14,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊朝凱",
+                            "birth": "0680913",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 15,
+                            "home": "臺南市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀玲",
+                            "birth": "0660417",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 16,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林維洲",
+                            "birth": "0490410",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 17,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "曾玉菱",
+                            "birth": "0791113",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 18,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳昭志",
+                            "birth": "0650721",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 19,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林宇洋",
+                            "birth": "0600419",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 20,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "024",
+                        "025",
+                        "026",
+                        "031"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃楷傑",
+                            "birth": "0750312",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "其他"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐水鐘",
+                            "birth": "0430610",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江宥德",
+                            "birth": "0701206",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "游雅婷",
+                            "birth": "0700524",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 4,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "曾美琴",
+                            "birth": "0400228",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭建村",
+                            "birth": "0501113",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾慶煒",
+                            "birth": "0550221",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "雲林縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邵啟月",
+                            "birth": "0880923",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 8,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳意銓",
+                            "birth": "0470701",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林啟賢",
+                            "birth": "0541222",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 10,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "楊瑞蘭",
+                            "birth": "0551230",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 11,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "何宜芯",
+                            "birth": "0760410",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 12,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "湯宏正",
+                            "birth": "0711025",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 13,
+                            "home": "新竹市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "011",
+                        "012",
+                        "022"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉信輝",
+                            "birth": "0630502",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江瑩林",
+                            "birth": "0500405",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭慶源",
+                            "birth": "0560707",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "019",
+                        "020",
+                        "023"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡文苑",
+                            "birth": "0631207",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃俊憲",
+                            "birth": "0711014",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾祐宸",
+                            "birth": "0740121",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "010"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "021"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳芳畇",
+                            "birth": "0521121",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "梁鐘銘",
+                            "birth": "0540706",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蕭雲浪",
+                            "birth": "0400731",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭金賢",
+                            "birth": "0391002",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009",
+                        "010",
+                        "020",
+                        "022",
+                        "024"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳達琳",
+                            "birth": "0450220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳役州",
+                            "birth": "0370514",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉日嘉",
+                            "birth": "0690101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范國威",
+                            "birth": "0650307",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "023",
+                        "025"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "葉姵宇",
+                            "birth": "0540201",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳昌平",
+                            "birth": "0541107",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蕭文甫",
+                            "birth": "0721121",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李秀容",
+                            "birth": "0500720",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴送能",
+                            "birth": "0570808",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉興涼",
+                            "birth": "0461027",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "019"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳俊民",
+                            "birth": "0670129",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "麥美芝",
+                            "birth": "0620110",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳棋鴻",
+                            "birth": "0510816",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳志勇",
+                            "birth": "0570402",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林朝政",
+                            "birth": "0581202",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐呂麗琴",
+                            "birth": "0500407",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "嘉義縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鍾心渝",
+                            "birth": "0631104",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林裙靜",
+                            "birth": "0860419",
+                            "type": "鄉鎮市民代表",
+                            "party": "綠黨",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "004",
+                        "005",
+                        "006",
+                        "007",
+                        "008",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉得宇",
+                            "birth": "0760124",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "姜鳳秋",
+                            "birth": "0500520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林月琴",
+                            "birth": "0620529",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林祺棠",
+                            "birth": "0590120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳賢榮",
+                            "birth": "0410916",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉禎忠",
+                            "birth": "0601203",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄧永勝",
+                            "birth": "0450316",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張源勝",
+                            "birth": "0400731",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉明輝",
+                            "birth": "0621229",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張秀桃",
+                            "birth": "0460203",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "019"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "馮天鍾",
+                            "birth": "0610520",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭成茂",
+                            "birth": "0491025",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范振葵",
+                            "birth": "0431225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "朱文良",
+                            "birth": "0590929",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡錦堂",
+                            "birth": "0480702",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳東勇",
+                            "birth": "0421120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王增基",
+                            "birth": "0501101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "011",
+                        "012",
+                        "013",
+                        "014"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林益賢",
+                            "birth": "0560221",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱炳戊",
+                            "birth": "0500101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳宣蒼",
+                            "birth": "0510704",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "臺北市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004",
+                        "005",
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "邱霈語",
+                            "birth": "0611017",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林東旺",
+                            "birth": "0631130",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾國強",
+                            "birth": "0630914",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張秋竹",
+                            "birth": "0611120",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅仕典",
+                            "birth": "0651008",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳忠國",
+                            "birth": "0600401",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭兆銘",
+                            "birth": "0510301",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹羅燈",
+                            "birth": "0540821",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "008",
+                        "011",
+                        "012",
+                        "019"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅智仁",
+                            "birth": "0720311",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周得熙",
+                            "birth": "0690407",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡睿騰",
+                            "birth": "0750820",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭鋆騏",
+                            "birth": "0710821",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳盛德",
+                            "birth": "0540518",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅吉仁",
+                            "birth": "0630824",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂煥理",
+                            "birth": "0450522",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉來富",
+                            "birth": "0390219",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "009",
+                        "010",
+                        "013",
+                        "020"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉雲凱",
+                            "birth": "0601229",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "連忠進",
+                            "birth": "0480701",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "021"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉文燈",
+                            "birth": "0490428",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃淼霖",
+                            "birth": "0570507",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李常棟",
+                            "birth": "0440316",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范良宇",
+                            "birth": "0550626",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "嚴永海",
+                            "birth": "0590601",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "040"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "004",
+                        "006",
+                        "007",
+                        "017"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張春香",
+                            "birth": "0450305",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "巫光生",
+                            "birth": "0590222",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅國湧",
+                            "birth": "0640823",
+                            "type": "鄉鎮市民代表",
+                            "party": "勞動黨",
+                            "candNo": 3,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳基曜",
+                            "birth": "0571009",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "020"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "袁美雲",
+                            "birth": "0490227",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "羅瑞珠",
+                            "birth": "0410210",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林春峯",
+                            "birth": "0590115",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "嘉義縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鄭家欣",
+                            "birth": "0580905",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "湯文忠",
+                            "birth": "0651011",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "戴貴香",
+                            "birth": "0580409",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉時優",
+                            "birth": "0520412",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳德富",
+                            "birth": "0481028",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "005",
+                        "008",
+                        "009",
+                        "010",
+                        "018"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周德竹",
+                            "birth": "0361031",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古鴻爕",
+                            "birth": "0581203",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新北市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "翁紹軒",
+                            "birth": "0660616",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張衡堂",
+                            "birth": "0450820",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳凱龍",
+                            "birth": "0540116",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "019"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉昌榮",
+                            "birth": "0530123",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "詹益祿",
+                            "birth": "0530906",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "桃園市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "050"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "003",
+                        "005",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范朝生",
+                            "birth": "0380308",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "余冠宏",
+                            "birth": "0660827",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅時乾",
+                            "birth": "0630225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "002",
+                        "004",
+                        "006",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "官進賢",
+                            "birth": "0441114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許家榮",
+                            "birth": "0720307",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "010",
+                        "014",
+                        "015"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林茂青",
+                            "birth": "0480425",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃鴻澄",
+                            "birth": "0410626",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "008",
+                        "011",
+                        "012",
+                        "013",
+                        "016",
+                        "017"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "姜政焜",
+                            "birth": "0691119",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鍾秀菊",
+                            "birth": "0480420",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許錦煙",
+                            "birth": "0600803",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "甘淑娥",
+                            "birth": "0420709",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "田鼎睿",
+                            "birth": "0651112",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉高潔",
+                            "birth": "0700717",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 6,
+                            "home": "新竹市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "060"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "朱乾松",
+                            "birth": "0490920",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴震洲",
+                            "birth": "0620604",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳星宏",
+                            "birth": "0641026",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范振乾",
+                            "birth": "0511208",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉興振",
+                            "birth": "0570718",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃東丸",
+                            "birth": "0591221",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "姜禮銘",
+                            "birth": "0611023",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "009",
+                        "010",
+                        "011",
+                        "012"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭信康",
+                            "birth": "0470109",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉自展",
+                            "birth": "0490115",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林彭玉連",
+                            "birth": "0431007",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉展源",
+                            "birth": "0470104",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "魏賢祥",
+                            "birth": "0610319",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃政宏",
+                            "birth": "0530224",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉名揚",
+                            "birth": "0610702",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "070"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "003",
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古鋓明",
+                            "birth": "0490428",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "韓定勳",
+                            "birth": "0670329",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃維漢",
+                            "birth": "0490318",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐文娟",
+                            "birth": "0530114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "花蓮縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱浩然",
+                            "birth": "0740509",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李麗英",
+                            "birth": "0501222",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭昌智",
+                            "birth": "0470301",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "005",
+                        "009",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "麥瑞鳳",
+                            "birth": "0510120",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "苗栗縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳文亮",
+                            "birth": "0500926",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐洪正",
+                            "birth": "0460717",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許英棋",
+                            "birth": "0440802",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "巫江銘",
+                            "birth": "0430220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張瑞蘭",
+                            "birth": "0531130",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉樹沿",
+                            "birth": "0620627",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅世達",
+                            "birth": "0640430",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "011"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅金城",
+                            "birth": "0541103",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "朱陳源",
+                            "birth": "0641216",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉修汀",
+                            "birth": "0400310",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "007",
+                        "008"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張智傑",
+                            "birth": "0721003",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄒信槿",
+                            "birth": "0580926",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "080"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "002",
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳聲煒",
+                            "birth": "0520923",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳姜玉蘭",
+                            "birth": "0421102",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭孟錫",
+                            "birth": "0460410",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "溫庭枋",
+                            "birth": "0580612",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "003",
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "楊菊枝",
+                            "birth": "0501213",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李亭寬",
+                            "birth": "0650215",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊師昇",
+                            "birth": "0530713",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林秀菊",
+                            "birth": "0621227",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐鏡明",
+                            "birth": "0480913",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林六郎",
+                            "birth": "0340119",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "彭鳳琴",
+                            "birth": "0440815",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李瑞玉",
+                            "birth": "0390926",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "090"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "010"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳秀霞",
+                            "birth": "0441208",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "葉秀桃",
+                            "birth": "0451023",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳賢裕",
+                            "birth": "0490907",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂陳璋",
+                            "birth": "0710519",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林寶全",
+                            "birth": "0560328",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "何孟成",
+                            "birth": "0590405",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林順生",
+                            "birth": "0470706",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾嘉祐",
+                            "birth": "0800624",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 8,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "何時名",
+                            "birth": "0750126",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "屏東縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳昌鈐",
+                            "birth": "0530505",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾文瑜",
+                            "birth": "0630410",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李榮峯",
+                            "birth": "0651028",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳東平",
+                            "birth": "0340731",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾進財",
+                            "birth": "0470220",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "005",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "古仁樺",
+                            "birth": "0470105",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "007",
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇敬豈",
+                            "birth": "0550901",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃秀珠",
+                            "birth": "0511219",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "100"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黎侑昌",
+                            "birth": "0681203",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "王詩樊",
+                            "birth": "0800206",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭添增",
+                            "birth": "0490816",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾正隆",
+                            "birth": "0450825",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐明憲",
+                            "birth": "0390201",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "004",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳美玲",
+                            "birth": "0571207",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "何秋香",
+                            "birth": "0431117",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "温修汝",
+                            "birth": "0591007",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "莊少雀",
+                            "birth": "0480204",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "110"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高忠正",
+                            "birth": "0581031",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許清光",
+                            "birth": "0450909",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳沺宇",
+                            "birth": "0490701",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "004",
+                        "005"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "楊春貴",
+                            "birth": "0480115",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃比德",
+                            "birth": "0600413",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鍾孝順",
+                            "birth": "0441219",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "田仲華",
+                            "birth": "0650212",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐健福",
+                            "birth": "0551202",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾有發",
+                            "birth": "0560724",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾水生",
+                            "birth": "0510716",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "006",
+                        "007"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "温武雄",
+                            "birth": "0550519",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾榮義",
+                            "birth": "0650229",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "佛度布待",
+                            "birth": "0561001",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林愛珍",
+                            "birth": "0660207",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "馬沙巴浪",
+                            "birth": "0600316",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "徐大衛",
+                            "birth": "0561010",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "廖英雄",
+                            "birth": "0500701",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "范中強",
+                            "birth": "0680420",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "120"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林福財",
+                            "birth": "0470604",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林立峰",
+                            "birth": "0601108",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "萬盛雄",
+                            "birth": "0580509",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "趙春玉",
+                            "birth": "0590416",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "004"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張定國",
+                            "birth": "0580101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "凱撒巴燕",
+                            "birth": "0500611",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "秋智勇",
+                            "birth": "0560811",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭武藏",
+                            "birth": "0460620",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "秋美玉",
+                            "birth": "0430510",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾聰源",
+                            "birth": "0620209",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "喇藺·猶命 Laling∙Yumin",
+                            "birth": "0680213",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 7,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳禮正",
+                            "birth": "0470830",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "新竹縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "002",
+                        "003"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游欽誠",
+                            "birth": "0410910",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "桃園市"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "劉欣怡",
+                            "birth": "0650101",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳元彪",
+                            "birth": "0830919",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高詠恩",
+                            "birth": "0740507",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "彭雅各",
+                            "birth": "0551010",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "新竹縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳立達 Laysa∙Taymu",
+                            "birth": "0530223",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "新竹縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "130"
+        }
+    ]
+}

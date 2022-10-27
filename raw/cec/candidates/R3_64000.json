@@ -1,0 +1,588 @@
+{
+    "R3": [
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李義雄",
+                            "birth": "0661116",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周孔義",
+                            "birth": "0530218",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林正萍",
+                            "birth": "0630527",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "臺中市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "翁大勇",
+                            "birth": "0590625",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "徐惠美",
+                            "birth": "0590915",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "盧林秀英",
+                            "birth": "0580220",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "彭孫美雲",
+                            "birth": "0561010",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "高雄市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "柯正漢",
+                            "birth": "0561018",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李惠民",
+                            "birth": "0630310",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "葉銓卿",
+                            "birth": "0710708",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李順德",
+                            "birth": "0700331",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蔡運福 Kanakanavu．Kacopuana．Upa",
+                            "birth": "0590426",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "趙文彬 Umas．Sukluman",
+                            "birth": "0460901",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "高雄市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "380"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "008",
+                        "007",
+                        "006",
+                        "005",
+                        "004",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "呂江玉英",
+                            "birth": "0570331",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "顏莉華",
+                            "birth": "0641120",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張明雄",
+                            "birth": "0491028",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "高清源Talum·Takiludun",
+                            "birth": "0480822",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "石永貴",
+                            "birth": "0581221",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "余金鐘",
+                            "birth": "0461103",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "顏金得",
+                            "birth": "0440227",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王正國",
+                            "birth": "0531004",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "謝翠華",
+                            "birth": "0651023",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "蘇國定",
+                            "birth": "0570327",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 10,
+                            "home": "高雄市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "003",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張瑞雄Tahai·Balavian",
+                            "birth": "0630929",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳啟明",
+                            "birth": "0600214",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳英敏",
+                            "birth": "0450725",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳武松",
+                            "birth": "0530501",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "顏清順",
+                            "birth": "0620606",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "370"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "003",
+                        "002"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林惠娟",
+                            "birth": "0640519",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "江魯金雲 Malereleve‧Maabaivi",
+                            "birth": "0641004",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "屏東縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "孫佩馨",
+                            "birth": "0750103",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "屏東縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "巫榮輝",
+                            "birth": "0620311",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "鄭善雄 Wvake‧Larangae",
+                            "birth": "0460609",
+                            "type": "原住民區民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "金泰華",
+                            "birth": "0510124",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "藍建雄",
+                            "birth": "0640205",
+                            "type": "原住民區民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "高雄市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "江世平",
+                            "birth": "0610925",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "詹淑靜 Arui‧Kadrava",
+                            "birth": "0570129",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳奕蓁",
+                            "birth": "0600513",
+                            "type": "原住民區民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "高雄市"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "謝曉俊",
+                            "birth": "0591012",
+                            "type": "原住民區民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "高雄市"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "360"
+        }
+    ]
+}
