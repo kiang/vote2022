@@ -19,7 +19,7 @@ foreach ($cities['objects']['city']['geometries'] as $city) {
         $file3 = $cecCandidatePath . '/T' . $city['properties']['COUNTYCODE'] . '.json';
         $c = file_get_contents('https://2022.cec.gov.tw/data/json/cand/T/' . $city['properties']['COUNTYCODE'] . '.json');
         if (!empty($c)) {
-            file_put_contents($file1, json_encode(json_decode($c), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+            file_put_contents($file3, json_encode(json_decode($c), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
         }
     }
 
