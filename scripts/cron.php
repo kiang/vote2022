@@ -6,6 +6,7 @@ $now = date('Y-m-d H:i:s');
 exec("cd {$rootPath} && /usr/bin/git pull");
 
 exec("php -q {$rootPath}/sunshine.php");
+exec("php -q {$rootPath}/cec.php");
 
 exec("cd {$rootPath} && /usr/bin/git add -A");
 
