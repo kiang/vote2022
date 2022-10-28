@@ -90,9 +90,9 @@ foreach ($pool as $key => $d1) {
                                     break;
                             }
                         }
-                        fputs($oFh, json_encode($cecProfile, JSON_UNESCAPED_UNICODE));
+                        fputs($oFh, json_encode($cecProfile, JSON_UNESCAPED_UNICODE) . "\n");
                     } else {
-                        fputs($oFhMissing, json_encode($cecProfile, JSON_UNESCAPED_UNICODE));
+                        fputs($oFhMissing, json_encode($cecProfile, JSON_UNESCAPED_UNICODE) . "\n");
                     }
                 } elseif (isset($cecProfile['cands'])) {
                     foreach ($cecProfile['cands'] as $cand) {
@@ -100,10 +100,10 @@ foreach ($pool as $key => $d1) {
                             if (count($d1[$cand['name']]) === 1) {
                                 $cand['election_id'] = $d1[$cand['name']][0]['election_id'];
                                 $cand['election'] = $d1[$cand['name']][0]['election'];
-                                fputs($oFh, json_encode($cand, JSON_UNESCAPED_UNICODE));
+                                fputs($oFh, json_encode($cand, JSON_UNESCAPED_UNICODE) . "\n");
                             }
                         } else {
-                            fputs($oFhMissing, json_encode($cand, JSON_UNESCAPED_UNICODE));
+                            fputs($oFhMissing, json_encode($cand, JSON_UNESCAPED_UNICODE) . "\n");
                         }
                     }
                 } elseif (isset($cecProfile['areas'])) {
@@ -113,18 +113,18 @@ foreach ($pool as $key => $d1) {
                                 if (count($d1[$cand['name']]) === 1) {
                                     $cand['election_id'] = $d1[$cand['name']][0]['election_id'];
                                     $cand['election'] = $d1[$cand['name']][0]['election'];
-                                    fputs($oFh, json_encode($cand, JSON_UNESCAPED_UNICODE));
+                                    fputs($oFh, json_encode($cand, JSON_UNESCAPED_UNICODE) . "\n");
                                 } else {
                                     foreach ($d1[$cand['name']] as $dCand) {
                                         if (false !== strpos($dCand['area'], $cand['area'])) {
                                             $cand['election_id'] = $dCand['election_id'];
                                             $cand['election'] = $dCand['election'];
-                                            fputs($oFh, json_encode($cand, JSON_UNESCAPED_UNICODE));
+                                            fputs($oFh, json_encode($cand, JSON_UNESCAPED_UNICODE) . "\n");
                                         }
                                     }
                                 }
                             } else {
-                                fputs($oFhMissing, json_encode($cand, JSON_UNESCAPED_UNICODE));
+                                fputs($oFhMissing, json_encode($cand, JSON_UNESCAPED_UNICODE) . "\n");
                             }
                         }
                     }
