@@ -1,3 +1,549 @@
 {
-    "T": []
+    "T": [
+        {
+            "areaCode": "01",
+            "numberElected": 11,
+            "areaName": "澎湖縣第1選舉區",
+            "lis": [
+                "010003",
+                "010004",
+                "010005",
+                "010006",
+                "010007",
+                "010008",
+                "010009",
+                "010010",
+                "010011",
+                "010012",
+                "010013",
+                "010014",
+                "010015",
+                "010016",
+                "010017",
+                "010018",
+                "010019",
+                "010020",
+                "010021",
+                "010022",
+                "010023",
+                "010024",
+                "010025",
+                "010026",
+                "010027",
+                "010028",
+                "010029",
+                "010030",
+                "010031",
+                "010032",
+                "010033",
+                "010034"
+            ],
+            "voterType": "01",
+            "depts": [
+                "010"
+            ],
+            "cands": [
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000011.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "許智富",
+                    "birth": "0681002",
+                    "type": "議員",
+                    "party": "台灣民眾黨",
+                    "candNo": 1,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000012.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "陳海山",
+                    "birth": "0391110",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000013.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "陳毓仁",
+                    "birth": "0780310",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 3,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000014.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "呂光宇",
+                    "birth": "0400619",
+                    "type": "議員",
+                    "party": "中國國民黨",
+                    "candNo": 4,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000015.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "林建勳",
+                    "birth": "0761217",
+                    "type": "議員",
+                    "party": "中國國民黨",
+                    "candNo": 5,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000016.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "呂黃春金",
+                    "birth": "0490711",
+                    "type": "議員",
+                    "party": "民主進步黨",
+                    "candNo": 6,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000017.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "陳文謙",
+                    "birth": "0670614",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 7,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000018.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "藍凱元",
+                    "birth": "0650823",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 8,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000019.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "張再興",
+                    "birth": "0410330",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 9,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000110.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "歐中",
+                    "birth": "0471010",
+                    "type": "議員",
+                    "party": "中國國民黨",
+                    "candNo": 10,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000111.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "胡松榮",
+                    "birth": "0351001",
+                    "type": "議員",
+                    "party": "無黨團結聯盟",
+                    "candNo": 11,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000112.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "劉陳昭玲",
+                    "birth": "0450618",
+                    "type": "議員",
+                    "party": "中國國民黨",
+                    "candNo": 12,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000113.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "蘇育德",
+                    "birth": "0750115",
+                    "type": "議員",
+                    "party": "民主進步黨",
+                    "candNo": 13,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000114.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "盧長在",
+                    "birth": "0520422",
+                    "type": "議員",
+                    "party": "民主進步黨",
+                    "candNo": 14,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000115.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "歐修智",
+                    "birth": "0531026",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 15,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000116.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "莊光大",
+                    "birth": "0570407",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 16,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000117.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "蘇陳綉色",
+                    "birth": "0460404",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 17,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第1選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/100160000000118.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "許國政",
+                    "birth": "0540321",
+                    "type": "議員",
+                    "party": "中國國民黨",
+                    "candNo": 18,
+                    "home": "澎湖縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "02",
+            "numberElected": 3,
+            "areaName": "澎湖縣第2選舉區",
+            "lis": [
+                "020002",
+                "020003",
+                "020004",
+                "020005",
+                "020006",
+                "020007",
+                "020008",
+                "020009",
+                "020010",
+                "020011",
+                "020012",
+                "020013",
+                "020014",
+                "020015",
+                "020016",
+                "020017",
+                "020018",
+                "020019",
+                "020020",
+                "020021",
+                "020022"
+            ],
+            "voterType": "01",
+            "depts": [
+                "020"
+            ],
+            "cands": [
+                {
+                    "area": "澎湖縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000021.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "許育愷",
+                    "birth": "0540526",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000022.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "蔡清續",
+                    "birth": "0460920",
+                    "type": "議員",
+                    "party": "民主進步黨",
+                    "candNo": 2,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000023.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "吳政杰",
+                    "birth": "0561129",
+                    "type": "議員",
+                    "party": "中國國民黨",
+                    "candNo": 3,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第2選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000024.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "廖璟華",
+                    "birth": "0560828",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 4,
+                    "home": "雲林縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "03",
+            "numberElected": 2,
+            "areaName": "澎湖縣第3選舉區",
+            "lis": [
+                "030002",
+                "030003",
+                "030004",
+                "030005",
+                "030006",
+                "030007",
+                "030008",
+                "030009",
+                "030010",
+                "030011",
+                "030012",
+                "030013",
+                "030014",
+                "030015"
+            ],
+            "voterType": "01",
+            "depts": [
+                "030"
+            ],
+            "cands": [
+                {
+                    "area": "澎湖縣第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000031.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "魏睿宏",
+                    "birth": "0681013",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第3選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000032.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "宋昀芝",
+                    "birth": "0750619",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "澎湖縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "04",
+            "numberElected": 1,
+            "areaName": "澎湖縣第4選舉區",
+            "lis": [
+                "040002",
+                "040003",
+                "040004",
+                "040005",
+                "040006",
+                "040007",
+                "040008",
+                "040009",
+                "040010",
+                "040011"
+            ],
+            "voterType": "01",
+            "depts": [
+                "040"
+            ],
+            "cands": [
+                {
+                    "area": "澎湖縣第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000041.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "薛雲鴻",
+                    "birth": "0510910",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "澎湖縣"
+                },
+                {
+                    "area": "澎湖縣第4選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000042.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "許月里",
+                    "birth": "0421004",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "澎湖縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "05",
+            "numberElected": 1,
+            "areaName": "澎湖縣第5選舉區",
+            "lis": [
+                "050002",
+                "050003",
+                "050004",
+                "050005",
+                "050006",
+                "050007",
+                "050008",
+                "050009"
+            ],
+            "voterType": "01",
+            "depts": [
+                "050"
+            ],
+            "cands": [
+                {
+                    "area": "澎湖縣第5選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000051.jpg",
+                    "gender": "女",
+                    "victor": false,
+                    "name": "陳佩真",
+                    "birth": "0720524",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "澎湖縣"
+                }
+            ]
+        },
+        {
+            "areaCode": "06",
+            "numberElected": 1,
+            "areaName": "澎湖縣第6選舉區",
+            "lis": [
+                "060002",
+                "060003",
+                "060004",
+                "060005",
+                "060006"
+            ],
+            "voterType": "01",
+            "depts": [
+                "060"
+            ],
+            "cands": [
+                {
+                    "area": "澎湖縣第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000061.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "夏晨榮",
+                    "birth": "0490106",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 1,
+                    "home": "高雄市"
+                },
+                {
+                    "area": "澎湖縣第6選舉區",
+                    "politics": "",
+                    "img": "\/json\/portrait\/cand\/T\/10016\/10016000000062.jpg",
+                    "gender": "男",
+                    "victor": false,
+                    "name": "張仁和",
+                    "birth": "0531011",
+                    "type": "議員",
+                    "party": "無",
+                    "candNo": 2,
+                    "home": "澎湖縣"
+                }
+            ]
+        }
+    ]
 }
