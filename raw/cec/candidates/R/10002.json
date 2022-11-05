@@ -6,1010 +6,204 @@
                     "areaCode": "01",
                     "areaName": "第1選舉區",
                     "lis": [
-                        "035",
-                        "036",
-                        "037",
-                        "038",
-                        "039",
-                        "040",
-                        "043",
-                        "044"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "陳姿吟",
-                            "birth": "0840303",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "羅漢民",
-                            "birth": "0540323",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林承蔡",
-                            "birth": "0561204",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "黃靖婷",
-                            "birth": "0760527",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 4,
-                            "home": "臺北市"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "吳則成",
-                            "birth": "0670614",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "陳志鴻",
-                            "birth": "0650620",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "郭燈和",
-                            "birth": "0460303",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 7,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "游國良",
-                            "birth": "0680817",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 8,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "陳雅婷",
-                            "birth": "0790902",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 9,
-                            "home": "臺北市"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "02",
-                    "areaName": "第2選舉區",
-                    "lis": [
-                        "001",
-                        "002",
-                        "008",
-                        "009",
-                        "010",
-                        "011",
-                        "012",
-                        "018",
-                        "045",
-                        "047"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "余雨昇",
-                            "birth": "0770113",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "林雨蒼",
-                            "birth": "0731216",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "吳建基",
-                            "birth": "0510523",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林育森",
-                            "birth": "0620315",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林飛身",
-                            "birth": "0540829",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "03",
-                    "areaName": "第3選舉區",
-                    "lis": [
-                        "013",
-                        "014",
-                        "015",
-                        "016",
-                        "017",
-                        "019",
-                        "021",
-                        "022",
-                        "023",
-                        "041",
-                        "042",
-                        "046"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "李孟潔",
-                            "birth": "0520713",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "唐正忠",
-                            "birth": "0690911",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "連聖懷",
-                            "birth": "0780227",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "王阿水",
-                            "birth": "0350924",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "李惠玲",
-                            "birth": "0560820",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "官芙爭",
-                            "birth": "0530128",
-                            "type": "鄉鎮市民代表",
-                            "party": "台灣民眾黨",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林柏男",
-                            "birth": "0541231",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 7,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "鄭吳阿霞",
-                            "birth": "0470901",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 8,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "04",
-                    "areaName": "第4選舉區",
-                    "lis": [
-                        "024",
-                        "025",
-                        "026",
-                        "027",
-                        "028",
-                        "031",
-                        "032",
-                        "034"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林智勇",
-                            "birth": "0630330",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "李嘉軒",
-                            "birth": "0740211",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林泳和",
-                            "birth": "0461109",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "黃議賢",
-                            "birth": "0690605",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "呂柏凱",
-                            "birth": "0780528",
-                            "type": "鄉鎮市民代表",
-                            "party": "時代力量",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "康思源",
-                            "birth": "0630526",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                }
-            ],
-            "deptCode": "010"
-        },
-        {
-            "areas": [
-                {
-                    "areaCode": "01",
-                    "areaName": "第1選舉區",
-                    "lis": [
-                        "004",
                         "005",
-                        "006",
-                        "028"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "黃泰坤",
-                            "birth": "0380923",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "廖惠麗",
-                            "birth": "0530721",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "李錫欽",
-                            "birth": "0390815",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "02",
-                    "areaName": "第2選舉區",
-                    "lis": [
-                        "007",
-                        "008",
-                        "009",
-                        "010",
-                        "011",
-                        "030"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "何建東",
-                            "birth": "0581215",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "林碧霞",
-                            "birth": "0470710",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林聰文",
-                            "birth": "0451206",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "03",
-                    "areaName": "第3選舉區",
-                    "lis": [
-                        "016",
-                        "017",
-                        "018",
-                        "026",
-                        "027",
-                        "029"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "劉世鵬",
-                            "birth": "0760222",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "張蕙蘭",
-                            "birth": "0610314",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "曹喜斌",
-                            "birth": "0740706",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "莊漢源",
-                            "birth": "0551003",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "陳定霖",
-                            "birth": "0810429",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "黃偉",
-                            "birth": "0680407",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "陳章琳",
-                            "birth": "0480225",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 7,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "許馨尹",
-                            "birth": "0630519",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 8,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "張榮華",
-                            "birth": "0411130",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 9,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "04",
-                    "areaName": "第4選舉區",
-                    "lis": [
-                        "019",
-                        "020",
-                        "021",
-                        "022",
-                        "023",
-                        "024",
-                        "025"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "林美滿",
-                            "birth": "0460303",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "簡鳴佐",
-                            "birth": "0680220",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "許弘興",
-                            "birth": "0650130",
-                            "type": "鄉鎮市民代表",
-                            "party": "台灣民眾黨",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "曾威澤",
-                            "birth": "0811214",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "劉承賓",
-                            "birth": "0570929",
-                            "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "游本全",
-                            "birth": "0420417",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "邱文生",
-                            "birth": "0590117",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 7,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "陳震宇",
-                            "birth": "0640107",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 8,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                }
-            ],
-            "deptCode": "020"
-        },
-        {
-            "areas": [
-                {
-                    "areaCode": "01",
-                    "areaName": "第1選舉區",
-                    "lis": [
-                        "024",
-                        "025",
-                        "026"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "吳玉龍",
-                            "birth": "0530624",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第1選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "林永寶",
-                            "birth": "0490214",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "02",
-                    "areaName": "第2選舉區",
-                    "lis": [
-                        "018",
-                        "019",
-                        "020",
-                        "021",
-                        "022",
-                        "023"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "曾太山",
-                            "birth": "0481117",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "方智彥",
-                            "birth": "0680829",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "胡建中",
-                            "birth": "0691030",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第2選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "趙育璿",
-                            "birth": "0590826",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "03",
-                    "areaName": "第3選舉區",
-                    "lis": [
-                        "009",
-                        "010",
-                        "011",
-                        "012",
-                        "013",
-                        "014",
-                        "015",
-                        "016",
-                        "017",
-                        "027"
-                    ],
-                    "cands": [
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "張美皇",
-                            "birth": "0390801",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 1,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "陳俊良",
-                            "birth": "0620418",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 2,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "黃士駿",
-                            "birth": "0670430",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 3,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "歐進義",
-                            "birth": "0500318",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "曾壹靖",
-                            "birth": "0660929",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第3選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "賴金河",
-                            "birth": "0490518",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        }
-                    ]
-                },
-                {
-                    "areaCode": "04",
-                    "areaName": "第4選舉區",
-                    "lis": [
-                        "001",
-                        "002",
+                        "004",
                         "003",
-                        "004",
-                        "005",
+                        "002",
+                        "001",
+                        "006"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "周讚斌",
+                            "birth": "0471115",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃奎翰",
+                            "birth": "0710921",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "藍信惠",
+                            "birth": "0331016",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林福山",
+                            "birth": "0561018",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游見璋",
+                            "birth": "0560508",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張素雲",
+                            "birth": "0560711",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
                         "007",
-                        "008"
+                        "008",
+                        "009"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林森枝",
+                            "birth": "0510405",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林志成",
+                            "birth": "0590925",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林漢民",
+                            "birth": "0490811",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "010",
+                        "011",
+                        "012",
+                        "013"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游旻峰",
+                            "birth": "0550916",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳政展",
+                            "birth": "0810114",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳錫祺",
+                            "birth": "0500616",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "015",
+                        "016",
+                        "017",
+                        "018",
+                        "014"
                     ],
                     "cands": [
                         {
@@ -1018,8 +212,8 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "王明輝",
-                            "birth": "0450512",
+                            "name": "張景程",
+                            "birth": "0580315",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 1,
@@ -1029,12 +223,12 @@
                             "area": "第4選舉區",
                             "politics": "",
                             "img": "",
-                            "gender": "女",
+                            "gender": "男",
                             "victor": false,
-                            "name": "陳映蓉",
-                            "birth": "0600418",
+                            "name": "莊漢銘",
+                            "birth": "0580617",
                             "type": "鄉鎮市民代表",
-                            "party": "無",
+                            "party": "中國國民黨",
                             "candNo": 2,
                             "home": "宜蘭縣"
                         },
@@ -1042,10 +236,10 @@
                             "area": "第4選舉區",
                             "politics": "",
                             "img": "",
-                            "gender": "女",
+                            "gender": "男",
                             "victor": false,
-                            "name": "李婉萍",
-                            "birth": "0761029",
+                            "name": "黃曜維",
+                            "birth": "0651111",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 3,
@@ -1057,56 +251,17 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "林森豪",
-                            "birth": "0490626",
+                            "name": "李竹村",
+                            "birth": "0400905",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 4,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "陳志明",
-                            "birth": "0450105",
-                            "type": "鄉鎮市民代表",
-                            "party": "民主進步黨",
-                            "candNo": 5,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "女",
-                            "victor": false,
-                            "name": "吳淑貞",
-                            "birth": "0581010",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 6,
-                            "home": "宜蘭縣"
-                        },
-                        {
-                            "area": "第4選舉區",
-                            "politics": "",
-                            "img": "",
-                            "gender": "男",
-                            "victor": false,
-                            "name": "王明義",
-                            "birth": "0430622",
-                            "type": "鄉鎮市民代表",
-                            "party": "無",
-                            "candNo": 7,
                             "home": "宜蘭縣"
                         }
                     ]
                 }
             ],
-            "deptCode": "030"
+            "deptCode": "050"
         },
         {
             "areas": [
@@ -1114,13 +269,13 @@
                     "areaCode": "01",
                     "areaName": "第1選舉區",
                     "lis": [
-                        "017",
-                        "018",
-                        "019",
-                        "020",
-                        "021",
+                        "023",
                         "022",
-                        "023"
+                        "021",
+                        "020",
+                        "019",
+                        "018",
+                        "017"
                     ],
                     "cands": [
                         {
@@ -1363,13 +518,13 @@
                     "areaCode": "04",
                     "areaName": "第4選舉區",
                     "lis": [
-                        "001",
-                        "002",
-                        "003",
-                        "004",
-                        "005",
+                        "024",
                         "006",
-                        "024"
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
                     ],
                     "cands": [
                         {
@@ -1448,12 +603,9 @@
                     "areaCode": "01",
                     "areaName": "第1選舉區",
                     "lis": [
-                        "001",
-                        "002",
-                        "003",
-                        "004",
-                        "005",
-                        "006"
+                        "026",
+                        "025",
+                        "024"
                     ],
                     "cands": [
                         {
@@ -1462,8 +614,8 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "周讚斌",
-                            "birth": "0471115",
+                            "name": "吳玉龍",
+                            "birth": "0530624",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 1,
@@ -1475,50 +627,309 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "黃奎翰",
-                            "birth": "0710921",
+                            "name": "林永寶",
+                            "birth": "0490214",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 2,
-                            "home": "臺北市"
-                        },
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "018",
+                        "019",
+                        "020",
+                        "021",
+                        "022",
+                        "023"
+                    ],
+                    "cands": [
                         {
-                            "area": "第1選舉區",
+                            "area": "第2選舉區",
                             "politics": "",
                             "img": "",
-                            "gender": "女",
+                            "gender": "男",
                             "victor": false,
-                            "name": "藍信惠",
-                            "birth": "0331016",
+                            "name": "曾太山",
+                            "birth": "0481117",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "方智彥",
+                            "birth": "0680829",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "胡建中",
+                            "birth": "0691030",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 3,
                             "home": "宜蘭縣"
                         },
                         {
-                            "area": "第1選舉區",
+                            "area": "第2選舉區",
                             "politics": "",
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "林福山",
-                            "birth": "0561018",
+                            "name": "趙育璿",
+                            "birth": "0590826",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "009",
+                        "010",
+                        "011",
+                        "012",
+                        "013",
+                        "014",
+                        "015",
+                        "016",
+                        "017",
+                        "027"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "張美皇",
+                            "birth": "0390801",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳俊良",
+                            "birth": "0620418",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃士駿",
+                            "birth": "0670430",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "歐進義",
+                            "birth": "0500318",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾壹靖",
+                            "birth": "0660929",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "賴金河",
+                            "birth": "0490518",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "008",
+                        "007",
+                        "005",
+                        "004",
+                        "003",
+                        "002",
+                        "001"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王明輝",
+                            "birth": "0450512",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳映蓉",
+                            "birth": "0600418",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李婉萍",
+                            "birth": "0761029",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林森豪",
+                            "birth": "0490626",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 4,
                             "home": "宜蘭縣"
                         },
                         {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳志明",
+                            "birth": "0450105",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "吳淑貞",
+                            "birth": "0581010",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王明義",
+                            "birth": "0430622",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "030"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "028",
+                        "006",
+                        "005",
+                        "004"
+                    ],
+                    "cands": [
+                        {
                             "area": "第1選舉區",
                             "politics": "",
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "游見璋",
-                            "birth": "0560508",
+                            "name": "黃泰坤",
+                            "birth": "0380923",
                             "type": "鄉鎮市民代表",
                             "party": "中國國民黨",
-                            "candNo": 5,
+                            "candNo": 1,
                             "home": "宜蘭縣"
                         },
                         {
@@ -1527,11 +938,24 @@
                             "img": "",
                             "gender": "女",
                             "victor": false,
-                            "name": "張素雲",
-                            "birth": "0560711",
+                            "name": "廖惠麗",
+                            "birth": "0530721",
                             "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
-                            "candNo": 6,
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "李錫欽",
+                            "birth": "0390815",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 3,
                             "home": "宜蘭縣"
                         }
                     ]
@@ -1542,7 +966,10 @@
                     "lis": [
                         "007",
                         "008",
-                        "009"
+                        "009",
+                        "010",
+                        "011",
+                        "030"
                     ],
                     "cands": [
                         {
@@ -1551,10 +978,10 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "林森枝",
-                            "birth": "0510405",
+                            "name": "何建東",
+                            "birth": "0581215",
                             "type": "鄉鎮市民代表",
-                            "party": "無",
+                            "party": "中國國民黨",
                             "candNo": 1,
                             "home": "宜蘭縣"
                         },
@@ -1562,10 +989,10 @@
                             "area": "第2選舉區",
                             "politics": "",
                             "img": "",
-                            "gender": "男",
+                            "gender": "女",
                             "victor": false,
-                            "name": "林志成",
-                            "birth": "0590925",
+                            "name": "林碧霞",
+                            "birth": "0470710",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 2,
@@ -1577,10 +1004,10 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "林漢民",
-                            "birth": "0490811",
+                            "name": "林聰文",
+                            "birth": "0451206",
                             "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
+                            "party": "無",
                             "candNo": 3,
                             "home": "宜蘭縣"
                         }
@@ -1590,10 +1017,12 @@
                     "areaCode": "03",
                     "areaName": "第3選舉區",
                     "lis": [
-                        "010",
-                        "011",
-                        "012",
-                        "013"
+                        "016",
+                        "017",
+                        "018",
+                        "026",
+                        "027",
+                        "029"
                     ],
                     "cands": [
                         {
@@ -1602,8 +1031,8 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "游旻峰",
-                            "birth": "0550916",
+                            "name": "劉世鵬",
+                            "birth": "0760222",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 1,
@@ -1613,12 +1042,12 @@
                             "area": "第3選舉區",
                             "politics": "",
                             "img": "",
-                            "gender": "男",
+                            "gender": "女",
                             "victor": false,
-                            "name": "吳政展",
-                            "birth": "0810114",
+                            "name": "張蕙蘭",
+                            "birth": "0610314",
                             "type": "鄉鎮市民代表",
-                            "party": "無",
+                            "party": "民主進步黨",
                             "candNo": 2,
                             "home": "宜蘭縣"
                         },
@@ -1628,11 +1057,89 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "吳錫祺",
-                            "birth": "0500616",
+                            "name": "曹喜斌",
+                            "birth": "0740706",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "莊漢源",
+                            "birth": "0551003",
                             "type": "鄉鎮市民代表",
                             "party": "中國國民黨",
-                            "candNo": 3,
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳定霖",
+                            "birth": "0810429",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "黃偉",
+                            "birth": "0680407",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳章琳",
+                            "birth": "0480225",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "許馨尹",
+                            "birth": "0630519",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "張榮華",
+                            "birth": "0411130",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
                             "home": "宜蘭縣"
                         }
                     ]
@@ -1641,11 +1148,478 @@
                     "areaCode": "04",
                     "areaName": "第4選舉區",
                     "lis": [
+                        "025",
+                        "024",
+                        "023",
+                        "022",
+                        "021",
+                        "020",
+                        "019"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林美滿",
+                            "birth": "0460303",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "簡鳴佐",
+                            "birth": "0680220",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "許弘興",
+                            "birth": "0650130",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "曾威澤",
+                            "birth": "0811214",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "劉承賓",
+                            "birth": "0570929",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游本全",
+                            "birth": "0420417",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "邱文生",
+                            "birth": "0590117",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳震宇",
+                            "birth": "0640107",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 8,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                }
+            ],
+            "deptCode": "020"
+        },
+        {
+            "areas": [
+                {
+                    "areaCode": "01",
+                    "areaName": "第1選舉區",
+                    "lis": [
+                        "044",
+                        "043",
+                        "040",
+                        "039",
+                        "038",
+                        "037",
+                        "036",
+                        "035"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳姿吟",
+                            "birth": "0840303",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "羅漢民",
+                            "birth": "0540323",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林承蔡",
+                            "birth": "0561204",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "黃靖婷",
+                            "birth": "0760527",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "臺北市"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳則成",
+                            "birth": "0670614",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "陳志鴻",
+                            "birth": "0650620",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "郭燈和",
+                            "birth": "0460303",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 7,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "游國良",
+                            "birth": "0680817",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 8,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第1選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "陳雅婷",
+                            "birth": "0790902",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 9,
+                            "home": "臺北市"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "02",
+                    "areaName": "第2選舉區",
+                    "lis": [
+                        "001",
+                        "002",
+                        "008",
+                        "009",
+                        "010",
+                        "011",
+                        "018",
+                        "045",
+                        "047",
+                        "012"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "余雨昇",
+                            "birth": "0770113",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "林雨蒼",
+                            "birth": "0731216",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "吳建基",
+                            "birth": "0510523",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林育森",
+                            "birth": "0620315",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第2選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林飛身",
+                            "birth": "0540829",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "03",
+                    "areaName": "第3選舉區",
+                    "lis": [
+                        "016",
+                        "013",
                         "014",
                         "015",
-                        "016",
                         "017",
-                        "018"
+                        "019",
+                        "021",
+                        "022",
+                        "023",
+                        "041",
+                        "042",
+                        "046"
+                    ],
+                    "cands": [
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李孟潔",
+                            "birth": "0520713",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 1,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "唐正忠",
+                            "birth": "0690911",
+                            "type": "鄉鎮市民代表",
+                            "party": "民主進步黨",
+                            "candNo": 2,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "連聖懷",
+                            "birth": "0780227",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 3,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "王阿水",
+                            "birth": "0350924",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "李惠玲",
+                            "birth": "0560820",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "官芙爭",
+                            "birth": "0530128",
+                            "type": "鄉鎮市民代表",
+                            "party": "台灣民眾黨",
+                            "candNo": 6,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "林柏男",
+                            "birth": "0541231",
+                            "type": "鄉鎮市民代表",
+                            "party": "無",
+                            "candNo": 7,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第3選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "女",
+                            "victor": false,
+                            "name": "鄭吳阿霞",
+                            "birth": "0470901",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 8,
+                            "home": "宜蘭縣"
+                        }
+                    ]
+                },
+                {
+                    "areaCode": "04",
+                    "areaName": "第4選舉區",
+                    "lis": [
+                        "034",
+                        "032",
+                        "031",
+                        "028",
+                        "027",
+                        "026",
+                        "025",
+                        "024"
                     ],
                     "cands": [
                         {
@@ -1654,8 +1628,8 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "張景程",
-                            "birth": "0580315",
+                            "name": "林智勇",
+                            "birth": "0630330",
                             "type": "鄉鎮市民代表",
                             "party": "無",
                             "candNo": 1,
@@ -1667,10 +1641,10 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "莊漢銘",
-                            "birth": "0580617",
+                            "name": "李嘉軒",
+                            "birth": "0740211",
                             "type": "鄉鎮市民代表",
-                            "party": "中國國民黨",
+                            "party": "無",
                             "candNo": 2,
                             "home": "宜蘭縣"
                         },
@@ -1680,10 +1654,10 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "黃曜維",
-                            "birth": "0651111",
+                            "name": "林泳和",
+                            "birth": "0461109",
                             "type": "鄉鎮市民代表",
-                            "party": "無",
+                            "party": "民主進步黨",
                             "candNo": 3,
                             "home": "宜蘭縣"
                         },
@@ -1693,17 +1667,43 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "李竹村",
-                            "birth": "0400905",
+                            "name": "黃議賢",
+                            "birth": "0690605",
+                            "type": "鄉鎮市民代表",
+                            "party": "中國國民黨",
+                            "candNo": 4,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "呂柏凱",
+                            "birth": "0780528",
+                            "type": "鄉鎮市民代表",
+                            "party": "時代力量",
+                            "candNo": 5,
+                            "home": "宜蘭縣"
+                        },
+                        {
+                            "area": "第4選舉區",
+                            "politics": "",
+                            "img": "",
+                            "gender": "男",
+                            "victor": false,
+                            "name": "康思源",
+                            "birth": "0630526",
                             "type": "鄉鎮市民代表",
                             "party": "無",
-                            "candNo": 4,
+                            "candNo": 6,
                             "home": "宜蘭縣"
                         }
                     ]
                 }
             ],
-            "deptCode": "050"
+            "deptCode": "010"
         },
         {
             "areas": [
@@ -1711,10 +1711,10 @@
                     "areaCode": "01",
                     "areaName": "第1選舉區",
                     "lis": [
-                        "001",
-                        "002",
+                        "014",
                         "003",
-                        "014"
+                        "002",
+                        "001"
                     ],
                     "cands": [
                         {
@@ -2615,8 +2615,8 @@
                     "areaCode": "02",
                     "areaName": "第2選舉區",
                     "lis": [
-                        "004",
                         "005",
+                        "004",
                         "006"
                     ],
                     "cands": [
@@ -3296,7 +3296,7 @@
                             "img": "",
                             "gender": "男",
                             "victor": false,
-                            "name": "簡進𡍼",
+                            "name": "簡進@2137C@",
                             "birth": "0450414",
                             "type": "鄉鎮市民代表",
                             "party": "無",
