@@ -1,5 +1,6 @@
 {
     "require": {
-        "fabpot/goutte": "^4.0"
+        "fabpot/goutte": "^4.0",
+        "phpoffice/phpspreadsheet": "^1.25"
     }
 }
