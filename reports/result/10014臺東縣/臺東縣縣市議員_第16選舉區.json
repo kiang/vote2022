@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃碧妹",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃天德",
+            "party": "無"
+        },
+        "3": {
+            "name": "施森茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "椰油村",
+            "house_no": "233",
+            "candidates": {
+                "1": 158,
+                "2": 107,
+                "3": 66
+            },
+            "count_wrong": 22,
+            "count_unused": 2,
+            "count_total": 641
+        },
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "紅頭村",
+            "house_no": "234",
+            "candidates": {
+                "1": 191,
+                "2": 99,
+                "3": 204
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "東清村",
+            "house_no": "235",
+            "candidates": {
+                "1": 305,
+                "2": 208,
+                "3": 103
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "朗島村",
+            "house_no": "236",
+            "candidates": {
+                "1": 232,
+                "2": 80,
+                "3": 59
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 662
+        }
+    ]
+}

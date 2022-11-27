@@ -1,0 +1,1292 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李廣演",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃東灝",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "蔡孟娥",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳瑞芳",
+            "party": "無"
+        },
+        "5": {
+            "name": "游顥",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "陳玉鈴",
+            "party": "民主進步黨"
+        },
+        "7": {
+            "name": "何勝豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "竹山里",
+            "house_no": "231",
+            "candidates": {
+                "1": 78,
+                "2": 33,
+                "3": 148,
+                "4": 41,
+                "5": 142,
+                "6": 101,
+                "7": 184
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "竹山里",
+            "house_no": "232",
+            "candidates": {
+                "1": 72,
+                "2": 32,
+                "3": 90,
+                "4": 26,
+                "5": 140,
+                "6": 82,
+                "7": 81
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 770
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中正里",
+            "house_no": "233",
+            "candidates": {
+                "1": 56,
+                "2": 11,
+                "3": 108,
+                "4": 12,
+                "5": 92,
+                "6": 61,
+                "7": 68
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 572
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "234",
+            "candidates": {
+                "1": 76,
+                "2": 29,
+                "3": 124,
+                "4": 40,
+                "5": 122,
+                "6": 97,
+                "7": 66
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 829
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "235",
+            "candidates": {
+                "1": 86,
+                "2": 39,
+                "3": 171,
+                "4": 38,
+                "5": 137,
+                "6": 110,
+                "7": 124
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "236",
+            "candidates": {
+                "1": 113,
+                "2": 32,
+                "3": 145,
+                "4": 47,
+                "5": 196,
+                "6": 98,
+                "7": 108
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "237",
+            "candidates": {
+                "1": 95,
+                "2": 59,
+                "3": 214,
+                "4": 54,
+                "5": 211,
+                "6": 127,
+                "7": 160
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "雲林里",
+            "house_no": "238",
+            "candidates": {
+                "1": 59,
+                "2": 37,
+                "3": 187,
+                "4": 28,
+                "5": 175,
+                "6": 107,
+                "7": 87
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "雲林里",
+            "house_no": "239",
+            "candidates": {
+                "1": 60,
+                "2": 32,
+                "3": 205,
+                "4": 33,
+                "5": 116,
+                "6": 98,
+                "7": 87
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "雲林里",
+            "house_no": "240",
+            "candidates": {
+                "1": 117,
+                "2": 43,
+                "3": 220,
+                "4": 32,
+                "5": 192,
+                "6": 111,
+                "7": 113
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "竹圍里",
+            "house_no": "241",
+            "candidates": {
+                "1": 85,
+                "2": 35,
+                "3": 190,
+                "4": 32,
+                "5": 108,
+                "6": 75,
+                "7": 148
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "竹圍里",
+            "house_no": "242",
+            "candidates": {
+                "1": 80,
+                "2": 37,
+                "3": 188,
+                "4": 25,
+                "5": 134,
+                "6": 110,
+                "7": 116
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桂林里",
+            "house_no": "243",
+            "candidates": {
+                "1": 79,
+                "2": 64,
+                "3": 110,
+                "4": 61,
+                "5": 158,
+                "6": 116,
+                "7": 193
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桂林里",
+            "house_no": "244",
+            "candidates": {
+                "1": 84,
+                "2": 72,
+                "3": 123,
+                "4": 38,
+                "5": 156,
+                "6": 113,
+                "7": 245
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桂林里",
+            "house_no": "245",
+            "candidates": {
+                "1": 81,
+                "2": 35,
+                "3": 118,
+                "4": 33,
+                "5": 130,
+                "6": 100,
+                "7": 139
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "下坪里",
+            "house_no": "246",
+            "candidates": {
+                "1": 19,
+                "2": 33,
+                "3": 60,
+                "4": 15,
+                "5": 45,
+                "6": 29,
+                "7": 109
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 463
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "下坪里",
+            "house_no": "247",
+            "candidates": {
+                "1": 52,
+                "2": 18,
+                "3": 98,
+                "4": 20,
+                "5": 91,
+                "6": 49,
+                "7": 88
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 663
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中和里",
+            "house_no": "248",
+            "candidates": {
+                "1": 55,
+                "2": 37,
+                "3": 138,
+                "4": 26,
+                "5": 92,
+                "6": 103,
+                "7": 149
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中崎里",
+            "house_no": "249",
+            "candidates": {
+                "1": 58,
+                "2": 53,
+                "3": 147,
+                "4": 42,
+                "5": 245,
+                "6": 123,
+                "7": 187
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "秀林里",
+            "house_no": "250",
+            "candidates": {
+                "1": 7,
+                "2": 7,
+                "3": 51,
+                "4": 2,
+                "5": 17,
+                "6": 11,
+                "7": 31
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 190
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "秀林里",
+            "house_no": "251",
+            "candidates": {
+                "1": 22,
+                "2": 27,
+                "3": 47,
+                "4": 17,
+                "5": 40,
+                "6": 59,
+                "7": 81
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 430
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "大鞍里",
+            "house_no": "252",
+            "candidates": {
+                "1": 22,
+                "2": 17,
+                "3": 31,
+                "4": 15,
+                "5": 26,
+                "6": 20,
+                "7": 89
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 375
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延和里",
+            "house_no": "253",
+            "candidates": {
+                "1": 118,
+                "2": 73,
+                "3": 133,
+                "4": 58,
+                "5": 243,
+                "6": 92,
+                "7": 141
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延和里",
+            "house_no": "254",
+            "candidates": {
+                "1": 94,
+                "2": 57,
+                "3": 116,
+                "4": 57,
+                "5": 215,
+                "6": 120,
+                "7": 155
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延和里",
+            "house_no": "255",
+            "candidates": {
+                "1": 75,
+                "2": 40,
+                "3": 101,
+                "4": 45,
+                "5": 164,
+                "6": 87,
+                "7": 138
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延和里",
+            "house_no": "256",
+            "candidates": {
+                "1": 56,
+                "2": 63,
+                "3": 88,
+                "4": 45,
+                "5": 174,
+                "6": 89,
+                "7": 109
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延祥里",
+            "house_no": "257",
+            "candidates": {
+                "1": 85,
+                "2": 69,
+                "3": 84,
+                "4": 66,
+                "5": 314,
+                "6": 84,
+                "7": 127
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延祥里",
+            "house_no": "258",
+            "candidates": {
+                "1": 59,
+                "2": 48,
+                "3": 85,
+                "4": 56,
+                "5": 179,
+                "6": 95,
+                "7": 107
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延祥里",
+            "house_no": "259",
+            "candidates": {
+                "1": 82,
+                "2": 80,
+                "3": 97,
+                "4": 47,
+                "5": 260,
+                "6": 117,
+                "7": 105
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延正里",
+            "house_no": "260",
+            "candidates": {
+                "1": 39,
+                "2": 52,
+                "3": 91,
+                "4": 51,
+                "5": 111,
+                "6": 57,
+                "7": 127
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延正里",
+            "house_no": "261",
+            "candidates": {
+                "1": 52,
+                "2": 43,
+                "3": 101,
+                "4": 23,
+                "5": 75,
+                "6": 71,
+                "7": 118
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 756
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延平里",
+            "house_no": "262",
+            "candidates": {
+                "1": 71,
+                "2": 109,
+                "3": 109,
+                "4": 48,
+                "5": 169,
+                "6": 111,
+                "7": 148
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延平里",
+            "house_no": "263",
+            "candidates": {
+                "1": 61,
+                "2": 52,
+                "3": 88,
+                "4": 30,
+                "5": 145,
+                "6": 97,
+                "7": 123
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延平里",
+            "house_no": "264",
+            "candidates": {
+                "1": 22,
+                "2": 61,
+                "3": 53,
+                "4": 20,
+                "5": 67,
+                "6": 89,
+                "7": 49
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 517
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延山里",
+            "house_no": "265",
+            "candidates": {
+                "1": 39,
+                "2": 46,
+                "3": 78,
+                "4": 21,
+                "5": 111,
+                "6": 88,
+                "7": 116
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "山崇里",
+            "house_no": "266",
+            "candidates": {
+                "1": 19,
+                "2": 64,
+                "3": 90,
+                "4": 29,
+                "5": 313,
+                "6": 129,
+                "7": 125
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "山崇里",
+            "house_no": "267",
+            "candidates": {
+                "1": 28,
+                "2": 15,
+                "3": 64,
+                "4": 18,
+                "5": 162,
+                "6": 70,
+                "7": 61
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 623
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "社寮里",
+            "house_no": "268",
+            "candidates": {
+                "1": 60,
+                "2": 71,
+                "3": 73,
+                "4": 14,
+                "5": 372,
+                "6": 107,
+                "7": 154
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1260
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中央里",
+            "house_no": "269",
+            "candidates": {
+                "1": 56,
+                "2": 89,
+                "3": 139,
+                "4": 40,
+                "5": 198,
+                "6": 89,
+                "7": 154
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1074
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "富州里",
+            "house_no": "270",
+            "candidates": {
+                "1": 28,
+                "2": 17,
+                "3": 57,
+                "4": 15,
+                "5": 171,
+                "6": 37,
+                "7": 71
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 570
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "田子里",
+            "house_no": "271",
+            "candidates": {
+                "1": 29,
+                "2": 56,
+                "3": 72,
+                "4": 17,
+                "5": 34,
+                "6": 21,
+                "7": 168
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 542
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "硘磘里",
+            "house_no": "272",
+            "candidates": {
+                "1": 69,
+                "2": 30,
+                "3": 88,
+                "4": 24,
+                "5": 99,
+                "6": 57,
+                "7": 149
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "硘磘里",
+            "house_no": "273",
+            "candidates": {
+                "1": 90,
+                "2": 78,
+                "3": 123,
+                "4": 38,
+                "5": 130,
+                "6": 82,
+                "7": 123
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "德興里",
+            "house_no": "274",
+            "candidates": {
+                "1": 14,
+                "2": 28,
+                "3": 62,
+                "4": 11,
+                "5": 22,
+                "6": 18,
+                "7": 90
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 351
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "德興里",
+            "house_no": "275",
+            "candidates": {
+                "1": 35,
+                "2": 34,
+                "3": 105,
+                "4": 5,
+                "5": 57,
+                "6": 23,
+                "7": 77
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 485
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "福興里",
+            "house_no": "276",
+            "candidates": {
+                "1": 11,
+                "2": 3,
+                "3": 13,
+                "4": 13,
+                "5": 44,
+                "6": 6,
+                "7": 50
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 172
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "福興里",
+            "house_no": "277",
+            "candidates": {
+                "1": 21,
+                "2": 9,
+                "3": 26,
+                "4": 9,
+                "5": 36,
+                "6": 58,
+                "7": 145
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 382
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "鯉魚里",
+            "house_no": "278",
+            "candidates": {
+                "1": 13,
+                "2": 36,
+                "3": 17,
+                "4": 23,
+                "5": 58,
+                "6": 22,
+                "7": 125
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 435
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "鯉魚里",
+            "house_no": "279",
+            "candidates": {
+                "1": 11,
+                "2": 21,
+                "3": 10,
+                "4": 8,
+                "5": 30,
+                "6": 19,
+                "7": 65
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 257
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "坪頂里",
+            "house_no": "280",
+            "candidates": {
+                "1": 17,
+                "2": 36,
+                "3": 30,
+                "4": 19,
+                "5": 67,
+                "6": 52,
+                "7": 91
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 430
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "瑞竹里",
+            "house_no": "281",
+            "candidates": {
+                "1": 25,
+                "2": 44,
+                "3": 46,
+                "4": 12,
+                "5": 106,
+                "6": 51,
+                "7": 99
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 547
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桶頭里",
+            "house_no": "282",
+            "candidates": {
+                "1": 13,
+                "2": 41,
+                "3": 42,
+                "4": 9,
+                "5": 53,
+                "6": 57,
+                "7": 88
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 453
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桶頭里",
+            "house_no": "283",
+            "candidates": {
+                "1": 13,
+                "2": 23,
+                "3": 31,
+                "4": 20,
+                "5": 25,
+                "6": 19,
+                "7": 84
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "鹿谷村",
+            "house_no": "335",
+            "candidates": {
+                "1": 28,
+                "2": 142,
+                "3": 30,
+                "4": 204,
+                "5": 46,
+                "6": 66,
+                "7": 47
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "鹿谷村",
+            "house_no": "336",
+            "candidates": {
+                "1": 38,
+                "2": 140,
+                "3": 26,
+                "4": 232,
+                "5": 33,
+                "6": 63,
+                "7": 39
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "彰雅村",
+            "house_no": "337",
+            "candidates": {
+                "1": 23,
+                "2": 166,
+                "3": 17,
+                "4": 222,
+                "5": 57,
+                "6": 40,
+                "7": 44
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 805
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "彰雅村",
+            "house_no": "338",
+            "candidates": {
+                "1": 19,
+                "2": 69,
+                "3": 12,
+                "4": 146,
+                "5": 14,
+                "6": 16,
+                "7": 26
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 419
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "廣興村",
+            "house_no": "339",
+            "candidates": {
+                "1": 30,
+                "2": 95,
+                "3": 15,
+                "4": 273,
+                "5": 34,
+                "6": 38,
+                "7": 37
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "廣興村",
+            "house_no": "340",
+            "candidates": {
+                "1": 27,
+                "2": 173,
+                "3": 21,
+                "4": 309,
+                "5": 37,
+                "6": 68,
+                "7": 37
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "永隆村",
+            "house_no": "341",
+            "candidates": {
+                "1": 30,
+                "2": 86,
+                "3": 17,
+                "4": 236,
+                "5": 28,
+                "6": 39,
+                "7": 34
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 708
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "永隆村",
+            "house_no": "342",
+            "candidates": {
+                "1": 27,
+                "2": 96,
+                "3": 26,
+                "4": 231,
+                "5": 41,
+                "6": 76,
+                "7": 33
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "鳳凰村",
+            "house_no": "343",
+            "candidates": {
+                "1": 27,
+                "2": 72,
+                "3": 19,
+                "4": 221,
+                "5": 40,
+                "6": 44,
+                "7": 63
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 752
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "鳳凰村",
+            "house_no": "344",
+            "candidates": {
+                "1": 8,
+                "2": 82,
+                "3": 9,
+                "4": 130,
+                "5": 18,
+                "6": 39,
+                "7": 61
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 508
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "內湖村",
+            "house_no": "345",
+            "candidates": {
+                "1": 18,
+                "2": 100,
+                "3": 17,
+                "4": 174,
+                "5": 20,
+                "6": 23,
+                "7": 23
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 531
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "內湖村",
+            "house_no": "346",
+            "candidates": {
+                "1": 21,
+                "2": 89,
+                "3": 28,
+                "4": 140,
+                "5": 22,
+                "6": 19,
+                "7": 12
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 415
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "和雅村",
+            "house_no": "347",
+            "candidates": {
+                "1": 10,
+                "2": 123,
+                "3": 13,
+                "4": 191,
+                "5": 20,
+                "6": 34,
+                "7": 14
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 593
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹林村",
+            "house_no": "348",
+            "candidates": {
+                "1": 17,
+                "2": 140,
+                "3": 24,
+                "4": 159,
+                "5": 30,
+                "6": 56,
+                "7": 45
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 670
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹林村",
+            "house_no": "349",
+            "candidates": {
+                "1": 12,
+                "2": 135,
+                "3": 32,
+                "4": 174,
+                "5": 47,
+                "6": 49,
+                "7": 80
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹豐村",
+            "house_no": "350",
+            "candidates": {
+                "1": 34,
+                "2": 134,
+                "3": 45,
+                "4": 267,
+                "5": 29,
+                "6": 49,
+                "7": 39
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "初鄉村",
+            "house_no": "351",
+            "candidates": {
+                "1": 19,
+                "2": 64,
+                "3": 23,
+                "4": 168,
+                "5": 83,
+                "6": 38,
+                "7": 49
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "初鄉村",
+            "house_no": "352",
+            "candidates": {
+                "1": 23,
+                "2": 87,
+                "3": 30,
+                "4": 166,
+                "5": 56,
+                "6": 47,
+                "7": 48
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 664
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "秀峰村",
+            "house_no": "353",
+            "candidates": {
+                "1": 6,
+                "2": 84,
+                "3": 4,
+                "4": 132,
+                "5": 70,
+                "6": 85,
+                "7": 70
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 722
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "清水村",
+            "house_no": "354",
+            "candidates": {
+                "1": 7,
+                "2": 169,
+                "3": 32,
+                "4": 150,
+                "5": 37,
+                "6": 59,
+                "7": 59
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 646
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "瑞田村",
+            "house_no": "355",
+            "candidates": {
+                "1": 15,
+                "2": 105,
+                "3": 51,
+                "4": 180,
+                "5": 34,
+                "6": 66,
+                "7": 53
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 671
+        }
+    ]
+}

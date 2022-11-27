@@ -1,0 +1,734 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝燦輝",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林佩螢",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "邱素梅",
+            "party": "無"
+        },
+        "4": {
+            "name": "張芷珊",
+            "party": "無"
+        },
+        "5": {
+            "name": "江汶賢",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "楊弘旻",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "冬山鄉",
+            "cunli": "珍珠村",
+            "house_no": "304",
+            "candidates": {
+                "1": 44,
+                "2": 176,
+                "3": 85,
+                "4": 76,
+                "5": 16,
+                "6": 115
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 789
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "珍珠村",
+            "house_no": "305",
+            "candidates": {
+                "1": 61,
+                "2": 161,
+                "3": 67,
+                "4": 73,
+                "5": 7,
+                "6": 119
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 752
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "補城村",
+            "house_no": "306",
+            "candidates": {
+                "1": 107,
+                "2": 209,
+                "3": 160,
+                "4": 111,
+                "5": 26,
+                "6": 101
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "三奇村",
+            "house_no": "307",
+            "candidates": {
+                "1": 42,
+                "2": 217,
+                "3": 46,
+                "4": 115,
+                "5": 16,
+                "6": 84
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "大興村",
+            "house_no": "308",
+            "candidates": {
+                "1": 87,
+                "2": 137,
+                "3": 68,
+                "4": 188,
+                "5": 16,
+                "6": 119
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 848
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "東城村",
+            "house_no": "309",
+            "candidates": {
+                "1": 170,
+                "2": 205,
+                "3": 142,
+                "4": 187,
+                "5": 22,
+                "6": 198
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "香和村",
+            "house_no": "310",
+            "candidates": {
+                "1": 83,
+                "2": 197,
+                "3": 95,
+                "4": 78,
+                "5": 26,
+                "6": 132
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 897
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "香和村",
+            "house_no": "311",
+            "candidates": {
+                "1": 98,
+                "2": 144,
+                "3": 67,
+                "4": 120,
+                "5": 19,
+                "6": 148
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "香和村",
+            "house_no": "312",
+            "candidates": {
+                "1": 55,
+                "2": 161,
+                "3": 59,
+                "4": 89,
+                "5": 15,
+                "6": 136
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "南興村",
+            "house_no": "313",
+            "candidates": {
+                "1": 95,
+                "2": 128,
+                "3": 49,
+                "4": 112,
+                "5": 17,
+                "6": 108
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "南興村",
+            "house_no": "314",
+            "candidates": {
+                "1": 108,
+                "2": 124,
+                "3": 112,
+                "4": 169,
+                "5": 21,
+                "6": 149
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1010
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "南興村",
+            "house_no": "315",
+            "candidates": {
+                "1": 100,
+                "2": 141,
+                "3": 90,
+                "4": 136,
+                "5": 14,
+                "6": 156
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "安平村",
+            "house_no": "316",
+            "candidates": {
+                "1": 71,
+                "2": 154,
+                "3": 30,
+                "4": 56,
+                "5": 12,
+                "6": 110
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "冬山村",
+            "house_no": "317",
+            "candidates": {
+                "1": 71,
+                "2": 93,
+                "3": 53,
+                "4": 52,
+                "5": 30,
+                "6": 150
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 662
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "太和村",
+            "house_no": "318",
+            "candidates": {
+                "1": 169,
+                "2": 192,
+                "3": 116,
+                "4": 115,
+                "5": 36,
+                "6": 328
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1452
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "八寶村",
+            "house_no": "319",
+            "candidates": {
+                "1": 79,
+                "2": 72,
+                "3": 128,
+                "4": 68,
+                "5": 16,
+                "6": 130
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "丸山村",
+            "house_no": "320",
+            "candidates": {
+                "1": 57,
+                "2": 62,
+                "3": 112,
+                "4": 51,
+                "5": 21,
+                "6": 61
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 694
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "丸山村",
+            "house_no": "321",
+            "candidates": {
+                "1": 52,
+                "2": 53,
+                "3": 176,
+                "4": 46,
+                "5": 21,
+                "6": 65
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 726
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "中山村",
+            "house_no": "322",
+            "candidates": {
+                "1": 41,
+                "2": 36,
+                "3": 75,
+                "4": 44,
+                "5": 10,
+                "6": 73
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 434
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "順安村",
+            "house_no": "323",
+            "candidates": {
+                "1": 135,
+                "2": 104,
+                "3": 158,
+                "4": 66,
+                "5": 69,
+                "6": 143
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1163
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "順安村",
+            "house_no": "324",
+            "candidates": {
+                "1": 118,
+                "2": 133,
+                "3": 166,
+                "4": 59,
+                "5": 55,
+                "6": 121
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "順安村",
+            "house_no": "325",
+            "candidates": {
+                "1": 136,
+                "2": 124,
+                "3": 183,
+                "4": 76,
+                "5": 52,
+                "6": 155
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "順安村",
+            "house_no": "326",
+            "candidates": {
+                "1": 86,
+                "2": 93,
+                "3": 167,
+                "4": 69,
+                "5": 31,
+                "6": 132
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "永美村",
+            "house_no": "327",
+            "candidates": {
+                "1": 96,
+                "2": 116,
+                "3": 136,
+                "4": 73,
+                "5": 99,
+                "6": 146
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "永美村",
+            "house_no": "328",
+            "candidates": {
+                "1": 94,
+                "2": 94,
+                "3": 145,
+                "4": 72,
+                "5": 51,
+                "6": 93
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "永美村",
+            "house_no": "329",
+            "candidates": {
+                "1": 54,
+                "2": 89,
+                "3": 124,
+                "4": 86,
+                "5": 62,
+                "6": 106
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "武淵村",
+            "house_no": "330",
+            "candidates": {
+                "1": 85,
+                "2": 236,
+                "3": 113,
+                "4": 140,
+                "5": 151,
+                "6": 107
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "331",
+            "candidates": {
+                "1": 108,
+                "2": 115,
+                "3": 130,
+                "4": 97,
+                "5": 175,
+                "6": 169
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1448
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "332",
+            "candidates": {
+                "1": 77,
+                "2": 82,
+                "3": 80,
+                "4": 81,
+                "5": 122,
+                "6": 94
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "333",
+            "candidates": {
+                "1": 90,
+                "2": 100,
+                "3": 87,
+                "4": 71,
+                "5": 109,
+                "6": 113
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "334",
+            "candidates": {
+                "1": 123,
+                "2": 74,
+                "3": 63,
+                "4": 56,
+                "5": 149,
+                "6": 99
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "335",
+            "candidates": {
+                "1": 136,
+                "2": 124,
+                "3": 167,
+                "4": 92,
+                "5": 77,
+                "6": 140
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "336",
+            "candidates": {
+                "1": 163,
+                "2": 116,
+                "3": 170,
+                "4": 113,
+                "5": 86,
+                "6": 110
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1200
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "337",
+            "candidates": {
+                "1": 151,
+                "2": 104,
+                "3": 124,
+                "4": 107,
+                "5": 73,
+                "6": 131
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "鹿埔村",
+            "house_no": "338",
+            "candidates": {
+                "1": 190,
+                "2": 171,
+                "3": 155,
+                "4": 90,
+                "5": 29,
+                "6": 120
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "鹿埔村",
+            "house_no": "339",
+            "candidates": {
+                "1": 196,
+                "2": 153,
+                "3": 127,
+                "4": 76,
+                "5": 39,
+                "6": 98
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "得安村",
+            "house_no": "340",
+            "candidates": {
+                "1": 271,
+                "2": 64,
+                "3": 115,
+                "4": 37,
+                "5": 21,
+                "6": 92
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "廣興村",
+            "house_no": "341",
+            "candidates": {
+                "1": 211,
+                "2": 163,
+                "3": 123,
+                "4": 82,
+                "5": 53,
+                "6": 113
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "廣興村",
+            "house_no": "342",
+            "candidates": {
+                "1": 178,
+                "2": 104,
+                "3": 133,
+                "4": 70,
+                "5": 34,
+                "6": 133
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "廣安村",
+            "house_no": "343",
+            "candidates": {
+                "1": 141,
+                "2": 94,
+                "3": 112,
+                "4": 75,
+                "5": 72,
+                "6": 105
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "廣安村",
+            "house_no": "344",
+            "candidates": {
+                "1": 118,
+                "2": 59,
+                "3": 93,
+                "4": 56,
+                "5": 22,
+                "6": 84
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 691
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "柯林村",
+            "house_no": "345",
+            "candidates": {
+                "1": 141,
+                "2": 71,
+                "3": 112,
+                "4": 69,
+                "5": 13,
+                "6": 83
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "柯林村",
+            "house_no": "346",
+            "candidates": {
+                "1": 139,
+                "2": 97,
+                "3": 93,
+                "4": 68,
+                "5": 19,
+                "6": 97
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 839
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "大進村",
+            "house_no": "347",
+            "candidates": {
+                "1": 132,
+                "2": 84,
+                "3": 82,
+                "4": 88,
+                "5": 19,
+                "6": 79
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 724
+        }
+    ]
+}

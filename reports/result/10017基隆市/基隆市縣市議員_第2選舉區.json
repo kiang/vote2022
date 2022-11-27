@@ -1,0 +1,697 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳軍佐",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "江鑒育",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "李嘉濠",
+            "party": "無"
+        },
+        "4": {
+            "name": "紀珈",
+            "party": "台灣民眾黨"
+        },
+        "5": {
+            "name": "韓世昱",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "陳宜",
+            "party": "民主進步黨"
+        },
+        "7": {
+            "name": "何淑萍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "仁壽里",
+            "house_no": "41",
+            "candidates": {
+                "1": 84,
+                "2": 39,
+                "3": 46,
+                "4": 32,
+                "5": 134,
+                "6": 93,
+                "7": 208
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "信義區",
+            "cunli": "仁義里",
+            "house_no": "42",
+            "candidates": {
+                "1": 94,
+                "2": 54,
+                "3": 69,
+                "4": 39,
+                "5": 275,
+                "6": 87,
+                "7": 98
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "信義區",
+            "cunli": "義昭里",
+            "house_no": "43",
+            "candidates": {
+                "1": 113,
+                "2": 48,
+                "3": 63,
+                "4": 53,
+                "5": 257,
+                "6": 131,
+                "7": 103
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "信義區",
+            "cunli": "義幸里",
+            "house_no": "44",
+            "candidates": {
+                "1": 74,
+                "2": 47,
+                "3": 52,
+                "4": 17,
+                "5": 164,
+                "6": 111,
+                "7": 243
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "信義區",
+            "cunli": "義幸里",
+            "house_no": "45",
+            "candidates": {
+                "1": 108,
+                "2": 67,
+                "3": 58,
+                "4": 26,
+                "5": 196,
+                "6": 90,
+                "7": 156
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "信義區",
+            "cunli": "義民里",
+            "house_no": "46",
+            "candidates": {
+                "1": 183,
+                "2": 30,
+                "3": 38,
+                "4": 15,
+                "5": 125,
+                "6": 58,
+                "7": 44
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 705
+        },
+        {
+            "area": "信義區",
+            "cunli": "義和里",
+            "house_no": "47",
+            "candidates": {
+                "1": 64,
+                "2": 89,
+                "3": 62,
+                "4": 21,
+                "5": 169,
+                "6": 228,
+                "7": 87
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1470
+        },
+        {
+            "area": "信義區",
+            "cunli": "智慧里",
+            "house_no": "48",
+            "candidates": {
+                "1": 47,
+                "2": 43,
+                "3": 40,
+                "4": 35,
+                "5": 137,
+                "6": 54,
+                "7": 69
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "信義區",
+            "cunli": "智誠里",
+            "house_no": "49",
+            "candidates": {
+                "1": 103,
+                "2": 95,
+                "3": 59,
+                "4": 28,
+                "5": 259,
+                "6": 129,
+                "7": 114
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1419
+        },
+        {
+            "area": "信義區",
+            "cunli": "禮儀里",
+            "house_no": "50",
+            "candidates": {
+                "1": 125,
+                "2": 130,
+                "3": 66,
+                "4": 37,
+                "5": 305,
+                "6": 137,
+                "7": 131
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1478
+        },
+        {
+            "area": "信義區",
+            "cunli": "禮東里",
+            "house_no": "51",
+            "candidates": {
+                "1": 99,
+                "2": 126,
+                "3": 56,
+                "4": 41,
+                "5": 330,
+                "6": 101,
+                "7": 112
+            },
+            "count_wrong": 15,
+            "count_unused": 2,
+            "count_total": 1383
+        },
+        {
+            "area": "信義區",
+            "cunli": "信綠里",
+            "house_no": "52",
+            "candidates": {
+                "1": 59,
+                "2": 70,
+                "3": 47,
+                "4": 20,
+                "5": 201,
+                "6": 125,
+                "7": 66
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "信義區",
+            "cunli": "信綠里",
+            "house_no": "53",
+            "candidates": {
+                "1": 68,
+                "2": 70,
+                "3": 54,
+                "4": 32,
+                "5": 165,
+                "6": 117,
+                "7": 64
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "54",
+            "candidates": {
+                "1": 49,
+                "2": 49,
+                "3": 25,
+                "4": 23,
+                "5": 166,
+                "6": 71,
+                "7": 39
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 677
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "55",
+            "candidates": {
+                "1": 59,
+                "2": 71,
+                "3": 40,
+                "4": 23,
+                "5": 219,
+                "6": 95,
+                "7": 59
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 898
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "56",
+            "candidates": {
+                "1": 86,
+                "2": 85,
+                "3": 59,
+                "4": 28,
+                "5": 246,
+                "6": 109,
+                "7": 103
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "57",
+            "candidates": {
+                "1": 102,
+                "2": 69,
+                "3": 51,
+                "4": 36,
+                "5": 234,
+                "6": 168,
+                "7": 92
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "信義區",
+            "cunli": "東光里",
+            "house_no": "58",
+            "candidates": {
+                "1": 94,
+                "2": 130,
+                "3": 59,
+                "4": 21,
+                "5": 149,
+                "6": 58,
+                "7": 47
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "信義區",
+            "cunli": "東光里",
+            "house_no": "59",
+            "candidates": {
+                "1": 101,
+                "2": 51,
+                "3": 35,
+                "4": 15,
+                "5": 211,
+                "6": 88,
+                "7": 38
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "信義區",
+            "cunli": "東明里",
+            "house_no": "60",
+            "candidates": {
+                "1": 97,
+                "2": 122,
+                "3": 68,
+                "4": 24,
+                "5": 251,
+                "6": 106,
+                "7": 101
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "信義區",
+            "cunli": "東明里",
+            "house_no": "61",
+            "candidates": {
+                "1": 100,
+                "2": 84,
+                "3": 84,
+                "4": 36,
+                "5": 278,
+                "6": 103,
+                "7": 120
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "信義區",
+            "cunli": "東明里",
+            "house_no": "62",
+            "candidates": {
+                "1": 42,
+                "2": 96,
+                "3": 52,
+                "4": 24,
+                "5": 136,
+                "6": 62,
+                "7": 43
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 742
+        },
+        {
+            "area": "信義區",
+            "cunli": "東安里",
+            "house_no": "63",
+            "candidates": {
+                "1": 86,
+                "2": 127,
+                "3": 84,
+                "4": 28,
+                "5": 233,
+                "6": 110,
+                "7": 116
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "信義區",
+            "cunli": "東安里",
+            "house_no": "64",
+            "candidates": {
+                "1": 89,
+                "2": 94,
+                "3": 73,
+                "4": 30,
+                "5": 208,
+                "6": 104,
+                "7": 75
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 1203
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝賢里",
+            "house_no": "65",
+            "candidates": {
+                "1": 58,
+                "2": 98,
+                "3": 56,
+                "4": 18,
+                "5": 123,
+                "6": 83,
+                "7": 88
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝賢里",
+            "house_no": "66",
+            "candidates": {
+                "1": 97,
+                "2": 90,
+                "3": 49,
+                "4": 17,
+                "5": 146,
+                "6": 80,
+                "7": 75
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝賢里",
+            "house_no": "67",
+            "candidates": {
+                "1": 101,
+                "2": 181,
+                "3": 62,
+                "4": 25,
+                "5": 166,
+                "6": 114,
+                "7": 219
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 1385
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "68",
+            "candidates": {
+                "1": 189,
+                "2": 115,
+                "3": 113,
+                "4": 36,
+                "5": 221,
+                "6": 98,
+                "7": 109
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1417
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "69",
+            "candidates": {
+                "1": 175,
+                "2": 126,
+                "3": 101,
+                "4": 44,
+                "5": 254,
+                "6": 111,
+                "7": 103
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "70",
+            "candidates": {
+                "1": 179,
+                "2": 72,
+                "3": 93,
+                "4": 24,
+                "5": 204,
+                "6": 81,
+                "7": 54
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1328
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "71",
+            "candidates": {
+                "1": 193,
+                "2": 72,
+                "3": 64,
+                "4": 28,
+                "5": 233,
+                "6": 89,
+                "7": 69
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "72",
+            "candidates": {
+                "1": 170,
+                "2": 94,
+                "3": 117,
+                "4": 30,
+                "5": 251,
+                "6": 145,
+                "7": 107
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1606
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝德里",
+            "house_no": "73",
+            "candidates": {
+                "1": 82,
+                "2": 120,
+                "3": 66,
+                "4": 33,
+                "5": 223,
+                "6": 109,
+                "7": 91
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1390
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝德里",
+            "house_no": "74",
+            "candidates": {
+                "1": 97,
+                "2": 120,
+                "3": 44,
+                "4": 31,
+                "5": 151,
+                "6": 73,
+                "7": 78
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝深里",
+            "house_no": "75",
+            "candidates": {
+                "1": 120,
+                "2": 54,
+                "3": 123,
+                "4": 40,
+                "5": 261,
+                "6": 119,
+                "7": 109
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1402
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝深里",
+            "house_no": "76",
+            "candidates": {
+                "1": 93,
+                "2": 72,
+                "3": 73,
+                "4": 17,
+                "5": 160,
+                "6": 56,
+                "7": 92
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝深里",
+            "house_no": "77",
+            "candidates": {
+                "1": 116,
+                "2": 39,
+                "3": 41,
+                "4": 21,
+                "5": 252,
+                "6": 41,
+                "7": 39
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝深里",
+            "house_no": "78",
+            "candidates": {
+                "1": 69,
+                "2": 73,
+                "3": 60,
+                "4": 27,
+                "5": 202,
+                "6": 79,
+                "7": 76
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝岡里",
+            "house_no": "79",
+            "candidates": {
+                "1": 148,
+                "2": 121,
+                "3": 63,
+                "4": 30,
+                "5": 172,
+                "6": 83,
+                "7": 144
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1266
+        }
+    ]
+}

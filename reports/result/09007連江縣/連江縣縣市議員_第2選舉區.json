@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周瑞國",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳如嵐",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳玉發",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北竿鄉",
+            "cunli": "塘岐村、后沃村",
+            "house_no": "6",
+            "candidates": {
+                "1": 420,
+                "2": 243,
+                "3": 371
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1367
+        },
+        {
+            "area": "北竿鄉",
+            "cunli": "橋仔村、芹壁村、坂里村、白沙村",
+            "house_no": "7",
+            "candidates": {
+                "1": 401,
+                "2": 276,
+                "3": 338
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1375
+        }
+    ]
+}

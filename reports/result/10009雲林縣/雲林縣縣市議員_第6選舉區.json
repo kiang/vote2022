@@ -1,0 +1,1649 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王新堯",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "林哲凌",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭慧敏",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡咏鍀",
+            "party": "無"
+        },
+        "5": {
+            "name": "黃文祥",
+            "party": "無"
+        },
+        "6": {
+            "name": "蔡孟真",
+            "party": "民主進步黨"
+        },
+        "7": {
+            "name": "蔡岳儒",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "口湖村",
+            "house_no": "226",
+            "candidates": {
+                "1": 121,
+                "2": 202,
+                "3": 84,
+                "4": 50,
+                "5": 119,
+                "6": 115,
+                "7": 48
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "湖東村",
+            "house_no": "227",
+            "candidates": {
+                "1": 97,
+                "2": 257,
+                "3": 36,
+                "4": 87,
+                "5": 134,
+                "6": 132,
+                "7": 50
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "頂湖村",
+            "house_no": "228",
+            "candidates": {
+                "1": 60,
+                "2": 88,
+                "3": 128,
+                "4": 24,
+                "5": 50,
+                "6": 79,
+                "7": 17
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 613
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "埔南村",
+            "house_no": "229",
+            "candidates": {
+                "1": 58,
+                "2": 97,
+                "3": 51,
+                "4": 45,
+                "5": 40,
+                "6": 75,
+                "7": 90
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 665
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "埔北村",
+            "house_no": "230",
+            "candidates": {
+                "1": 92,
+                "2": 119,
+                "3": 113,
+                "4": 26,
+                "5": 65,
+                "6": 98,
+                "7": 67
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "謝厝村",
+            "house_no": "231",
+            "candidates": {
+                "1": 88,
+                "2": 179,
+                "3": 31,
+                "4": 62,
+                "5": 101,
+                "6": 133,
+                "7": 69
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 954
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "蚵寮村",
+            "house_no": "232",
+            "candidates": {
+                "1": 96,
+                "2": 187,
+                "3": 63,
+                "4": 43,
+                "5": 91,
+                "6": 147,
+                "7": 95
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "下崙村",
+            "house_no": "233",
+            "candidates": {
+                "1": 144,
+                "2": 63,
+                "3": 78,
+                "4": 20,
+                "5": 30,
+                "6": 64,
+                "7": 42
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 806
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "下崙村",
+            "house_no": "234",
+            "candidates": {
+                "1": 235,
+                "2": 111,
+                "3": 104,
+                "4": 45,
+                "5": 32,
+                "6": 90,
+                "7": 66
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "崙中村",
+            "house_no": "235",
+            "candidates": {
+                "1": 176,
+                "2": 67,
+                "3": 36,
+                "4": 39,
+                "5": 21,
+                "6": 48,
+                "7": 42
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 701
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "崙中村",
+            "house_no": "236",
+            "candidates": {
+                "1": 187,
+                "2": 82,
+                "3": 43,
+                "4": 25,
+                "5": 24,
+                "6": 46,
+                "7": 38
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 731
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "崙東村",
+            "house_no": "237",
+            "candidates": {
+                "1": 365,
+                "2": 128,
+                "3": 122,
+                "4": 86,
+                "5": 82,
+                "6": 85,
+                "7": 82
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "青蚶村",
+            "house_no": "238",
+            "candidates": {
+                "1": 51,
+                "2": 31,
+                "3": 39,
+                "4": 40,
+                "5": 71,
+                "6": 26,
+                "7": 12
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 480
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "港東村",
+            "house_no": "239",
+            "candidates": {
+                "1": 71,
+                "2": 127,
+                "3": 64,
+                "4": 48,
+                "5": 51,
+                "6": 396,
+                "7": 42
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1410
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "港西村",
+            "house_no": "240",
+            "candidates": {
+                "1": 42,
+                "2": 98,
+                "3": 22,
+                "4": 17,
+                "5": 30,
+                "6": 312,
+                "7": 24
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "台子村",
+            "house_no": "241",
+            "candidates": {
+                "1": 25,
+                "2": 50,
+                "3": 114,
+                "4": 10,
+                "5": 18,
+                "6": 44,
+                "7": 5
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 346
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "台子村",
+            "house_no": "242",
+            "candidates": {
+                "1": 45,
+                "2": 69,
+                "3": 112,
+                "4": 81,
+                "5": 77,
+                "6": 107,
+                "7": 37
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 719
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "台子村",
+            "house_no": "243",
+            "candidates": {
+                "1": 60,
+                "2": 103,
+                "3": 88,
+                "4": 100,
+                "5": 70,
+                "6": 125,
+                "7": 35
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "成龍村",
+            "house_no": "244",
+            "candidates": {
+                "1": 74,
+                "2": 123,
+                "3": 73,
+                "4": 54,
+                "5": 65,
+                "6": 120,
+                "7": 64
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "梧南村",
+            "house_no": "245",
+            "candidates": {
+                "1": 57,
+                "2": 82,
+                "3": 68,
+                "4": 24,
+                "5": 50,
+                "6": 270,
+                "7": 37
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 882
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "梧南村",
+            "house_no": "246",
+            "candidates": {
+                "1": 77,
+                "2": 97,
+                "3": 44,
+                "4": 41,
+                "5": 54,
+                "6": 220,
+                "7": 38
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 820
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "梧北村",
+            "house_no": "247",
+            "candidates": {
+                "1": 116,
+                "2": 142,
+                "3": 40,
+                "4": 52,
+                "5": 33,
+                "6": 351,
+                "7": 76
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "水井村",
+            "house_no": "248",
+            "candidates": {
+                "1": 31,
+                "2": 54,
+                "3": 73,
+                "4": 102,
+                "5": 47,
+                "6": 279,
+                "7": 23
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 898
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "後厝村",
+            "house_no": "249",
+            "candidates": {
+                "1": 33,
+                "2": 43,
+                "3": 23,
+                "4": 20,
+                "5": 79,
+                "6": 205,
+                "7": 34
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 655
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "湖口村",
+            "house_no": "250",
+            "candidates": {
+                "1": 39,
+                "2": 97,
+                "3": 59,
+                "4": 39,
+                "5": 82,
+                "6": 235,
+                "7": 61
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "過港村",
+            "house_no": "251",
+            "candidates": {
+                "1": 73,
+                "2": 86,
+                "3": 31,
+                "4": 33,
+                "5": 48,
+                "6": 56,
+                "7": 6
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 599
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "水北村",
+            "house_no": "252",
+            "candidates": {
+                "1": 59,
+                "2": 102,
+                "3": 115,
+                "4": 71,
+                "5": 227,
+                "6": 57,
+                "7": 111
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "水北村",
+            "house_no": "253",
+            "candidates": {
+                "1": 64,
+                "2": 82,
+                "3": 47,
+                "4": 54,
+                "5": 138,
+                "6": 54,
+                "7": 83
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 820
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "水南村",
+            "house_no": "254",
+            "candidates": {
+                "1": 57,
+                "2": 109,
+                "3": 94,
+                "4": 103,
+                "5": 276,
+                "6": 56,
+                "7": 143
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "水南村",
+            "house_no": "255",
+            "candidates": {
+                "1": 39,
+                "2": 68,
+                "3": 25,
+                "4": 51,
+                "5": 182,
+                "6": 44,
+                "7": 91
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "萬興村",
+            "house_no": "256",
+            "candidates": {
+                "1": 28,
+                "2": 61,
+                "3": 49,
+                "4": 66,
+                "5": 105,
+                "6": 45,
+                "7": 118
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 649
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "尖山村",
+            "house_no": "257",
+            "candidates": {
+                "1": 82,
+                "2": 73,
+                "3": 59,
+                "4": 68,
+                "5": 142,
+                "6": 40,
+                "7": 57
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 651
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "大溝村",
+            "house_no": "258",
+            "candidates": {
+                "1": 48,
+                "2": 119,
+                "3": 43,
+                "4": 59,
+                "5": 203,
+                "6": 67,
+                "7": 78
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "順興村",
+            "house_no": "259",
+            "candidates": {
+                "1": 40,
+                "2": 68,
+                "3": 99,
+                "4": 81,
+                "5": 125,
+                "6": 48,
+                "7": 49
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 756
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "大山村",
+            "house_no": "260",
+            "candidates": {
+                "1": 47,
+                "2": 129,
+                "3": 144,
+                "4": 57,
+                "5": 201,
+                "6": 83,
+                "7": 94
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "後寮村",
+            "house_no": "261",
+            "candidates": {
+                "1": 21,
+                "2": 24,
+                "3": 93,
+                "4": 70,
+                "5": 89,
+                "6": 18,
+                "7": 91
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 615
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "春埔村",
+            "house_no": "262",
+            "candidates": {
+                "1": 39,
+                "2": 51,
+                "3": 86,
+                "4": 30,
+                "5": 250,
+                "6": 30,
+                "7": 122
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "西井村",
+            "house_no": "263",
+            "candidates": {
+                "1": 16,
+                "2": 28,
+                "3": 32,
+                "4": 52,
+                "5": 168,
+                "6": 29,
+                "7": 61
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 570
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "車港村",
+            "house_no": "264",
+            "candidates": {
+                "1": 19,
+                "2": 23,
+                "3": 24,
+                "4": 55,
+                "5": 101,
+                "6": 28,
+                "7": 60
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 561
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "蘇秦村",
+            "house_no": "265",
+            "candidates": {
+                "1": 30,
+                "2": 21,
+                "3": 59,
+                "4": 41,
+                "5": 142,
+                "6": 202,
+                "7": 62
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 919
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "灣東村",
+            "house_no": "266",
+            "candidates": {
+                "1": 14,
+                "2": 34,
+                "3": 8,
+                "4": 13,
+                "5": 211,
+                "6": 22,
+                "7": 36
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 567
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "灣西村",
+            "house_no": "267",
+            "candidates": {
+                "1": 20,
+                "2": 49,
+                "3": 21,
+                "4": 56,
+                "5": 223,
+                "6": 20,
+                "7": 79
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "蕃薯村",
+            "house_no": "268",
+            "candidates": {
+                "1": 33,
+                "2": 30,
+                "3": 142,
+                "4": 66,
+                "5": 165,
+                "6": 94,
+                "7": 111
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "山腳村",
+            "house_no": "269",
+            "candidates": {
+                "1": 20,
+                "2": 58,
+                "3": 78,
+                "4": 65,
+                "5": 150,
+                "6": 33,
+                "7": 96
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 741
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "松北村",
+            "house_no": "270",
+            "candidates": {
+                "1": 44,
+                "2": 76,
+                "3": 26,
+                "4": 90,
+                "5": 261,
+                "6": 33,
+                "7": 120
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "松中村",
+            "house_no": "271",
+            "candidates": {
+                "1": 19,
+                "2": 45,
+                "3": 22,
+                "4": 23,
+                "5": 112,
+                "6": 29,
+                "7": 107
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 471
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "松西村",
+            "house_no": "272",
+            "candidates": {
+                "1": 21,
+                "2": 52,
+                "3": 60,
+                "4": 37,
+                "5": 124,
+                "6": 23,
+                "7": 80
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 603
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "瓊埔村",
+            "house_no": "273",
+            "candidates": {
+                "1": 15,
+                "2": 23,
+                "3": 47,
+                "4": 35,
+                "5": 66,
+                "6": 41,
+                "7": 152
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 630
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "塭底村",
+            "house_no": "274",
+            "candidates": {
+                "1": 38,
+                "2": 64,
+                "3": 20,
+                "4": 95,
+                "5": 77,
+                "6": 33,
+                "7": 38
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "海埔村",
+            "house_no": "275",
+            "candidates": {
+                "1": 30,
+                "2": 69,
+                "3": 55,
+                "4": 134,
+                "5": 141,
+                "6": 39,
+                "7": 94
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "土厝村",
+            "house_no": "276",
+            "candidates": {
+                "1": 73,
+                "2": 97,
+                "3": 62,
+                "4": 43,
+                "5": 119,
+                "6": 43,
+                "7": 249
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "溪墘村",
+            "house_no": "277",
+            "candidates": {
+                "1": 57,
+                "2": 20,
+                "3": 77,
+                "4": 120,
+                "5": 185,
+                "6": 31,
+                "7": 102
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "東陽里",
+            "house_no": "278",
+            "candidates": {
+                "1": 32,
+                "2": 10,
+                "3": 98,
+                "4": 126,
+                "5": 58,
+                "6": 55,
+                "7": 117
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 671
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "光民里",
+            "house_no": "279",
+            "candidates": {
+                "1": 26,
+                "2": 25,
+                "3": 71,
+                "4": 128,
+                "5": 47,
+                "6": 87,
+                "7": 131
+            },
+            "count_wrong": 19,
+            "count_unused": 2,
+            "count_total": 655
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "東華里",
+            "house_no": "280",
+            "candidates": {
+                "1": 15,
+                "2": 4,
+                "3": 32,
+                "4": 95,
+                "5": 34,
+                "6": 33,
+                "7": 64
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 406
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "南安里",
+            "house_no": "281",
+            "candidates": {
+                "1": 39,
+                "2": 17,
+                "3": 107,
+                "4": 103,
+                "5": 82,
+                "6": 67,
+                "7": 132
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 770
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "中和里",
+            "house_no": "282",
+            "candidates": {
+                "1": 12,
+                "2": 12,
+                "3": 32,
+                "4": 42,
+                "5": 24,
+                "6": 47,
+                "7": 44
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 318
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "義民里",
+            "house_no": "283",
+            "candidates": {
+                "1": 25,
+                "2": 10,
+                "3": 47,
+                "4": 46,
+                "5": 32,
+                "6": 42,
+                "7": 34
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 360
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "共榮里",
+            "house_no": "284",
+            "candidates": {
+                "1": 17,
+                "2": 3,
+                "3": 54,
+                "4": 54,
+                "5": 28,
+                "6": 50,
+                "7": 66
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 350
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "西勢里",
+            "house_no": "285",
+            "candidates": {
+                "1": 29,
+                "2": 17,
+                "3": 65,
+                "4": 184,
+                "5": 61,
+                "6": 83,
+                "7": 122
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "仁和里",
+            "house_no": "286",
+            "candidates": {
+                "1": 10,
+                "2": 5,
+                "3": 35,
+                "4": 102,
+                "5": 29,
+                "6": 28,
+                "7": 76
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 425
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "賜福里",
+            "house_no": "287",
+            "candidates": {
+                "1": 13,
+                "2": 8,
+                "3": 43,
+                "4": 34,
+                "5": 31,
+                "6": 30,
+                "7": 45
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 289
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "公舘里",
+            "house_no": "288",
+            "candidates": {
+                "1": 15,
+                "2": 8,
+                "3": 48,
+                "4": 92,
+                "5": 28,
+                "6": 42,
+                "7": 92
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 491
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "大同里",
+            "house_no": "289",
+            "candidates": {
+                "1": 13,
+                "2": 10,
+                "3": 24,
+                "4": 41,
+                "5": 38,
+                "6": 61,
+                "7": 73
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 398
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "大同里",
+            "house_no": "290",
+            "candidates": {
+                "1": 13,
+                "2": 20,
+                "3": 93,
+                "4": 91,
+                "5": 90,
+                "6": 56,
+                "7": 88
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 688
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "仁安里",
+            "house_no": "291",
+            "candidates": {
+                "1": 12,
+                "2": 17,
+                "3": 46,
+                "4": 85,
+                "5": 33,
+                "6": 35,
+                "7": 62
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 398
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "292",
+            "candidates": {
+                "1": 43,
+                "2": 28,
+                "3": 115,
+                "4": 106,
+                "5": 103,
+                "6": 108,
+                "7": 206
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "293",
+            "candidates": {
+                "1": 35,
+                "2": 41,
+                "3": 116,
+                "4": 118,
+                "5": 125,
+                "6": 101,
+                "7": 198
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "294",
+            "candidates": {
+                "1": 71,
+                "2": 23,
+                "3": 119,
+                "4": 102,
+                "5": 150,
+                "6": 102,
+                "7": 160
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "295",
+            "candidates": {
+                "1": 54,
+                "2": 40,
+                "3": 184,
+                "4": 137,
+                "5": 156,
+                "6": 94,
+                "7": 180
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "光復里",
+            "house_no": "296",
+            "candidates": {
+                "1": 29,
+                "2": 17,
+                "3": 60,
+                "4": 94,
+                "5": 71,
+                "6": 56,
+                "7": 103
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 664
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "光復里",
+            "house_no": "297",
+            "candidates": {
+                "1": 32,
+                "2": 28,
+                "3": 106,
+                "4": 171,
+                "5": 87,
+                "6": 78,
+                "7": 107
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "扶朝里",
+            "house_no": "298",
+            "candidates": {
+                "1": 39,
+                "2": 45,
+                "3": 63,
+                "4": 122,
+                "5": 53,
+                "6": 90,
+                "7": 177
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "水埔里",
+            "house_no": "299",
+            "candidates": {
+                "1": 21,
+                "2": 19,
+                "3": 77,
+                "4": 84,
+                "5": 41,
+                "6": 40,
+                "7": 65
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 454
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "300",
+            "candidates": {
+                "1": 64,
+                "2": 31,
+                "3": 102,
+                "4": 114,
+                "5": 175,
+                "6": 118,
+                "7": 233
+            },
+            "count_wrong": 18,
+            "count_unused": 4,
+            "count_total": 1323
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "301",
+            "candidates": {
+                "1": 47,
+                "2": 21,
+                "3": 76,
+                "4": 95,
+                "5": 142,
+                "6": 120,
+                "7": 153
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "302",
+            "candidates": {
+                "1": 32,
+                "2": 14,
+                "3": 53,
+                "4": 90,
+                "5": 94,
+                "6": 63,
+                "7": 119
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 743
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "303",
+            "candidates": {
+                "1": 33,
+                "2": 21,
+                "3": 53,
+                "4": 79,
+                "5": 97,
+                "6": 100,
+                "7": 123
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 772
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "304",
+            "candidates": {
+                "1": 26,
+                "2": 28,
+                "3": 73,
+                "4": 110,
+                "5": 132,
+                "6": 104,
+                "7": 190
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "305",
+            "candidates": {
+                "1": 40,
+                "2": 21,
+                "3": 91,
+                "4": 83,
+                "5": 200,
+                "6": 111,
+                "7": 145
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "劉厝里",
+            "house_no": "306",
+            "candidates": {
+                "1": 42,
+                "2": 45,
+                "3": 90,
+                "4": 111,
+                "5": 91,
+                "6": 101,
+                "7": 190
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1079
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "後溝里",
+            "house_no": "307",
+            "candidates": {
+                "1": 19,
+                "2": 21,
+                "3": 47,
+                "4": 67,
+                "5": 51,
+                "6": 45,
+                "7": 53
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 507
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "後溝里",
+            "house_no": "308",
+            "candidates": {
+                "1": 25,
+                "2": 7,
+                "3": 40,
+                "4": 27,
+                "5": 91,
+                "6": 42,
+                "7": 64
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 426
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新厝里",
+            "house_no": "309",
+            "candidates": {
+                "1": 25,
+                "2": 3,
+                "3": 43,
+                "4": 125,
+                "5": 28,
+                "6": 41,
+                "7": 54
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 385
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "府番里",
+            "house_no": "310",
+            "candidates": {
+                "1": 18,
+                "2": 22,
+                "3": 57,
+                "4": 182,
+                "5": 68,
+                "6": 52,
+                "7": 82
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 762
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "草湖里",
+            "house_no": "311",
+            "candidates": {
+                "1": 24,
+                "2": 24,
+                "3": 93,
+                "4": 52,
+                "5": 51,
+                "6": 81,
+                "7": 93
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 575
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "草湖里",
+            "house_no": "312",
+            "candidates": {
+                "1": 61,
+                "2": 18,
+                "3": 48,
+                "4": 85,
+                "5": 65,
+                "6": 43,
+                "7": 128
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 695
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "溝皂里",
+            "house_no": "313",
+            "candidates": {
+                "1": 88,
+                "2": 14,
+                "3": 91,
+                "4": 104,
+                "5": 172,
+                "6": 58,
+                "7": 173
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "番溝里",
+            "house_no": "314",
+            "candidates": {
+                "1": 24,
+                "2": 9,
+                "3": 115,
+                "4": 147,
+                "5": 29,
+                "6": 32,
+                "7": 83
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "大北里",
+            "house_no": "315",
+            "candidates": {
+                "1": 57,
+                "2": 16,
+                "3": 66,
+                "4": 43,
+                "5": 58,
+                "6": 20,
+                "7": 107
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 529
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "好收里",
+            "house_no": "316",
+            "candidates": {
+                "1": 67,
+                "2": 16,
+                "3": 100,
+                "4": 120,
+                "5": 100,
+                "6": 81,
+                "7": 201
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "好收里",
+            "house_no": "317",
+            "candidates": {
+                "1": 20,
+                "2": 15,
+                "3": 95,
+                "4": 76,
+                "5": 56,
+                "6": 41,
+                "7": 112
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 546
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "樹腳里",
+            "house_no": "318",
+            "candidates": {
+                "1": 20,
+                "2": 52,
+                "3": 184,
+                "4": 76,
+                "5": 47,
+                "6": 43,
+                "7": 131
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "樹腳里",
+            "house_no": "319",
+            "candidates": {
+                "1": 42,
+                "2": 32,
+                "3": 100,
+                "4": 114,
+                "5": 110,
+                "6": 80,
+                "7": 146
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "樹腳里",
+            "house_no": "320",
+            "candidates": {
+                "1": 53,
+                "2": 20,
+                "3": 119,
+                "4": 103,
+                "5": 130,
+                "6": 68,
+                "7": 155
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

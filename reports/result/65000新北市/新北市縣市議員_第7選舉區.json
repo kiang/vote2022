@@ -1,0 +1,2156 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳鴻源",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "連斐璠",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "蕭蒼澤",
+            "party": "台灣維新"
+        },
+        "4": {
+            "name": "羅文崇",
+            "party": "民主進步黨"
+        },
+        "5": {
+            "name": "許昭興",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "光復里",
+            "house_no": "1608",
+            "candidates": {
+                "1": 210,
+                "2": 299,
+                "3": 13,
+                "4": 122,
+                "5": 256
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1433
+        },
+        {
+            "area": "永和區",
+            "cunli": "網溪里",
+            "house_no": "1609",
+            "candidates": {
+                "1": 158,
+                "2": 194,
+                "3": 16,
+                "4": 82,
+                "5": 116
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 961
+        },
+        {
+            "area": "永和區",
+            "cunli": "復興里",
+            "house_no": "1610",
+            "candidates": {
+                "1": 143,
+                "2": 176,
+                "3": 12,
+                "4": 70,
+                "5": 132
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "永和區",
+            "cunli": "復興里",
+            "house_no": "1611",
+            "candidates": {
+                "1": 173,
+                "2": 196,
+                "3": 10,
+                "4": 70,
+                "5": 144
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "永和區",
+            "cunli": "竹林里",
+            "house_no": "1612",
+            "candidates": {
+                "1": 224,
+                "2": 118,
+                "3": 14,
+                "4": 290,
+                "5": 260
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1607
+        },
+        {
+            "area": "永和區",
+            "cunli": "竹林里",
+            "house_no": "1613",
+            "candidates": {
+                "1": 232,
+                "2": 253,
+                "3": 7,
+                "4": 95,
+                "5": 185
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1408
+        },
+        {
+            "area": "永和區",
+            "cunli": "桂林里",
+            "house_no": "1614",
+            "candidates": {
+                "1": 275,
+                "2": 299,
+                "3": 18,
+                "4": 122,
+                "5": 227
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1625
+        },
+        {
+            "area": "永和區",
+            "cunli": "桂林里",
+            "house_no": "1615",
+            "candidates": {
+                "1": 261,
+                "2": 289,
+                "3": 7,
+                "4": 84,
+                "5": 177
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1465
+        },
+        {
+            "area": "永和區",
+            "cunli": "上林里",
+            "house_no": "1616",
+            "candidates": {
+                "1": 295,
+                "2": 216,
+                "3": 19,
+                "4": 87,
+                "5": 169
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1401
+        },
+        {
+            "area": "永和區",
+            "cunli": "上林里",
+            "house_no": "1617",
+            "candidates": {
+                "1": 312,
+                "2": 229,
+                "3": 15,
+                "4": 99,
+                "5": 155
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "永和區",
+            "cunli": "福林里",
+            "house_no": "1618",
+            "candidates": {
+                "1": 214,
+                "2": 272,
+                "3": 15,
+                "4": 182,
+                "5": 219
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "永和區",
+            "cunli": "福林里",
+            "house_no": "1619",
+            "candidates": {
+                "1": 202,
+                "2": 264,
+                "3": 16,
+                "4": 152,
+                "5": 200
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "永和區",
+            "cunli": "勵行里",
+            "house_no": "1620",
+            "candidates": {
+                "1": 110,
+                "2": 137,
+                "3": 7,
+                "4": 88,
+                "5": 205
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "永和區",
+            "cunli": "中興里",
+            "house_no": "1621",
+            "candidates": {
+                "1": 193,
+                "2": 193,
+                "3": 18,
+                "4": 138,
+                "5": 187
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1245
+        },
+        {
+            "area": "永和區",
+            "cunli": "中興里",
+            "house_no": "1622",
+            "candidates": {
+                "1": 230,
+                "2": 232,
+                "3": 18,
+                "4": 156,
+                "5": 164
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "永和區",
+            "cunli": "永興里",
+            "house_no": "1623",
+            "candidates": {
+                "1": 201,
+                "2": 184,
+                "3": 7,
+                "4": 99,
+                "5": 167
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "永和區",
+            "cunli": "永興里",
+            "house_no": "1624",
+            "candidates": {
+                "1": 210,
+                "2": 235,
+                "3": 12,
+                "4": 86,
+                "5": 163
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1319
+        },
+        {
+            "area": "永和區",
+            "cunli": "正興里",
+            "house_no": "1625",
+            "candidates": {
+                "1": 164,
+                "2": 168,
+                "3": 6,
+                "4": 93,
+                "5": 134
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "永和區",
+            "cunli": "正興里",
+            "house_no": "1626",
+            "candidates": {
+                "1": 140,
+                "2": 164,
+                "3": 14,
+                "4": 65,
+                "5": 76
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 822
+        },
+        {
+            "area": "永和區",
+            "cunli": "豫溪里",
+            "house_no": "1627",
+            "candidates": {
+                "1": 196,
+                "2": 291,
+                "3": 28,
+                "4": 121,
+                "5": 205
+            },
+            "count_wrong": 28,
+            "count_unused": 2,
+            "count_total": 1426
+        },
+        {
+            "area": "永和區",
+            "cunli": "豫溪里",
+            "house_no": "1628",
+            "candidates": {
+                "1": 209,
+                "2": 256,
+                "3": 8,
+                "4": 112,
+                "5": 197
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 2783
+        },
+        {
+            "area": "永和區",
+            "cunli": "光明里",
+            "house_no": "1629",
+            "candidates": {
+                "1": 230,
+                "2": 182,
+                "3": 11,
+                "4": 121,
+                "5": 154
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "永和區",
+            "cunli": "光明里",
+            "house_no": "1630",
+            "candidates": {
+                "1": 280,
+                "2": 219,
+                "3": 17,
+                "4": 123,
+                "5": 190
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "永和區",
+            "cunli": "福和里",
+            "house_no": "1631",
+            "candidates": {
+                "1": 188,
+                "2": 324,
+                "3": 15,
+                "4": 145,
+                "5": 122
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "永和區",
+            "cunli": "福和里",
+            "house_no": "1632",
+            "candidates": {
+                "1": 159,
+                "2": 349,
+                "3": 11,
+                "4": 152,
+                "5": 127
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "永和區",
+            "cunli": "福和里",
+            "house_no": "1633",
+            "candidates": {
+                "1": 202,
+                "2": 340,
+                "3": 19,
+                "4": 180,
+                "5": 136
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1488
+        },
+        {
+            "area": "永和區",
+            "cunli": "得和里",
+            "house_no": "1634",
+            "candidates": {
+                "1": 213,
+                "2": 272,
+                "3": 20,
+                "4": 153,
+                "5": 133
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "永和區",
+            "cunli": "得和里",
+            "house_no": "1635",
+            "candidates": {
+                "1": 209,
+                "2": 233,
+                "3": 12,
+                "4": 116,
+                "5": 114
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "永和區",
+            "cunli": "得和里",
+            "house_no": "1636",
+            "candidates": {
+                "1": 219,
+                "2": 218,
+                "3": 16,
+                "4": 105,
+                "5": 125
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1146
+        },
+        {
+            "area": "永和區",
+            "cunli": "永貞里",
+            "house_no": "1637",
+            "candidates": {
+                "1": 213,
+                "2": 245,
+                "3": 12,
+                "4": 145,
+                "5": 186
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1384
+        },
+        {
+            "area": "永和區",
+            "cunli": "永貞里",
+            "house_no": "1638",
+            "candidates": {
+                "1": 191,
+                "2": 230,
+                "3": 12,
+                "4": 153,
+                "5": 191
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "永和區",
+            "cunli": "永福里",
+            "house_no": "1639",
+            "candidates": {
+                "1": 192,
+                "2": 259,
+                "3": 15,
+                "4": 153,
+                "5": 161
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "永和區",
+            "cunli": "永福里",
+            "house_no": "1640",
+            "candidates": {
+                "1": 201,
+                "2": 203,
+                "3": 21,
+                "4": 148,
+                "5": 148
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "永和區",
+            "cunli": "河濱里",
+            "house_no": "1641",
+            "candidates": {
+                "1": 189,
+                "2": 223,
+                "3": 11,
+                "4": 140,
+                "5": 150
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "永和區",
+            "cunli": "河濱里",
+            "house_no": "1642",
+            "candidates": {
+                "1": 252,
+                "2": 205,
+                "3": 15,
+                "4": 169,
+                "5": 148
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀和里",
+            "house_no": "1643",
+            "candidates": {
+                "1": 249,
+                "2": 227,
+                "3": 15,
+                "4": 176,
+                "5": 187
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1524
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀和里",
+            "house_no": "1644",
+            "candidates": {
+                "1": 177,
+                "2": 197,
+                "3": 5,
+                "4": 124,
+                "5": 125
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀和里",
+            "house_no": "1645",
+            "candidates": {
+                "1": 189,
+                "2": 268,
+                "3": 9,
+                "4": 179,
+                "5": 151
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1392
+        },
+        {
+            "area": "永和區",
+            "cunli": "永元里",
+            "house_no": "1646",
+            "candidates": {
+                "1": 183,
+                "2": 224,
+                "3": 17,
+                "4": 191,
+                "5": 155
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1349
+        },
+        {
+            "area": "永和區",
+            "cunli": "永元里",
+            "house_no": "1647",
+            "candidates": {
+                "1": 184,
+                "2": 220,
+                "3": 23,
+                "4": 151,
+                "5": 108
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "永和區",
+            "cunli": "永元里",
+            "house_no": "1648",
+            "candidates": {
+                "1": 224,
+                "2": 182,
+                "3": 15,
+                "4": 146,
+                "5": 135
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "永和區",
+            "cunli": "民權里",
+            "house_no": "1649",
+            "candidates": {
+                "1": 219,
+                "2": 201,
+                "3": 8,
+                "4": 147,
+                "5": 131
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "永和區",
+            "cunli": "民權里",
+            "house_no": "1650",
+            "candidates": {
+                "1": 226,
+                "2": 234,
+                "3": 18,
+                "4": 135,
+                "5": 128
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "永和區",
+            "cunli": "民權里",
+            "house_no": "1651",
+            "candidates": {
+                "1": 167,
+                "2": 161,
+                "3": 12,
+                "4": 125,
+                "5": 96
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "永和區",
+            "cunli": "民族里",
+            "house_no": "1652",
+            "candidates": {
+                "1": 163,
+                "2": 328,
+                "3": 15,
+                "4": 145,
+                "5": 108
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "永和區",
+            "cunli": "民族里",
+            "house_no": "1653",
+            "candidates": {
+                "1": 131,
+                "2": 282,
+                "3": 12,
+                "4": 137,
+                "5": 134
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "永和區",
+            "cunli": "民族里",
+            "house_no": "1654",
+            "candidates": {
+                "1": 151,
+                "2": 309,
+                "3": 18,
+                "4": 159,
+                "5": 97
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1299
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀朗里",
+            "house_no": "1655",
+            "candidates": {
+                "1": 198,
+                "2": 274,
+                "3": 10,
+                "4": 164,
+                "5": 214
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1553
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀朗里",
+            "house_no": "1656",
+            "candidates": {
+                "1": 163,
+                "2": 249,
+                "3": 14,
+                "4": 245,
+                "5": 210
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1635
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀成里",
+            "house_no": "1657",
+            "candidates": {
+                "1": 169,
+                "2": 183,
+                "3": 15,
+                "4": 123,
+                "5": 162
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀成里",
+            "house_no": "1658",
+            "candidates": {
+                "1": 173,
+                "2": 200,
+                "3": 8,
+                "4": 104,
+                "5": 157
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀林里",
+            "house_no": "1659",
+            "candidates": {
+                "1": 194,
+                "2": 225,
+                "3": 20,
+                "4": 306,
+                "5": 218
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1629
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀林里",
+            "house_no": "1660",
+            "candidates": {
+                "1": 228,
+                "2": 270,
+                "3": 12,
+                "4": 261,
+                "5": 185
+            },
+            "count_wrong": 28,
+            "count_unused": 3,
+            "count_total": 1643
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀得里",
+            "house_no": "1661",
+            "candidates": {
+                "1": 183,
+                "2": 218,
+                "3": 9,
+                "4": 126,
+                "5": 110
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀得里",
+            "house_no": "1662",
+            "candidates": {
+                "1": 151,
+                "2": 184,
+                "3": 4,
+                "4": 104,
+                "5": 92
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1029
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀元里",
+            "house_no": "1663",
+            "candidates": {
+                "1": 199,
+                "2": 170,
+                "3": 13,
+                "4": 146,
+                "5": 163
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀元里",
+            "house_no": "1664",
+            "candidates": {
+                "1": 187,
+                "2": 190,
+                "3": 8,
+                "4": 151,
+                "5": 141
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "永和區",
+            "cunli": "民生里",
+            "house_no": "1665",
+            "candidates": {
+                "1": 160,
+                "2": 186,
+                "3": 7,
+                "4": 146,
+                "5": 131
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "永和區",
+            "cunli": "民生里",
+            "house_no": "1666",
+            "candidates": {
+                "1": 174,
+                "2": 198,
+                "3": 14,
+                "4": 147,
+                "5": 134
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1055
+        },
+        {
+            "area": "永和區",
+            "cunli": "民生里",
+            "house_no": "1667",
+            "candidates": {
+                "1": 201,
+                "2": 163,
+                "3": 4,
+                "4": 168,
+                "5": 143
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "永和區",
+            "cunli": "民本里",
+            "house_no": "1668",
+            "candidates": {
+                "1": 216,
+                "2": 253,
+                "3": 16,
+                "4": 228,
+                "5": 180
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1559
+        },
+        {
+            "area": "永和區",
+            "cunli": "民本里",
+            "house_no": "1669",
+            "candidates": {
+                "1": 204,
+                "2": 235,
+                "3": 6,
+                "4": 319,
+                "5": 126
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1652
+        },
+        {
+            "area": "永和區",
+            "cunli": "民富里",
+            "house_no": "1670",
+            "candidates": {
+                "1": 171,
+                "2": 169,
+                "3": 6,
+                "4": 143,
+                "5": 123
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "永和區",
+            "cunli": "民富里",
+            "house_no": "1671",
+            "candidates": {
+                "1": 176,
+                "2": 187,
+                "3": 4,
+                "4": 158,
+                "5": 138
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "永和區",
+            "cunli": "民樂里",
+            "house_no": "1672",
+            "candidates": {
+                "1": 228,
+                "2": 252,
+                "3": 6,
+                "4": 133,
+                "5": 118
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "永和區",
+            "cunli": "民樂里",
+            "house_no": "1673",
+            "candidates": {
+                "1": 225,
+                "2": 267,
+                "3": 9,
+                "4": 170,
+                "5": 130
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "永和區",
+            "cunli": "民樂里",
+            "house_no": "1674",
+            "candidates": {
+                "1": 232,
+                "2": 200,
+                "3": 6,
+                "4": 198,
+                "5": 133
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "永和區",
+            "cunli": "民治里",
+            "house_no": "1675",
+            "candidates": {
+                "1": 201,
+                "2": 189,
+                "3": 13,
+                "4": 111,
+                "5": 104
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "永和區",
+            "cunli": "民治里",
+            "house_no": "1676",
+            "candidates": {
+                "1": 190,
+                "2": 194,
+                "3": 11,
+                "4": 98,
+                "5": 128
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "永和區",
+            "cunli": "智光里",
+            "house_no": "1677",
+            "candidates": {
+                "1": 196,
+                "2": 224,
+                "3": 14,
+                "4": 109,
+                "5": 157
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "永和區",
+            "cunli": "智光里",
+            "house_no": "1678",
+            "candidates": {
+                "1": 170,
+                "2": 233,
+                "3": 19,
+                "4": 112,
+                "5": 158
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭安里",
+            "house_no": "1679",
+            "candidates": {
+                "1": 176,
+                "2": 158,
+                "3": 12,
+                "4": 71,
+                "5": 86
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭安里",
+            "house_no": "1680",
+            "candidates": {
+                "1": 185,
+                "2": 145,
+                "3": 19,
+                "4": 82,
+                "5": 88
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 927
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭安里",
+            "house_no": "1681",
+            "candidates": {
+                "1": 204,
+                "2": 163,
+                "3": 22,
+                "4": 71,
+                "5": 132
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭安里",
+            "house_no": "1682",
+            "candidates": {
+                "1": 173,
+                "2": 136,
+                "3": 14,
+                "4": 99,
+                "5": 81
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭墘里",
+            "house_no": "1683",
+            "candidates": {
+                "1": 267,
+                "2": 173,
+                "3": 26,
+                "4": 93,
+                "5": 110
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭墘里",
+            "house_no": "1684",
+            "candidates": {
+                "1": 237,
+                "2": 163,
+                "3": 20,
+                "4": 93,
+                "5": 133
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "永和區",
+            "cunli": "潭墘里",
+            "house_no": "1685",
+            "candidates": {
+                "1": 261,
+                "2": 205,
+                "3": 28,
+                "4": 83,
+                "5": 121
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "永和區",
+            "cunli": "店街里",
+            "house_no": "1686",
+            "candidates": {
+                "1": 205,
+                "2": 159,
+                "3": 11,
+                "4": 100,
+                "5": 132
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "永和區",
+            "cunli": "店街里",
+            "house_no": "1687",
+            "candidates": {
+                "1": 190,
+                "2": 193,
+                "3": 20,
+                "4": 114,
+                "5": 127
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "永和區",
+            "cunli": "店街里",
+            "house_no": "1688",
+            "candidates": {
+                "1": 191,
+                "2": 176,
+                "3": 17,
+                "4": 131,
+                "5": 120
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "永和區",
+            "cunli": "大新里",
+            "house_no": "1689",
+            "candidates": {
+                "1": 216,
+                "2": 199,
+                "3": 12,
+                "4": 125,
+                "5": 126
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "永和區",
+            "cunli": "大新里",
+            "house_no": "1690",
+            "candidates": {
+                "1": 190,
+                "2": 202,
+                "3": 11,
+                "4": 114,
+                "5": 134
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "永和區",
+            "cunli": "永安里",
+            "house_no": "1691",
+            "candidates": {
+                "1": 241,
+                "2": 192,
+                "3": 15,
+                "4": 114,
+                "5": 120
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "永和區",
+            "cunli": "永安里",
+            "house_no": "1692",
+            "candidates": {
+                "1": 223,
+                "2": 158,
+                "3": 27,
+                "4": 115,
+                "5": 101
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "永和區",
+            "cunli": "永安里",
+            "house_no": "1693",
+            "candidates": {
+                "1": 235,
+                "2": 220,
+                "3": 15,
+                "4": 135,
+                "5": 141
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "永和區",
+            "cunli": "永樂里",
+            "house_no": "1694",
+            "candidates": {
+                "1": 203,
+                "2": 137,
+                "3": 16,
+                "4": 82,
+                "5": 151
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "永和區",
+            "cunli": "永樂里",
+            "house_no": "1695",
+            "candidates": {
+                "1": 190,
+                "2": 107,
+                "3": 4,
+                "4": 118,
+                "5": 118
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "永和區",
+            "cunli": "水源里",
+            "house_no": "1696",
+            "candidates": {
+                "1": 221,
+                "2": 190,
+                "3": 4,
+                "4": 84,
+                "5": 114
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "永和區",
+            "cunli": "水源里",
+            "house_no": "1697",
+            "candidates": {
+                "1": 188,
+                "2": 151,
+                "3": 11,
+                "4": 122,
+                "5": 93
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "永和區",
+            "cunli": "水源里",
+            "house_no": "1698",
+            "candidates": {
+                "1": 210,
+                "2": 174,
+                "3": 13,
+                "4": 128,
+                "5": 119
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "永和區",
+            "cunli": "協和里",
+            "house_no": "1699",
+            "candidates": {
+                "1": 283,
+                "2": 132,
+                "3": 14,
+                "4": 95,
+                "5": 148
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "永和區",
+            "cunli": "協和里",
+            "house_no": "1700",
+            "candidates": {
+                "1": 278,
+                "2": 161,
+                "3": 13,
+                "4": 113,
+                "5": 149
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "永和區",
+            "cunli": "雙和里",
+            "house_no": "1701",
+            "candidates": {
+                "1": 323,
+                "2": 283,
+                "3": 26,
+                "4": 106,
+                "5": 179
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1603
+        },
+        {
+            "area": "永和區",
+            "cunli": "雙和里",
+            "house_no": "1702",
+            "candidates": {
+                "1": 350,
+                "2": 208,
+                "3": 17,
+                "4": 148,
+                "5": 209
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1576
+        },
+        {
+            "area": "永和區",
+            "cunli": "安和里",
+            "house_no": "1703",
+            "candidates": {
+                "1": 164,
+                "2": 224,
+                "3": 17,
+                "4": 88,
+                "5": 161
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1069
+        },
+        {
+            "area": "永和區",
+            "cunli": "安和里",
+            "house_no": "1704",
+            "candidates": {
+                "1": 158,
+                "2": 210,
+                "3": 13,
+                "4": 86,
+                "5": 123
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "永和區",
+            "cunli": "安和里",
+            "house_no": "1705",
+            "candidates": {
+                "1": 179,
+                "2": 232,
+                "3": 10,
+                "4": 72,
+                "5": 132
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1024
+        },
+        {
+            "area": "永和區",
+            "cunli": "前溪里",
+            "house_no": "1706",
+            "candidates": {
+                "1": 319,
+                "2": 306,
+                "3": 13,
+                "4": 158,
+                "5": 215
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1797
+        },
+        {
+            "area": "永和區",
+            "cunli": "和平里",
+            "house_no": "1707",
+            "candidates": {
+                "1": 197,
+                "2": 231,
+                "3": 12,
+                "4": 151,
+                "5": 178
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1399
+        },
+        {
+            "area": "永和區",
+            "cunli": "和平里",
+            "house_no": "1708",
+            "candidates": {
+                "1": 185,
+                "2": 200,
+                "3": 6,
+                "4": 129,
+                "5": 120
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "永和區",
+            "cunli": "和平里",
+            "house_no": "1709",
+            "candidates": {
+                "1": 205,
+                "2": 223,
+                "3": 6,
+                "4": 97,
+                "5": 159
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1377
+        },
+        {
+            "area": "永和區",
+            "cunli": "保平里",
+            "house_no": "1710",
+            "candidates": {
+                "1": 207,
+                "2": 219,
+                "3": 26,
+                "4": 112,
+                "5": 150
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1230
+        },
+        {
+            "area": "永和區",
+            "cunli": "保平里",
+            "house_no": "1711",
+            "candidates": {
+                "1": 206,
+                "2": 231,
+                "3": 20,
+                "4": 173,
+                "5": 154
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1272
+        },
+        {
+            "area": "永和區",
+            "cunli": "保平里",
+            "house_no": "1712",
+            "candidates": {
+                "1": 261,
+                "2": 218,
+                "3": 25,
+                "4": 192,
+                "5": 173
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1406
+        },
+        {
+            "area": "永和區",
+            "cunli": "中溪里",
+            "house_no": "1713",
+            "candidates": {
+                "1": 205,
+                "2": 326,
+                "3": 13,
+                "4": 145,
+                "5": 199
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "永和區",
+            "cunli": "中溪里",
+            "house_no": "1714",
+            "candidates": {
+                "1": 178,
+                "2": 292,
+                "3": 16,
+                "4": 162,
+                "5": 164
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1370
+        },
+        {
+            "area": "永和區",
+            "cunli": "中溪里",
+            "house_no": "1715",
+            "candidates": {
+                "1": 146,
+                "2": 269,
+                "3": 9,
+                "4": 156,
+                "5": 201
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "永和區",
+            "cunli": "保安里",
+            "house_no": "1716",
+            "candidates": {
+                "1": 161,
+                "2": 243,
+                "3": 18,
+                "4": 189,
+                "5": 173
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1470
+        },
+        {
+            "area": "永和區",
+            "cunli": "保安里",
+            "house_no": "1717",
+            "candidates": {
+                "1": 179,
+                "2": 321,
+                "3": 16,
+                "4": 139,
+                "5": 135
+            },
+            "count_wrong": 29,
+            "count_unused": 2,
+            "count_total": 1417
+        },
+        {
+            "area": "永和區",
+            "cunli": "保安里",
+            "house_no": "1718",
+            "candidates": {
+                "1": 192,
+                "2": 272,
+                "3": 7,
+                "4": 153,
+                "5": 114
+            },
+            "count_wrong": 28,
+            "count_unused": 4,
+            "count_total": 1417
+        },
+        {
+            "area": "永和區",
+            "cunli": "保安里",
+            "house_no": "1719",
+            "candidates": {
+                "1": 193,
+                "2": 330,
+                "3": 23,
+                "4": 145,
+                "5": 128
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1431
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1720",
+            "candidates": {
+                "1": 119,
+                "2": 153,
+                "3": 8,
+                "4": 98,
+                "5": 139
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1721",
+            "candidates": {
+                "1": 164,
+                "2": 249,
+                "3": 6,
+                "4": 130,
+                "5": 140
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1722",
+            "candidates": {
+                "1": 158,
+                "2": 259,
+                "3": 8,
+                "4": 134,
+                "5": 133
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1723",
+            "candidates": {
+                "1": 143,
+                "2": 243,
+                "3": 9,
+                "4": 79,
+                "5": 128
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1724",
+            "candidates": {
+                "1": 180,
+                "2": 262,
+                "3": 12,
+                "4": 89,
+                "5": 97
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1725",
+            "candidates": {
+                "1": 247,
+                "2": 286,
+                "3": 10,
+                "4": 112,
+                "5": 142
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1399
+        },
+        {
+            "area": "永和區",
+            "cunli": "保順里",
+            "house_no": "1726",
+            "candidates": {
+                "1": 162,
+                "2": 237,
+                "3": 4,
+                "4": 104,
+                "5": 118
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "永和區",
+            "cunli": "下溪里",
+            "house_no": "1727",
+            "candidates": {
+                "1": 154,
+                "2": 292,
+                "3": 8,
+                "4": 98,
+                "5": 167
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "永和區",
+            "cunli": "下溪里",
+            "house_no": "1728",
+            "candidates": {
+                "1": 147,
+                "2": 289,
+                "3": 18,
+                "4": 89,
+                "5": 167
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "永和區",
+            "cunli": "下溪里",
+            "house_no": "1729",
+            "candidates": {
+                "1": 158,
+                "2": 333,
+                "3": 26,
+                "4": 109,
+                "5": 154
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1300
+        },
+        {
+            "area": "永和區",
+            "cunli": "大同里",
+            "house_no": "1730",
+            "candidates": {
+                "1": 206,
+                "2": 191,
+                "3": 11,
+                "4": 42,
+                "5": 58
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 894
+        },
+        {
+            "area": "永和區",
+            "cunli": "新生里",
+            "house_no": "1731",
+            "candidates": {
+                "1": 154,
+                "2": 199,
+                "3": 11,
+                "4": 54,
+                "5": 60
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "永和區",
+            "cunli": "永成里",
+            "house_no": "1732",
+            "candidates": {
+                "1": 203,
+                "2": 175,
+                "3": 5,
+                "4": 32,
+                "5": 34
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "永和區",
+            "cunli": "忠義里",
+            "house_no": "1733",
+            "candidates": {
+                "1": 101,
+                "2": 216,
+                "3": 3,
+                "4": 42,
+                "5": 37
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "永和區",
+            "cunli": "仁愛里",
+            "house_no": "1734",
+            "candidates": {
+                "1": 144,
+                "2": 260,
+                "3": 9,
+                "4": 92,
+                "5": 175
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "永和區",
+            "cunli": "仁愛里",
+            "house_no": "1735",
+            "candidates": {
+                "1": 166,
+                "2": 235,
+                "3": 7,
+                "4": 119,
+                "5": 152
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "永和區",
+            "cunli": "文化里",
+            "house_no": "1736",
+            "candidates": {
+                "1": 176,
+                "2": 205,
+                "3": 19,
+                "4": 85,
+                "5": 137
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "永和區",
+            "cunli": "文化里",
+            "house_no": "1737",
+            "candidates": {
+                "1": 197,
+                "2": 264,
+                "3": 8,
+                "4": 85,
+                "5": 137
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "永和區",
+            "cunli": "信義里",
+            "house_no": "1738",
+            "candidates": {
+                "1": 182,
+                "2": 255,
+                "3": 10,
+                "4": 107,
+                "5": 187
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "永和區",
+            "cunli": "信義里",
+            "house_no": "1739",
+            "candidates": {
+                "1": 145,
+                "2": 173,
+                "3": 5,
+                "4": 88,
+                "5": 132
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 912
+        },
+        {
+            "area": "永和區",
+            "cunli": "後溪里",
+            "house_no": "1740",
+            "candidates": {
+                "1": 89,
+                "2": 140,
+                "3": 6,
+                "4": 75,
+                "5": 138
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "永和區",
+            "cunli": "後溪里",
+            "house_no": "1741",
+            "candidates": {
+                "1": 103,
+                "2": 164,
+                "3": 9,
+                "4": 63,
+                "5": 147
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 896
+        },
+        {
+            "area": "永和區",
+            "cunli": "上溪里",
+            "house_no": "1742",
+            "candidates": {
+                "1": 113,
+                "2": 144,
+                "3": 4,
+                "4": 68,
+                "5": 115
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 781
+        },
+        {
+            "area": "永和區",
+            "cunli": "上溪里",
+            "house_no": "1743",
+            "candidates": {
+                "1": 132,
+                "2": 145,
+                "3": 6,
+                "4": 77,
+                "5": 113
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 793
+        },
+        {
+            "area": "永和區",
+            "cunli": "頂溪里",
+            "house_no": "1744",
+            "candidates": {
+                "1": 135,
+                "2": 215,
+                "3": 10,
+                "4": 111,
+                "5": 130
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "永和區",
+            "cunli": "頂溪里",
+            "house_no": "1745",
+            "candidates": {
+                "1": 114,
+                "2": 201,
+                "3": 8,
+                "4": 105,
+                "5": 101
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "永和區",
+            "cunli": "河堤里",
+            "house_no": "1746",
+            "candidates": {
+                "1": 195,
+                "2": 306,
+                "3": 13,
+                "4": 129,
+                "5": 174
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1514
+        },
+        {
+            "area": "永和區",
+            "cunli": "河堤里",
+            "house_no": "1747",
+            "candidates": {
+                "1": 181,
+                "2": 262,
+                "3": 26,
+                "4": 105,
+                "5": 151
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1324
+        },
+        {
+            "area": "永和區",
+            "cunli": "新廍里",
+            "house_no": "1748",
+            "candidates": {
+                "1": 129,
+                "2": 218,
+                "3": 22,
+                "4": 90,
+                "5": 152
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "永和區",
+            "cunli": "新廍里",
+            "house_no": "1749",
+            "candidates": {
+                "1": 133,
+                "2": 192,
+                "3": 13,
+                "4": 72,
+                "5": 127
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

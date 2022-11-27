@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "夏晨榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "張仁和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七美鄉",
+            "cunli": "東湖村",
+            "house_no": "115",
+            "candidates": {
+                "1": 54,
+                "2": 74
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 243
+        },
+        {
+            "area": "七美鄉",
+            "cunli": "西湖村",
+            "house_no": "116",
+            "candidates": {
+                "1": 172,
+                "2": 226
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 578
+        },
+        {
+            "area": "七美鄉",
+            "cunli": "中和村",
+            "house_no": "117",
+            "candidates": {
+                "1": 183,
+                "2": 212
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 640
+        },
+        {
+            "area": "七美鄉",
+            "cunli": "平和村",
+            "house_no": "118",
+            "candidates": {
+                "1": 63,
+                "2": 148
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 362
+        },
+        {
+            "area": "七美鄉",
+            "cunli": "海豐村",
+            "house_no": "119",
+            "candidates": {
+                "1": 84,
+                "2": 123
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 382
+        },
+        {
+            "area": "七美鄉",
+            "cunli": "南港村",
+            "house_no": "120",
+            "candidates": {
+                "1": 376,
+                "2": 291
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1142
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林誌鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "王姷力",
+            "party": "無"
+        },
+        "3": {
+            "name": "林為德",
+            "party": "無"
+        },
+        "4": {
+            "name": "李數奼",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "綠島鄉",
+            "cunli": "南寮村",
+            "house_no": "205",
+            "candidates": {
+                "1": 309,
+                "2": 272,
+                "3": 192,
+                "4": 273
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1599
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "中寮村",
+            "house_no": "206",
+            "candidates": {
+                "1": 112,
+                "2": 163,
+                "3": 190,
+                "4": 234
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "公舘村",
+            "house_no": "207",
+            "candidates": {
+                "1": 146,
+                "2": 178,
+                "3": 53,
+                "4": 122
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "公舘村",
+            "house_no": "208",
+            "candidates": {
+                "1": 29,
+                "2": 64,
+                "3": 35,
+                "4": 19
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 189
+        }
+    ]
+}

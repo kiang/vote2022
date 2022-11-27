@@ -1,0 +1,652 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐勝凌",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "吳傳地",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "何智達",
+            "party": "無"
+        },
+        "4": {
+            "name": "張鎮榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新豐鄉",
+            "cunli": "福興村",
+            "house_no": "329",
+            "candidates": {
+                "1": 102,
+                "2": 164,
+                "3": 124,
+                "4": 246
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "青埔村",
+            "house_no": "330",
+            "candidates": {
+                "1": 109,
+                "2": 94,
+                "3": 71,
+                "4": 243
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "青埔村",
+            "house_no": "331",
+            "candidates": {
+                "1": 117,
+                "2": 128,
+                "3": 92,
+                "4": 238
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "中崙村",
+            "house_no": "332",
+            "candidates": {
+                "1": 50,
+                "2": 130,
+                "3": 94,
+                "4": 221
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "中崙村",
+            "house_no": "333",
+            "candidates": {
+                "1": 80,
+                "2": 117,
+                "3": 90,
+                "4": 179
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "中崙村",
+            "house_no": "334",
+            "candidates": {
+                "1": 68,
+                "2": 166,
+                "3": 71,
+                "4": 176
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "瑞興村",
+            "house_no": "335",
+            "candidates": {
+                "1": 75,
+                "2": 186,
+                "3": 102,
+                "4": 181
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "瑞興村",
+            "house_no": "336",
+            "candidates": {
+                "1": 68,
+                "2": 107,
+                "3": 87,
+                "4": 136
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "後湖村",
+            "house_no": "337",
+            "candidates": {
+                "1": 44,
+                "2": 238,
+                "3": 49,
+                "4": 131
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 748
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "後湖村",
+            "house_no": "338",
+            "candidates": {
+                "1": 52,
+                "2": 175,
+                "3": 35,
+                "4": 262
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "坡頭村",
+            "house_no": "339",
+            "candidates": {
+                "1": 51,
+                "2": 267,
+                "3": 40,
+                "4": 199
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 782
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "埔和村",
+            "house_no": "340",
+            "candidates": {
+                "1": 53,
+                "2": 207,
+                "3": 28,
+                "4": 161
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "埔和村",
+            "house_no": "341",
+            "candidates": {
+                "1": 50,
+                "2": 260,
+                "3": 20,
+                "4": 114
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 812
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "埔和村",
+            "house_no": "342",
+            "candidates": {
+                "1": 30,
+                "2": 271,
+                "3": 14,
+                "4": 145
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 866
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "新豐村",
+            "house_no": "343",
+            "candidates": {
+                "1": 34,
+                "2": 255,
+                "3": 27,
+                "4": 223
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "新豐村",
+            "house_no": "344",
+            "candidates": {
+                "1": 48,
+                "2": 231,
+                "3": 26,
+                "4": 286
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "員山村",
+            "house_no": "345",
+            "candidates": {
+                "1": 101,
+                "2": 142,
+                "3": 201,
+                "4": 277
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "員山村",
+            "house_no": "346",
+            "candidates": {
+                "1": 162,
+                "2": 94,
+                "3": 239,
+                "4": 228
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1447
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "忠孝村",
+            "house_no": "347",
+            "candidates": {
+                "1": 111,
+                "2": 100,
+                "3": 210,
+                "4": 196
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "忠孝村",
+            "house_no": "348",
+            "candidates": {
+                "1": 83,
+                "2": 96,
+                "3": 179,
+                "4": 187
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "忠孝村",
+            "house_no": "349",
+            "candidates": {
+                "1": 90,
+                "2": 75,
+                "3": 161,
+                "4": 179
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "山崎村",
+            "house_no": "350",
+            "candidates": {
+                "1": 105,
+                "2": 83,
+                "3": 206,
+                "4": 121
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "山崎村",
+            "house_no": "351",
+            "candidates": {
+                "1": 80,
+                "2": 92,
+                "3": 193,
+                "4": 136
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 968
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "山崎村",
+            "house_no": "352",
+            "candidates": {
+                "1": 124,
+                "2": 107,
+                "3": 189,
+                "4": 132
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "山崎村",
+            "house_no": "353",
+            "candidates": {
+                "1": 117,
+                "2": 123,
+                "3": 207,
+                "4": 152
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "上坑村",
+            "house_no": "354",
+            "candidates": {
+                "1": 79,
+                "2": 130,
+                "3": 73,
+                "4": 193
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 751
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "上坑村",
+            "house_no": "355",
+            "candidates": {
+                "1": 63,
+                "2": 139,
+                "3": 73,
+                "4": 196
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 736
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "鳳坑村",
+            "house_no": "356",
+            "candidates": {
+                "1": 104,
+                "2": 215,
+                "3": 93,
+                "4": 311
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "重興村",
+            "house_no": "357",
+            "candidates": {
+                "1": 90,
+                "2": 141,
+                "3": 46,
+                "4": 251
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "重興村",
+            "house_no": "358",
+            "candidates": {
+                "1": 72,
+                "2": 125,
+                "3": 52,
+                "4": 330
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "重興村",
+            "house_no": "359",
+            "candidates": {
+                "1": 109,
+                "2": 105,
+                "3": 60,
+                "4": 204
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "重興村",
+            "house_no": "360",
+            "candidates": {
+                "1": 86,
+                "2": 127,
+                "3": 48,
+                "4": 223
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "重興村",
+            "house_no": "361",
+            "candidates": {
+                "1": 81,
+                "2": 148,
+                "3": 69,
+                "4": 276
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "崎頂村",
+            "house_no": "362",
+            "candidates": {
+                "1": 64,
+                "2": 96,
+                "3": 78,
+                "4": 200
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "崎頂村",
+            "house_no": "363",
+            "candidates": {
+                "1": 51,
+                "2": 118,
+                "3": 106,
+                "4": 122
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 782
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "崎頂村",
+            "house_no": "364",
+            "candidates": {
+                "1": 79,
+                "2": 104,
+                "3": 162,
+                "4": 198
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "365",
+            "candidates": {
+                "1": 75,
+                "2": 85,
+                "3": 299,
+                "4": 128
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "366",
+            "candidates": {
+                "1": 61,
+                "2": 68,
+                "3": 260,
+                "4": 143
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "367",
+            "candidates": {
+                "1": 77,
+                "2": 82,
+                "3": 341,
+                "4": 136
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "368",
+            "candidates": {
+                "1": 104,
+                "2": 114,
+                "3": 221,
+                "4": 88
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "369",
+            "candidates": {
+                "1": 112,
+                "2": 82,
+                "3": 175,
+                "4": 171
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "370",
+            "candidates": {
+                "1": 130,
+                "2": 98,
+                "3": 168,
+                "4": 182
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "371",
+            "candidates": {
+                "1": 111,
+                "2": 91,
+                "3": 223,
+                "4": 118
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 1140
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "372",
+            "candidates": {
+                "1": 161,
+                "2": 105,
+                "3": 211,
+                "4": 129
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "373",
+            "candidates": {
+                "1": 230,
+                "2": 103,
+                "3": 161,
+                "4": 115
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1435
+        }
+    ]
+}

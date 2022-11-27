@@ -1,0 +1,135 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王薇茗",
+            "party": "無"
+        },
+        "2": {
+            "name": "許允良",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "琉球鄉",
+            "cunli": "本福村",
+            "house_no": "611",
+            "candidates": {
+                "1": 369,
+                "2": 65,
+                "3": 231
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "本福村",
+            "house_no": "612",
+            "candidates": {
+                "1": 315,
+                "2": 108,
+                "3": 249
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "中福村",
+            "house_no": "613",
+            "candidates": {
+                "1": 465,
+                "2": 53,
+                "3": 325
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "漁福村",
+            "house_no": "614",
+            "candidates": {
+                "1": 395,
+                "2": 80,
+                "3": 238
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "大福村",
+            "house_no": "615",
+            "candidates": {
+                "1": 667,
+                "2": 70,
+                "3": 373
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1614
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "南福村",
+            "house_no": "616",
+            "candidates": {
+                "1": 384,
+                "2": 50,
+                "3": 216
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1082
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "天福村",
+            "house_no": "617",
+            "candidates": {
+                "1": 473,
+                "2": 60,
+                "3": 241
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "上福村",
+            "house_no": "618",
+            "candidates": {
+                "1": 574,
+                "2": 102,
+                "3": 422
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1611
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "杉福村",
+            "house_no": "619",
+            "candidates": {
+                "1": 328,
+                "2": 62,
+                "3": 205
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 864
+        }
+    ]
+}

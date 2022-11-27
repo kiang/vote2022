@@ -1,0 +1,3502 @@
+{
+    "candidates": {
+        "1": {
+            "name": "笛布斯．顗賚",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉志豪",
+            "party": "無"
+        },
+        "3": {
+            "name": "督固．撒耘",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "周駿宥",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "李正文",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳進德",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "林資斌",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民德里",
+            "house_no": "1",
+            "candidates": {
+                "1": 12,
+                "2": 0,
+                "3": 1,
+                "4": 2,
+                "5": 4,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 32
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民德里",
+            "house_no": "2",
+            "candidates": {
+                "1": 4,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 0,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 19
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民勤里",
+            "house_no": "3",
+            "candidates": {
+                "1": 12,
+                "2": 1,
+                "3": 4,
+                "4": 6,
+                "5": 7,
+                "6": 3,
+                "7": 0
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 83
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民勤里",
+            "house_no": "4",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 9,
+                "4": 2,
+                "5": 13,
+                "6": 2,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 107
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民勤里",
+            "house_no": "5",
+            "candidates": {
+                "1": 11,
+                "2": 0,
+                "3": 3,
+                "4": 4,
+                "5": 4,
+                "6": 8,
+                "7": 1
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 85
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民意里",
+            "house_no": "6",
+            "candidates": {
+                "1": 12,
+                "2": 3,
+                "3": 4,
+                "4": 4,
+                "5": 11,
+                "6": 1,
+                "7": 1
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 101
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民意里",
+            "house_no": "7",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 7,
+                "4": 3,
+                "5": 5,
+                "6": 4,
+                "7": 1
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 77
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民意里",
+            "house_no": "8",
+            "candidates": {
+                "1": 8,
+                "2": 7,
+                "3": 7,
+                "4": 6,
+                "5": 9,
+                "6": 4,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 91
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民心里",
+            "house_no": "9",
+            "candidates": {
+                "1": 10,
+                "2": 2,
+                "3": 1,
+                "4": 8,
+                "5": 9,
+                "6": 1,
+                "7": 5
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 87
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民享里",
+            "house_no": "10",
+            "candidates": {
+                "1": 12,
+                "2": 0,
+                "3": 4,
+                "4": 8,
+                "5": 8,
+                "6": 3,
+                "7": 6
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 102
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民享里",
+            "house_no": "11",
+            "candidates": {
+                "1": 15,
+                "2": 2,
+                "3": 5,
+                "4": 9,
+                "5": 13,
+                "6": 3,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 120
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民享里",
+            "house_no": "12",
+            "candidates": {
+                "1": 19,
+                "2": 1,
+                "3": 4,
+                "4": 5,
+                "5": 17,
+                "6": 5,
+                "7": 6
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 128
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民孝里",
+            "house_no": "13",
+            "candidates": {
+                "1": 18,
+                "2": 2,
+                "3": 6,
+                "4": 5,
+                "5": 9,
+                "6": 2,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 107
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民孝里",
+            "house_no": "14",
+            "candidates": {
+                "1": 5,
+                "2": 0,
+                "3": 3,
+                "4": 9,
+                "5": 19,
+                "6": 3,
+                "7": 3
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 118
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民孝里",
+            "house_no": "15",
+            "candidates": {
+                "1": 22,
+                "2": 4,
+                "3": 10,
+                "4": 14,
+                "5": 48,
+                "6": 12,
+                "7": 16
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 223
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民運里",
+            "house_no": "16",
+            "candidates": {
+                "1": 16,
+                "2": 1,
+                "3": 4,
+                "4": 3,
+                "5": 8,
+                "6": 12,
+                "7": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 106
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民運里",
+            "house_no": "17",
+            "candidates": {
+                "1": 8,
+                "2": 0,
+                "3": 3,
+                "4": 2,
+                "5": 2,
+                "6": 4,
+                "7": 8
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 65
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "18",
+            "candidates": {
+                "1": 2,
+                "2": 3,
+                "3": 3,
+                "4": 7,
+                "5": 7,
+                "6": 3,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 78
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "19",
+            "candidates": {
+                "1": 7,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 5,
+                "6": 3,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 54
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "20",
+            "candidates": {
+                "1": 17,
+                "2": 0,
+                "3": 7,
+                "4": 1,
+                "5": 9,
+                "6": 1,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 93
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "21",
+            "candidates": {
+                "1": 10,
+                "2": 0,
+                "3": 8,
+                "4": 5,
+                "5": 8,
+                "6": 5,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 97
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民立里",
+            "house_no": "22",
+            "candidates": {
+                "1": 12,
+                "2": 0,
+                "3": 3,
+                "4": 0,
+                "5": 8,
+                "6": 4,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 57
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民立里",
+            "house_no": "23",
+            "candidates": {
+                "1": 4,
+                "2": 3,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 3,
+                "7": 6
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 63
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民樂里",
+            "house_no": "24",
+            "candidates": {
+                "1": 9,
+                "2": 4,
+                "3": 6,
+                "4": 11,
+                "5": 11,
+                "6": 4,
+                "7": 4
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 97
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民有里",
+            "house_no": "25",
+            "candidates": {
+                "1": 5,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 1,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 16
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民主里",
+            "house_no": "26",
+            "candidates": {
+                "1": 5,
+                "2": 1,
+                "3": 2,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 34
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民族里",
+            "house_no": "27",
+            "candidates": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 14
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民生里",
+            "house_no": "28",
+            "candidates": {
+                "1": 4,
+                "2": 3,
+                "3": 2,
+                "4": 3,
+                "5": 4,
+                "6": 2,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 47
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民權里",
+            "house_no": "29",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 1,
+                "6": 3,
+                "7": 2
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 25
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主商里",
+            "house_no": "30",
+            "candidates": {
+                "1": 1,
+                "2": 2,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 16
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主勤里",
+            "house_no": "31",
+            "candidates": {
+                "1": 2,
+                "2": 1,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 26
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主工里",
+            "house_no": "32",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 14
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主信里",
+            "house_no": "33",
+            "candidates": {
+                "1": 5,
+                "2": 1,
+                "3": 0,
+                "4": 3,
+                "5": 1,
+                "6": 1,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 30
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主義里",
+            "house_no": "34",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 16
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主睦里",
+            "house_no": "35",
+            "candidates": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 2,
+                "6": 0,
+                "7": 4
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 30
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主計里",
+            "house_no": "36",
+            "candidates": {
+                "1": 3,
+                "2": 1,
+                "3": 0,
+                "4": 5,
+                "5": 1,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 43
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主和里",
+            "house_no": "37",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 0,
+                "4": 4,
+                "5": 4,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 39
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主和里",
+            "house_no": "38",
+            "candidates": {
+                "1": 9,
+                "2": 1,
+                "3": 4,
+                "4": 4,
+                "5": 4,
+                "6": 7,
+                "7": 3
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 80
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主和里",
+            "house_no": "39",
+            "candidates": {
+                "1": 10,
+                "2": 1,
+                "3": 0,
+                "4": 2,
+                "5": 3,
+                "6": 0,
+                "7": 6
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 42
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主學里",
+            "house_no": "40",
+            "candidates": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 34
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主學里",
+            "house_no": "41",
+            "candidates": {
+                "1": 5,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 3,
+                "6": 2,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 43
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "42",
+            "candidates": {
+                "1": 9,
+                "2": 0,
+                "3": 0,
+                "4": 8,
+                "5": 10,
+                "6": 26,
+                "7": 6
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 103
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "43",
+            "candidates": {
+                "1": 14,
+                "2": 1,
+                "3": 3,
+                "4": 10,
+                "5": 3,
+                "6": 14,
+                "7": 6
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 102
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "44",
+            "candidates": {
+                "1": 9,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 44
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "45",
+            "candidates": {
+                "1": 5,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 4,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 29
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主安里",
+            "house_no": "46",
+            "candidates": {
+                "1": 9,
+                "2": 0,
+                "3": 6,
+                "4": 4,
+                "5": 3,
+                "6": 4,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 59
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主安里",
+            "house_no": "47",
+            "candidates": {
+                "1": 9,
+                "2": 4,
+                "3": 0,
+                "4": 3,
+                "5": 0,
+                "6": 0,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 72
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "48",
+            "candidates": {
+                "1": 16,
+                "2": 1,
+                "3": 3,
+                "4": 1,
+                "5": 11,
+                "6": 8,
+                "7": 5
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 87
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "49",
+            "candidates": {
+                "1": 43,
+                "2": 3,
+                "3": 8,
+                "4": 1,
+                "5": 13,
+                "6": 5,
+                "7": 14
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 176
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "50",
+            "candidates": {
+                "1": 55,
+                "2": 5,
+                "3": 7,
+                "4": 6,
+                "5": 11,
+                "6": 9,
+                "7": 16
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 220
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "51",
+            "candidates": {
+                "1": 20,
+                "2": 2,
+                "3": 9,
+                "4": 7,
+                "5": 11,
+                "6": 2,
+                "7": 8
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 129
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "52",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 7,
+                "6": 2,
+                "7": 10
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 70
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主力里",
+            "house_no": "53",
+            "candidates": {
+                "1": 1,
+                "2": 0,
+                "3": 2,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 23
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主力里",
+            "house_no": "54",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 1,
+                "4": 1,
+                "5": 6,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 35
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主力里",
+            "house_no": "55",
+            "candidates": {
+                "1": 8,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 2,
+                "6": 5,
+                "7": 4
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 74
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國風里",
+            "house_no": "56",
+            "candidates": {
+                "1": 7,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 1,
+                "6": 2,
+                "7": 4
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 28
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國風里",
+            "house_no": "57",
+            "candidates": {
+                "1": 4,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 1,
+                "6": 2,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 24
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國風里",
+            "house_no": "58",
+            "candidates": {
+                "1": 5,
+                "2": 1,
+                "3": 0,
+                "4": 4,
+                "5": 4,
+                "6": 0,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 47
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國威里",
+            "house_no": "59",
+            "candidates": {
+                "1": 1,
+                "2": 0,
+                "3": 3,
+                "4": 0,
+                "5": 5,
+                "6": 1,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 77
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國威里",
+            "house_no": "60",
+            "candidates": {
+                "1": 4,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 2,
+                "6": 2,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 32
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國治里",
+            "house_no": "61",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 3,
+                "4": 0,
+                "5": 3,
+                "6": 1,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 38
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國安里",
+            "house_no": "62",
+            "candidates": {
+                "1": 2,
+                "2": 0,
+                "3": 3,
+                "4": 2,
+                "5": 3,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 24
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國光里",
+            "house_no": "63",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 1,
+                "4": 2,
+                "5": 3,
+                "6": 1,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 56
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國防里",
+            "house_no": "64",
+            "candidates": {
+                "1": 12,
+                "2": 1,
+                "3": 0,
+                "4": 3,
+                "5": 2,
+                "6": 0,
+                "7": 5
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 55
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國華里",
+            "house_no": "65",
+            "candidates": {
+                "1": 10,
+                "2": 0,
+                "3": 2,
+                "4": 3,
+                "5": 0,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 39
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國華里",
+            "house_no": "66",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 1,
+                "6": 0,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 33
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國魂里",
+            "house_no": "67",
+            "candidates": {
+                "1": 7,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 2,
+                "6": 2,
+                "7": 0
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 47
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國魂里",
+            "house_no": "68",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 2,
+                "4": 0,
+                "5": 6,
+                "6": 3,
+                "7": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 39
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國聯里",
+            "house_no": "69",
+            "candidates": {
+                "1": 5,
+                "2": 3,
+                "3": 0,
+                "4": 4,
+                "5": 5,
+                "6": 4,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 73
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國聯里",
+            "house_no": "70",
+            "candidates": {
+                "1": 4,
+                "2": 1,
+                "3": 6,
+                "4": 2,
+                "5": 7,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 36
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國聯里",
+            "house_no": "71",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 2,
+                "4": 2,
+                "5": 1,
+                "6": 2,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 41
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "72",
+            "candidates": {
+                "1": 9,
+                "2": 1,
+                "3": 4,
+                "4": 8,
+                "5": 11,
+                "6": 3,
+                "7": 2
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 112
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "73",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 4,
+                "4": 7,
+                "5": 7,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 76
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "74",
+            "candidates": {
+                "1": 20,
+                "2": 1,
+                "3": 2,
+                "4": 2,
+                "5": 5,
+                "6": 0,
+                "7": 4
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 75
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "75",
+            "candidates": {
+                "1": 13,
+                "2": 0,
+                "3": 8,
+                "4": 3,
+                "5": 3,
+                "6": 2,
+                "7": 10
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 98
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國強里",
+            "house_no": "76",
+            "candidates": {
+                "1": 10,
+                "2": 5,
+                "3": 7,
+                "4": 1,
+                "5": 21,
+                "6": 5,
+                "7": 13
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 102
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國強里",
+            "house_no": "77",
+            "candidates": {
+                "1": 12,
+                "2": 2,
+                "3": 3,
+                "4": 5,
+                "5": 14,
+                "6": 3,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 119
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國富里",
+            "house_no": "78",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 2,
+                "4": 4,
+                "5": 9,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 65
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國富里",
+            "house_no": "79",
+            "candidates": {
+                "1": 5,
+                "2": 3,
+                "3": 2,
+                "4": 4,
+                "5": 5,
+                "6": 2,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 51
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國富里",
+            "house_no": "80",
+            "candidates": {
+                "1": 7,
+                "2": 3,
+                "3": 4,
+                "4": 4,
+                "5": 17,
+                "6": 1,
+                "7": 7
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 93
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國富里",
+            "house_no": "81",
+            "candidates": {
+                "1": 6,
+                "2": 3,
+                "3": 2,
+                "4": 4,
+                "5": 4,
+                "6": 1,
+                "7": 7
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 62
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國富里",
+            "house_no": "82",
+            "candidates": {
+                "1": 10,
+                "2": 3,
+                "3": 3,
+                "4": 1,
+                "5": 6,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 66
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國裕里",
+            "house_no": "83",
+            "candidates": {
+                "1": 11,
+                "2": 5,
+                "3": 6,
+                "4": 3,
+                "5": 13,
+                "6": 0,
+                "7": 6
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 110
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國裕里",
+            "house_no": "84",
+            "candidates": {
+                "1": 11,
+                "2": 2,
+                "3": 8,
+                "4": 4,
+                "5": 8,
+                "6": 1,
+                "7": 9
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 82
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國裕里",
+            "house_no": "85",
+            "candidates": {
+                "1": 19,
+                "2": 0,
+                "3": 4,
+                "4": 8,
+                "5": 7,
+                "6": 1,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 76
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國裕里",
+            "house_no": "86",
+            "candidates": {
+                "1": 18,
+                "2": 1,
+                "3": 16,
+                "4": 9,
+                "5": 12,
+                "6": 1,
+                "7": 4
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 127
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國慶里",
+            "house_no": "87",
+            "candidates": {
+                "1": 8,
+                "2": 5,
+                "3": 12,
+                "4": 6,
+                "5": 23,
+                "6": 11,
+                "7": 10
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 153
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "88",
+            "candidates": {
+                "1": 6,
+                "2": 2,
+                "3": 6,
+                "4": 1,
+                "5": 10,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 38
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "89",
+            "candidates": {
+                "1": 8,
+                "2": 0,
+                "3": 4,
+                "4": 2,
+                "5": 14,
+                "6": 1,
+                "7": 6
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 69
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "90",
+            "candidates": {
+                "1": 10,
+                "2": 0,
+                "3": 8,
+                "4": 3,
+                "5": 13,
+                "6": 0,
+                "7": 4
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 104
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "91",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 4,
+                "4": 5,
+                "5": 9,
+                "6": 1,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 79
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國福里",
+            "house_no": "92",
+            "candidates": {
+                "1": 15,
+                "2": 11,
+                "3": 13,
+                "4": 12,
+                "5": 41,
+                "6": 2,
+                "7": 9
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 201
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國福里",
+            "house_no": "93",
+            "candidates": {
+                "1": 34,
+                "2": 29,
+                "3": 15,
+                "4": 23,
+                "5": 39,
+                "6": 7,
+                "7": 24
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 293
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "94",
+            "candidates": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 6
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "95",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 1,
+                "4": 16,
+                "5": 12,
+                "6": 3,
+                "7": 5
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 74
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "順安村",
+            "house_no": "96",
+            "candidates": {
+                "1": 12,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 8,
+                "6": 3,
+                "7": 5
+            },
+            "count_wrong": 0,
+            "count_unused": 1,
+            "count_total": 46
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "順安村",
+            "house_no": "97",
+            "candidates": {
+                "1": 3,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 2,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 19
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "98",
+            "candidates": {
+                "1": 16,
+                "2": 6,
+                "3": 3,
+                "4": 8,
+                "5": 17,
+                "6": 7,
+                "7": 5
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 106
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "99",
+            "candidates": {
+                "1": 12,
+                "2": 8,
+                "3": 7,
+                "4": 15,
+                "5": 15,
+                "6": 8,
+                "7": 8
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 162
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "100",
+            "candidates": {
+                "1": 20,
+                "2": 3,
+                "3": 9,
+                "4": 11,
+                "5": 13,
+                "6": 0,
+                "7": 11
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 133
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "大漢村",
+            "house_no": "101",
+            "candidates": {
+                "1": 29,
+                "2": 19,
+                "3": 28,
+                "4": 50,
+                "5": 81,
+                "6": 5,
+                "7": 22
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 421
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "大漢村",
+            "house_no": "102",
+            "candidates": {
+                "1": 32,
+                "2": 11,
+                "3": 14,
+                "4": 45,
+                "5": 43,
+                "6": 13,
+                "7": 16
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 356
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "大漢村",
+            "house_no": "103",
+            "candidates": {
+                "1": 3,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 5,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 33
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新秀村",
+            "house_no": "104",
+            "candidates": {
+                "1": 28,
+                "2": 7,
+                "3": 11,
+                "4": 6,
+                "5": 22,
+                "6": 9,
+                "7": 12
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 172
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新秀村",
+            "house_no": "105",
+            "candidates": {
+                "1": 30,
+                "2": 17,
+                "3": 2,
+                "4": 30,
+                "5": 18,
+                "6": 9,
+                "7": 11
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 212
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "106",
+            "candidates": {
+                "1": 14,
+                "2": 1,
+                "3": 9,
+                "4": 8,
+                "5": 22,
+                "6": 6,
+                "7": 4
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 119
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "107",
+            "candidates": {
+                "1": 16,
+                "2": 1,
+                "3": 7,
+                "4": 12,
+                "5": 13,
+                "6": 9,
+                "7": 6
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 137
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "108",
+            "candidates": {
+                "1": 18,
+                "2": 4,
+                "3": 5,
+                "4": 21,
+                "5": 5,
+                "6": 19,
+                "7": 6
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 203
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "佳林村",
+            "house_no": "109",
+            "candidates": {
+                "1": 34,
+                "2": 8,
+                "3": 8,
+                "4": 27,
+                "5": 11,
+                "6": 9,
+                "7": 8
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 166
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "110",
+            "candidates": {
+                "1": 12,
+                "2": 4,
+                "3": 6,
+                "4": 11,
+                "5": 4,
+                "6": 3,
+                "7": 13
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 102
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "111",
+            "candidates": {
+                "1": 11,
+                "2": 6,
+                "3": 7,
+                "4": 33,
+                "5": 22,
+                "6": 6,
+                "7": 8
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 166
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "112",
+            "candidates": {
+                "1": 19,
+                "2": 3,
+                "3": 1,
+                "4": 22,
+                "5": 24,
+                "6": 2,
+                "7": 5
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 147
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "113",
+            "candidates": {
+                "1": 19,
+                "2": 5,
+                "3": 8,
+                "4": 21,
+                "5": 17,
+                "6": 4,
+                "7": 10
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 229
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "114",
+            "candidates": {
+                "1": 32,
+                "2": 16,
+                "3": 2,
+                "4": 35,
+                "5": 41,
+                "6": 13,
+                "7": 10
+            },
+            "count_wrong": 10,
+            "count_unused": 1,
+            "count_total": 258
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "115",
+            "candidates": {
+                "1": 21,
+                "2": 4,
+                "3": 3,
+                "4": 15,
+                "5": 13,
+                "6": 7,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 112
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "和平村",
+            "house_no": "116",
+            "candidates": {
+                "1": 11,
+                "2": 0,
+                "3": 2,
+                "4": 1,
+                "5": 7,
+                "6": 5,
+                "7": 3
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 51
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "和平村",
+            "house_no": "117",
+            "candidates": {
+                "1": 7,
+                "2": 1,
+                "3": 4,
+                "4": 13,
+                "5": 4,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 47
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "崇德村",
+            "house_no": "118",
+            "candidates": {
+                "1": 8,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 2,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 34
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "崇德村",
+            "house_no": "119",
+            "candidates": {
+                "1": 8,
+                "2": 2,
+                "3": 2,
+                "4": 1,
+                "5": 1,
+                "6": 7,
+                "7": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 48
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "富世村",
+            "house_no": "120",
+            "candidates": {
+                "1": 5,
+                "2": 2,
+                "3": 2,
+                "4": 0,
+                "5": 10,
+                "6": 7,
+                "7": 2
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 52
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "富世村",
+            "house_no": "121",
+            "candidates": {
+                "1": 2,
+                "2": 0,
+                "3": 9,
+                "4": 1,
+                "5": 1,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 23
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "富世村",
+            "house_no": "122",
+            "candidates": {
+                "1": 0,
+                "2": 0,
+                "3": 7,
+                "4": 2,
+                "5": 4,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 17
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "秀林村",
+            "house_no": "123",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 2,
+                "6": 4,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 20
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "秀林村",
+            "house_no": "124",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 5,
+                "4": 5,
+                "5": 0,
+                "6": 2,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 32
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "秀林村",
+            "house_no": "125",
+            "candidates": {
+                "1": 5,
+                "2": 0,
+                "3": 7,
+                "4": 3,
+                "5": 4,
+                "6": 1,
+                "7": 4
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 40
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "景美村",
+            "house_no": "126",
+            "candidates": {
+                "1": 15,
+                "2": 3,
+                "3": 1,
+                "4": 15,
+                "5": 9,
+                "6": 9,
+                "7": 6
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 94
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "景美村",
+            "house_no": "127",
+            "candidates": {
+                "1": 4,
+                "2": 3,
+                "3": 2,
+                "4": 8,
+                "5": 0,
+                "6": 3,
+                "7": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 29
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "佳民村",
+            "house_no": "128",
+            "candidates": {
+                "1": 34,
+                "2": 2,
+                "3": 8,
+                "4": 20,
+                "5": 30,
+                "6": 7,
+                "7": 5
+            },
+            "count_wrong": 2,
+            "count_unused": 2,
+            "count_total": 140
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "水源村",
+            "house_no": "129",
+            "candidates": {
+                "1": 9,
+                "2": 0,
+                "3": 9,
+                "4": 3,
+                "5": 3,
+                "6": 6,
+                "7": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 56
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "銅門村",
+            "house_no": "130",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 0,
+                "4": 4,
+                "5": 4,
+                "6": 2,
+                "7": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 26
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "銅門村",
+            "house_no": "131",
+            "candidates": {
+                "1": 7,
+                "2": 3,
+                "3": 0,
+                "4": 4,
+                "5": 0,
+                "6": 4,
+                "7": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 20
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "文蘭村",
+            "house_no": "132",
+            "candidates": {
+                "1": 9,
+                "2": 1,
+                "3": 3,
+                "4": 6,
+                "5": 2,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 30
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "文蘭村",
+            "house_no": "133",
+            "candidates": {
+                "1": 5,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 9
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永安村",
+            "house_no": "134",
+            "candidates": {
+                "1": 9,
+                "2": 0,
+                "3": 4,
+                "4": 3,
+                "5": 3,
+                "6": 0,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 74
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永安村",
+            "house_no": "135",
+            "candidates": {
+                "1": 12,
+                "2": 0,
+                "3": 2,
+                "4": 2,
+                "5": 5,
+                "6": 3,
+                "7": 6
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 67
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永安村",
+            "house_no": "136",
+            "candidates": {
+                "1": 13,
+                "2": 0,
+                "3": 6,
+                "4": 6,
+                "5": 2,
+                "6": 5,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 93
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永安村",
+            "house_no": "137",
+            "candidates": {
+                "1": 5,
+                "2": 0,
+                "3": 5,
+                "4": 9,
+                "5": 3,
+                "6": 4,
+                "7": 0
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 65
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "太昌村",
+            "house_no": "138",
+            "candidates": {
+                "1": 13,
+                "2": 2,
+                "3": 10,
+                "4": 14,
+                "5": 7,
+                "6": 3,
+                "7": 3
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 111
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "太昌村",
+            "house_no": "139",
+            "candidates": {
+                "1": 22,
+                "2": 2,
+                "3": 9,
+                "4": 24,
+                "5": 16,
+                "6": 4,
+                "7": 11
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 209
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "太昌村",
+            "house_no": "140",
+            "candidates": {
+                "1": 27,
+                "2": 4,
+                "3": 21,
+                "4": 27,
+                "5": 24,
+                "6": 16,
+                "7": 16
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 292
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "141",
+            "candidates": {
+                "1": 9,
+                "2": 1,
+                "3": 5,
+                "4": 9,
+                "5": 4,
+                "6": 14,
+                "7": 9
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 93
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "142",
+            "candidates": {
+                "1": 10,
+                "2": 1,
+                "3": 9,
+                "4": 14,
+                "5": 16,
+                "6": 7,
+                "7": 11
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 125
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "143",
+            "candidates": {
+                "1": 15,
+                "2": 2,
+                "3": 7,
+                "4": 7,
+                "5": 0,
+                "6": 2,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 76
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "144",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 5,
+                "6": 4,
+                "7": 6
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 58
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "145",
+            "candidates": {
+                "1": 11,
+                "2": 3,
+                "3": 5,
+                "4": 13,
+                "5": 1,
+                "6": 2,
+                "7": 5
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 80
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "146",
+            "candidates": {
+                "1": 19,
+                "2": 0,
+                "3": 5,
+                "4": 14,
+                "5": 5,
+                "6": 5,
+                "7": 8
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 116
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "吉安村",
+            "house_no": "147",
+            "candidates": {
+                "1": 4,
+                "2": 0,
+                "3": 4,
+                "4": 7,
+                "5": 1,
+                "6": 1,
+                "7": 1
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 51
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "吉安村",
+            "house_no": "148",
+            "candidates": {
+                "1": 8,
+                "2": 1,
+                "3": 0,
+                "4": 2,
+                "5": 2,
+                "6": 3,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 40
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "吉安村",
+            "house_no": "149",
+            "candidates": {
+                "1": 9,
+                "2": 0,
+                "3": 3,
+                "4": 17,
+                "5": 6,
+                "6": 8,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 78
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "吉安村",
+            "house_no": "150",
+            "candidates": {
+                "1": 9,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 1,
+                "6": 1,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 49
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "吉安村",
+            "house_no": "151",
+            "candidates": {
+                "1": 5,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 4,
+                "6": 2,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 115
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "吉安村",
+            "house_no": "152",
+            "candidates": {
+                "1": 11,
+                "2": 1,
+                "3": 8,
+                "4": 7,
+                "5": 4,
+                "6": 4,
+                "7": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 70
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "福興村",
+            "house_no": "153",
+            "candidates": {
+                "1": 13,
+                "2": 2,
+                "3": 6,
+                "4": 9,
+                "5": 6,
+                "6": 5,
+                "7": 5
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 105
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "福興村",
+            "house_no": "154",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 1,
+                "4": 7,
+                "5": 2,
+                "6": 2,
+                "7": 6
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 67
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "福興村",
+            "house_no": "155",
+            "candidates": {
+                "1": 10,
+                "2": 4,
+                "3": 4,
+                "4": 9,
+                "5": 8,
+                "6": 4,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 74
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南華村",
+            "house_no": "156",
+            "candidates": {
+                "1": 17,
+                "2": 4,
+                "3": 5,
+                "4": 28,
+                "5": 26,
+                "6": 29,
+                "7": 10
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 250
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南華村",
+            "house_no": "157",
+            "candidates": {
+                "1": 8,
+                "2": 2,
+                "3": 0,
+                "4": 7,
+                "5": 2,
+                "6": 5,
+                "7": 5
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 67
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "干城村",
+            "house_no": "158",
+            "candidates": {
+                "1": 24,
+                "2": 5,
+                "3": 4,
+                "4": 17,
+                "5": 21,
+                "6": 7,
+                "7": 7
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 205
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永興村",
+            "house_no": "159",
+            "candidates": {
+                "1": 7,
+                "2": 0,
+                "3": 2,
+                "4": 2,
+                "5": 3,
+                "6": 3,
+                "7": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 31
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永興村",
+            "house_no": "160",
+            "candidates": {
+                "1": 10,
+                "2": 6,
+                "3": 2,
+                "4": 16,
+                "5": 33,
+                "6": 9,
+                "7": 8
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 168
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永興村",
+            "house_no": "161",
+            "candidates": {
+                "1": 34,
+                "2": 3,
+                "3": 4,
+                "4": 15,
+                "5": 24,
+                "6": 27,
+                "7": 19
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 290
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "稻香村",
+            "house_no": "162",
+            "candidates": {
+                "1": 11,
+                "2": 1,
+                "3": 2,
+                "4": 1,
+                "5": 6,
+                "6": 4,
+                "7": 8
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 58
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "稻香村",
+            "house_no": "163",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 1,
+                "4": 4,
+                "5": 6,
+                "6": 1,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 47
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "稻香村",
+            "house_no": "164",
+            "candidates": {
+                "1": 15,
+                "2": 1,
+                "3": 2,
+                "4": 4,
+                "5": 1,
+                "6": 1,
+                "7": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 75
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "165",
+            "candidates": {
+                "1": 39,
+                "2": 2,
+                "3": 4,
+                "4": 64,
+                "5": 82,
+                "6": 18,
+                "7": 20
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 381
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "166",
+            "candidates": {
+                "1": 30,
+                "2": 5,
+                "3": 10,
+                "4": 42,
+                "5": 81,
+                "6": 15,
+                "7": 15
+            },
+            "count_wrong": 2,
+            "count_unused": 1,
+            "count_total": 335
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "167",
+            "candidates": {
+                "1": 24,
+                "2": 6,
+                "3": 13,
+                "4": 21,
+                "5": 36,
+                "6": 11,
+                "7": 14
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 210
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "168",
+            "candidates": {
+                "1": 20,
+                "2": 1,
+                "3": 7,
+                "4": 27,
+                "5": 18,
+                "6": 2,
+                "7": 11
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 181
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "169",
+            "candidates": {
+                "1": 15,
+                "2": 1,
+                "3": 6,
+                "4": 24,
+                "5": 20,
+                "6": 7,
+                "7": 16
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 144
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "170",
+            "candidates": {
+                "1": 13,
+                "2": 1,
+                "3": 6,
+                "4": 22,
+                "5": 22,
+                "6": 13,
+                "7": 11
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 214
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "171",
+            "candidates": {
+                "1": 8,
+                "2": 2,
+                "3": 8,
+                "4": 72,
+                "5": 25,
+                "6": 19,
+                "7": 23
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 250
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "172",
+            "candidates": {
+                "1": 4,
+                "2": 0,
+                "3": 8,
+                "4": 26,
+                "5": 25,
+                "6": 3,
+                "7": 14
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 152
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "173",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 8,
+                "6": 1,
+                "7": 7
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 78
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "174",
+            "candidates": {
+                "1": 5,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 4,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 37
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "175",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 4,
+                "4": 5,
+                "5": 0,
+                "6": 1,
+                "7": 1
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 44
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "176",
+            "candidates": {
+                "1": 5,
+                "2": 2,
+                "3": 0,
+                "4": 1,
+                "5": 5,
+                "6": 4,
+                "7": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 70
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "177",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 9,
+                "6": 1,
+                "7": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 61
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "178",
+            "candidates": {
+                "1": 8,
+                "2": 0,
+                "3": 2,
+                "4": 1,
+                "5": 3,
+                "6": 4,
+                "7": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 47
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "北昌村",
+            "house_no": "179",
+            "candidates": {
+                "1": 4,
+                "2": 0,
+                "3": 4,
+                "4": 5,
+                "5": 4,
+                "6": 0,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 34
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "勝安村",
+            "house_no": "180",
+            "candidates": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 7,
+                "5": 3,
+                "6": 0,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 40
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "勝安村",
+            "house_no": "181",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 4,
+                "4": 8,
+                "5": 7,
+                "6": 5,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 57
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "勝安村",
+            "house_no": "182",
+            "candidates": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 5,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 26
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "勝安村",
+            "house_no": "183",
+            "candidates": {
+                "1": 6,
+                "2": 0,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 2,
+                "7": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 26
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "勝安村",
+            "house_no": "184",
+            "candidates": {
+                "1": 2,
+                "2": 0,
+                "3": 3,
+                "4": 5,
+                "5": 7,
+                "6": 1,
+                "7": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 35
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "185",
+            "candidates": {
+                "1": 14,
+                "2": 6,
+                "3": 9,
+                "4": 16,
+                "5": 18,
+                "6": 25,
+                "7": 7
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 166
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "186",
+            "candidates": {
+                "1": 31,
+                "2": 3,
+                "3": 12,
+                "4": 8,
+                "5": 15,
+                "6": 20,
+                "7": 8
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 164
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "187",
+            "candidates": {
+                "1": 13,
+                "2": 1,
+                "3": 5,
+                "4": 2,
+                "5": 3,
+                "6": 0,
+                "7": 5
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 60
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "188",
+            "candidates": {
+                "1": 19,
+                "2": 1,
+                "3": 2,
+                "4": 10,
+                "5": 7,
+                "6": 9,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 124
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "189",
+            "candidates": {
+                "1": 20,
+                "2": 1,
+                "3": 9,
+                "4": 14,
+                "5": 6,
+                "6": 25,
+                "7": 12
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 142
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "190",
+            "candidates": {
+                "1": 34,
+                "2": 1,
+                "3": 12,
+                "4": 5,
+                "5": 6,
+                "6": 33,
+                "7": 5
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 190
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "191",
+            "candidates": {
+                "1": 19,
+                "2": 3,
+                "3": 4,
+                "4": 4,
+                "5": 12,
+                "6": 48,
+                "7": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 176
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "192",
+            "candidates": {
+                "1": 25,
+                "2": 4,
+                "3": 1,
+                "4": 17,
+                "5": 22,
+                "6": 142,
+                "7": 13
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 365
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "193",
+            "candidates": {
+                "1": 31,
+                "2": 7,
+                "3": 9,
+                "4": 16,
+                "5": 2,
+                "6": 117,
+                "7": 4
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 275
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "194",
+            "candidates": {
+                "1": 27,
+                "2": 4,
+                "3": 7,
+                "4": 39,
+                "5": 9,
+                "6": 62,
+                "7": 12
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 305
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "195",
+            "candidates": {
+                "1": 37,
+                "2": 0,
+                "3": 10,
+                "4": 26,
+                "5": 24,
+                "6": 33,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 236
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁安村",
+            "house_no": "196",
+            "candidates": {
+                "1": 26,
+                "2": 5,
+                "3": 4,
+                "4": 31,
+                "5": 17,
+                "6": 22,
+                "7": 10
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 244
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁安村",
+            "house_no": "197",
+            "candidates": {
+                "1": 25,
+                "2": 2,
+                "3": 8,
+                "4": 27,
+                "5": 13,
+                "6": 19,
+                "7": 10
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 252
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "198",
+            "candidates": {
+                "1": 24,
+                "2": 4,
+                "3": 7,
+                "4": 16,
+                "5": 19,
+                "6": 17,
+                "7": 6
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 190
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "199",
+            "candidates": {
+                "1": 20,
+                "2": 0,
+                "3": 1,
+                "4": 9,
+                "5": 8,
+                "6": 14,
+                "7": 8
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 144
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "200",
+            "candidates": {
+                "1": 20,
+                "2": 1,
+                "3": 3,
+                "4": 7,
+                "5": 6,
+                "6": 11,
+                "7": 3
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 103
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "201",
+            "candidates": {
+                "1": 28,
+                "2": 7,
+                "3": 8,
+                "4": 15,
+                "5": 10,
+                "6": 30,
+                "7": 4
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 178
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "202",
+            "candidates": {
+                "1": 30,
+                "2": 2,
+                "3": 10,
+                "4": 25,
+                "5": 21,
+                "6": 27,
+                "7": 8
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 275
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "光華村",
+            "house_no": "203",
+            "candidates": {
+                "1": 22,
+                "2": 4,
+                "3": 8,
+                "4": 14,
+                "5": 7,
+                "6": 13,
+                "7": 6
+            },
+            "count_wrong": 1,
+            "count_unused": 1,
+            "count_total": 176
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "光華村",
+            "house_no": "204",
+            "candidates": {
+                "1": 30,
+                "2": 6,
+                "3": 8,
+                "4": 27,
+                "5": 28,
+                "6": 17,
+                "7": 12
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 213
+        }
+    ]
+}

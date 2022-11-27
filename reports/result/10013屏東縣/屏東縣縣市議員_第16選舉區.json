@@ -1,0 +1,122 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴天賜",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜仁勇",
+            "party": "無"
+        },
+        "3": {
+            "name": "柯海燕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "657",
+            "candidates": {
+                "1": 88,
+                "2": 157,
+                "3": 38
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 322
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "658",
+            "candidates": {
+                "1": 306,
+                "2": 135,
+                "3": 119
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 639
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "659",
+            "candidates": {
+                "1": 43,
+                "2": 46,
+                "3": 24
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 147
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "吉露村",
+            "house_no": "660",
+            "candidates": {
+                "1": 38,
+                "2": 74,
+                "3": 25
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 169
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "阿禮村",
+            "house_no": "661",
+            "candidates": {
+                "1": 49,
+                "2": 163,
+                "3": 52
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 301
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "好茶村",
+            "house_no": "662",
+            "candidates": {
+                "1": 143,
+                "2": 198,
+                "3": 68
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 456
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "佳暮村",
+            "house_no": "663",
+            "candidates": {
+                "1": 95,
+                "2": 176,
+                "3": 33
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 350
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "大武村",
+            "house_no": "664",
+            "candidates": {
+                "1": 46,
+                "2": 112,
+                "3": 223
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 412
+        }
+    ]
+}

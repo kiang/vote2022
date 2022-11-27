@@ -1,0 +1,1662 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭立妍",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "周玉琴",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "涂權吉",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "張清俊",
+            "party": "台灣民眾黨"
+        },
+        "5": {
+            "name": "鄭淑方",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "李家興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "仁美里",
+            "house_no": "1103",
+            "candidates": {
+                "1": 87,
+                "2": 84,
+                "3": 211,
+                "4": 56,
+                "5": 162,
+                "6": 142
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "仁美里",
+            "house_no": "1104",
+            "candidates": {
+                "1": 103,
+                "2": 95,
+                "3": 229,
+                "4": 64,
+                "5": 163,
+                "6": 178
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "仁美里",
+            "house_no": "1105",
+            "candidates": {
+                "1": 82,
+                "2": 108,
+                "3": 186,
+                "4": 54,
+                "5": 139,
+                "6": 184
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "埔心里",
+            "house_no": "1106",
+            "candidates": {
+                "1": 107,
+                "2": 105,
+                "3": 170,
+                "4": 91,
+                "5": 259,
+                "6": 170
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "光華里",
+            "house_no": "1107",
+            "candidates": {
+                "1": 99,
+                "2": 158,
+                "3": 193,
+                "4": 70,
+                "5": 138,
+                "6": 196
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1411
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "光華里",
+            "house_no": "1108",
+            "candidates": {
+                "1": 99,
+                "2": 140,
+                "3": 244,
+                "4": 60,
+                "5": 156,
+                "6": 188
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1518
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "金龍里",
+            "house_no": "1109",
+            "candidates": {
+                "1": 98,
+                "2": 172,
+                "3": 292,
+                "4": 107,
+                "5": 102,
+                "6": 131
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "四維里",
+            "house_no": "1110",
+            "candidates": {
+                "1": 110,
+                "2": 206,
+                "3": 200,
+                "4": 112,
+                "5": 142,
+                "6": 102
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1508
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "四維里",
+            "house_no": "1111",
+            "candidates": {
+                "1": 125,
+                "2": 165,
+                "3": 245,
+                "4": 107,
+                "5": 124,
+                "6": 91
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1475
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "四維里",
+            "house_no": "1112",
+            "candidates": {
+                "1": 108,
+                "2": 144,
+                "3": 253,
+                "4": 112,
+                "5": 134,
+                "6": 114
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1504
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永平里",
+            "house_no": "1113",
+            "candidates": {
+                "1": 63,
+                "2": 81,
+                "3": 104,
+                "4": 40,
+                "5": 60,
+                "6": 88
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 834
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永平里",
+            "house_no": "1114",
+            "candidates": {
+                "1": 76,
+                "2": 119,
+                "3": 194,
+                "4": 119,
+                "5": 120,
+                "6": 86
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞塘里",
+            "house_no": "1115",
+            "candidates": {
+                "1": 115,
+                "2": 107,
+                "3": 193,
+                "4": 101,
+                "5": 264,
+                "6": 116
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1624
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞塘里",
+            "house_no": "1116",
+            "candidates": {
+                "1": 72,
+                "2": 69,
+                "3": 137,
+                "4": 80,
+                "5": 175,
+                "6": 83
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞塘里",
+            "house_no": "1117",
+            "candidates": {
+                "1": 83,
+                "2": 88,
+                "3": 167,
+                "4": 67,
+                "5": 166,
+                "6": 117
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞塘里",
+            "house_no": "1118",
+            "candidates": {
+                "1": 57,
+                "2": 77,
+                "3": 177,
+                "4": 62,
+                "5": 169,
+                "6": 83
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞坪里",
+            "house_no": "1119",
+            "candidates": {
+                "1": 69,
+                "2": 128,
+                "3": 189,
+                "4": 93,
+                "5": 111,
+                "6": 115
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1374
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞坪里",
+            "house_no": "1120",
+            "candidates": {
+                "1": 85,
+                "2": 104,
+                "3": 178,
+                "4": 76,
+                "5": 103,
+                "6": 152
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1503
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞坪里",
+            "house_no": "1121",
+            "candidates": {
+                "1": 111,
+                "2": 100,
+                "3": 194,
+                "4": 62,
+                "5": 146,
+                "6": 143
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1495
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞坪里",
+            "house_no": "1122",
+            "candidates": {
+                "1": 83,
+                "2": 137,
+                "3": 215,
+                "4": 89,
+                "5": 115,
+                "6": 123
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1477
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "梅溪里",
+            "house_no": "1123",
+            "candidates": {
+                "1": 123,
+                "2": 94,
+                "3": 247,
+                "4": 107,
+                "5": 102,
+                "6": 70
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "梅溪里",
+            "house_no": "1124",
+            "candidates": {
+                "1": 84,
+                "2": 107,
+                "3": 161,
+                "4": 98,
+                "5": 83,
+                "6": 85
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "梅溪里",
+            "house_no": "1125",
+            "candidates": {
+                "1": 80,
+                "2": 95,
+                "3": 194,
+                "4": 136,
+                "5": 82,
+                "6": 76
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞溪里",
+            "house_no": "1126",
+            "candidates": {
+                "1": 54,
+                "2": 88,
+                "3": 131,
+                "4": 73,
+                "5": 110,
+                "6": 49
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞溪里",
+            "house_no": "1127",
+            "candidates": {
+                "1": 91,
+                "2": 99,
+                "3": 157,
+                "4": 86,
+                "5": 141,
+                "6": 67
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞溪里",
+            "house_no": "1128",
+            "candidates": {
+                "1": 54,
+                "2": 64,
+                "3": 124,
+                "4": 69,
+                "5": 99,
+                "6": 86
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "金溪里",
+            "house_no": "1129",
+            "candidates": {
+                "1": 89,
+                "2": 103,
+                "3": 224,
+                "4": 100,
+                "5": 115,
+                "6": 94
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1697
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "金溪里",
+            "house_no": "1130",
+            "candidates": {
+                "1": 82,
+                "2": 179,
+                "3": 136,
+                "4": 89,
+                "5": 81,
+                "6": 80
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "金溪里",
+            "house_no": "1131",
+            "candidates": {
+                "1": 67,
+                "2": 159,
+                "3": 136,
+                "4": 84,
+                "5": 67,
+                "6": 65
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "三民里",
+            "house_no": "1132",
+            "candidates": {
+                "1": 85,
+                "2": 156,
+                "3": 277,
+                "4": 113,
+                "5": 169,
+                "6": 76
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1566
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "三民里",
+            "house_no": "1133",
+            "candidates": {
+                "1": 86,
+                "2": 140,
+                "3": 206,
+                "4": 112,
+                "5": 135,
+                "6": 98
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1661
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊明里",
+            "house_no": "1134",
+            "candidates": {
+                "1": 116,
+                "2": 144,
+                "3": 250,
+                "4": 85,
+                "5": 147,
+                "6": 104
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1535
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊明里",
+            "house_no": "1135",
+            "candidates": {
+                "1": 101,
+                "2": 148,
+                "3": 260,
+                "4": 123,
+                "5": 147,
+                "6": 67
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1405
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊明里",
+            "house_no": "1136",
+            "candidates": {
+                "1": 119,
+                "2": 147,
+                "3": 251,
+                "4": 101,
+                "5": 152,
+                "6": 64
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1490
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊明里",
+            "house_no": "1137",
+            "candidates": {
+                "1": 113,
+                "2": 109,
+                "3": 222,
+                "4": 112,
+                "5": 130,
+                "6": 49
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1456
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊明里",
+            "house_no": "1138",
+            "candidates": {
+                "1": 103,
+                "2": 103,
+                "3": 256,
+                "4": 160,
+                "5": 137,
+                "6": 32
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1598
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "裕成里",
+            "house_no": "1139",
+            "candidates": {
+                "1": 121,
+                "2": 229,
+                "3": 273,
+                "4": 94,
+                "5": 136,
+                "6": 64
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1493
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "裕成里",
+            "house_no": "1140",
+            "candidates": {
+                "1": 133,
+                "2": 199,
+                "3": 232,
+                "4": 98,
+                "5": 131,
+                "6": 91
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1541
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "裕新里",
+            "house_no": "1141",
+            "candidates": {
+                "1": 65,
+                "2": 86,
+                "3": 187,
+                "4": 46,
+                "5": 97,
+                "6": 35
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "裕新里",
+            "house_no": "1142",
+            "candidates": {
+                "1": 101,
+                "2": 128,
+                "3": 164,
+                "4": 76,
+                "5": 165,
+                "6": 61
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1146
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "大同里",
+            "house_no": "1143",
+            "candidates": {
+                "1": 118,
+                "2": 216,
+                "3": 265,
+                "4": 113,
+                "5": 144,
+                "6": 108
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1751
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "大同里",
+            "house_no": "1144",
+            "candidates": {
+                "1": 122,
+                "2": 218,
+                "3": 240,
+                "4": 87,
+                "5": 142,
+                "6": 115
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1661
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "中山里",
+            "house_no": "1145",
+            "candidates": {
+                "1": 83,
+                "2": 210,
+                "3": 241,
+                "4": 77,
+                "5": 156,
+                "6": 195
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1617
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "中山里",
+            "house_no": "1146",
+            "candidates": {
+                "1": 88,
+                "2": 108,
+                "3": 190,
+                "4": 79,
+                "5": 104,
+                "6": 126
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊梅里",
+            "house_no": "1147",
+            "candidates": {
+                "1": 112,
+                "2": 235,
+                "3": 222,
+                "4": 65,
+                "5": 87,
+                "6": 92
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊梅里",
+            "house_no": "1148",
+            "candidates": {
+                "1": 77,
+                "2": 214,
+                "3": 181,
+                "4": 72,
+                "5": 106,
+                "6": 81
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊梅里",
+            "house_no": "1149",
+            "candidates": {
+                "1": 90,
+                "2": 182,
+                "3": 220,
+                "4": 62,
+                "5": 84,
+                "6": 88
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊江里",
+            "house_no": "1150",
+            "candidates": {
+                "1": 91,
+                "2": 194,
+                "3": 174,
+                "4": 43,
+                "5": 82,
+                "6": 86
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "梅新里",
+            "house_no": "1151",
+            "candidates": {
+                "1": 56,
+                "2": 132,
+                "3": 159,
+                "4": 57,
+                "5": 104,
+                "6": 82
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "梅新里",
+            "house_no": "1152",
+            "candidates": {
+                "1": 96,
+                "2": 170,
+                "3": 148,
+                "4": 38,
+                "5": 115,
+                "6": 98
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "紅梅里",
+            "house_no": "1153",
+            "candidates": {
+                "1": 85,
+                "2": 194,
+                "3": 175,
+                "4": 48,
+                "5": 132,
+                "6": 69
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "紅梅里",
+            "house_no": "1154",
+            "candidates": {
+                "1": 80,
+                "2": 190,
+                "3": 198,
+                "4": 82,
+                "5": 167,
+                "6": 112
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永寧里",
+            "house_no": "1155",
+            "candidates": {
+                "1": 116,
+                "2": 161,
+                "3": 151,
+                "4": 58,
+                "5": 135,
+                "6": 93
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 2048
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永寧里",
+            "house_no": "1156",
+            "candidates": {
+                "1": 105,
+                "2": 151,
+                "3": 148,
+                "4": 61,
+                "5": 161,
+                "6": 74
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永寧里",
+            "house_no": "1157",
+            "candidates": {
+                "1": 78,
+                "2": 194,
+                "3": 192,
+                "4": 97,
+                "5": 148,
+                "6": 58
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永寧里",
+            "house_no": "1158",
+            "candidates": {
+                "1": 79,
+                "2": 160,
+                "3": 174,
+                "4": 70,
+                "5": 105,
+                "6": 121
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1338
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "永寧里",
+            "house_no": "1159",
+            "candidates": {
+                "1": 89,
+                "2": 101,
+                "3": 194,
+                "4": 71,
+                "5": 176,
+                "6": 48
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "大平里",
+            "house_no": "1160",
+            "candidates": {
+                "1": 76,
+                "2": 197,
+                "3": 240,
+                "4": 69,
+                "5": 211,
+                "6": 102
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1483
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "大平里",
+            "house_no": "1161",
+            "candidates": {
+                "1": 91,
+                "2": 161,
+                "3": 268,
+                "4": 68,
+                "5": 181,
+                "6": 139
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1491
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "秀才里",
+            "house_no": "1162",
+            "candidates": {
+                "1": 82,
+                "2": 208,
+                "3": 199,
+                "4": 55,
+                "5": 246,
+                "6": 213
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1579
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "秀才里",
+            "house_no": "1163",
+            "candidates": {
+                "1": 94,
+                "2": 123,
+                "3": 172,
+                "4": 74,
+                "5": 181,
+                "6": 317
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1615
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "東流里",
+            "house_no": "1164",
+            "candidates": {
+                "1": 107,
+                "2": 146,
+                "3": 295,
+                "4": 37,
+                "5": 281,
+                "6": 77
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1666
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "東流里",
+            "house_no": "1165",
+            "candidates": {
+                "1": 74,
+                "2": 106,
+                "3": 163,
+                "4": 46,
+                "5": 131,
+                "6": 56
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "豐野里",
+            "house_no": "1166",
+            "candidates": {
+                "1": 84,
+                "2": 170,
+                "3": 176,
+                "4": 51,
+                "5": 151,
+                "6": 102
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "豐野里",
+            "house_no": "1167",
+            "candidates": {
+                "1": 77,
+                "2": 152,
+                "3": 175,
+                "4": 50,
+                "5": 143,
+                "6": 93
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "豐野里",
+            "house_no": "1168",
+            "candidates": {
+                "1": 91,
+                "2": 176,
+                "3": 156,
+                "4": 59,
+                "5": 197,
+                "6": 95
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "富岡里",
+            "house_no": "1169",
+            "candidates": {
+                "1": 77,
+                "2": 153,
+                "3": 154,
+                "4": 33,
+                "5": 98,
+                "6": 59
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "富岡里",
+            "house_no": "1170",
+            "candidates": {
+                "1": 67,
+                "2": 126,
+                "3": 118,
+                "4": 48,
+                "5": 93,
+                "6": 60
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "富豐里",
+            "house_no": "1171",
+            "candidates": {
+                "1": 117,
+                "2": 302,
+                "3": 152,
+                "4": 73,
+                "5": 274,
+                "6": 76
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1469
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "富豐里",
+            "house_no": "1172",
+            "candidates": {
+                "1": 121,
+                "2": 325,
+                "3": 171,
+                "4": 42,
+                "5": 145,
+                "6": 111
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1498
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "員本里",
+            "house_no": "1173",
+            "candidates": {
+                "1": 115,
+                "2": 210,
+                "3": 186,
+                "4": 63,
+                "5": 140,
+                "6": 157
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1562
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "員本里",
+            "house_no": "1174",
+            "candidates": {
+                "1": 88,
+                "2": 217,
+                "3": 120,
+                "4": 51,
+                "5": 154,
+                "6": 100
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "三湖里",
+            "house_no": "1175",
+            "candidates": {
+                "1": 115,
+                "2": 166,
+                "3": 170,
+                "4": 65,
+                "5": 115,
+                "6": 147
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1321
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "三湖里",
+            "house_no": "1176",
+            "candidates": {
+                "1": 135,
+                "2": 240,
+                "3": 193,
+                "4": 66,
+                "5": 184,
+                "6": 88
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1440
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "頭湖里",
+            "house_no": "1177",
+            "candidates": {
+                "1": 72,
+                "2": 165,
+                "3": 227,
+                "4": 60,
+                "5": 124,
+                "6": 72
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "頭湖里",
+            "house_no": "1178",
+            "candidates": {
+                "1": 90,
+                "2": 132,
+                "3": 182,
+                "4": 61,
+                "5": 145,
+                "6": 42
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上湖里",
+            "house_no": "1179",
+            "candidates": {
+                "1": 125,
+                "2": 158,
+                "3": 208,
+                "4": 78,
+                "5": 219,
+                "6": 124
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1590
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上湖里",
+            "house_no": "1180",
+            "candidates": {
+                "1": 94,
+                "2": 160,
+                "3": 157,
+                "4": 48,
+                "5": 230,
+                "6": 66
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上湖里",
+            "house_no": "1181",
+            "candidates": {
+                "1": 57,
+                "2": 106,
+                "3": 146,
+                "4": 42,
+                "5": 248,
+                "6": 76
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上湖里",
+            "house_no": "1182",
+            "candidates": {
+                "1": 83,
+                "2": 179,
+                "3": 141,
+                "4": 62,
+                "5": 150,
+                "6": 86
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1392
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上田里",
+            "house_no": "1183",
+            "candidates": {
+                "1": 111,
+                "2": 129,
+                "3": 142,
+                "4": 50,
+                "5": 171,
+                "6": 156
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上田里",
+            "house_no": "1184",
+            "candidates": {
+                "1": 124,
+                "2": 218,
+                "3": 216,
+                "4": 46,
+                "5": 167,
+                "6": 127
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1448
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高山里",
+            "house_no": "1185",
+            "candidates": {
+                "1": 45,
+                "2": 142,
+                "3": 113,
+                "4": 48,
+                "5": 73,
+                "6": 101
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高山里",
+            "house_no": "1186",
+            "candidates": {
+                "1": 92,
+                "2": 121,
+                "3": 132,
+                "4": 58,
+                "5": 101,
+                "6": 101
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高山里",
+            "house_no": "1187",
+            "candidates": {
+                "1": 73,
+                "2": 161,
+                "3": 189,
+                "4": 56,
+                "5": 73,
+                "6": 65
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高上里",
+            "house_no": "1188",
+            "candidates": {
+                "1": 103,
+                "2": 100,
+                "3": 147,
+                "4": 50,
+                "5": 122,
+                "6": 243
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1357
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高上里",
+            "house_no": "1189",
+            "candidates": {
+                "1": 62,
+                "2": 63,
+                "3": 153,
+                "4": 36,
+                "5": 89,
+                "6": 367
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "青山里",
+            "house_no": "1190",
+            "candidates": {
+                "1": 101,
+                "2": 103,
+                "3": 198,
+                "4": 72,
+                "5": 110,
+                "6": 162
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1379
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "青山里",
+            "house_no": "1191",
+            "candidates": {
+                "1": 110,
+                "2": 124,
+                "3": 145,
+                "4": 84,
+                "5": 120,
+                "6": 108
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1491
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "青山里",
+            "house_no": "1192",
+            "candidates": {
+                "1": 80,
+                "2": 102,
+                "3": 172,
+                "4": 57,
+                "5": 115,
+                "6": 171
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高榮里",
+            "house_no": "1193",
+            "candidates": {
+                "1": 151,
+                "2": 160,
+                "3": 216,
+                "4": 47,
+                "5": 188,
+                "6": 240
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1607
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "高榮里",
+            "house_no": "1194",
+            "candidates": {
+                "1": 147,
+                "2": 90,
+                "3": 236,
+                "4": 79,
+                "5": 107,
+                "6": 182
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1637
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "雙榮里",
+            "house_no": "1195",
+            "candidates": {
+                "1": 130,
+                "2": 198,
+                "3": 245,
+                "4": 85,
+                "5": 229,
+                "6": 114
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1558
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "雙榮里",
+            "house_no": "1196",
+            "candidates": {
+                "1": 156,
+                "2": 175,
+                "3": 204,
+                "4": 88,
+                "5": 282,
+                "6": 110
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1543
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "新榮里",
+            "house_no": "1197",
+            "candidates": {
+                "1": 155,
+                "2": 132,
+                "3": 195,
+                "4": 97,
+                "5": 217,
+                "6": 192
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1623
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "新榮里",
+            "house_no": "1198",
+            "candidates": {
+                "1": 145,
+                "2": 127,
+                "3": 171,
+                "4": 97,
+                "5": 186,
+                "6": 174
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1590
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "水美里",
+            "house_no": "1199",
+            "candidates": {
+                "1": 109,
+                "2": 223,
+                "3": 253,
+                "4": 68,
+                "5": 142,
+                "6": 106
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1414
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "水美里",
+            "house_no": "1200",
+            "candidates": {
+                "1": 62,
+                "2": 128,
+                "3": 251,
+                "4": 47,
+                "5": 161,
+                "6": 114
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "水美里",
+            "house_no": "1201",
+            "candidates": {
+                "1": 96,
+                "2": 186,
+                "3": 216,
+                "4": 57,
+                "5": 142,
+                "6": 119
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞原里",
+            "house_no": "1202",
+            "candidates": {
+                "1": 82,
+                "2": 235,
+                "3": 145,
+                "4": 48,
+                "5": 116,
+                "6": 110
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞原里",
+            "house_no": "1203",
+            "candidates": {
+                "1": 50,
+                "2": 206,
+                "3": 194,
+                "4": 47,
+                "5": 96,
+                "6": 94
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞原里",
+            "house_no": "1204",
+            "candidates": {
+                "1": 75,
+                "2": 151,
+                "3": 225,
+                "4": 46,
+                "5": 125,
+                "6": 81
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1221
+        }
+    ]
+}
