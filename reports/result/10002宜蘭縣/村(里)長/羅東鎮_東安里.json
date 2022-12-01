@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林捷肇",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐燈雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "東安里",
+            "house_no": "85",
+            "candidates": {
+                "1": 492,
+                "2": 311
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1435
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "東安里",
+            "house_no": "86",
+            "candidates": {
+                "1": 366,
+                "2": 179
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "東安里",
+            "house_no": "87",
+            "candidates": {
+                "1": 295,
+                "2": 162
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

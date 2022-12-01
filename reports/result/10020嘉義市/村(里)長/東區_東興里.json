@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張家銀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東興里",
+            "house_no": "34",
+            "candidates": {
+                "1": 322
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 832
+        },
+        {
+            "area": "東區",
+            "cunli": "東興里",
+            "house_no": "35",
+            "candidates": {
+                "1": 384
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 853
+        }
+    ]
+}

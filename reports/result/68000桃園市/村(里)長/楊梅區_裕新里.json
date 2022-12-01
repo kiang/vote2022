@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡進園",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林順富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "裕新里",
+            "house_no": "1141",
+            "candidates": {
+                "1": 342,
+                "2": 197
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "裕新里",
+            "house_no": "1142",
+            "candidates": {
+                "1": 383,
+                "2": 303
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "將軍區",
+            "cunli": "長沙里",
+            "house_no": "265",
+            "candidates": {
+                "1": 325
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 650
+        },
+        {
+            "area": "將軍區",
+            "cunli": "長沙里",
+            "house_no": "266",
+            "candidates": {
+                "1": 259
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 614
+        }
+    ]
+}

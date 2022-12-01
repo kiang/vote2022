@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳宗憲",
+            "party": "無"
+        },
+        "2": {
+            "name": "張明忠",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭興川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "外埔區",
+            "cunli": "土城里",
+            "house_no": "96",
+            "candidates": {
+                "1": 37,
+                "2": 222,
+                "3": 311
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "外埔區",
+            "cunli": "土城里",
+            "house_no": "97",
+            "candidates": {
+                "1": 43,
+                "2": 138,
+                "3": 382
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 710
+        }
+    ]
+}

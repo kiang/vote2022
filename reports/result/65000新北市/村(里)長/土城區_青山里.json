@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚韋華",
+            "party": "無"
+        },
+        "2": {
+            "name": "黎紫菊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "青山里",
+            "house_no": "2020",
+            "candidates": {
+                "1": 456,
+                "2": 318
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "土城區",
+            "cunli": "青山里",
+            "house_no": "2021",
+            "candidates": {
+                "1": 344,
+                "2": 324
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1246
+        }
+    ]
+}

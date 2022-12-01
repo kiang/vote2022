@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙令煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃慈諭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "青溪里",
+            "house_no": "234",
+            "candidates": {
+                "1": 286,
+                "2": 592
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1436
+        },
+        {
+            "area": "桃園區",
+            "cunli": "青溪里",
+            "house_no": "235",
+            "candidates": {
+                "1": 384,
+                "2": 427
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1407
+        },
+        {
+            "area": "桃園區",
+            "cunli": "青溪里",
+            "house_no": "236",
+            "candidates": {
+                "1": 333,
+                "2": 482
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1374
+        }
+    ]
+}

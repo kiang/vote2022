@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何佳俊",
+            "party": "無"
+        },
+        "2": {
+            "name": "林崇道",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "68",
+            "candidates": {
+                "1": 426,
+                "2": 446
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1415
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "69",
+            "candidates": {
+                "1": 429,
+                "2": 485
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1438
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "70",
+            "candidates": {
+                "1": 317,
+                "2": 430
+            },
+            "count_wrong": 10,
+            "count_unused": 1,
+            "count_total": 1387
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "71",
+            "candidates": {
+                "1": 330,
+                "2": 472
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1479
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝忠里",
+            "house_no": "72",
+            "candidates": {
+                "1": 331,
+                "2": 578
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1623
+        }
+    ]
+}

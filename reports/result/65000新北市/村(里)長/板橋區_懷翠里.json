@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡麗雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇俊輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭紅桃",
+            "party": "無"
+        },
+        "4": {
+            "name": "胡朝賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "懷翠里",
+            "house_no": "1156",
+            "candidates": {
+                "1": 84,
+                "2": 272,
+                "3": 214,
+                "4": 318
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1591
+        },
+        {
+            "area": "板橋區",
+            "cunli": "懷翠里",
+            "house_no": "1157",
+            "candidates": {
+                "1": 47,
+                "2": 516,
+                "3": 227,
+                "4": 267
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1762
+        },
+        {
+            "area": "板橋區",
+            "cunli": "懷翠里",
+            "house_no": "1158",
+            "candidates": {
+                "1": 53,
+                "2": 570,
+                "3": 176,
+                "4": 288
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1774
+        }
+    ]
+}

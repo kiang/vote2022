@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周家宏",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "鄭昆福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "力行里",
+            "house_no": "972",
+            "candidates": {
+                "1": 182,
+                "2": 438
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "北區",
+            "cunli": "力行里",
+            "house_no": "973",
+            "candidates": {
+                "1": 209,
+                "2": 474
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1139
+        }
+    ]
+}

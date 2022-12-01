@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "富民里",
+            "house_no": "572",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "新莊區",
+            "cunli": "富民里",
+            "house_no": "573",
+            "candidates": {
+                "1": 487
+            },
+            "count_wrong": 100,
+            "count_unused": 1,
+            "count_total": 999
+        },
+        {
+            "area": "新莊區",
+            "cunli": "富民里",
+            "house_no": "574",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1152
+        }
+    ]
+}

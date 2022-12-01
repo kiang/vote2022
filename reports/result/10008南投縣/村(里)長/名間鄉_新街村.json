@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃秋桃",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝明潭",
+            "party": "無"
+        },
+        "3": {
+            "name": "朱良基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "新街村",
+            "house_no": "309",
+            "candidates": {
+                "1": 170,
+                "2": 338,
+                "3": 68
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "新街村",
+            "house_no": "310",
+            "candidates": {
+                "1": 180,
+                "2": 394,
+                "3": 82
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "新街村",
+            "house_no": "311",
+            "candidates": {
+                "1": 163,
+                "2": 356,
+                "3": 84
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "新街村",
+            "house_no": "312",
+            "candidates": {
+                "1": 328,
+                "2": 350,
+                "3": 99
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1188
+        }
+    ]
+}

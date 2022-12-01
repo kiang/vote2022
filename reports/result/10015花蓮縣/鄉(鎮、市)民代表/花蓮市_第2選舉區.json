@@ -1,0 +1,85 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許願神",
+            "party": "無"
+        },
+        "2": {
+            "name": "歐彥志",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "魏鈺晟",
+            "party": "無"
+        },
+        "4": {
+            "name": "江如玲",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "潘文賢",
+            "party": "無"
+        },
+        "6": {
+            "name": "江奉宜",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民有里",
+            "house_no": "25",
+            "candidates": {
+                "1": 287
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 527
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民主里",
+            "house_no": "26",
+            "candidates": {
+                "1": 222
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 476
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民族里",
+            "house_no": "27",
+            "candidates": {
+                "1": 151
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 358
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民生里",
+            "house_no": "28",
+            "candidates": {
+                "1": 374
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民權里",
+            "house_no": "29",
+            "candidates": {
+                "1": 163
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 383
+        }
+    ]
+}

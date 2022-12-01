@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚振芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "章信雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "維德里",
+            "house_no": "910",
+            "candidates": {
+                "1": 660,
+                "2": 123
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "三重區",
+            "cunli": "維德里",
+            "house_no": "911",
+            "candidates": {
+                "1": 553,
+                "2": 112
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1140
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉修增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "黃唐里",
+            "house_no": "1205",
+            "candidates": {
+                "1": 850
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1648
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "黃唐里",
+            "house_no": "1206",
+            "candidates": {
+                "1": 697
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1459
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "黃唐里",
+            "house_no": "1207",
+            "candidates": {
+                "1": 733
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 1439
+        }
+    ]
+}

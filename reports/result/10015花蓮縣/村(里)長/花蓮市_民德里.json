@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李福輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "周玉寶",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民德里",
+            "house_no": "1",
+            "candidates": {
+                "1": 172,
+                "2": 183
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民德里",
+            "house_no": "2",
+            "candidates": {
+                "1": 179,
+                "2": 190
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 709
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳虹樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "王沛靜",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大信里",
+            "house_no": "448",
+            "candidates": {
+                "1": 354,
+                "2": 409
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "八德區",
+            "cunli": "大信里",
+            "house_no": "449",
+            "candidates": {
+                "1": 98,
+                "2": 200
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 592
+        },
+        {
+            "area": "八德區",
+            "cunli": "大信里",
+            "house_no": "450",
+            "candidates": {
+                "1": 349,
+                "2": 472
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1373
+        }
+    ]
+}

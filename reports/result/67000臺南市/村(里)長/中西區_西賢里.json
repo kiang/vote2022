@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聖凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳清佳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "西賢里",
+            "house_no": "1086",
+            "candidates": {
+                "1": 376,
+                "2": 359
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "中西區",
+            "cunli": "西賢里",
+            "house_no": "1087",
+            "candidates": {
+                "1": 342,
+                "2": 349
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "中西區",
+            "cunli": "西賢里",
+            "house_no": "1088",
+            "candidates": {
+                "1": 425,
+                "2": 327
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "中西區",
+            "cunli": "西賢里",
+            "house_no": "1089",
+            "candidates": {
+                "1": 434,
+                "2": 243
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1164
+        }
+    ]
+}

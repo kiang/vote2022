@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游皓麟",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李約祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "忠孝里",
+            "house_no": "2247",
+            "candidates": {
+                "1": 472,
+                "2": 221
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "新店區",
+            "cunli": "忠孝里",
+            "house_no": "2248",
+            "candidates": {
+                "1": 418,
+                "2": 176
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

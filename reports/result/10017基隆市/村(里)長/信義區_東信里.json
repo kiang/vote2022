@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "薛朝富",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴姵綺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "54",
+            "candidates": {
+                "1": 99,
+                "2": 320
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 677
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "55",
+            "candidates": {
+                "1": 127,
+                "2": 438
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 897
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "56",
+            "candidates": {
+                "1": 190,
+                "2": 511
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "信義區",
+            "cunli": "東信里",
+            "house_no": "57",
+            "candidates": {
+                "1": 198,
+                "2": 557
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1244
+        }
+    ]
+}

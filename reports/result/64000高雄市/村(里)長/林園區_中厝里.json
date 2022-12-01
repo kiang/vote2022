@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉誌華",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉錦池",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "中厝里",
+            "house_no": "1985",
+            "candidates": {
+                "1": 535,
+                "2": 455
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1478
+        },
+        {
+            "area": "林園區",
+            "cunli": "中厝里",
+            "house_no": "1986",
+            "candidates": {
+                "1": 449,
+                "2": 401
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1371
+        }
+    ]
+}

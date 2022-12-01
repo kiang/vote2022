@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高慧靜",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭明勲",
+            "party": "無"
+        },
+        "3": {
+            "name": "粘麗卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "裕昌里",
+            "house_no": "561",
+            "candidates": {
+                "1": 197,
+                "2": 377,
+                "3": 98
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "裕昌里",
+            "house_no": "562",
+            "candidates": {
+                "1": 170,
+                "2": 258,
+                "3": 123
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "裕昌里",
+            "house_no": "563",
+            "candidates": {
+                "1": 219,
+                "2": 283,
+                "3": 133
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "裕昌里",
+            "house_no": "564",
+            "candidates": {
+                "1": 175,
+                "2": 311,
+                "3": 168
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

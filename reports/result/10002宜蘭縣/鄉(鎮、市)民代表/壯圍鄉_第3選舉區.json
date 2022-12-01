@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳旺水",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國棟",
+            "party": "無"
+        },
+        "3": {
+            "name": "林听洲",
+            "party": "無"
+        },
+        "4": {
+            "name": "林文達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壯圍鄉",
+            "cunli": "忠孝村",
+            "house_no": "260",
+            "candidates": {
+                "1": 210,
+                "2": 224
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 883
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "忠孝村",
+            "house_no": "261",
+            "candidates": {
+                "1": 249,
+                "2": 141
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "忠孝村",
+            "house_no": "262",
+            "candidates": {
+                "1": 218,
+                "2": 178
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 734
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "古亭村",
+            "house_no": "263",
+            "candidates": {
+                "1": 75,
+                "2": 268
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "古亭村",
+            "house_no": "264",
+            "candidates": {
+                "1": 154,
+                "2": 235
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 814
+        }
+    ]
+}

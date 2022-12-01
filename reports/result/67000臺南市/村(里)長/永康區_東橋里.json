@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳振安",
+            "party": "無"
+        },
+        "2": {
+            "name": "王怡舜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "東橋里",
+            "house_no": "851",
+            "candidates": {
+                "1": 382,
+                "2": 421
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1613
+        },
+        {
+            "area": "永康區",
+            "cunli": "東橋里",
+            "house_no": "852",
+            "candidates": {
+                "1": 302,
+                "2": 593
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1608
+        },
+        {
+            "area": "永康區",
+            "cunli": "東橋里",
+            "house_no": "853",
+            "candidates": {
+                "1": 212,
+                "2": 604
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1617
+        },
+        {
+            "area": "永康區",
+            "cunli": "東橋里",
+            "house_no": "854",
+            "candidates": {
+                "1": 246,
+                "2": 123
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 610
+        },
+        {
+            "area": "永康區",
+            "cunli": "東橋里",
+            "house_no": "855",
+            "candidates": {
+                "1": 164,
+                "2": 509
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1612
+        }
+    ]
+}

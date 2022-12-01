@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳惠香",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐式甫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "海湖里",
+            "house_no": "577",
+            "candidates": {
+                "1": 305,
+                "2": 502
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1445
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "海湖里",
+            "house_no": "578",
+            "candidates": {
+                "1": 389,
+                "2": 524
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1473
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉美秀",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李麟盛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "中勢村",
+            "house_no": "290",
+            "candidates": {
+                "1": 407,
+                "2": 326
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中勢村",
+            "house_no": "291",
+            "candidates": {
+                "1": 315,
+                "2": 449
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1182
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中勢村",
+            "house_no": "292",
+            "candidates": {
+                "1": 395,
+                "2": 237
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 924
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李建宏",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "鄭杉明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "365",
+            "candidates": {
+                "1": 151,
+                "2": 417
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "366",
+            "candidates": {
+                "1": 123,
+                "2": 412
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "367",
+            "candidates": {
+                "1": 156,
+                "2": 451
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松林村",
+            "house_no": "368",
+            "candidates": {
+                "1": 177,
+                "2": 318
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 992
+        }
+    ]
+}

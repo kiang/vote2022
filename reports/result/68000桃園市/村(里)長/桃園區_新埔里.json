@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳俊德",
+            "party": "無"
+        },
+        "2": {
+            "name": "李珮瑜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "新埔里",
+            "house_no": "184",
+            "candidates": {
+                "1": 384,
+                "2": 544
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1541
+        },
+        {
+            "area": "桃園區",
+            "cunli": "新埔里",
+            "house_no": "185",
+            "candidates": {
+                "1": 377,
+                "2": 535
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1553
+        },
+        {
+            "area": "桃園區",
+            "cunli": "新埔里",
+            "house_no": "186",
+            "candidates": {
+                "1": 382,
+                "2": 624
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1482
+        }
+    ]
+}

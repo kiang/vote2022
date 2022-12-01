@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋賢一 Paramram Djalavak",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔣爭光",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金峰鄉",
+            "cunli": "嘉蘭村",
+            "house_no": "220",
+            "candidates": {
+                "1": 166,
+                "2": 353
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 631
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "嘉蘭村",
+            "house_no": "221",
+            "candidates": {
+                "1": 184,
+                "2": 303
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 579
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "正興村",
+            "house_no": "222",
+            "candidates": {
+                "1": 345,
+                "2": 131
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 594
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "新興村",
+            "house_no": "223",
+            "candidates": {
+                "1": 234,
+                "2": 206
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 521
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "賓茂村",
+            "house_no": "224",
+            "candidates": {
+                "1": 104,
+                "2": 166
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 314
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "歷坵村",
+            "house_no": "225",
+            "candidates": {
+                "1": 134,
+                "2": 135
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 316
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪文慶",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊冠琳",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊冠妤",
+            "party": "親民黨"
+        },
+        "4": {
+            "name": "劉嘉慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "居仁里",
+            "house_no": "129",
+            "candidates": {
+                "1": 294,
+                "2": 178,
+                "3": 71,
+                "4": 198
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡金池",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鍾秀蜜",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "南榮里",
+            "house_no": "34",
+            "candidates": {
+                "1": 215,
+                "2": 348
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "臺東市",
+            "cunli": "南榮里",
+            "house_no": "35",
+            "candidates": {
+                "1": 238,
+                "2": 309
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 826
+        },
+        {
+            "area": "臺東市",
+            "cunli": "南榮里",
+            "house_no": "36",
+            "candidates": {
+                "1": 360,
+                "2": 247
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 946
+        }
+    ]
+}

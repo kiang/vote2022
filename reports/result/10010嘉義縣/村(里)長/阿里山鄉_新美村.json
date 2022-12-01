@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "溫增雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊良賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿里山鄉",
+            "cunli": "新美村",
+            "house_no": "531",
+            "candidates": {
+                "1": 17,
+                "2": 59,
+                "3": 126
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 273
+        }
+    ]
+}

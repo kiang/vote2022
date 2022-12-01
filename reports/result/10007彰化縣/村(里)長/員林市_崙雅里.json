@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張木南",
+            "party": "無"
+        },
+        "2": {
+            "name": "張永鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "崙雅里",
+            "house_no": "499",
+            "candidates": {
+                "1": 279,
+                "2": 394
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "員林市",
+            "cunli": "崙雅里",
+            "house_no": "500",
+            "candidates": {
+                "1": 312,
+                "2": 516
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1247
+        }
+    ]
+}

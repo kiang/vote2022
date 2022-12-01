@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊國華",
+            "party": "無"
+        },
+        "2": {
+            "name": "王同域",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "蘇林里",
+            "house_no": "559",
+            "candidates": {
+                "1": 423,
+                "2": 407
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "安定區",
+            "cunli": "蘇林里",
+            "house_no": "560",
+            "candidates": {
+                "1": 325,
+                "2": 286
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 857
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文人",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳世忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞和里",
+            "house_no": "1763",
+            "candidates": {
+                "1": 325,
+                "2": 154
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞和里",
+            "house_no": "1764",
+            "candidates": {
+                "1": 348,
+                "2": 154
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 849
+        }
+    ]
+}

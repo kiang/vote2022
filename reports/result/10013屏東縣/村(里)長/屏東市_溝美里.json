@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秋明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "溝美里",
+            "house_no": "117",
+            "candidates": {
+                "1": 493
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "屏東市",
+            "cunli": "溝美里",
+            "house_no": "118",
+            "candidates": {
+                "1": 503
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1055
+        }
+    ]
+}

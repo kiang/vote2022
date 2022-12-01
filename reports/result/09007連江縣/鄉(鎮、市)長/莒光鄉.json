@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳樂禮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "莒光鄉",
+            "cunli": "青帆村、田沃村、西坵村",
+            "house_no": "8",
+            "candidates": {
+                "1": 376
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "莒光鄉",
+            "cunli": "福正村、大坪村",
+            "house_no": "9",
+            "candidates": {
+                "1": 467
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 684
+        }
+    ]
+}

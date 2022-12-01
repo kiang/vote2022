@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾天明",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳清麗",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾聰諭",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝見興",
+            "party": "無"
+        },
+        "5": {
+            "name": "張振源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "土庫村",
+            "house_no": "360",
+            "candidates": {
+                "1": 276,
+                "2": 176,
+                "3": 400,
+                "4": 116,
+                "5": 41
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1453
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "土庫村",
+            "house_no": "361",
+            "candidates": {
+                "1": 16,
+                "2": 35,
+                "3": 106,
+                "4": 123,
+                "5": 12
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 482
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "三廍村",
+            "house_no": "362",
+            "candidates": {
+                "1": 46,
+                "2": 170,
+                "3": 104,
+                "4": 58,
+                "5": 168
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "三廍村",
+            "house_no": "363",
+            "candidates": {
+                "1": 67,
+                "2": 238,
+                "3": 103,
+                "4": 76,
+                "5": 214
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 963
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "中和村",
+            "house_no": "364",
+            "candidates": {
+                "1": 75,
+                "2": 237,
+                "3": 77,
+                "4": 36,
+                "5": 128
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 913
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "瀰力村",
+            "house_no": "365",
+            "candidates": {
+                "1": 81,
+                "2": 91,
+                "3": 83,
+                "4": 32,
+                "5": 74
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 496
+        }
+    ]
+}

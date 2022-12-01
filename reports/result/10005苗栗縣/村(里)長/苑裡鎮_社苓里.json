@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王錫章",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳銘志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "社苓里",
+            "house_no": "224",
+            "candidates": {
+                "1": 364,
+                "2": 437
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "社苓里",
+            "house_no": "225",
+            "candidates": {
+                "1": 377,
+                "2": 455
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

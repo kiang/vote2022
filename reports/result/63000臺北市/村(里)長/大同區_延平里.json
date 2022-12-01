@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭逸斌",
+            "party": "無"
+        },
+        "2": {
+            "name": "林昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "延平里",
+            "house_no": "1075",
+            "candidates": {
+                "1": 432,
+                "2": 203
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "大同區",
+            "cunli": "延平里",
+            "house_no": "1076",
+            "candidates": {
+                "1": 467,
+                "2": 266
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "大同區",
+            "cunli": "延平里",
+            "house_no": "1077",
+            "candidates": {
+                "1": 476,
+                "2": 277
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1192
+        }
+    ]
+}

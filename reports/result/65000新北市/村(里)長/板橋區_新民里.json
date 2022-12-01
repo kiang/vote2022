@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳博盛",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡煒鈞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "新民里",
+            "house_no": "1058",
+            "candidates": {
+                "1": 194,
+                "2": 301,
+                "3": 139
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新民里",
+            "house_no": "1059",
+            "candidates": {
+                "1": 217,
+                "2": 432,
+                "3": 111
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新民里",
+            "house_no": "1060",
+            "candidates": {
+                "1": 251,
+                "2": 382,
+                "3": 100
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1182
+        }
+    ]
+}

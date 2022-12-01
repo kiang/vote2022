@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張正二",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝明學",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安泰里",
+            "house_no": "1169",
+            "candidates": {
+                "1": 291,
+                "2": 382
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "三民區",
+            "cunli": "安泰里",
+            "house_no": "1170",
+            "candidates": {
+                "1": 278,
+                "2": 493
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "三民區",
+            "cunli": "安泰里",
+            "house_no": "1171",
+            "candidates": {
+                "1": 241,
+                "2": 439
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1169
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許鄭舜遊",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾家鼎",
+            "party": "無"
+        },
+        "3": {
+            "name": "柯文吉",
+            "party": "無"
+        },
+        "4": {
+            "name": "汪璟翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "泰山村",
+            "house_no": "402",
+            "candidates": {
+                "1": 59,
+                "2": 254,
+                "3": 102,
+                "4": 175
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "泰山村",
+            "house_no": "403",
+            "candidates": {
+                "1": 44,
+                "2": 273,
+                "3": 102,
+                "4": 198
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 898
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "南華村",
+            "house_no": "404",
+            "candidates": {
+                "1": 176,
+                "2": 130,
+                "3": 210,
+                "4": 351
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "廣福村",
+            "house_no": "405",
+            "candidates": {
+                "1": 232,
+                "2": 75,
+                "3": 315,
+                "4": 113
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "廣興村",
+            "house_no": "406",
+            "candidates": {
+                "1": 290,
+                "2": 50,
+                "3": 426,
+                "4": 36
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1066
+        }
+    ]
+}

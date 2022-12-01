@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐俊凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "林榮增",
+            "party": "無"
+        },
+        "3": {
+            "name": "林作松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "合和里",
+            "house_no": "102",
+            "candidates": {
+                "1": 96,
+                "2": 271,
+                "3": 267
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "美濃區",
+            "cunli": "合和里",
+            "house_no": "103",
+            "candidates": {
+                "1": 115,
+                "2": 264,
+                "3": 293
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁紹雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉春蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "廖達生",
+            "party": "無"
+        },
+        "4": {
+            "name": "徐兆宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三灣鄉",
+            "cunli": "大河村",
+            "house_no": "422",
+            "candidates": {
+                "1": 67,
+                "2": 58,
+                "3": 123,
+                "4": 135
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 524
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林金寶",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "建農里",
+            "house_no": "90",
+            "candidates": {
+                "1": 505
+            },
+            "count_wrong": 50,
+            "count_unused": 1,
+            "count_total": 1054
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建農里",
+            "house_no": "91",
+            "candidates": {
+                "1": 434
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 887
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡明宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "興華村",
+            "house_no": "13",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 208,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "興華村",
+            "house_no": "14",
+            "candidates": {
+                "1": 536
+            },
+            "count_wrong": 109,
+            "count_unused": 1,
+            "count_total": 995
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "興華村",
+            "house_no": "15",
+            "candidates": {
+                "1": 361
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 681
+        }
+    ]
+}

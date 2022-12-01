@@ -1,0 +1,401 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明新",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "吳建璋",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇金煌",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳金錠",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳勁葦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "四湖村",
+            "house_no": "175",
+            "candidates": {
+                "1": 260,
+                "2": 7,
+                "3": 96,
+                "4": 11,
+                "5": 271
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "四湖村",
+            "house_no": "176",
+            "candidates": {
+                "1": 202,
+                "2": 8,
+                "3": 94,
+                "4": 1,
+                "5": 167
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 662
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "湖西村",
+            "house_no": "177",
+            "candidates": {
+                "1": 223,
+                "2": 7,
+                "3": 73,
+                "4": 4,
+                "5": 274
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 824
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "湖西村",
+            "house_no": "178",
+            "candidates": {
+                "1": 128,
+                "2": 3,
+                "3": 49,
+                "4": 1,
+                "5": 101
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 440
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "湖西村",
+            "house_no": "179",
+            "candidates": {
+                "1": 210,
+                "2": 3,
+                "3": 108,
+                "4": 7,
+                "5": 309
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "新庄村",
+            "house_no": "180",
+            "candidates": {
+                "1": 149,
+                "2": 5,
+                "3": 54,
+                "4": 3,
+                "5": 180
+            },
+            "count_wrong": 11,
+            "count_unused": 2,
+            "count_total": 597
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "溪底村",
+            "house_no": "181",
+            "candidates": {
+                "1": 230,
+                "2": 20,
+                "3": 102,
+                "4": 16,
+                "5": 306
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "鹿場村",
+            "house_no": "182",
+            "candidates": {
+                "1": 202,
+                "2": 15,
+                "3": 86,
+                "4": 7,
+                "5": 220
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "蔡厝村",
+            "house_no": "183",
+            "candidates": {
+                "1": 246,
+                "2": 10,
+                "3": 54,
+                "4": 8,
+                "5": 313
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 833
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "湖寮村",
+            "house_no": "184",
+            "candidates": {
+                "1": 178,
+                "2": 7,
+                "3": 106,
+                "4": 6,
+                "5": 183
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 689
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "施湖村",
+            "house_no": "185",
+            "candidates": {
+                "1": 179,
+                "2": 6,
+                "3": 81,
+                "4": 4,
+                "5": 423
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "羊調村",
+            "house_no": "186",
+            "candidates": {
+                "1": 141,
+                "2": 8,
+                "3": 62,
+                "4": 19,
+                "5": 260
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "內湖村",
+            "house_no": "187",
+            "candidates": {
+                "1": 106,
+                "2": 15,
+                "3": 49,
+                "4": 7,
+                "5": 271
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 706
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "飛東村",
+            "house_no": "188",
+            "candidates": {
+                "1": 52,
+                "2": 3,
+                "3": 36,
+                "4": 2,
+                "5": 180
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 506
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "飛沙村",
+            "house_no": "189",
+            "candidates": {
+                "1": 54,
+                "2": 3,
+                "3": 46,
+                "4": 2,
+                "5": 314
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "三姓村",
+            "house_no": "190",
+            "candidates": {
+                "1": 33,
+                "2": 10,
+                "3": 78,
+                "4": 7,
+                "5": 130
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 351
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "崙北村",
+            "house_no": "191",
+            "candidates": {
+                "1": 155,
+                "2": 10,
+                "3": 136,
+                "4": 13,
+                "5": 257
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "崙北村",
+            "house_no": "192",
+            "candidates": {
+                "1": 165,
+                "2": 14,
+                "3": 147,
+                "4": 1,
+                "5": 221
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "崙南村",
+            "house_no": "193",
+            "candidates": {
+                "1": 102,
+                "2": 3,
+                "3": 108,
+                "4": 3,
+                "5": 207
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "廣溝村",
+            "house_no": "194",
+            "candidates": {
+                "1": 50,
+                "2": 10,
+                "3": 174,
+                "4": 5,
+                "5": 125
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "萡子村",
+            "house_no": "195",
+            "candidates": {
+                "1": 185,
+                "2": 20,
+                "3": 207,
+                "4": 2,
+                "5": 135
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 841
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "萡東村",
+            "house_no": "196",
+            "candidates": {
+                "1": 169,
+                "2": 15,
+                "3": 139,
+                "4": 12,
+                "5": 267
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "林厝村",
+            "house_no": "197",
+            "candidates": {
+                "1": 194,
+                "2": 17,
+                "3": 129,
+                "4": 14,
+                "5": 258
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "林東村",
+            "house_no": "198",
+            "candidates": {
+                "1": 143,
+                "2": 5,
+                "3": 63,
+                "4": 4,
+                "5": 252
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "溪尾村",
+            "house_no": "199",
+            "candidates": {
+                "1": 84,
+                "2": 7,
+                "3": 103,
+                "4": 3,
+                "5": 189
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 713
+        }
+    ]
+}

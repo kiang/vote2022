@@ -1,0 +1,645 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周雅婷",
+            "party": "無"
+        },
+        "2": {
+            "name": "宗菊梅",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳信志",
+            "party": "無"
+        },
+        "4": {
+            "name": "林志儒",
+            "party": "民主進步黨"
+        },
+        "5": {
+            "name": "林明賢",
+            "party": "無"
+        },
+        "6": {
+            "name": "彭成翔",
+            "party": "無"
+        },
+        "7": {
+            "name": "張育彬",
+            "party": "中國國民黨"
+        },
+        "8": {
+            "name": "黄宥馨",
+            "party": "時代力量"
+        },
+        "9": {
+            "name": "鄭清龍",
+            "party": "無"
+        },
+        "10": {
+            "name": "林榮堯",
+            "party": "民主進步黨"
+        },
+        "11": {
+            "name": "林深山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "卦山里",
+            "house_no": "98",
+            "candidates": {
+                "1": 98,
+                "2": 165,
+                "3": 98,
+                "4": 26,
+                "5": 97,
+                "6": 96,
+                "7": 75
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "彰化市",
+            "cunli": "卦山里",
+            "house_no": "99",
+            "candidates": {
+                "1": 122,
+                "2": 168,
+                "3": 79,
+                "4": 41,
+                "5": 104,
+                "6": 97,
+                "7": 69
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "彰化市",
+            "cunli": "光復里",
+            "house_no": "100",
+            "candidates": {
+                "1": 76,
+                "2": 91,
+                "3": 77,
+                "4": 23,
+                "5": 66,
+                "6": 51,
+                "7": 32
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 611
+        },
+        {
+            "area": "彰化市",
+            "cunli": "永福里",
+            "house_no": "101",
+            "candidates": {
+                "1": 67,
+                "2": 77,
+                "3": 82,
+                "4": 48,
+                "5": 79,
+                "6": 115,
+                "7": 33
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "彰化市",
+            "cunli": "光華里",
+            "house_no": "102",
+            "candidates": {
+                "1": 60,
+                "2": 71,
+                "3": 73,
+                "4": 43,
+                "5": 66,
+                "6": 39,
+                "7": 29
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 665
+        },
+        {
+            "area": "彰化市",
+            "cunli": "中正里",
+            "house_no": "103",
+            "candidates": {
+                "1": 56,
+                "2": 79,
+                "3": 49,
+                "4": 29,
+                "5": 60,
+                "6": 101,
+                "7": 27
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 623
+        },
+        {
+            "area": "彰化市",
+            "cunli": "中正里",
+            "house_no": "104",
+            "candidates": {
+                "1": 37,
+                "2": 72,
+                "3": 42,
+                "4": 4,
+                "5": 93,
+                "6": 88,
+                "7": 30
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 691
+        },
+        {
+            "area": "彰化市",
+            "cunli": "中山里",
+            "house_no": "105",
+            "candidates": {
+                "1": 91,
+                "2": 90,
+                "3": 55,
+                "4": 38,
+                "5": 68,
+                "6": 122,
+                "7": 31
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 772
+        },
+        {
+            "area": "彰化市",
+            "cunli": "龍山里",
+            "house_no": "106",
+            "candidates": {
+                "1": 67,
+                "2": 90,
+                "3": 62,
+                "4": 29,
+                "5": 76,
+                "6": 166,
+                "7": 31
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "彰化市",
+            "cunli": "龍山里",
+            "house_no": "107",
+            "candidates": {
+                "1": 84,
+                "2": 93,
+                "3": 84,
+                "4": 25,
+                "5": 77,
+                "6": 98,
+                "7": 31
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 859
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新興里",
+            "house_no": "108",
+            "candidates": {
+                "1": 115,
+                "2": 96,
+                "3": 87,
+                "4": 24,
+                "5": 161,
+                "6": 81,
+                "7": 61
+            },
+            "count_wrong": 49,
+            "count_unused": 1,
+            "count_total": 1135
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新興里",
+            "house_no": "109",
+            "candidates": {
+                "1": 70,
+                "2": 83,
+                "3": 57,
+                "4": 21,
+                "5": 207,
+                "6": 73,
+                "7": 42
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新興里",
+            "house_no": "110",
+            "candidates": {
+                "1": 94,
+                "2": 91,
+                "3": 66,
+                "4": 35,
+                "5": 154,
+                "6": 49,
+                "7": 34
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 912
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新興里",
+            "house_no": "111",
+            "candidates": {
+                "1": 111,
+                "2": 93,
+                "3": 64,
+                "4": 49,
+                "5": 182,
+                "6": 86,
+                "7": 30
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新興里",
+            "house_no": "112",
+            "candidates": {
+                "1": 103,
+                "2": 101,
+                "3": 64,
+                "4": 37,
+                "5": 123,
+                "6": 51,
+                "7": 37
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 954
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新華里",
+            "house_no": "113",
+            "candidates": {
+                "1": 37,
+                "2": 31,
+                "3": 29,
+                "4": 12,
+                "5": 316,
+                "6": 33,
+                "7": 12
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "彰化市",
+            "cunli": "新華里",
+            "house_no": "114",
+            "candidates": {
+                "1": 32,
+                "2": 33,
+                "3": 41,
+                "4": 27,
+                "5": 299,
+                "6": 43,
+                "7": 36
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "彰化市",
+            "cunli": "興北里",
+            "house_no": "115",
+            "candidates": {
+                "1": 69,
+                "2": 115,
+                "3": 74,
+                "4": 21,
+                "5": 60,
+                "6": 32,
+                "7": 33
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 724
+        },
+        {
+            "area": "彰化市",
+            "cunli": "興北里",
+            "house_no": "116",
+            "candidates": {
+                "1": 72,
+                "2": 101,
+                "3": 78,
+                "4": 28,
+                "5": 108,
+                "6": 46,
+                "7": 44
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "彰化市",
+            "cunli": "信義里",
+            "house_no": "117",
+            "candidates": {
+                "1": 72,
+                "2": 64,
+                "3": 65,
+                "4": 36,
+                "5": 112,
+                "6": 50,
+                "7": 48
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 693
+        },
+        {
+            "area": "彰化市",
+            "cunli": "民生里",
+            "house_no": "118",
+            "candidates": {
+                "1": 71,
+                "2": 60,
+                "3": 58,
+                "4": 17,
+                "5": 78,
+                "6": 60,
+                "7": 40
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 603
+        },
+        {
+            "area": "彰化市",
+            "cunli": "民生里",
+            "house_no": "119",
+            "candidates": {
+                "1": 71,
+                "2": 54,
+                "3": 48,
+                "4": 37,
+                "5": 85,
+                "6": 58,
+                "7": 49
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 652
+        },
+        {
+            "area": "彰化市",
+            "cunli": "文化里",
+            "house_no": "120",
+            "candidates": {
+                "1": 58,
+                "2": 45,
+                "3": 38,
+                "4": 16,
+                "5": 55,
+                "6": 77,
+                "7": 77
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 624
+        },
+        {
+            "area": "彰化市",
+            "cunli": "文化里",
+            "house_no": "121",
+            "candidates": {
+                "1": 31,
+                "2": 53,
+                "3": 29,
+                "4": 15,
+                "5": 23,
+                "6": 80,
+                "7": 72
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 566
+        },
+        {
+            "area": "彰化市",
+            "cunli": "陽明里",
+            "house_no": "122",
+            "candidates": {
+                "1": 74,
+                "2": 89,
+                "3": 83,
+                "4": 25,
+                "5": 88,
+                "6": 120,
+                "7": 40
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "彰化市",
+            "cunli": "陽明里",
+            "house_no": "123",
+            "candidates": {
+                "1": 53,
+                "2": 91,
+                "3": 64,
+                "4": 33,
+                "5": 67,
+                "6": 94,
+                "7": 48
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 780
+        },
+        {
+            "area": "彰化市",
+            "cunli": "萬安里",
+            "house_no": "124",
+            "candidates": {
+                "1": 72,
+                "2": 102,
+                "3": 66,
+                "4": 108,
+                "5": 49,
+                "6": 115,
+                "7": 32
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "彰化市",
+            "cunli": "萬安里",
+            "house_no": "125",
+            "candidates": {
+                "1": 60,
+                "2": 73,
+                "3": 65,
+                "4": 107,
+                "5": 43,
+                "6": 138,
+                "7": 43
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "彰化市",
+            "cunli": "萬安里",
+            "house_no": "126",
+            "candidates": {
+                "1": 62,
+                "2": 56,
+                "3": 68,
+                "4": 78,
+                "5": 52,
+                "6": 98,
+                "7": 35
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 779
+        },
+        {
+            "area": "彰化市",
+            "cunli": "萬安里",
+            "house_no": "127",
+            "candidates": {
+                "1": 98,
+                "2": 91,
+                "3": 62,
+                "4": 143,
+                "5": 83,
+                "6": 72,
+                "7": 38
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "128",
+            "candidates": {
+                "1": 150,
+                "2": 127,
+                "3": 62,
+                "4": 73,
+                "5": 81,
+                "6": 95,
+                "7": 36
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "129",
+            "candidates": {
+                "1": 167,
+                "2": 70,
+                "3": 72,
+                "4": 37,
+                "5": 100,
+                "6": 111,
+                "7": 26
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "130",
+            "candidates": {
+                "1": 161,
+                "2": 113,
+                "3": 81,
+                "4": 43,
+                "5": 84,
+                "6": 79,
+                "7": 36
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "131",
+            "candidates": {
+                "1": 139,
+                "2": 97,
+                "3": 52,
+                "4": 25,
+                "5": 65,
+                "6": 68,
+                "7": 32
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "132",
+            "candidates": {
+                "1": 120,
+                "2": 116,
+                "3": 95,
+                "4": 44,
+                "5": 52,
+                "6": 90,
+                "7": 41
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 912
+        }
+    ]
+}

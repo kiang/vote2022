@@ -1,0 +1,113 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許智鈞",
+            "party": "無"
+        },
+        "2": {
+            "name": "張俊生",
+            "party": "無"
+        },
+        "3": {
+            "name": "許慧志",
+            "party": "無"
+        },
+        "4": {
+            "name": "許漢郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "18",
+            "candidates": {
+                "1": 58,
+                "2": 482,
+                "3": 92
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "19",
+            "candidates": {
+                "1": 44,
+                "2": 409,
+                "3": 75
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "20",
+            "candidates": {
+                "1": 57,
+                "2": 476,
+                "3": 68
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "中興村",
+            "house_no": "21",
+            "candidates": {
+                "1": 62,
+                "2": 91,
+                "3": 306
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "中興村",
+            "house_no": "22",
+            "candidates": {
+                "1": 68,
+                "2": 127,
+                "3": 267
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 729
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "三盛村",
+            "house_no": "23",
+            "candidates": {
+                "1": 138,
+                "2": 73,
+                "3": 329
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "三盛村",
+            "house_no": "24",
+            "candidates": {
+                "1": 140,
+                "2": 96,
+                "3": 424
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1128
+        }
+    ]
+}

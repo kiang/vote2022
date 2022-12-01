@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝佳龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文一",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "仁義里",
+            "house_no": "428",
+            "candidates": {
+                "1": 249,
+                "2": 345
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1020
+        },
+        {
+            "area": "新莊區",
+            "cunli": "仁義里",
+            "house_no": "429",
+            "candidates": {
+                "1": 360,
+                "2": 247
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "新莊區",
+            "cunli": "仁義里",
+            "house_no": "430",
+            "candidates": {
+                "1": 268,
+                "2": 295
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1066
+        }
+    ]
+}

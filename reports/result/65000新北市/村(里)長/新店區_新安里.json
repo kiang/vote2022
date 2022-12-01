@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉麗英",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃建福",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "新安里",
+            "house_no": "2171",
+            "candidates": {
+                "1": 253,
+                "2": 407
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "新店區",
+            "cunli": "新安里",
+            "house_no": "2172",
+            "candidates": {
+                "1": 59,
+                "2": 166
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 458
+        },
+        {
+            "area": "新店區",
+            "cunli": "新安里",
+            "house_no": "2173",
+            "candidates": {
+                "1": 235,
+                "2": 302
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "新店區",
+            "cunli": "新安里",
+            "house_no": "2174",
+            "candidates": {
+                "1": 256,
+                "2": 371
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1006
+        }
+    ]
+}

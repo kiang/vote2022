@@ -1,0 +1,26 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊米豐",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "洪明德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "復興區",
+            "cunli": "霞雲里",
+            "house_no": "702",
+            "candidates": {
+                "1": 230,
+                "2": 291
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 660
+        }
+    ]
+}

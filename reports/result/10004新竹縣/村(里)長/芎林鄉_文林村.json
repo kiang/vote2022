@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孔霖萬",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧煥源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "文林村",
+            "house_no": "384",
+            "candidates": {
+                "1": 331,
+                "2": 371
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "文林村",
+            "house_no": "385",
+            "candidates": {
+                "1": 258,
+                "2": 427
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1053
+        }
+    ]
+}

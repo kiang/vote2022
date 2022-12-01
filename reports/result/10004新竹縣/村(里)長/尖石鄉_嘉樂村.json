@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游星明",
+            "party": "無"
+        },
+        "2": {
+            "name": "高金祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "嘉樂村",
+            "house_no": "443",
+            "candidates": {
+                "1": 170,
+                "2": 181
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 451
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "嘉樂村",
+            "house_no": "444",
+            "candidates": {
+                "1": 122,
+                "2": 147
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 341
+        }
+    ]
+}

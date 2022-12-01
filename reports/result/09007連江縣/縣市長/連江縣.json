@@ -1,0 +1,148 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李問",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "曹爾元",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "王忠銘",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南竿鄉",
+            "cunli": "介壽村",
+            "house_no": "1",
+            "candidates": {
+                "1": 42,
+                "2": 314,
+                "3": 362
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "介壽村",
+            "house_no": "2",
+            "candidates": {
+                "1": 65,
+                "2": 306,
+                "3": 290
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "復興村、福沃村",
+            "house_no": "3",
+            "candidates": {
+                "1": 73,
+                "2": 590,
+                "3": 515
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1698
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "清水村、珠螺村",
+            "house_no": "4",
+            "candidates": {
+                "1": 53,
+                "2": 328,
+                "3": 525
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1265
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "仁愛村、津沙村、馬祖村、四維村北竿鄉",
+            "house_no": "5",
+            "candidates": {
+                "1": 68,
+                "2": 414,
+                "3": 579
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1590
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "塘岐村、后沃村",
+            "house_no": "6",
+            "candidates": {
+                "1": 56,
+                "2": 398,
+                "3": 585
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1367
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "橋仔村、芹壁村、坂里村、白沙村莒光鄉",
+            "house_no": "7",
+            "candidates": {
+                "1": 63,
+                "2": 408,
+                "3": 547
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1378
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "青帆村、田沃村、西坵村",
+            "house_no": "8",
+            "candidates": {
+                "1": 34,
+                "2": 191,
+                "3": 220
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 636
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "福正村、大坪村東引鄉",
+            "house_no": "9",
+            "candidates": {
+                "1": 27,
+                "2": 227,
+                "3": 258
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "中柳村、樂華村",
+            "house_no": "10",
+            "candidates": {
+                "1": 105,
+                "2": 406,
+                "3": 456
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1278
+        }
+    ]
+}

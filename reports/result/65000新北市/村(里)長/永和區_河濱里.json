@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫黃秋月",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "河濱里",
+            "house_no": "1641",
+            "candidates": {
+                "1": 627
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "永和區",
+            "cunli": "河濱里",
+            "house_no": "1642",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 122,
+            "count_unused": 2,
+            "count_total": 1360
+        }
+    ]
+}

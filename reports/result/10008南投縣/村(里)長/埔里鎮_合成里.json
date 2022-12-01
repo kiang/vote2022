@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐佩怡",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳信順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "合成里",
+            "house_no": "146",
+            "candidates": {
+                "1": 354,
+                "2": 547
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "合成里",
+            "house_no": "147",
+            "candidates": {
+                "1": 113,
+                "2": 74
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 291
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃昭溢",
+            "party": "無"
+        },
+        "2": {
+            "name": "花沛明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "白沙村",
+            "house_no": "206",
+            "candidates": {
+                "1": 320,
+                "2": 361
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "白沙村",
+            "house_no": "207",
+            "candidates": {
+                "1": 285,
+                "2": 317
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "白沙村",
+            "house_no": "208",
+            "candidates": {
+                "1": 312,
+                "2": 431
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "白沙村",
+            "house_no": "209",
+            "candidates": {
+                "1": 196,
+                "2": 328
+            },
+            "count_wrong": 46,
+            "count_unused": 1,
+            "count_total": 1058
+        }
+    ]
+}

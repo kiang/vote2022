@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐德華",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃世豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "東安里",
+            "house_no": "1084",
+            "candidates": {
+                "1": 554,
+                "2": 261
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1312
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "東安里",
+            "house_no": "1085",
+            "candidates": {
+                "1": 450,
+                "2": 319
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1351
+        }
+    ]
+}

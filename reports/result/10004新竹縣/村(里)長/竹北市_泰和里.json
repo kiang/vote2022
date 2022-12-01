@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅敏功",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "廖鴻燕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "泰和里",
+            "house_no": "98",
+            "candidates": {
+                "1": 246,
+                "2": 305
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "竹北市",
+            "cunli": "泰和里",
+            "house_no": "99",
+            "candidates": {
+                "1": 209,
+                "2": 232
+            },
+            "count_wrong": 10,
+            "count_unused": 6,
+            "count_total": 826
+        },
+        {
+            "area": "竹北市",
+            "cunli": "泰和里",
+            "house_no": "100",
+            "candidates": {
+                "1": 266,
+                "2": 218
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "竹北市",
+            "cunli": "泰和里",
+            "house_no": "101",
+            "candidates": {
+                "1": 316,
+                "2": 191
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "竹北市",
+            "cunli": "泰和里",
+            "house_no": "102",
+            "candidates": {
+                "1": 270,
+                "2": 371
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "竹北市",
+            "cunli": "泰和里",
+            "house_no": "103",
+            "candidates": {
+                "1": 172,
+                "2": 367
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 991
+        }
+    ]
+}

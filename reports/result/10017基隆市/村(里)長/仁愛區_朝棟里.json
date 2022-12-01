@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李光健",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹秀蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "朝棟里",
+            "house_no": "112",
+            "candidates": {
+                "1": 413,
+                "2": 246
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "朝棟里",
+            "house_no": "113",
+            "candidates": {
+                "1": 576,
+                "2": 331
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1447
+        }
+    ]
+}

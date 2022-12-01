@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯茂全",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳中海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "西湖里",
+            "house_no": "1081",
+            "candidates": {
+                "1": 324,
+                "2": 291
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "中西區",
+            "cunli": "西湖里",
+            "house_no": "1082",
+            "candidates": {
+                "1": 390,
+                "2": 246
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1047
+        },
+        {
+            "area": "中西區",
+            "cunli": "西湖里",
+            "house_no": "1083",
+            "candidates": {
+                "1": 329,
+                "2": 242
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "中西區",
+            "cunli": "西湖里",
+            "house_no": "1084",
+            "candidates": {
+                "1": 389,
+                "2": 232
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "中西區",
+            "cunli": "西湖里",
+            "house_no": "1085",
+            "candidates": {
+                "1": 352,
+                "2": 321
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1224
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "溫國文",
+            "party": "無"
+        },
+        "2": {
+            "name": "張水源",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳蓮月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "仙宮里",
+            "house_no": "119",
+            "candidates": {
+                "1": 376,
+                "2": 329,
+                "3": 92
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1170
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾基成",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "萬里區",
+            "cunli": "龜吼里",
+            "house_no": "2525",
+            "candidates": {
+                "1": 188,
+                "2": 377
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1173
+        },
+        {
+            "area": "萬里區",
+            "cunli": "龜吼里",
+            "house_no": "2526",
+            "candidates": {
+                "1": 419,
+                "2": 397
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1279
+        }
+    ]
+}

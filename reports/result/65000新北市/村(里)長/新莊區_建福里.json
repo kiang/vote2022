@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉金祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "建福里",
+            "house_no": "580",
+            "candidates": {
+                "1": 520
+            },
+            "count_wrong": 68,
+            "count_unused": 1,
+            "count_total": 1045
+        },
+        {
+            "area": "新莊區",
+            "cunli": "建福里",
+            "house_no": "581",
+            "candidates": {
+                "1": 502
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1056
+        }
+    ]
+}

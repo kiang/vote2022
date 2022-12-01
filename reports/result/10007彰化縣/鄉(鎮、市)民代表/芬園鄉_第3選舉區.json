@@ -1,0 +1,66 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許林心",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇文徹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "縣庄村",
+            "house_no": "240",
+            "candidates": {
+                "1": 132,
+                "2": 484,
+                "3": 144
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "圳墘村",
+            "house_no": "241",
+            "candidates": {
+                "1": 220,
+                "2": 104,
+                "3": 76
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 620
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "溪頭村",
+            "house_no": "242",
+            "candidates": {
+                "1": 252,
+                "2": 88,
+                "3": 216
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 811
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "溪頭村",
+            "house_no": "243",
+            "candidates": {
+                "1": 199,
+                "2": 113,
+                "3": 200
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 798
+        }
+    ]
+}

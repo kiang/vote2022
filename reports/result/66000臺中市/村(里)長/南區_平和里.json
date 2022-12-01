@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瓊如",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯永宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "平和里",
+            "house_no": "1457",
+            "candidates": {
+                "1": 294,
+                "2": 366
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "南區",
+            "cunli": "平和里",
+            "house_no": "1458",
+            "candidates": {
+                "1": 345,
+                "2": 371
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "南區",
+            "cunli": "平和里",
+            "house_no": "1459",
+            "candidates": {
+                "1": 325,
+                "2": 332
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

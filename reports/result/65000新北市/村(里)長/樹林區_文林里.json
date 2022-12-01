@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "甘永昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "張建均",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳世欣",
+            "party": "無"
+        },
+        "4": {
+            "name": "王增文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "文林里",
+            "house_no": "1772",
+            "candidates": {
+                "1": 384,
+                "2": 171,
+                "3": 162,
+                "4": 118
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "樹林區",
+            "cunli": "文林里",
+            "house_no": "1773",
+            "candidates": {
+                "1": 398,
+                "2": 184,
+                "3": 213,
+                "4": 85
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1463
+        },
+        {
+            "area": "樹林區",
+            "cunli": "文林里",
+            "house_no": "1774",
+            "candidates": {
+                "1": 364,
+                "2": 214,
+                "3": 100,
+                "4": 102
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1459
+        }
+    ]
+}

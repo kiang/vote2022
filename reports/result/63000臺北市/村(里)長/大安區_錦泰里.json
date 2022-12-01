@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范燕淇",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡燕卿",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "錦泰里",
+            "house_no": "1457",
+            "candidates": {
+                "1": 637,
+                "2": 280
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦泰里",
+            "house_no": "1458",
+            "candidates": {
+                "1": 567,
+                "2": 382
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1385
+        }
+    ]
+}

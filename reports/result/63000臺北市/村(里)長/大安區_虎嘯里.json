@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹仲琪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "虎嘯里",
+            "house_no": "1513",
+            "candidates": {
+                "1": 798
+            },
+            "count_wrong": 90,
+            "count_unused": 4,
+            "count_total": 1264
+        },
+        {
+            "area": "大安區",
+            "cunli": "虎嘯里",
+            "house_no": "1514",
+            "candidates": {
+                "1": 434
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "大安區",
+            "cunli": "虎嘯里",
+            "house_no": "1515",
+            "candidates": {
+                "1": 520
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 870
+        }
+    ]
+}

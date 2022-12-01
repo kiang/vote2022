@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "白淞元",
+            "party": "無"
+        },
+        "2": {
+            "name": "林添財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "鹿峰里",
+            "house_no": "215",
+            "candidates": {
+                "1": 354,
+                "2": 404
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "鹿峰里",
+            "house_no": "216",
+            "candidates": {
+                "1": 410,
+                "2": 367
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "鹿峰里",
+            "house_no": "217",
+            "candidates": {
+                "1": 466,
+                "2": 459
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1446
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "鹿峰里",
+            "house_no": "218",
+            "candidates": {
+                "1": 544,
+                "2": 403
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1525
+        }
+    ]
+}

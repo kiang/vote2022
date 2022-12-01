@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳素琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "周海玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "和昌里",
+            "house_no": "551",
+            "candidates": {
+                "1": 276,
+                "2": 302
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "和昌里",
+            "house_no": "552",
+            "candidates": {
+                "1": 287,
+                "2": 295
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 981
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈秀美",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁明道",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "廣澤里",
+            "house_no": "1297",
+            "candidates": {
+                "1": 287,
+                "2": 209
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 805
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "廣澤里",
+            "house_no": "1298",
+            "candidates": {
+                "1": 326,
+                "2": 225
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 792
+        }
+    ]
+}

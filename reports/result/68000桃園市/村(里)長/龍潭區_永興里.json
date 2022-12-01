@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐貴玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "范品發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "永興里",
+            "house_no": "1208",
+            "candidates": {
+                "1": 293,
+                "2": 456
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "永興里",
+            "house_no": "1209",
+            "candidates": {
+                "1": 444,
+                "2": 376
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1390
+        }
+    ]
+}

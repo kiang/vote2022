@@ -1,0 +1,135 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭長漢",
+            "party": "無"
+        },
+        "2": {
+            "name": "張慶添",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張金龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "莿桐鄉",
+            "cunli": "饒平村",
+            "house_no": "425",
+            "candidates": {
+                "1": 232,
+                "2": 228,
+                "3": 191
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "四合村",
+            "house_no": "426",
+            "candidates": {
+                "1": 281,
+                "2": 74,
+                "3": 69
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "四合村",
+            "house_no": "427",
+            "candidates": {
+                "1": 250,
+                "2": 133,
+                "3": 85
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "麻園村",
+            "house_no": "428",
+            "candidates": {
+                "1": 379,
+                "2": 106,
+                "3": 60
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "麻園村",
+            "house_no": "429",
+            "candidates": {
+                "1": 223,
+                "2": 65,
+                "3": 48
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 505
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "五華村",
+            "house_no": "430",
+            "candidates": {
+                "1": 112,
+                "2": 69,
+                "3": 100
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 428
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "五華村",
+            "house_no": "431",
+            "candidates": {
+                "1": 155,
+                "2": 182,
+                "3": 165
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 810
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "六合村",
+            "house_no": "432",
+            "candidates": {
+                "1": 133,
+                "2": 118,
+                "3": 526
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "六合村",
+            "house_no": "433",
+            "candidates": {
+                "1": 71,
+                "2": 274,
+                "3": 117
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 615
+        }
+    ]
+}

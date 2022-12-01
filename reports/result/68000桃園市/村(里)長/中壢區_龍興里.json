@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳順坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐秋妲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "龍興里",
+            "house_no": "723",
+            "candidates": {
+                "1": 241,
+                "2": 484
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍興里",
+            "house_no": "724",
+            "candidates": {
+                "1": 217,
+                "2": 597
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1421
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍興里",
+            "house_no": "725",
+            "candidates": {
+                "1": 233,
+                "2": 582
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1524
+        }
+    ]
+}

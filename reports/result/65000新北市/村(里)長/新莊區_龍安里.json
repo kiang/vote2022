@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳庭妤",
+            "party": "無"
+        },
+        "2": {
+            "name": "林麗容",
+            "party": "正黨"
+        },
+        "3": {
+            "name": "白秀絨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "龍安里",
+            "house_no": "568",
+            "candidates": {
+                "1": 303,
+                "2": 84,
+                "3": 168
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "新莊區",
+            "cunli": "龍安里",
+            "house_no": "569",
+            "candidates": {
+                "1": 280,
+                "2": 115,
+                "3": 177
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘石誠",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "許芳瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "西甲里",
+            "house_no": "1715",
+            "candidates": {
+                "1": 295,
+                "2": 279
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "西甲里",
+            "house_no": "1716",
+            "candidates": {
+                "1": 269,
+                "2": 253
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 980
+        }
+    ]
+}

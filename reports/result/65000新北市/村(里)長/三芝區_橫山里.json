@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅明隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秋華",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃麗玲",
+            "party": "無"
+        },
+        "4": {
+            "name": "余美玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三芝區",
+            "cunli": "橫山里",
+            "house_no": "24",
+            "candidates": {
+                "1": 73,
+                "2": 77,
+                "3": 151,
+                "4": 56
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 473
+        }
+    ]
+}

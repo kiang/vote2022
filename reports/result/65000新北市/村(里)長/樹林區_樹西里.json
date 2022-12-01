@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱國豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅煥滿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "樹西里",
+            "house_no": "1793",
+            "candidates": {
+                "1": 444,
+                "2": 414
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "樹林區",
+            "cunli": "樹西里",
+            "house_no": "1794",
+            "candidates": {
+                "1": 490,
+                "2": 387
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1457
+        },
+        {
+            "area": "樹林區",
+            "cunli": "樹西里",
+            "house_no": "1795",
+            "candidates": {
+                "1": 404,
+                "2": 430
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1445
+        }
+    ]
+}

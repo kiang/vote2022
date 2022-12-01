@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "韋綱松",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉守仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "和興村",
+            "house_no": "424",
+            "candidates": {
+                "1": 329,
+                "2": 272
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1125
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "和興村",
+            "house_no": "425",
+            "candidates": {
+                "1": 363,
+                "2": 375
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "和興村",
+            "house_no": "426",
+            "candidates": {
+                "1": 212,
+                "2": 306
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "和興村",
+            "house_no": "427",
+            "candidates": {
+                "1": 205,
+                "2": 371
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 971
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "和興村",
+            "house_no": "428",
+            "candidates": {
+                "1": 316,
+                "2": 400
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

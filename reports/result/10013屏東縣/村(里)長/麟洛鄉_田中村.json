@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳光裕",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝忠文",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉火貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麟洛鄉",
+            "cunli": "田中村",
+            "house_no": "327",
+            "candidates": {
+                "1": 336,
+                "2": 85,
+                "3": 389
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1154
+        }
+    ]
+}

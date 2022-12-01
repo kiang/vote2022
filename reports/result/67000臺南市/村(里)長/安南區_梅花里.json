@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林思萍",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜柏青",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡和豐",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "梅花里",
+            "house_no": "709",
+            "candidates": {
+                "1": 233,
+                "2": 55,
+                "3": 276
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "安南區",
+            "cunli": "梅花里",
+            "house_no": "710",
+            "candidates": {
+                "1": 412,
+                "2": 16,
+                "3": 239
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1011
+        },
+        {
+            "area": "安南區",
+            "cunli": "梅花里",
+            "house_no": "711",
+            "candidates": {
+                "1": 229,
+                "2": 42,
+                "3": 215
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "安南區",
+            "cunli": "梅花里",
+            "house_no": "712",
+            "candidates": {
+                "1": 347,
+                "2": 11,
+                "3": 211
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 925
+        }
+    ]
+}

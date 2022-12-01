@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "閻泰利",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "中山里",
+            "house_no": "1554",
+            "candidates": {
+                "1": 799
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1618
+        },
+        {
+            "area": "太平區",
+            "cunli": "中山里",
+            "house_no": "1555",
+            "candidates": {
+                "1": 659
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1973
+        }
+    ]
+}

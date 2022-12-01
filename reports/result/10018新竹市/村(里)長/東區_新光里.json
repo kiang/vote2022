@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳心嵐",
+            "party": "無"
+        },
+        "2": {
+            "name": "張進謀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "新光里",
+            "house_no": "141",
+            "candidates": {
+                "1": 367,
+                "2": 293
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "東區",
+            "cunli": "新光里",
+            "house_no": "142",
+            "candidates": {
+                "1": 381,
+                "2": 285
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "東區",
+            "cunli": "新光里",
+            "house_no": "143",
+            "candidates": {
+                "1": 429,
+                "2": 272
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

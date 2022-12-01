@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳家展",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金江",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "鯤鯓里",
+            "house_no": "1238",
+            "candidates": {
+                "1": 250,
+                "2": 319
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "南區",
+            "cunli": "鯤鯓里",
+            "house_no": "1239",
+            "candidates": {
+                "1": 204,
+                "2": 246
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 733
+        }
+    ]
+}

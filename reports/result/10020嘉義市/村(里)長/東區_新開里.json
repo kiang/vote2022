@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱繼賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴坤志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "新開里",
+            "house_no": "46",
+            "candidates": {
+                "1": 267,
+                "2": 177
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 846
+        },
+        {
+            "area": "東區",
+            "cunli": "新開里",
+            "house_no": "47",
+            "candidates": {
+                "1": 338,
+                "2": 169
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1023
+        }
+    ]
+}

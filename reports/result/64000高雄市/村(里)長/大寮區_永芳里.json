@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張綵瀠",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡寶麟",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡基成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "永芳里",
+            "house_no": "1955",
+            "candidates": {
+                "1": 86,
+                "2": 87,
+                "3": 318
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "大寮區",
+            "cunli": "永芳里",
+            "house_no": "1956",
+            "candidates": {
+                "1": 95,
+                "2": 104,
+                "3": 494
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "大寮區",
+            "cunli": "永芳里",
+            "house_no": "1957",
+            "candidates": {
+                "1": 49,
+                "2": 107,
+                "3": 439
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "大寮區",
+            "cunli": "永芳里",
+            "house_no": "1958",
+            "candidates": {
+                "1": 55,
+                "2": 156,
+                "3": 462
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "大寮區",
+            "cunli": "永芳里",
+            "house_no": "1959",
+            "candidates": {
+                "1": 47,
+                "2": 82,
+                "3": 509
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1049
+        },
+        {
+            "area": "大寮區",
+            "cunli": "永芳里",
+            "house_no": "1960",
+            "candidates": {
+                "1": 35,
+                "2": 174,
+                "3": 475
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

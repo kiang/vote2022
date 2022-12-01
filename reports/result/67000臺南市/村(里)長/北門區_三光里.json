@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾進祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "侯進枝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北門區",
+            "cunli": "三光里",
+            "house_no": "214",
+            "candidates": {
+                "1": 268,
+                "2": 228
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 639
+        },
+        {
+            "area": "北門區",
+            "cunli": "三光里",
+            "house_no": "215",
+            "candidates": {
+                "1": 120,
+                "2": 220
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 488
+        }
+    ]
+}

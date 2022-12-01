@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏秀盆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "水秀里",
+            "house_no": "84",
+            "candidates": {
+                "1": 498
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "水秀里",
+            "house_no": "85",
+            "candidates": {
+                "1": 201
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 444
+        }
+    ]
+}

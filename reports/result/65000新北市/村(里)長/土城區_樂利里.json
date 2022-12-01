@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃銀片",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳麗美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "樂利里",
+            "house_no": "1993",
+            "candidates": {
+                "1": 444,
+                "2": 456
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1527
+        },
+        {
+            "area": "土城區",
+            "cunli": "樂利里",
+            "house_no": "1994",
+            "candidates": {
+                "1": 359,
+                "2": 413
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "土城區",
+            "cunli": "樂利里",
+            "house_no": "1995",
+            "candidates": {
+                "1": 435,
+                "2": 385
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1457
+        }
+    ]
+}

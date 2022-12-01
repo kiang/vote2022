@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅春芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "李坤智",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "姜立偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "仁和里",
+            "house_no": "28",
+            "candidates": {
+                "1": 167,
+                "2": 317,
+                "3": 104
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "臺東市",
+            "cunli": "仁和里",
+            "house_no": "29",
+            "candidates": {
+                "1": 196,
+                "2": 237,
+                "3": 153
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "臺東市",
+            "cunli": "仁和里",
+            "house_no": "30",
+            "candidates": {
+                "1": 172,
+                "2": 235,
+                "3": 181
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 959
+        }
+    ]
+}

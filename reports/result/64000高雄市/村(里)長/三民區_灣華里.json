@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡坤達",
+            "party": "無"
+        },
+        "2": {
+            "name": "高素女",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "灣華里",
+            "house_no": "1113",
+            "candidates": {
+                "1": 248,
+                "2": 350
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣華里",
+            "house_no": "1114",
+            "candidates": {
+                "1": 283,
+                "2": 376
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1298
+        }
+    ]
+}

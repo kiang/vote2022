@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志勇",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱榮凱",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "連和里",
+            "house_no": "1358",
+            "candidates": {
+                "1": 112,
+                "2": 442
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "中和區",
+            "cunli": "連和里",
+            "house_no": "1359",
+            "candidates": {
+                "1": 150,
+                "2": 464
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1113
+        }
+    ]
+}

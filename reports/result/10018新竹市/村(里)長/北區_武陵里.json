@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高媺婷",
+            "party": "無"
+        },
+        "2": {
+            "name": "李思民",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "武陵里",
+            "house_no": "258",
+            "candidates": {
+                "1": 285,
+                "2": 375
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "北區",
+            "cunli": "武陵里",
+            "house_no": "259",
+            "candidates": {
+                "1": 288,
+                "2": 341
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "北區",
+            "cunli": "武陵里",
+            "house_no": "260",
+            "candidates": {
+                "1": 290,
+                "2": 434
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "北區",
+            "cunli": "武陵里",
+            "house_no": "261",
+            "candidates": {
+                "1": 334,
+                "2": 313
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1033
+        }
+    ]
+}

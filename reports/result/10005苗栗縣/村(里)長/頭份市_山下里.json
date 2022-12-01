@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝瑞輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "許仁宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "山下里",
+            "house_no": "375",
+            "candidates": {
+                "1": 408,
+                "2": 406
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "頭份市",
+            "cunli": "山下里",
+            "house_no": "376",
+            "candidates": {
+                "1": 375,
+                "2": 503
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1416
+        },
+        {
+            "area": "頭份市",
+            "cunli": "山下里",
+            "house_no": "377",
+            "candidates": {
+                "1": 368,
+                "2": 457
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 1279
+        }
+    ]
+}

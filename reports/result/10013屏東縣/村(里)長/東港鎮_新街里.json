@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡丁興",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳銘修",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "郭明德",
+            "party": "無"
+        },
+        "4": {
+            "name": "蘇久洲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "新街里",
+            "house_no": "192",
+            "candidates": {
+                "1": 96,
+                "2": 320,
+                "3": 151,
+                "4": 105
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "新街里",
+            "house_no": "193",
+            "candidates": {
+                "1": 74,
+                "2": 368,
+                "3": 163,
+                "4": 211
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "新街里",
+            "house_no": "194",
+            "candidates": {
+                "1": 187,
+                "2": 298,
+                "3": 144,
+                "4": 112
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1194
+        }
+    ]
+}

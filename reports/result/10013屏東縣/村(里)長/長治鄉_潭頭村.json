@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱清春",
+            "party": "無"
+        },
+        "2": {
+            "name": "李玉鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "潭頭村",
+            "house_no": "302",
+            "candidates": {
+                "1": 251,
+                "2": 355
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "潭頭村",
+            "house_no": "303",
+            "candidates": {
+                "1": 327,
+                "2": 294
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 918
+        }
+    ]
+}

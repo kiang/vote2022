@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "嚴盛任",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃成俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關西鎮",
+            "cunli": "石光里",
+            "house_no": "269",
+            "candidates": {
+                "1": 368,
+                "2": 246
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "石光里",
+            "house_no": "270",
+            "candidates": {
+                "1": 345,
+                "2": 267
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 834
+        }
+    ]
+}

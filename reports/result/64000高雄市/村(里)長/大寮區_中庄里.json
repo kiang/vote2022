@@ -1,0 +1,146 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明錤",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂貝仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "林烔彬",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾承豐",
+            "party": "無"
+        },
+        "5": {
+            "name": "王淑幸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1917",
+            "candidates": {
+                "1": 40,
+                "2": 118,
+                "3": 170,
+                "4": 321,
+                "5": 87
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1918",
+            "candidates": {
+                "1": 54,
+                "2": 71,
+                "3": 146,
+                "4": 289,
+                "5": 94
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1919",
+            "candidates": {
+                "1": 65,
+                "2": 41,
+                "3": 167,
+                "4": 222,
+                "5": 118
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1920",
+            "candidates": {
+                "1": 82,
+                "2": 70,
+                "3": 248,
+                "4": 244,
+                "5": 120
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1921",
+            "candidates": {
+                "1": 65,
+                "2": 76,
+                "3": 165,
+                "4": 341,
+                "5": 149
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1922",
+            "candidates": {
+                "1": 74,
+                "2": 98,
+                "3": 242,
+                "4": 251,
+                "5": 125
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1923",
+            "candidates": {
+                "1": 78,
+                "2": 116,
+                "3": 223,
+                "4": 260,
+                "5": 98
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中庄里",
+            "house_no": "1924",
+            "candidates": {
+                "1": 66,
+                "2": 94,
+                "3": 218,
+                "4": 215,
+                "5": 96
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1275
+        }
+    ]
+}

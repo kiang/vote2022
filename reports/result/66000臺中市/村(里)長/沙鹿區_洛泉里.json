@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "阮騰輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "洛泉里",
+            "house_no": "201",
+            "candidates": {
+                "1": 242,
+                "2": 274
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "洛泉里",
+            "house_no": "202",
+            "candidates": {
+                "1": 390,
+                "2": 392
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

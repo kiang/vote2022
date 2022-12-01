@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "唐淑英",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾國鉉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "大平里",
+            "house_no": "1263",
+            "candidates": {
+                "1": 301,
+                "2": 414
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "大平里",
+            "house_no": "1264",
+            "candidates": {
+                "1": 371,
+                "2": 390
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1162
+        }
+    ]
+}

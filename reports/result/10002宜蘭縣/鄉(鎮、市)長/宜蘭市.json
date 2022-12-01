@@ -1,0 +1,1156 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美玲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李家豪",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "賴瑞鼎",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "陳俊冀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "民族里",
+            "house_no": "1",
+            "candidates": {
+                "1": 290,
+                "2": 63,
+                "3": 234,
+                "4": 12
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "民族里",
+            "house_no": "2",
+            "candidates": {
+                "1": 340,
+                "2": 50,
+                "3": 214,
+                "4": 8
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "建軍里",
+            "house_no": "3",
+            "candidates": {
+                "1": 221,
+                "2": 43,
+                "3": 167,
+                "4": 8
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 793
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "建軍里",
+            "house_no": "4",
+            "candidates": {
+                "1": 182,
+                "2": 52,
+                "3": 172,
+                "4": 8
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 695
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "泰山里",
+            "house_no": "5",
+            "candidates": {
+                "1": 241,
+                "2": 54,
+                "3": 208,
+                "4": 7
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "泰山里",
+            "house_no": "6",
+            "candidates": {
+                "1": 257,
+                "2": 52,
+                "3": 151,
+                "4": 5
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "負郭里",
+            "house_no": "7",
+            "candidates": {
+                "1": 210,
+                "2": 53,
+                "3": 204,
+                "4": 7
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 882
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "負郭里",
+            "house_no": "8",
+            "candidates": {
+                "1": 250,
+                "2": 66,
+                "3": 247,
+                "4": 8
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "負郭里",
+            "house_no": "9",
+            "candidates": {
+                "1": 245,
+                "2": 58,
+                "3": 223,
+                "4": 7
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "10",
+            "candidates": {
+                "1": 287,
+                "2": 73,
+                "3": 250,
+                "4": 6
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "11",
+            "candidates": {
+                "1": 306,
+                "2": 78,
+                "3": 171,
+                "4": 6
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "12",
+            "candidates": {
+                "1": 330,
+                "2": 92,
+                "3": 210,
+                "4": 5
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "13",
+            "candidates": {
+                "1": 308,
+                "2": 89,
+                "3": 238,
+                "4": 6
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "七結里",
+            "house_no": "14",
+            "candidates": {
+                "1": 376,
+                "2": 104,
+                "3": 270,
+                "4": 4
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "七結里",
+            "house_no": "15",
+            "candidates": {
+                "1": 302,
+                "2": 91,
+                "3": 313,
+                "4": 14
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "文化里",
+            "house_no": "16",
+            "candidates": {
+                "1": 205,
+                "2": 64,
+                "3": 208,
+                "4": 3
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 852
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "文化里",
+            "house_no": "17",
+            "candidates": {
+                "1": 261,
+                "2": 66,
+                "3": 199,
+                "4": 7
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "文化里",
+            "house_no": "18",
+            "candidates": {
+                "1": 299,
+                "2": 94,
+                "3": 255,
+                "4": 5
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "復興里",
+            "house_no": "19",
+            "candidates": {
+                "1": 318,
+                "2": 56,
+                "3": 119,
+                "4": 4
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 838
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "復興里",
+            "house_no": "20",
+            "candidates": {
+                "1": 240,
+                "2": 53,
+                "3": 151,
+                "4": 3
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 757
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "復興里",
+            "house_no": "21",
+            "candidates": {
+                "1": 242,
+                "2": 53,
+                "3": 226,
+                "4": 6
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 912
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "民權里",
+            "house_no": "22",
+            "candidates": {
+                "1": 208,
+                "2": 48,
+                "3": 169,
+                "4": 2
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "民權里",
+            "house_no": "23",
+            "candidates": {
+                "1": 212,
+                "2": 46,
+                "3": 144,
+                "4": 1
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "神農里",
+            "house_no": "24",
+            "candidates": {
+                "1": 183,
+                "2": 33,
+                "3": 128,
+                "4": 4
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 592
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "神農里",
+            "house_no": "25",
+            "candidates": {
+                "1": 222,
+                "2": 60,
+                "3": 180,
+                "4": 6
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "神農里",
+            "house_no": "26",
+            "candidates": {
+                "1": 214,
+                "2": 66,
+                "3": 153,
+                "4": 6
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "大新里",
+            "house_no": "27",
+            "candidates": {
+                "1": 196,
+                "2": 62,
+                "3": 228,
+                "4": 10
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 727
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新民里",
+            "house_no": "28",
+            "candidates": {
+                "1": 171,
+                "2": 54,
+                "3": 193,
+                "4": 4
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 629
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新民里",
+            "house_no": "29",
+            "candidates": {
+                "1": 196,
+                "2": 48,
+                "3": 237,
+                "4": 5
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 742
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "進士里",
+            "house_no": "30",
+            "candidates": {
+                "1": 371,
+                "2": 100,
+                "3": 269,
+                "4": 7
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "進士里",
+            "house_no": "31",
+            "candidates": {
+                "1": 253,
+                "2": 76,
+                "3": 188,
+                "4": 7
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "南橋里",
+            "house_no": "32",
+            "candidates": {
+                "1": 408,
+                "2": 80,
+                "3": 339,
+                "4": 8
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "凱旋里",
+            "house_no": "33",
+            "candidates": {
+                "1": 301,
+                "2": 116,
+                "3": 338,
+                "4": 12
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "南津里",
+            "house_no": "34",
+            "candidates": {
+                "1": 228,
+                "2": 82,
+                "3": 251,
+                "4": 3
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 987
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "南津里",
+            "house_no": "35",
+            "candidates": {
+                "1": 320,
+                "2": 87,
+                "3": 185,
+                "4": 1
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "建業里",
+            "house_no": "36",
+            "candidates": {
+                "1": 289,
+                "2": 129,
+                "3": 284,
+                "4": 7
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "建業里",
+            "house_no": "37",
+            "candidates": {
+                "1": 166,
+                "2": 75,
+                "3": 256,
+                "4": 11
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 802
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "擺厘里",
+            "house_no": "38",
+            "candidates": {
+                "1": 278,
+                "2": 78,
+                "3": 243,
+                "4": 5
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "擺厘里",
+            "house_no": "39",
+            "candidates": {
+                "1": 246,
+                "2": 69,
+                "3": 189,
+                "4": 13
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "擺厘里",
+            "house_no": "40",
+            "candidates": {
+                "1": 214,
+                "2": 73,
+                "3": 241,
+                "4": 4
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "延平里",
+            "house_no": "41",
+            "candidates": {
+                "1": 313,
+                "2": 89,
+                "3": 232,
+                "4": 8
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "延平里",
+            "house_no": "42",
+            "candidates": {
+                "1": 263,
+                "2": 119,
+                "3": 202,
+                "4": 7
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "延平里",
+            "house_no": "43",
+            "candidates": {
+                "1": 273,
+                "2": 92,
+                "3": 245,
+                "4": 11
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "成功里",
+            "house_no": "44",
+            "candidates": {
+                "1": 185,
+                "2": 67,
+                "3": 214,
+                "4": 2
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 762
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "成功里",
+            "house_no": "45",
+            "candidates": {
+                "1": 330,
+                "2": 89,
+                "3": 241,
+                "4": 8
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "成功里",
+            "house_no": "46",
+            "candidates": {
+                "1": 258,
+                "2": 78,
+                "3": 233,
+                "4": 8
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "東村里",
+            "house_no": "47",
+            "candidates": {
+                "1": 284,
+                "2": 87,
+                "3": 255,
+                "4": 12
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "東村里",
+            "house_no": "48",
+            "candidates": {
+                "1": 270,
+                "2": 88,
+                "3": 304,
+                "4": 12
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新東里",
+            "house_no": "49",
+            "candidates": {
+                "1": 274,
+                "2": 95,
+                "3": 264,
+                "4": 6
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新東里",
+            "house_no": "50",
+            "candidates": {
+                "1": 212,
+                "2": 91,
+                "3": 179,
+                "4": 6
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 923
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新東里",
+            "house_no": "51",
+            "candidates": {
+                "1": 260,
+                "2": 56,
+                "3": 218,
+                "4": 12
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "黎明里",
+            "house_no": "52",
+            "candidates": {
+                "1": 262,
+                "2": 73,
+                "3": 215,
+                "4": 9
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "黎明里",
+            "house_no": "53",
+            "candidates": {
+                "1": 254,
+                "2": 71,
+                "3": 253,
+                "4": 6
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "七張里",
+            "house_no": "54",
+            "candidates": {
+                "1": 205,
+                "2": 60,
+                "3": 238,
+                "4": 5
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 739
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "七張里",
+            "house_no": "55",
+            "candidates": {
+                "1": 193,
+                "2": 49,
+                "3": 170,
+                "4": 6
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 659
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "孝廉里",
+            "house_no": "56",
+            "candidates": {
+                "1": 277,
+                "2": 79,
+                "3": 306,
+                "4": 34
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "東門里",
+            "house_no": "57",
+            "candidates": {
+                "1": 174,
+                "2": 63,
+                "3": 290,
+                "4": 10
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "小東里",
+            "house_no": "58",
+            "candidates": {
+                "1": 202,
+                "2": 58,
+                "3": 204,
+                "4": 5
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 760
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "小東里",
+            "house_no": "59",
+            "candidates": {
+                "1": 215,
+                "2": 51,
+                "3": 190,
+                "4": 12
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 751
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "菜園里",
+            "house_no": "60",
+            "candidates": {
+                "1": 329,
+                "2": 87,
+                "3": 340,
+                "4": 25
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1286
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "慈安里",
+            "house_no": "61",
+            "candidates": {
+                "1": 230,
+                "2": 53,
+                "3": 169,
+                "4": 3
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "慈安里",
+            "house_no": "62",
+            "candidates": {
+                "1": 200,
+                "2": 70,
+                "3": 185,
+                "4": 8
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "中興里",
+            "house_no": "63",
+            "candidates": {
+                "1": 296,
+                "2": 82,
+                "3": 267,
+                "4": 18
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "中興里",
+            "house_no": "64",
+            "candidates": {
+                "1": 220,
+                "2": 52,
+                "3": 154,
+                "4": 9
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 767
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "中興里",
+            "house_no": "65",
+            "candidates": {
+                "1": 191,
+                "2": 74,
+                "3": 166,
+                "4": 8
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 788
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新生里",
+            "house_no": "66",
+            "candidates": {
+                "1": 245,
+                "2": 64,
+                "3": 207,
+                "4": 7
+            },
+            "count_wrong": 30,
+            "count_unused": 1,
+            "count_total": 863
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新生里",
+            "house_no": "67",
+            "candidates": {
+                "1": 220,
+                "2": 61,
+                "3": 215,
+                "4": 14
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 788
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新生里",
+            "house_no": "68",
+            "candidates": {
+                "1": 291,
+                "2": 89,
+                "3": 269,
+                "4": 12
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "茭白里",
+            "house_no": "69",
+            "candidates": {
+                "1": 301,
+                "2": 89,
+                "3": 247,
+                "4": 10
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "茭白里",
+            "house_no": "70",
+            "candidates": {
+                "1": 230,
+                "2": 90,
+                "3": 253,
+                "4": 10
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "北津里",
+            "house_no": "71",
+            "candidates": {
+                "1": 247,
+                "2": 94,
+                "3": 266,
+                "4": 12
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "北津里",
+            "house_no": "72",
+            "candidates": {
+                "1": 269,
+                "2": 72,
+                "3": 316,
+                "4": 18
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "梅洲里",
+            "house_no": "73",
+            "candidates": {
+                "1": 301,
+                "2": 66,
+                "3": 206,
+                "4": 9
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "梅洲里",
+            "house_no": "74",
+            "candidates": {
+                "1": 295,
+                "2": 73,
+                "3": 324,
+                "4": 17
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1146
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "梅洲里",
+            "house_no": "75",
+            "candidates": {
+                "1": 283,
+                "2": 77,
+                "3": 244,
+                "4": 14
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "南門里",
+            "house_no": "76",
+            "candidates": {
+                "1": 148,
+                "2": 40,
+                "3": 149,
+                "4": 4
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 542
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "南門里",
+            "house_no": "77",
+            "candidates": {
+                "1": 191,
+                "2": 53,
+                "3": 156,
+                "4": 10
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 682
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "中山里",
+            "house_no": "78",
+            "candidates": {
+                "1": 232,
+                "2": 81,
+                "3": 218,
+                "4": 6
+            },
+            "count_wrong": 30,
+            "count_unused": 1,
+            "count_total": 863
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "西門里",
+            "house_no": "79",
+            "candidates": {
+                "1": 218,
+                "2": 62,
+                "3": 228,
+                "4": 10
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "西門里",
+            "house_no": "80",
+            "candidates": {
+                "1": 210,
+                "2": 49,
+                "3": 302,
+                "4": 15
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 887
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "北門里",
+            "house_no": "81",
+            "candidates": {
+                "1": 268,
+                "2": 71,
+                "3": 312,
+                "4": 79
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1090
+        }
+    ]
+}

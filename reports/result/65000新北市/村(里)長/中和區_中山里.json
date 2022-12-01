@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江雪嬌",
+            "party": "無"
+        },
+        "2": {
+            "name": "李慶財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "中山里",
+            "house_no": "1422",
+            "candidates": {
+                "1": 359,
+                "2": 325
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "中和區",
+            "cunli": "中山里",
+            "house_no": "1423",
+            "candidates": {
+                "1": 329,
+                "2": 266
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1103
+        }
+    ]
+}

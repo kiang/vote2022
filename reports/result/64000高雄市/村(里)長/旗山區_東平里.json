@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "石正忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳東甫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗山區",
+            "cunli": "東平里",
+            "house_no": "82",
+            "candidates": {
+                "1": 362,
+                "2": 199
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 897
+        },
+        {
+            "area": "旗山區",
+            "cunli": "東平里",
+            "house_no": "83",
+            "candidates": {
+                "1": 433,
+                "2": 181
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 954
+        }
+    ]
+}

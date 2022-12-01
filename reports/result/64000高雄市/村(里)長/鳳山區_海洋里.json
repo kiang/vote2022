@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡秀寶",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭輝坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "海洋里",
+            "house_no": "1569",
+            "candidates": {
+                "1": 324,
+                "2": 332
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "海洋里",
+            "house_no": "1570",
+            "candidates": {
+                "1": 329,
+                "2": 344
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "海洋里",
+            "house_no": "1571",
+            "candidates": {
+                "1": 534,
+                "2": 324
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1411
+        }
+    ]
+}

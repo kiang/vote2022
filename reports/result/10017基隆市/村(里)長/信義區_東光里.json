@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳裕燦",
+            "party": "無"
+        },
+        "2": {
+            "name": "李偉華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "東光里",
+            "house_no": "58",
+            "candidates": {
+                "1": 305,
+                "2": 236
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "信義區",
+            "cunli": "東光里",
+            "house_no": "59",
+            "candidates": {
+                "1": 260,
+                "2": 277
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 854
+        }
+    ]
+}

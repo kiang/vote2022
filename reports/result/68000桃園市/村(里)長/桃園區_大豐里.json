@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝春杉",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅濟祺",
+            "party": "無"
+        },
+        "3": {
+            "name": "呂學智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "大豐里",
+            "house_no": "9",
+            "candidates": {
+                "1": 531,
+                "2": 68,
+                "3": 387
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1732
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大豐里",
+            "house_no": "10",
+            "candidates": {
+                "1": 478,
+                "2": 32,
+                "3": 403
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1499
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大豐里",
+            "house_no": "11",
+            "candidates": {
+                "1": 365,
+                "2": 59,
+                "3": 485
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1468
+        }
+    ]
+}

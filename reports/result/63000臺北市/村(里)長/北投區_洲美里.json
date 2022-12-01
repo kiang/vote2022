@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳照梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭仲榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "洲美里",
+            "house_no": "79",
+            "candidates": {
+                "1": 307,
+                "2": 385
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 934
+        },
+        {
+            "area": "北投區",
+            "cunli": "洲美里",
+            "house_no": "80",
+            "candidates": {
+                "1": 418,
+                "2": 315
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 974
+        }
+    ]
+}

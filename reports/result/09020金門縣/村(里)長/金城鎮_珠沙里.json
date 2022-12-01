@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴德強",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "珠沙里",
+            "house_no": "23",
+            "candidates": {
+                "1": 410
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 1568
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "珠沙里",
+            "house_no": "24",
+            "candidates": {
+                "1": 444
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

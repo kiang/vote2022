@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金龍 Ngedrelre‧Druluan",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯永吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "凃朝昇",
+            "party": "無"
+        },
+        "4": {
+            "name": "柯信雄",
+            "party": "無"
+        },
+        "5": {
+            "name": "柯正光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧臺鄉",
+            "cunli": "好茶村",
+            "house_no": "662",
+            "candidates": {
+                "1": 280,
+                "2": 24,
+                "3": 32,
+                "4": 19,
+                "5": 75
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 477
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "佳暮村",
+            "house_no": "663",
+            "candidates": {
+                "1": 13,
+                "2": 7,
+                "3": 9,
+                "4": 204,
+                "5": 83
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 357
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "大武村",
+            "house_no": "664",
+            "candidates": {
+                "1": 13,
+                "2": 181,
+                "3": 161,
+                "4": 38,
+                "5": 4
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 439
+        }
+    ]
+}

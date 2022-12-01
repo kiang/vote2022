@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張兆富",
+            "party": "無"
+        },
+        "2": {
+            "name": "李鑫鎔",
+            "party": "無"
+        },
+        "3": {
+            "name": "張荃琅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三星鄉",
+            "cunli": "雙賢村",
+            "house_no": "393",
+            "candidates": {
+                "1": 143,
+                "2": 176,
+                "3": 130
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 564
+        }
+    ]
+}

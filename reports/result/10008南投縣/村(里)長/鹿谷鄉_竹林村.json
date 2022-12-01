@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宏山",
+            "party": "無"
+        },
+        "2": {
+            "name": "林昭雍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹林村",
+            "house_no": "348",
+            "candidates": {
+                "1": 321,
+                "2": 152
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 675
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹林村",
+            "house_no": "349",
+            "candidates": {
+                "1": 346,
+                "2": 175
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 721
+        }
+    ]
+}

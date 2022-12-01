@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張加璧",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭釗琦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "苓雅里",
+            "house_no": "1280",
+            "candidates": {
+                "1": 143,
+                "2": 236
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 668
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "苓雅里",
+            "house_no": "1281",
+            "candidates": {
+                "1": 192,
+                "2": 214
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 651
+        }
+    ]
+}

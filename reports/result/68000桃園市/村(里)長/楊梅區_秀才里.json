@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "涂慶雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "李炎成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "秀才里",
+            "house_no": "1162",
+            "candidates": {
+                "1": 500,
+                "2": 517
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1589
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "秀才里",
+            "house_no": "1163",
+            "candidates": {
+                "1": 576,
+                "2": 387
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1620
+        }
+    ]
+}

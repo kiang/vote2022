@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖阿月",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃秋成",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊榮基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "福中里",
+            "house_no": "867",
+            "candidates": {
+                "1": 345,
+                "2": 212,
+                "3": 62
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福中里",
+            "house_no": "868",
+            "candidates": {
+                "1": 322,
+                "2": 223,
+                "3": 46
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福中里",
+            "house_no": "869",
+            "candidates": {
+                "1": 300,
+                "2": 233,
+                "3": 52
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

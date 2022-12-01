@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃桂花",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔣譯文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "誠智里",
+            "house_no": "1524",
+            "candidates": {
+                "1": 425,
+                "2": 364
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1409
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "誠智里",
+            "house_no": "1525",
+            "candidates": {
+                "1": 435,
+                "2": 264
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1156
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉松耀",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇淑芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "香丘里",
+            "house_no": "1217",
+            "candidates": {
+                "1": 270,
+                "2": 313
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "板橋區",
+            "cunli": "香丘里",
+            "house_no": "1218",
+            "candidates": {
+                "1": 237,
+                "2": 339
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "板橋區",
+            "cunli": "香丘里",
+            "house_no": "1219",
+            "candidates": {
+                "1": 284,
+                "2": 306
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1053
+        }
+    ]
+}

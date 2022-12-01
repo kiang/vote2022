@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳永村",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳介石",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊少芃",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "福德里",
+            "house_no": "298",
+            "candidates": {
+                "1": 304,
+                "2": 179,
+                "3": 364
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1449
+        },
+        {
+            "area": "五股區",
+            "cunli": "福德里",
+            "house_no": "299",
+            "candidates": {
+                "1": 253,
+                "2": 58,
+                "3": 442
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1447
+        }
+    ]
+}

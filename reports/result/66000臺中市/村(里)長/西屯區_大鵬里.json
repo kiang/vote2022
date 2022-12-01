@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃永昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱清涼",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "廖継正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "大鵬里",
+            "house_no": "826",
+            "candidates": {
+                "1": 307,
+                "2": 368,
+                "3": 80
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1184
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大鵬里",
+            "house_no": "827",
+            "candidates": {
+                "1": 207,
+                "2": 259,
+                "3": 151
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大鵬里",
+            "house_no": "828",
+            "candidates": {
+                "1": 198,
+                "2": 275,
+                "3": 122
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大鵬里",
+            "house_no": "829",
+            "candidates": {
+                "1": 211,
+                "2": 256,
+                "3": 93
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1061
+        }
+    ]
+}

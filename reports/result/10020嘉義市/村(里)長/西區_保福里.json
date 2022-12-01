@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李振煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "保福里",
+            "house_no": "187",
+            "candidates": {
+                "1": 504
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "西區",
+            "cunli": "保福里",
+            "house_no": "188",
+            "candidates": {
+                "1": 497
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "西區",
+            "cunli": "保福里",
+            "house_no": "189",
+            "candidates": {
+                "1": 439
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

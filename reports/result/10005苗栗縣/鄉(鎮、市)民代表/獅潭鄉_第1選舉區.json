@@ -1,0 +1,60 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝發汶",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃進雲",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉漢廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "獅潭鄉",
+            "cunli": "百壽村",
+            "house_no": "449",
+            "candidates": {
+                "1": 188,
+                "2": 25,
+                "3": 18,
+                "4": 46
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 315
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "永興村",
+            "house_no": "450",
+            "candidates": {
+                "1": 99,
+                "2": 52,
+                "3": 132,
+                "4": 118
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 509
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "新店村",
+            "house_no": "451",
+            "candidates": {
+                "1": 170,
+                "2": 256,
+                "3": 71,
+                "4": 239
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 892
+        }
+    ]
+}

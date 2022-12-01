@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉都",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉聰波",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "協和村",
+            "house_no": "837",
+            "candidates": {
+                "1": 339,
+                "2": 350
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "協和村",
+            "house_no": "838",
+            "candidates": {
+                "1": 268,
+                "2": 311
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1032
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝承翰",
+            "party": "無"
+        },
+        "2": {
+            "name": "李崇暐",
+            "party": "無"
+        },
+        "3": {
+            "name": "張艷鴻",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊俊王",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "重慶里",
+            "house_no": "1126",
+            "candidates": {
+                "1": 113,
+                "2": 98,
+                "3": 375,
+                "4": 98
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "大同區",
+            "cunli": "重慶里",
+            "house_no": "1127",
+            "candidates": {
+                "1": 153,
+                "2": 61,
+                "3": 424,
+                "4": 140
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "大同區",
+            "cunli": "重慶里",
+            "house_no": "1128",
+            "candidates": {
+                "1": 137,
+                "2": 112,
+                "3": 324,
+                "4": 139
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "大同區",
+            "cunli": "重慶里",
+            "house_no": "1129",
+            "candidates": {
+                "1": 154,
+                "2": 27,
+                "3": 402,
+                "4": 157
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "大同區",
+            "cunli": "重慶里",
+            "house_no": "1130",
+            "candidates": {
+                "1": 182,
+                "2": 68,
+                "3": 415,
+                "4": 101
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1119
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文騰",
+            "party": "無"
+        },
+        "2": {
+            "name": "張德謙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "中正村",
+            "house_no": "293",
+            "candidates": {
+                "1": 426,
+                "2": 264
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中正村",
+            "house_no": "294",
+            "candidates": {
+                "1": 464,
+                "2": 301
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1262
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中正村",
+            "house_no": "295",
+            "candidates": {
+                "1": 472,
+                "2": 179
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1206
+        }
+    ]
+}

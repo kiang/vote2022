@@ -1,0 +1,104 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐淑雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳志豪",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾榮銓",
+            "party": "無"
+        },
+        "4": {
+            "name": "邱日亮",
+            "party": "無"
+        },
+        "5": {
+            "name": "曾榮民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "內湖里",
+            "house_no": "168",
+            "candidates": {
+                "1": 212,
+                "2": 195,
+                "3": 90
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 711
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "內湖里",
+            "house_no": "169",
+            "candidates": {
+                "1": 217,
+                "2": 373,
+                "3": 101
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "楓樹里",
+            "house_no": "170",
+            "candidates": {
+                "1": 77,
+                "2": 181,
+                "3": 44
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 398
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "烏眉里",
+            "house_no": "171",
+            "candidates": {
+                "1": 221,
+                "2": 115,
+                "3": 236
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "福龍里",
+            "house_no": "172",
+            "candidates": {
+                "1": 57,
+                "2": 141,
+                "3": 56
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 361
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "福源里",
+            "house_no": "173",
+            "candidates": {
+                "1": 171,
+                "2": 207,
+                "3": 133
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 743
+        }
+    ]
+}

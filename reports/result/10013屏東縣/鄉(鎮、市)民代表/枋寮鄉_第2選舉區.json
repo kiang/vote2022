@@ -1,0 +1,130 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林輝星",
+            "party": "無"
+        },
+        "2": {
+            "name": "林鳳春",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭海彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "天時村",
+            "house_no": "512",
+            "candidates": {
+                "1": 128,
+                "2": 172,
+                "3": 152,
+                "4": 77
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "天時村",
+            "house_no": "513",
+            "candidates": {
+                "1": 122,
+                "2": 119,
+                "3": 224,
+                "4": 58
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "地利村",
+            "house_no": "514",
+            "candidates": {
+                "1": 91,
+                "2": 93,
+                "3": 169,
+                "4": 52
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 670
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "地利村",
+            "house_no": "515",
+            "candidates": {
+                "1": 91,
+                "2": 91,
+                "3": 198,
+                "4": 44
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 676
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "人和村",
+            "house_no": "516",
+            "candidates": {
+                "1": 235,
+                "2": 131,
+                "3": 138,
+                "4": 67
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "人和村",
+            "house_no": "517",
+            "candidates": {
+                "1": 210,
+                "2": 146,
+                "3": 182,
+                "4": 72
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "內寮村",
+            "house_no": "518",
+            "candidates": {
+                "1": 52,
+                "2": 126,
+                "3": 32,
+                "4": 192
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 651
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "新開村",
+            "house_no": "519",
+            "candidates": {
+                "1": 47,
+                "2": 108,
+                "3": 23,
+                "4": 305
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 854
+        }
+    ]
+}

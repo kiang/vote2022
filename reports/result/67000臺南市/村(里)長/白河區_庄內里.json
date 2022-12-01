@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張茂山",
+            "party": "無"
+        },
+        "2": {
+            "name": "張國南",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "庄內里",
+            "house_no": "36",
+            "candidates": {
+                "1": 189,
+                "2": 190
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 677
+        },
+        {
+            "area": "白河區",
+            "cunli": "庄內里",
+            "house_no": "37",
+            "candidates": {
+                "1": 239,
+                "2": 273
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 855
+        }
+    ]
+}

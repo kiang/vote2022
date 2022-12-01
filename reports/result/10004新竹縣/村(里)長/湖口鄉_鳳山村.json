@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余能澄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳美鶯",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "葉倫旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳山村",
+            "house_no": "326",
+            "candidates": {
+                "1": 86,
+                "2": 266,
+                "3": 130
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳山村",
+            "house_no": "327",
+            "candidates": {
+                "1": 218,
+                "2": 316,
+                "3": 154
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳山村",
+            "house_no": "328",
+            "candidates": {
+                "1": 96,
+                "2": 243,
+                "3": 131
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 914
+        }
+    ]
+}

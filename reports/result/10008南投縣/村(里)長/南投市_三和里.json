@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯憲武",
+            "party": "無"
+        },
+        "2": {
+            "name": "林啓逢",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳志鵬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "三和里",
+            "house_no": "14",
+            "candidates": {
+                "1": 260,
+                "2": 81,
+                "3": 310
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "南投市",
+            "cunli": "三和里",
+            "house_no": "15",
+            "candidates": {
+                "1": 109,
+                "2": 69,
+                "3": 221
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 624
+        },
+        {
+            "area": "南投市",
+            "cunli": "三和里",
+            "house_no": "16",
+            "candidates": {
+                "1": 214,
+                "2": 219,
+                "3": 262
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1000
+        }
+    ]
+}

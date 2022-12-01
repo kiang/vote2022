@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "尤義春",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃錦財",
+            "party": "無"
+        },
+        "3": {
+            "name": "張家鋒",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃清山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "仁壽里",
+            "house_no": "233",
+            "candidates": {
+                "1": 261,
+                "2": 67,
+                "3": 38,
+                "4": 151
+            },
+            "count_wrong": 12,
+            "count_unused": 5,
+            "count_total": 825
+        }
+    ]
+}

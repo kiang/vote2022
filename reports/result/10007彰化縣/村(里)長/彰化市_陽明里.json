@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉清滿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "陽明里",
+            "house_no": "122",
+            "candidates": {
+                "1": 273,
+                "2": 268
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "彰化市",
+            "cunli": "陽明里",
+            "house_no": "123",
+            "candidates": {
+                "1": 266,
+                "2": 211
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 779
+        }
+    ]
+}

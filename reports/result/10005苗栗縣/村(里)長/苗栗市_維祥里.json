@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何油連",
+            "party": "無"
+        },
+        "2": {
+            "name": "周靖凱",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃建勳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "維祥里",
+            "house_no": "3",
+            "candidates": {
+                "1": 199,
+                "2": 303,
+                "3": 135
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維祥里",
+            "house_no": "4",
+            "candidates": {
+                "1": 203,
+                "2": 297,
+                "3": 127
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維祥里",
+            "house_no": "5",
+            "candidates": {
+                "1": 328,
+                "2": 247,
+                "3": 114
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

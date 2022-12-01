@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "艾季根",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃永澧",
+            "party": "無"
+        },
+        "3": {
+            "name": "張健華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "東興里",
+            "house_no": "1251",
+            "candidates": {
+                "1": 277,
+                "2": 34,
+                "3": 406
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "東興里",
+            "house_no": "1252",
+            "candidates": {
+                "1": 215,
+                "2": 33,
+                "3": 469
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "東興里",
+            "house_no": "1253",
+            "candidates": {
+                "1": 231,
+                "2": 23,
+                "3": 481
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1252
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭易岳",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊耀芸",
+            "party": "無"
+        },
+        "3": {
+            "name": "許丕肯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "南門里",
+            "house_no": "4",
+            "candidates": {
+                "1": 326,
+                "2": 209,
+                "3": 135
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1785
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "南門里",
+            "house_no": "5",
+            "candidates": {
+                "1": 283,
+                "2": 170,
+                "3": 104
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1565
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "南門里",
+            "house_no": "6",
+            "candidates": {
+                "1": 285,
+                "2": 359,
+                "3": 113
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1815
+        }
+    ]
+}

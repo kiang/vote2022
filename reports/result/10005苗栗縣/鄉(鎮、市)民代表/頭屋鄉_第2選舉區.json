@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊謝國",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡錦明",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭國麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭屋鄉",
+            "cunli": "曲洞村",
+            "house_no": "107",
+            "candidates": {
+                "1": 395,
+                "2": 257
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 821
+        },
+        {
+            "area": "頭屋鄉",
+            "cunli": "飛鳳村",
+            "house_no": "108",
+            "candidates": {
+                "1": 179,
+                "2": 133
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 368
+        }
+    ]
+}

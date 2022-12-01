@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江明政",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐慧珠",
+            "party": "無"
+        },
+        "3": {
+            "name": "古子峯",
+            "party": "無"
+        },
+        "4": {
+            "name": "王文成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "130",
+            "candidates": {
+                "1": 250,
+                "2": 115,
+                "3": 70
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 763
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "131",
+            "candidates": {
+                "1": 206,
+                "2": 201,
+                "3": 136
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "132",
+            "candidates": {
+                "1": 223,
+                "2": 302,
+                "3": 49
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "133",
+            "candidates": {
+                "1": 300,
+                "2": 217,
+                "3": 107
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

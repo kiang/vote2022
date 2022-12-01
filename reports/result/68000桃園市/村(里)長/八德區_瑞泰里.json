@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李秀雯",
+            "party": "無"
+        },
+        "2": {
+            "name": "褚明賢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "瑞泰里",
+            "house_no": "378",
+            "candidates": {
+                "1": 517,
+                "2": 341
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1319
+        },
+        {
+            "area": "八德區",
+            "cunli": "瑞泰里",
+            "house_no": "379",
+            "candidates": {
+                "1": 438,
+                "2": 425
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "八德區",
+            "cunli": "瑞泰里",
+            "house_no": "380",
+            "candidates": {
+                "1": 418,
+                "2": 398
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1352
+        }
+    ]
+}

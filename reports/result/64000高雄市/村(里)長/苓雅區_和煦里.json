@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃俊雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊財通",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "和煦里",
+            "house_no": "1308",
+            "candidates": {
+                "1": 218,
+                "2": 310
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 883
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "和煦里",
+            "house_no": "1309",
+            "candidates": {
+                "1": 115,
+                "2": 443
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 921
+        }
+    ]
+}

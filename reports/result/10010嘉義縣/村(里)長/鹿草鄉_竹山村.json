@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐陽群宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡鴻章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿草鄉",
+            "cunli": "竹山村",
+            "house_no": "54",
+            "candidates": {
+                "1": 218,
+                "2": 290
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 626
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "竹山村",
+            "house_no": "55",
+            "candidates": {
+                "1": 116,
+                "2": 63
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 237
+        }
+    ]
+}

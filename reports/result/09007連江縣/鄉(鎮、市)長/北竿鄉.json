@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王建華",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳金平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北竿鄉",
+            "cunli": "塘岐村、后沃村",
+            "house_no": "6",
+            "candidates": {
+                "1": 490,
+                "2": 549
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "北竿鄉",
+            "cunli": "橋仔村、芹壁村、坂里村、白沙村",
+            "house_no": "7",
+            "candidates": {
+                "1": 528,
+                "2": 482
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1375
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳振春",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐列舜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "北安里",
+            "house_no": "1052",
+            "candidates": {
+                "1": 312,
+                "2": 125
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 705
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北安里",
+            "house_no": "1053",
+            "candidates": {
+                "1": 235,
+                "2": 253
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 787
+        }
+    ]
+}

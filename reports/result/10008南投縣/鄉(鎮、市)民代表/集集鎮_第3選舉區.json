@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝承宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國元",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳玉花",
+            "party": "無"
+        },
+        "4": {
+            "name": "廖光華",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳麗容",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳嬉旻",
+            "party": "無"
+        },
+        "7": {
+            "name": "陳泳旭",
+            "party": "無"
+        },
+        "8": {
+            "name": "林麗娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "集集鎮",
+            "cunli": "玉映里",
+            "house_no": "290",
+            "candidates": {
+                "1": 113,
+                "2": 83,
+                "3": 171
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 452
+        },
+        {
+            "area": "集集鎮",
+            "cunli": "吳厝里",
+            "house_no": "291",
+            "candidates": {
+                "1": 336,
+                "2": 140,
+                "3": 174
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

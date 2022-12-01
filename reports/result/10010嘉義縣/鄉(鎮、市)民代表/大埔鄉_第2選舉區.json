@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宜ᬏ",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊見義",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉建聰",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳癸全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大埔鄉",
+            "cunli": "茄苳村",
+            "house_no": "516",
+            "candidates": {
+                "1": 52,
+                "2": 68,
+                "3": 186,
+                "4": 42
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 474
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "茄苳村",
+            "house_no": "517",
+            "candidates": {
+                "1": 40,
+                "2": 50,
+                "3": 33,
+                "4": 17
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 183
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "茄苳村",
+            "house_no": "518",
+            "candidates": {
+                "1": 19,
+                "2": 131,
+                "3": 27,
+                "4": 19
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 240
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "西興村",
+            "house_no": "519",
+            "candidates": {
+                "1": 72,
+                "2": 34,
+                "3": 85,
+                "4": 214
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 547
+        }
+    ]
+}

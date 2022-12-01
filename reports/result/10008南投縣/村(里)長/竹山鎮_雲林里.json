@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李秋榜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "雲林里",
+            "house_no": "238",
+            "candidates": {
+                "1": 614
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "雲林里",
+            "house_no": "239",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "雲林里",
+            "house_no": "240",
+            "candidates": {
+                "1": 755
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1252
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文基",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇士軒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林口區",
+            "cunli": "東勢里",
+            "house_no": "243",
+            "candidates": {
+                "1": 421,
+                "2": 256
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "林口區",
+            "cunli": "東勢里",
+            "house_no": "244",
+            "candidates": {
+                "1": 398,
+                "2": 278
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1249
+        },
+        {
+            "area": "林口區",
+            "cunli": "東勢里",
+            "house_no": "245",
+            "candidates": {
+                "1": 291,
+                "2": 398
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "林口區",
+            "cunli": "東勢里",
+            "house_no": "246",
+            "candidates": {
+                "1": 525,
+                "2": 196
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "林口區",
+            "cunli": "東勢里",
+            "house_no": "247",
+            "candidates": {
+                "1": 314,
+                "2": 231
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

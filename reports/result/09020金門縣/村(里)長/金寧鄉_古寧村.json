@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李開陣",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金寧鄉",
+            "cunli": "古寧村",
+            "house_no": "25",
+            "candidates": {
+                "1": 513
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1761
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "古寧村",
+            "house_no": "26",
+            "candidates": {
+                "1": 469
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1542
+        }
+    ]
+}

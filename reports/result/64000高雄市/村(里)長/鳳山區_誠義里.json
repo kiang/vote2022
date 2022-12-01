@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉啓芳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "誠義里",
+            "house_no": "1502",
+            "candidates": {
+                "1": 615
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "誠義里",
+            "house_no": "1503",
+            "candidates": {
+                "1": 655
+            },
+            "count_wrong": 77,
+            "count_unused": 1,
+            "count_total": 1216
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "誠義里",
+            "house_no": "1504",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1179
+        }
+    ]
+}

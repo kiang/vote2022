@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林益助",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱威誠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "竹圍里",
+            "house_no": "173",
+            "candidates": {
+                "1": 76,
+                "2": 506
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "西區",
+            "cunli": "竹圍里",
+            "house_no": "174",
+            "candidates": {
+                "1": 62,
+                "2": 441
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "西區",
+            "cunli": "竹圍里",
+            "house_no": "175",
+            "candidates": {
+                "1": 82,
+                "2": 462
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1081
+        },
+        {
+            "area": "西區",
+            "cunli": "竹圍里",
+            "house_no": "176",
+            "candidates": {
+                "1": 81,
+                "2": 447
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

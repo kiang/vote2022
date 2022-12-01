@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秋蟬",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹永詩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "永成里",
+            "house_no": "1509",
+            "candidates": {
+                "1": 434,
+                "2": 349
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1409
+        },
+        {
+            "area": "太平區",
+            "cunli": "永成里",
+            "house_no": "1510",
+            "candidates": {
+                "1": 294,
+                "2": 368
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1245
+        },
+        {
+            "area": "太平區",
+            "cunli": "永成里",
+            "house_no": "1511",
+            "candidates": {
+                "1": 446,
+                "2": 319
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "太平區",
+            "cunli": "永成里",
+            "house_no": "1512",
+            "candidates": {
+                "1": 371,
+                "2": 401
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "太平區",
+            "cunli": "永成里",
+            "house_no": "1513",
+            "candidates": {
+                "1": 417,
+                "2": 325
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1310
+        }
+    ]
+}

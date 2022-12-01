@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪進財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "王公里",
+            "house_no": "2003",
+            "candidates": {
+                "1": 689
+            },
+            "count_wrong": 146,
+            "count_unused": 0,
+            "count_total": 1533
+        },
+        {
+            "area": "林園區",
+            "cunli": "王公里",
+            "house_no": "2004",
+            "candidates": {
+                "1": 598
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "林園區",
+            "cunli": "王公里",
+            "house_no": "2005",
+            "candidates": {
+                "1": 581
+            },
+            "count_wrong": 120,
+            "count_unused": 1,
+            "count_total": 1153
+        }
+    ]
+}

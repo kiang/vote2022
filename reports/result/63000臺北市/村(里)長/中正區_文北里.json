@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張安東",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳余秀卿",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "文北里",
+            "house_no": "1201",
+            "candidates": {
+                "1": 265,
+                "2": 418
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "中正區",
+            "cunli": "文北里",
+            "house_no": "1202",
+            "candidates": {
+                "1": 190,
+                "2": 504
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "中正區",
+            "cunli": "文北里",
+            "house_no": "1203",
+            "candidates": {
+                "1": 172,
+                "2": 393
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "中正區",
+            "cunli": "文北里",
+            "house_no": "1204",
+            "candidates": {
+                "1": 285,
+                "2": 441
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1067
+        }
+    ]
+}

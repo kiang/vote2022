@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何忠勇",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "趙文耀 Ase‧Takilawdru",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "駱韋志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "茂林區",
+            "cunli": "多納里",
+            "house_no": "134",
+            "candidates": {
+                "1": 186,
+                "2": 156,
+                "3": 115
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 504
+        },
+        {
+            "area": "茂林區",
+            "cunli": "萬山里",
+            "house_no": "135",
+            "candidates": {
+                "1": 133,
+                "2": 113,
+                "3": 92
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 374
+        },
+        {
+            "area": "茂林區",
+            "cunli": "茂林里",
+            "house_no": "136",
+            "candidates": {
+                "1": 135,
+                "2": 177,
+                "3": 317
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 714
+        }
+    ]
+}

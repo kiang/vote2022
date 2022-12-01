@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許凱翔",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡誌成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "石門村",
+            "house_no": "408",
+            "candidates": {
+                "1": 207,
+                "2": 321
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 751
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "石門村",
+            "house_no": "409",
+            "candidates": {
+                "1": 259,
+                "2": 334
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 876
+        }
+    ]
+}

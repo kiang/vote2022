@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪宗信",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳世瑤",
+            "party": "無"
+        },
+        "3": {
+            "name": "王鈴源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "金華里",
+            "house_no": "1038",
+            "candidates": {
+                "1": 350,
+                "2": 70,
+                "3": 233
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "板橋區",
+            "cunli": "金華里",
+            "house_no": "1039",
+            "candidates": {
+                "1": 376,
+                "2": 55,
+                "3": 263
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "板橋區",
+            "cunli": "金華里",
+            "house_no": "1040",
+            "candidates": {
+                "1": 367,
+                "2": 58,
+                "3": 271
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1183
+        }
+    ]
+}

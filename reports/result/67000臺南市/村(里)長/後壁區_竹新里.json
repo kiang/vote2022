@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡宗哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "張丁元",
+            "party": "無"
+        },
+        "3": {
+            "name": "王振銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "竹新里",
+            "house_no": "21",
+            "candidates": {
+                "1": 162,
+                "2": 61,
+                "3": 367
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "後壁區",
+            "cunli": "竹新里",
+            "house_no": "22",
+            "candidates": {
+                "1": 84,
+                "2": 189,
+                "3": 30
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 408
+        }
+    ]
+}

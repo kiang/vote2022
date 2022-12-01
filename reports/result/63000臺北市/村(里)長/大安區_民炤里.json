@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周暉泰",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳勤功",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "民炤里",
+            "house_no": "1398",
+            "candidates": {
+                "1": 490,
+                "2": 192
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "大安區",
+            "cunli": "民炤里",
+            "house_no": "1399",
+            "candidates": {
+                "1": 553,
+                "2": 187
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "大安區",
+            "cunli": "民炤里",
+            "house_no": "1400",
+            "candidates": {
+                "1": 584,
+                "2": 254
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "大安區",
+            "cunli": "民炤里",
+            "house_no": "1401",
+            "candidates": {
+                "1": 547,
+                "2": 223
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "大安區",
+            "cunli": "民炤里",
+            "house_no": "1402",
+            "candidates": {
+                "1": 577,
+                "2": 222
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1269
+        }
+    ]
+}

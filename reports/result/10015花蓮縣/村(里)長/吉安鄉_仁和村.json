@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳淑美",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "賴明章",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "198",
+            "candidates": {
+                "1": 307,
+                "2": 196
+            },
+            "count_wrong": 15,
+            "count_unused": 2,
+            "count_total": 925
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "199",
+            "candidates": {
+                "1": 224,
+                "2": 141
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "200",
+            "candidates": {
+                "1": 207,
+                "2": 222
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 875
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "201",
+            "candidates": {
+                "1": 235,
+                "2": 150
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁和村",
+            "house_no": "202",
+            "candidates": {
+                "1": 283,
+                "2": 183
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 965
+        }
+    ]
+}

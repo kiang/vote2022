@@ -1,0 +1,638 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡天屏",
+            "party": "無"
+        },
+        "2": {
+            "name": "李曜丞",
+            "party": "無"
+        },
+        "3": {
+            "name": "李麗卿",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "李建霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "香社村",
+            "house_no": "254",
+            "candidates": {
+                "1": 186,
+                "2": 129,
+                "3": 427,
+                "4": 275
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1446
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "新庄村",
+            "house_no": "255",
+            "candidates": {
+                "1": 181,
+                "2": 159,
+                "3": 212,
+                "4": 268
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "新庄村",
+            "house_no": "256",
+            "candidates": {
+                "1": 135,
+                "2": 121,
+                "3": 157,
+                "4": 218
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "新鐘村",
+            "house_no": "257",
+            "candidates": {
+                "1": 93,
+                "2": 96,
+                "3": 215,
+                "4": 288
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "新鐘村",
+            "house_no": "258",
+            "candidates": {
+                "1": 128,
+                "2": 93,
+                "3": 194,
+                "4": 263
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "水仙村",
+            "house_no": "259",
+            "candidates": {
+                "1": 63,
+                "2": 62,
+                "3": 134,
+                "4": 159
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 517
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "興全村",
+            "house_no": "260",
+            "candidates": {
+                "1": 164,
+                "2": 106,
+                "3": 340,
+                "4": 206
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "興安村",
+            "house_no": "261",
+            "candidates": {
+                "1": 160,
+                "2": 81,
+                "3": 211,
+                "4": 94
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 779
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "甘棠村",
+            "house_no": "262",
+            "candidates": {
+                "1": 64,
+                "2": 37,
+                "3": 86,
+                "4": 50
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 360
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬惠村",
+            "house_no": "263",
+            "candidates": {
+                "1": 102,
+                "2": 50,
+                "3": 137,
+                "4": 313
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬全村",
+            "house_no": "264",
+            "candidates": {
+                "1": 156,
+                "2": 90,
+                "3": 161,
+                "4": 281
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬全村",
+            "house_no": "265",
+            "candidates": {
+                "1": 111,
+                "2": 104,
+                "3": 179,
+                "4": 295
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬全村",
+            "house_no": "266",
+            "candidates": {
+                "1": 182,
+                "2": 88,
+                "3": 161,
+                "4": 277
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬後村",
+            "house_no": "267",
+            "candidates": {
+                "1": 86,
+                "2": 55,
+                "3": 127,
+                "4": 215
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 695
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬安村",
+            "house_no": "268",
+            "candidates": {
+                "1": 56,
+                "2": 38,
+                "3": 133,
+                "4": 130
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 550
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "萬生村",
+            "house_no": "269",
+            "candidates": {
+                "1": 149,
+                "2": 86,
+                "3": 211,
+                "4": 466
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "寶厝村",
+            "house_no": "270",
+            "candidates": {
+                "1": 85,
+                "2": 67,
+                "3": 202,
+                "4": 334
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "寶厝村",
+            "house_no": "271",
+            "candidates": {
+                "1": 157,
+                "2": 74,
+                "3": 198,
+                "4": 384
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "四維村",
+            "house_no": "272",
+            "candidates": {
+                "1": 123,
+                "2": 63,
+                "3": 218,
+                "4": 222
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "四維村",
+            "house_no": "273",
+            "candidates": {
+                "1": 172,
+                "2": 90,
+                "3": 205,
+                "4": 263
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "竹林村",
+            "house_no": "274",
+            "candidates": {
+                "1": 68,
+                "2": 26,
+                "3": 268,
+                "4": 175
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "竹林村",
+            "house_no": "275",
+            "candidates": {
+                "1": 103,
+                "2": 46,
+                "3": 184,
+                "4": 186
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 766
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "水泉村",
+            "house_no": "276",
+            "candidates": {
+                "1": 183,
+                "2": 69,
+                "3": 140,
+                "4": 190
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 785
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "水泉村",
+            "house_no": "277",
+            "candidates": {
+                "1": 140,
+                "2": 73,
+                "3": 168,
+                "4": 223
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 865
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "田厝村",
+            "house_no": "278",
+            "candidates": {
+                "1": 178,
+                "2": 92,
+                "3": 170,
+                "4": 231
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "崙頂村",
+            "house_no": "279",
+            "candidates": {
+                "1": 434,
+                "2": 47,
+                "3": 88,
+                "4": 70
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 924
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "崙頂村",
+            "house_no": "280",
+            "candidates": {
+                "1": 329,
+                "2": 52,
+                "3": 93,
+                "4": 46
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦北村",
+            "house_no": "281",
+            "candidates": {
+                "1": 284,
+                "2": 71,
+                "3": 163,
+                "4": 92
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦北村",
+            "house_no": "282",
+            "candidates": {
+                "1": 275,
+                "2": 54,
+                "3": 145,
+                "4": 95
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦南村",
+            "house_no": "283",
+            "candidates": {
+                "1": 416,
+                "2": 68,
+                "3": 288,
+                "4": 193
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "後村村",
+            "house_no": "284",
+            "candidates": {
+                "1": 212,
+                "2": 76,
+                "3": 290,
+                "4": 134
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "灣內村",
+            "house_no": "285",
+            "candidates": {
+                "1": 447,
+                "2": 93,
+                "3": 222,
+                "4": 144
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "上村村",
+            "house_no": "286",
+            "candidates": {
+                "1": 194,
+                "2": 94,
+                "3": 197,
+                "4": 165
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "加興村",
+            "house_no": "287",
+            "candidates": {
+                "1": 149,
+                "2": 82,
+                "3": 346,
+                "4": 258
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社口村",
+            "house_no": "288",
+            "candidates": {
+                "1": 308,
+                "2": 114,
+                "3": 317,
+                "4": 284
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1452
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "磚寮村",
+            "house_no": "289",
+            "candidates": {
+                "1": 168,
+                "2": 121,
+                "3": 248,
+                "4": 127
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社皮村",
+            "house_no": "290",
+            "candidates": {
+                "1": 178,
+                "2": 60,
+                "3": 147,
+                "4": 143
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社皮村",
+            "house_no": "291",
+            "candidates": {
+                "1": 171,
+                "2": 105,
+                "3": 210,
+                "4": 190
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社中村",
+            "house_no": "292",
+            "candidates": {
+                "1": 179,
+                "2": 110,
+                "3": 168,
+                "4": 112
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社中村",
+            "house_no": "293",
+            "candidates": {
+                "1": 150,
+                "2": 100,
+                "3": 169,
+                "4": 137
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社上村",
+            "house_no": "294",
+            "candidates": {
+                "1": 218,
+                "2": 67,
+                "3": 151,
+                "4": 107
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "社上村",
+            "house_no": "295",
+            "candidates": {
+                "1": 120,
+                "2": 46,
+                "3": 148,
+                "4": 59
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 670
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "廣安村",
+            "house_no": "296",
+            "candidates": {
+                "1": 244,
+                "2": 83,
+                "3": 226,
+                "4": 170
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "廣安村",
+            "house_no": "297",
+            "candidates": {
+                "1": 203,
+                "2": 111,
+                "3": 219,
+                "4": 249
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1208
+        }
+    ]
+}

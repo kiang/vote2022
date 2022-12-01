@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "國聖里",
+            "house_no": "169",
+            "candidates": {
+                "1": 381
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "彰化市",
+            "cunli": "國聖里",
+            "house_no": "170",
+            "candidates": {
+                "1": 478
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "彰化市",
+            "cunli": "國聖里",
+            "house_no": "171",
+            "candidates": {
+                "1": 400
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 755
+        }
+    ]
+}

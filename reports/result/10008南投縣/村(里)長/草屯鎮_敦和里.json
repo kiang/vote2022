@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪義洲",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪佩琦",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉耀春",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪瑞林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "敦和里",
+            "house_no": "165",
+            "candidates": {
+                "1": 212,
+                "2": 292,
+                "3": 40,
+                "4": 224
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "敦和里",
+            "house_no": "166",
+            "candidates": {
+                "1": 188,
+                "2": 314,
+                "3": 32,
+                "4": 167
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "敦和里",
+            "house_no": "167",
+            "candidates": {
+                "1": 214,
+                "2": 305,
+                "3": 32,
+                "4": 202
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1195
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "敦和里",
+            "house_no": "168",
+            "candidates": {
+                "1": 248,
+                "2": 385,
+                "3": 82,
+                "4": 178
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1402
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "敦和里",
+            "house_no": "169",
+            "candidates": {
+                "1": 277,
+                "2": 303,
+                "3": 87,
+                "4": 134
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1216
+        }
+    ]
+}

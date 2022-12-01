@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭樹琳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃麗霙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中泰里",
+            "house_no": "464",
+            "candidates": {
+                "1": 477,
+                "2": 203
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中泰里",
+            "house_no": "465",
+            "candidates": {
+                "1": 478,
+                "2": 299
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中泰里",
+            "house_no": "466",
+            "candidates": {
+                "1": 397,
+                "2": 313
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1228
+        }
+    ]
+}

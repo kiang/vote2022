@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉永萌",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴哲成",
+            "party": "無"
+        },
+        "3": {
+            "name": "沈郁評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "舊社里",
+            "house_no": "571",
+            "candidates": {
+                "1": 342,
+                "2": 210,
+                "3": 287
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "舊社里",
+            "house_no": "572",
+            "candidates": {
+                "1": 414,
+                "2": 179,
+                "3": 218
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1298
+        }
+    ]
+}

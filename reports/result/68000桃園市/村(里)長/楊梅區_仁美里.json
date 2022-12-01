@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江文志",
+            "party": "無"
+        },
+        "2": {
+            "name": "花國章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "仁美里",
+            "house_no": "1103",
+            "candidates": {
+                "1": 330,
+                "2": 415
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "仁美里",
+            "house_no": "1104",
+            "candidates": {
+                "1": 345,
+                "2": 489
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "仁美里",
+            "house_no": "1105",
+            "candidates": {
+                "1": 260,
+                "2": 509
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1224
+        }
+    ]
+}

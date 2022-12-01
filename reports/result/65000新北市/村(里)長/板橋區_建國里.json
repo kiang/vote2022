@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳賓傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "李金城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "建國里",
+            "house_no": "1049",
+            "candidates": {
+                "1": 287,
+                "2": 306
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "板橋區",
+            "cunli": "建國里",
+            "house_no": "1050",
+            "candidates": {
+                "1": 223,
+                "2": 364
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 919
+        },
+        {
+            "area": "板橋區",
+            "cunli": "建國里",
+            "house_no": "1051",
+            "candidates": {
+                "1": 270,
+                "2": 405
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1051
+        }
+    ]
+}

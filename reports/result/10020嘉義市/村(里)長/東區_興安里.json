@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林允成",
+            "party": "無"
+        },
+        "2": {
+            "name": "張哲綱",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "郭茂忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "興安里",
+            "house_no": "66",
+            "candidates": {
+                "1": 219,
+                "2": 77,
+                "3": 331
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "東區",
+            "cunli": "興安里",
+            "house_no": "67",
+            "candidates": {
+                "1": 127,
+                "2": 144,
+                "3": 144
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "東區",
+            "cunli": "興安里",
+            "house_no": "68",
+            "candidates": {
+                "1": 208,
+                "2": 124,
+                "3": 271
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1083
+        }
+    ]
+}

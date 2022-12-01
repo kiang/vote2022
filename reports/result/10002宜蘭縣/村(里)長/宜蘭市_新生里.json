@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡錦濤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "新生里",
+            "house_no": "66",
+            "candidates": {
+                "1": 477
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新生里",
+            "house_no": "67",
+            "candidates": {
+                "1": 410
+            },
+            "count_wrong": 117,
+            "count_unused": 2,
+            "count_total": 781
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新生里",
+            "house_no": "68",
+            "candidates": {
+                "1": 560
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1063
+        }
+    ]
+}

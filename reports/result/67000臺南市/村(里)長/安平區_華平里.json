@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張哲賓",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳森源",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安平區",
+            "cunli": "華平里",
+            "house_no": "1130",
+            "candidates": {
+                "1": 351,
+                "2": 199
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "安平區",
+            "cunli": "華平里",
+            "house_no": "1131",
+            "candidates": {
+                "1": 340,
+                "2": 234
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "安平區",
+            "cunli": "華平里",
+            "house_no": "1132",
+            "candidates": {
+                "1": 393,
+                "2": 159
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "安平區",
+            "cunli": "華平里",
+            "house_no": "1133",
+            "candidates": {
+                "1": 316,
+                "2": 269
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1121
+        }
+    ]
+}

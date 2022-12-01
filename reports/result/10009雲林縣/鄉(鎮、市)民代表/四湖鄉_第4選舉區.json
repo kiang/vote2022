@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振利",
+            "party": "無"
+        },
+        "2": {
+            "name": "林伯晏",
+            "party": "無"
+        },
+        "3": {
+            "name": "林克遠",
+            "party": "無"
+        },
+        "4": {
+            "name": "林文智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "林厝村",
+            "house_no": "197",
+            "candidates": {
+                "1": 294,
+                "2": 118,
+                "3": 16,
+                "4": 192
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "林東村",
+            "house_no": "198",
+            "candidates": {
+                "1": 170,
+                "2": 144,
+                "3": 1,
+                "4": 164
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "溪尾村",
+            "house_no": "199",
+            "candidates": {
+                "1": 85,
+                "2": 150,
+                "3": 6,
+                "4": 136
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 713
+        }
+    ]
+}

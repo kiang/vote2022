@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何芝寧",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭江",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "埔頂里",
+            "house_no": "82",
+            "candidates": {
+                "1": 579,
+                "2": 281
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1440
+        },
+        {
+            "area": "東區",
+            "cunli": "埔頂里",
+            "house_no": "93",
+            "candidates": {
+                "1": 471,
+                "2": 301
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "東區",
+            "cunli": "埔頂里",
+            "house_no": "94",
+            "candidates": {
+                "1": 523,
+                "2": 340
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "東區",
+            "cunli": "埔頂里",
+            "house_no": "95",
+            "candidates": {
+                "1": 427,
+                "2": 353
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "東區",
+            "cunli": "埔頂里",
+            "house_no": "96",
+            "candidates": {
+                "1": 577,
+                "2": 290
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1326
+        }
+    ]
+}

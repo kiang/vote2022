@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "駱純婕",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖火桂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "西雅里",
+            "house_no": "183",
+            "candidates": {
+                "1": 223,
+                "2": 381
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "北區",
+            "cunli": "西雅里",
+            "house_no": "184",
+            "candidates": {
+                "1": 275,
+                "2": 274
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "北區",
+            "cunli": "西雅里",
+            "house_no": "185",
+            "candidates": {
+                "1": 302,
+                "2": 278
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 893
+        }
+    ]
+}

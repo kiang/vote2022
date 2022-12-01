@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉錢福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林美玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "仙水里",
+            "house_no": "115",
+            "candidates": {
+                "1": 234,
+                "2": 397
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "東區",
+            "cunli": "仙水里",
+            "house_no": "116",
+            "candidates": {
+                "1": 218,
+                "2": 426
+            },
+            "count_wrong": 11,
+            "count_unused": 19,
+            "count_total": 1008
+        },
+        {
+            "area": "東區",
+            "cunli": "仙水里",
+            "house_no": "117",
+            "candidates": {
+                "1": 294,
+                "2": 306
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 910
+        },
+        {
+            "area": "東區",
+            "cunli": "仙水里",
+            "house_no": "118",
+            "candidates": {
+                "1": 434,
+                "2": 304
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

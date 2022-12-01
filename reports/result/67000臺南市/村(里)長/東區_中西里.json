@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳怡文",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭信成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "中西里",
+            "house_no": "1271",
+            "candidates": {
+                "1": 197,
+                "2": 305
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 904
+        },
+        {
+            "area": "東區",
+            "cunli": "中西里",
+            "house_no": "1272",
+            "candidates": {
+                "1": 216,
+                "2": 209
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "東區",
+            "cunli": "中西里",
+            "house_no": "1273",
+            "candidates": {
+                "1": 237,
+                "2": 311
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1030
+        }
+    ]
+}

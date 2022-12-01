@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐文彬",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳泰寧",
+            "party": "無"
+        },
+        "3": {
+            "name": "林鼎基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新埔鎮",
+            "cunli": "下寮里",
+            "house_no": "243",
+            "candidates": {
+                "1": 56,
+                "2": 246,
+                "3": 197
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 793
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "下寮里",
+            "house_no": "244",
+            "candidates": {
+                "1": 61,
+                "2": 220,
+                "3": 234
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "下寮里",
+            "house_no": "245",
+            "candidates": {
+                "1": 25,
+                "2": 165,
+                "3": 287
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 824
+        }
+    ]
+}

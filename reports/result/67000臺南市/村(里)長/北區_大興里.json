@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃文宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "大興里",
+            "house_no": "997",
+            "candidates": {
+                "1": 459
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "北區",
+            "cunli": "大興里",
+            "house_no": "998",
+            "candidates": {
+                "1": 446
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "北區",
+            "cunli": "大興里",
+            "house_no": "999",
+            "candidates": {
+                "1": 445
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 943
+        }
+    ]
+}

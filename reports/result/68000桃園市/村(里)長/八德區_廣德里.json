@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳在能",
+            "party": "無"
+        },
+        "2": {
+            "name": "李詩吟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "廣德里",
+            "house_no": "388",
+            "candidates": {
+                "1": 577,
+                "2": 235
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1242
+        },
+        {
+            "area": "八德區",
+            "cunli": "廣德里",
+            "house_no": "389",
+            "candidates": {
+                "1": 660,
+                "2": 204
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1339
+        }
+    ]
+}

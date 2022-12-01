@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江源發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "西安村",
+            "house_no": "111",
+            "candidates": {
+                "1": 827
+            },
+            "count_wrong": 205,
+            "count_unused": 0,
+            "count_total": 1639
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "西安村",
+            "house_no": "112",
+            "candidates": {
+                "1": 809
+            },
+            "count_wrong": 201,
+            "count_unused": 0,
+            "count_total": 1608
+        }
+    ]
+}

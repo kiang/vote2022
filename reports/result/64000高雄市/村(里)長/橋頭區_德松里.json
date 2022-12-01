@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何東喜",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "楊智盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "德松里",
+            "house_no": "459",
+            "candidates": {
+                "1": 338,
+                "2": 223
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "德松里",
+            "house_no": "460",
+            "candidates": {
+                "1": 211,
+                "2": 180
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 598
+        }
+    ]
+}

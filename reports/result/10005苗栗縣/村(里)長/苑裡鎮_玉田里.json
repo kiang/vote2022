@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余清國",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉清輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "玉田里",
+            "house_no": "222",
+            "candidates": {
+                "1": 285,
+                "2": 287
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 788
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "玉田里",
+            "house_no": "223",
+            "candidates": {
+                "1": 314,
+                "2": 301
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 878
+        }
+    ]
+}

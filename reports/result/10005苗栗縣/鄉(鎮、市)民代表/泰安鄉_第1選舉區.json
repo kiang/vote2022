@@ -1,0 +1,63 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何玉珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "林文祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡義成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰安鄉",
+            "cunli": "八卦村",
+            "house_no": "475",
+            "candidates": {
+                "1": 18,
+                "2": 90,
+                "3": 84,
+                "4": 10,
+                "5": 57
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 319
+        },
+        {
+            "area": "泰安鄉",
+            "cunli": "錦水村",
+            "house_no": "476",
+            "candidates": {
+                "1": 3,
+                "2": 130,
+                "3": 77,
+                "4": 85,
+                "5": 51
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 435
+        },
+        {
+            "area": "泰安鄉",
+            "cunli": "錦水村",
+            "house_no": "477",
+            "candidates": {
+                "1": 22,
+                "2": 154,
+                "3": 80,
+                "4": 46,
+                "5": 202
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 601
+        }
+    ]
+}

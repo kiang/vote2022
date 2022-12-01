@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭首証",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳建成",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡義正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "忠孝里",
+            "house_no": "475",
+            "candidates": {
+                "1": 312,
+                "2": 393,
+                "3": 158
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1313
+        }
+    ]
+}

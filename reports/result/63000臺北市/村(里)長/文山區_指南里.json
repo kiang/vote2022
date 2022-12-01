@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張凱茜",
+            "party": "無"
+        },
+        "2": {
+            "name": "張佳南",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "指南里",
+            "house_no": "1752",
+            "candidates": {
+                "1": 404,
+                "2": 457
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "文山區",
+            "cunli": "指南里",
+            "house_no": "1753",
+            "candidates": {
+                "1": 378,
+                "2": 421
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "文山區",
+            "cunli": "指南里",
+            "house_no": "1754",
+            "candidates": {
+                "1": 270,
+                "2": 242
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 788
+        }
+    ]
+}

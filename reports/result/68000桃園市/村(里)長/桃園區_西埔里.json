@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃正炎",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂春琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "西埔里",
+            "house_no": "153",
+            "candidates": {
+                "1": 238,
+                "2": 335
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "桃園區",
+            "cunli": "西埔里",
+            "house_no": "154",
+            "candidates": {
+                "1": 221,
+                "2": 357
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "桃園區",
+            "cunli": "西埔里",
+            "house_no": "155",
+            "candidates": {
+                "1": 260,
+                "2": 420
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1069
+        }
+    ]
+}

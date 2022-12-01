@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余惠貞",
+            "party": "無"
+        },
+        "2": {
+            "name": "林奇財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "積善里",
+            "house_no": "1436",
+            "candidates": {
+                "1": 483,
+                "2": 228
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "南區",
+            "cunli": "積善里",
+            "house_no": "1437",
+            "candidates": {
+                "1": 521,
+                "2": 327
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1337
+        }
+    ]
+}

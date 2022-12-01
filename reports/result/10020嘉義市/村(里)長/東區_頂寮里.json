@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林佳宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡振盛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "頂寮里",
+            "house_no": "57",
+            "candidates": {
+                "1": 365,
+                "2": 381
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1201
+        },
+        {
+            "area": "東區",
+            "cunli": "頂寮里",
+            "house_no": "58",
+            "candidates": {
+                "1": 338,
+                "2": 344
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1181
+        }
+    ]
+}

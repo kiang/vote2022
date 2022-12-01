@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳張小玲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "袁名德",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉淯騰",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "楊周月雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "自助里",
+            "house_no": "628",
+            "candidates": {
+                "1": 220,
+                "2": 72,
+                "3": 263,
+                "4": 98
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 1316
+        }
+    ]
+}

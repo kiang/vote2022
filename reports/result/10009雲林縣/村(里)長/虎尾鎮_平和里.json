@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇姿予",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麗娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "平和里",
+            "house_no": "138",
+            "candidates": {
+                "1": 261,
+                "2": 451
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "平和里",
+            "house_no": "139",
+            "candidates": {
+                "1": 297,
+                "2": 341
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "平和里",
+            "house_no": "140",
+            "candidates": {
+                "1": 371,
+                "2": 335
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "平和里",
+            "house_no": "141",
+            "candidates": {
+                "1": 279,
+                "2": 374
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1103
+        }
+    ]
+}

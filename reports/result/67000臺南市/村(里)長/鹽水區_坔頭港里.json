@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊福順",
+            "party": "無"
+        },
+        "2": {
+            "name": "張碩晉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "坔頭港里",
+            "house_no": "113",
+            "candidates": {
+                "1": 360,
+                "2": 342
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "坔頭港里",
+            "house_no": "114",
+            "candidates": {
+                "1": 175,
+                "2": 153
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 426
+        }
+    ]
+}

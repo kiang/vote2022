@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "康正宗",
+            "party": "無"
+        },
+        "3": {
+            "name": "雷忠儀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "新吉村",
+            "house_no": "31",
+            "candidates": {
+                "1": 190,
+                "2": 132,
+                "3": 573
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "施厝村",
+            "house_no": "32",
+            "candidates": {
+                "1": 388,
+                "2": 263,
+                "3": 140
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "施厝村",
+            "house_no": "33",
+            "candidates": {
+                "1": 469,
+                "2": 347,
+                "3": 83
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "施厝村",
+            "house_no": "34",
+            "candidates": {
+                "1": 395,
+                "2": 450,
+                "3": 197
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1405
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "雷厝村",
+            "house_no": "35",
+            "candidates": {
+                "1": 174,
+                "2": 129,
+                "3": 625
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "雷厝村",
+            "house_no": "36",
+            "candidates": {
+                "1": 117,
+                "2": 215,
+                "3": 454
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1024
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉達逢",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李達信",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "港華里",
+            "house_no": "380",
+            "candidates": {
+                "1": 466,
+                "2": 468
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1416
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港華里",
+            "house_no": "381",
+            "candidates": {
+                "1": 541,
+                "2": 438
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1472
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港華里",
+            "house_no": "382",
+            "candidates": {
+                "1": 542,
+                "2": 422
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1412
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港華里",
+            "house_no": "383",
+            "candidates": {
+                "1": 442,
+                "2": 536
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1470
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港華里",
+            "house_no": "384",
+            "candidates": {
+                "1": 599,
+                "2": 405
+            },
+            "count_wrong": 32,
+            "count_unused": 1,
+            "count_total": 1449
+        }
+    ]
+}

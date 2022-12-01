@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳武雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "李玥蓁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "崇實里",
+            "house_no": "626",
+            "candidates": {
+                "1": 665,
+                "2": 269
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1523
+        },
+        {
+            "area": "左營區",
+            "cunli": "崇實里",
+            "house_no": "627",
+            "candidates": {
+                "1": 604,
+                "2": 162
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1483
+        }
+    ]
+}

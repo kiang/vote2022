@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "藍玉鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林玉華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "昌平里",
+            "house_no": "403",
+            "candidates": {
+                "1": 71,
+                "2": 319
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 758
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌平里",
+            "house_no": "404",
+            "candidates": {
+                "1": 87,
+                "2": 509
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌平里",
+            "house_no": "405",
+            "candidates": {
+                "1": 171,
+                "2": 445
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌平里",
+            "house_no": "406",
+            "candidates": {
+                "1": 99,
+                "2": 661
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1430
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌平里",
+            "house_no": "407",
+            "candidates": {
+                "1": 109,
+                "2": 500
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌平里",
+            "house_no": "408",
+            "candidates": {
+                "1": 96,
+                "2": 554
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1207
+        }
+    ]
+}

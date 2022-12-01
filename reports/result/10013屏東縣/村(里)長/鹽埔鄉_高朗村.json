@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧龍合",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊明郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "高朗村",
+            "house_no": "373",
+            "candidates": {
+                "1": 394,
+                "2": 301
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 887
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "高朗村",
+            "house_no": "374",
+            "candidates": {
+                "1": 384,
+                "2": 386
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "高朗村",
+            "house_no": "375",
+            "candidates": {
+                "1": 298,
+                "2": 308
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 771
+        }
+    ]
+}

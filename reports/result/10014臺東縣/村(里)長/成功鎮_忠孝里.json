@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈茂盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文俊",
+            "party": "無"
+        },
+        "3": {
+            "name": "李明福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "忠孝里",
+            "house_no": "105",
+            "candidates": {
+                "1": 92,
+                "2": 104,
+                "3": 68
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 451
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "忠孝里",
+            "house_no": "106",
+            "candidates": {
+                "1": 97,
+                "2": 98,
+                "3": 20
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 434
+        }
+    ]
+}

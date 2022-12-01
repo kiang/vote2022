@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李秀英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "燕巢區",
+            "cunli": "西燕里",
+            "house_no": "373",
+            "candidates": {
+                "1": 472
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "西燕里",
+            "house_no": "374",
+            "candidates": {
+                "1": 536
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "西燕里",
+            "house_no": "375",
+            "candidates": {
+                "1": 550
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 1236
+        }
+    ]
+}

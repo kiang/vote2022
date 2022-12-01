@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡士強",
+            "party": "無"
+        },
+        "2": {
+            "name": "張俊德",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡嘉佑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "豐林里",
+            "house_no": "27",
+            "candidates": {
+                "1": 547,
+                "2": 309,
+                "3": 98
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1573
+        },
+        {
+            "area": "桃園區",
+            "cunli": "豐林里",
+            "house_no": "28",
+            "candidates": {
+                "1": 529,
+                "2": 285,
+                "3": 108
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1545
+        },
+        {
+            "area": "桃園區",
+            "cunli": "豐林里",
+            "house_no": "29",
+            "candidates": {
+                "1": 519,
+                "2": 248,
+                "3": 91
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1405
+        },
+        {
+            "area": "桃園區",
+            "cunli": "豐林里",
+            "house_no": "30",
+            "candidates": {
+                "1": 479,
+                "2": 243,
+                "3": 168
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1407
+        }
+    ]
+}

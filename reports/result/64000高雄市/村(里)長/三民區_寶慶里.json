@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳昱昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "張全仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶慶里",
+            "house_no": "1080",
+            "candidates": {
+                "1": 342,
+                "2": 314
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶慶里",
+            "house_no": "1081",
+            "candidates": {
+                "1": 346,
+                "2": 280
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1189
+        }
+    ]
+}

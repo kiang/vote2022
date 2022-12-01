@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周文棋",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "同聲里",
+            "house_no": "122",
+            "candidates": {
+                "1": 626
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "同聲里",
+            "house_no": "123",
+            "candidates": {
+                "1": 567
+            },
+            "count_wrong": 72,
+            "count_unused": 1,
+            "count_total": 1017
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉文寶",
+            "party": "無"
+        },
+        "2": {
+            "name": "張進豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗山區",
+            "cunli": "三協里",
+            "house_no": "91",
+            "candidates": {
+                "1": 189,
+                "2": 28
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 265
+        },
+        {
+            "area": "旗山區",
+            "cunli": "三協里",
+            "house_no": "92",
+            "candidates": {
+                "1": 205,
+                "2": 178
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 590
+        },
+        {
+            "area": "旗山區",
+            "cunli": "三協里",
+            "house_no": "93",
+            "candidates": {
+                "1": 516,
+                "2": 297
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1302
+        }
+    ]
+}

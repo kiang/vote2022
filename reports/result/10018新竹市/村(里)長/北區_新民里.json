@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張金潔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "新民里",
+            "house_no": "199",
+            "candidates": {
+                "1": 481
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "北區",
+            "cunli": "新民里",
+            "house_no": "200",
+            "candidates": {
+                "1": 319
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 640
+        }
+    ]
+}

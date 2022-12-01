@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹汝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "富貴里",
+            "house_no": "1177",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 973
+        },
+        {
+            "area": "板橋區",
+            "cunli": "富貴里",
+            "house_no": "1178",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 79,
+            "count_unused": 1,
+            "count_total": 953
+        }
+    ]
+}

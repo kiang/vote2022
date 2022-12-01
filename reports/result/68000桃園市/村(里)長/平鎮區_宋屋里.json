@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏寶蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "宋屋里",
+            "house_no": "1004",
+            "candidates": {
+                "1": 712
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "宋屋里",
+            "house_no": "1005",
+            "candidates": {
+                "1": 740
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "宋屋里",
+            "house_no": "1006",
+            "candidates": {
+                "1": 577
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1353
+        }
+    ]
+}

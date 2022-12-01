@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林東誼",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "周為蓁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "中興里",
+            "house_no": "1621",
+            "candidates": {
+                "1": 465,
+                "2": 254
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "永和區",
+            "cunli": "中興里",
+            "house_no": "1622",
+            "candidates": {
+                "1": 594,
+                "2": 193
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1387
+        }
+    ]
+}

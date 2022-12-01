@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃清海",
+            "party": "無"
+        },
+        "2": {
+            "name": "湯慶彬",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱國江",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "豐榮里",
+            "house_no": "24",
+            "candidates": {
+                "1": 214,
+                "2": 237,
+                "3": 328
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐榮里",
+            "house_no": "25",
+            "candidates": {
+                "1": 179,
+                "2": 174,
+                "3": 304
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1110
+        }
+    ]
+}

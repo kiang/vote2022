@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳聰文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "長安里",
+            "house_no": "1227",
+            "candidates": {
+                "1": 758
+            },
+            "count_wrong": 130,
+            "count_unused": 0,
+            "count_total": 1499
+        },
+        {
+            "area": "板橋區",
+            "cunli": "長安里",
+            "house_no": "1228",
+            "candidates": {
+                "1": 568
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "板橋區",
+            "cunli": "長安里",
+            "house_no": "1229",
+            "candidates": {
+                "1": 485
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 1019
+        }
+    ]
+}

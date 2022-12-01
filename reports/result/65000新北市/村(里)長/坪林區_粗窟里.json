@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李志忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭泰隆",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡永金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "坪林區",
+            "cunli": "粗窟里",
+            "house_no": "2391",
+            "candidates": {
+                "1": 209,
+                "2": 112,
+                "3": 39
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 572
+        },
+        {
+            "area": "坪林區",
+            "cunli": "粗窟里",
+            "house_no": "2392",
+            "candidates": {
+                "1": 123,
+                "2": 10,
+                "3": 48
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 257
+        }
+    ]
+}

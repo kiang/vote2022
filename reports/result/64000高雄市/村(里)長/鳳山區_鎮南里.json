@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊三吉",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "魏吉壕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "鎮南里",
+            "house_no": "1614",
+            "candidates": {
+                "1": 386,
+                "2": 265
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鎮南里",
+            "house_no": "1615",
+            "candidates": {
+                "1": 305,
+                "2": 208
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 935
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鎮南里",
+            "house_no": "1616",
+            "candidates": {
+                "1": 423,
+                "2": 246
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鎮南里",
+            "house_no": "1617",
+            "candidates": {
+                "1": 379,
+                "2": 260
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1090
+        }
+    ]
+}

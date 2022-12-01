@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡宿英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "竹南里",
+            "house_no": "277",
+            "candidates": {
+                "1": 539
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "竹南里",
+            "house_no": "278",
+            "candidates": {
+                "1": 483
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 857
+        }
+    ]
+}

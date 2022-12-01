@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林佩燕",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃博洋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "法治里",
+            "house_no": "1498",
+            "candidates": {
+                "1": 414,
+                "2": 341
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "大安區",
+            "cunli": "法治里",
+            "house_no": "1499",
+            "candidates": {
+                "1": 584,
+                "2": 293
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "大安區",
+            "cunli": "法治里",
+            "house_no": "1500",
+            "candidates": {
+                "1": 415,
+                "2": 339
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1120
+        }
+    ]
+}

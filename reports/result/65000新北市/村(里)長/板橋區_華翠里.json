@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃嘉熙",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪燕美",
+            "party": "無"
+        },
+        "3": {
+            "name": "盧建文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "華翠里",
+            "house_no": "1137",
+            "candidates": {
+                "1": 62,
+                "2": 459,
+                "3": 405
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1494
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華翠里",
+            "house_no": "1138",
+            "candidates": {
+                "1": 136,
+                "2": 353,
+                "3": 358
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1391
+        }
+    ]
+}

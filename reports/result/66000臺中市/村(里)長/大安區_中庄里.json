@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊明堯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "中庄里",
+            "house_no": "60",
+            "candidates": {
+                "1": 671
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "大安區",
+            "cunli": "中庄里",
+            "house_no": "61",
+            "candidates": {
+                "1": 765
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1343
+        }
+    ]
+}

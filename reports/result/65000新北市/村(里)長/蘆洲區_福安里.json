@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "福安里",
+            "house_no": "703",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1560
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "福安里",
+            "house_no": "704",
+            "candidates": {
+                "1": 543
+            },
+            "count_wrong": 170,
+            "count_unused": 2,
+            "count_total": 1187
+        }
+    ]
+}

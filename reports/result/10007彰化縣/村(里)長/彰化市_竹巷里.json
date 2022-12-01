@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張振遠",
+            "party": "無"
+        },
+        "2": {
+            "name": "張玉梅",
+            "party": "無"
+        },
+        "3": {
+            "name": "王燦忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "竹巷里",
+            "house_no": "186",
+            "candidates": {
+                "1": 313,
+                "2": 108,
+                "3": 196
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

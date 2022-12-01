@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊素戀",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖佩榆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西螺鎮",
+            "cunli": "中興里",
+            "house_no": "382",
+            "candidates": {
+                "1": 452,
+                "2": 456
+            },
+            "count_wrong": 42,
+            "count_unused": 1,
+            "count_total": 1429
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "中興里",
+            "house_no": "383",
+            "candidates": {
+                "1": 441,
+                "2": 396
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1368
+        }
+    ]
+}

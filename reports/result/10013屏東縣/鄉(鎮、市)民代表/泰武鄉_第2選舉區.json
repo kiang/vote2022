@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂美英",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈安日",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾大衛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰武鄉",
+            "cunli": "佳興村",
+            "house_no": "678",
+            "candidates": {
+                "1": 0,
+                "2": 285,
+                "3": 45
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 397
+        },
+        {
+            "area": "泰武鄉",
+            "cunli": "泰武村",
+            "house_no": "679",
+            "candidates": {
+                "1": 288,
+                "2": 17,
+                "3": 319
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 746
+        }
+    ]
+}

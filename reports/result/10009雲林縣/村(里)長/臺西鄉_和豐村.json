@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林培煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "和豐村",
+            "house_no": "56",
+            "candidates": {
+                "1": 580
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "和豐村",
+            "house_no": "57",
+            "candidates": {
+                "1": 521
+            },
+            "count_wrong": 111,
+            "count_unused": 1,
+            "count_total": 931
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "和豐村",
+            "house_no": "58",
+            "candidates": {
+                "1": 448
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 886
+        }
+    ]
+}

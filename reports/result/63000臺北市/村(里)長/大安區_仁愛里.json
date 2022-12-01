@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊禧瑜",
+            "party": "無"
+        },
+        "2": {
+            "name": "林宜蓁",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "吳蕙君",
+            "party": "無"
+        },
+        "4": {
+            "name": "朱東文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "仁愛里",
+            "house_no": "1403",
+            "candidates": {
+                "1": 173,
+                "2": 224,
+                "3": 36,
+                "4": 176
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "大安區",
+            "cunli": "仁愛里",
+            "house_no": "1404",
+            "candidates": {
+                "1": 174,
+                "2": 234,
+                "3": 20,
+                "4": 120
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "大安區",
+            "cunli": "仁愛里",
+            "house_no": "1405",
+            "candidates": {
+                "1": 202,
+                "2": 284,
+                "3": 25,
+                "4": 102
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 963
+        },
+        {
+            "area": "大安區",
+            "cunli": "仁愛里",
+            "house_no": "1406",
+            "candidates": {
+                "1": 122,
+                "2": 236,
+                "3": 19,
+                "4": 88
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 811
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉文華",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘鳳滿",
+            "party": "無"
+        },
+        "3": {
+            "name": "古宗勳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "滿州鄉",
+            "cunli": "滿州村",
+            "house_no": "633",
+            "candidates": {
+                "1": 250,
+                "2": 272,
+                "3": 340,
+                "4": 87
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "滿州鄉",
+            "cunli": "里德村",
+            "house_no": "634",
+            "candidates": {
+                "1": 55,
+                "2": 44,
+                "3": 95,
+                "4": 16
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 257
+        },
+        {
+            "area": "滿州鄉",
+            "cunli": "响林村",
+            "house_no": "635",
+            "candidates": {
+                "1": 26,
+                "2": 249,
+                "3": 138,
+                "4": 7
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 494
+        }
+    ]
+}

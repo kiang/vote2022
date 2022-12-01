@@ -1,0 +1,131 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳麒方",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳聖元",
+            "party": "無"
+        },
+        "3": {
+            "name": "張萬教",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉東芳",
+            "party": "無"
+        },
+        "5": {
+            "name": "邱銘煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "元長鄉",
+            "cunli": "鹿北村",
+            "house_no": "219",
+            "candidates": {
+                "1": 107,
+                "2": 80,
+                "3": 350,
+                "4": 67,
+                "5": 91
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "鹿南村",
+            "house_no": "220",
+            "candidates": {
+                "1": 80,
+                "2": 78,
+                "3": 279,
+                "4": 63,
+                "5": 43
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 775
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "瓦磘村",
+            "house_no": "221",
+            "candidates": {
+                "1": 64,
+                "2": 92,
+                "3": 17,
+                "4": 180,
+                "5": 45
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 613
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "瓦磘村",
+            "house_no": "222",
+            "candidates": {
+                "1": 89,
+                "2": 169,
+                "3": 33,
+                "4": 157,
+                "5": 57
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 776
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "內寮村",
+            "house_no": "223",
+            "candidates": {
+                "1": 71,
+                "2": 58,
+                "3": 38,
+                "4": 71,
+                "5": 160
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 547
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "崙仔村",
+            "house_no": "224",
+            "candidates": {
+                "1": 377,
+                "2": 13,
+                "3": 7,
+                "4": 50,
+                "5": 140
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 767
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "新吉村",
+            "house_no": "225",
+            "candidates": {
+                "1": 22,
+                "2": 15,
+                "3": 9,
+                "4": 60,
+                "5": 358
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 666
+        }
+    ]
+}

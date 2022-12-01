@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李正義",
+            "party": "無"
+        },
+        "2": {
+            "name": "李美珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "德昌里",
+            "house_no": "1671",
+            "candidates": {
+                "1": 313,
+                "2": 262
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "德昌里",
+            "house_no": "1672",
+            "candidates": {
+                "1": 281,
+                "2": 237
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 877
+        }
+    ]
+}

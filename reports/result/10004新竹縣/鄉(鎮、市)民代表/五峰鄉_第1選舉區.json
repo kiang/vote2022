@@ -1,0 +1,66 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張定國",
+            "party": "無"
+        },
+        "2": {
+            "name": "凱撒巴燕",
+            "party": "無"
+        },
+        "3": {
+            "name": "秋智勇",
+            "party": "無"
+        },
+        "4": {
+            "name": "彭武藏",
+            "party": "無"
+        },
+        "5": {
+            "name": "秋美玉",
+            "party": "無"
+        },
+        "6": {
+            "name": "曾聰源",
+            "party": "無"
+        },
+        "7": {
+            "name": "喇藺·猶命 Laling·Yumin",
+            "party": "民主進步黨"
+        },
+        "8": {
+            "name": "陳禮正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五峰鄉",
+            "cunli": "大隘村",
+            "house_no": "458",
+            "candidates": {
+                "1": 81,
+                "2": 217,
+                "3": 79,
+                "4": 139
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 646
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "大隘村",
+            "house_no": "459",
+            "candidates": {
+                "1": 43,
+                "2": 49,
+                "3": 175,
+                "4": 218
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 645
+        }
+    ]
+}

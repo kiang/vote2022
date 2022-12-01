@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡昭蓉",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊家銘",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "中興里",
+            "house_no": "954",
+            "candidates": {
+                "1": 86,
+                "2": 469
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1023
+        },
+        {
+            "area": "永康區",
+            "cunli": "中興里",
+            "house_no": "955",
+            "candidates": {
+                "1": 79,
+                "2": 560
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "永康區",
+            "cunli": "中興里",
+            "house_no": "956",
+            "candidates": {
+                "1": 83,
+                "2": 493
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

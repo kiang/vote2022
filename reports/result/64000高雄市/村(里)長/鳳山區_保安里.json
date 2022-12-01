@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝昆政",
+            "party": "無"
+        },
+        "2": {
+            "name": "林燈發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "保安里",
+            "house_no": "1601",
+            "candidates": {
+                "1": 551,
+                "2": 217
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "保安里",
+            "house_no": "1602",
+            "candidates": {
+                "1": 515,
+                "2": 201
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "保安里",
+            "house_no": "1603",
+            "candidates": {
+                "1": 433,
+                "2": 204
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "保安里",
+            "house_no": "1604",
+            "candidates": {
+                "1": 410,
+                "2": 231
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "保安里",
+            "house_no": "1605",
+            "candidates": {
+                "1": 420,
+                "2": 218
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1185
+        }
+    ]
+}

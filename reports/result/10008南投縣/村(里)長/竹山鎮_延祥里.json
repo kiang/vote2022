@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖珈吟",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱雅麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "延祥里",
+            "house_no": "257",
+            "candidates": {
+                "1": 336,
+                "2": 462
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1265
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延祥里",
+            "house_no": "258",
+            "candidates": {
+                "1": 277,
+                "2": 334
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "延祥里",
+            "house_no": "259",
+            "candidates": {
+                "1": 382,
+                "2": 383
+            },
+            "count_wrong": 40,
+            "count_unused": 1,
+            "count_total": 1180
+        }
+    ]
+}

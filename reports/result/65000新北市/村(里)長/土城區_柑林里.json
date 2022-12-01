@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張育誠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "柑林里",
+            "house_no": "2004",
+            "candidates": {
+                "1": 524
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "土城區",
+            "cunli": "柑林里",
+            "house_no": "2005",
+            "candidates": {
+                "1": 461
+            },
+            "count_wrong": 47,
+            "count_unused": 2,
+            "count_total": 950
+        },
+        {
+            "area": "土城區",
+            "cunli": "柑林里",
+            "house_no": "2006",
+            "candidates": {
+                "1": 526
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

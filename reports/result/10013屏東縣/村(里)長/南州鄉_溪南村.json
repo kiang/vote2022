@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡順得",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭中聞",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳信雄",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳素燕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南州鄉",
+            "cunli": "溪南村",
+            "house_no": "586",
+            "candidates": {
+                "1": 168,
+                "2": 284,
+                "3": 141,
+                "4": 55
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 866
+        }
+    ]
+}

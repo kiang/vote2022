@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周室均",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭有賢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "南門里",
+            "house_no": "1157",
+            "candidates": {
+                "1": 288,
+                "2": 400
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1003
+        },
+        {
+            "area": "中正區",
+            "cunli": "南門里",
+            "house_no": "1158",
+            "candidates": {
+                "1": 329,
+                "2": 297
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 966
+        }
+    ]
+}

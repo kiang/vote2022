@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇國泰",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖宗吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗山區",
+            "cunli": "南勝里",
+            "house_no": "78",
+            "candidates": {
+                "1": 251,
+                "2": 343
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "旗山區",
+            "cunli": "南勝里",
+            "house_no": "79",
+            "candidates": {
+                "1": 270,
+                "2": 430
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1128
+        }
+    ]
+}

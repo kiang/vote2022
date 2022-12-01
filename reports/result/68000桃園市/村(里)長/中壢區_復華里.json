@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝俊彥",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾榮煥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "復華里",
+            "house_no": "843",
+            "candidates": {
+                "1": 333,
+                "2": 409
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "中壢區",
+            "cunli": "復華里",
+            "house_no": "844",
+            "candidates": {
+                "1": 332,
+                "2": 549
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1449
+        },
+        {
+            "area": "中壢區",
+            "cunli": "復華里",
+            "house_no": "845",
+            "candidates": {
+                "1": 156,
+                "2": 430
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "中壢區",
+            "cunli": "復華里",
+            "house_no": "846",
+            "candidates": {
+                "1": 391,
+                "2": 536
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1468
+        }
+    ]
+}

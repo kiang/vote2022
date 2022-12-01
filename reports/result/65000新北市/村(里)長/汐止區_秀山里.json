@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖烱華",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝慧芝",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "簡鴻彥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "秀山里",
+            "house_no": "2557",
+            "candidates": {
+                "1": 378,
+                "2": 271,
+                "3": 118
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "汐止區",
+            "cunli": "秀山里",
+            "house_no": "2558",
+            "candidates": {
+                "1": 335,
+                "2": 243,
+                "3": 101
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "汐止區",
+            "cunli": "秀山里",
+            "house_no": "2559",
+            "candidates": {
+                "1": 234,
+                "2": 399,
+                "3": 46
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1333
+        }
+    ]
+}

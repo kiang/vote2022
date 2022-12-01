@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹貴洪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "田中里",
+            "house_no": "799",
+            "candidates": {
+                "1": 634
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "三重區",
+            "cunli": "田中里",
+            "house_no": "800",
+            "candidates": {
+                "1": 677
+            },
+            "count_wrong": 99,
+            "count_unused": 1,
+            "count_total": 1193
+        },
+        {
+            "area": "三重區",
+            "cunli": "田中里",
+            "house_no": "801",
+            "candidates": {
+                "1": 687
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "三重區",
+            "cunli": "田中里",
+            "house_no": "802",
+            "candidates": {
+                "1": 625
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 1411
+        }
+    ]
+}

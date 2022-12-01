@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉路斯",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃志傑",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "朱元章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "新樂村",
+            "house_no": "447",
+            "candidates": {
+                "1": 95,
+                "2": 51,
+                "3": 371
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "新樂村",
+            "house_no": "448",
+            "candidates": {
+                "1": 43,
+                "2": 192,
+                "3": 115
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 454
+        }
+    ]
+}

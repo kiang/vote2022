@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴哲明",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯武宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳道光",
+            "party": "無"
+        },
+        "4": {
+            "name": "詹民杰",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳榮坤",
+            "party": "無"
+        },
+        "6": {
+            "name": "柯宏憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰安鄉",
+            "cunli": "梅園村",
+            "house_no": "482",
+            "candidates": {
+                "1": 77,
+                "2": 126,
+                "3": 86,
+                "4": 56,
+                "5": 1,
+                "6": 79
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 482
+        },
+        {
+            "area": "泰安鄉",
+            "cunli": "象鼻村",
+            "house_no": "483",
+            "candidates": {
+                "1": 157,
+                "2": 85,
+                "3": 187,
+                "4": 107,
+                "5": 1,
+                "6": 40
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 645
+        },
+        {
+            "area": "泰安鄉",
+            "cunli": "士林村",
+            "house_no": "484",
+            "candidates": {
+                "1": 196,
+                "2": 81,
+                "3": 130,
+                "4": 63,
+                "5": 18,
+                "6": 15
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 588
+        }
+    ]
+}

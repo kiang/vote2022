@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許鄭舜遊",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾家鼎",
+            "party": "無"
+        },
+        "3": {
+            "name": "柯文吉",
+            "party": "無"
+        },
+        "4": {
+            "name": "汪璟翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "舊庄村",
+            "house_no": "407",
+            "candidates": {
+                "1": 63,
+                "2": 350,
+                "3": 93,
+                "4": 176
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "田子村",
+            "house_no": "408",
+            "candidates": {
+                "1": 43,
+                "2": 186,
+                "3": 400,
+                "4": 97
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "鹽樹村",
+            "house_no": "409",
+            "candidates": {
+                "1": 33,
+                "2": 266,
+                "3": 141,
+                "4": 87
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 673
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "鹽樹村",
+            "house_no": "410",
+            "candidates": {
+                "1": 9,
+                "2": 133,
+                "3": 80,
+                "4": 53
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 443
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "新南村",
+            "house_no": "411",
+            "candidates": {
+                "1": 197,
+                "2": 96,
+                "3": 78,
+                "4": 57
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "新南村",
+            "house_no": "412",
+            "candidates": {
+                "1": 347,
+                "2": 64,
+                "3": 81,
+                "4": 49
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 773
+        }
+    ]
+}

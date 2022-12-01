@@ -1,0 +1,104 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝光明",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林瑞祥",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "親愛村",
+            "house_no": "485",
+            "candidates": {
+                "1": 16,
+                "2": 2,
+                "3": 33,
+                "4": 237,
+                "5": 208
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 605
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "親愛村",
+            "house_no": "486",
+            "candidates": {
+                "1": 24,
+                "2": 4,
+                "3": 72,
+                "4": 123,
+                "5": 67
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 377
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "親愛村",
+            "house_no": "487",
+            "candidates": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 41,
+                "5": 46
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 128
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "萬豐村",
+            "house_no": "488",
+            "candidates": {
+                "1": 104,
+                "2": 55,
+                "3": 152,
+                "4": 73,
+                "5": 69
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 624
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "法治村",
+            "house_no": "489",
+            "candidates": {
+                "1": 124,
+                "2": 341,
+                "3": 50,
+                "4": 32,
+                "5": 68
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "中正村",
+            "house_no": "490",
+            "candidates": {
+                "1": 278,
+                "2": 17,
+                "3": 153,
+                "4": 66,
+                "5": 138
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 858
+        }
+    ]
+}

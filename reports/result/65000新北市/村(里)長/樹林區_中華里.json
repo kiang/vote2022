@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張美珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "中華里",
+            "house_no": "1824",
+            "candidates": {
+                "1": 660
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1425
+        },
+        {
+            "area": "樹林區",
+            "cunli": "中華里",
+            "house_no": "1825",
+            "candidates": {
+                "1": 679
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1438
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "甘秋永",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴松村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "五北里",
+            "house_no": "180",
+            "candidates": {
+                "1": 197,
+                "2": 221
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 588
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "五北里",
+            "house_no": "181",
+            "candidates": {
+                "1": 253,
+                "2": 256
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 702
+        }
+    ]
+}

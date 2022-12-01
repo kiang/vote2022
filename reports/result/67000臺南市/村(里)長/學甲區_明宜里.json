@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱福進",
+            "party": "無"
+        },
+        "2": {
+            "name": "凃志宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "學甲區",
+            "cunli": "明宜里",
+            "house_no": "221",
+            "candidates": {
+                "1": 287,
+                "2": 312
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "學甲區",
+            "cunli": "明宜里",
+            "house_no": "222",
+            "candidates": {
+                "1": 254,
+                "2": 253
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 799
+        }
+    ]
+}

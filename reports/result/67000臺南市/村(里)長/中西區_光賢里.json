@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪金安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "光賢里",
+            "house_no": "1076",
+            "candidates": {
+                "1": 456
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "中西區",
+            "cunli": "光賢里",
+            "house_no": "1077",
+            "candidates": {
+                "1": 562
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "中西區",
+            "cunli": "光賢里",
+            "house_no": "1078",
+            "candidates": {
+                "1": 626
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 1288
+        }
+    ]
+}

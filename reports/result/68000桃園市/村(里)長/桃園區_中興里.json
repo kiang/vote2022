@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "",
+            "party": ""
+        },
+        "2": {
+            "name": "廖心富",
+            "party": "無"
+        },
+        "3": {
+            "name": "游進福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中興里",
+            "house_no": "32",
+            "candidates": {
+                "1": 0,
+                "2": 174,
+                "3": 543
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中興里",
+            "house_no": "33",
+            "candidates": {
+                "1": 0,
+                "2": 242,
+                "3": 548
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1444
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中興里",
+            "house_no": "34",
+            "candidates": {
+                "1": 0,
+                "2": 249,
+                "3": 734
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1633
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中興里",
+            "house_no": "35",
+            "candidates": {
+                "1": 0,
+                "2": 171,
+                "3": 531
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1268
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范國昌",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃瓊慧",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "185",
+            "candidates": {
+                "1": 264,
+                "2": 265
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "186",
+            "candidates": {
+                "1": 261,
+                "2": 220
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 952
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "187",
+            "candidates": {
+                "1": 209,
+                "2": 188
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "188",
+            "candidates": {
+                "1": 252,
+                "2": 300
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "189",
+            "candidates": {
+                "1": 319,
+                "2": 266
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "仁里村",
+            "house_no": "190",
+            "candidates": {
+                "1": 334,
+                "2": 222
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 967
+        }
+    ]
+}

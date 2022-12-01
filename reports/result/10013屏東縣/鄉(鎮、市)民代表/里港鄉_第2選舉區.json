@@ -1,0 +1,97 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪博誼",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳永松",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "陳榮隆",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄒天財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "大平村",
+            "house_no": "350",
+            "candidates": {
+                "1": 112,
+                "2": 91,
+                "3": 155,
+                "4": 98,
+                "5": 218
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "永春村",
+            "house_no": "351",
+            "candidates": {
+                "1": 72,
+                "2": 34,
+                "3": 345,
+                "4": 85,
+                "5": 57
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 819
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "春林村",
+            "house_no": "352",
+            "candidates": {
+                "1": 305,
+                "2": 101,
+                "3": 243,
+                "4": 115,
+                "5": 76
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1298
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "過江村",
+            "house_no": "353",
+            "candidates": {
+                "1": 92,
+                "2": 140,
+                "3": 101,
+                "4": 218,
+                "5": 57
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "過江村",
+            "house_no": "354",
+            "candidates": {
+                "1": 91,
+                "2": 137,
+                "3": 137,
+                "4": 230,
+                "5": 77
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1038
+        }
+    ]
+}

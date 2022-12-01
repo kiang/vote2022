@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃湘元",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "竹興里",
+            "house_no": "299",
+            "candidates": {
+                "1": 586
+            },
+            "count_wrong": 135,
+            "count_unused": 1,
+            "count_total": 1209
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "竹興里",
+            "house_no": "300",
+            "candidates": {
+                "1": 453
+            },
+            "count_wrong": 98,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "竹興里",
+            "house_no": "301",
+            "candidates": {
+                "1": 475
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1022
+        }
+    ]
+}

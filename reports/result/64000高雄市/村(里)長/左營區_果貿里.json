@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張新旻",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓得平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "果貿里",
+            "house_no": "629",
+            "candidates": {
+                "1": 350,
+                "2": 478
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "左營區",
+            "cunli": "果貿里",
+            "house_no": "630",
+            "candidates": {
+                "1": 162,
+                "2": 464
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1155
+        }
+    ]
+}

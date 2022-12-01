@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張敬慈",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳萬龍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "龍光里",
+            "house_no": "1159",
+            "candidates": {
+                "1": 252,
+                "2": 322
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍光里",
+            "house_no": "1160",
+            "candidates": {
+                "1": 219,
+                "2": 285
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 746
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍光里",
+            "house_no": "1161",
+            "candidates": {
+                "1": 244,
+                "2": 277
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 774
+        }
+    ]
+}

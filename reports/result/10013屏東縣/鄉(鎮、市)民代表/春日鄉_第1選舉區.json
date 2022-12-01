@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃連 Sauniyaw.Ruveljeng",
+            "party": "無"
+        },
+        "2": {
+            "name": "高王添福",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪得新 giljaw quili",
+            "party": "無"
+        },
+        "4": {
+            "name": "宋文聖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "春日鄉",
+            "cunli": "春日村",
+            "house_no": "690",
+            "candidates": {
+                "1": 246,
+                "2": 212,
+                "3": 104,
+                "4": 147
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 878
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "古華村",
+            "house_no": "691",
+            "candidates": {
+                "1": 76,
+                "2": 46,
+                "3": 103,
+                "4": 285
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 659
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "士文村",
+            "house_no": "692",
+            "candidates": {
+                "1": 47,
+                "2": 62,
+                "3": 48,
+                "4": 95
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 292
+        }
+    ]
+}

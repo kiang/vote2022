@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳建霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "李乙祿",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "蘇國隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "萬壽里",
+            "house_no": "55",
+            "candidates": {
+                "1": 195,
+                "2": 151,
+                "3": 183
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 786
+        }
+    ]
+}

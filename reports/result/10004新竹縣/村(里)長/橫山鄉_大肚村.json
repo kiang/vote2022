@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅樹英",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張桂清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橫山鄉",
+            "cunli": "大肚村",
+            "house_no": "408",
+            "candidates": {
+                "1": 296,
+                "2": 213
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "大肚村",
+            "house_no": "409",
+            "candidates": {
+                "1": 304,
+                "2": 253
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 831
+        }
+    ]
+}

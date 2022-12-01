@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "唐明聰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "長江里",
+            "house_no": "869",
+            "candidates": {
+                "1": 394
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "三重區",
+            "cunli": "長江里",
+            "house_no": "870",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 916
+        }
+    ]
+}

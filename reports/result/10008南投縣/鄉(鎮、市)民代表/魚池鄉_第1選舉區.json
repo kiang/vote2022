@@ -1,0 +1,216 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃文雄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "梁政裕",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃志卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "魚池村",
+            "house_no": "380",
+            "candidates": {
+                "1": 51,
+                "2": 66,
+                "3": 116,
+                "4": 126,
+                "5": 45,
+                "6": 44,
+                "7": 116,
+                "8": 14
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 864
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "魚池村",
+            "house_no": "381",
+            "candidates": {
+                "1": 104,
+                "2": 85,
+                "3": 125,
+                "4": 100,
+                "5": 63,
+                "6": 45,
+                "7": 128,
+                "8": 21
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "東池村",
+            "house_no": "382",
+            "candidates": {
+                "1": 52,
+                "2": 64,
+                "3": 88,
+                "4": 81,
+                "5": 35,
+                "6": 74,
+                "7": 68,
+                "8": 5
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 695
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "東池村",
+            "house_no": "383",
+            "candidates": {
+                "1": 79,
+                "2": 85,
+                "3": 121,
+                "4": 78,
+                "5": 46,
+                "6": 46,
+                "7": 90,
+                "8": 19
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "大林村",
+            "house_no": "384",
+            "candidates": {
+                "1": 45,
+                "2": 18,
+                "3": 42,
+                "4": 110,
+                "5": 18,
+                "6": 31,
+                "7": 62,
+                "8": 6
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 467
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "大林村",
+            "house_no": "385",
+            "candidates": {
+                "1": 28,
+                "2": 28,
+                "3": 127,
+                "4": 89,
+                "5": 35,
+                "6": 26,
+                "7": 48,
+                "8": 6
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 545
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "東光村",
+            "house_no": "386",
+            "candidates": {
+                "1": 52,
+                "2": 46,
+                "3": 46,
+                "4": 49,
+                "5": 145,
+                "6": 44,
+                "7": 22,
+                "8": 3
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 564
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "東光村",
+            "house_no": "387",
+            "candidates": {
+                "1": 41,
+                "2": 42,
+                "3": 37,
+                "4": 53,
+                "5": 232,
+                "6": 18,
+                "7": 25,
+                "8": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 622
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "共和村",
+            "house_no": "388",
+            "candidates": {
+                "1": 10,
+                "2": 17,
+                "3": 27,
+                "4": 82,
+                "5": 33,
+                "6": 24,
+                "7": 20,
+                "8": 1
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 281
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "共和村",
+            "house_no": "389",
+            "candidates": {
+                "1": 49,
+                "2": 17,
+                "3": 41,
+                "4": 106,
+                "5": 68,
+                "6": 76,
+                "7": 16,
+                "8": 5
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 489
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "共和村",
+            "house_no": "390",
+            "candidates": {
+                "1": 25,
+                "2": 13,
+                "3": 29,
+                "4": 17,
+                "5": 17,
+                "6": 28,
+                "7": 12,
+                "8": 0
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 189
+        }
+    ]
+}

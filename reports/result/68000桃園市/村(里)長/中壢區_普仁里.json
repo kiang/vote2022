@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張鳳凰",
+            "party": "無"
+        },
+        "2": {
+            "name": "林朝慨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "普仁里",
+            "house_no": "751",
+            "candidates": {
+                "1": 458,
+                "2": 344
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1352
+        },
+        {
+            "area": "中壢區",
+            "cunli": "普仁里",
+            "house_no": "752",
+            "candidates": {
+                "1": 391,
+                "2": 373
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "中壢區",
+            "cunli": "普仁里",
+            "house_no": "753",
+            "candidates": {
+                "1": 370,
+                "2": 318
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1361
+        }
+    ]
+}

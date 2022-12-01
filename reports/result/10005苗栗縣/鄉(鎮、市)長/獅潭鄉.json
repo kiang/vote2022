@@ -1,0 +1,98 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝燃廷",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉淑能",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "獅潭鄉",
+            "cunli": "百壽村",
+            "house_no": "449",
+            "candidates": {
+                "1": 117,
+                "2": 160
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 315
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "永興村",
+            "house_no": "450",
+            "candidates": {
+                "1": 158,
+                "2": 245
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 509
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "新店村",
+            "house_no": "451",
+            "candidates": {
+                "1": 447,
+                "2": 287
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "和興村",
+            "house_no": "452",
+            "candidates": {
+                "1": 179,
+                "2": 283
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 539
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "豐林村",
+            "house_no": "453",
+            "candidates": {
+                "1": 130,
+                "2": 361
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 568
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "新豐村",
+            "house_no": "454",
+            "candidates": {
+                "1": 94,
+                "2": 174
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 312
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "竹木村",
+            "house_no": "455",
+            "candidates": {
+                "1": 171,
+                "2": 368
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 644
+        }
+    ]
+}

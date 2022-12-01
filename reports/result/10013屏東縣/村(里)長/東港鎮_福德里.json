@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林義國",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉朝木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "福德里",
+            "house_no": "198",
+            "candidates": {
+                "1": 318,
+                "2": 296
+            },
+            "count_wrong": 7,
+            "count_unused": 1,
+            "count_total": 884
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "福德里",
+            "house_no": "199",
+            "candidates": {
+                "1": 515,
+                "2": 93
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 885
+        }
+    ]
+}

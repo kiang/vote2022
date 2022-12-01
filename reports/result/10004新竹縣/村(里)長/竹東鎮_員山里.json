@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐銓旺",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊忠貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹東鎮",
+            "cunli": "員山里",
+            "house_no": "211",
+            "candidates": {
+                "1": 240,
+                "2": 257
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "員山里",
+            "house_no": "212",
+            "candidates": {
+                "1": 365,
+                "2": 295
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 943
+        }
+    ]
+}

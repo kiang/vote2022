@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳旺水",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國棟",
+            "party": "無"
+        },
+        "3": {
+            "name": "林听洲",
+            "party": "無"
+        },
+        "4": {
+            "name": "林文達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壯圍鄉",
+            "cunli": "功勞村",
+            "house_no": "265",
+            "candidates": {
+                "1": 210,
+                "2": 140,
+                "3": 286,
+                "4": 240
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "美城村",
+            "house_no": "266",
+            "candidates": {
+                "1": 256,
+                "2": 56,
+                "3": 233,
+                "4": 225
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "美城村",
+            "house_no": "267",
+            "candidates": {
+                "1": 284,
+                "2": 46,
+                "3": 280,
+                "4": 186
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "新社村",
+            "house_no": "268",
+            "candidates": {
+                "1": 190,
+                "2": 225,
+                "3": 241,
+                "4": 125
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "大福村",
+            "house_no": "269",
+            "candidates": {
+                "1": 99,
+                "2": 220,
+                "3": 102,
+                "4": 114
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "大福村",
+            "house_no": "270",
+            "candidates": {
+                "1": 102,
+                "2": 257,
+                "3": 81,
+                "4": 96
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 779
+        }
+    ]
+}

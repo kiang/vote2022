@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "李得勝",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "新強里",
+            "house_no": "1565",
+            "candidates": {
+                "1": 313,
+                "2": 472
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新強里",
+            "house_no": "1566",
+            "candidates": {
+                "1": 235,
+                "2": 458
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新強里",
+            "house_no": "1567",
+            "candidates": {
+                "1": 346,
+                "2": 434
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新強里",
+            "house_no": "1568",
+            "candidates": {
+                "1": 280,
+                "2": 387
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1123
+        }
+    ]
+}

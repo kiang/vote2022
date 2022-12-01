@@ -1,0 +1,122 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何建東",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林碧霞",
+            "party": "無"
+        },
+        "3": {
+            "name": "林聰文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "開明里",
+            "house_no": "82",
+            "candidates": {
+                "1": 187,
+                "2": 91,
+                "3": 107
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 620
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "開明里",
+            "house_no": "83",
+            "candidates": {
+                "1": 178,
+                "2": 79,
+                "3": 84
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 652
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "大新里",
+            "house_no": "84",
+            "candidates": {
+                "1": 231,
+                "2": 219,
+                "3": 305
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 1486
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "東安里",
+            "house_no": "85",
+            "candidates": {
+                "1": 140,
+                "2": 320,
+                "3": 332
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1438
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "東安里",
+            "house_no": "86",
+            "candidates": {
+                "1": 75,
+                "2": 273,
+                "3": 190
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "東安里",
+            "house_no": "87",
+            "candidates": {
+                "1": 83,
+                "2": 193,
+                "3": 169
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "新群里",
+            "house_no": "88",
+            "candidates": {
+                "1": 168,
+                "2": 271,
+                "3": 426
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 1485
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "新群里",
+            "house_no": "89",
+            "candidates": {
+                "1": 151,
+                "2": 189,
+                "3": 307
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1141
+        }
+    ]
+}

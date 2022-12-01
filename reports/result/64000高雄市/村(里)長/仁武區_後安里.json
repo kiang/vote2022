@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王俊欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃榮輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "後安里",
+            "house_no": "780",
+            "candidates": {
+                "1": 226,
+                "2": 510
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "仁武區",
+            "cunli": "後安里",
+            "house_no": "781",
+            "candidates": {
+                "1": 210,
+                "2": 559
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1220
+        }
+    ]
+}

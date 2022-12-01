@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐陽明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "中山里",
+            "house_no": "29",
+            "candidates": {
+                "1": 504
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "東區",
+            "cunli": "中山里",
+            "house_no": "30",
+            "candidates": {
+                "1": 320
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 663
+        }
+    ]
+}

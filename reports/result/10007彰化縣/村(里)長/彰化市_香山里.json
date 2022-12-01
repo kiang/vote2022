@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許春郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "李讚財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "香山里",
+            "house_no": "159",
+            "candidates": {
+                "1": 306,
+                "2": 373
+            },
+            "count_wrong": 7,
+            "count_unused": 1,
+            "count_total": 937
+        },
+        {
+            "area": "彰化市",
+            "cunli": "香山里",
+            "house_no": "160",
+            "candidates": {
+                "1": 441,
+                "2": 349
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "彰化市",
+            "cunli": "香山里",
+            "house_no": "161",
+            "candidates": {
+                "1": 367,
+                "2": 300
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

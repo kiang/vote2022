@@ -1,0 +1,90 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅森澤",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鳳修",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃燕雪",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴國楨",
+            "party": "無"
+        },
+        "5": {
+            "name": "楊圳江",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "陳家祐",
+            "party": "無"
+        },
+        "7": {
+            "name": "吳彬煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二水鄉",
+            "cunli": "復興村",
+            "house_no": "844",
+            "candidates": {
+                "1": 58,
+                "2": 131,
+                "3": 446,
+                "4": 73
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "十五村",
+            "house_no": "845",
+            "candidates": {
+                "1": 62,
+                "2": 206,
+                "3": 158,
+                "4": 34
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 637
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "合和村",
+            "house_no": "846",
+            "candidates": {
+                "1": 346,
+                "2": 22,
+                "3": 50,
+                "4": 121
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 802
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "上豊村",
+            "house_no": "847",
+            "candidates": {
+                "1": 233,
+                "2": 21,
+                "3": 83,
+                "4": 331
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 882
+        }
+    ]
+}

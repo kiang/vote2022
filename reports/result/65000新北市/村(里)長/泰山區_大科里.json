@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃金進",
+            "party": "無"
+        },
+        "2": {
+            "name": "許鈞迪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "大科里",
+            "house_no": "312",
+            "candidates": {
+                "1": 238,
+                "2": 183
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 609
+        },
+        {
+            "area": "泰山區",
+            "cunli": "大科里",
+            "house_no": "313",
+            "candidates": {
+                "1": 53,
+                "2": 67
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 154
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭信康",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉自展",
+            "party": "無"
+        },
+        "3": {
+            "name": "林彭玉連",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "劉展源",
+            "party": "無"
+        },
+        "5": {
+            "name": "魏賢祥",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "黃政宏",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "劉名揚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "文林村",
+            "house_no": "384",
+            "candidates": {
+                "1": 53,
+                "2": 53,
+                "3": 26,
+                "4": 169,
+                "5": 91,
+                "6": 150,
+                "7": 144
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "文林村",
+            "house_no": "385",
+            "candidates": {
+                "1": 52,
+                "2": 45,
+                "3": 10,
+                "4": 131,
+                "5": 41,
+                "6": 233,
+                "7": 177
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "芎林村",
+            "house_no": "386",
+            "candidates": {
+                "1": 44,
+                "2": 81,
+                "3": 28,
+                "4": 102,
+                "5": 60,
+                "6": 81,
+                "7": 156
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 865
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "芎林村",
+            "house_no": "387",
+            "candidates": {
+                "1": 26,
+                "2": 70,
+                "3": 12,
+                "4": 133,
+                "5": 44,
+                "6": 68,
+                "7": 71
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 656
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "388",
+            "candidates": {
+                "1": 183,
+                "2": 80,
+                "3": 68,
+                "4": 105,
+                "5": 91,
+                "6": 88,
+                "7": 127
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "389",
+            "candidates": {
+                "1": 259,
+                "2": 45,
+                "3": 60,
+                "4": 139,
+                "5": 143,
+                "6": 85,
+                "7": 137
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1491
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "390",
+            "candidates": {
+                "1": 106,
+                "2": 29,
+                "3": 51,
+                "4": 89,
+                "5": 99,
+                "6": 27,
+                "7": 154
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "391",
+            "candidates": {
+                "1": 96,
+                "2": 63,
+                "3": 138,
+                "4": 84,
+                "5": 82,
+                "6": 58,
+                "7": 67
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "下山村",
+            "house_no": "392",
+            "candidates": {
+                "1": 92,
+                "2": 57,
+                "3": 50,
+                "4": 174,
+                "5": 149,
+                "6": 65,
+                "7": 113
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1072
+        }
+    ]
+}

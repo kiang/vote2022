@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金福",
+            "party": "無"
+        },
+        "2": {
+            "name": "許育銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢鄉",
+            "cunli": "四美村",
+            "house_no": "74",
+            "candidates": {
+                "1": 115,
+                "2": 198
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 551
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "四美村",
+            "house_no": "75",
+            "candidates": {
+                "1": 24,
+                "2": 186
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 379
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "新坤村",
+            "house_no": "76",
+            "candidates": {
+                "1": 221,
+                "2": 313
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 981
+        }
+    ]
+}

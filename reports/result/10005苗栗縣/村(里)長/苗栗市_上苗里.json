@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周文正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "上苗里",
+            "house_no": "31",
+            "candidates": {
+                "1": 309
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 548
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "上苗里",
+            "house_no": "32",
+            "candidates": {
+                "1": 470
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 890
+        }
+    ]
+}

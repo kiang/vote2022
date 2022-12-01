@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃勻畇",
+            "party": "無"
+        },
+        "2": {
+            "name": "温安章",
+            "party": "無"
+        },
+        "3": {
+            "name": "何秀蓉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "上田里",
+            "house_no": "1183",
+            "candidates": {
+                "1": 215,
+                "2": 367,
+                "3": 172
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "上田里",
+            "house_no": "1184",
+            "candidates": {
+                "1": 216,
+                "2": 504,
+                "3": 169
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1440
+        }
+    ]
+}

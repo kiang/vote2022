@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉明華",
+            "party": "無"
+        },
+        "2": {
+            "name": "烏蓮發 Dipog．Lekar",
+            "party": "無"
+        },
+        "3": {
+            "name": "林勝雄 Ami．Arapawan",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長濱鄉",
+            "cunli": "寧埔村",
+            "house_no": "173",
+            "candidates": {
+                "1": 186,
+                "2": 85,
+                "3": 62
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 491
+        },
+        {
+            "area": "長濱鄉",
+            "cunli": "寧埔村",
+            "house_no": "174",
+            "candidates": {
+                "1": 139,
+                "2": 247,
+                "3": 17
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 640
+        }
+    ]
+}

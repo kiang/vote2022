@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫三福",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯俊良",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡宜眞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "嘉興里",
+            "house_no": "337",
+            "candidates": {
+                "1": 133,
+                "2": 268,
+                "3": 276
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "岡山區",
+            "cunli": "嘉興里",
+            "house_no": "338",
+            "candidates": {
+                "1": 105,
+                "2": 235,
+                "3": 331
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "岡山區",
+            "cunli": "嘉興里",
+            "house_no": "339",
+            "candidates": {
+                "1": 172,
+                "2": 277,
+                "3": 394
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1279
+        }
+    ]
+}

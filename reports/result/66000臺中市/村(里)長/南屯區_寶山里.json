@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖榮達",
+            "party": "無"
+        },
+        "2": {
+            "name": "張莉卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "廖振源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "寶山里",
+            "house_no": "916",
+            "candidates": {
+                "1": 318,
+                "2": 26,
+                "3": 405
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "南屯區",
+            "cunli": "寶山里",
+            "house_no": "917",
+            "candidates": {
+                "1": 319,
+                "2": 26,
+                "3": 282
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "南屯區",
+            "cunli": "寶山里",
+            "house_no": "918",
+            "candidates": {
+                "1": 300,
+                "2": 25,
+                "3": 419
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1286
+        },
+        {
+            "area": "南屯區",
+            "cunli": "寶山里",
+            "house_no": "919",
+            "candidates": {
+                "1": 294,
+                "2": 44,
+                "3": 458
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1384
+        }
+    ]
+}

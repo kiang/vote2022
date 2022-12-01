@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊小莉",
+            "party": "無"
+        },
+        "2": {
+            "name": "李振貴",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳秀玉",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳翰承",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福華里",
+            "house_no": "216",
+            "candidates": {
+                "1": 379,
+                "2": 179,
+                "3": 50,
+                "4": 139
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "士林區",
+            "cunli": "福華里",
+            "house_no": "217",
+            "candidates": {
+                "1": 265,
+                "2": 146,
+                "3": 47,
+                "4": 155
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "士林區",
+            "cunli": "福華里",
+            "house_no": "218",
+            "candidates": {
+                "1": 444,
+                "2": 171,
+                "3": 103,
+                "4": 150
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "士林區",
+            "cunli": "福華里",
+            "house_no": "219",
+            "candidates": {
+                "1": 511,
+                "2": 243,
+                "3": 140,
+                "4": 130
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1502
+        }
+    ]
+}

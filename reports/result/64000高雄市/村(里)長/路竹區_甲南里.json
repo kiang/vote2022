@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王俊傑",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "黃吉松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "甲南里",
+            "house_no": "199",
+            "candidates": {
+                "1": 231,
+                "2": 333
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "路竹區",
+            "cunli": "甲南里",
+            "house_no": "200",
+            "candidates": {
+                "1": 283,
+                "2": 318
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 935
+        },
+        {
+            "area": "路竹區",
+            "cunli": "甲南里",
+            "house_no": "201",
+            "candidates": {
+                "1": 254,
+                "2": 405
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1198
+        }
+    ]
+}

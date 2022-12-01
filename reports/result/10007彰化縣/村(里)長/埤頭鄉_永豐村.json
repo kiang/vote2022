@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜文仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳新溪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "永豐村",
+            "house_no": "925",
+            "candidates": {
+                "1": 284,
+                "2": 298
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 873
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "永豐村",
+            "house_no": "926",
+            "candidates": {
+                "1": 101,
+                "2": 363
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 650
+        }
+    ]
+}

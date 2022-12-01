@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王成章",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃明雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "港南里",
+            "house_no": "574",
+            "candidates": {
+                "1": 544,
+                "2": 214
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "安定區",
+            "cunli": "港南里",
+            "house_no": "575",
+            "candidates": {
+                "1": 579,
+                "2": 226
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1264
+        }
+    ]
+}

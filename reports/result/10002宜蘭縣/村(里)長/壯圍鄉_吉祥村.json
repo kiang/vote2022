@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳生溪",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳長壬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壯圍鄉",
+            "cunli": "吉祥村",
+            "house_no": "247",
+            "candidates": {
+                "1": 143,
+                "2": 397
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "吉祥村",
+            "house_no": "248",
+            "candidates": {
+                "1": 122,
+                "2": 315
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "吉祥村",
+            "house_no": "249",
+            "candidates": {
+                "1": 153,
+                "2": 394
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 903
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林玫伶",
+            "party": "無"
+        },
+        "2": {
+            "name": "藍心妤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "南興里",
+            "house_no": "141",
+            "candidates": {
+                "1": 308,
+                "2": 269
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "新營區",
+            "cunli": "南興里",
+            "house_no": "142",
+            "candidates": {
+                "1": 308,
+                "2": 298
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1141
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉明智",
+            "party": "無"
+        },
+        "2": {
+            "name": "侯忠順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐里里",
+            "house_no": "76",
+            "candidates": {
+                "1": 411,
+                "2": 282
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐里里",
+            "house_no": "77",
+            "candidates": {
+                "1": 464,
+                "2": 316
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1186
+        }
+    ]
+}

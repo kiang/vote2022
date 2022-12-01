@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃培鉅",
+            "party": "無"
+        },
+        "2": {
+            "name": "江堡寬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "港德里",
+            "house_no": "1041",
+            "candidates": {
+                "1": 340,
+                "2": 260
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "板橋區",
+            "cunli": "港德里",
+            "house_no": "1042",
+            "candidates": {
+                "1": 261,
+                "2": 253
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "板橋區",
+            "cunli": "港德里",
+            "house_no": "1043",
+            "candidates": {
+                "1": 258,
+                "2": 184
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 747
+        },
+        {
+            "area": "板橋區",
+            "cunli": "港德里",
+            "house_no": "1044",
+            "candidates": {
+                "1": 317,
+                "2": 355
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1144
+        }
+    ]
+}

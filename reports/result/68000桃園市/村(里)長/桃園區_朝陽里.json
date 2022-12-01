@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊鈺焄",
+            "party": "無"
+        },
+        "2": {
+            "name": "卓正斌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "朝陽里",
+            "house_no": "241",
+            "candidates": {
+                "1": 299,
+                "2": 324
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "桃園區",
+            "cunli": "朝陽里",
+            "house_no": "242",
+            "candidates": {
+                "1": 209,
+                "2": 295
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 898
+        }
+    ]
+}

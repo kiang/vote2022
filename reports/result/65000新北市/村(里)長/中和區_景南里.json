@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡宇辰",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "景南里",
+            "house_no": "1450",
+            "candidates": {
+                "1": 592
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "中和區",
+            "cunli": "景南里",
+            "house_no": "1451",
+            "candidates": {
+                "1": 675
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1384
+        }
+    ]
+}

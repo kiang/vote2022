@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許俊福",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳黃秀美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "田安里",
+            "house_no": "803",
+            "candidates": {
+                "1": 426,
+                "2": 551
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1624
+        },
+        {
+            "area": "三重區",
+            "cunli": "田安里",
+            "house_no": "804",
+            "candidates": {
+                "1": 388,
+                "2": 722
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1897
+        },
+        {
+            "area": "三重區",
+            "cunli": "田安里",
+            "house_no": "805",
+            "candidates": {
+                "1": 251,
+                "2": 701
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1709
+        }
+    ]
+}

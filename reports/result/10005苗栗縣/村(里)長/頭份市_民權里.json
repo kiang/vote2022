@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林賢文",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳瓊榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "民權里",
+            "house_no": "399",
+            "candidates": {
+                "1": 301,
+                "2": 403
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "頭份市",
+            "cunli": "民權里",
+            "house_no": "400",
+            "candidates": {
+                "1": 311,
+                "2": 358
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1092
+        }
+    ]
+}

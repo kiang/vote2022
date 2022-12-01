@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "粟藍倩",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾萬春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "土庫里",
+            "house_no": "1315",
+            "candidates": {
+                "1": 328,
+                "2": 128
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 848
+        },
+        {
+            "area": "西區",
+            "cunli": "土庫里",
+            "house_no": "1316",
+            "candidates": {
+                "1": 371,
+                "2": 183
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "西區",
+            "cunli": "土庫里",
+            "house_no": "1317",
+            "candidates": {
+                "1": 443,
+                "2": 183
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "西區",
+            "cunli": "土庫里",
+            "house_no": "1318",
+            "candidates": {
+                "1": 431,
+                "2": 238
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "西區",
+            "cunli": "土庫里",
+            "house_no": "1319",
+            "candidates": {
+                "1": 398,
+                "2": 208
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1108
+        }
+    ]
+}

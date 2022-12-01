@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姜忠志",
+            "party": "無"
+        },
+        "2": {
+            "name": "姜德楠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "營前里",
+            "house_no": "374",
+            "candidates": {
+                "1": 394,
+                "2": 204
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "下營區",
+            "cunli": "營前里",
+            "house_no": "375",
+            "candidates": {
+                "1": 435,
+                "2": 234
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1024
+        }
+    ]
+}

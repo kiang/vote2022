@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴又媛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "青島里",
+            "house_no": "1829",
+            "candidates": {
+                "1": 621
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "小港區",
+            "cunli": "青島里",
+            "house_no": "1830",
+            "candidates": {
+                "1": 604
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

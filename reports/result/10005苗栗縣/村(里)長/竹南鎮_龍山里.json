@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張世輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳幸順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "龍山里",
+            "house_no": "302",
+            "candidates": {
+                "1": 148,
+                "2": 586
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "龍山里",
+            "house_no": "303",
+            "candidates": {
+                "1": 179,
+                "2": 536
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1135
+        }
+    ]
+}

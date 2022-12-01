@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張美霞",
+            "party": "無"
+        },
+        "2": {
+            "name": "張惠銓",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "光明里",
+            "house_no": "1455",
+            "candidates": {
+                "1": 363,
+                "2": 556
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "大安區",
+            "cunli": "光明里",
+            "house_no": "1456",
+            "candidates": {
+                "1": 429,
+                "2": 527
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1426
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳火生",
+            "party": "無"
+        },
+        "2": {
+            "name": "段炎騰",
+            "party": "無"
+        },
+        "3": {
+            "name": "鐘婕",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東山區",
+            "cunli": "東河里",
+            "house_no": "71",
+            "candidates": {
+                "1": 270,
+                "2": 236,
+                "3": 27
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 794
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉進財",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈騰雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "興平里",
+            "house_no": "910",
+            "candidates": {
+                "1": 329,
+                "2": 460
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興平里",
+            "house_no": "911",
+            "candidates": {
+                "1": 380,
+                "2": 434
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1152
+        }
+    ]
+}

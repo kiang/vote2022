@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張育臺",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "夏文瑞",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建源",
+            "party": "無"
+        },
+        "4": {
+            "name": "尚廉迪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "善美里",
+            "house_no": "1620",
+            "candidates": {
+                "1": 236,
+                "2": 94,
+                "3": 104,
+                "4": 189
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "善美里",
+            "house_no": "1621",
+            "candidates": {
+                "1": 129,
+                "2": 42,
+                "3": 193,
+                "4": 267
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "善美里",
+            "house_no": "1622",
+            "candidates": {
+                "1": 388,
+                "2": 105,
+                "3": 181,
+                "4": 149
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "善美里",
+            "house_no": "1623",
+            "candidates": {
+                "1": 348,
+                "2": 119,
+                "3": 146,
+                "4": 154
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1365
+        }
+    ]
+}

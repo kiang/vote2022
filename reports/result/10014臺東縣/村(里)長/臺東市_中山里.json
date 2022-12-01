@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃啓川",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳金蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "中山里",
+            "house_no": "5",
+            "candidates": {
+                "1": 331,
+                "2": 234
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "臺東市",
+            "cunli": "中山里",
+            "house_no": "6",
+            "candidates": {
+                "1": 227,
+                "2": 326
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 859
+        }
+    ]
+}

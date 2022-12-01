@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝佳秀",
+            "party": "無"
+        },
+        "2": {
+            "name": "周武德",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪嘉璘",
+            "party": "無"
+        },
+        "4": {
+            "name": "江惠珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "南興里",
+            "house_no": "513",
+            "candidates": {
+                "1": 311,
+                "2": 87,
+                "3": 53,
+                "4": 217
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "南興里",
+            "house_no": "514",
+            "candidates": {
+                "1": 306,
+                "2": 159,
+                "3": 37,
+                "4": 275
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "南興里",
+            "house_no": "515",
+            "candidates": {
+                "1": 229,
+                "2": 72,
+                "3": 68,
+                "4": 342
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "南興里",
+            "house_no": "516",
+            "candidates": {
+                "1": 348,
+                "2": 79,
+                "3": 86,
+                "4": 268
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1320
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾雅志",
+            "party": "無"
+        },
+        "2": {
+            "name": "張友馨",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "兌悅里",
+            "house_no": "1104",
+            "candidates": {
+                "1": 301,
+                "2": 317
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "中西區",
+            "cunli": "兌悅里",
+            "house_no": "1105",
+            "candidates": {
+                "1": 344,
+                "2": 313
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "中西區",
+            "cunli": "兌悅里",
+            "house_no": "1106",
+            "candidates": {
+                "1": 456,
+                "2": 279
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

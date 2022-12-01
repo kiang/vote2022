@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "唐志勇",
+            "party": "無"
+        },
+        "2": {
+            "name": "江承翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "東湳里",
+            "house_no": "465",
+            "candidates": {
+                "1": 580,
+                "2": 314
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1423
+        },
+        {
+            "area": "豐原區",
+            "cunli": "東湳里",
+            "house_no": "466",
+            "candidates": {
+                "1": 481,
+                "2": 382
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1322
+        },
+        {
+            "area": "豐原區",
+            "cunli": "東湳里",
+            "house_no": "467",
+            "candidates": {
+                "1": 510,
+                "2": 259
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 1104
+        }
+    ]
+}

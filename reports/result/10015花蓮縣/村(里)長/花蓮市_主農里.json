@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱惠敏",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉冠宏",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "42",
+            "candidates": {
+                "1": 311,
+                "2": 264
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "43",
+            "candidates": {
+                "1": 231,
+                "2": 254
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 859
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "44",
+            "candidates": {
+                "1": 182,
+                "2": 276
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主農里",
+            "house_no": "45",
+            "candidates": {
+                "1": 214,
+                "2": 183
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 737
+        }
+    ]
+}

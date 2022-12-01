@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施義章",
+            "party": "無"
+        },
+        "2": {
+            "name": "張志鵬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔鹽鄉",
+            "cunli": "三省村",
+            "house_no": "736",
+            "candidates": {
+                "1": 199,
+                "2": 262
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 673
+        },
+        {
+            "area": "埔鹽鄉",
+            "cunli": "三省村",
+            "house_no": "737",
+            "candidates": {
+                "1": 160,
+                "2": 244
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 639
+        }
+    ]
+}

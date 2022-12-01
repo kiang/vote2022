@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文慧",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "藍國鐘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "員山里",
+            "house_no": "1506",
+            "candidates": {
+                "1": 317,
+                "2": 468
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "中和區",
+            "cunli": "員山里",
+            "house_no": "1507",
+            "candidates": {
+                "1": 417,
+                "2": 451
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1507
+        },
+        {
+            "area": "中和區",
+            "cunli": "員山里",
+            "house_no": "1508",
+            "candidates": {
+                "1": 290,
+                "2": 525
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "中和區",
+            "cunli": "員山里",
+            "house_no": "1509",
+            "candidates": {
+                "1": 204,
+                "2": 421
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1128
+        }
+    ]
+}

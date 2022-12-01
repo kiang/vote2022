@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王德成",
+            "party": "無"
+        },
+        "2": {
+            "name": "張勝",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳文惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "滿州鄉",
+            "cunli": "滿州村",
+            "house_no": "633",
+            "candidates": {
+                "1": 441,
+                "2": 587,
+                "3": 121
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1472
+        }
+    ]
+}

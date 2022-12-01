@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王本宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡國章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "大厝里",
+            "house_no": "288",
+            "candidates": {
+                "1": 311,
+                "2": 399
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大厝里",
+            "house_no": "289",
+            "candidates": {
+                "1": 333,
+                "2": 418
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大厝里",
+            "house_no": "290",
+            "candidates": {
+                "1": 139,
+                "2": 289
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 635
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大厝里",
+            "house_no": "291",
+            "candidates": {
+                "1": 242,
+                "2": 402
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大厝里",
+            "house_no": "292",
+            "candidates": {
+                "1": 171,
+                "2": 423
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 909
+        }
+    ]
+}

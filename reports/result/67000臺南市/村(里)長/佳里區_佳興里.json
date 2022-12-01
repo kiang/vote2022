@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林黃秋香",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃博亮",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊江進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "佳興里",
+            "house_no": "327",
+            "candidates": {
+                "1": 341,
+                "2": 236,
+                "3": 156
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "佳里區",
+            "cunli": "佳興里",
+            "house_no": "328",
+            "candidates": {
+                "1": 170,
+                "2": 144,
+                "3": 288
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 905
+        }
+    ]
+}

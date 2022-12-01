@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林良文",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林玉崑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "同安里",
+            "house_no": "1254",
+            "candidates": {
+                "1": 407,
+                "2": 242
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "南區",
+            "cunli": "同安里",
+            "house_no": "1255",
+            "candidates": {
+                "1": 403,
+                "2": 202
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

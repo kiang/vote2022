@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳長來",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "仁和里",
+            "house_no": "784",
+            "candidates": {
+                "1": 749
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 1386
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁和里",
+            "house_no": "785",
+            "candidates": {
+                "1": 582
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁和里",
+            "house_no": "786",
+            "candidates": {
+                "1": 444
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 887
+        }
+    ]
+}

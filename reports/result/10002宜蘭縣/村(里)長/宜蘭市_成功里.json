@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊振乾",
+            "party": "無"
+        },
+        "2": {
+            "name": "林傳盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "成功里",
+            "house_no": "44",
+            "candidates": {
+                "1": 256,
+                "2": 212
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 754
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "成功里",
+            "house_no": "45",
+            "candidates": {
+                "1": 398,
+                "2": 268
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "成功里",
+            "house_no": "46",
+            "candidates": {
+                "1": 294,
+                "2": 273
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

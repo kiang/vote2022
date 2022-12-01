@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧易承",
+            "party": "無"
+        },
+        "2": {
+            "name": "林彥呈",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "259",
+            "candidates": {
+                "1": 354,
+                "2": 233
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "260",
+            "candidates": {
+                "1": 353,
+                "2": 288
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "261",
+            "candidates": {
+                "1": 281,
+                "2": 329
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "262",
+            "candidates": {
+                "1": 394,
+                "2": 281
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1146
+        }
+    ]
+}

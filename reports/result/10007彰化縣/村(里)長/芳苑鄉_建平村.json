@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳長居",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳仁恭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "建平村",
+            "house_no": "1058",
+            "candidates": {
+                "1": 267,
+                "2": 416
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "建平村",
+            "house_no": "1059",
+            "candidates": {
+                "1": 225,
+                "2": 297
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 912
+        }
+    ]
+}

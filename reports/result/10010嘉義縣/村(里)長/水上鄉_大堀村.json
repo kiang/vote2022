@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃存吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "凃文卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "大堀村",
+            "house_no": "75",
+            "candidates": {
+                "1": 176,
+                "2": 284
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 603
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "大堀村",
+            "house_no": "76",
+            "candidates": {
+                "1": 329,
+                "2": 137
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 626
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "大堀村",
+            "house_no": "77",
+            "candidates": {
+                "1": 109,
+                "2": 145
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 347
+        }
+    ]
+}

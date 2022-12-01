@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林興家",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾紘彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "335",
+            "candidates": {
+                "1": 363,
+                "2": 377
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1297
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "336",
+            "candidates": {
+                "1": 424,
+                "2": 330
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "337",
+            "candidates": {
+                "1": 309,
+                "2": 383
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1164
+        }
+    ]
+}

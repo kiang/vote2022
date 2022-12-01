@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏新世",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭秉鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "天興里",
+            "house_no": "1634",
+            "candidates": {
+                "1": 255,
+                "2": 368
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "天興里",
+            "house_no": "1635",
+            "candidates": {
+                "1": 308,
+                "2": 327
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "天興里",
+            "house_no": "1636",
+            "candidates": {
+                "1": 323,
+                "2": 350
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

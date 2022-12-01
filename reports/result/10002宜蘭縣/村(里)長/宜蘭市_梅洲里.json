@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游西湖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "梅洲里",
+            "house_no": "73",
+            "candidates": {
+                "1": 442
+            },
+            "count_wrong": 159,
+            "count_unused": 0,
+            "count_total": 923
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "梅洲里",
+            "house_no": "74",
+            "candidates": {
+                "1": 590
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "梅洲里",
+            "house_no": "75",
+            "candidates": {
+                "1": 515
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 973
+        }
+    ]
+}

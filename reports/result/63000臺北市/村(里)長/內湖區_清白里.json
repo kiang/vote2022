@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱瑞蓮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳東源",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "清白里",
+            "house_no": "418",
+            "candidates": {
+                "1": 449,
+                "2": 527
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1422
+        },
+        {
+            "area": "內湖區",
+            "cunli": "清白里",
+            "house_no": "419",
+            "candidates": {
+                "1": 436,
+                "2": 563
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1411
+        },
+        {
+            "area": "內湖區",
+            "cunli": "清白里",
+            "house_no": "420",
+            "candidates": {
+                "1": 437,
+                "2": 576
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1481
+        },
+        {
+            "area": "內湖區",
+            "cunli": "清白里",
+            "house_no": "421",
+            "candidates": {
+                "1": 416,
+                "2": 443
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "內湖區",
+            "cunli": "清白里",
+            "house_no": "422",
+            "candidates": {
+                "1": 388,
+                "2": 491
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1265
+        }
+    ]
+}

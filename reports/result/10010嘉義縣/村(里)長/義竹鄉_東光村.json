@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙崇福",
+            "party": "無"
+        },
+        "2": {
+            "name": "丁貫昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "東光村",
+            "house_no": "406",
+            "candidates": {
+                "1": 222,
+                "2": 192
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 548
+        },
+        {
+            "area": "義竹鄉",
+            "cunli": "東光村",
+            "house_no": "407",
+            "candidates": {
+                "1": 51,
+                "2": 31
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 127
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李謝素珍",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "高經綸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "太平里",
+            "house_no": "2251",
+            "candidates": {
+                "1": 285,
+                "2": 227
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 870
+        },
+        {
+            "area": "新店區",
+            "cunli": "太平里",
+            "house_no": "2252",
+            "candidates": {
+                "1": 295,
+                "2": 252
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "新店區",
+            "cunli": "太平里",
+            "house_no": "2253",
+            "candidates": {
+                "1": 266,
+                "2": 193
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

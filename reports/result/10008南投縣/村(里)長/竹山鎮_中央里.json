@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林惠仕",
+            "party": "無"
+        },
+        "2": {
+            "name": "江沅儒",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊錦川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "中央里",
+            "house_no": "269",
+            "candidates": {
+                "1": 334,
+                "2": 101,
+                "3": 344
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 1081
+        }
+    ]
+}

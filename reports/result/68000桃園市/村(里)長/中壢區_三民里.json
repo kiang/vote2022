@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳富豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉邦奎",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱威霖",
+            "party": "無"
+        },
+        "4": {
+            "name": "江長科",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "三民里",
+            "house_no": "930",
+            "candidates": {
+                "1": 331,
+                "2": 250,
+                "3": 246,
+                "4": 160
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1536
+        },
+        {
+            "area": "中壢區",
+            "cunli": "三民里",
+            "house_no": "931",
+            "candidates": {
+                "1": 393,
+                "2": 374,
+                "3": 213,
+                "4": 42
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1619
+        }
+    ]
+}

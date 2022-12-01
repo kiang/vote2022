@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建市",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "盧勝杰",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴孟琤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "大社里",
+            "house_no": "805",
+            "candidates": {
+                "1": 220,
+                "2": 140,
+                "3": 189
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 821
+        }
+    ]
+}

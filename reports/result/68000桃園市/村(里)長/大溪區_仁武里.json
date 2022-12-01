@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱詠峻",
+            "party": "無"
+        },
+        "2": {
+            "name": "章志偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "仁武里",
+            "house_no": "682",
+            "candidates": {
+                "1": 716,
+                "2": 277
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1688
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁武里",
+            "house_no": "683",
+            "candidates": {
+                "1": 590,
+                "2": 214
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1385
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯百倡",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭正旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿草鄉",
+            "cunli": "豊稠村",
+            "house_no": "46",
+            "candidates": {
+                "1": 154,
+                "2": 83
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 309
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "豊稠村",
+            "house_no": "47",
+            "candidates": {
+                "1": 96,
+                "2": 14
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 381
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳木生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "圳前里",
+            "house_no": "569",
+            "candidates": {
+                "1": 688
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1206
+        },
+        {
+            "area": "神岡區",
+            "cunli": "圳前里",
+            "house_no": "570",
+            "candidates": {
+                "1": 464
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 963
+        }
+    ]
+}

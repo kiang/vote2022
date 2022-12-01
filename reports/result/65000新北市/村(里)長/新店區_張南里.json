@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林國榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "張南里",
+            "house_no": "2138",
+            "candidates": {
+                "1": 430
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 775
+        },
+        {
+            "area": "新店區",
+            "cunli": "張南里",
+            "house_no": "2139",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1275
+        }
+    ]
+}

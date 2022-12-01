@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李警誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾鳳美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "盛興里",
+            "house_no": "1717",
+            "candidates": {
+                "1": 207,
+                "2": 528
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "盛興里",
+            "house_no": "1718",
+            "candidates": {
+                "1": 254,
+                "2": 418
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1202
+        }
+    ]
+}

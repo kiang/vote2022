@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉瓖瑩",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳玉梅",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "慶昌里",
+            "house_no": "553",
+            "candidates": {
+                "1": 178,
+                "2": 429
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "慶昌里",
+            "house_no": "554",
+            "candidates": {
+                "1": 119,
+                "2": 428
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "慶昌里",
+            "house_no": "555",
+            "candidates": {
+                "1": 147,
+                "2": 391
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 954
+        }
+    ]
+}

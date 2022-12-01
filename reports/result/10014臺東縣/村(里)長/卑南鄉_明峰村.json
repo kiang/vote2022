@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳冠宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳勝雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "明峰村",
+            "house_no": "125",
+            "candidates": {
+                "1": 189,
+                "2": 273
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 683
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "明峰村",
+            "house_no": "126",
+            "candidates": {
+                "1": 95,
+                "2": 151
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 397
+        }
+    ]
+}

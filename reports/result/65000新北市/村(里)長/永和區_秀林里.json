@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宏達",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "秀林里",
+            "house_no": "1659",
+            "candidates": {
+                "1": 760
+            },
+            "count_wrong": 233,
+            "count_unused": 0,
+            "count_total": 1639
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀林里",
+            "house_no": "1660",
+            "candidates": {
+                "1": 781
+            },
+            "count_wrong": 192,
+            "count_unused": 3,
+            "count_total": 1632
+        }
+    ]
+}

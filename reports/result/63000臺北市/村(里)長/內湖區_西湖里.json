@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林正雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃俊隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "西湖里",
+            "house_no": "352",
+            "candidates": {
+                "1": 373,
+                "2": 357
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西湖里",
+            "house_no": "353",
+            "candidates": {
+                "1": 296,
+                "2": 416
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西湖里",
+            "house_no": "354",
+            "candidates": {
+                "1": 401,
+                "2": 394
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西湖里",
+            "house_no": "355",
+            "candidates": {
+                "1": 330,
+                "2": 458
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西湖里",
+            "house_no": "356",
+            "candidates": {
+                "1": 319,
+                "2": 498
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1194
+        }
+    ]
+}

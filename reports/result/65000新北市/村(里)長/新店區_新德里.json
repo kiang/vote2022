@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚淞哲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳炳漢",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃林鳳嬌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "新德里",
+            "house_no": "2155",
+            "candidates": {
+                "1": 99,
+                "2": 315,
+                "3": 272
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "新店區",
+            "cunli": "新德里",
+            "house_no": "2156",
+            "candidates": {
+                "1": 98,
+                "2": 330,
+                "3": 247
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1113
+        }
+    ]
+}

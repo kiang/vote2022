@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李國鈿",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐賢妹",
+            "party": "無"
+        },
+        "3": {
+            "name": "孫鏗信",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東山里",
+            "house_no": "37",
+            "candidates": {
+                "1": 114,
+                "2": 190,
+                "3": 213
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "東區",
+            "cunli": "東山里",
+            "house_no": "38",
+            "candidates": {
+                "1": 156,
+                "2": 182,
+                "3": 236
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "東區",
+            "cunli": "東山里",
+            "house_no": "39",
+            "candidates": {
+                "1": 158,
+                "2": 169,
+                "3": 330
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1015
+        }
+    ]
+}

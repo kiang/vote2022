@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王青偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "周賢良",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "粗坑里",
+            "house_no": "2348",
+            "candidates": {
+                "1": 117,
+                "2": 235
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 578
+        },
+        {
+            "area": "新店區",
+            "cunli": "粗坑里",
+            "house_no": "2349",
+            "candidates": {
+                "1": 347,
+                "2": 203
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "新店區",
+            "cunli": "粗坑里",
+            "house_no": "2350",
+            "candidates": {
+                "1": 440,
+                "2": 170
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1088
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王淑美",
+            "party": "無"
+        },
+        "2": {
+            "name": "王明文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安吉里",
+            "house_no": "1141",
+            "candidates": {
+                "1": 277,
+                "2": 395
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "三民區",
+            "cunli": "安吉里",
+            "house_no": "1142",
+            "candidates": {
+                "1": 369,
+                "2": 586
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1604
+        },
+        {
+            "area": "三民區",
+            "cunli": "安吉里",
+            "house_no": "1143",
+            "candidates": {
+                "1": 344,
+                "2": 510
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1469
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳燕花",
+            "party": "無"
+        },
+        "2": {
+            "name": "湯春蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三灣鄉",
+            "cunli": "三灣村",
+            "house_no": "416",
+            "candidates": {
+                "1": 125,
+                "2": 111,
+                "3": 53,
+                "4": 130,
+                "5": 129,
+                "6": 7,
+                "7": 157
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "三灣村",
+            "house_no": "417",
+            "candidates": {
+                "1": 193,
+                "2": 142,
+                "3": 68,
+                "4": 120,
+                "5": 114,
+                "6": 13,
+                "7": 214
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "內灣村",
+            "house_no": "418",
+            "candidates": {
+                "1": 57,
+                "2": 56,
+                "3": 41,
+                "4": 151,
+                "5": 109,
+                "6": 1,
+                "7": 47
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 592
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "銅鏡村",
+            "house_no": "419",
+            "candidates": {
+                "1": 27,
+                "2": 44,
+                "3": 269,
+                "4": 184,
+                "5": 31,
+                "6": 12,
+                "7": 39
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 784
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐耀青",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃榮龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉星秀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "楊梅里",
+            "house_no": "1147",
+            "candidates": {
+                "1": 299,
+                "2": 56,
+                "3": 445
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊梅里",
+            "house_no": "1148",
+            "candidates": {
+                "1": 308,
+                "2": 56,
+                "3": 364
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "楊梅里",
+            "house_no": "1149",
+            "candidates": {
+                "1": 282,
+                "2": 64,
+                "3": 366
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1143
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳寶燕",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蕭國添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "林興里",
+            "house_no": "1223",
+            "candidates": {
+                "1": 477,
+                "2": 103
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "中正區",
+            "cunli": "林興里",
+            "house_no": "1224",
+            "candidates": {
+                "1": 433,
+                "2": 104
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "中正區",
+            "cunli": "林興里",
+            "house_no": "1225",
+            "candidates": {
+                "1": 611,
+                "2": 55
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "中正區",
+            "cunli": "林興里",
+            "house_no": "1226",
+            "candidates": {
+                "1": 472,
+                "2": 80
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 821
+        }
+    ]
+}

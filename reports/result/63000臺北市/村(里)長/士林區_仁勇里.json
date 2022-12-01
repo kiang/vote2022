@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇文山",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴麗萍",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪銘鎮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "仁勇里",
+            "house_no": "170",
+            "candidates": {
+                "1": 135,
+                "2": 82,
+                "3": 511
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "士林區",
+            "cunli": "仁勇里",
+            "house_no": "171",
+            "candidates": {
+                "1": 119,
+                "2": 61,
+                "3": 480
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "士林區",
+            "cunli": "仁勇里",
+            "house_no": "172",
+            "candidates": {
+                "1": 153,
+                "2": 73,
+                "3": 535
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

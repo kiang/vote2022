@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林聖峰",
+            "party": "天宙和平統一家庭黨"
+        },
+        "2": {
+            "name": "李珮緁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "文林里",
+            "house_no": "4",
+            "candidates": {
+                "1": 272,
+                "2": 436
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "北投區",
+            "cunli": "文林里",
+            "house_no": "5",
+            "candidates": {
+                "1": 302,
+                "2": 497
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "北投區",
+            "cunli": "文林里",
+            "house_no": "6",
+            "candidates": {
+                "1": 271,
+                "2": 489
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1145
+        }
+    ]
+}

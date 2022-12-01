@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳志弘",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯玉堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "賀建里",
+            "house_no": "383",
+            "candidates": {
+                "1": 174,
+                "2": 287
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 625
+        },
+        {
+            "area": "下營區",
+            "cunli": "賀建里",
+            "house_no": "384",
+            "candidates": {
+                "1": 216,
+                "2": 193
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 572
+        }
+    ]
+}

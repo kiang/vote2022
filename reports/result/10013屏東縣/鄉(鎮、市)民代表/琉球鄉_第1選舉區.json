@@ -1,0 +1,67 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳癸宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪良輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳坤憲",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳慶豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "琉球鄉",
+            "cunli": "本福村",
+            "house_no": "611",
+            "candidates": {
+                "1": 116,
+                "2": 261,
+                "3": 24,
+                "4": 154,
+                "5": 148
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "本福村",
+            "house_no": "612",
+            "candidates": {
+                "1": 206,
+                "2": 232,
+                "3": 28,
+                "4": 149,
+                "5": 76
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "中福村",
+            "house_no": "613",
+            "candidates": {
+                "1": 85,
+                "2": 286,
+                "3": 95,
+                "4": 161,
+                "5": 257
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田成伍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "同仁村",
+            "house_no": "447",
+            "candidates": {
+                "1": 680
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "同仁村",
+            "house_no": "448",
+            "candidates": {
+                "1": 346
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 622
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳連對",
+            "party": "無"
+        },
+        "2": {
+            "name": "林森發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "海豐村",
+            "house_no": "16",
+            "candidates": {
+                "1": 463,
+                "2": 290
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "海豐村",
+            "house_no": "17",
+            "candidates": {
+                "1": 482,
+                "2": 119
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

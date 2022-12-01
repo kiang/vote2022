@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王鎭樑",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐燕宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "中嵙里",
+            "house_no": "1804",
+            "candidates": {
+                "1": 337,
+                "2": 203
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "東勢區",
+            "cunli": "中嵙里",
+            "house_no": "1805",
+            "candidates": {
+                "1": 339,
+                "2": 249
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 932
+        }
+    ]
+}

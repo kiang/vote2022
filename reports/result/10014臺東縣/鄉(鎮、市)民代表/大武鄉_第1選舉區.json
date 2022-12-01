@@ -1,0 +1,124 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭振雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯玉英",
+            "party": "無"
+        },
+        "3": {
+            "name": "高龎自強",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡宇嫻",
+            "party": "無"
+        },
+        "5": {
+            "name": "王一山",
+            "party": "無"
+        },
+        "6": {
+            "name": "金勝男",
+            "party": "無"
+        },
+        "7": {
+            "name": "高春花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大武鄉",
+            "cunli": "南興村",
+            "house_no": "199",
+            "candidates": {
+                "1": 106,
+                "2": 16,
+                "3": 2,
+                "4": 23,
+                "5": 39
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 259
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "尚武村",
+            "house_no": "200",
+            "candidates": {
+                "1": 204,
+                "2": 87,
+                "3": 15,
+                "4": 158,
+                "5": 204
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大武村",
+            "house_no": "201",
+            "candidates": {
+                "1": 116,
+                "2": 148,
+                "3": 40,
+                "4": 170,
+                "5": 37
+            },
+            "count_wrong": 10,
+            "count_unused": 1,
+            "count_total": 744
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大鳥村",
+            "house_no": "202",
+            "candidates": {
+                "1": 25,
+                "2": 11,
+                "3": 3,
+                "4": 13,
+                "5": 4
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 83
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大竹村",
+            "house_no": "203",
+            "candidates": {
+                "1": 7,
+                "2": 8,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 24
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大竹村",
+            "house_no": "204",
+            "candidates": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 11,
+                "5": 18
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 66
+        }
+    ]
+}

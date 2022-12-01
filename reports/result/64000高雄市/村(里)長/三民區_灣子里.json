@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方相茗",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉建志",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝龍江",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "灣子里",
+            "house_no": "1105",
+            "candidates": {
+                "1": 461,
+                "2": 219,
+                "3": 22
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣子里",
+            "house_no": "1106",
+            "candidates": {
+                "1": 426,
+                "2": 240,
+                "3": 38
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣子里",
+            "house_no": "1107",
+            "candidates": {
+                "1": 346,
+                "2": 226,
+                "3": 27
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1233
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳查某",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾銪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "聯合里",
+            "house_no": "439",
+            "candidates": {
+                "1": 297,
+                "2": 154
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 688
+        },
+        {
+            "area": "后里區",
+            "cunli": "聯合里",
+            "house_no": "440",
+            "candidates": {
+                "1": 360,
+                "2": 172
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 827
+        }
+    ]
+}

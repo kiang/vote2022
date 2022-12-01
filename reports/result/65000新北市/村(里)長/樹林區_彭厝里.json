@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭永全",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭月霞",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳燕華",
+            "party": "無"
+        },
+        "4": {
+            "name": "蕭廷輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "彭厝里",
+            "house_no": "1819",
+            "candidates": {
+                "1": 95,
+                "2": 246,
+                "3": 68,
+                "4": 399
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "樹林區",
+            "cunli": "彭厝里",
+            "house_no": "1820",
+            "candidates": {
+                "1": 96,
+                "2": 240,
+                "3": 55,
+                "4": 351
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1477
+        },
+        {
+            "area": "樹林區",
+            "cunli": "彭厝里",
+            "house_no": "1821",
+            "candidates": {
+                "1": 119,
+                "2": 266,
+                "3": 42,
+                "4": 267
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1293
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳樹根",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉怡慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "導明里",
+            "house_no": "160",
+            "candidates": {
+                "1": 74,
+                "2": 370
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 690
+        },
+        {
+            "area": "西區",
+            "cunli": "導明里",
+            "house_no": "161",
+            "candidates": {
+                "1": 142,
+                "2": 319
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 745
+        }
+    ]
+}

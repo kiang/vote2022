@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳伯同",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "天壽里",
+            "house_no": "316",
+            "candidates": {
+                "1": 708
+            },
+            "count_wrong": 183,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "士林區",
+            "cunli": "天壽里",
+            "house_no": "317",
+            "candidates": {
+                "1": 661
+            },
+            "count_wrong": 141,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "士林區",
+            "cunli": "天壽里",
+            "house_no": "318",
+            "candidates": {
+                "1": 776
+            },
+            "count_wrong": 130,
+            "count_unused": 0,
+            "count_total": 1376
+        }
+    ]
+}

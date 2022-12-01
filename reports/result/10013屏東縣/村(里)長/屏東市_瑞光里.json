@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊新濤",
+            "party": "無"
+        },
+        "2": {
+            "name": "盧逸洋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "瑞光里",
+            "house_no": "31",
+            "candidates": {
+                "1": 301,
+                "2": 410
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "屏東市",
+            "cunli": "瑞光里",
+            "house_no": "32",
+            "candidates": {
+                "1": 266,
+                "2": 493
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1384
+        },
+        {
+            "area": "屏東市",
+            "cunli": "瑞光里",
+            "house_no": "33",
+            "candidates": {
+                "1": 298,
+                "2": 464
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1417
+        },
+        {
+            "area": "屏東市",
+            "cunli": "瑞光里",
+            "house_no": "34",
+            "candidates": {
+                "1": 281,
+                "2": 396
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "屏東市",
+            "cunli": "瑞光里",
+            "house_no": "35",
+            "candidates": {
+                "1": 320,
+                "2": 450
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

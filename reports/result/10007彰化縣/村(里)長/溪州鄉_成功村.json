@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋新見",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳位吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "成功村",
+            "house_no": "960",
+            "candidates": {
+                "1": 314,
+                "2": 266
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "成功村",
+            "house_no": "961",
+            "candidates": {
+                "1": 151,
+                "2": 374
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 826
+        }
+    ]
+}

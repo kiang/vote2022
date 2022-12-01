@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏秀春",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉豐田",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "波羅村",
+            "house_no": "303",
+            "candidates": {
+                "1": 246,
+                "2": 366
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "波羅村",
+            "house_no": "304",
+            "candidates": {
+                "1": 151,
+                "2": 442
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1082
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金鑾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "佳興里",
+            "house_no": "312",
+            "candidates": {
+                "1": 565
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "佳興里",
+            "house_no": "313",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "佳興里",
+            "house_no": "314",
+            "candidates": {
+                "1": 485
+            },
+            "count_wrong": 90,
+            "count_unused": 1,
+            "count_total": 972
+        }
+    ]
+}

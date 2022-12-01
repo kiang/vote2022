@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林明君",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈合成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "新崙里",
+            "house_no": "581",
+            "candidates": {
+                "1": 184,
+                "2": 355
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "新崙里",
+            "house_no": "582",
+            "candidates": {
+                "1": 164,
+                "2": 277
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 613
+        }
+    ]
+}

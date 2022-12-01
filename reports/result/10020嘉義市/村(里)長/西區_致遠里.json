@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋燕生",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王至善",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "致遠里",
+            "house_no": "157",
+            "candidates": {
+                "1": 322,
+                "2": 119
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "西區",
+            "cunli": "致遠里",
+            "house_no": "158",
+            "candidates": {
+                "1": 352,
+                "2": 100
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 837
+        }
+    ]
+}

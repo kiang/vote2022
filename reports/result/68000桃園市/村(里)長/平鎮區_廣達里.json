@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅富美",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄒碧珠",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃坤圳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "廣達里",
+            "house_no": "1015",
+            "candidates": {
+                "1": 94,
+                "2": 400,
+                "3": 351
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣達里",
+            "house_no": "1016",
+            "candidates": {
+                "1": 68,
+                "2": 365,
+                "3": 348
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣達里",
+            "house_no": "1017",
+            "candidates": {
+                "1": 44,
+                "2": 363,
+                "3": 422
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

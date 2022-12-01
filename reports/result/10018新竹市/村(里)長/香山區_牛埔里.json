@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡黃棟",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳炳焜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "牛埔里",
+            "house_no": "303",
+            "candidates": {
+                "1": 362,
+                "2": 230
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "香山區",
+            "cunli": "牛埔里",
+            "house_no": "304",
+            "candidates": {
+                "1": 438,
+                "2": 120
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "香山區",
+            "cunli": "牛埔里",
+            "house_no": "305",
+            "candidates": {
+                "1": 317,
+                "2": 250
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "香山區",
+            "cunli": "牛埔里",
+            "house_no": "306",
+            "candidates": {
+                "1": 437,
+                "2": 215
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

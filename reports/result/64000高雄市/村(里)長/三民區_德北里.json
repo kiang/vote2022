@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭雄仁",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "李仁祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "德北里",
+            "house_no": "1178",
+            "candidates": {
+                "1": 353,
+                "2": 367
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "三民區",
+            "cunli": "德北里",
+            "house_no": "1179",
+            "candidates": {
+                "1": 230,
+                "2": 271
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 839
+        }
+    ]
+}

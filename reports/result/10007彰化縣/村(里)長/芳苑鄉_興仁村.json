@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林家裕",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇輝煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "興仁村",
+            "house_no": "1050",
+            "candidates": {
+                "1": 177,
+                "2": 192
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 552
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "興仁村",
+            "house_no": "1051",
+            "candidates": {
+                "1": 144,
+                "2": 289
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 680
+        }
+    ]
+}

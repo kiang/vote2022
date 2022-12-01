@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曹震西",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "東北里",
+            "house_no": "520",
+            "candidates": {
+                "1": 617
+            },
+            "count_wrong": 58,
+            "count_unused": 2,
+            "count_total": 995
+        },
+        {
+            "area": "員林市",
+            "cunli": "東北里",
+            "house_no": "521",
+            "candidates": {
+                "1": 622
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1159
+        }
+    ]
+}

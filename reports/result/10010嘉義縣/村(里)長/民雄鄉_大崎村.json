@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴憲隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳谷全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "大崎村",
+            "house_no": "140",
+            "candidates": {
+                "1": 112,
+                "2": 448
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 973
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "大崎村",
+            "house_no": "141",
+            "candidates": {
+                "1": 113,
+                "2": 673
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1296
+        }
+    ]
+}

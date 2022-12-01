@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡忠明",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱鴻星",
+            "party": "無"
+        },
+        "3": {
+            "name": "王金龍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "延平鄉",
+            "cunli": "武陵村",
+            "house_no": "218",
+            "candidates": {
+                "1": 163,
+                "2": 155,
+                "3": 79
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 572
+        }
+    ]
+}

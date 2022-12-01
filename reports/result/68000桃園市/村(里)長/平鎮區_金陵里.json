@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅羽涵",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊育勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "金陵里",
+            "house_no": "1070",
+            "candidates": {
+                "1": 435,
+                "2": 405
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "金陵里",
+            "house_no": "1071",
+            "candidates": {
+                "1": 471,
+                "2": 508
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1425
+        }
+    ]
+}

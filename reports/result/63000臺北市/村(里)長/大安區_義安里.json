@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉威志",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "彭麗美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "義安里",
+            "house_no": "1483",
+            "candidates": {
+                "1": 351,
+                "2": 312
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "大安區",
+            "cunli": "義安里",
+            "house_no": "1484",
+            "candidates": {
+                "1": 348,
+                "2": 276
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "大安區",
+            "cunli": "義安里",
+            "house_no": "1485",
+            "candidates": {
+                "1": 337,
+                "2": 317
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "大安區",
+            "cunli": "義安里",
+            "house_no": "1486",
+            "candidates": {
+                "1": 354,
+                "2": 276
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1031
+        }
+    ]
+}

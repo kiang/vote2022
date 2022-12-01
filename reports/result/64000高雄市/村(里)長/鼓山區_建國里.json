@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱淑惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "許分薰",
+            "party": "無"
+        },
+        "3": {
+            "name": "林福祥",
+            "party": "無"
+        },
+        "4": {
+            "name": "張正強",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鼓山區",
+            "cunli": "建國里",
+            "house_no": "874",
+            "candidates": {
+                "1": 112,
+                "2": 144,
+                "3": 335,
+                "4": 150
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "鼓山區",
+            "cunli": "建國里",
+            "house_no": "875",
+            "candidates": {
+                "1": 106,
+                "2": 243,
+                "3": 287,
+                "4": 100
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1182
+        }
+    ]
+}

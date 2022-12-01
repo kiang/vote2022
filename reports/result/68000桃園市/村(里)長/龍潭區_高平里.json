@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇朝文",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅盛添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "高平里",
+            "house_no": "1271",
+            "candidates": {
+                "1": 634,
+                "2": 378
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1558
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "高平里",
+            "house_no": "1272",
+            "candidates": {
+                "1": 485,
+                "2": 453
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1503
+        }
+    ]
+}

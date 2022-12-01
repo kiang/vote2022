@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂武雄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "周火旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "壽南里",
+            "house_no": "1458",
+            "candidates": {
+                "1": 470,
+                "2": 266
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "中和區",
+            "cunli": "壽南里",
+            "house_no": "1459",
+            "candidates": {
+                "1": 318,
+                "2": 281
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

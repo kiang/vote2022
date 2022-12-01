@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林幹國",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱世煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麟洛鄉",
+            "cunli": "麟蹄村",
+            "house_no": "323",
+            "candidates": {
+                "1": 185,
+                "2": 247
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "麟洛鄉",
+            "cunli": "麟蹄村",
+            "house_no": "324",
+            "candidates": {
+                "1": 231,
+                "2": 291
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 754
+        }
+    ]
+}

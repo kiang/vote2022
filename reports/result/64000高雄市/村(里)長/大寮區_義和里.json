@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃齡誼",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉志陽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "義和里",
+            "house_no": "1961",
+            "candidates": {
+                "1": 116,
+                "2": 469
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "大寮區",
+            "cunli": "義和里",
+            "house_no": "1962",
+            "candidates": {
+                "1": 131,
+                "2": 603
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1204
+        }
+    ]
+}

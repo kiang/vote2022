@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑞華",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鎮洋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "前港里",
+            "house_no": "205",
+            "candidates": {
+                "1": 615,
+                "2": 214
+            },
+            "count_wrong": 33,
+            "count_unused": 1,
+            "count_total": 1249
+        },
+        {
+            "area": "士林區",
+            "cunli": "前港里",
+            "house_no": "206",
+            "candidates": {
+                "1": 586,
+                "2": 226
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "士林區",
+            "cunli": "前港里",
+            "house_no": "207",
+            "candidates": {
+                "1": 521,
+                "2": 134
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1043
+        }
+    ]
+}

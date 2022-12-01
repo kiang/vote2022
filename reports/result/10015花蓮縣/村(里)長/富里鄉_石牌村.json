@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅文達",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳裕達",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊文慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "富里鄉",
+            "cunli": "石牌村",
+            "house_no": "316",
+            "candidates": {
+                "1": 64,
+                "2": 343,
+                "3": 153
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 836
+        }
+    ]
+}

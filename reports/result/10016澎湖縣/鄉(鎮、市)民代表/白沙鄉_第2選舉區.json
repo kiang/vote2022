@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉慶祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "林宗順",
+            "party": "無"
+        },
+        "3": {
+            "name": "許高福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白沙鄉",
+            "cunli": "岐頭村",
+            "house_no": "82",
+            "candidates": {
+                "1": 32,
+                "2": 14,
+                "3": 29,
+                "4": 15
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 203
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "小赤村",
+            "house_no": "83",
+            "candidates": {
+                "1": 14,
+                "2": 41,
+                "3": 47,
+                "4": 13
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 156
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "赤崁村",
+            "house_no": "84",
+            "candidates": {
+                "1": 58,
+                "2": 186,
+                "3": 252,
+                "4": 140
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "赤崁村",
+            "house_no": "85",
+            "candidates": {
+                "1": 31,
+                "2": 154,
+                "3": 132,
+                "4": 131
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 742
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "瓦硐村",
+            "house_no": "86",
+            "candidates": {
+                "1": 31,
+                "2": 102,
+                "3": 60,
+                "4": 32
+            },
+            "count_wrong": 5,
+            "count_unused": 1,
+            "count_total": 315
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "鳥嶼村",
+            "house_no": "90",
+            "candidates": {
+                "1": 338,
+                "2": 80,
+                "3": 56,
+                "4": 76
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "員貝村",
+            "house_no": "91",
+            "candidates": {
+                "1": 64,
+                "2": 24,
+                "3": 38,
+                "4": 24
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 267
+        }
+    ]
+}

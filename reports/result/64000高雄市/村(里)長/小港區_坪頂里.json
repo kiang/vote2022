@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李佳銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁憲宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "坪頂里",
+            "house_no": "1853",
+            "candidates": {
+                "1": 131,
+                "2": 507
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "小港區",
+            "cunli": "坪頂里",
+            "house_no": "1854",
+            "candidates": {
+                "1": 138,
+                "2": 448
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "小港區",
+            "cunli": "坪頂里",
+            "house_no": "1855",
+            "candidates": {
+                "1": 119,
+                "2": 526
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1132
+        },
+        {
+            "area": "小港區",
+            "cunli": "坪頂里",
+            "house_no": "1856",
+            "candidates": {
+                "1": 127,
+                "2": 439
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "小港區",
+            "cunli": "坪頂里",
+            "house_no": "1857",
+            "candidates": {
+                "1": 207,
+                "2": 439
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1334
+        }
+    ]
+}

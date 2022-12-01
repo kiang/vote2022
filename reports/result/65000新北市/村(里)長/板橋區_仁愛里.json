@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周建興",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉中正",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "仁愛里",
+            "house_no": "1265",
+            "candidates": {
+                "1": 209,
+                "2": 364
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 820
+        },
+        {
+            "area": "板橋區",
+            "cunli": "仁愛里",
+            "house_no": "1266",
+            "candidates": {
+                "1": 259,
+                "2": 293
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "板橋區",
+            "cunli": "仁愛里",
+            "house_no": "1267",
+            "candidates": {
+                "1": 267,
+                "2": 316
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 902
+        }
+    ]
+}

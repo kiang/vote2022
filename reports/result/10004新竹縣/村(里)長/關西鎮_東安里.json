@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林廷海",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝進全",
+            "party": "無"
+        },
+        "3": {
+            "name": "梁永明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關西鎮",
+            "cunli": "東安里",
+            "house_no": "258",
+            "candidates": {
+                "1": 173,
+                "2": 386,
+                "3": 144
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "東安里",
+            "house_no": "259",
+            "candidates": {
+                "1": 145,
+                "2": 451,
+                "3": 210
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "東安里",
+            "house_no": "260",
+            "candidates": {
+                "1": 89,
+                "2": 525,
+                "3": 150
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1220
+        }
+    ]
+}

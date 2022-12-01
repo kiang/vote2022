@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧嘉瑩",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏錦添",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "邱永双",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "191",
+            "candidates": {
+                "1": 199,
+                "2": 177,
+                "3": 188
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "192",
+            "candidates": {
+                "1": 177,
+                "2": 251,
+                "3": 91
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "193",
+            "candidates": {
+                "1": 181,
+                "2": 249,
+                "3": 130
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "194",
+            "candidates": {
+                "1": 203,
+                "2": 199,
+                "3": 144
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1087
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "東昌村",
+            "house_no": "195",
+            "candidates": {
+                "1": 196,
+                "2": 216,
+                "3": 183
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1214
+        }
+    ]
+}

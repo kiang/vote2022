@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉富耀",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳振邦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "內埔村",
+            "house_no": "432",
+            "candidates": {
+                "1": 240,
+                "2": 387
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "內埔村",
+            "house_no": "433",
+            "candidates": {
+                "1": 276,
+                "2": 388
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "內埔村",
+            "house_no": "434",
+            "candidates": {
+                "1": 269,
+                "2": 445
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1426
+        }
+    ]
+}

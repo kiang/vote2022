@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃秋雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "墾地里",
+            "house_no": "171",
+            "candidates": {
+                "1": 512
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "墾地里",
+            "house_no": "172",
+            "candidates": {
+                "1": 419
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

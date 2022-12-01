@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李國民",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "朝陽里",
+            "house_no": "1107",
+            "candidates": {
+                "1": 301,
+                "2": 310
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "板橋區",
+            "cunli": "朝陽里",
+            "house_no": "1108",
+            "candidates": {
+                "1": 257,
+                "2": 270
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 838
+        },
+        {
+            "area": "板橋區",
+            "cunli": "朝陽里",
+            "house_no": "1109",
+            "candidates": {
+                "1": 266,
+                "2": 361
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

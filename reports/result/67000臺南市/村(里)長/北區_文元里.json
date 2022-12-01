@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳丞軒",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳春美",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "文元里",
+            "house_no": "1042",
+            "candidates": {
+                "1": 265,
+                "2": 270
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "北區",
+            "cunli": "文元里",
+            "house_no": "1043",
+            "candidates": {
+                "1": 333,
+                "2": 340
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "北區",
+            "cunli": "文元里",
+            "house_no": "1044",
+            "candidates": {
+                "1": 268,
+                "2": 293
+            },
+            "count_wrong": 5,
+            "count_unused": 8,
+            "count_total": 1033
+        }
+    ]
+}

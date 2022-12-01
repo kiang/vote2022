@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃玉鄰",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "洪耀斌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "博惠里",
+            "house_no": "1186",
+            "candidates": {
+                "1": 341,
+                "2": 373
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "三民區",
+            "cunli": "博惠里",
+            "house_no": "1187",
+            "candidates": {
+                "1": 390,
+                "2": 318
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "三民區",
+            "cunli": "博惠里",
+            "house_no": "1188",
+            "candidates": {
+                "1": 345,
+                "2": 388
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1253
+        }
+    ]
+}

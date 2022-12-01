@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "喬天鼎",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "大鵬里",
+            "house_no": "2249",
+            "candidates": {
+                "1": 660
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "新店區",
+            "cunli": "大鵬里",
+            "house_no": "2250",
+            "candidates": {
+                "1": 627
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 1128
+        }
+    ]
+}

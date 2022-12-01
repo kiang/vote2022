@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳建浩",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳朝全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大漢里",
+            "house_no": "484",
+            "candidates": {
+                "1": 556,
+                "2": 219
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1339
+        },
+        {
+            "area": "八德區",
+            "cunli": "大漢里",
+            "house_no": "485",
+            "candidates": {
+                "1": 414,
+                "2": 254
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "八德區",
+            "cunli": "大漢里",
+            "house_no": "486",
+            "candidates": {
+                "1": 418,
+                "2": 315
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1251
+        }
+    ]
+}

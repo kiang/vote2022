@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉三合",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹隆裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "橋頭村",
+            "house_no": "819",
+            "candidates": {
+                "1": 339,
+                "2": 303
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "橋頭村",
+            "house_no": "820",
+            "candidates": {
+                "1": 360,
+                "2": 269
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1020
+        }
+    ]
+}

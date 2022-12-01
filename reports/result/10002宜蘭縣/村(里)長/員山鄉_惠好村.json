@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳崇溢",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃永乾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "惠好村",
+            "house_no": "278",
+            "candidates": {
+                "1": 303,
+                "2": 313
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "惠好村",
+            "house_no": "279",
+            "candidates": {
+                "1": 274,
+                "2": 234
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 743
+        }
+    ]
+}

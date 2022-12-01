@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳孟聰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "磚磘里",
+            "house_no": "95",
+            "candidates": {
+                "1": 561
+            },
+            "count_wrong": 105,
+            "count_unused": 1,
+            "count_total": 1118
+        },
+        {
+            "area": "彰化市",
+            "cunli": "磚磘里",
+            "house_no": "96",
+            "candidates": {
+                "1": 539
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "彰化市",
+            "cunli": "磚磘里",
+            "house_no": "97",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 153,
+            "count_unused": 0,
+            "count_total": 1035
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭素玲",
+            "party": "中華文化復興在理黨"
+        },
+        "2": {
+            "name": "洪温滿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "安平里",
+            "house_no": "665",
+            "candidates": {
+                "1": 206,
+                "2": 763
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1436
+        },
+        {
+            "area": "松山區",
+            "cunli": "安平里",
+            "house_no": "666",
+            "candidates": {
+                "1": 161,
+                "2": 662
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "松山區",
+            "cunli": "安平里",
+            "house_no": "667",
+            "candidates": {
+                "1": 200,
+                "2": 706
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1395
+        },
+        {
+            "area": "松山區",
+            "cunli": "安平里",
+            "house_no": "668",
+            "candidates": {
+                "1": 195,
+                "2": 687
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1410
+        },
+        {
+            "area": "松山區",
+            "cunli": "安平里",
+            "house_no": "669",
+            "candidates": {
+                "1": 185,
+                "2": 588
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1193
+        }
+    ]
+}

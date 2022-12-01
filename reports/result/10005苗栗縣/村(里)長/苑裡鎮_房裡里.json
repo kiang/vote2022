@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭寶國",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭錦成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "房裡里",
+            "house_no": "200",
+            "candidates": {
+                "1": 460,
+                "2": 277
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "房裡里",
+            "house_no": "201",
+            "candidates": {
+                "1": 422,
+                "2": 259
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1017
+        }
+    ]
+}

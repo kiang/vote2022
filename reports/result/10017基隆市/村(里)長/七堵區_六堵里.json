@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余良盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖國勲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "六堵里",
+            "house_no": "260",
+            "candidates": {
+                "1": 314,
+                "2": 294
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "七堵區",
+            "cunli": "六堵里",
+            "house_no": "261",
+            "candidates": {
+                "1": 439,
+                "2": 350
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1250
+        }
+    ]
+}

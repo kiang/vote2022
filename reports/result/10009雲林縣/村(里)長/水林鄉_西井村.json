@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "丁明富",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳介王",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳丑壬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水林鄉",
+            "cunli": "西井村",
+            "house_no": "263",
+            "candidates": {
+                "1": 223,
+                "2": 90,
+                "3": 79
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 570
+        }
+    ]
+}

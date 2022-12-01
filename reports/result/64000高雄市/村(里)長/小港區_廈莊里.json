@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李茂群",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡風益",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳永輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "廈莊里",
+            "house_no": "1862",
+            "candidates": {
+                "1": 288,
+                "2": 320,
+                "3": 139
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "小港區",
+            "cunli": "廈莊里",
+            "house_no": "1863",
+            "candidates": {
+                "1": 257,
+                "2": 256,
+                "3": 154
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "小港區",
+            "cunli": "廈莊里",
+            "house_no": "1864",
+            "candidates": {
+                "1": 276,
+                "2": 166,
+                "3": 159
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1269
+        }
+    ]
+}

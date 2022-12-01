@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許雅晴",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳雍明",
+            "party": "無"
+        },
+        "3": {
+            "name": "王品程",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "北門里",
+            "house_no": "988",
+            "candidates": {
+                "1": 295,
+                "2": 190,
+                "3": 49
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 913
+        },
+        {
+            "area": "北區",
+            "cunli": "北門里",
+            "house_no": "989",
+            "candidates": {
+                "1": 273,
+                "2": 305,
+                "3": 33
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "北區",
+            "cunli": "北門里",
+            "house_no": "990",
+            "candidates": {
+                "1": 175,
+                "2": 351,
+                "3": 11
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "北區",
+            "cunli": "北門里",
+            "house_no": "991",
+            "candidates": {
+                "1": 288,
+                "2": 296,
+                "3": 29
+            },
+            "count_wrong": 7,
+            "count_unused": 1,
+            "count_total": 981
+        },
+        {
+            "area": "北區",
+            "cunli": "北門里",
+            "house_no": "992",
+            "candidates": {
+                "1": 392,
+                "2": 260,
+                "3": 42
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1100
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱耀昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱連發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "龍肚里",
+            "house_no": "113",
+            "candidates": {
+                "1": 159,
+                "2": 234
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 608
+        },
+        {
+            "area": "美濃區",
+            "cunli": "龍肚里",
+            "house_no": "114",
+            "candidates": {
+                "1": 250,
+                "2": 259
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 723
+        }
+    ]
+}

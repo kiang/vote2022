@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "伍秀蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "張清飛",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅煇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "池南村",
+            "house_no": "216",
+            "candidates": {
+                "1": 140,
+                "2": 189,
+                "3": 135
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 703
+        }
+    ]
+}

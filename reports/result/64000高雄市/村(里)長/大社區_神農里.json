@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉秀英",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉東火",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大社區",
+            "cunli": "神農里",
+            "house_no": "730",
+            "candidates": {
+                "1": 317,
+                "2": 405
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "大社區",
+            "cunli": "神農里",
+            "house_no": "731",
+            "candidates": {
+                "1": 396,
+                "2": 335
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "大社區",
+            "cunli": "神農里",
+            "house_no": "732",
+            "candidates": {
+                "1": 337,
+                "2": 343
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1184
+        },
+        {
+            "area": "大社區",
+            "cunli": "神農里",
+            "house_no": "733",
+            "candidates": {
+                "1": 344,
+                "2": 253
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

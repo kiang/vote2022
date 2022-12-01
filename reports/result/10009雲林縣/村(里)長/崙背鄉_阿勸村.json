@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林鴻池",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖培廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "阿勸村",
+            "house_no": "330",
+            "candidates": {
+                "1": 417,
+                "2": 201
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "阿勸村",
+            "house_no": "331",
+            "candidates": {
+                "1": 139,
+                "2": 501
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 969
+        }
+    ]
+}

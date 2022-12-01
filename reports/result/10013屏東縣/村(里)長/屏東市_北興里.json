@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳約禎",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉林英美",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭敏勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "北興里",
+            "house_no": "123",
+            "candidates": {
+                "1": 288,
+                "2": 157,
+                "3": 191
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "屏東市",
+            "cunli": "北興里",
+            "house_no": "124",
+            "candidates": {
+                "1": 317,
+                "2": 166,
+                "3": 214
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "屏東市",
+            "cunli": "北興里",
+            "house_no": "125",
+            "candidates": {
+                "1": 289,
+                "2": 166,
+                "3": 172
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "屏東市",
+            "cunli": "北興里",
+            "house_no": "126",
+            "candidates": {
+                "1": 258,
+                "2": 166,
+                "3": 232
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "屏東市",
+            "cunli": "北興里",
+            "house_no": "127",
+            "candidates": {
+                "1": 302,
+                "2": 190,
+                "3": 183
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

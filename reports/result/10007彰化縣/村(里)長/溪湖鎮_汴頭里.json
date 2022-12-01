@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊登棠",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊子鋐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "汴頭里",
+            "house_no": "688",
+            "candidates": {
+                "1": 471,
+                "2": 169
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 978
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "汴頭里",
+            "house_no": "689",
+            "candidates": {
+                "1": 407,
+                "2": 225
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "汴頭里",
+            "house_no": "690",
+            "candidates": {
+                "1": 408,
+                "2": 194
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 954
+        }
+    ]
+}

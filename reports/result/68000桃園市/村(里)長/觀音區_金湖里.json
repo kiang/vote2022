@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許秀宜",
+            "party": "無"
+        },
+        "2": {
+            "name": "李茂松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "金湖里",
+            "house_no": "1328",
+            "candidates": {
+                "1": 355,
+                "2": 492
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "觀音區",
+            "cunli": "金湖里",
+            "house_no": "1329",
+            "candidates": {
+                "1": 442,
+                "2": 335
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1333
+        }
+    ]
+}

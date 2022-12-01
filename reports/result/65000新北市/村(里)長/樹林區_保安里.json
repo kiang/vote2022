@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱孫鳳梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "李錫寶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "保安里",
+            "house_no": "1775",
+            "candidates": {
+                "1": 359,
+                "2": 422
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1395
+        },
+        {
+            "area": "樹林區",
+            "cunli": "保安里",
+            "house_no": "1776",
+            "candidates": {
+                "1": 315,
+                "2": 447
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1400
+        },
+        {
+            "area": "樹林區",
+            "cunli": "保安里",
+            "house_no": "1777",
+            "candidates": {
+                "1": 328,
+                "2": 405
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1318
+        },
+        {
+            "area": "樹林區",
+            "cunli": "保安里",
+            "house_no": "1778",
+            "candidates": {
+                "1": 272,
+                "2": 335
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

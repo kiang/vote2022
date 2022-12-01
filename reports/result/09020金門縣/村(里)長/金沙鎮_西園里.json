@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃添丁",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃成泉",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃志明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金沙鎮",
+            "cunli": "西園里",
+            "house_no": "84",
+            "candidates": {
+                "1": 272,
+                "2": 74,
+                "3": 203
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1569
+        }
+    ]
+}

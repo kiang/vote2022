@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李玲娟",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "熊華中",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "龍祥里",
+            "house_no": "114",
+            "candidates": {
+                "1": 564,
+                "2": 323
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1561
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍祥里",
+            "house_no": "115",
+            "candidates": {
+                "1": 630,
+                "2": 202
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1553
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍祥里",
+            "house_no": "116",
+            "candidates": {
+                "1": 765,
+                "2": 168
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1677
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳嘉政",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "王愷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "南勢里",
+            "house_no": "247",
+            "candidates": {
+                "1": 114,
+                "2": 349
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 704
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "南勢里",
+            "house_no": "248",
+            "candidates": {
+                "1": 94,
+                "2": 449
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 817
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "南勢里",
+            "house_no": "249",
+            "candidates": {
+                "1": 144,
+                "2": 486
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "南勢里",
+            "house_no": "250",
+            "candidates": {
+                "1": 80,
+                "2": 428
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 742
+        }
+    ]
+}

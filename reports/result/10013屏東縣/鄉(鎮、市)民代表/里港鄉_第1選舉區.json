@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雲益",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳榮挺",
+            "party": "無"
+        },
+        "3": {
+            "name": "林綿顯",
+            "party": "無"
+        },
+        "4": {
+            "name": "林瑞慶",
+            "party": "無"
+        },
+        "5": {
+            "name": "林政論",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "玉田村",
+            "house_no": "346",
+            "candidates": {
+                "1": 178,
+                "2": 197,
+                "3": 441,
+                "4": 190
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1631
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "玉田村",
+            "house_no": "347",
+            "candidates": {
+                "1": 136,
+                "2": 197,
+                "3": 365,
+                "4": 192
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 1535
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "塔樓村",
+            "house_no": "348",
+            "candidates": {
+                "1": 383,
+                "2": 111,
+                "3": 132,
+                "4": 478
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1466
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "潮厝村",
+            "house_no": "349",
+            "candidates": {
+                "1": 122,
+                "2": 235,
+                "3": 501,
+                "4": 147
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1488
+        }
+    ]
+}

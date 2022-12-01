@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡金獅",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃美華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "會結里",
+            "house_no": "1941",
+            "candidates": {
+                "1": 326,
+                "2": 252
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "大寮區",
+            "cunli": "會結里",
+            "house_no": "1942",
+            "candidates": {
+                "1": 265,
+                "2": 216
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 697
+        }
+    ]
+}

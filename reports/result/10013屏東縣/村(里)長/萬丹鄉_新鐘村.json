@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "饒信義",
+            "party": "無"
+        },
+        "2": {
+            "name": "高文祈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "新鐘村",
+            "house_no": "257",
+            "candidates": {
+                "1": 278,
+                "2": 410
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 982
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "新鐘村",
+            "house_no": "258",
+            "candidates": {
+                "1": 357,
+                "2": 307
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

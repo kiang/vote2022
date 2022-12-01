@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李順義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "朝陽里",
+            "house_no": "178",
+            "candidates": {
+                "1": 194
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 347
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "朝陽里",
+            "house_no": "179",
+            "candidates": {
+                "1": 108
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 205
+        }
+    ]
+}

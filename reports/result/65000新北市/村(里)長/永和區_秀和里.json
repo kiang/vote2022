@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫和連",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "秀和里",
+            "house_no": "1643",
+            "candidates": {
+                "1": 699
+            },
+            "count_wrong": 181,
+            "count_unused": 0,
+            "count_total": 1540
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀和里",
+            "house_no": "1644",
+            "candidates": {
+                "1": 528
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1115
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀和里",
+            "house_no": "1645",
+            "candidates": {
+                "1": 673
+            },
+            "count_wrong": 141,
+            "count_unused": 0,
+            "count_total": 1387
+        }
+    ]
+}

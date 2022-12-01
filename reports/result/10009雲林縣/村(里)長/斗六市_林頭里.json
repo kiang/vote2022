@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張雅筑",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴宗瑋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "林頭里",
+            "house_no": "484",
+            "candidates": {
+                "1": 637,
+                "2": 288
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1401
+        },
+        {
+            "area": "斗六市",
+            "cunli": "林頭里",
+            "house_no": "485",
+            "candidates": {
+                "1": 523,
+                "2": 225
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1266
+        },
+        {
+            "area": "斗六市",
+            "cunli": "林頭里",
+            "house_no": "486",
+            "candidates": {
+                "1": 459,
+                "2": 328
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1341
+        }
+    ]
+}

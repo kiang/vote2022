@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李萬棟",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝瑋原",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "大灣里",
+            "house_no": "739",
+            "candidates": {
+                "1": 332,
+                "2": 499
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1412
+        },
+        {
+            "area": "仁武區",
+            "cunli": "大灣里",
+            "house_no": "740",
+            "candidates": {
+                "1": 313,
+                "2": 548
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1545
+        },
+        {
+            "area": "仁武區",
+            "cunli": "大灣里",
+            "house_no": "741",
+            "candidates": {
+                "1": 307,
+                "2": 494
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1477
+        }
+    ]
+}

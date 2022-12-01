@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬蓮菁",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖福田",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "黎明里",
+            "house_no": "942",
+            "candidates": {
+                "1": 221,
+                "2": 374
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "南屯區",
+            "cunli": "黎明里",
+            "house_no": "943",
+            "candidates": {
+                "1": 301,
+                "2": 318
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "南屯區",
+            "cunli": "黎明里",
+            "house_no": "944",
+            "candidates": {
+                "1": 269,
+                "2": 276
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "南屯區",
+            "cunli": "黎明里",
+            "house_no": "945",
+            "candidates": {
+                "1": 345,
+                "2": 329
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1110
+        }
+    ]
+}

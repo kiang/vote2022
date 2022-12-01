@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭仁墩",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊明哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "溪州里",
+            "house_no": "121",
+            "candidates": {
+                "1": 305,
+                "2": 352
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1075
+        },
+        {
+            "area": "竹北市",
+            "cunli": "溪州里",
+            "house_no": "122",
+            "candidates": {
+                "1": 440,
+                "2": 267
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1316
+        }
+    ]
+}

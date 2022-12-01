@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳世修",
+            "party": "無"
+        },
+        "2": {
+            "name": "李安琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "福祥里",
+            "house_no": "1647",
+            "candidates": {
+                "1": 356,
+                "2": 371
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "福祥里",
+            "house_no": "1648",
+            "candidates": {
+                "1": 317,
+                "2": 401
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1266
+        }
+    ]
+}

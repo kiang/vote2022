@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾金禧",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "內南里",
+            "house_no": "1455",
+            "candidates": {
+                "1": 592
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1357
+        },
+        {
+            "area": "中和區",
+            "cunli": "內南里",
+            "house_no": "1456",
+            "candidates": {
+                "1": 650
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 1397
+        },
+        {
+            "area": "中和區",
+            "cunli": "內南里",
+            "house_no": "1457",
+            "candidates": {
+                "1": 649
+            },
+            "count_wrong": 151,
+            "count_unused": 0,
+            "count_total": 1420
+        }
+    ]
+}

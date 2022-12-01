@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇文典",
+            "party": "無"
+        },
+        "2": {
+            "name": "李連福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "天時村",
+            "house_no": "512",
+            "candidates": {
+                "1": 160,
+                "2": 379
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "天時村",
+            "house_no": "513",
+            "candidates": {
+                "1": 186,
+                "2": 338
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 912
+        }
+    ]
+}

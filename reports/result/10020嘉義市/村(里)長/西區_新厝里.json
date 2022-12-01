@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳政興",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯靜宜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "新厝里",
+            "house_no": "184",
+            "candidates": {
+                "1": 275,
+                "2": 536
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "西區",
+            "cunli": "新厝里",
+            "house_no": "185",
+            "candidates": {
+                "1": 229,
+                "2": 531
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "西區",
+            "cunli": "新厝里",
+            "house_no": "186",
+            "candidates": {
+                "1": 291,
+                "2": 559
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1358
+        }
+    ]
+}

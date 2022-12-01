@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明星",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈建智",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾啟鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "六龜區",
+            "cunli": "義寶里",
+            "house_no": "27",
+            "candidates": {
+                "1": 154,
+                "2": 136,
+                "3": 306
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

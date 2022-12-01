@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "何秋香",
+            "party": "無"
+        },
+        "3": {
+            "name": "温修汝",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊少雀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "峨眉鄉",
+            "cunli": "石井村",
+            "house_no": "436",
+            "candidates": {
+                "1": 61,
+                "2": 197,
+                "3": 157,
+                "4": 16
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 552
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "富興村",
+            "house_no": "439",
+            "candidates": {
+                "1": 191,
+                "2": 111,
+                "3": 129,
+                "4": 31
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 646
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "富興村",
+            "house_no": "440",
+            "candidates": {
+                "1": 164,
+                "2": 122,
+                "3": 113,
+                "4": 27
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "湖光村",
+            "house_no": "441",
+            "candidates": {
+                "1": 47,
+                "2": 103,
+                "3": 97,
+                "4": 35
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 440
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "湖光村",
+            "house_no": "442",
+            "candidates": {
+                "1": 37,
+                "2": 64,
+                "3": 55,
+                "4": 130
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 404
+        }
+    ]
+}

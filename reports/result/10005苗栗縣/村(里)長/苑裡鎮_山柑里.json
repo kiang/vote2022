@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱其輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林琮棋",
+            "party": "無"
+        },
+        "3": {
+            "name": "王平盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "山柑里",
+            "house_no": "226",
+            "candidates": {
+                "1": 250,
+                "2": 187,
+                "3": 471
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1362
+        }
+    ]
+}

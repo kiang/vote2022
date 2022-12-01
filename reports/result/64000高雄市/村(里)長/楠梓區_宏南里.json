@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許經緯",
+            "party": "無"
+        },
+        "2": {
+            "name": "張夢麒",
+            "party": "無"
+        },
+        "3": {
+            "name": "饒榮華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "宏南里",
+            "house_no": "524",
+            "candidates": {
+                "1": 126,
+                "2": 164,
+                "3": 119
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 604
+        }
+    ]
+}

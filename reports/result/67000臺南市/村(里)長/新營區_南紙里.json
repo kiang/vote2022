@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "任振源",
+            "party": "無"
+        },
+        "2": {
+            "name": "王信雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "南紙里",
+            "house_no": "165",
+            "candidates": {
+                "1": 233,
+                "2": 392
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "新營區",
+            "cunli": "南紙里",
+            "house_no": "166",
+            "candidates": {
+                "1": 280,
+                "2": 425
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "新營區",
+            "cunli": "南紙里",
+            "house_no": "167",
+            "candidates": {
+                "1": 215,
+                "2": 415
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1066
+        }
+    ]
+}

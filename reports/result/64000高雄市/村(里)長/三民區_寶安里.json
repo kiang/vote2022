@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾俊璋",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃柏澤",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶安里",
+            "house_no": "1089",
+            "candidates": {
+                "1": 357,
+                "2": 348
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1242
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶安里",
+            "house_no": "1090",
+            "candidates": {
+                "1": 311,
+                "2": 365
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶安里",
+            "house_no": "1091",
+            "candidates": {
+                "1": 270,
+                "2": 352
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1297
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶安里",
+            "house_no": "1092",
+            "candidates": {
+                "1": 281,
+                "2": 458
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶安里",
+            "house_no": "1093",
+            "candidates": {
+                "1": 294,
+                "2": 387
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1342
+        }
+    ]
+}

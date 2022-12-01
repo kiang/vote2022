@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林永輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "孫長綜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "吉祥里",
+            "house_no": "2329",
+            "candidates": {
+                "1": 429,
+                "2": 253
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "新店區",
+            "cunli": "吉祥里",
+            "house_no": "2330",
+            "candidates": {
+                "1": 413,
+                "2": 219
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "新店區",
+            "cunli": "吉祥里",
+            "house_no": "2331",
+            "candidates": {
+                "1": 314,
+                "2": 238
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "新店區",
+            "cunli": "吉祥里",
+            "house_no": "2332",
+            "candidates": {
+                "1": 319,
+                "2": 104
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 694
+        }
+    ]
+}

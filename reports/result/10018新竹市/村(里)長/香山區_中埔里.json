@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾春慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡坤龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "中埔里",
+            "house_no": "300",
+            "candidates": {
+                "1": 325,
+                "2": 233
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "香山區",
+            "cunli": "中埔里",
+            "house_no": "301",
+            "candidates": {
+                "1": 337,
+                "2": 337
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "香山區",
+            "cunli": "中埔里",
+            "house_no": "302",
+            "candidates": {
+                "1": 249,
+                "2": 292
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 839
+        }
+    ]
+}

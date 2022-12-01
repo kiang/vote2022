@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳漢成",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳建志",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳仲智",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊智宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗津區",
+            "cunli": "上竹里",
+            "house_no": "982",
+            "candidates": {
+                "1": 49,
+                "2": 160,
+                "3": 425,
+                "4": 30
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "旗津區",
+            "cunli": "上竹里",
+            "house_no": "983",
+            "candidates": {
+                "1": 137,
+                "2": 261,
+                "3": 410,
+                "4": 117
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1546
+        }
+    ]
+}

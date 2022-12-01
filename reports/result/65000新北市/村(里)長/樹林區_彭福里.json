@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊世元",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃彩蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "彭福里",
+            "house_no": "1809",
+            "candidates": {
+                "1": 507,
+                "2": 369
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1556
+        },
+        {
+            "area": "樹林區",
+            "cunli": "彭福里",
+            "house_no": "1810",
+            "candidates": {
+                "1": 473,
+                "2": 381
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1789
+        },
+        {
+            "area": "樹林區",
+            "cunli": "彭福里",
+            "house_no": "1811",
+            "candidates": {
+                "1": 384,
+                "2": 376
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1338
+        }
+    ]
+}

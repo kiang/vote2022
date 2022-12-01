@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許世榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡昭陽",
+            "party": "無"
+        },
+        "3": {
+            "name": "歐惠萍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "豐田村",
+            "house_no": "901",
+            "candidates": {
+                "1": 357,
+                "2": 120,
+                "3": 45
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 740
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭煥鈿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新屋區",
+            "cunli": "新生里",
+            "house_no": "1282",
+            "candidates": {
+                "1": 718
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "新屋區",
+            "cunli": "新生里",
+            "house_no": "1283",
+            "candidates": {
+                "1": 649
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1242
+        },
+        {
+            "area": "新屋區",
+            "cunli": "新生里",
+            "house_no": "1284",
+            "candidates": {
+                "1": 772
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 1304
+        }
+    ]
+}

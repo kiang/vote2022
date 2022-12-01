@@ -1,0 +1,52 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬光榮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "古金榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳群",
+            "party": "無"
+        },
+        "4": {
+            "name": "嚴秋谷",
+            "party": "無"
+        },
+        "5": {
+            "name": "江溫和",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "萬榮鄉",
+            "cunli": "萬榮村",
+            "house_no": "267",
+            "candidates": {
+                "1": 287,
+                "2": 158,
+                "3": 116
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "萬榮鄉",
+            "cunli": "明利村",
+            "house_no": "268",
+            "candidates": {
+                "1": 20,
+                "2": 218,
+                "3": 222
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 626
+        }
+    ]
+}

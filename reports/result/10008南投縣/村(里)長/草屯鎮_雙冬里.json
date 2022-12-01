@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾明正",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪朝專",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "雙冬里",
+            "house_no": "229",
+            "candidates": {
+                "1": 198,
+                "2": 524
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "雙冬里",
+            "house_no": "230",
+            "candidates": {
+                "1": 237,
+                "2": 469
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1044
+        }
+    ]
+}

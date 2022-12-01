@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高龍成",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡葉珍妮",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "林國男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "鎮海里",
+            "house_no": "1690",
+            "candidates": {
+                "1": 33,
+                "2": 496,
+                "3": 232
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1233
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "鎮海里",
+            "house_no": "1691",
+            "candidates": {
+                "1": 109,
+                "2": 427,
+                "3": 276
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1328
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "鎮海里",
+            "house_no": "1692",
+            "candidates": {
+                "1": 124,
+                "2": 383,
+                "3": 222
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1217
+        }
+    ]
+}

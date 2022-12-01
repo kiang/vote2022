@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡昌翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關山鎮",
+            "cunli": "新福里",
+            "house_no": "112",
+            "candidates": {
+                "1": 188,
+                "2": 261
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 591
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "德高里",
+            "house_no": "115",
+            "candidates": {
+                "1": 191,
+                "2": 104
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 399
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "德高里",
+            "house_no": "116",
+            "candidates": {
+                "1": 234,
+                "2": 273
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 664
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁家福",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳瑞輅",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃淑華",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭瑞裕",
+            "party": "時代力量"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "稔田里",
+            "house_no": "509",
+            "candidates": {
+                "1": 252,
+                "2": 366,
+                "3": 295,
+                "4": 78
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1461
+        }
+    ]
+}

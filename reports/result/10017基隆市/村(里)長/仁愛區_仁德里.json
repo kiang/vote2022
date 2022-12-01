@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游茗任",
+            "party": "無"
+        },
+        "2": {
+            "name": "王朝成",
+            "party": "無"
+        },
+        "3": {
+            "name": "熊素蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "仁德里",
+            "house_no": "93",
+            "candidates": {
+                "1": 98,
+                "2": 265,
+                "3": 159
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 777
+        }
+    ]
+}

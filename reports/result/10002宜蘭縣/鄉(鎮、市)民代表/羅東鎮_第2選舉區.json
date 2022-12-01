@@ -1,0 +1,159 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉世鵬",
+            "party": "無"
+        },
+        "2": {
+            "name": "張蕙蘭",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "曹喜斌",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊漢源",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "陳定霖",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "黃偉",
+            "party": "無"
+        },
+        "7": {
+            "name": "陳章琳",
+            "party": "無"
+        },
+        "8": {
+            "name": "許馨尹",
+            "party": "中國國民黨"
+        },
+        "9": {
+            "name": "張榮華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "羅莊里",
+            "house_no": "90",
+            "candidates": {
+                "1": 271,
+                "2": 253,
+                "3": 226
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "羅莊里",
+            "house_no": "91",
+            "candidates": {
+                "1": 155,
+                "2": 157,
+                "3": 148
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "羅莊里",
+            "house_no": "92",
+            "candidates": {
+                "1": 155,
+                "2": 201,
+                "3": 141
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "南昌里",
+            "house_no": "93",
+            "candidates": {
+                "1": 183,
+                "2": 480,
+                "3": 147
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1399
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "南昌里",
+            "house_no": "94",
+            "candidates": {
+                "1": 125,
+                "2": 257,
+                "3": 158
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "南豪里",
+            "house_no": "95",
+            "candidates": {
+                "1": 292,
+                "2": 126,
+                "3": 310
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "成功里",
+            "house_no": "96",
+            "candidates": {
+                "1": 276,
+                "2": 226,
+                "3": 385
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1430
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "仁德里",
+            "house_no": "97",
+            "candidates": {
+                "1": 179,
+                "2": 212,
+                "3": 206
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1075
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "仁和里",
+            "house_no": "98",
+            "candidates": {
+                "1": 153,
+                "2": 145,
+                "3": 224
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 935
+        }
+    ]
+}

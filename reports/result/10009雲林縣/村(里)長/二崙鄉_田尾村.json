@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖國順",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖新坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二崙鄉",
+            "cunli": "田尾村",
+            "house_no": "351",
+            "candidates": {
+                "1": 355,
+                "2": 257
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "田尾村",
+            "house_no": "352",
+            "candidates": {
+                "1": 356,
+                "2": 198
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 791
+        }
+    ]
+}

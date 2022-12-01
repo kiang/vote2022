@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高義良",
+            "party": "無"
+        },
+        "2": {
+            "name": "張凱勛",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘瑞榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "龜山里",
+            "house_no": "2353",
+            "candidates": {
+                "1": 421,
+                "2": 393,
+                "3": 97
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1531
+        }
+    ]
+}

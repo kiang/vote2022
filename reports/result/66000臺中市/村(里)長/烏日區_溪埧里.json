@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳南雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳登正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "溪埧里",
+            "house_no": "402",
+            "candidates": {
+                "1": 546,
+                "2": 374
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "烏日區",
+            "cunli": "溪埧里",
+            "house_no": "403",
+            "candidates": {
+                "1": 423,
+                "2": 591
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1567
+        },
+        {
+            "area": "烏日區",
+            "cunli": "溪埧里",
+            "house_no": "404",
+            "candidates": {
+                "1": 394,
+                "2": 442
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1268
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊雅惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "王彥貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "長安里",
+            "house_no": "662",
+            "candidates": {
+                "1": 188,
+                "2": 525
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1432
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "長安里",
+            "house_no": "663",
+            "candidates": {
+                "1": 183,
+                "2": 563
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1465
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "長安里",
+            "house_no": "664",
+            "candidates": {
+                "1": 186,
+                "2": 560
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1493
+        }
+    ]
+}

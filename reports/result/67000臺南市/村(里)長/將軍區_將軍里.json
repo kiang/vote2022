@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳荏豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳儒益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "將軍區",
+            "cunli": "將軍里",
+            "house_no": "260",
+            "candidates": {
+                "1": 77,
+                "2": 221
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 532
+        },
+        {
+            "area": "將軍區",
+            "cunli": "將軍里",
+            "house_no": "261",
+            "candidates": {
+                "1": 69,
+                "2": 267
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 517
+        },
+        {
+            "area": "將軍區",
+            "cunli": "將軍里",
+            "house_no": "262",
+            "candidates": {
+                "1": 50,
+                "2": 189
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 387
+        }
+    ]
+}

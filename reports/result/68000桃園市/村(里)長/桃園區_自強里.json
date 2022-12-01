@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊順益",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪玉貞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "自強里",
+            "house_no": "148",
+            "candidates": {
+                "1": 540,
+                "2": 439
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1645
+        },
+        {
+            "area": "桃園區",
+            "cunli": "自強里",
+            "house_no": "149",
+            "candidates": {
+                "1": 326,
+                "2": 483
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1377
+        },
+        {
+            "area": "桃園區",
+            "cunli": "自強里",
+            "house_no": "150",
+            "candidates": {
+                "1": 448,
+                "2": 353
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1308
+        },
+        {
+            "area": "桃園區",
+            "cunli": "自強里",
+            "house_no": "151",
+            "candidates": {
+                "1": 393,
+                "2": 468
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1384
+        },
+        {
+            "area": "桃園區",
+            "cunli": "自強里",
+            "house_no": "152",
+            "candidates": {
+                "1": 460,
+                "2": 393
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1385
+        }
+    ]
+}

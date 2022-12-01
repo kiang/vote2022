@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃文科",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐育志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "西湖村",
+            "house_no": "141",
+            "candidates": {
+                "1": 302,
+                "2": 215
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 665
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "西湖村",
+            "house_no": "142",
+            "candidates": {
+                "1": 217,
+                "2": 325
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 701
+        }
+    ]
+}

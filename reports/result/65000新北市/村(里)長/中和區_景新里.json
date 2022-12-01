@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游成家",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔣孝文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "景新里",
+            "house_no": "1482",
+            "candidates": {
+                "1": 655,
+                "2": 209
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1505
+        },
+        {
+            "area": "中和區",
+            "cunli": "景新里",
+            "house_no": "1483",
+            "candidates": {
+                "1": 712,
+                "2": 201
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1532
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜光達",
+            "party": "無"
+        },
+        "2": {
+            "name": "高美伶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "華崗里",
+            "house_no": "343",
+            "candidates": {
+                "1": 319,
+                "2": 195
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 695
+        },
+        {
+            "area": "岡山區",
+            "cunli": "華崗里",
+            "house_no": "344",
+            "candidates": {
+                "1": 448,
+                "2": 135
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 793
+        }
+    ]
+}

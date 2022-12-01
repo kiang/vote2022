@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張瑞昆",
+            "party": "無"
+        },
+        "2": {
+            "name": "江茂圳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "東門里",
+            "house_no": "85",
+            "candidates": {
+                "1": 177,
+                "2": 272
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 734
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "東門里",
+            "house_no": "86",
+            "candidates": {
+                "1": 194,
+                "2": 300
+            },
+            "count_wrong": 13,
+            "count_unused": 2,
+            "count_total": 757
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "東門里",
+            "house_no": "87",
+            "candidates": {
+                "1": 310,
+                "2": 312
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 966
+        }
+    ]
+}

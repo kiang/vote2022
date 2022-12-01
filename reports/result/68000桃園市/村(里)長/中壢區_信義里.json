@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王一玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃健梓",
+            "party": "無"
+        },
+        "3": {
+            "name": "王欣文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "信義里",
+            "house_no": "761",
+            "candidates": {
+                "1": 381,
+                "2": 220,
+                "3": 192
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "中壢區",
+            "cunli": "信義里",
+            "house_no": "762",
+            "candidates": {
+                "1": 447,
+                "2": 260,
+                "3": 212
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1369
+        },
+        {
+            "area": "中壢區",
+            "cunli": "信義里",
+            "house_no": "763",
+            "candidates": {
+                "1": 388,
+                "2": 278,
+                "3": 208
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1509
+        }
+    ]
+}

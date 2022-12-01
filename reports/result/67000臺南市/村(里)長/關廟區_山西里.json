@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊啓賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "山西里",
+            "house_no": "1503",
+            "candidates": {
+                "1": 502
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "關廟區",
+            "cunli": "山西里",
+            "house_no": "1504",
+            "candidates": {
+                "1": 585
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1034
+        }
+    ]
+}

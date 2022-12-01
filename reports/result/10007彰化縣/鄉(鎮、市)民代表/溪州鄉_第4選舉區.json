@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "鐘翊禹",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "蔡華南",
+            "party": "無"
+        },
+        "4": {
+            "name": "廖學進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "菜公村",
+            "house_no": "967",
+            "candidates": {
+                "1": 23,
+                "2": 118,
+                "3": 222,
+                "4": 186
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "三條村",
+            "house_no": "968",
+            "candidates": {
+                "1": 6,
+                "2": 130,
+                "3": 109,
+                "4": 252
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "三圳村",
+            "house_no": "969",
+            "candidates": {
+                "1": 24,
+                "2": 114,
+                "3": 166,
+                "4": 496
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "水尾村",
+            "house_no": "970",
+            "candidates": {
+                "1": 19,
+                "2": 165,
+                "3": 232,
+                "4": 26
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 654
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "水尾村",
+            "house_no": "971",
+            "candidates": {
+                "1": 20,
+                "2": 172,
+                "3": 336,
+                "4": 23
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 791
+        }
+    ]
+}

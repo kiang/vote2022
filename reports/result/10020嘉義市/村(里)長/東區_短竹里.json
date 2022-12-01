@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "凃淑慧",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "短竹里",
+            "house_no": "1",
+            "candidates": {
+                "1": 496
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "東區",
+            "cunli": "短竹里",
+            "house_no": "2",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1284
+        }
+    ]
+}

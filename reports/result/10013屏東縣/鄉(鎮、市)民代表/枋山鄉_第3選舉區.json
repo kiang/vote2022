@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪啓能",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳恒輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "王光盛",
+            "party": "無"
+        },
+        "4": {
+            "name": "許典洲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋山鄉",
+            "cunli": "楓港村",
+            "house_no": "645",
+            "candidates": {
+                "1": 217,
+                "2": 183,
+                "3": 176,
+                "4": 185
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "枋山鄉",
+            "cunli": "善餘村",
+            "house_no": "646",
+            "candidates": {
+                "1": 136,
+                "2": 186,
+                "3": 156,
+                "4": 192
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 838
+        }
+    ]
+}

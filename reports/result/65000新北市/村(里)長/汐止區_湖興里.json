@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭書成",
+            "party": "無"
+        },
+        "2": {
+            "name": "王沛生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "湖興里",
+            "house_no": "2643",
+            "candidates": {
+                "1": 580,
+                "2": 218
+            },
+            "count_wrong": 45,
+            "count_unused": 1,
+            "count_total": 1462
+        },
+        {
+            "area": "汐止區",
+            "cunli": "湖興里",
+            "house_no": "2644",
+            "candidates": {
+                "1": 521,
+                "2": 229
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "汐止區",
+            "cunli": "湖興里",
+            "house_no": "2645",
+            "candidates": {
+                "1": 545,
+                "2": 239
+            },
+            "count_wrong": 14,
+            "count_unused": 11,
+            "count_total": 1504
+        },
+        {
+            "area": "汐止區",
+            "cunli": "湖興里",
+            "house_no": "2646",
+            "candidates": {
+                "1": 539,
+                "2": 247
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1332
+        }
+    ]
+}

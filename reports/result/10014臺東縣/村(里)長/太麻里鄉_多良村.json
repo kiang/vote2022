@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高金億",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊瑞山",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭威坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太麻里鄉",
+            "cunli": "多良村",
+            "house_no": "197",
+            "candidates": {
+                "1": 68,
+                "2": 41,
+                "3": 37
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 214
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "多良村",
+            "house_no": "198",
+            "candidates": {
+                "1": 115,
+                "2": 160,
+                "3": 147
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 644
+        }
+    ]
+}

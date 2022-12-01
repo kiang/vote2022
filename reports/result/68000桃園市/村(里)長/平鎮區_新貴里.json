@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李駿南",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉玉蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "新貴里",
+            "house_no": "1065",
+            "candidates": {
+                "1": 478,
+                "2": 458
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1444
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新貴里",
+            "house_no": "1066",
+            "candidates": {
+                "1": 455,
+                "2": 557
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1502
+        }
+    ]
+}

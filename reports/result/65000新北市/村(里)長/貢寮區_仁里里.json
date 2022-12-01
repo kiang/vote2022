@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀志樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳勝福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "貢寮區",
+            "cunli": "仁里里",
+            "house_no": "2491",
+            "candidates": {
+                "1": 231,
+                "2": 206
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 702
+        },
+        {
+            "area": "貢寮區",
+            "cunli": "仁里里",
+            "house_no": "2492",
+            "candidates": {
+                "1": 282,
+                "2": 269
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 917
+        }
+    ]
+}

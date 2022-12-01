@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁媺麗",
+            "party": "無"
+        },
+        "2": {
+            "name": "盧素香",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "新東里",
+            "house_no": "132",
+            "candidates": {
+                "1": 297,
+                "2": 392
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "新營區",
+            "cunli": "新東里",
+            "house_no": "133",
+            "candidates": {
+                "1": 342,
+                "2": 364
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1316
+        },
+        {
+            "area": "新營區",
+            "cunli": "新東里",
+            "house_no": "134",
+            "candidates": {
+                "1": 285,
+                "2": 401
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "新營區",
+            "cunli": "新東里",
+            "house_no": "135",
+            "candidates": {
+                "1": 372,
+                "2": 360
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "新營區",
+            "cunli": "新東里",
+            "house_no": "136",
+            "candidates": {
+                "1": 371,
+                "2": 360
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1322
+        }
+    ]
+}

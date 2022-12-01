@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林山永",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "福德里",
+            "house_no": "2630",
+            "candidates": {
+                "1": 710
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1614
+        },
+        {
+            "area": "汐止區",
+            "cunli": "福德里",
+            "house_no": "2631",
+            "candidates": {
+                "1": 606
+            },
+            "count_wrong": 61,
+            "count_unused": 1,
+            "count_total": 1425
+        }
+    ]
+}

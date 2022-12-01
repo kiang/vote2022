@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡穎峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "林宏建",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "湖興里",
+            "house_no": "472",
+            "candidates": {
+                "1": 703,
+                "2": 248
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1509
+        },
+        {
+            "area": "內湖區",
+            "cunli": "湖興里",
+            "house_no": "473",
+            "candidates": {
+                "1": 699,
+                "2": 292
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 2702
+        },
+        {
+            "area": "內湖區",
+            "cunli": "湖興里",
+            "house_no": "474",
+            "candidates": {
+                "1": 669,
+                "2": 206
+            },
+            "count_wrong": 49,
+            "count_unused": 1,
+            "count_total": 1427
+        },
+        {
+            "area": "內湖區",
+            "cunli": "湖興里",
+            "house_no": "475",
+            "candidates": {
+                "1": 755,
+                "2": 259
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1450
+        }
+    ]
+}

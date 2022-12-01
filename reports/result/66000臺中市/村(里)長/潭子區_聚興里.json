@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃沛綺",
+            "party": "無"
+        },
+        "2": {
+            "name": "林信士",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潭子區",
+            "cunli": "聚興里",
+            "house_no": "729",
+            "candidates": {
+                "1": 461,
+                "2": 447
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1402
+        },
+        {
+            "area": "潭子區",
+            "cunli": "聚興里",
+            "house_no": "730",
+            "candidates": {
+                "1": 492,
+                "2": 319
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "潭子區",
+            "cunli": "聚興里",
+            "house_no": "731",
+            "candidates": {
+                "1": 287,
+                "2": 357
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1387
+        }
+    ]
+}

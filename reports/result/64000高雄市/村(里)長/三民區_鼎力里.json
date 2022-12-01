@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈巽榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "鼎力里",
+            "house_no": "1000",
+            "candidates": {
+                "1": 538
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 1276
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎力里",
+            "house_no": "1001",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎力里",
+            "house_no": "1002",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 161,
+            "count_unused": 0,
+            "count_total": 1250
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林天生",
+            "party": "無"
+        },
+        "2": {
+            "name": "官序倲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "拔雅里",
+            "house_no": "201",
+            "candidates": {
+                "1": 319,
+                "2": 286
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "拔雅里",
+            "house_no": "202",
+            "candidates": {
+                "1": 346,
+                "2": 410
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 1171
+        }
+    ]
+}

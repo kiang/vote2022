@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王曼甄",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳進義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "安溪里",
+            "house_no": "2105",
+            "candidates": {
+                "1": 426,
+                "2": 336
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1540
+        },
+        {
+            "area": "三峽區",
+            "cunli": "安溪里",
+            "house_no": "2106",
+            "candidates": {
+                "1": 455,
+                "2": 353
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1673
+        },
+        {
+            "area": "三峽區",
+            "cunli": "安溪里",
+            "house_no": "2107",
+            "candidates": {
+                "1": 385,
+                "2": 347
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1499
+        },
+        {
+            "area": "三峽區",
+            "cunli": "安溪里",
+            "house_no": "2108",
+            "candidates": {
+                "1": 517,
+                "2": 374
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1659
+        }
+    ]
+}

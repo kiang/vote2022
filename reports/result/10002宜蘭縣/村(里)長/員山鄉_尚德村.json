@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊金來",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃境堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "尚德村",
+            "house_no": "276",
+            "candidates": {
+                "1": 255,
+                "2": 396
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "尚德村",
+            "house_no": "277",
+            "candidates": {
+                "1": 308,
+                "2": 391
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

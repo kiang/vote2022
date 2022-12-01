@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝德道",
+            "party": "無"
+        },
+        "2": {
+            "name": "江茂晟",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "謝厝寮里",
+            "house_no": "443",
+            "candidates": {
+                "1": 383,
+                "2": 229
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 817
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "謝厝寮里",
+            "house_no": "444",
+            "candidates": {
+                "1": 224,
+                "2": 352
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 769
+        }
+    ]
+}

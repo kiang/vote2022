@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡滿玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴昭憲",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭金川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "大興里",
+            "house_no": "1543",
+            "candidates": {
+                "1": 297,
+                "2": 195,
+                "3": 330
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1417
+        },
+        {
+            "area": "太平區",
+            "cunli": "大興里",
+            "house_no": "1544",
+            "candidates": {
+                "1": 69,
+                "2": 136,
+                "3": 376
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

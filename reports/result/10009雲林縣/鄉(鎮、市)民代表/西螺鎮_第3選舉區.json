@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "程進森",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳志明",
+            "party": "無"
+        },
+        "3": {
+            "name": "廖彩樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西螺鎮",
+            "cunli": "吳厝里",
+            "house_no": "397",
+            "candidates": {
+                "1": 452,
+                "2": 218,
+                "3": 131
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "九隆里",
+            "house_no": "398",
+            "candidates": {
+                "1": 162,
+                "2": 94,
+                "3": 190
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "下湳里",
+            "house_no": "399",
+            "candidates": {
+                "1": 106,
+                "2": 25,
+                "3": 477
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 782
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "七座里",
+            "house_no": "400",
+            "candidates": {
+                "1": 92,
+                "2": 117,
+                "3": 387
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "公舘里",
+            "house_no": "401",
+            "candidates": {
+                "1": 201,
+                "2": 241,
+                "3": 412
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1283
+        }
+    ]
+}

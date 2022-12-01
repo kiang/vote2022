@@ -1,0 +1,87 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉國卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "林昆儒",
+            "party": "無"
+        },
+        "3": {
+            "name": "林宗憲",
+            "party": "無"
+        },
+        "4": {
+            "name": "林素珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "中寮里",
+            "house_no": "861",
+            "candidates": {
+                "1": 289,
+                "2": 50,
+                "3": 250
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "中寮里",
+            "house_no": "862",
+            "candidates": {
+                "1": 289,
+                "2": 74,
+                "3": 224
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 871
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "中寮里",
+            "house_no": "863",
+            "candidates": {
+                "1": 209,
+                "2": 55,
+                "3": 298
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "大道里",
+            "house_no": "864",
+            "candidates": {
+                "1": 160,
+                "2": 349,
+                "3": 166
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1078
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "大道里",
+            "house_no": "865",
+            "candidates": {
+                "1": 130,
+                "2": 250,
+                "3": 120
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 786
+        }
+    ]
+}

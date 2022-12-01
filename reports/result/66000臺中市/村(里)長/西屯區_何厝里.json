@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何劉美玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "何厝里",
+            "house_no": "784",
+            "candidates": {
+                "1": 441
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何厝里",
+            "house_no": "785",
+            "candidates": {
+                "1": 460
+            },
+            "count_wrong": 18,
+            "count_unused": 68,
+            "count_total": 933
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何厝里",
+            "house_no": "786",
+            "candidates": {
+                "1": 495
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1064
+        }
+    ]
+}

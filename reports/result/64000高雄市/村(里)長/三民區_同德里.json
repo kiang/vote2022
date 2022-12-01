@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清源",
+            "party": "無"
+        },
+        "2": {
+            "name": "許元成",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "同德里",
+            "house_no": "1155",
+            "candidates": {
+                "1": 490,
+                "2": 349
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "三民區",
+            "cunli": "同德里",
+            "house_no": "1156",
+            "candidates": {
+                "1": 383,
+                "2": 363
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1137
+        }
+    ]
+}

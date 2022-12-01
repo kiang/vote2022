@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇院林",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林禹賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞美村",
+            "house_no": "274",
+            "candidates": {
+                "1": 256,
+                "2": 290
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞美村",
+            "house_no": "275",
+            "candidates": {
+                "1": 322,
+                "2": 296
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 938
+        }
+    ]
+}

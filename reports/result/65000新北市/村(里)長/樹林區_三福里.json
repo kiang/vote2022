@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "藍正諭",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉玲玲",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭景元",
+            "party": "無"
+        },
+        "4": {
+            "name": "張致遠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "三福里",
+            "house_no": "1753",
+            "candidates": {
+                "1": 286,
+                "2": 43,
+                "3": 46,
+                "4": 252
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "樹林區",
+            "cunli": "三福里",
+            "house_no": "1754",
+            "candidates": {
+                "1": 245,
+                "2": 40,
+                "3": 26,
+                "4": 288
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "樹林區",
+            "cunli": "三福里",
+            "house_no": "1755",
+            "candidates": {
+                "1": 251,
+                "2": 54,
+                "3": 88,
+                "4": 287
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1132
+        }
+    ]
+}

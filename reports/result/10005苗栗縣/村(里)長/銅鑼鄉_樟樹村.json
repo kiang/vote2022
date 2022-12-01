@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳興紹",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾鐛慶",
+            "party": "無"
+        },
+        "3": {
+            "name": "林貴金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "樟樹村",
+            "house_no": "118",
+            "candidates": {
+                "1": 488,
+                "2": 139,
+                "3": 301
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1190
+        }
+    ]
+}

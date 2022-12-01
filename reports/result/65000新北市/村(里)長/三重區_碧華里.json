@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉鴻真",
+            "party": "無"
+        },
+        "2": {
+            "name": "林佳鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "碧華里",
+            "house_no": "983",
+            "candidates": {
+                "1": 259,
+                "2": 402
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "三重區",
+            "cunli": "碧華里",
+            "house_no": "984",
+            "candidates": {
+                "1": 230,
+                "2": 318
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "三重區",
+            "cunli": "碧華里",
+            "house_no": "985",
+            "candidates": {
+                "1": 235,
+                "2": 402
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "三重區",
+            "cunli": "碧華里",
+            "house_no": "986",
+            "candidates": {
+                "1": 312,
+                "2": 545
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1663
+        },
+        {
+            "area": "三重區",
+            "cunli": "碧華里",
+            "house_no": "987",
+            "candidates": {
+                "1": 334,
+                "2": 703
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1912
+        }
+    ]
+}

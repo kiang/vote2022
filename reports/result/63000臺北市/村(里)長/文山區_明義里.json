@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "仇世屏",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "明義里",
+            "house_no": "1680",
+            "candidates": {
+                "1": 568
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "文山區",
+            "cunli": "明義里",
+            "house_no": "1681",
+            "candidates": {
+                "1": 723
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "文山區",
+            "cunli": "明義里",
+            "house_no": "1682",
+            "candidates": {
+                "1": 474
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 876
+        }
+    ]
+}

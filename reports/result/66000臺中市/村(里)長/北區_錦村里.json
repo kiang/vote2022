@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳榮益",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "謝侯郁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "錦村里",
+            "house_no": "1194",
+            "candidates": {
+                "1": 659,
+                "2": 327
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1605
+        },
+        {
+            "area": "北區",
+            "cunli": "錦村里",
+            "house_no": "1195",
+            "candidates": {
+                "1": 578,
+                "2": 232
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1336
+        }
+    ]
+}

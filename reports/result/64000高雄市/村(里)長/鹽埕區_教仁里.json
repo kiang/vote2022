@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許富仁",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "高陳文玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埕區",
+            "cunli": "教仁里",
+            "house_no": "950",
+            "candidates": {
+                "1": 281,
+                "2": 226
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "鹽埕區",
+            "cunli": "教仁里",
+            "house_no": "951",
+            "candidates": {
+                "1": 337,
+                "2": 349
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1026
+        }
+    ]
+}

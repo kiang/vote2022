@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝智堯",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳永順",
+            "party": "無"
+        },
+        "3": {
+            "name": "易南",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "赤水村",
+            "house_no": "322",
+            "candidates": {
+                "1": 132,
+                "2": 308
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 619
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "赤水村",
+            "house_no": "323",
+            "candidates": {
+                "1": 103,
+                "2": 212
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 485
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "竹圍村",
+            "house_no": "324",
+            "candidates": {
+                "1": 186,
+                "2": 409
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 859
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "三崙村",
+            "house_no": "325",
+            "candidates": {
+                "1": 363,
+                "2": 398
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "三崙村",
+            "house_no": "326",
+            "candidates": {
+                "1": 89,
+                "2": 196
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 415
+        }
+    ]
+}

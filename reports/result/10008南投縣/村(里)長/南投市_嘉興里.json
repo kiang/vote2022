@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張漢其",
+            "party": "無"
+        },
+        "2": {
+            "name": "張擇量",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "嘉興里",
+            "house_no": "17",
+            "candidates": {
+                "1": 375,
+                "2": 369
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "南投市",
+            "cunli": "嘉興里",
+            "house_no": "18",
+            "candidates": {
+                "1": 344,
+                "2": 286
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 942
+        }
+    ]
+}

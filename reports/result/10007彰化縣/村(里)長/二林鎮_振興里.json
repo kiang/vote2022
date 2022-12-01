@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊貴葉",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏錦綉",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝文藝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "振興里",
+            "house_no": "998",
+            "candidates": {
+                "1": 296,
+                "2": 222,
+                "3": 256
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

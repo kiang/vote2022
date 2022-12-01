@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林和村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新化區",
+            "cunli": "山脚里",
+            "house_no": "654",
+            "candidates": {
+                "1": 389
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 952
+        },
+        {
+            "area": "新化區",
+            "cunli": "山脚里",
+            "house_no": "655",
+            "candidates": {
+                "1": 316
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 695
+        }
+    ]
+}

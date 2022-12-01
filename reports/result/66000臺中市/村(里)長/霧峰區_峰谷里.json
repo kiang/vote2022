@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃錦昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "許景美",
+            "party": "無"
+        },
+        "3": {
+            "name": "江炎山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "峰谷里",
+            "house_no": "1786",
+            "candidates": {
+                "1": 386,
+                "2": 263,
+                "3": 151
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

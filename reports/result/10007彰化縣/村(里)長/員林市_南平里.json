@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭福全",
+            "party": "無"
+        },
+        "2": {
+            "name": "張淑靜",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳國勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "南平里",
+            "house_no": "586",
+            "candidates": {
+                "1": 212,
+                "2": 155,
+                "3": 309
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "員林市",
+            "cunli": "南平里",
+            "house_no": "587",
+            "candidates": {
+                "1": 150,
+                "2": 291,
+                "3": 297
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "員林市",
+            "cunli": "南平里",
+            "house_no": "588",
+            "candidates": {
+                "1": 101,
+                "2": 221,
+                "3": 238
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "員林市",
+            "cunli": "南平里",
+            "house_no": "589",
+            "candidates": {
+                "1": 215,
+                "2": 147,
+                "3": 220
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 869
+        },
+        {
+            "area": "員林市",
+            "cunli": "南平里",
+            "house_no": "590",
+            "candidates": {
+                "1": 168,
+                "2": 142,
+                "3": 251
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

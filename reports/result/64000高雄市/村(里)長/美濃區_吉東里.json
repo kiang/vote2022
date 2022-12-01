@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃新華",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾新寳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "吉東里",
+            "house_no": "130",
+            "candidates": {
+                "1": 337,
+                "2": 249
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "美濃區",
+            "cunli": "吉東里",
+            "house_no": "131",
+            "candidates": {
+                "1": 347,
+                "2": 265
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 849
+        }
+    ]
+}

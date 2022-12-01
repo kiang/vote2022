@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏傳芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭進德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "日善里",
+            "house_no": "1326",
+            "candidates": {
+                "1": 148,
+                "2": 443
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "萬華區",
+            "cunli": "日善里",
+            "house_no": "1327",
+            "candidates": {
+                "1": 112,
+                "2": 545
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "萬華區",
+            "cunli": "日善里",
+            "house_no": "1328",
+            "candidates": {
+                "1": 150,
+                "2": 535
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 999
+        }
+    ]
+}

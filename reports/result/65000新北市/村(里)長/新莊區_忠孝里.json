@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林長川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "忠孝里",
+            "house_no": "372",
+            "candidates": {
+                "1": 671
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1405
+        },
+        {
+            "area": "新莊區",
+            "cunli": "忠孝里",
+            "house_no": "373",
+            "candidates": {
+                "1": 754
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "新莊區",
+            "cunli": "忠孝里",
+            "house_no": "374",
+            "candidates": {
+                "1": 677
+            },
+            "count_wrong": 98,
+            "count_unused": 0,
+            "count_total": 1423
+        }
+    ]
+}

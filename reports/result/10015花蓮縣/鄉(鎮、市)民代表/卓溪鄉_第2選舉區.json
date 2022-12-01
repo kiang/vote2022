@@ -1,0 +1,126 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張永華",
+            "party": "無"
+        },
+        "2": {
+            "name": "高正虎",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "高發財",
+            "party": "無"
+        },
+        "4": {
+            "name": "林惠婷",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "邱秀英 A bus takisvilainan",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "李桂英 Savi Takisvilainan",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "卓溪鄉",
+            "cunli": "卓溪村",
+            "house_no": "327",
+            "candidates": {
+                "1": 15,
+                "2": 37,
+                "3": 209,
+                "4": 72,
+                "5": 104,
+                "6": 64
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 718
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "卓清村",
+            "house_no": "328",
+            "candidates": {
+                "1": 20,
+                "2": 126,
+                "3": 41,
+                "4": 42,
+                "5": 90,
+                "6": 60
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 596
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "卓清村",
+            "house_no": "329",
+            "candidates": {
+                "1": 34,
+                "2": 33,
+                "3": 15,
+                "4": 21,
+                "5": 107,
+                "6": 42
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 372
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "古風村",
+            "house_no": "330",
+            "candidates": {
+                "1": 14,
+                "2": 4,
+                "3": 7,
+                "4": 48,
+                "5": 126,
+                "6": 29
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 319
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "古風村",
+            "house_no": "331",
+            "candidates": {
+                "1": 120,
+                "2": 1,
+                "3": 23,
+                "4": 22,
+                "5": 122,
+                "6": 22
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 405
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "古風村",
+            "house_no": "332",
+            "candidates": {
+                "1": 16,
+                "2": 0,
+                "3": 4,
+                "4": 9,
+                "5": 41,
+                "6": 48
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 173
+        }
+    ]
+}

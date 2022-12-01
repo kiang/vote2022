@@ -1,0 +1,118 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳春基",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳世玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "秦慧玲",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳健龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三星鄉",
+            "cunli": "拱照村",
+            "house_no": "398",
+            "candidates": {
+                "1": 70,
+                "2": 121,
+                "3": 371,
+                "4": 30,
+                "5": 112,
+                "6": 11
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "行健村",
+            "house_no": "399",
+            "candidates": {
+                "1": 52,
+                "2": 240,
+                "3": 113,
+                "4": 32,
+                "5": 129,
+                "6": 25
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "400",
+            "candidates": {
+                "1": 156,
+                "2": 32,
+                "3": 54,
+                "4": 51,
+                "5": 145,
+                "6": 126
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "401",
+            "candidates": {
+                "1": 166,
+                "2": 43,
+                "3": 64,
+                "4": 43,
+                "5": 124,
+                "6": 189
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "402",
+            "candidates": {
+                "1": 130,
+                "2": 33,
+                "3": 87,
+                "4": 33,
+                "5": 218,
+                "6": 193
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "403",
+            "candidates": {
+                "1": 131,
+                "2": 50,
+                "3": 128,
+                "4": 46,
+                "5": 241,
+                "6": 184
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1183
+        }
+    ]
+}

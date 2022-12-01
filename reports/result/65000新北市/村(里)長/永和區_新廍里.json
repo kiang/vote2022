@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳王綉緞",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "紀詠心",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "新廍里",
+            "house_no": "1748",
+            "candidates": {
+                "1": 294,
+                "2": 321
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 954
+        },
+        {
+            "area": "永和區",
+            "cunli": "新廍里",
+            "house_no": "1749",
+            "candidates": {
+                "1": 220,
+                "2": 324
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 897
+        }
+    ]
+}

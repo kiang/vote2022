@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文明",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡惠生",
+            "party": "無"
+        },
+        "3": {
+            "name": "余明雄",
+            "party": "無"
+        },
+        "4": {
+            "name": "余春梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "海端鄉",
+            "cunli": "廣原村",
+            "house_no": "212",
+            "candidates": {
+                "1": 89,
+                "2": 51,
+                "3": 128,
+                "4": 191
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 707
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金城",
+            "party": "無"
+        },
+        "2": {
+            "name": "周儀綺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "立德里",
+            "house_no": "916",
+            "candidates": {
+                "1": 441,
+                "2": 342
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "三重區",
+            "cunli": "立德里",
+            "house_no": "917",
+            "candidates": {
+                "1": 551,
+                "2": 396
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1630
+        }
+    ]
+}

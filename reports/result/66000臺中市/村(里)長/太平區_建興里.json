@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡長志",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "建興里",
+            "house_no": "1538",
+            "candidates": {
+                "1": 635
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1457
+        },
+        {
+            "area": "太平區",
+            "cunli": "建興里",
+            "house_no": "1539",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1289
+        }
+    ]
+}

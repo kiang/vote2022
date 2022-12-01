@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馮文營",
+            "party": "無"
+        },
+        "2": {
+            "name": "游秉彥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹東鎮",
+            "cunli": "榮樂里",
+            "house_no": "175",
+            "candidates": {
+                "1": 248,
+                "2": 129
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "榮樂里",
+            "house_no": "176",
+            "candidates": {
+                "1": 205,
+                "2": 174
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 613
+        }
+    ]
+}

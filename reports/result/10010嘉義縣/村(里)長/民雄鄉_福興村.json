@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林邦銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "張永錚",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊邦富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "福興村",
+            "house_no": "152",
+            "candidates": {
+                "1": 179,
+                "2": 227,
+                "3": 256
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "福興村",
+            "house_no": "153",
+            "candidates": {
+                "1": 216,
+                "2": 261,
+                "3": 159
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1043
+        }
+    ]
+}

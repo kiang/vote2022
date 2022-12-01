@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳眞玟",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林瑞宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞北里",
+            "house_no": "1771",
+            "candidates": {
+                "1": 544,
+                "2": 329
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1510
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞北里",
+            "house_no": "1772",
+            "candidates": {
+                "1": 572,
+                "2": 343
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1547
+        }
+    ]
+}

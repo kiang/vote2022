@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張昌期",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭明煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "福祥里",
+            "house_no": "1388",
+            "candidates": {
+                "1": 430,
+                "2": 382
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1328
+        },
+        {
+            "area": "中和區",
+            "cunli": "福祥里",
+            "house_no": "1389",
+            "candidates": {
+                "1": 492,
+                "2": 423
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "中和區",
+            "cunli": "福祥里",
+            "house_no": "1390",
+            "candidates": {
+                "1": 597,
+                "2": 331
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1528
+        }
+    ]
+}

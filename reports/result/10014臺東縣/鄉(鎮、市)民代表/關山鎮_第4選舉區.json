@@ -1,0 +1,135 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂文龍",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃玉英 Ｕsay Amui Lipay",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅章榮 Kakupa Arang",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "關山鎮",
+            "cunli": "里壠里",
+            "house_no": "109",
+            "candidates": {
+                "1": 16,
+                "2": 7,
+                "3": 3
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 58
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "里壠里",
+            "house_no": "110",
+            "candidates": {
+                "1": 32,
+                "2": 25,
+                "3": 42
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 163
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "中福里",
+            "house_no": "111",
+            "candidates": {
+                "1": 8,
+                "2": 4,
+                "3": 3
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 25
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "新福里",
+            "house_no": "112",
+            "candidates": {
+                "1": 82,
+                "2": 32,
+                "3": 14
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 224
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "豐泉里",
+            "house_no": "113",
+            "candidates": {
+                "1": 43,
+                "2": 19,
+                "3": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 110
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "月眉里",
+            "house_no": "114",
+            "candidates": {
+                "1": 21,
+                "2": 5,
+                "3": 20
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 85
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "德高里",
+            "house_no": "115",
+            "candidates": {
+                "1": 88,
+                "2": 177,
+                "3": 49
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 479
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "德高里",
+            "house_no": "116",
+            "candidates": {
+                "1": 15,
+                "2": 23,
+                "3": 11
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 95
+        },
+        {
+            "area": "關山鎮",
+            "cunli": "電光里",
+            "house_no": "117",
+            "candidates": {
+                "1": 34,
+                "2": 51,
+                "3": 135
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 322
+        }
+    ]
+}

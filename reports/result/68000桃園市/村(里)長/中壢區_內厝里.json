@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉綵螢",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳富勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "內厝里",
+            "house_no": "948",
+            "candidates": {
+                "1": 652,
+                "2": 362
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1665
+        },
+        {
+            "area": "中壢區",
+            "cunli": "內厝里",
+            "house_no": "949",
+            "candidates": {
+                "1": 424,
+                "2": 459
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "中壢區",
+            "cunli": "內厝里",
+            "house_no": "950",
+            "candidates": {
+                "1": 598,
+                "2": 379
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1552
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊國忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "林耀城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "南柳里",
+            "house_no": "1768",
+            "candidates": {
+                "1": 415,
+                "2": 290
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "南柳里",
+            "house_no": "1769",
+            "candidates": {
+                "1": 353,
+                "2": 189
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 821
+        }
+    ]
+}

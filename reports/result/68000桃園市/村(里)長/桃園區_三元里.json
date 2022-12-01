@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳章立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "三元里",
+            "house_no": "203",
+            "candidates": {
+                "1": 677
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "桃園區",
+            "cunli": "三元里",
+            "house_no": "204",
+            "candidates": {
+                "1": 514
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "桃園區",
+            "cunli": "三元里",
+            "house_no": "205",
+            "candidates": {
+                "1": 643
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1272
+        }
+    ]
+}

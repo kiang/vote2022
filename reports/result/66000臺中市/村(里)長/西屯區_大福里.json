@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高信增",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "大福里",
+            "house_no": "823",
+            "candidates": {
+                "1": 499
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大福里",
+            "house_no": "824",
+            "candidates": {
+                "1": 528
+            },
+            "count_wrong": 38,
+            "count_unused": 1,
+            "count_total": 997
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大福里",
+            "house_no": "825",
+            "candidates": {
+                "1": 578
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1118
+        }
+    ]
+}

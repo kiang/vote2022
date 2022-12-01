@@ -1,0 +1,65 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘威志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "中山里",
+            "house_no": "2202",
+            "candidates": {
+                "1": 393
+            },
+            "count_wrong": 42,
+            "count_unused": 1,
+            "count_total": 816
+        },
+        {
+            "area": "新店區",
+            "cunli": "中山里",
+            "house_no": "2203",
+            "candidates": {
+                "1": 416
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 680
+        },
+        {
+            "area": "新店區",
+            "cunli": "中山里",
+            "house_no": "2204",
+            "candidates": {
+                "1": 598
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "新店區",
+            "cunli": "中山里",
+            "house_no": "2205",
+            "candidates": {
+                "1": 461
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 834
+        },
+        {
+            "area": "新店區",
+            "cunli": "中山里",
+            "house_no": "2206",
+            "candidates": {
+                "1": 780
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1300
+        }
+    ]
+}

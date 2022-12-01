@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周秀美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "光華里",
+            "house_no": "1026",
+            "candidates": {
+                "1": 530
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "板橋區",
+            "cunli": "光華里",
+            "house_no": "1027",
+            "candidates": {
+                "1": 692
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1163
+        }
+    ]
+}

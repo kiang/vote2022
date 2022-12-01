@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳慧玲",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "林桂洲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "過溝里",
+            "house_no": "44",
+            "candidates": {
+                "1": 176,
+                "2": 327
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "東區",
+            "cunli": "過溝里",
+            "house_no": "45",
+            "candidates": {
+                "1": 223,
+                "2": 355
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 939
+        }
+    ]
+}

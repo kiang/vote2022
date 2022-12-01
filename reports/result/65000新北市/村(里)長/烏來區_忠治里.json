@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余遠源",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃忠信",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏來區",
+            "cunli": "忠治里",
+            "house_no": "2397",
+            "candidates": {
+                "1": 167,
+                "2": 412
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "烏來區",
+            "cunli": "忠治里",
+            "house_no": "2398",
+            "candidates": {
+                "1": 170,
+                "2": 300
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 635
+        }
+    ]
+}

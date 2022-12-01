@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱讌婷",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡喬恩",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡綉花",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "得和里",
+            "house_no": "1634",
+            "candidates": {
+                "1": 67,
+                "2": 307,
+                "3": 434
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "永和區",
+            "cunli": "得和里",
+            "house_no": "1635",
+            "candidates": {
+                "1": 49,
+                "2": 224,
+                "3": 414
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "永和區",
+            "cunli": "得和里",
+            "house_no": "1636",
+            "candidates": {
+                "1": 55,
+                "2": 230,
+                "3": 405
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1138
+        }
+    ]
+}

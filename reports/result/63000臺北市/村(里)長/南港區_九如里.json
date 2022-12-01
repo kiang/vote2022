@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "程世華",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇國賢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "九如里",
+            "house_no": "538",
+            "candidates": {
+                "1": 216,
+                "2": 579
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "南港區",
+            "cunli": "九如里",
+            "house_no": "539",
+            "candidates": {
+                "1": 160,
+                "2": 682
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "南港區",
+            "cunli": "九如里",
+            "house_no": "540",
+            "candidates": {
+                "1": 174,
+                "2": 575
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "南港區",
+            "cunli": "九如里",
+            "house_no": "541",
+            "candidates": {
+                "1": 232,
+                "2": 629
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1306
+        }
+    ]
+}

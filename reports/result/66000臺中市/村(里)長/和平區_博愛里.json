@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聖金",
+            "party": "無"
+        },
+        "2": {
+            "name": "范忠文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "博愛里",
+            "house_no": "1867",
+            "candidates": {
+                "1": 276,
+                "2": 392
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "和平區",
+            "cunli": "博愛里",
+            "house_no": "1868",
+            "candidates": {
+                "1": 208,
+                "2": 224
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 628
+        }
+    ]
+}

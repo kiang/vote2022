@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温源興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "龍山里",
+            "house_no": "109",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1036
+        },
+        {
+            "area": "美濃區",
+            "cunli": "龍山里",
+            "house_no": "110",
+            "candidates": {
+                "1": 550
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 982
+        }
+    ]
+}

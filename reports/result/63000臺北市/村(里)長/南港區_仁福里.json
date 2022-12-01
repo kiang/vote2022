@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳肇輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "江俊賢",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅康華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "仁福里",
+            "house_no": "592",
+            "candidates": {
+                "1": 311,
+                "2": 106,
+                "3": 287
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "南港區",
+            "cunli": "仁福里",
+            "house_no": "593",
+            "candidates": {
+                "1": 304,
+                "2": 113,
+                "3": 240
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "南港區",
+            "cunli": "仁福里",
+            "house_no": "594",
+            "candidates": {
+                "1": 437,
+                "2": 114,
+                "3": 313
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "南港區",
+            "cunli": "仁福里",
+            "house_no": "595",
+            "candidates": {
+                "1": 391,
+                "2": 135,
+                "3": 306
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1298
+        }
+    ]
+}

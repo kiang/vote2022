@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝金雀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "學甲區",
+            "cunli": "秀昌里",
+            "house_no": "218",
+            "candidates": {
+                "1": 396
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "學甲區",
+            "cunli": "秀昌里",
+            "house_no": "219",
+            "candidates": {
+                "1": 323
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 693
+        },
+        {
+            "area": "學甲區",
+            "cunli": "秀昌里",
+            "house_no": "220",
+            "candidates": {
+                "1": 454
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 909
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張元亨",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "福德里",
+            "house_no": "2193",
+            "candidates": {
+                "1": 542
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "新店區",
+            "cunli": "福德里",
+            "house_no": "2194",
+            "candidates": {
+                "1": 596
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1215
+        },
+        {
+            "area": "新店區",
+            "cunli": "福德里",
+            "house_no": "2195",
+            "candidates": {
+                "1": 441
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 947
+        }
+    ]
+}

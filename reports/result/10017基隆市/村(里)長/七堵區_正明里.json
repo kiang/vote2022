@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高崑繽",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝連堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "正明里",
+            "house_no": "245",
+            "candidates": {
+                "1": 278,
+                "2": 312
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 927
+        },
+        {
+            "area": "七堵區",
+            "cunli": "正明里",
+            "house_no": "246",
+            "candidates": {
+                "1": 290,
+                "2": 325
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 886
+        }
+    ]
+}

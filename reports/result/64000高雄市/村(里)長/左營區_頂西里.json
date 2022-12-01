@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳榮照",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝國柱",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳中長",
+            "party": "無"
+        },
+        "4": {
+            "name": "方秀娟",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "頂西里",
+            "house_no": "610",
+            "candidates": {
+                "1": 246,
+                "2": 69,
+                "3": 22,
+                "4": 257
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 867
+        }
+    ]
+}

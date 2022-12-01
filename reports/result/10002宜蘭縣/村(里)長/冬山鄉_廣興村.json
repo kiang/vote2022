@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林添榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾智忠",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝串珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "冬山鄉",
+            "cunli": "廣興村",
+            "house_no": "341",
+            "candidates": {
+                "1": 98,
+                "2": 344,
+                "3": 296
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "廣興村",
+            "house_no": "342",
+            "candidates": {
+                "1": 120,
+                "2": 292,
+                "3": 270
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1185
+        }
+    ]
+}

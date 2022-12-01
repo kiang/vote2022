@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖佐華",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪炳坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "新雅里",
+            "house_no": "214",
+            "candidates": {
+                "1": 399,
+                "2": 280
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1079
+        },
+        {
+            "area": "北區",
+            "cunli": "新雅里",
+            "house_no": "215",
+            "candidates": {
+                "1": 268,
+                "2": 370
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1031
+        },
+        {
+            "area": "北區",
+            "cunli": "新雅里",
+            "house_no": "216",
+            "candidates": {
+                "1": 354,
+                "2": 299
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "北區",
+            "cunli": "新雅里",
+            "house_no": "217",
+            "candidates": {
+                "1": 315,
+                "2": 308
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1018
+        }
+    ]
+}

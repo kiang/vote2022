@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳森松",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉御常",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿谷鄉",
+            "cunli": "鹿谷村",
+            "house_no": "335",
+            "candidates": {
+                "1": 116,
+                "2": 442
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "鹿谷村",
+            "house_no": "336",
+            "candidates": {
+                "1": 150,
+                "2": 409
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭和成",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "黃宗興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "本文里",
+            "house_no": "1036",
+            "candidates": {
+                "1": 287,
+                "2": 229
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "三民區",
+            "cunli": "本文里",
+            "house_no": "1037",
+            "candidates": {
+                "1": 291,
+                "2": 141
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

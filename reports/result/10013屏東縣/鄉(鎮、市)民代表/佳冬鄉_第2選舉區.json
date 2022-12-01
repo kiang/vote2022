@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張玉臨",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉寬銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳雅昆",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "陳桂香",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳冬鄉",
+            "cunli": "石光村",
+            "house_no": "600",
+            "candidates": {
+                "1": 77,
+                "2": 54,
+                "3": 123,
+                "4": 270,
+                "5": 89
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "石光村",
+            "house_no": "601",
+            "candidates": {
+                "1": 84,
+                "2": 68,
+                "3": 127,
+                "4": 281,
+                "5": 77
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "玉光村",
+            "house_no": "602",
+            "candidates": {
+                "1": 138,
+                "2": 55,
+                "3": 91,
+                "4": 143,
+                "5": 132
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "玉光村",
+            "house_no": "603",
+            "candidates": {
+                "1": 183,
+                "2": 64,
+                "3": 152,
+                "4": 226,
+                "5": 207
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳昭任",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉重德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "光榮里",
+            "house_no": "10",
+            "candidates": {
+                "1": 390,
+                "2": 323
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1319
+        },
+        {
+            "area": "馬公市",
+            "cunli": "光榮里",
+            "house_no": "11",
+            "candidates": {
+                "1": 552,
+                "2": 254
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1373
+        },
+        {
+            "area": "馬公市",
+            "cunli": "光榮里",
+            "house_no": "12",
+            "candidates": {
+                "1": 417,
+                "2": 292
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1297
+        }
+    ]
+}

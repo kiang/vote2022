@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾秋月",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳政龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "番路鄉",
+            "cunli": "草山村",
+            "house_no": "508",
+            "candidates": {
+                "1": 61,
+                "2": 60
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 152
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "草山村",
+            "house_no": "509",
+            "candidates": {
+                "1": 78,
+                "2": 83
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 196
+        }
+    ]
+}

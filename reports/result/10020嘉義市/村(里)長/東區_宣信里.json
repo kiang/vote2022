@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃建順",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃女珍",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳冠名",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "宣信里",
+            "house_no": "48",
+            "candidates": {
+                "1": 258,
+                "2": 133,
+                "3": 327
+            },
+            "count_wrong": 7,
+            "count_unused": 1,
+            "count_total": 1197
+        }
+    ]
+}

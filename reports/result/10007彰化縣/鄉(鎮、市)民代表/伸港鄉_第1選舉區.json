@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯國雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯嘉換",
+            "party": "無"
+        },
+        "3": {
+            "name": "柯俊生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "大同村",
+            "house_no": "459",
+            "candidates": {
+                "1": 229,
+                "2": 255,
+                "3": 259
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "大同村",
+            "house_no": "460",
+            "candidates": {
+                "1": 424,
+                "2": 251,
+                "3": 294
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1486
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "海尾村",
+            "house_no": "461",
+            "candidates": {
+                "1": 407,
+                "2": 92,
+                "3": 146
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "海尾村",
+            "house_no": "462",
+            "candidates": {
+                "1": 334,
+                "2": 112,
+                "3": 120
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 849
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "全興村",
+            "house_no": "463",
+            "candidates": {
+                "1": 42,
+                "2": 243,
+                "3": 299
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 788
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "全興村",
+            "house_no": "464",
+            "candidates": {
+                "1": 90,
+                "2": 219,
+                "3": 291
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 842
+        }
+    ]
+}

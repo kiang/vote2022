@@ -1,0 +1,97 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張榮華",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳文發",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳承修",
+            "party": "無"
+        },
+        "4": {
+            "name": "宋狄澔",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三星鄉",
+            "cunli": "雙賢村",
+            "house_no": "393",
+            "candidates": {
+                "1": 154,
+                "2": 64,
+                "3": 25,
+                "4": 123,
+                "5": 72
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 564
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "人和村",
+            "house_no": "394",
+            "candidates": {
+                "1": 46,
+                "2": 98,
+                "3": 46,
+                "4": 68,
+                "5": 69
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 437
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "義德村",
+            "house_no": "395",
+            "candidates": {
+                "1": 92,
+                "2": 205,
+                "3": 23,
+                "4": 136,
+                "5": 234
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "集慶村",
+            "house_no": "396",
+            "candidates": {
+                "1": 101,
+                "2": 241,
+                "3": 21,
+                "4": 194,
+                "5": 140
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "月眉村",
+            "house_no": "397",
+            "candidates": {
+                "1": 64,
+                "2": 203,
+                "3": 32,
+                "4": 156,
+                "5": 124
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

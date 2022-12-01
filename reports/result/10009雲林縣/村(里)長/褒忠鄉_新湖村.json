@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳慎哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳淑娟",
+            "party": "無"
+        },
+        "3": {
+            "name": "林連益",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳木山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "新湖村",
+            "house_no": "85",
+            "candidates": {
+                "1": 187,
+                "2": 45,
+                "3": 53,
+                "4": 69
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 435
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "新湖村",
+            "house_no": "86",
+            "candidates": {
+                "1": 186,
+                "2": 211,
+                "3": 0,
+                "4": 135
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 691
+        }
+    ]
+}

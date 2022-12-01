@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃再添",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃契螢",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃富景",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "東平里",
+            "house_no": "112",
+            "candidates": {
+                "1": 231,
+                "2": 183,
+                "3": 220
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "東平里",
+            "house_no": "113",
+            "candidates": {
+                "1": 314,
+                "2": 161,
+                "3": 230
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 938
+        }
+    ]
+}

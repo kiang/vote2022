@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉文富",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秀英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "西安里",
+            "house_no": "106",
+            "candidates": {
+                "1": 388,
+                "2": 406
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "西安里",
+            "house_no": "107",
+            "candidates": {
+                "1": 403,
+                "2": 391
+            },
+            "count_wrong": 30,
+            "count_unused": 2,
+            "count_total": 1349
+        }
+    ]
+}

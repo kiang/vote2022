@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳慶東",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡忠憲",
+            "party": "無"
+        },
+        "3": {
+            "name": "何鉛彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "民享里",
+            "house_no": "1165",
+            "candidates": {
+                "1": 282,
+                "2": 156,
+                "3": 141
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "三民區",
+            "cunli": "民享里",
+            "house_no": "1166",
+            "candidates": {
+                "1": 266,
+                "2": 91,
+                "3": 255
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 893
+        }
+    ]
+}

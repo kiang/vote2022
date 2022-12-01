@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭寶鍊",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉秋霞",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳俊吉",
+            "party": "無"
+        },
+        "4": {
+            "name": "李詩永",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "青峰里",
+            "house_no": "597",
+            "candidates": {
+                "1": 84,
+                "2": 315,
+                "3": 171,
+                "4": 213
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "大園區",
+            "cunli": "青峰里",
+            "house_no": "598",
+            "candidates": {
+                "1": 69,
+                "2": 225,
+                "3": 172,
+                "4": 165
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "大園區",
+            "cunli": "青峰里",
+            "house_no": "599",
+            "candidates": {
+                "1": 76,
+                "2": 274,
+                "3": 227,
+                "4": 142
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1323
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張吉雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "張世昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "車城鄉",
+            "cunli": "福興村",
+            "house_no": "622",
+            "candidates": {
+                "1": 41,
+                "2": 45,
+                "3": 63,
+                "4": 85,
+                "5": 28,
+                "6": 70
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 463
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "福興村",
+            "house_no": "623",
+            "candidates": {
+                "1": 67,
+                "2": 129,
+                "3": 137,
+                "4": 103,
+                "5": 60,
+                "6": 96
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 816
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "福安村",
+            "house_no": "624",
+            "candidates": {
+                "1": 28,
+                "2": 60,
+                "3": 50,
+                "4": 91,
+                "5": 40,
+                "6": 112
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 522
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "統埔村",
+            "house_no": "625",
+            "candidates": {
+                "1": 37,
+                "2": 13,
+                "3": 17,
+                "4": 20,
+                "5": 156,
+                "6": 16
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 357
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "溫泉村",
+            "house_no": "626",
+            "candidates": {
+                "1": 283,
+                "2": 39,
+                "3": 38,
+                "4": 80,
+                "5": 101,
+                "6": 48
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 834
+        }
+    ]
+}

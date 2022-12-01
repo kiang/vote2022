@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "龔英俊",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭壹色",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳天升",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "牛厝村",
+            "house_no": "45",
+            "candidates": {
+                "1": 320,
+                "2": 164,
+                "3": 224
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "牛厝村",
+            "house_no": "46",
+            "candidates": {
+                "1": 258,
+                "2": 40,
+                "3": 115
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 665
+        }
+    ]
+}

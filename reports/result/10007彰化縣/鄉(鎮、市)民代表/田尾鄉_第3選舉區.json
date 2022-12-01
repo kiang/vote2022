@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃榮校",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳振銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "張勝彬",
+            "party": "台灣民眾黨"
+        },
+        "4": {
+            "name": "陳孟杰",
+            "party": "無"
+        },
+        "5": {
+            "name": "范俊昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "柳鳳村",
+            "house_no": "906",
+            "candidates": {
+                "1": 474
+            },
+            "count_wrong": 106,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "陸豐村",
+            "house_no": "907",
+            "candidates": {
+                "1": 521
+            },
+            "count_wrong": 143,
+            "count_unused": 0,
+            "count_total": 859
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "海豐村",
+            "house_no": "908",
+            "candidates": {
+                "1": 399
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 762
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "海豐村",
+            "house_no": "909",
+            "candidates": {
+                "1": 236
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 539
+        }
+    ]
+}

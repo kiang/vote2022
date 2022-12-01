@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅吉森",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關西鎮",
+            "cunli": "西安里",
+            "house_no": "249",
+            "candidates": {
+                "1": 500
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 852
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "西安里",
+            "house_no": "250",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 971
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張哲瑋",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃新義",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "民榮里",
+            "house_no": "154",
+            "candidates": {
+                "1": 306,
+                "2": 355
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "新營區",
+            "cunli": "民榮里",
+            "house_no": "155",
+            "candidates": {
+                "1": 207,
+                "2": 305
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "新營區",
+            "cunli": "民榮里",
+            "house_no": "156",
+            "candidates": {
+                "1": 269,
+                "2": 325
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "新營區",
+            "cunli": "民榮里",
+            "house_no": "157",
+            "candidates": {
+                "1": 274,
+                "2": 400
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

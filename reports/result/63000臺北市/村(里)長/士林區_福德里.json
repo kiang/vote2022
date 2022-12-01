@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盛琳惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊錦宗",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福德里",
+            "house_no": "178",
+            "candidates": {
+                "1": 298,
+                "2": 314
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 863
+        },
+        {
+            "area": "士林區",
+            "cunli": "福德里",
+            "house_no": "179",
+            "candidates": {
+                "1": 338,
+                "2": 270
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "士林區",
+            "cunli": "福德里",
+            "house_no": "180",
+            "candidates": {
+                "1": 374,
+                "2": 273
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "士林區",
+            "cunli": "福德里",
+            "house_no": "181",
+            "candidates": {
+                "1": 259,
+                "2": 239
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1941
+        }
+    ]
+}

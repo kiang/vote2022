@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許榮生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "麻園里",
+            "house_no": "119",
+            "candidates": {
+                "1": 518
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "竹北市",
+            "cunli": "麻園里",
+            "house_no": "120",
+            "candidates": {
+                "1": 507
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 981
+        }
+    ]
+}

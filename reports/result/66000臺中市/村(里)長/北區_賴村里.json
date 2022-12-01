@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧福財",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖羽婷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "賴村里",
+            "house_no": "1244",
+            "candidates": {
+                "1": 337,
+                "2": 381
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "北區",
+            "cunli": "賴村里",
+            "house_no": "1245",
+            "candidates": {
+                "1": 331,
+                "2": 438
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 1302
+        },
+        {
+            "area": "北區",
+            "cunli": "賴村里",
+            "house_no": "1246",
+            "candidates": {
+                "1": 338,
+                "2": 466
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1520
+        }
+    ]
+}

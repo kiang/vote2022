@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀淑娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "林育萬",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊榮爵",
+            "party": "無"
+        },
+        "4": {
+            "name": "林永富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹塘鄉",
+            "cunli": "小西村",
+            "house_no": "1070",
+            "candidates": {
+                "1": 189,
+                "2": 80,
+                "3": 79,
+                "4": 203
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 669
+        }
+    ]
+}

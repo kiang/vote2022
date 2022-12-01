@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭先彰",
+            "party": "無"
+        },
+        "2": {
+            "name": "連仁裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新屋區",
+            "cunli": "永安里",
+            "house_no": "1308",
+            "candidates": {
+                "1": 294,
+                "2": 293
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 803
+        },
+        {
+            "area": "新屋區",
+            "cunli": "永安里",
+            "house_no": "1309",
+            "candidates": {
+                "1": 538,
+                "2": 415
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1316
+        }
+    ]
+}

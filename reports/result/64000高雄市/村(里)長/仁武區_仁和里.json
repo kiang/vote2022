@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳福慶",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭諭澤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "仁和里",
+            "house_no": "787",
+            "candidates": {
+                "1": 345,
+                "2": 390
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1233
+        },
+        {
+            "area": "仁武區",
+            "cunli": "仁和里",
+            "house_no": "788",
+            "candidates": {
+                "1": 280,
+                "2": 383
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "仁武區",
+            "cunli": "仁和里",
+            "house_no": "789",
+            "candidates": {
+                "1": 340,
+                "2": 348
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1236
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林峻達",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭文鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "豐圳里",
+            "house_no": "478",
+            "candidates": {
+                "1": 332,
+                "2": 446
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "豐原區",
+            "cunli": "豐圳里",
+            "house_no": "479",
+            "candidates": {
+                "1": 263,
+                "2": 423
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "豐原區",
+            "cunli": "豐圳里",
+            "house_no": "480",
+            "candidates": {
+                "1": 235,
+                "2": 439
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1020
+        }
+    ]
+}

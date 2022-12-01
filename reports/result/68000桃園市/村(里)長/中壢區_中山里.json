@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王寧政",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐忠進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "中山里",
+            "house_no": "802",
+            "candidates": {
+                "1": 440,
+                "2": 281
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1422
+        },
+        {
+            "area": "中壢區",
+            "cunli": "中山里",
+            "house_no": "803",
+            "candidates": {
+                "1": 575,
+                "2": 348
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1667
+        },
+        {
+            "area": "中壢區",
+            "cunli": "中山里",
+            "house_no": "804",
+            "candidates": {
+                "1": 453,
+                "2": 303
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1441
+        }
+    ]
+}

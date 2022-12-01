@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾丁萬",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃美瑟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "內新里",
+            "house_no": "50",
+            "candidates": {
+                "1": 419,
+                "2": 346
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "南投市",
+            "cunli": "內新里",
+            "house_no": "51",
+            "candidates": {
+                "1": 466,
+                "2": 306
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "南投市",
+            "cunli": "內新里",
+            "house_no": "52",
+            "candidates": {
+                "1": 439,
+                "2": 299
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

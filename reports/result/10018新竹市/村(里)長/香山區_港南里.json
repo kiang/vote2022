@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "韋宗洲",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇瑞林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "港南里",
+            "house_no": "321",
+            "candidates": {
+                "1": 302,
+                "2": 268
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "香山區",
+            "cunli": "港南里",
+            "house_no": "322",
+            "candidates": {
+                "1": 352,
+                "2": 378
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "香山區",
+            "cunli": "港南里",
+            "house_no": "323",
+            "candidates": {
+                "1": 271,
+                "2": 433
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 908
+        }
+    ]
+}

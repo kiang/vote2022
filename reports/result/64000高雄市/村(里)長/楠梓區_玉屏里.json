@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪千雅",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳清雲",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡銘川",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳忠興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "玉屏里",
+            "house_no": "504",
+            "candidates": {
+                "1": 316,
+                "2": 23,
+                "3": 81,
+                "4": 203
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "玉屏里",
+            "house_no": "505",
+            "candidates": {
+                "1": 379,
+                "2": 43,
+                "3": 87,
+                "4": 275
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1091
+        }
+    ]
+}

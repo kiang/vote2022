@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳泰豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳中和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "砂崙里",
+            "house_no": "795",
+            "candidates": {
+                "1": 323,
+                "2": 109
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 560
+        },
+        {
+            "area": "安南區",
+            "cunli": "砂崙里",
+            "house_no": "796",
+            "candidates": {
+                "1": 393,
+                "2": 79
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 665
+        }
+    ]
+}

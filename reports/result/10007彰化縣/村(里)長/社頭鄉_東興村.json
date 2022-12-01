@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭福銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭武雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "東興村",
+            "house_no": "813",
+            "candidates": {
+                "1": 255,
+                "2": 295
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 772
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "東興村",
+            "house_no": "814",
+            "candidates": {
+                "1": 151,
+                "2": 259
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 643
+        }
+    ]
+}

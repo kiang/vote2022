@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高健民",
+            "party": "無"
+        },
+        "2": {
+            "name": "張美英 Panay．Simoy",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳武雄",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊欽驛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長濱鄉",
+            "cunli": "竹湖村",
+            "house_no": "175",
+            "candidates": {
+                "1": 163,
+                "2": 159,
+                "3": 94,
+                "4": 129
+            },
+            "count_wrong": 9,
+            "count_unused": 2,
+            "count_total": 841
+        }
+    ]
+}

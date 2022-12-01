@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳育群",
+            "party": "無"
+        },
+        "2": {
+            "name": "范秀卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "正守里",
+            "house_no": "897",
+            "candidates": {
+                "1": 480,
+                "2": 473
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1447
+        },
+        {
+            "area": "中山區",
+            "cunli": "正守里",
+            "house_no": "898",
+            "candidates": {
+                "1": 462,
+                "2": 348
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1186
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳伊信",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳導君",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "仁德里",
+            "house_no": "782",
+            "candidates": {
+                "1": 483,
+                "2": 455
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1530
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁德里",
+            "house_no": "783",
+            "candidates": {
+                "1": 298,
+                "2": 562
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1409
+        }
+    ]
+}

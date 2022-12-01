@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何麗玲",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "永明里",
+            "house_no": "47",
+            "candidates": {
+                "1": 738
+            },
+            "count_wrong": 165,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "北投區",
+            "cunli": "永明里",
+            "house_no": "48",
+            "candidates": {
+                "1": 699
+            },
+            "count_wrong": 172,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "北投區",
+            "cunli": "永明里",
+            "house_no": "49",
+            "candidates": {
+                "1": 605
+            },
+            "count_wrong": 191,
+            "count_unused": 3,
+            "count_total": 1115
+        }
+    ]
+}

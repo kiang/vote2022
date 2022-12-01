@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇水明",
+            "party": "無"
+        },
+        "2": {
+            "name": "王賢財",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳春朝",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "謝名覲",
+            "party": "民主進步黨"
+        },
+        "5": {
+            "name": "潘彥儒",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "福德里",
+            "house_no": "198",
+            "candidates": {
+                "1": 149,
+                "2": 448
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 884
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "福德里",
+            "house_no": "199",
+            "candidates": {
+                "1": 217,
+                "2": 390
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "朝安里",
+            "house_no": "200",
+            "candidates": {
+                "1": 135,
+                "2": 339
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 747
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "朝安里",
+            "house_no": "201",
+            "candidates": {
+                "1": 144,
+                "2": 330
+            },
+            "count_wrong": 10,
+            "count_unused": 1,
+            "count_total": 755
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "東隆里",
+            "house_no": "202",
+            "candidates": {
+                "1": 162,
+                "2": 572
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1127
+        }
+    ]
+}

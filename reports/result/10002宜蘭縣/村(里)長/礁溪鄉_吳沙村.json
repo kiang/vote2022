@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪偉智",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳嘉玲",
+            "party": "無"
+        },
+        "3": {
+            "name": "林宏遠",
+            "party": "無"
+        },
+        "4": {
+            "name": "蕭聰池",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "吳沙村",
+            "house_no": "239",
+            "candidates": {
+                "1": 9,
+                "2": 280,
+                "3": 21,
+                "4": 323
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 899
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "吳沙村",
+            "house_no": "240",
+            "candidates": {
+                "1": 18,
+                "2": 326,
+                "3": 11,
+                "4": 260
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "吳沙村",
+            "house_no": "241",
+            "candidates": {
+                "1": 5,
+                "2": 256,
+                "3": 45,
+                "4": 290
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 790
+        }
+    ]
+}

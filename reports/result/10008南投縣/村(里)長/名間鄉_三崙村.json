@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李俊宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊紋練",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "三崙村",
+            "house_no": "325",
+            "candidates": {
+                "1": 120,
+                "2": 583
+            },
+            "count_wrong": 82,
+            "count_unused": 1,
+            "count_total": 1065
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "三崙村",
+            "house_no": "326",
+            "candidates": {
+                "1": 40,
+                "2": 231
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 415
+        }
+    ]
+}

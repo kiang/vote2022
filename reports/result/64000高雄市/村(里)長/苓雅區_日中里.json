@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳東源",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃浚旂",
+            "party": "無"
+        },
+        "3": {
+            "name": "許愛珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "日中里",
+            "house_no": "1303",
+            "candidates": {
+                "1": 96,
+                "2": 232,
+                "3": 273
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "日中里",
+            "house_no": "1304",
+            "candidates": {
+                "1": 128,
+                "2": 213,
+                "3": 240
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 969
+        }
+    ]
+}

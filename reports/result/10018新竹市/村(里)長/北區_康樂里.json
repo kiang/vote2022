@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林再興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "康樂里",
+            "house_no": "278",
+            "candidates": {
+                "1": 473
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "北區",
+            "cunli": "康樂里",
+            "house_no": "279",
+            "candidates": {
+                "1": 673
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "北區",
+            "cunli": "康樂里",
+            "house_no": "280",
+            "candidates": {
+                "1": 459
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 881
+        }
+    ]
+}

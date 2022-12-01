@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳昇柏",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇清和",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "再興里",
+            "house_no": "1186",
+            "candidates": {
+                "1": 313,
+                "2": 353
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1107
+        },
+        {
+            "area": "南區",
+            "cunli": "再興里",
+            "house_no": "1187",
+            "candidates": {
+                "1": 327,
+                "2": 264
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 974
+        }
+    ]
+}

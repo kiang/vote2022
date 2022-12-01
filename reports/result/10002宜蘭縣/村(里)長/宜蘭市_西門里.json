@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林銘信",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "西門里",
+            "house_no": "79",
+            "candidates": {
+                "1": 475
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "西門里",
+            "house_no": "80",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 89,
+            "count_unused": 2,
+            "count_total": 884
+        }
+    ]
+}

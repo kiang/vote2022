@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪錫銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "李清德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "金墩村",
+            "house_no": "192",
+            "candidates": {
+                "1": 162,
+                "2": 355
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "金墩村",
+            "house_no": "193",
+            "candidates": {
+                "1": 181,
+                "2": 423
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 901
+        }
+    ]
+}

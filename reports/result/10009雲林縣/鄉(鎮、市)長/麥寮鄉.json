@@ -1,0 +1,566 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宜豊",
+            "party": "無"
+        },
+        "2": {
+            "name": "林建鴻",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "許志豪",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡長昆",
+            "party": "無"
+        },
+        "5": {
+            "name": "許忠富",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥豐村",
+            "house_no": "1",
+            "candidates": {
+                "1": 210,
+                "2": 209,
+                "3": 117,
+                "4": 202,
+                "5": 127
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥豐村",
+            "house_no": "2",
+            "candidates": {
+                "1": 166,
+                "2": 166,
+                "3": 138,
+                "4": 155,
+                "5": 128
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥豐村",
+            "house_no": "3",
+            "candidates": {
+                "1": 123,
+                "2": 174,
+                "3": 162,
+                "4": 151,
+                "5": 208
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥豐村",
+            "house_no": "4",
+            "candidates": {
+                "1": 182,
+                "2": 166,
+                "3": 178,
+                "4": 225,
+                "5": 191
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1493
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥豐村",
+            "house_no": "5",
+            "candidates": {
+                "1": 139,
+                "2": 178,
+                "3": 162,
+                "4": 163,
+                "5": 114
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥豐村",
+            "house_no": "6",
+            "candidates": {
+                "1": 116,
+                "2": 136,
+                "3": 116,
+                "4": 165,
+                "5": 111
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1031
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥津村",
+            "house_no": "7",
+            "candidates": {
+                "1": 115,
+                "2": 156,
+                "3": 117,
+                "4": 183,
+                "5": 145
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥津村",
+            "house_no": "8",
+            "candidates": {
+                "1": 91,
+                "2": 100,
+                "3": 117,
+                "4": 159,
+                "5": 123
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥津村",
+            "house_no": "9",
+            "candidates": {
+                "1": 177,
+                "2": 182,
+                "3": 152,
+                "4": 111,
+                "5": 147
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "麥津村",
+            "house_no": "10",
+            "candidates": {
+                "1": 81,
+                "2": 118,
+                "3": 84,
+                "4": 158,
+                "5": 95
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 990
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "瓦磘村",
+            "house_no": "11",
+            "candidates": {
+                "1": 49,
+                "2": 45,
+                "3": 64,
+                "4": 92,
+                "5": 220
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 727
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "瓦磘村",
+            "house_no": "12",
+            "candidates": {
+                "1": 133,
+                "2": 215,
+                "3": 117,
+                "4": 195,
+                "5": 163
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "興華村",
+            "house_no": "13",
+            "candidates": {
+                "1": 86,
+                "2": 138,
+                "3": 75,
+                "4": 200,
+                "5": 211
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "興華村",
+            "house_no": "14",
+            "candidates": {
+                "1": 59,
+                "2": 131,
+                "3": 69,
+                "4": 124,
+                "5": 247
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "興華村",
+            "house_no": "15",
+            "candidates": {
+                "1": 24,
+                "2": 68,
+                "3": 29,
+                "4": 66,
+                "5": 264
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 683
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "海豐村",
+            "house_no": "16",
+            "candidates": {
+                "1": 71,
+                "2": 229,
+                "3": 138,
+                "4": 220,
+                "5": 101
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "海豐村",
+            "house_no": "17",
+            "candidates": {
+                "1": 78,
+                "2": 147,
+                "3": 107,
+                "4": 125,
+                "5": 159
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 987
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "18",
+            "candidates": {
+                "1": 73,
+                "2": 101,
+                "3": 154,
+                "4": 193,
+                "5": 128
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "19",
+            "candidates": {
+                "1": 69,
+                "2": 95,
+                "3": 105,
+                "4": 159,
+                "5": 116
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "20",
+            "candidates": {
+                "1": 72,
+                "2": 72,
+                "3": 187,
+                "4": 150,
+                "5": 136
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "中興村",
+            "house_no": "21",
+            "candidates": {
+                "1": 40,
+                "2": 89,
+                "3": 122,
+                "4": 73,
+                "5": 146
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "中興村",
+            "house_no": "22",
+            "candidates": {
+                "1": 41,
+                "2": 83,
+                "3": 195,
+                "4": 53,
+                "5": 106
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 729
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "三盛村",
+            "house_no": "23",
+            "candidates": {
+                "1": 57,
+                "2": 86,
+                "3": 207,
+                "4": 127,
+                "5": 103
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "三盛村",
+            "house_no": "24",
+            "candidates": {
+                "1": 73,
+                "2": 92,
+                "3": 282,
+                "4": 81,
+                "5": 175
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "崙後村",
+            "house_no": "25",
+            "candidates": {
+                "1": 58,
+                "2": 273,
+                "3": 136,
+                "4": 218,
+                "5": 188
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "崙後村",
+            "house_no": "26",
+            "candidates": {
+                "1": 96,
+                "2": 285,
+                "3": 126,
+                "4": 149,
+                "5": 189
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "27",
+            "candidates": {
+                "1": 78,
+                "2": 143,
+                "3": 144,
+                "4": 243,
+                "5": 190
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "28",
+            "candidates": {
+                "1": 58,
+                "2": 162,
+                "3": 142,
+                "4": 175,
+                "5": 131
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "29",
+            "candidates": {
+                "1": 82,
+                "2": 120,
+                "3": 106,
+                "4": 136,
+                "5": 153
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "30",
+            "candidates": {
+                "1": 54,
+                "2": 134,
+                "3": 156,
+                "4": 170,
+                "5": 88
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "新吉村",
+            "house_no": "31",
+            "candidates": {
+                "1": 64,
+                "2": 449,
+                "3": 83,
+                "4": 126,
+                "5": 172
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "施厝村",
+            "house_no": "32",
+            "candidates": {
+                "1": 129,
+                "2": 116,
+                "3": 141,
+                "4": 259,
+                "5": 138
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "施厝村",
+            "house_no": "33",
+            "candidates": {
+                "1": 77,
+                "2": 95,
+                "3": 177,
+                "4": 377,
+                "5": 154
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "施厝村",
+            "house_no": "34",
+            "candidates": {
+                "1": 152,
+                "2": 187,
+                "3": 222,
+                "4": 307,
+                "5": 183
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1406
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "雷厝村",
+            "house_no": "35",
+            "candidates": {
+                "1": 79,
+                "2": 157,
+                "3": 143,
+                "4": 351,
+                "5": 195
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "雷厝村",
+            "house_no": "36",
+            "candidates": {
+                "1": 62,
+                "2": 122,
+                "3": 99,
+                "4": 269,
+                "5": 228
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1026
+        }
+    ]
+}

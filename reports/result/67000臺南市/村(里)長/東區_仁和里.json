@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳奕翰",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡仁欣",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘裕良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "仁和里",
+            "house_no": "1322",
+            "candidates": {
+                "1": 337,
+                "2": 54,
+                "3": 400
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1428
+        },
+        {
+            "area": "東區",
+            "cunli": "仁和里",
+            "house_no": "1323",
+            "candidates": {
+                "1": 261,
+                "2": 57,
+                "3": 412
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "東區",
+            "cunli": "仁和里",
+            "house_no": "1324",
+            "candidates": {
+                "1": 329,
+                "2": 58,
+                "3": 450
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1507
+        }
+    ]
+}

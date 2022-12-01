@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "湯麗梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪麗雪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "西平里",
+            "house_no": "121",
+            "candidates": {
+                "1": 261,
+                "2": 300
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "西區",
+            "cunli": "西平里",
+            "house_no": "122",
+            "candidates": {
+                "1": 288,
+                "2": 276
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "西區",
+            "cunli": "西平里",
+            "house_no": "123",
+            "candidates": {
+                "1": 250,
+                "2": 309
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1061
+        }
+    ]
+}

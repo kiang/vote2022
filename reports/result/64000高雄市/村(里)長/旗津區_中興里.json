@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉宗霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭茂盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗津區",
+            "cunli": "中興里",
+            "house_no": "987",
+            "candidates": {
+                "1": 181,
+                "2": 597
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "旗津區",
+            "cunli": "中興里",
+            "house_no": "988",
+            "candidates": {
+                "1": 320,
+                "2": 451
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1220
+        }
+    ]
+}

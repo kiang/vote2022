@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林義泰",
+            "party": "無"
+        },
+        "2": {
+            "name": "林再益",
+            "party": "無"
+        },
+        "3": {
+            "name": "張脩紹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "中華里",
+            "house_no": "952",
+            "candidates": {
+                "1": 350,
+                "2": 434,
+                "3": 90
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "永康區",
+            "cunli": "中華里",
+            "house_no": "953",
+            "candidates": {
+                "1": 301,
+                "2": 438,
+                "3": 65
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1287
+        }
+    ]
+}

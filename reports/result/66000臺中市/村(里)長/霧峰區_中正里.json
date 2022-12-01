@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊博仲",
+            "party": "無"
+        },
+        "2": {
+            "name": "林進生",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳聖尉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "中正里",
+            "house_no": "1756",
+            "candidates": {
+                "1": 143,
+                "2": 297,
+                "3": 305
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "中正里",
+            "house_no": "1757",
+            "candidates": {
+                "1": 77,
+                "2": 256,
+                "3": 193
+            },
+            "count_wrong": 6,
+            "count_unused": 1,
+            "count_total": 815
+        }
+    ]
+}

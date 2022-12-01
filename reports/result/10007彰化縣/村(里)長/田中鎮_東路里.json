@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宜民",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡雲龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "錢政照",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳資靜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "東路里",
+            "house_no": "788",
+            "candidates": {
+                "1": 165,
+                "2": 296,
+                "3": 142,
+                "4": 45
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

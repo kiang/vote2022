@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳安修",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "翁社里",
+            "house_no": "555",
+            "candidates": {
+                "1": 518
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 896
+        },
+        {
+            "area": "豐原區",
+            "cunli": "翁社里",
+            "house_no": "556",
+            "candidates": {
+                "1": 624
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1053
+        }
+    ]
+}

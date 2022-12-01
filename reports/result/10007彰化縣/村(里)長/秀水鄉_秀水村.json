@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳財巷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "秀水村",
+            "house_no": "351",
+            "candidates": {
+                "1": 428
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 770
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "秀水村",
+            "house_no": "352",
+            "candidates": {
+                "1": 502
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 844
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅顯榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "張秀琴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大湖鄉",
+            "cunli": "大湖村",
+            "house_no": "434",
+            "candidates": {
+                "1": 359,
+                "2": 157
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "大湖村",
+            "house_no": "435",
+            "candidates": {
+                "1": 438,
+                "2": 167
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 819
+        }
+    ]
+}

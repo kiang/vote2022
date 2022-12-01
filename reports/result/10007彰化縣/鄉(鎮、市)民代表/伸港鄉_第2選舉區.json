@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭宏裕",
+            "party": "無"
+        },
+        "2": {
+            "name": "周慶郎",
+            "party": "無"
+        },
+        "3": {
+            "name": "王水泉",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾正安",
+            "party": "無"
+        },
+        "5": {
+            "name": "周隆潭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "溪底村",
+            "house_no": "465",
+            "candidates": {
+                "1": 263,
+                "2": 46,
+                "3": 278
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 866
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "溪底村",
+            "house_no": "466",
+            "candidates": {
+                "1": 297,
+                "2": 97,
+                "3": 304
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "定興村",
+            "house_no": "467",
+            "candidates": {
+                "1": 161,
+                "2": 542,
+                "3": 164
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "定興村",
+            "house_no": "468",
+            "candidates": {
+                "1": 162,
+                "2": 396,
+                "3": 149
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1228
+        }
+    ]
+}

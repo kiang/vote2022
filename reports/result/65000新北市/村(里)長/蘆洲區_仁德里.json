@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "古佳玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃瑞豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "仁德里",
+            "house_no": "715",
+            "candidates": {
+                "1": 564,
+                "2": 278
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1646
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "仁德里",
+            "house_no": "716",
+            "candidates": {
+                "1": 664,
+                "2": 176
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1493
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "仁德里",
+            "house_no": "717",
+            "candidates": {
+                "1": 619,
+                "2": 207
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1522
+        }
+    ]
+}

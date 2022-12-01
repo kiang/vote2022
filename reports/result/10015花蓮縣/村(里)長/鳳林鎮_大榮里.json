@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林世宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊秀英",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳林鎮",
+            "cunli": "大榮里",
+            "house_no": "234",
+            "candidates": {
+                "1": 208,
+                "2": 281
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "鳳林鎮",
+            "cunli": "大榮里",
+            "house_no": "235",
+            "candidates": {
+                "1": 68,
+                "2": 265
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 496
+        }
+    ]
+}

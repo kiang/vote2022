@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王進龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "王金芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "沛陂里",
+            "house_no": "1927",
+            "candidates": {
+                "1": 360,
+                "2": 381
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "土城區",
+            "cunli": "沛陂里",
+            "house_no": "1928",
+            "candidates": {
+                "1": 345,
+                "2": 351
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "土城區",
+            "cunli": "沛陂里",
+            "house_no": "1929",
+            "candidates": {
+                "1": 401,
+                "2": 440
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1514
+        }
+    ]
+}

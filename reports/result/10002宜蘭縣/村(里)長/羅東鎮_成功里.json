@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林智威",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡朝金",
+            "party": "無"
+        },
+        "3": {
+            "name": "張健祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "成功里",
+            "house_no": "96",
+            "candidates": {
+                "1": 270,
+                "2": 362,
+                "3": 264
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1428
+        }
+    ]
+}

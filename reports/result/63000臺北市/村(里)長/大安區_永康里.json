@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉大薇",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐玉雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "顏意珍",
+            "party": "無"
+        },
+        "4": {
+            "name": "李明螢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "永康里",
+            "house_no": "1452",
+            "candidates": {
+                "1": 134,
+                "2": 17,
+                "3": 70,
+                "4": 387
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "大安區",
+            "cunli": "永康里",
+            "house_no": "1453",
+            "candidates": {
+                "1": 125,
+                "2": 33,
+                "3": 55,
+                "4": 378
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 869
+        },
+        {
+            "area": "大安區",
+            "cunli": "永康里",
+            "house_no": "1454",
+            "candidates": {
+                "1": 152,
+                "2": 34,
+                "3": 57,
+                "4": 384
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 959
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張慶財",
+            "party": "無"
+        },
+        "2": {
+            "name": "王南財",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "蘇厝里",
+            "house_no": "561",
+            "candidates": {
+                "1": 429,
+                "2": 203
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "安定區",
+            "cunli": "蘇厝里",
+            "house_no": "562",
+            "candidates": {
+                "1": 343,
+                "2": 196
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 862
+        }
+    ]
+}

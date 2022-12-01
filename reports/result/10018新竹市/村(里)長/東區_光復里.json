@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭祐麟",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳建銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳駿翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "光復里",
+            "house_no": "48",
+            "candidates": {
+                "1": 44,
+                "2": 183,
+                "3": 371
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "東區",
+            "cunli": "光復里",
+            "house_no": "49",
+            "candidates": {
+                "1": 64,
+                "2": 127,
+                "3": 332
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 865
+        },
+        {
+            "area": "東區",
+            "cunli": "光復里",
+            "house_no": "50",
+            "candidates": {
+                "1": 44,
+                "2": 200,
+                "3": 314
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 890
+        }
+    ]
+}

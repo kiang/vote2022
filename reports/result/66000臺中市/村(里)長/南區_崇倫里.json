@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾素貞",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "何昱興",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "崇倫里",
+            "house_no": "1497",
+            "candidates": {
+                "1": 538,
+                "2": 251
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "南區",
+            "cunli": "崇倫里",
+            "house_no": "1498",
+            "candidates": {
+                "1": 509,
+                "2": 312
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "南區",
+            "cunli": "崇倫里",
+            "house_no": "1499",
+            "candidates": {
+                "1": 387,
+                "2": 364
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "南區",
+            "cunli": "崇倫里",
+            "house_no": "1500",
+            "candidates": {
+                "1": 392,
+                "2": 350
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1344
+        }
+    ]
+}

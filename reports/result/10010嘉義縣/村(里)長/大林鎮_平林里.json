@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭紹宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉秀齡",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱佐峯",
+            "party": "無"
+        },
+        "4": {
+            "name": "孫光璽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大林鎮",
+            "cunli": "平林里",
+            "house_no": "198",
+            "candidates": {
+                "1": 292,
+                "2": 352,
+                "3": 177,
+                "4": 24
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "大林鎮",
+            "cunli": "平林里",
+            "house_no": "199",
+            "candidates": {
+                "1": 375,
+                "2": 315,
+                "3": 98,
+                "4": 34
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1334
+        },
+        {
+            "area": "大林鎮",
+            "cunli": "平林里",
+            "house_no": "200",
+            "candidates": {
+                "1": 316,
+                "2": 396,
+                "3": 148,
+                "4": 34
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1481
+        },
+        {
+            "area": "大林鎮",
+            "cunli": "平林里",
+            "house_no": "201",
+            "candidates": {
+                "1": 371,
+                "2": 476,
+                "3": 122,
+                "4": 29
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1580
+        }
+    ]
+}

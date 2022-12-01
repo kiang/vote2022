@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚成達",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "呂錦城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "福興里",
+            "house_no": "364",
+            "candidates": {
+                "1": 529,
+                "2": 193
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1467
+        },
+        {
+            "area": "八德區",
+            "cunli": "福興里",
+            "house_no": "365",
+            "candidates": {
+                "1": 471,
+                "2": 294
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "八德區",
+            "cunli": "福興里",
+            "house_no": "366",
+            "candidates": {
+                "1": 518,
+                "2": 342
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1603
+        }
+    ]
+}

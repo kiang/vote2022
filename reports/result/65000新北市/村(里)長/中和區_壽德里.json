@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張宗正",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "呂坤翰",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "壽德里",
+            "house_no": "1541",
+            "candidates": {
+                "1": 496,
+                "2": 388
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "中和區",
+            "cunli": "壽德里",
+            "house_no": "1542",
+            "candidates": {
+                "1": 383,
+                "2": 297
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "中和區",
+            "cunli": "壽德里",
+            "house_no": "1543",
+            "candidates": {
+                "1": 470,
+                "2": 377
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1301
+        }
+    ]
+}

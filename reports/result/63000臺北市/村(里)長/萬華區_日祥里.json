@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾駿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張宏聖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "日祥里",
+            "house_no": "1359",
+            "candidates": {
+                "1": 205,
+                "2": 384
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 937
+        },
+        {
+            "area": "萬華區",
+            "cunli": "日祥里",
+            "house_no": "1360",
+            "candidates": {
+                "1": 234,
+                "2": 406
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "萬華區",
+            "cunli": "日祥里",
+            "house_no": "1361",
+            "candidates": {
+                "1": 391,
+                "2": 346
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1097
+        },
+        {
+            "area": "萬華區",
+            "cunli": "日祥里",
+            "house_no": "1362",
+            "candidates": {
+                "1": 261,
+                "2": 403
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "萬華區",
+            "cunli": "日祥里",
+            "house_no": "1363",
+            "candidates": {
+                "1": 254,
+                "2": 346
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 914
+        }
+    ]
+}

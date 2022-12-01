@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施正壽",
+            "party": "無"
+        },
+        "2": {
+            "name": "李陳金治",
+            "party": "無"
+        },
+        "3": {
+            "name": "王思民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "鎮西里",
+            "house_no": "1424",
+            "candidates": {
+                "1": 225,
+                "2": 302,
+                "3": 156
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鎮西里",
+            "house_no": "1425",
+            "candidates": {
+                "1": 232,
+                "2": 272,
+                "3": 171
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鎮西里",
+            "house_no": "1426",
+            "candidates": {
+                "1": 251,
+                "2": 295,
+                "3": 182
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鎮西里",
+            "house_no": "1427",
+            "candidates": {
+                "1": 244,
+                "2": 260,
+                "3": 167
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1097
+        }
+    ]
+}

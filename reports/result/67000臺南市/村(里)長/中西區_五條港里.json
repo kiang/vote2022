@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈廉哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱培華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "五條港里",
+            "house_no": "1102",
+            "candidates": {
+                "1": 443,
+                "2": 190
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "中西區",
+            "cunli": "五條港里",
+            "house_no": "1103",
+            "candidates": {
+                "1": 297,
+                "2": 301
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 880
+        }
+    ]
+}

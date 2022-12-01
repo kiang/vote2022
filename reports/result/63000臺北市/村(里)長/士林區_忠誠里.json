@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾坤來",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳仁德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "忠誠里",
+            "house_no": "283",
+            "candidates": {
+                "1": 479,
+                "2": 250
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "士林區",
+            "cunli": "忠誠里",
+            "house_no": "284",
+            "candidates": {
+                "1": 423,
+                "2": 247
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "士林區",
+            "cunli": "忠誠里",
+            "house_no": "285",
+            "candidates": {
+                "1": 463,
+                "2": 256
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "士林區",
+            "cunli": "忠誠里",
+            "house_no": "286",
+            "candidates": {
+                "1": 483,
+                "2": 172
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1049
+        }
+    ]
+}

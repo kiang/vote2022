@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊建國",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪宜河",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "南湖里",
+            "house_no": "514",
+            "candidates": {
+                "1": 282,
+                "2": 599
+            },
+            "count_wrong": 60,
+            "count_unused": 1,
+            "count_total": 1337
+        },
+        {
+            "area": "內湖區",
+            "cunli": "南湖里",
+            "house_no": "515",
+            "candidates": {
+                "1": 365,
+                "2": 736
+            },
+            "count_wrong": 32,
+            "count_unused": 35,
+            "count_total": 1717
+        },
+        {
+            "area": "內湖區",
+            "cunli": "南湖里",
+            "house_no": "516",
+            "candidates": {
+                "1": 263,
+                "2": 540
+            },
+            "count_wrong": 53,
+            "count_unused": 1,
+            "count_total": 1272
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李游彩雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "盧宜芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "埔心里",
+            "house_no": "607",
+            "candidates": {
+                "1": 238,
+                "2": 398
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "大園區",
+            "cunli": "埔心里",
+            "house_no": "608",
+            "candidates": {
+                "1": 438,
+                "2": 333
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "大園區",
+            "cunli": "埔心里",
+            "house_no": "609",
+            "candidates": {
+                "1": 283,
+                "2": 336
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "大園區",
+            "cunli": "埔心里",
+            "house_no": "610",
+            "candidates": {
+                "1": 304,
+                "2": 524
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1245
+        }
+    ]
+}

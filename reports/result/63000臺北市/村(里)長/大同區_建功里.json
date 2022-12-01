@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周志賢",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "謝文祥",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "建功里",
+            "house_no": "1051",
+            "candidates": {
+                "1": 426,
+                "2": 378
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "大同區",
+            "cunli": "建功里",
+            "house_no": "1052",
+            "candidates": {
+                "1": 399,
+                "2": 352
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "大同區",
+            "cunli": "建功里",
+            "house_no": "1053",
+            "candidates": {
+                "1": 382,
+                "2": 404
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1301
+        }
+    ]
+}

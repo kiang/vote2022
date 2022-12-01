@@ -1,0 +1,108 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂美英",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈安日",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾大衛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰武鄉",
+            "cunli": "佳平村",
+            "house_no": "673",
+            "candidates": {
+                "1": 0,
+                "2": 53,
+                "3": 37,
+                "4": 200,
+                "5": 27,
+                "6": 2,
+                "7": 15,
+                "8": 198
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 619
+        },
+        {
+            "area": "泰武鄉",
+            "cunli": "佳平村",
+            "house_no": "674",
+            "candidates": {
+                "1": 39,
+                "2": 11,
+                "3": 27,
+                "4": 46,
+                "5": 1,
+                "6": 3,
+                "7": 3,
+                "8": 26
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 196
+        },
+        {
+            "area": "泰武鄉",
+            "cunli": "武潭村",
+            "house_no": "675",
+            "candidates": {
+                "1": 0,
+                "2": 364,
+                "3": 50,
+                "4": 49,
+                "5": 205,
+                "6": 17,
+                "7": 18,
+                "8": 90
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "泰武鄉",
+            "cunli": "平和村",
+            "house_no": "676",
+            "candidates": {
+                "1": 2,
+                "2": 30,
+                "3": 33,
+                "4": 10,
+                "5": 176,
+                "6": 207,
+                "7": 3,
+                "8": 35
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 591
+        },
+        {
+            "area": "泰武鄉",
+            "cunli": "萬安村",
+            "house_no": "677",
+            "candidates": {
+                "1": 7,
+                "2": 34,
+                "3": 228,
+                "4": 29,
+                "5": 17,
+                "6": 6,
+                "7": 253,
+                "8": 21
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 717
+        }
+    ]
+}

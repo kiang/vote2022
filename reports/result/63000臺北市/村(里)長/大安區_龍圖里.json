@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許順煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱瑞文",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭萬居",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "龍圖里",
+            "house_no": "1463",
+            "candidates": {
+                "1": 193,
+                "2": 206,
+                "3": 373
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍圖里",
+            "house_no": "1464",
+            "candidates": {
+                "1": 306,
+                "2": 266,
+                "3": 300
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1356
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍圖里",
+            "house_no": "1465",
+            "candidates": {
+                "1": 213,
+                "2": 308,
+                "3": 307
+            },
+            "count_wrong": 32,
+            "count_unused": 1,
+            "count_total": 1265
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍圖里",
+            "house_no": "1466",
+            "candidates": {
+                "1": 294,
+                "2": 274,
+                "3": 296
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1309
+        }
+    ]
+}

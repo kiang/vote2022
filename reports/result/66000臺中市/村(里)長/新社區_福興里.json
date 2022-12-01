@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉文良",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉春財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新社區",
+            "cunli": "福興里",
+            "house_no": "1862",
+            "candidates": {
+                "1": 246,
+                "2": 333
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "新社區",
+            "cunli": "福興里",
+            "house_no": "1863",
+            "candidates": {
+                "1": 40,
+                "2": 96
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 205
+        }
+    ]
+}

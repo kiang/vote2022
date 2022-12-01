@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭順",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "吳銘錡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "理想里",
+            "house_no": "713",
+            "candidates": {
+                "1": 427,
+                "2": 142
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "安南區",
+            "cunli": "理想里",
+            "house_no": "714",
+            "candidates": {
+                "1": 439,
+                "2": 170
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "安南區",
+            "cunli": "理想里",
+            "house_no": "715",
+            "candidates": {
+                "1": 467,
+                "2": 197
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "安南區",
+            "cunli": "理想里",
+            "house_no": "716",
+            "candidates": {
+                "1": 441,
+                "2": 100
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

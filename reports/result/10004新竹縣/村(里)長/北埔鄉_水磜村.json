@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范雪琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清泉",
+            "party": "無"
+        },
+        "3": {
+            "name": "林辰隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北埔鄉",
+            "cunli": "水磜村",
+            "house_no": "416",
+            "candidates": {
+                "1": 181,
+                "2": 195,
+                "3": 179
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 804
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃福元",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡妙雪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "双福村",
+            "house_no": "133",
+            "candidates": {
+                "1": 404,
+                "2": 404
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "双福村",
+            "house_no": "134",
+            "candidates": {
+                "1": 455,
+                "2": 312
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1197
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭鐵樹",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "史進財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "國宅里",
+            "house_no": "1203",
+            "candidates": {
+                "1": 243,
+                "2": 309
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "南區",
+            "cunli": "國宅里",
+            "house_no": "1204",
+            "candidates": {
+                "1": 226,
+                "2": 295
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 841
+        },
+        {
+            "area": "南區",
+            "cunli": "國宅里",
+            "house_no": "1205",
+            "candidates": {
+                "1": 254,
+                "2": 315
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

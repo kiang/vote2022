@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陸見青",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "東林里",
+            "house_no": "436",
+            "candidates": {
+                "1": 507
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 978
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "東林里",
+            "house_no": "437",
+            "candidates": {
+                "1": 595
+            },
+            "count_wrong": 146,
+            "count_unused": 0,
+            "count_total": 1201
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭宜峯",
+            "party": "無"
+        },
+        "2": {
+            "name": "陶威中",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "橋東里",
+            "house_no": "2582",
+            "candidates": {
+                "1": 213,
+                "2": 609
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1492
+        },
+        {
+            "area": "汐止區",
+            "cunli": "橋東里",
+            "house_no": "2583",
+            "candidates": {
+                "1": 220,
+                "2": 565
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1443
+        }
+    ]
+}

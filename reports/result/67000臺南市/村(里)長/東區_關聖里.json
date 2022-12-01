@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾秀梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "周楹婍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "關聖里",
+            "house_no": "1346",
+            "candidates": {
+                "1": 288,
+                "2": 326
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "東區",
+            "cunli": "關聖里",
+            "house_no": "1347",
+            "candidates": {
+                "1": 274,
+                "2": 256
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 996
+        },
+        {
+            "area": "東區",
+            "cunli": "關聖里",
+            "house_no": "1348",
+            "candidates": {
+                "1": 240,
+                "2": 335
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "東區",
+            "cunli": "關聖里",
+            "house_no": "1349",
+            "candidates": {
+                "1": 297,
+                "2": 387
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

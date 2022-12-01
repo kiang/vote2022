@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王永元",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳皇如",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃煌杰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "柳新村",
+            "house_no": "88",
+            "candidates": {
+                "1": 113,
+                "2": 291,
+                "3": 59
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 766
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "柳新村",
+            "house_no": "89",
+            "candidates": {
+                "1": 171,
+                "2": 328,
+                "3": 71
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 945
+        }
+    ]
+}

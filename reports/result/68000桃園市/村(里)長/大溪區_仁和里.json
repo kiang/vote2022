@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏創志",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃賴裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "仁和里",
+            "house_no": "675",
+            "candidates": {
+                "1": 520,
+                "2": 447
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1617
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁和里",
+            "house_no": "676",
+            "candidates": {
+                "1": 447,
+                "2": 468
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1612
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁和里",
+            "house_no": "677",
+            "candidates": {
+                "1": 418,
+                "2": 445
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1494
+        }
+    ]
+}

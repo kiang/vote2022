@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國周",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂坤遠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "草漯里",
+            "house_no": "1351",
+            "candidates": {
+                "1": 412,
+                "2": 505
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1541
+        },
+        {
+            "area": "觀音區",
+            "cunli": "草漯里",
+            "house_no": "1352",
+            "candidates": {
+                "1": 298,
+                "2": 667
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1851
+        }
+    ]
+}

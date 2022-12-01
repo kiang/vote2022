@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉建德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "潭頭里",
+            "house_no": "1983",
+            "candidates": {
+                "1": 811
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1326
+        },
+        {
+            "area": "林園區",
+            "cunli": "潭頭里",
+            "house_no": "1984",
+            "candidates": {
+                "1": 674
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1270
+        }
+    ]
+}

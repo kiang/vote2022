@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉全成",
+            "party": "無"
+        },
+        "2": {
+            "name": "許清良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "南新里",
+            "house_no": "36",
+            "candidates": {
+                "1": 281,
+                "2": 294
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 795
+        },
+        {
+            "area": "太保市",
+            "cunli": "南新里",
+            "house_no": "37",
+            "candidates": {
+                "1": 382,
+                "2": 331
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 980
+        }
+    ]
+}

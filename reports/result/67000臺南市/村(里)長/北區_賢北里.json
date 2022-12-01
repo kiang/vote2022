@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃富得",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "賢北里",
+            "house_no": "1057",
+            "candidates": {
+                "1": 543
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "北區",
+            "cunli": "賢北里",
+            "house_no": "1058",
+            "candidates": {
+                "1": 570
+            },
+            "count_wrong": 12,
+            "count_unused": 90,
+            "count_total": 1207
+        },
+        {
+            "area": "北區",
+            "cunli": "賢北里",
+            "house_no": "1059",
+            "candidates": {
+                "1": 516
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 1094
+        }
+    ]
+}

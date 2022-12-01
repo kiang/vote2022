@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳依茹",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃淑卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "何進輝",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "景仁里",
+            "house_no": "1597",
+            "candidates": {
+                "1": 162,
+                "2": 177,
+                "3": 340
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "文山區",
+            "cunli": "景仁里",
+            "house_no": "1598",
+            "candidates": {
+                "1": 171,
+                "2": 145,
+                "3": 481
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "文山區",
+            "cunli": "景仁里",
+            "house_no": "1599",
+            "candidates": {
+                "1": 134,
+                "2": 243,
+                "3": 440
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "文山區",
+            "cunli": "景仁里",
+            "house_no": "1600",
+            "candidates": {
+                "1": 213,
+                "2": 126,
+                "3": 404
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

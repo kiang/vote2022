@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "古仁樺",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "寶山鄉",
+            "cunli": "三峰村",
+            "house_no": "427",
+            "candidates": {
+                "1": 331,
+                "2": 125,
+                "3": 117,
+                "4": 32
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "寶山鄉",
+            "cunli": "新城村",
+            "house_no": "428",
+            "candidates": {
+                "1": 71,
+                "2": 388,
+                "3": 437,
+                "4": 39
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1133
+        }
+    ]
+}

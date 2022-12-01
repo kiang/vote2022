@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭雀燕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "永華里",
+            "house_no": "1070",
+            "candidates": {
+                "1": 581
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "中西區",
+            "cunli": "永華里",
+            "house_no": "1071",
+            "candidates": {
+                "1": 563
+            },
+            "count_wrong": 83,
+            "count_unused": 1,
+            "count_total": 1189
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳素靜",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡文欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "饒平村",
+            "house_no": "899",
+            "candidates": {
+                "1": 448,
+                "2": 425
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1356
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "饒平村",
+            "house_no": "900",
+            "candidates": {
+                "1": 321,
+                "2": 403
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭美玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "卓武彥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "楓樹里",
+            "house_no": "324",
+            "candidates": {
+                "1": 409,
+                "2": 269
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1242
+        },
+        {
+            "area": "泰山區",
+            "cunli": "楓樹里",
+            "house_no": "325",
+            "candidates": {
+                "1": 365,
+                "2": 221
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "泰山區",
+            "cunli": "楓樹里",
+            "house_no": "326",
+            "candidates": {
+                "1": 369,
+                "2": 356
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1261
+        }
+    ]
+}

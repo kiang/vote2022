@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳三弘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "永春村",
+            "house_no": "222",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "永春村",
+            "house_no": "223",
+            "candidates": {
+                "1": 392
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 866
+        }
+    ]
+}

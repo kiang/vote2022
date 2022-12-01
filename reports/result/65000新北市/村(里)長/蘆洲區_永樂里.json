@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李麗文",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡美雲",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "永樂里",
+            "house_no": "677",
+            "candidates": {
+                "1": 590,
+                "2": 392
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1770
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "永樂里",
+            "house_no": "678",
+            "candidates": {
+                "1": 629,
+                "2": 334
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1716
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "永樂里",
+            "house_no": "679",
+            "candidates": {
+                "1": 520,
+                "2": 387
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1716
+        }
+    ]
+}

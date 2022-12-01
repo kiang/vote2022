@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳毅志",
+            "party": "無"
+        },
+        "2": {
+            "name": "林漢昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭秀填",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崁頂鄉",
+            "cunli": "崁頂村",
+            "house_no": "555",
+            "candidates": {
+                "1": 209,
+                "2": 88,
+                "3": 109,
+                "4": 64,
+                "5": 195,
+                "6": 141
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "崁頂村",
+            "house_no": "556",
+            "candidates": {
+                "1": 223,
+                "2": 31,
+                "3": 56,
+                "4": 57,
+                "5": 180,
+                "6": 116
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "園寮村",
+            "house_no": "557",
+            "candidates": {
+                "1": 93,
+                "2": 85,
+                "3": 27,
+                "4": 140,
+                "5": 99,
+                "6": 50
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "園寮村",
+            "house_no": "558",
+            "candidates": {
+                "1": 157,
+                "2": 290,
+                "3": 85,
+                "4": 99,
+                "5": 89,
+                "6": 41
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

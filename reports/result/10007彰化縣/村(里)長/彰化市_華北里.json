@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "華北里",
+            "house_no": "6",
+            "candidates": {
+                "1": 385
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 670
+        },
+        {
+            "area": "彰化市",
+            "cunli": "華北里",
+            "house_no": "7",
+            "candidates": {
+                "1": 370
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 694
+        }
+    ]
+}

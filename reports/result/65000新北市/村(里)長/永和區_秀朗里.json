@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈賜是",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "秀朗里",
+            "house_no": "1655",
+            "candidates": {
+                "1": 718
+            },
+            "count_wrong": 179,
+            "count_unused": 0,
+            "count_total": 1560
+        },
+        {
+            "area": "永和區",
+            "cunli": "秀朗里",
+            "house_no": "1656",
+            "candidates": {
+                "1": 789
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1630
+        }
+    ]
+}

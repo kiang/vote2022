@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳永清",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林明賜",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳炎城",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "大埔里",
+            "house_no": "2116",
+            "candidates": {
+                "1": 336,
+                "2": 61,
+                "3": 216
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "三峽區",
+            "cunli": "大埔里",
+            "house_no": "2117",
+            "candidates": {
+                "1": 359,
+                "2": 43,
+                "3": 264
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "三峽區",
+            "cunli": "大埔里",
+            "house_no": "2118",
+            "candidates": {
+                "1": 449,
+                "2": 70,
+                "3": 228
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1292
+        }
+    ]
+}

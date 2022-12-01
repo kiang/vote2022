@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊美女",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "保德里",
+            "house_no": "1345",
+            "candidates": {
+                "1": 589
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "萬華區",
+            "cunli": "保德里",
+            "house_no": "1346",
+            "candidates": {
+                "1": 460
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "萬華區",
+            "cunli": "保德里",
+            "house_no": "1347",
+            "candidates": {
+                "1": 471
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 814
+        }
+    ]
+}

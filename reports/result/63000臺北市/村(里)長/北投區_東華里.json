@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "袁大祥",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "東華里",
+            "house_no": "50",
+            "candidates": {
+                "1": 612
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "北投區",
+            "cunli": "東華里",
+            "house_no": "51",
+            "candidates": {
+                "1": 749
+            },
+            "count_wrong": 98,
+            "count_unused": 2,
+            "count_total": 1113
+        },
+        {
+            "area": "北投區",
+            "cunli": "東華里",
+            "house_no": "52",
+            "candidates": {
+                "1": 822
+            },
+            "count_wrong": 140,
+            "count_unused": 0,
+            "count_total": 1379
+        }
+    ]
+}

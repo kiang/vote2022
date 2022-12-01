@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾傳達",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "顏蜜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "中坡里",
+            "house_no": "818",
+            "candidates": {
+                "1": 503,
+                "2": 130
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 929
+        },
+        {
+            "area": "信義區",
+            "cunli": "中坡里",
+            "house_no": "819",
+            "candidates": {
+                "1": 420,
+                "2": 92
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 791
+        },
+        {
+            "area": "信義區",
+            "cunli": "中坡里",
+            "house_no": "820",
+            "candidates": {
+                "1": 435,
+                "2": 102
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "信義區",
+            "cunli": "中坡里",
+            "house_no": "821",
+            "candidates": {
+                "1": 532,
+                "2": 130
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1007
+        }
+    ]
+}

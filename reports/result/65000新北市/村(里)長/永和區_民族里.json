@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張淑美",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "賴昀心",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "民族里",
+            "house_no": "1652",
+            "candidates": {
+                "1": 499,
+                "2": 268
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "永和區",
+            "cunli": "民族里",
+            "house_no": "1653",
+            "candidates": {
+                "1": 401,
+                "2": 300
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "永和區",
+            "cunli": "民族里",
+            "house_no": "1654",
+            "candidates": {
+                "1": 417,
+                "2": 315
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1293
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林森郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃品綸",
+            "party": "無"
+        },
+        "3": {
+            "name": "王基郁",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "卓溪鄉",
+            "cunli": "卓溪村",
+            "house_no": "327",
+            "candidates": {
+                "1": 44,
+                "2": 254,
+                "3": 208
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 718
+        }
+    ]
+}

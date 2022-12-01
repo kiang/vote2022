@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王金水",
+            "party": "無"
+        },
+        "2": {
+            "name": "趙信忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "下坑里",
+            "house_no": "202",
+            "candidates": {
+                "1": 318,
+                "2": 292
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "路竹區",
+            "cunli": "下坑里",
+            "house_no": "203",
+            "candidates": {
+                "1": 341,
+                "2": 257
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 810
+        },
+        {
+            "area": "路竹區",
+            "cunli": "下坑里",
+            "house_no": "204",
+            "candidates": {
+                "1": 336,
+                "2": 318
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 877
+        }
+    ]
+}

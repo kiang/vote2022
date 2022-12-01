@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金灶",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳志超",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳四軍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "外社里",
+            "house_no": "573",
+            "candidates": {
+                "1": 469,
+                "2": 338,
+                "3": 270
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1468
+        }
+    ]
+}

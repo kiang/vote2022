@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "饒彬義",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳慶杰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "金山里",
+            "house_no": "110",
+            "candidates": {
+                "1": 398,
+                "2": 246
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "東區",
+            "cunli": "金山里",
+            "house_no": "111",
+            "candidates": {
+                "1": 331,
+                "2": 378
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1210
+        },
+        {
+            "area": "東區",
+            "cunli": "金山里",
+            "house_no": "112",
+            "candidates": {
+                "1": 355,
+                "2": 229
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 966
+        },
+        {
+            "area": "東區",
+            "cunli": "金山里",
+            "house_no": "113",
+            "candidates": {
+                "1": 302,
+                "2": 187
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "東區",
+            "cunli": "金山里",
+            "house_no": "114",
+            "candidates": {
+                "1": 192,
+                "2": 329
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 897
+        }
+    ]
+}

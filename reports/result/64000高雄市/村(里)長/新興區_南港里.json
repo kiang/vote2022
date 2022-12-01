@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳福明",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "南港里",
+            "house_no": "1261",
+            "candidates": {
+                "1": 480
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "新興區",
+            "cunli": "南港里",
+            "house_no": "1262",
+            "candidates": {
+                "1": 493
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 924
+        }
+    ]
+}

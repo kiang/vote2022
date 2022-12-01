@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳銀國",
+            "party": "無"
+        },
+        "2": {
+            "name": "林玉琴",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡鴻儒",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "會社里",
+            "house_no": "1943",
+            "candidates": {
+                "1": 314,
+                "2": 94,
+                "3": 232
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "大寮區",
+            "cunli": "會社里",
+            "house_no": "1944",
+            "candidates": {
+                "1": 330,
+                "2": 61,
+                "3": 287
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "大寮區",
+            "cunli": "會社里",
+            "house_no": "1945",
+            "candidates": {
+                "1": 274,
+                "2": 124,
+                "3": 227
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "大寮區",
+            "cunli": "會社里",
+            "house_no": "1946",
+            "candidates": {
+                "1": 228,
+                "2": 45,
+                "3": 180
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "大寮區",
+            "cunli": "會社里",
+            "house_no": "1947",
+            "candidates": {
+                "1": 452,
+                "2": 78,
+                "3": 257
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1318
+        }
+    ]
+}

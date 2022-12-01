@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉若純",
+            "party": "無"
+        },
+        "2": {
+            "name": "盧來春",
+            "party": "無"
+        },
+        "3": {
+            "name": "許義村",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃鴻忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "永慶里",
+            "house_no": "2447",
+            "candidates": {
+                "1": 76,
+                "2": 24,
+                "3": 112,
+                "4": 33
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 402
+        }
+    ]
+}

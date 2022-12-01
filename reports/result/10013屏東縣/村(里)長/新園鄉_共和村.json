@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃丹鶯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新園鄉",
+            "cunli": "共和村",
+            "house_no": "553",
+            "candidates": {
+                "1": 671
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "共和村",
+            "house_no": "554",
+            "candidates": {
+                "1": 681
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1137
+        }
+    ]
+}

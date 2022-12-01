@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周淑甘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "三龍里",
+            "house_no": "1758",
+            "candidates": {
+                "1": 318
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 676
+        },
+        {
+            "area": "樹林區",
+            "cunli": "三龍里",
+            "house_no": "1759",
+            "candidates": {
+                "1": 585
+            },
+            "count_wrong": 65,
+            "count_unused": 1,
+            "count_total": 1091
+        }
+    ]
+}

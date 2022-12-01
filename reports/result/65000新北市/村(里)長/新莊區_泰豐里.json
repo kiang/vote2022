@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王珮宇",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃聖智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "泰豐里",
+            "house_no": "528",
+            "candidates": {
+                "1": 421,
+                "2": 201
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "新莊區",
+            "cunli": "泰豐里",
+            "house_no": "529",
+            "candidates": {
+                "1": 437,
+                "2": 195
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1073
+        }
+    ]
+}

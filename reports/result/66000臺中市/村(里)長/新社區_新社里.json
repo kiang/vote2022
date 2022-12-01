@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉清泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃正光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新社區",
+            "cunli": "新社里",
+            "house_no": "1841",
+            "candidates": {
+                "1": 251,
+                "2": 398
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "新社區",
+            "cunli": "新社里",
+            "house_no": "1842",
+            "candidates": {
+                "1": 316,
+                "2": 424
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "新社區",
+            "cunli": "新社里",
+            "house_no": "1843",
+            "candidates": {
+                "1": 261,
+                "2": 377
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1033
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱苡倢",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃文章",
+            "party": "無"
+        },
+        "3": {
+            "name": "呂劭源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "樹林里",
+            "house_no": "1357",
+            "candidates": {
+                "1": 275,
+                "2": 492,
+                "3": 30
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1461
+        },
+        {
+            "area": "觀音區",
+            "cunli": "樹林里",
+            "house_no": "1358",
+            "candidates": {
+                "1": 363,
+                "2": 409,
+                "3": 43
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1671
+        },
+        {
+            "area": "觀音區",
+            "cunli": "樹林里",
+            "house_no": "1359",
+            "candidates": {
+                "1": 251,
+                "2": 449,
+                "3": 34
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1597
+        }
+    ]
+}

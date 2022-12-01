@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張義博",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳健郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "稻香里",
+            "house_no": "143",
+            "candidates": {
+                "1": 330,
+                "2": 368
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1073
+        },
+        {
+            "area": "北投區",
+            "cunli": "稻香里",
+            "house_no": "144",
+            "candidates": {
+                "1": 249,
+                "2": 500
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "北投區",
+            "cunli": "稻香里",
+            "house_no": "145",
+            "candidates": {
+                "1": 248,
+                "2": 434
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "北投區",
+            "cunli": "稻香里",
+            "house_no": "146",
+            "candidates": {
+                "1": 294,
+                "2": 477
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1207
+        }
+    ]
+}

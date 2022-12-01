@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡清龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡炳輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "城南里",
+            "house_no": "787",
+            "candidates": {
+                "1": 312,
+                "2": 249
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "安南區",
+            "cunli": "城南里",
+            "house_no": "788",
+            "candidates": {
+                "1": 276,
+                "2": 362
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 954
+        },
+        {
+            "area": "安南區",
+            "cunli": "城南里",
+            "house_no": "789",
+            "candidates": {
+                "1": 485,
+                "2": 472
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1376
+        }
+    ]
+}

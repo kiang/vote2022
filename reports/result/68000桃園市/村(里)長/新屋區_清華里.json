@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝浩來",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋文琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新屋區",
+            "cunli": "清華里",
+            "house_no": "1286",
+            "candidates": {
+                "1": 504,
+                "2": 496
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1443
+        },
+        {
+            "area": "新屋區",
+            "cunli": "清華里",
+            "house_no": "1287",
+            "candidates": {
+                "1": 378,
+                "2": 472
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "新屋區",
+            "cunli": "清華里",
+            "house_no": "1288",
+            "candidates": {
+                "1": 482,
+                "2": 376
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1309
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張僡美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "德行里",
+            "house_no": "273",
+            "candidates": {
+                "1": 759
+            },
+            "count_wrong": 122,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "士林區",
+            "cunli": "德行里",
+            "house_no": "274",
+            "candidates": {
+                "1": 699
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "士林區",
+            "cunli": "德行里",
+            "house_no": "275",
+            "candidates": {
+                "1": 693
+            },
+            "count_wrong": 96,
+            "count_unused": 10,
+            "count_total": 1161
+        }
+    ]
+}

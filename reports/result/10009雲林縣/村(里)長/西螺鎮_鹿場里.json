@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁世運",
+            "party": "無"
+        },
+        "2": {
+            "name": "王嘉宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "廖海瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西螺鎮",
+            "cunli": "鹿場里",
+            "house_no": "394",
+            "candidates": {
+                "1": 461,
+                "2": 424,
+                "3": 67
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1409
+        }
+    ]
+}

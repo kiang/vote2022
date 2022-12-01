@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温源衡",
+            "party": "無"
+        },
+        "2": {
+            "name": "溫美珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "錦華里",
+            "house_no": "1459",
+            "candidates": {
+                "1": 159,
+                "2": 447
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦華里",
+            "house_no": "1460",
+            "candidates": {
+                "1": 174,
+                "2": 523
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦華里",
+            "house_no": "1461",
+            "candidates": {
+                "1": 166,
+                "2": 551
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦華里",
+            "house_no": "1462",
+            "candidates": {
+                "1": 139,
+                "2": 577
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅錕毅",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴俊嘉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "南和村",
+            "house_no": "86",
+            "candidates": {
+                "1": 232,
+                "2": 272
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "南和村",
+            "house_no": "87",
+            "candidates": {
+                "1": 239,
+                "2": 108
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 561
+        }
+    ]
+}

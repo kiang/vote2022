@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王美芬",
+            "party": "無"
+        },
+        "2": {
+            "name": "馮華昌",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "廖年新",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "上石里",
+            "house_no": "764",
+            "candidates": {
+                "1": 168,
+                "2": 248,
+                "3": 306
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "西屯區",
+            "cunli": "上石里",
+            "house_no": "765",
+            "candidates": {
+                "1": 137,
+                "2": 192,
+                "3": 300
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "西屯區",
+            "cunli": "上石里",
+            "house_no": "766",
+            "candidates": {
+                "1": 198,
+                "2": 178,
+                "3": 239
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "西屯區",
+            "cunli": "上石里",
+            "house_no": "767",
+            "candidates": {
+                "1": 195,
+                "2": 245,
+                "3": 231
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1253
+        }
+    ]
+}

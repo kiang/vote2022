@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡萬合",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明遠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "瑞興里",
+            "house_no": "1976",
+            "candidates": {
+                "1": 395,
+                "2": 439
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "土城區",
+            "cunli": "瑞興里",
+            "house_no": "1977",
+            "candidates": {
+                "1": 500,
+                "2": 348
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1339
+        }
+    ]
+}

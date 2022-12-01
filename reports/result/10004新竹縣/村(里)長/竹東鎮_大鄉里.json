@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孔維新",
+            "party": "無"
+        },
+        "2": {
+            "name": "范綱朋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹東鎮",
+            "cunli": "大鄉里",
+            "house_no": "153",
+            "candidates": {
+                "1": 266,
+                "2": 292
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "大鄉里",
+            "house_no": "154",
+            "candidates": {
+                "1": 256,
+                "2": 270
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "大鄉里",
+            "house_no": "155",
+            "candidates": {
+                "1": 274,
+                "2": 338
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1207
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "大鄉里",
+            "house_no": "156",
+            "candidates": {
+                "1": 403,
+                "2": 219
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1102
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "董蓮怡",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖清田",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊得福",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "王美蘭",
+            "party": "無"
+        },
+        "5": {
+            "name": "王旻姬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "和平村",
+            "house_no": "116",
+            "candidates": {
+                "1": 345,
+                "2": 27,
+                "3": 211,
+                "4": 66,
+                "5": 40
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "和平村",
+            "house_no": "117",
+            "candidates": {
+                "1": 189,
+                "2": 9,
+                "3": 228,
+                "4": 13,
+                "5": 20
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 623
+        }
+    ]
+}

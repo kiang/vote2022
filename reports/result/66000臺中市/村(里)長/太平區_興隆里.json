@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張閔南",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴玉敏",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "興隆里",
+            "house_no": "1607",
+            "candidates": {
+                "1": 460,
+                "2": 474
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1603
+        },
+        {
+            "area": "太平區",
+            "cunli": "興隆里",
+            "house_no": "1608",
+            "candidates": {
+                "1": 597,
+                "2": 406
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1478
+        }
+    ]
+}

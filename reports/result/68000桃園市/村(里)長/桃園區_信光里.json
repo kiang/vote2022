@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江家羚",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡富景",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "信光里",
+            "house_no": "166",
+            "candidates": {
+                "1": 334,
+                "2": 445
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "桃園區",
+            "cunli": "信光里",
+            "house_no": "167",
+            "candidates": {
+                "1": 301,
+                "2": 346
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "桃園區",
+            "cunli": "信光里",
+            "house_no": "168",
+            "candidates": {
+                "1": 320,
+                "2": 450
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "桃園區",
+            "cunli": "信光里",
+            "house_no": "169",
+            "candidates": {
+                "1": 309,
+                "2": 548
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1466
+        },
+        {
+            "area": "桃園區",
+            "cunli": "信光里",
+            "house_no": "170",
+            "candidates": {
+                "1": 354,
+                "2": 459
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1315
+        }
+    ]
+}

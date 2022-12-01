@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧信雄",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "盧泰諺",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇上火",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "梓信里",
+            "house_no": "398",
+            "candidates": {
+                "1": 155,
+                "2": 115,
+                "3": 416
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "梓官區",
+            "cunli": "梓信里",
+            "house_no": "399",
+            "candidates": {
+                "1": 242,
+                "2": 101,
+                "3": 328
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 999
+        }
+    ]
+}

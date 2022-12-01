@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳雅萍",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳欽宗",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "永安里",
+            "house_no": "1691",
+            "candidates": {
+                "1": 273,
+                "2": 406
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "永和區",
+            "cunli": "永安里",
+            "house_no": "1692",
+            "candidates": {
+                "1": 229,
+                "2": 402
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "永和區",
+            "cunli": "永安里",
+            "house_no": "1693",
+            "candidates": {
+                "1": 290,
+                "2": 448
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1244
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈敏郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡淑惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "明昌里",
+            "house_no": "573",
+            "candidates": {
+                "1": 207,
+                "2": 479
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "明昌里",
+            "house_no": "574",
+            "candidates": {
+                "1": 170,
+                "2": 506
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "明昌里",
+            "house_no": "575",
+            "candidates": {
+                "1": 275,
+                "2": 441
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1097
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林福傳",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊金生",
+            "party": "無"
+        },
+        "3": {
+            "name": "林大智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "新富村",
+            "house_no": "405",
+            "candidates": {
+                "1": 223,
+                "2": 95,
+                "3": 43
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 501
+        }
+    ]
+}

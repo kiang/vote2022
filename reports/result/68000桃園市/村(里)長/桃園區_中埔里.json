@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳訓誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "李阿進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中埔里",
+            "house_no": "126",
+            "candidates": {
+                "1": 387,
+                "2": 456
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中埔里",
+            "house_no": "127",
+            "candidates": {
+                "1": 406,
+                "2": 327
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1158
+        }
+    ]
+}

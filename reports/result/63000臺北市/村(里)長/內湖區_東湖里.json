@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱朝祿",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡麗美",
+            "party": "無"
+        },
+        "3": {
+            "name": "金宸豪",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾鴻胤",
+            "party": "台灣進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "東湖里",
+            "house_no": "446",
+            "candidates": {
+                "1": 482,
+                "2": 279,
+                "3": 28,
+                "4": 56
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "內湖區",
+            "cunli": "東湖里",
+            "house_no": "447",
+            "candidates": {
+                "1": 435,
+                "2": 223,
+                "3": 37,
+                "4": 65
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "內湖區",
+            "cunli": "東湖里",
+            "house_no": "448",
+            "candidates": {
+                "1": 505,
+                "2": 263,
+                "3": 39,
+                "4": 46
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "內湖區",
+            "cunli": "東湖里",
+            "house_no": "449",
+            "candidates": {
+                "1": 524,
+                "2": 292,
+                "3": 47,
+                "4": 45
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1414
+        },
+        {
+            "area": "內湖區",
+            "cunli": "東湖里",
+            "house_no": "450",
+            "candidates": {
+                "1": 453,
+                "2": 326,
+                "3": 34,
+                "4": 44
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1267
+        }
+    ]
+}

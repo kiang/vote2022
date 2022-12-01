@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許富傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃中輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "公安里",
+            "house_no": "125",
+            "candidates": {
+                "1": 191,
+                "2": 376
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "公安里",
+            "house_no": "126",
+            "candidates": {
+                "1": 156,
+                "2": 374
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "公安里",
+            "house_no": "127",
+            "candidates": {
+                "1": 174,
+                "2": 346
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 847
+        }
+    ]
+}

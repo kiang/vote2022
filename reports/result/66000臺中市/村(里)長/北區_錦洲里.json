@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳昌隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "周進雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "丁宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "錦洲里",
+            "house_no": "1203",
+            "candidates": {
+                "1": 379,
+                "2": 99,
+                "3": 77
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "北區",
+            "cunli": "錦洲里",
+            "house_no": "1204",
+            "candidates": {
+                "1": 377,
+                "2": 117,
+                "3": 123
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "北區",
+            "cunli": "錦洲里",
+            "house_no": "1205",
+            "candidates": {
+                "1": 351,
+                "2": 126,
+                "3": 122
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 995
+        }
+    ]
+}

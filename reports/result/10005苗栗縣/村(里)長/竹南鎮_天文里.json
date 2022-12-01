@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊金華",
+            "party": "無"
+        },
+        "2": {
+            "name": "余德明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "天文里",
+            "house_no": "304",
+            "candidates": {
+                "1": 305,
+                "2": 522
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "天文里",
+            "house_no": "305",
+            "candidates": {
+                "1": 168,
+                "2": 375
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 822
+        }
+    ]
+}

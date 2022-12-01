@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅仕通",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅惟誠",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅仕焰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關西鎮",
+            "cunli": "南山里",
+            "house_no": "257",
+            "candidates": {
+                "1": 154,
+                "2": 265,
+                "3": 291
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 991
+        }
+    ]
+}

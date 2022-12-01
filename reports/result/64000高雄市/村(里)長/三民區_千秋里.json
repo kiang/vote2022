@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘陳月英",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡文和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "千秋里",
+            "house_no": "1204",
+            "candidates": {
+                "1": 293,
+                "2": 234
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "三民區",
+            "cunli": "千秋里",
+            "house_no": "1205",
+            "candidates": {
+                "1": 246,
+                "2": 310
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

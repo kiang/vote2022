@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明耀",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭振榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "許翔原",
+            "party": "無"
+        },
+        "4": {
+            "name": "卓秀娟",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "潘還珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "黎順里",
+            "house_no": "883",
+            "candidates": {
+                "1": 159,
+                "2": 104,
+                "3": 125,
+                "4": 153,
+                "5": 89
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "信義區",
+            "cunli": "黎順里",
+            "house_no": "884",
+            "candidates": {
+                "1": 180,
+                "2": 69,
+                "3": 116,
+                "4": 239,
+                "5": 96
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "信義區",
+            "cunli": "黎順里",
+            "house_no": "885",
+            "candidates": {
+                "1": 192,
+                "2": 59,
+                "3": 84,
+                "4": 294,
+                "5": 80
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1041
+        }
+    ]
+}

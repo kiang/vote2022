@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭秀琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "許立明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東明里",
+            "house_no": "1363",
+            "candidates": {
+                "1": 256,
+                "2": 223
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 831
+        },
+        {
+            "area": "東區",
+            "cunli": "東明里",
+            "house_no": "1364",
+            "candidates": {
+                "1": 315,
+                "2": 196
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "東區",
+            "cunli": "東明里",
+            "house_no": "1365",
+            "candidates": {
+                "1": 350,
+                "2": 208
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 996
+        }
+    ]
+}

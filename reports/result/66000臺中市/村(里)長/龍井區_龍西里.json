@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝振屏",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃碧林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "龍西里",
+            "house_no": "275",
+            "candidates": {
+                "1": 200,
+                "2": 387
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "龍井區",
+            "cunli": "龍西里",
+            "house_no": "276",
+            "candidates": {
+                "1": 188,
+                "2": 359
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 839
+        }
+    ]
+}

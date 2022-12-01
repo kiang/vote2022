@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳鳳筆",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭育麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "洛陽村",
+            "house_no": "386",
+            "candidates": {
+                "1": 297,
+                "2": 212
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "洛陽村",
+            "house_no": "387",
+            "candidates": {
+                "1": 308,
+                "2": 302
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

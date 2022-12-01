@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊世君",
+            "party": "無"
+        },
+        "2": {
+            "name": "張簡進興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "中和里",
+            "house_no": "1499",
+            "candidates": {
+                "1": 387,
+                "2": 337
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中和里",
+            "house_no": "1500",
+            "candidates": {
+                "1": 306,
+                "2": 341
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中和里",
+            "house_no": "1501",
+            "candidates": {
+                "1": 226,
+                "2": 444
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

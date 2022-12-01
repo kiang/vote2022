@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳源忠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "永興村",
+            "house_no": "159",
+            "candidates": {
+                "1": 489
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永興村",
+            "house_no": "160",
+            "candidates": {
+                "1": 447
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 897
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "永興村",
+            "house_no": "161",
+            "candidates": {
+                "1": 458
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1053
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉榮貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "王聖諸",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐成瑋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "竹園里",
+            "house_no": "396",
+            "candidates": {
+                "1": 249,
+                "2": 322,
+                "3": 119
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "八德區",
+            "cunli": "竹園里",
+            "house_no": "397",
+            "candidates": {
+                "1": 289,
+                "2": 320,
+                "3": 119
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "八德區",
+            "cunli": "竹園里",
+            "house_no": "398",
+            "candidates": {
+                "1": 296,
+                "2": 279,
+                "3": 155
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1239
+        }
+    ]
+}

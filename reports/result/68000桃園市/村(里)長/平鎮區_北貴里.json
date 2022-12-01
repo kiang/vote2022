@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張寶珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "林玉龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "北貴里",
+            "house_no": "1072",
+            "candidates": {
+                "1": 485,
+                "2": 282
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1120
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北貴里",
+            "house_no": "1073",
+            "candidates": {
+                "1": 646,
+                "2": 369
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1571
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北貴里",
+            "house_no": "1074",
+            "candidates": {
+                "1": 404,
+                "2": 333
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1143
+        }
+    ]
+}

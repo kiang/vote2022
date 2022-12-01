@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈丁子",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中誠里",
+            "house_no": "487",
+            "candidates": {
+                "1": 435
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中誠里",
+            "house_no": "488",
+            "candidates": {
+                "1": 389
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 898
+        }
+    ]
+}

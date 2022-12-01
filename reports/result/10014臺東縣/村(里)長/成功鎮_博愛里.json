@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "利憲彥",
+            "party": "無"
+        },
+        "2": {
+            "name": "林雅各",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "博愛里",
+            "house_no": "107",
+            "candidates": {
+                "1": 95,
+                "2": 133
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 325
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "博愛里",
+            "house_no": "108",
+            "candidates": {
+                "1": 78,
+                "2": 88
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 238
+        }
+    ]
+}

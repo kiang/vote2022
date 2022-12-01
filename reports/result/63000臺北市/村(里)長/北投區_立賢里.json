@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李麗靜",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱福銀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "立賢里",
+            "house_no": "65",
+            "candidates": {
+                "1": 236,
+                "2": 552
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "北投區",
+            "cunli": "立賢里",
+            "house_no": "66",
+            "candidates": {
+                "1": 315,
+                "2": 457
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "北投區",
+            "cunli": "立賢里",
+            "house_no": "67",
+            "candidates": {
+                "1": 268,
+                "2": 424
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "北投區",
+            "cunli": "立賢里",
+            "house_no": "68",
+            "candidates": {
+                "1": 255,
+                "2": 413
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1017
+        }
+    ]
+}

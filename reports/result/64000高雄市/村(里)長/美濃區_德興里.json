@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊安義",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃建雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊金玉",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉明雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "德興里",
+            "house_no": "108",
+            "candidates": {
+                "1": 215,
+                "2": 383,
+                "3": 299,
+                "4": 16
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1404
+        }
+    ]
+}

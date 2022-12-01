@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張辰祺",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇東波",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新社區",
+            "cunli": "永源里",
+            "house_no": "1851",
+            "candidates": {
+                "1": 478,
+                "2": 194
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "新社區",
+            "cunli": "永源里",
+            "house_no": "1852",
+            "candidates": {
+                "1": 194,
+                "2": 520
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "新社區",
+            "cunli": "永源里",
+            "house_no": "1853",
+            "candidates": {
+                "1": 189,
+                "2": 353
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 823
+        }
+    ]
+}

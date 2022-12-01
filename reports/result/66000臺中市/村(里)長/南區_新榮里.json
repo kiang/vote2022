@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪明芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林孟欣",
+            "party": "無"
+        },
+        "3": {
+            "name": "李銷容",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "劉順宗",
+            "party": "無"
+        },
+        "5": {
+            "name": "蔡明昌",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "新榮里",
+            "house_no": "1440",
+            "candidates": {
+                "1": 57,
+                "2": 166,
+                "3": 157,
+                "4": 202,
+                "5": 262
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1431
+        },
+        {
+            "area": "南區",
+            "cunli": "新榮里",
+            "house_no": "1441",
+            "candidates": {
+                "1": 64,
+                "2": 127,
+                "3": 205,
+                "4": 108,
+                "5": 273
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "南區",
+            "cunli": "新榮里",
+            "house_no": "1442",
+            "candidates": {
+                "1": 66,
+                "2": 110,
+                "3": 202,
+                "4": 155,
+                "5": 314
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1432
+        }
+    ]
+}

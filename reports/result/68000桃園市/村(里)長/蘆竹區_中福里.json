@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃文錦",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹益青",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "中福里",
+            "house_no": "489",
+            "candidates": {
+                "1": 314,
+                "2": 568
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1405
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "中福里",
+            "house_no": "490",
+            "candidates": {
+                "1": 448,
+                "2": 438
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "中福里",
+            "house_no": "491",
+            "candidates": {
+                "1": 454,
+                "2": 317
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1196
+        }
+    ]
+}

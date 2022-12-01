@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王元裕",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪火輪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "東興里",
+            "house_no": "990",
+            "candidates": {
+                "1": 385,
+                "2": 147
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 754
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "東興里",
+            "house_no": "991",
+            "candidates": {
+                "1": 344,
+                "2": 163
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 808
+        }
+    ]
+}

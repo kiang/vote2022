@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張駿榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "馬敬忠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "重陽里",
+            "house_no": "553",
+            "candidates": {
+                "1": 354,
+                "2": 303
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "南港區",
+            "cunli": "重陽里",
+            "house_no": "554",
+            "candidates": {
+                "1": 343,
+                "2": 428
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "南港區",
+            "cunli": "重陽里",
+            "house_no": "555",
+            "candidates": {
+                "1": 333,
+                "2": 393
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "南港區",
+            "cunli": "重陽里",
+            "house_no": "556",
+            "candidates": {
+                "1": 394,
+                "2": 446
+            },
+            "count_wrong": 35,
+            "count_unused": 3,
+            "count_total": 1283
+        }
+    ]
+}

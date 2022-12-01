@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯永茂",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭清山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "津城里",
+            "house_no": "86",
+            "candidates": {
+                "1": 147,
+                "2": 258
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 606
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "津城里",
+            "house_no": "87",
+            "candidates": {
+                "1": 159,
+                "2": 53
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 287
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "津城里",
+            "house_no": "88",
+            "candidates": {
+                "1": 168,
+                "2": 128
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 467
+        }
+    ]
+}

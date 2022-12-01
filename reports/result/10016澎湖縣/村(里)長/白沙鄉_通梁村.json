@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林福瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "張健完",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭成財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白沙鄉",
+            "cunli": "通梁村",
+            "house_no": "88",
+            "candidates": {
+                "1": 199,
+                "2": 204,
+                "3": 60
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 749
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅光森",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳仁成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "上興里",
+            "house_no": "370",
+            "candidates": {
+                "1": 365,
+                "2": 301
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "頭份市",
+            "cunli": "上興里",
+            "house_no": "371",
+            "candidates": {
+                "1": 283,
+                "2": 191
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1127
+        }
+    ]
+}

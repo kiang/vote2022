@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝忠復",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "源埤里",
+            "house_no": "414",
+            "candidates": {
+                "1": 533
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "源埤里",
+            "house_no": "415",
+            "candidates": {
+                "1": 484
+            },
+            "count_wrong": 52,
+            "count_unused": 1,
+            "count_total": 844
+        }
+    ]
+}

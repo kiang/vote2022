@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林東寳",
+            "party": "無"
+        },
+        "2": {
+            "name": "張富凱",
+            "party": "無"
+        },
+        "3": {
+            "name": "曹呈祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "仁壽里",
+            "house_no": "41",
+            "candidates": {
+                "1": 274,
+                "2": 294,
+                "3": 58
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

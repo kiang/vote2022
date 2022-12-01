@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳智雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳國興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "琉球鄉",
+            "cunli": "漁福村",
+            "house_no": "614",
+            "candidates": {
+                "1": 238,
+                "2": 113,
+                "3": 346,
+                "4": 36
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "大福村",
+            "house_no": "615",
+            "candidates": {
+                "1": 225,
+                "2": 468,
+                "3": 120,
+                "4": 339
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1616
+        }
+    ]
+}

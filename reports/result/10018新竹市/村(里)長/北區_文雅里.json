@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱毅",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭彥廷",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉興增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "文雅里",
+            "house_no": "218",
+            "candidates": {
+                "1": 510,
+                "2": 91,
+                "3": 122
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "北區",
+            "cunli": "文雅里",
+            "house_no": "219",
+            "candidates": {
+                "1": 505,
+                "2": 44,
+                "3": 143
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "北區",
+            "cunli": "文雅里",
+            "house_no": "220",
+            "candidates": {
+                "1": 394,
+                "2": 70,
+                "3": 134
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "北區",
+            "cunli": "文雅里",
+            "house_no": "221",
+            "candidates": {
+                "1": 369,
+                "2": 34,
+                "3": 117
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 860
+        }
+    ]
+}

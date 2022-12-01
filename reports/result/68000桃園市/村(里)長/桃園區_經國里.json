@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉琪政",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳俊豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "經國里",
+            "house_no": "191",
+            "candidates": {
+                "1": 271,
+                "2": 635
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1568
+        },
+        {
+            "area": "桃園區",
+            "cunli": "經國里",
+            "house_no": "192",
+            "candidates": {
+                "1": 486,
+                "2": 551
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1717
+        },
+        {
+            "area": "桃園區",
+            "cunli": "經國里",
+            "house_no": "193",
+            "candidates": {
+                "1": 364,
+                "2": 490
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1451
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王瑞明",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴建中",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水里鄉",
+            "cunli": "南光村",
+            "house_no": "435",
+            "candidates": {
+                "1": 212,
+                "2": 283
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "水里鄉",
+            "cunli": "南光村",
+            "house_no": "436",
+            "candidates": {
+                "1": 226,
+                "2": 342
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 784
+        }
+    ]
+}

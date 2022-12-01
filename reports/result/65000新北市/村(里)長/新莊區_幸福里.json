@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧美玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱清波",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "幸福里",
+            "house_no": "412",
+            "candidates": {
+                "1": 400,
+                "2": 287
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "新莊區",
+            "cunli": "幸福里",
+            "house_no": "413",
+            "candidates": {
+                "1": 433,
+                "2": 241
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1195
+        },
+        {
+            "area": "新莊區",
+            "cunli": "幸福里",
+            "house_no": "414",
+            "candidates": {
+                "1": 546,
+                "2": 190
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1225
+        }
+    ]
+}

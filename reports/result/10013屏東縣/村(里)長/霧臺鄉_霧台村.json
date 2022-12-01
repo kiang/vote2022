@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧忠勤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "657",
+            "candidates": {
+                "1": 277
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 331
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "658",
+            "candidates": {
+                "1": 529
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 658
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "659",
+            "candidates": {
+                "1": 97
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 152
+        }
+    ]
+}

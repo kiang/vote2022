@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡忠明",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭榮仕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "總頭里",
+            "house_no": "732",
+            "candidates": {
+                "1": 389,
+                "2": 172
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 896
+        },
+        {
+            "area": "安南區",
+            "cunli": "總頭里",
+            "house_no": "733",
+            "candidates": {
+                "1": 337,
+                "2": 208
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 850
+        }
+    ]
+}

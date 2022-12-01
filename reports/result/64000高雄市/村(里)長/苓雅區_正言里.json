@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡清明",
+            "party": "無"
+        },
+        "2": {
+            "name": "古金川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "正言里",
+            "house_no": "1393",
+            "candidates": {
+                "1": 133,
+                "2": 301
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "正言里",
+            "house_no": "1394",
+            "candidates": {
+                "1": 109,
+                "2": 300
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "正言里",
+            "house_no": "1395",
+            "candidates": {
+                "1": 177,
+                "2": 387
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 912
+        }
+    ]
+}

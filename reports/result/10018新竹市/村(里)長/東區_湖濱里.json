@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳牡丹",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "呂連村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "湖濱里",
+            "house_no": "152",
+            "candidates": {
+                "1": 443,
+                "2": 300
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "東區",
+            "cunli": "湖濱里",
+            "house_no": "153",
+            "candidates": {
+                "1": 482,
+                "2": 274
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1203
+        },
+        {
+            "area": "東區",
+            "cunli": "湖濱里",
+            "house_no": "154",
+            "candidates": {
+                "1": 515,
+                "2": 114
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 947
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁東發",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱明雄",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張恆維",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "114",
+            "candidates": {
+                "1": 94,
+                "2": 264,
+                "3": 129
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 833
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "115",
+            "candidates": {
+                "1": 67,
+                "2": 105,
+                "3": 20
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 343
+        }
+    ]
+}

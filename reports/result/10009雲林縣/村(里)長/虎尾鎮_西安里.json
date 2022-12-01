@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹岳霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳水敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "西安里",
+            "house_no": "131",
+            "candidates": {
+                "1": 236,
+                "2": 339
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "西安里",
+            "house_no": "132",
+            "candidates": {
+                "1": 216,
+                "2": 386
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 991
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "西安里",
+            "house_no": "133",
+            "candidates": {
+                "1": 346,
+                "2": 274
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

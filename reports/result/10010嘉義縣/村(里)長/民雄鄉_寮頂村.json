@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱雪梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃玉蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "寮頂村",
+            "house_no": "113",
+            "candidates": {
+                "1": 350,
+                "2": 404
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "寮頂村",
+            "house_no": "114",
+            "candidates": {
+                "1": 190,
+                "2": 459
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1033
+        }
+    ]
+}

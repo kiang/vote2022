@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪瑞男",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪倚淵",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪柏森",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "加老里",
+            "house_no": "203",
+            "candidates": {
+                "1": 148,
+                "2": 207,
+                "3": 311
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "加老里",
+            "house_no": "204",
+            "candidates": {
+                "1": 374,
+                "2": 171,
+                "3": 361
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1257
+        }
+    ]
+}

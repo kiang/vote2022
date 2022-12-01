@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳秋桂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "信義里",
+            "house_no": "418",
+            "candidates": {
+                "1": 489
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "新莊區",
+            "cunli": "信義里",
+            "house_no": "419",
+            "candidates": {
+                "1": 471
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1029
+        },
+        {
+            "area": "新莊區",
+            "cunli": "信義里",
+            "house_no": "420",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 109,
+            "count_unused": 1,
+            "count_total": 1181
+        },
+        {
+            "area": "新莊區",
+            "cunli": "信義里",
+            "house_no": "421",
+            "candidates": {
+                "1": 548
+            },
+            "count_wrong": 64,
+            "count_unused": 1,
+            "count_total": 1116
+        }
+    ]
+}

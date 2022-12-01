@@ -1,0 +1,134 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳文傑",
+            "party": "無"
+        },
+        "3": {
+            "name": "張淑綢",
+            "party": "無"
+        },
+        "4": {
+            "name": "許瑩珠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "156",
+            "candidates": {
+                "1": 277,
+                "2": 39,
+                "3": 290,
+                "4": 195
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "157",
+            "candidates": {
+                "1": 259,
+                "2": 22,
+                "3": 227,
+                "4": 229
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "158",
+            "candidates": {
+                "1": 198,
+                "2": 32,
+                "3": 269,
+                "4": 197
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "159",
+            "candidates": {
+                "1": 209,
+                "2": 30,
+                "3": 273,
+                "4": 181
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "160",
+            "candidates": {
+                "1": 220,
+                "2": 33,
+                "3": 321,
+                "4": 154
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "161",
+            "candidates": {
+                "1": 231,
+                "2": 21,
+                "3": 291,
+                "4": 160
+            },
+            "count_wrong": 52,
+            "count_unused": 5,
+            "count_total": 1122
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "162",
+            "candidates": {
+                "1": 160,
+                "2": 42,
+                "3": 214,
+                "4": 239
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1162
+        },
+        {
+            "area": "北投區",
+            "cunli": "關渡里",
+            "house_no": "163",
+            "candidates": {
+                "1": 159,
+                "2": 22,
+                "3": 343,
+                "4": 161
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1180
+        }
+    ]
+}

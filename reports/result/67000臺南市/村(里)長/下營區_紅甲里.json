@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏榮泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "紅甲里",
+            "house_no": "385",
+            "candidates": {
+                "1": 570
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "下營區",
+            "cunli": "紅甲里",
+            "house_no": "386",
+            "candidates": {
+                "1": 511
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

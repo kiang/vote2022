@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳坤郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴政源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "民有里",
+            "house_no": "610",
+            "candidates": {
+                "1": 437,
+                "2": 274
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "新莊區",
+            "cunli": "民有里",
+            "house_no": "611",
+            "candidates": {
+                "1": 305,
+                "2": 259
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 960
+        },
+        {
+            "area": "新莊區",
+            "cunli": "民有里",
+            "house_no": "612",
+            "candidates": {
+                "1": 415,
+                "2": 340
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1263
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡裴瑜",
+            "party": "無"
+        },
+        "2": {
+            "name": "李耀輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪坤助",
+            "party": "無"
+        },
+        "4": {
+            "name": "施麗桂",
+            "party": "無"
+        },
+        "5": {
+            "name": "莊清南",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "210",
+            "candidates": {
+                "1": 289,
+                "2": 68,
+                "3": 240,
+                "4": 136,
+                "5": 220
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1559
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "211",
+            "candidates": {
+                "1": 208,
+                "2": 44,
+                "3": 133,
+                "4": 139,
+                "5": 234
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "212",
+            "candidates": {
+                "1": 262,
+                "2": 41,
+                "3": 105,
+                "4": 88,
+                "5": 85
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 966
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "213",
+            "candidates": {
+                "1": 207,
+                "2": 42,
+                "3": 80,
+                "4": 54,
+                "5": 124
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "214",
+            "candidates": {
+                "1": 254,
+                "2": 41,
+                "3": 84,
+                "4": 111,
+                "5": 159
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "215",
+            "candidates": {
+                "1": 108,
+                "2": 47,
+                "3": 67,
+                "4": 107,
+                "5": 81
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "北勢里",
+            "house_no": "216",
+            "candidates": {
+                "1": 73,
+                "2": 16,
+                "3": 81,
+                "4": 106,
+                "5": 187
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 641
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "北勢里",
+            "house_no": "217",
+            "candidates": {
+                "1": 63,
+                "2": 22,
+                "3": 79,
+                "4": 138,
+                "5": 120
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 632
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "北勢里",
+            "house_no": "218",
+            "candidates": {
+                "1": 39,
+                "2": 14,
+                "3": 35,
+                "4": 72,
+                "5": 148
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 461
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "中原里",
+            "house_no": "219",
+            "candidates": {
+                "1": 142,
+                "2": 43,
+                "3": 196,
+                "4": 153,
+                "5": 199
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1115
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "中原里",
+            "house_no": "220",
+            "candidates": {
+                "1": 88,
+                "2": 80,
+                "3": 111,
+                "4": 177,
+                "5": 140
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 840
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "南埔里",
+            "house_no": "221",
+            "candidates": {
+                "1": 89,
+                "2": 186,
+                "3": 117,
+                "4": 108,
+                "5": 138
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "南埔里",
+            "house_no": "222",
+            "candidates": {
+                "1": 89,
+                "2": 141,
+                "3": 51,
+                "4": 135,
+                "5": 131
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "南埔里",
+            "house_no": "223",
+            "candidates": {
+                "1": 100,
+                "2": 263,
+                "3": 70,
+                "4": 113,
+                "5": 64
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "南埔里",
+            "house_no": "224",
+            "candidates": {
+                "1": 88,
+                "2": 233,
+                "3": 75,
+                "4": 136,
+                "5": 103
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "坪頂里",
+            "house_no": "225",
+            "candidates": {
+                "1": 192,
+                "2": 33,
+                "3": 143,
+                "4": 85,
+                "5": 208
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "土城里",
+            "house_no": "226",
+            "candidates": {
+                "1": 64,
+                "2": 26,
+                "3": 30,
+                "4": 170,
+                "5": 79
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 620
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "土城里",
+            "house_no": "227",
+            "candidates": {
+                "1": 146,
+                "2": 33,
+                "3": 54,
+                "4": 187,
+                "5": 125
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "平林里",
+            "house_no": "228",
+            "candidates": {
+                "1": 118,
+                "2": 41,
+                "3": 211,
+                "4": 180,
+                "5": 248
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "雙冬里",
+            "house_no": "229",
+            "candidates": {
+                "1": 38,
+                "2": 9,
+                "3": 414,
+                "4": 39,
+                "5": 222
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "雙冬里",
+            "house_no": "230",
+            "candidates": {
+                "1": 33,
+                "2": 11,
+                "3": 474,
+                "4": 42,
+                "5": 157
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

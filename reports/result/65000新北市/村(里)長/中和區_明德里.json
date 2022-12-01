@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯鈞瀚",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅健容",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "明德里",
+            "house_no": "1544",
+            "candidates": {
+                "1": 281,
+                "2": 356
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "中和區",
+            "cunli": "明德里",
+            "house_no": "1545",
+            "candidates": {
+                "1": 374,
+                "2": 348
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "中和區",
+            "cunli": "明德里",
+            "house_no": "1546",
+            "candidates": {
+                "1": 307,
+                "2": 437
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1140
+        }
+    ]
+}

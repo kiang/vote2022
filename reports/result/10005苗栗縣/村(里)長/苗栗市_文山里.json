@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊金福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱義均",
+            "party": "無"
+        },
+        "3": {
+            "name": "湯佳雯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "文山里",
+            "house_no": "58",
+            "candidates": {
+                "1": 213,
+                "2": 351,
+                "3": 89
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "文山里",
+            "house_no": "59",
+            "candidates": {
+                "1": 123,
+                "2": 299,
+                "3": 223
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "文山里",
+            "house_no": "60",
+            "candidates": {
+                "1": 200,
+                "2": 243,
+                "3": 149
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1031
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "文山里",
+            "house_no": "61",
+            "candidates": {
+                "1": 206,
+                "2": 234,
+                "3": 154
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1011
+        }
+    ]
+}

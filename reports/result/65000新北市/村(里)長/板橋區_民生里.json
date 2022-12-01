@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊學文",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘旭昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "民生里",
+            "house_no": "1225",
+            "candidates": {
+                "1": 222,
+                "2": 352
+            },
+            "count_wrong": 43,
+            "count_unused": 1,
+            "count_total": 909
+        },
+        {
+            "area": "板橋區",
+            "cunli": "民生里",
+            "house_no": "1226",
+            "candidates": {
+                "1": 307,
+                "2": 257
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 921
+        }
+    ]
+}

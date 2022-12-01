@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀蘭",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "江秀華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "正聲里",
+            "house_no": "1559",
+            "candidates": {
+                "1": 413,
+                "2": 294
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1114
+        },
+        {
+            "area": "大安區",
+            "cunli": "正聲里",
+            "house_no": "1560",
+            "candidates": {
+                "1": 452,
+                "2": 335
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "大安區",
+            "cunli": "正聲里",
+            "house_no": "1561",
+            "candidates": {
+                "1": 439,
+                "2": 275
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1116
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周靜萱",
+            "party": "無"
+        },
+        "2": {
+            "name": "林信吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "安穗里",
+            "house_no": "1520",
+            "candidates": {
+                "1": 406,
+                "2": 362
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1259
+        },
+        {
+            "area": "中和區",
+            "cunli": "安穗里",
+            "house_no": "1521",
+            "candidates": {
+                "1": 468,
+                "2": 230
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1288
+        },
+        {
+            "area": "中和區",
+            "cunli": "安穗里",
+            "house_no": "1522",
+            "candidates": {
+                "1": 431,
+                "2": 302
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1224
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李瑞航",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱政祺",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭世琩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "福林里",
+            "house_no": "23",
+            "candidates": {
+                "1": 556,
+                "2": 191,
+                "3": 68
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福林里",
+            "house_no": "24",
+            "candidates": {
+                "1": 605,
+                "2": 264,
+                "3": 90
+            },
+            "count_wrong": 12,
+            "count_unused": 19,
+            "count_total": 1496
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福林里",
+            "house_no": "25",
+            "candidates": {
+                "1": 695,
+                "2": 133,
+                "3": 84
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1498
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福林里",
+            "house_no": "26",
+            "candidates": {
+                "1": 548,
+                "2": 162,
+                "3": 80
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1355
+        }
+    ]
+}

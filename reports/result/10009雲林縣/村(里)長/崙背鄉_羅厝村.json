@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李照域",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "羅厝村",
+            "house_no": "327",
+            "candidates": {
+                "1": 555
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "羅厝村",
+            "house_no": "328",
+            "candidates": {
+                "1": 588
+            },
+            "count_wrong": 89,
+            "count_unused": 5,
+            "count_total": 1039
+        }
+    ]
+}

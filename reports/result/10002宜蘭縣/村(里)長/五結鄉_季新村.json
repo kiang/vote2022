@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林敏雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭阿溪",
+            "party": "無"
+        },
+        "3": {
+            "name": "林勇丞",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴麗雪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "季新村",
+            "house_no": "384",
+            "candidates": {
+                "1": 145,
+                "2": 18,
+                "3": 125,
+                "4": 243
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 826
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "季新村",
+            "house_no": "385",
+            "candidates": {
+                "1": 343,
+                "2": 20,
+                "3": 133,
+                "4": 167
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "季新村",
+            "house_no": "386",
+            "candidates": {
+                "1": 178,
+                "2": 78,
+                "3": 65,
+                "4": 96
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 664
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田輝煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐炳生",
+            "party": "無"
+        },
+        "3": {
+            "name": "姜義水",
+            "party": "無"
+        },
+        "4": {
+            "name": "張清淇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "南大里",
+            "house_no": "139",
+            "candidates": {
+                "1": 57,
+                "2": 129,
+                "3": 154,
+                "4": 29
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 561
+        },
+        {
+            "area": "東區",
+            "cunli": "南大里",
+            "house_no": "140",
+            "candidates": {
+                "1": 92,
+                "2": 205,
+                "3": 183,
+                "4": 10
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 737
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡豐旭",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "田國義",
+            "party": "無"
+        },
+        "3": {
+            "name": "林榮清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東河鄉",
+            "cunli": "都蘭村",
+            "house_no": "162",
+            "candidates": {
+                "1": 177,
+                "2": 182,
+                "3": 50
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 653
+        },
+        {
+            "area": "東河鄉",
+            "cunli": "都蘭村",
+            "house_no": "163",
+            "candidates": {
+                "1": 157,
+                "2": 203,
+                "3": 38
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 598
+        },
+        {
+            "area": "東河鄉",
+            "cunli": "都蘭村",
+            "house_no": "164",
+            "candidates": {
+                "1": 204,
+                "2": 259,
+                "3": 75
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 777
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidates": {
+        "1": {
+            "name": "甘新春",
+            "party": "無"
+        },
+        "2": {
+            "name": "伊斯巴拉淦.吾瑪斯Is Pala Kan．Umas",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳炎煌",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳世民",
+            "party": "無"
+        },
+        "5": {
+            "name": "司文欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義鄉",
+            "cunli": "明德村",
+            "house_no": "448",
+            "candidates": {
+                "1": 68,
+                "2": 68,
+                "3": 186,
+                "4": 30,
+                "5": 20
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 526
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "明德村",
+            "house_no": "449",
+            "candidates": {
+                "1": 103,
+                "2": 173,
+                "3": 23,
+                "4": 61,
+                "5": 39
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 584
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "明德村",
+            "house_no": "450",
+            "candidates": {
+                "1": 47,
+                "2": 87,
+                "3": 19,
+                "4": 47,
+                "5": 22
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 298
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "愛國村",
+            "house_no": "451",
+            "candidates": {
+                "1": 101,
+                "2": 125,
+                "3": 5,
+                "4": 61,
+                "5": 29
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 462
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "自強村",
+            "house_no": "452",
+            "candidates": {
+                "1": 73,
+                "2": 127,
+                "3": 0,
+                "4": 26,
+                "5": 59
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 383
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "自強村",
+            "house_no": "453",
+            "candidates": {
+                "1": 56,
+                "2": 83,
+                "3": 4,
+                "4": 51,
+                "5": 30
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 296
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "豐丘村",
+            "house_no": "454",
+            "candidates": {
+                "1": 116,
+                "2": 90,
+                "3": 97,
+                "4": 45,
+                "5": 54
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 607
+        }
+    ]
+}

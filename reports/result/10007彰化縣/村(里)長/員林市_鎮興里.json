@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江進城",
+            "party": "無"
+        },
+        "2": {
+            "name": "高百潘",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃銘得",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "鎮興里",
+            "house_no": "510",
+            "candidates": {
+                "1": 60,
+                "2": 119,
+                "3": 489
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "員林市",
+            "cunli": "鎮興里",
+            "house_no": "511",
+            "candidates": {
+                "1": 87,
+                "2": 112,
+                "3": 335
+            },
+            "count_wrong": 25,
+            "count_unused": 2,
+            "count_total": 810
+        }
+    ]
+}

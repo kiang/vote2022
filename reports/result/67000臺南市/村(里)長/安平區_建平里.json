@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪瑞隆",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "傅建峰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安平區",
+            "cunli": "建平里",
+            "house_no": "1123",
+            "candidates": {
+                "1": 160,
+                "2": 394
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "安平區",
+            "cunli": "建平里",
+            "house_no": "1124",
+            "candidates": {
+                "1": 186,
+                "2": 402
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1114
+        },
+        {
+            "area": "安平區",
+            "cunli": "建平里",
+            "house_no": "1125",
+            "candidates": {
+                "1": 319,
+                "2": 383
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "安平區",
+            "cunli": "建平里",
+            "house_no": "1126",
+            "candidates": {
+                "1": 246,
+                "2": 426
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1329
+        }
+    ]
+}

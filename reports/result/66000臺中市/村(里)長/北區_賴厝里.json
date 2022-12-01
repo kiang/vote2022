@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴有德",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "許自在",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "賴厝里",
+            "house_no": "1227",
+            "candidates": {
+                "1": 364,
+                "2": 117
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1942
+        },
+        {
+            "area": "北區",
+            "cunli": "賴厝里",
+            "house_no": "1228",
+            "candidates": {
+                "1": 539,
+                "2": 176
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1460
+        },
+        {
+            "area": "北區",
+            "cunli": "賴厝里",
+            "house_no": "1229",
+            "candidates": {
+                "1": 473,
+                "2": 161
+            },
+            "count_wrong": 58,
+            "count_unused": 1,
+            "count_total": 1372
+        }
+    ]
+}

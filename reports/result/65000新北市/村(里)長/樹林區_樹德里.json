@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王俊雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳雲明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "樹德里",
+            "house_no": "1788",
+            "candidates": {
+                "1": 168,
+                "2": 327
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 833
+        },
+        {
+            "area": "樹林區",
+            "cunli": "樹德里",
+            "house_no": "1789",
+            "candidates": {
+                "1": 332,
+                "2": 488
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "樹林區",
+            "cunli": "樹德里",
+            "house_no": "1790",
+            "candidates": {
+                "1": 213,
+                "2": 392
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 956
+        }
+    ]
+}

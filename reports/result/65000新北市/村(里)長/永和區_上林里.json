@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林維楠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "上林里",
+            "house_no": "1616",
+            "candidates": {
+                "1": 719
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 1400
+        },
+        {
+            "area": "永和區",
+            "cunli": "上林里",
+            "house_no": "1617",
+            "candidates": {
+                "1": 725
+            },
+            "count_wrong": 106,
+            "count_unused": 1,
+            "count_total": 1433
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅美搖",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳志宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "湖鏡村",
+            "house_no": "311",
+            "candidates": {
+                "1": 310,
+                "2": 508
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1195
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖鏡村",
+            "house_no": "312",
+            "candidates": {
+                "1": 416,
+                "2": 318
+            },
+            "count_wrong": 13,
+            "count_unused": 2,
+            "count_total": 1213
+        }
+    ]
+}

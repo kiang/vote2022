@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃盟松",
+            "party": "無"
+        },
+        "2": {
+            "name": "高温評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "林園里",
+            "house_no": "1977",
+            "candidates": {
+                "1": 405,
+                "2": 257
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "林園區",
+            "cunli": "林園里",
+            "house_no": "1978",
+            "candidates": {
+                "1": 386,
+                "2": 191
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "林園區",
+            "cunli": "林園里",
+            "house_no": "1979",
+            "candidates": {
+                "1": 438,
+                "2": 206
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

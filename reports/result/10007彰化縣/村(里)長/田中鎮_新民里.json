@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王境銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃彩惠",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "新民里",
+            "house_no": "798",
+            "candidates": {
+                "1": 335,
+                "2": 317
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "新民里",
+            "house_no": "799",
+            "candidates": {
+                "1": 301,
+                "2": 289
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "新民里",
+            "house_no": "800",
+            "candidates": {
+                "1": 348,
+                "2": 301
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "新民里",
+            "house_no": "801",
+            "candidates": {
+                "1": 377,
+                "2": 245
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

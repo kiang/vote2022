@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭麗玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "高炳來",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "深坑區",
+            "cunli": "賴仲里",
+            "house_no": "2371",
+            "candidates": {
+                "1": 472,
+                "2": 414
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1316
+        },
+        {
+            "area": "深坑區",
+            "cunli": "賴仲里",
+            "house_no": "2372",
+            "candidates": {
+                "1": 265,
+                "2": 211
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 708
+        }
+    ]
+}

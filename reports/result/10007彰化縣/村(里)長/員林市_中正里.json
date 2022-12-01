@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳進發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "中正里",
+            "house_no": "546",
+            "candidates": {
+                "1": 434
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "員林市",
+            "cunli": "中正里",
+            "house_no": "547",
+            "candidates": {
+                "1": 570
+            },
+            "count_wrong": 79,
+            "count_unused": 1,
+            "count_total": 1109
+        },
+        {
+            "area": "員林市",
+            "cunli": "中正里",
+            "house_no": "548",
+            "candidates": {
+                "1": 528
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1041
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明村",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡敦樂",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡銘輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "油車村",
+            "house_no": "745",
+            "candidates": {
+                "1": 220,
+                "2": 257,
+                "3": 342
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1190
+        }
+    ]
+}

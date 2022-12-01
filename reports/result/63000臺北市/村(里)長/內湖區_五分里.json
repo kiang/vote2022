@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李健瑋",
+            "party": "無"
+        },
+        "2": {
+            "name": "林月琴",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱忠遠",
+            "party": "無"
+        },
+        "4": {
+            "name": "王海枝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "五分里",
+            "house_no": "440",
+            "candidates": {
+                "1": 94,
+                "2": 207,
+                "3": 93,
+                "4": 432
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "內湖區",
+            "cunli": "五分里",
+            "house_no": "441",
+            "candidates": {
+                "1": 110,
+                "2": 169,
+                "3": 112,
+                "4": 420
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "內湖區",
+            "cunli": "五分里",
+            "house_no": "442",
+            "candidates": {
+                "1": 152,
+                "2": 195,
+                "3": 70,
+                "4": 456
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1374
+        },
+        {
+            "area": "內湖區",
+            "cunli": "五分里",
+            "house_no": "443",
+            "candidates": {
+                "1": 118,
+                "2": 213,
+                "3": 83,
+                "4": 398
+            },
+            "count_wrong": 49,
+            "count_unused": 1,
+            "count_total": 1349
+        },
+        {
+            "area": "內湖區",
+            "cunli": "五分里",
+            "house_no": "444",
+            "candidates": {
+                "1": 115,
+                "2": 317,
+                "3": 139,
+                "4": 332
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1426
+        },
+        {
+            "area": "內湖區",
+            "cunli": "五分里",
+            "house_no": "445",
+            "candidates": {
+                "1": 113,
+                "2": 274,
+                "3": 89,
+                "4": 366
+            },
+            "count_wrong": 46,
+            "count_unused": 2,
+            "count_total": 1406
+        }
+    ]
+}

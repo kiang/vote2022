@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許嘉陣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "永順里",
+            "house_no": "941",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "三重區",
+            "cunli": "永順里",
+            "house_no": "942",
+            "candidates": {
+                "1": 655
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1547
+        },
+        {
+            "area": "三重區",
+            "cunli": "永順里",
+            "house_no": "943",
+            "candidates": {
+                "1": 659
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1416
+        }
+    ]
+}

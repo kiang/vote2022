@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊文進",
+            "party": "無"
+        },
+        "2": {
+            "name": "張素伶",
+            "party": "無"
+        },
+        "3": {
+            "name": "趙建輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "幸福里",
+            "house_no": "306",
+            "candidates": {
+                "1": 279,
+                "2": 502,
+                "3": 127
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1696
+        },
+        {
+            "area": "龜山區",
+            "cunli": "幸福里",
+            "house_no": "307",
+            "candidates": {
+                "1": 293,
+                "2": 369,
+                "3": 155
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1538
+        },
+        {
+            "area": "龜山區",
+            "cunli": "幸福里",
+            "house_no": "308",
+            "candidates": {
+                "1": 392,
+                "2": 390,
+                "3": 112
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1778
+        }
+    ]
+}

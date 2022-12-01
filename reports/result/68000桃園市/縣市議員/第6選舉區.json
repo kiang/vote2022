@@ -1,0 +1,980 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳治文",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "李柏坊",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "徐慈檉",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "興和里",
+            "house_no": "636",
+            "candidates": {
+                "1": 440,
+                "2": 358,
+                "3": 76
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1339
+        },
+        {
+            "area": "大溪區",
+            "cunli": "福仁里",
+            "house_no": "637",
+            "candidates": {
+                "1": 280,
+                "2": 219,
+                "3": 96
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "大溪區",
+            "cunli": "田心里",
+            "house_no": "638",
+            "candidates": {
+                "1": 353,
+                "2": 327,
+                "3": 128
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1452
+        },
+        {
+            "area": "大溪區",
+            "cunli": "田心里",
+            "house_no": "639",
+            "candidates": {
+                "1": 384,
+                "2": 274,
+                "3": 74
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "大溪區",
+            "cunli": "田心里",
+            "house_no": "640",
+            "candidates": {
+                "1": 335,
+                "2": 274,
+                "3": 98
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一心里",
+            "house_no": "641",
+            "candidates": {
+                "1": 275,
+                "2": 206,
+                "3": 60
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一心里",
+            "house_no": "642",
+            "candidates": {
+                "1": 301,
+                "2": 280,
+                "3": 73
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一心里",
+            "house_no": "643",
+            "candidates": {
+                "1": 301,
+                "2": 275,
+                "3": 71
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一心里",
+            "house_no": "644",
+            "candidates": {
+                "1": 232,
+                "2": 214,
+                "3": 38
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一德里",
+            "house_no": "645",
+            "candidates": {
+                "1": 337,
+                "2": 241,
+                "3": 79
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一德里",
+            "house_no": "646",
+            "candidates": {
+                "1": 273,
+                "2": 265,
+                "3": 66
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一德里",
+            "house_no": "647",
+            "candidates": {
+                "1": 364,
+                "2": 285,
+                "3": 61
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "大溪區",
+            "cunli": "一德里",
+            "house_no": "648",
+            "candidates": {
+                "1": 351,
+                "2": 297,
+                "3": 63
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1367
+        },
+        {
+            "area": "大溪區",
+            "cunli": "月眉里",
+            "house_no": "649",
+            "candidates": {
+                "1": 355,
+                "2": 266,
+                "3": 62
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "大溪區",
+            "cunli": "永福里",
+            "house_no": "650",
+            "candidates": {
+                "1": 306,
+                "2": 188,
+                "3": 35
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "大溪區",
+            "cunli": "康安里",
+            "house_no": "651",
+            "candidates": {
+                "1": 396,
+                "2": 272,
+                "3": 53
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "大溪區",
+            "cunli": "義和里",
+            "house_no": "652",
+            "candidates": {
+                "1": 396,
+                "2": 290,
+                "3": 31
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "大溪區",
+            "cunli": "義和里",
+            "house_no": "653",
+            "candidates": {
+                "1": 193,
+                "2": 155,
+                "3": 38
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 584
+        },
+        {
+            "area": "大溪區",
+            "cunli": "美華里",
+            "house_no": "654",
+            "candidates": {
+                "1": 378,
+                "2": 220,
+                "3": 78
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1011
+        },
+        {
+            "area": "大溪區",
+            "cunli": "美華里",
+            "house_no": "655",
+            "candidates": {
+                "1": 389,
+                "2": 339,
+                "3": 42
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "大溪區",
+            "cunli": "美華里",
+            "house_no": "656",
+            "candidates": {
+                "1": 244,
+                "2": 184,
+                "3": 26
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "大溪區",
+            "cunli": "福安里",
+            "house_no": "657",
+            "candidates": {
+                "1": 366,
+                "2": 299,
+                "3": 60
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "大溪區",
+            "cunli": "福安里",
+            "house_no": "658",
+            "candidates": {
+                "1": 280,
+                "2": 193,
+                "3": 110
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "大溪區",
+            "cunli": "復興里",
+            "house_no": "659",
+            "candidates": {
+                "1": 212,
+                "2": 241,
+                "3": 35
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "大溪區",
+            "cunli": "新峰里",
+            "house_no": "660",
+            "candidates": {
+                "1": 246,
+                "2": 278,
+                "3": 62
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 754
+        },
+        {
+            "area": "大溪區",
+            "cunli": "中新里",
+            "house_no": "661",
+            "candidates": {
+                "1": 328,
+                "2": 233,
+                "3": 43
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "大溪區",
+            "cunli": "中新里",
+            "house_no": "662",
+            "candidates": {
+                "1": 233,
+                "2": 218,
+                "3": 22
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 649
+        },
+        {
+            "area": "大溪區",
+            "cunli": "瑞興里",
+            "house_no": "663",
+            "candidates": {
+                "1": 436,
+                "2": 255,
+                "3": 74
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "大溪區",
+            "cunli": "瑞興里",
+            "house_no": "664",
+            "candidates": {
+                "1": 188,
+                "2": 146,
+                "3": 31
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁善里",
+            "house_no": "665",
+            "candidates": {
+                "1": 345,
+                "2": 368,
+                "3": 50
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1458
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁善里",
+            "house_no": "666",
+            "candidates": {
+                "1": 245,
+                "2": 341,
+                "3": 65
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁善里",
+            "house_no": "667",
+            "candidates": {
+                "1": 351,
+                "2": 436,
+                "3": 97
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1662
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁美里",
+            "house_no": "668",
+            "candidates": {
+                "1": 184,
+                "2": 232,
+                "3": 51
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁美里",
+            "house_no": "669",
+            "candidates": {
+                "1": 222,
+                "2": 282,
+                "3": 50
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁美里",
+            "house_no": "670",
+            "candidates": {
+                "1": 224,
+                "2": 387,
+                "3": 51
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "大溪區",
+            "cunli": "僑愛里",
+            "house_no": "671",
+            "candidates": {
+                "1": 73,
+                "2": 597,
+                "3": 51
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "大溪區",
+            "cunli": "僑愛里",
+            "house_no": "672",
+            "candidates": {
+                "1": 164,
+                "2": 428,
+                "3": 48
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁義里",
+            "house_no": "673",
+            "candidates": {
+                "1": 184,
+                "2": 409,
+                "3": 49
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁義里",
+            "house_no": "674",
+            "candidates": {
+                "1": 143,
+                "2": 410,
+                "3": 38
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁和里",
+            "house_no": "675",
+            "candidates": {
+                "1": 285,
+                "2": 527,
+                "3": 73
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1484
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁和里",
+            "house_no": "676",
+            "candidates": {
+                "1": 337,
+                "2": 415,
+                "3": 102
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1490
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁和里",
+            "house_no": "677",
+            "candidates": {
+                "1": 343,
+                "2": 408,
+                "3": 72
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "678",
+            "candidates": {
+                "1": 254,
+                "2": 436,
+                "3": 75
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "679",
+            "candidates": {
+                "1": 253,
+                "2": 373,
+                "3": 77
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "680",
+            "candidates": {
+                "1": 283,
+                "2": 392,
+                "3": 75
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "681",
+            "candidates": {
+                "1": 202,
+                "2": 279,
+                "3": 55
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁武里",
+            "house_no": "682",
+            "candidates": {
+                "1": 333,
+                "2": 512,
+                "3": 113
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1612
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁武里",
+            "house_no": "683",
+            "candidates": {
+                "1": 229,
+                "2": 427,
+                "3": 83
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁文里",
+            "house_no": "684",
+            "candidates": {
+                "1": 236,
+                "2": 360,
+                "3": 48
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1131
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁文里",
+            "house_no": "685",
+            "candidates": {
+                "1": 184,
+                "2": 312,
+                "3": 77
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁文里",
+            "house_no": "686",
+            "candidates": {
+                "1": 321,
+                "2": 446,
+                "3": 71
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "687",
+            "candidates": {
+                "1": 312,
+                "2": 301,
+                "3": 76
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "688",
+            "candidates": {
+                "1": 320,
+                "2": 332,
+                "3": 86
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1215
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "689",
+            "candidates": {
+                "1": 291,
+                "2": 281,
+                "3": 48
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "690",
+            "candidates": {
+                "1": 266,
+                "2": 330,
+                "3": 49
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "大溪區",
+            "cunli": "光明里",
+            "house_no": "691",
+            "candidates": {
+                "1": 182,
+                "2": 335,
+                "3": 31
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "大溪區",
+            "cunli": "光明里",
+            "house_no": "692",
+            "candidates": {
+                "1": 133,
+                "2": 388,
+                "3": 48
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "大溪區",
+            "cunli": "員林里",
+            "house_no": "693",
+            "candidates": {
+                "1": 285,
+                "2": 559,
+                "3": 103
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1507
+        },
+        {
+            "area": "大溪區",
+            "cunli": "三元里",
+            "house_no": "694",
+            "candidates": {
+                "1": 236,
+                "2": 543,
+                "3": 60
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1353
+        },
+        {
+            "area": "大溪區",
+            "cunli": "三元里",
+            "house_no": "695",
+            "candidates": {
+                "1": 166,
+                "2": 548,
+                "3": 59
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1370
+        },
+        {
+            "area": "大溪區",
+            "cunli": "瑞源里",
+            "house_no": "696",
+            "candidates": {
+                "1": 217,
+                "2": 310,
+                "3": 56
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "大溪區",
+            "cunli": "瑞源里",
+            "house_no": "697",
+            "candidates": {
+                "1": 201,
+                "2": 332,
+                "3": 48
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "大溪區",
+            "cunli": "瑞源里復興區",
+            "house_no": "698",
+            "candidates": {
+                "1": 321,
+                "2": 295,
+                "3": 30
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "大溪區",
+            "cunli": "三民里",
+            "house_no": "699",
+            "candidates": {
+                "1": 267,
+                "2": 327,
+                "3": 29
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "大溪區",
+            "cunli": "三民里",
+            "house_no": "700",
+            "candidates": {
+                "1": 154,
+                "2": 171,
+                "3": 26
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 505
+        },
+        {
+            "area": "大溪區",
+            "cunli": "澤仁里",
+            "house_no": "701",
+            "candidates": {
+                "1": 150,
+                "2": 232,
+                "3": 26
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 623
+        },
+        {
+            "area": "大溪區",
+            "cunli": "霞雲里",
+            "house_no": "702",
+            "candidates": {
+                "1": 26,
+                "2": 42,
+                "3": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 95
+        },
+        {
+            "area": "大溪區",
+            "cunli": "義盛里",
+            "house_no": "703",
+            "candidates": {
+                "1": 9,
+                "2": 21,
+                "3": 0
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 56
+        },
+        {
+            "area": "大溪區",
+            "cunli": "羅浮里",
+            "house_no": "704",
+            "candidates": {
+                "1": 102,
+                "2": 124,
+                "3": 22
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "大溪區",
+            "cunli": "長興里",
+            "house_no": "705",
+            "candidates": {
+                "1": 41,
+                "2": 40,
+                "3": 9
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 132
+        },
+        {
+            "area": "大溪區",
+            "cunli": "奎輝里",
+            "house_no": "706",
+            "candidates": {
+                "1": 12,
+                "2": 25,
+                "3": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 59
+        },
+        {
+            "area": "大溪區",
+            "cunli": "高義里",
+            "house_no": "707",
+            "candidates": {
+                "1": 13,
+                "2": 16,
+                "3": 3
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 58
+        },
+        {
+            "area": "大溪區",
+            "cunli": "三光里",
+            "house_no": "708",
+            "candidates": {
+                "1": 10,
+                "2": 11,
+                "3": 3
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 49
+        },
+        {
+            "area": "大溪區",
+            "cunli": "華陵里",
+            "house_no": "709",
+            "candidates": {
+                "1": 99,
+                "2": 157,
+                "3": 10
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 421
+        }
+    ]
+}

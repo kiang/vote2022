@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉家誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭敏娟",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳玉芳",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄒禮鴻",
+            "party": "無"
+        },
+        "5": {
+            "name": "蘇宇曦",
+            "party": "無"
+        },
+        "6": {
+            "name": "林月女",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "中民村",
+            "house_no": "77",
+            "candidates": {
+                "1": 147,
+                "2": 266,
+                "3": 60,
+                "4": 136
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "中民村",
+            "house_no": "78",
+            "candidates": {
+                "1": 202,
+                "2": 114,
+                "3": 107,
+                "4": 237
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "埔姜村",
+            "house_no": "79",
+            "candidates": {
+                "1": 103,
+                "2": 133,
+                "3": 139,
+                "4": 118
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 691
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "埔姜村",
+            "house_no": "80",
+            "candidates": {
+                "1": 91,
+                "2": 38,
+                "3": 59,
+                "4": 298
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 685
+        }
+    ]
+}

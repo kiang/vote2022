@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "殷献政",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "菁寮里",
+            "house_no": "13",
+            "candidates": {
+                "1": 149,
+                "2": 84
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 334
+        },
+        {
+            "area": "後壁區",
+            "cunli": "菁寮里",
+            "house_no": "14",
+            "candidates": {
+                "1": 181,
+                "2": 214
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 586
+        },
+        {
+            "area": "後壁區",
+            "cunli": "菁寮里",
+            "house_no": "15",
+            "candidates": {
+                "1": 94,
+                "2": 105
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 364
+        }
+    ]
+}

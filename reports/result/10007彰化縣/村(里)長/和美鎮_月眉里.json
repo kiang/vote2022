@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡瑞嘉",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡東穎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "月眉里",
+            "house_no": "454",
+            "candidates": {
+                "1": 263,
+                "2": 380
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 976
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "月眉里",
+            "house_no": "455",
+            "candidates": {
+                "1": 260,
+                "2": 356
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "月眉里",
+            "house_no": "456",
+            "candidates": {
+                "1": 276,
+                "2": 330
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 961
+        }
+    ]
+}

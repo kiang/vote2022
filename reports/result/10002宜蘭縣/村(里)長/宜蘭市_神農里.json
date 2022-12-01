@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭寶簧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "神農里",
+            "house_no": "24",
+            "candidates": {
+                "1": 297
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 591
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "神農里",
+            "house_no": "25",
+            "candidates": {
+                "1": 409
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 850
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "神農里",
+            "house_no": "26",
+            "candidates": {
+                "1": 372
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

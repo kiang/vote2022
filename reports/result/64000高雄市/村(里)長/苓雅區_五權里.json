@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳玉環",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪嘉宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "五權里",
+            "house_no": "1354",
+            "candidates": {
+                "1": 135,
+                "2": 492,
+                "3": 81
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "五權里",
+            "house_no": "1355",
+            "candidates": {
+                "1": 166,
+                "2": 374,
+                "3": 77
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 930
+        }
+    ]
+}

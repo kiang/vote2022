@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅健民",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡明吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇素榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "振興村",
+            "house_no": "376",
+            "candidates": {
+                "1": 182,
+                "2": 276,
+                "3": 123
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "振興村",
+            "house_no": "377",
+            "candidates": {
+                "1": 149,
+                "2": 377,
+                "3": 130
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林弘堅",
+            "party": "無"
+        },
+        "2": {
+            "name": "何衍財",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "德陽村",
+            "house_no": "216",
+            "candidates": {
+                "1": 200,
+                "2": 322
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "德陽村",
+            "house_no": "217",
+            "candidates": {
+                "1": 184,
+                "2": 259
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 919
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "德陽村",
+            "house_no": "218",
+            "candidates": {
+                "1": 226,
+                "2": 278
+            },
+            "count_wrong": 27,
+            "count_unused": 2,
+            "count_total": 956
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "德陽村",
+            "house_no": "219",
+            "candidates": {
+                "1": 349,
+                "2": 375
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1055
+        }
+    ]
+}

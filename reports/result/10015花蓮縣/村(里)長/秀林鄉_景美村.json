@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "金治雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "鐘銘龍",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "田廣增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "景美村",
+            "house_no": "126",
+            "candidates": {
+                "1": 171,
+                "2": 103,
+                "3": 481
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "景美村",
+            "house_no": "127",
+            "candidates": {
+                "1": 266,
+                "2": 65,
+                "3": 151
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 652
+        }
+    ]
+}

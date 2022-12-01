@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴美金",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳柏睿",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉鴻橋",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "林口區",
+            "cunli": "仁愛里",
+            "house_no": "232",
+            "candidates": {
+                "1": 77,
+                "2": 168,
+                "3": 221
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "林口區",
+            "cunli": "仁愛里",
+            "house_no": "233",
+            "candidates": {
+                "1": 134,
+                "2": 203,
+                "3": 241
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "林口區",
+            "cunli": "仁愛里",
+            "house_no": "234",
+            "candidates": {
+                "1": 97,
+                "2": 193,
+                "3": 278
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "林口區",
+            "cunli": "仁愛里",
+            "house_no": "235",
+            "candidates": {
+                "1": 167,
+                "2": 207,
+                "3": 247
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "林口區",
+            "cunli": "仁愛里",
+            "house_no": "236",
+            "candidates": {
+                "1": 110,
+                "2": 224,
+                "3": 401
+            },
+            "count_wrong": 23,
+            "count_unused": 3,
+            "count_total": 1332
+        }
+    ]
+}

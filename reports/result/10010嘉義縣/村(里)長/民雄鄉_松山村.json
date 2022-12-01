@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊良治",
+            "party": "無"
+        },
+        "2": {
+            "name": "周炳立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "松山村",
+            "house_no": "144",
+            "candidates": {
+                "1": 227,
+                "2": 393
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "松山村",
+            "house_no": "145",
+            "candidates": {
+                "1": 194,
+                "2": 168
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 625
+        }
+    ]
+}

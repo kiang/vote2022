@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉子芸",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳飛熊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "社園里",
+            "house_no": "249",
+            "candidates": {
+                "1": 405,
+                "2": 400
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "士林區",
+            "cunli": "社園里",
+            "house_no": "250",
+            "candidates": {
+                "1": 311,
+                "2": 503
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "士林區",
+            "cunli": "社園里",
+            "house_no": "251",
+            "candidates": {
+                "1": 362,
+                "2": 450
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1260
+        },
+        {
+            "area": "士林區",
+            "cunli": "社園里",
+            "house_no": "252",
+            "candidates": {
+                "1": 367,
+                "2": 403
+            },
+            "count_wrong": 36,
+            "count_unused": 2,
+            "count_total": 1172
+        },
+        {
+            "area": "士林區",
+            "cunli": "社園里",
+            "house_no": "253",
+            "candidates": {
+                "1": 296,
+                "2": 309
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 954
+        }
+    ]
+}

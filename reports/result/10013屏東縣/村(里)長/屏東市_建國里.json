@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴秋童",
+            "party": "無"
+        },
+        "2": {
+            "name": "何若羚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "建國里",
+            "house_no": "73",
+            "candidates": {
+                "1": 376,
+                "2": 105
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 741
+        },
+        {
+            "area": "屏東市",
+            "cunli": "建國里",
+            "house_no": "74",
+            "candidates": {
+                "1": 156,
+                "2": 372
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 888
+        }
+    ]
+}

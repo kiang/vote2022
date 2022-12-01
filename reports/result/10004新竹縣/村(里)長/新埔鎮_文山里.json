@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉清益",
+            "party": "無"
+        },
+        "2": {
+            "name": "范蔡揚",
+            "party": "無"
+        },
+        "3": {
+            "name": "錢育均",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "236",
+            "candidates": {
+                "1": 160,
+                "2": 154,
+                "3": 283
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "237",
+            "candidates": {
+                "1": 119,
+                "2": 173,
+                "3": 279
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 982
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "238",
+            "candidates": {
+                "1": 56,
+                "2": 135,
+                "3": 177
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "239",
+            "candidates": {
+                "1": 99,
+                "2": 195,
+                "3": 151
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "240",
+            "candidates": {
+                "1": 66,
+                "2": 209,
+                "3": 138
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 862
+        }
+    ]
+}

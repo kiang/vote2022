@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "俞秋期",
+            "party": "無"
+        },
+        "2": {
+            "name": "李添發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "中陽里",
+            "house_no": "492",
+            "candidates": {
+                "1": 351,
+                "2": 515
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1563
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "中陽里",
+            "house_no": "493",
+            "candidates": {
+                "1": 322,
+                "2": 541
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1555
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余進卿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔡文烈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "林厝里",
+            "house_no": "836",
+            "candidates": {
+                "1": 477,
+                "2": 108
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "西屯區",
+            "cunli": "林厝里",
+            "house_no": "837",
+            "candidates": {
+                "1": 479,
+                "2": 209
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1162
+        },
+        {
+            "area": "西屯區",
+            "cunli": "林厝里",
+            "house_no": "838",
+            "candidates": {
+                "1": 480,
+                "2": 119
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

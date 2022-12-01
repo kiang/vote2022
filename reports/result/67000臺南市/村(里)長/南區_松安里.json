@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃高能",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉育睿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "松安里",
+            "house_no": "1250",
+            "candidates": {
+                "1": 499,
+                "2": 187
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "南區",
+            "cunli": "松安里",
+            "house_no": "1251",
+            "candidates": {
+                "1": 256,
+                "2": 180
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 676
+        }
+    ]
+}

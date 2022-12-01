@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林靜波",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃長生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬里區",
+            "cunli": "野柳里",
+            "house_no": "2527",
+            "candidates": {
+                "1": 304,
+                "2": 276
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "萬里區",
+            "cunli": "野柳里",
+            "house_no": "2528",
+            "candidates": {
+                "1": 299,
+                "2": 244
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "萬里區",
+            "cunli": "野柳里",
+            "house_no": "2529",
+            "candidates": {
+                "1": 245,
+                "2": 450
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1154
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅景安",
+            "party": "無"
+        },
+        "2": {
+            "name": "余世進",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝易成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "英仁里",
+            "house_no": "101",
+            "candidates": {
+                "1": 263,
+                "2": 48,
+                "3": 66
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 598
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "英仁里",
+            "house_no": "102",
+            "candidates": {
+                "1": 160,
+                "2": 116,
+                "3": 87
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 591
+        }
+    ]
+}

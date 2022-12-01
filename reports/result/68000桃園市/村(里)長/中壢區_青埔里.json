@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳則匡",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱冠廷",
+            "party": "無"
+        },
+        "3": {
+            "name": "張茂土",
+            "party": "無"
+        },
+        "4": {
+            "name": "廖緹瑄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "青埔里",
+            "house_no": "899",
+            "candidates": {
+                "1": 101,
+                "2": 237,
+                "3": 365,
+                "4": 152
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1572
+        },
+        {
+            "area": "中壢區",
+            "cunli": "青埔里",
+            "house_no": "900",
+            "candidates": {
+                "1": 51,
+                "2": 256,
+                "3": 404,
+                "4": 158
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "中壢區",
+            "cunli": "青埔里",
+            "house_no": "901",
+            "candidates": {
+                "1": 127,
+                "2": 211,
+                "3": 308,
+                "4": 246
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1633
+        },
+        {
+            "area": "中壢區",
+            "cunli": "青埔里",
+            "house_no": "902",
+            "candidates": {
+                "1": 99,
+                "2": 193,
+                "3": 294,
+                "4": 240
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1465
+        },
+        {
+            "area": "中壢區",
+            "cunli": "青埔里",
+            "house_no": "903",
+            "candidates": {
+                "1": 93,
+                "2": 151,
+                "3": 179,
+                "4": 164
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1084
+        }
+    ]
+}

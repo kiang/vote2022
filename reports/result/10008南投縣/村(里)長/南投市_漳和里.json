@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張武釙",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉阿丹",
+            "party": "無"
+        },
+        "3": {
+            "name": "張幸生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "漳和里",
+            "house_no": "59",
+            "candidates": {
+                "1": 471,
+                "2": 133,
+                "3": 274
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "南投市",
+            "cunli": "漳和里",
+            "house_no": "60",
+            "candidates": {
+                "1": 353,
+                "2": 118,
+                "3": 209
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "南投市",
+            "cunli": "漳和里",
+            "house_no": "61",
+            "candidates": {
+                "1": 358,
+                "2": 171,
+                "3": 307
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "南投市",
+            "cunli": "漳和里",
+            "house_no": "62",
+            "candidates": {
+                "1": 300,
+                "2": 128,
+                "3": 303
+            },
+            "count_wrong": 17,
+            "count_unused": 2,
+            "count_total": 1130
+        },
+        {
+            "area": "南投市",
+            "cunli": "漳和里",
+            "house_no": "63",
+            "candidates": {
+                "1": 271,
+                "2": 122,
+                "3": 265
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "南投市",
+            "cunli": "漳和里",
+            "house_no": "64",
+            "candidates": {
+                "1": 274,
+                "2": 226,
+                "3": 274
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1088
+        }
+    ]
+}

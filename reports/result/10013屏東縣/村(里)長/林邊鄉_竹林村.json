@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭甘德",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇福仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林邊鄉",
+            "cunli": "竹林村",
+            "house_no": "581",
+            "candidates": {
+                "1": 262,
+                "2": 430
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "竹林村",
+            "house_no": "582",
+            "candidates": {
+                "1": 157,
+                "2": 322
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 730
+        }
+    ]
+}

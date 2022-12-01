@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖千慈",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹潤來",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃美花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓蘭鎮",
+            "cunli": "內灣里",
+            "house_no": "468",
+            "candidates": {
+                "1": 17,
+                "2": 310,
+                "3": 88
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 625
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "內灣里",
+            "house_no": "469",
+            "candidates": {
+                "1": 26,
+                "2": 369,
+                "3": 99
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "內灣里",
+            "house_no": "470",
+            "candidates": {
+                "1": 17,
+                "2": 274,
+                "3": 140
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 641
+        }
+    ]
+}

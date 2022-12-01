@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林淑鈴",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國安",
+            "party": "無"
+        },
+        "3": {
+            "name": "古諭奮",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "呂玉山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "桐林里",
+            "house_no": "1741",
+            "candidates": {
+                "1": 213,
+                "2": 332,
+                "3": 168,
+                "4": 217
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1173
+        }
+    ]
+}

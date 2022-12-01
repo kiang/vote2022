@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康富雄",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "楊家鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞隆里",
+            "house_no": "1768",
+            "candidates": {
+                "1": 237,
+                "2": 405
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞隆里",
+            "house_no": "1769",
+            "candidates": {
+                "1": 182,
+                "2": 368
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞隆里",
+            "house_no": "1770",
+            "candidates": {
+                "1": 228,
+                "2": 491
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1225
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭坤祥",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "洪美惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "大湖里",
+            "house_no": "399",
+            "candidates": {
+                "1": 590,
+                "2": 338
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1432
+        },
+        {
+            "area": "內湖區",
+            "cunli": "大湖里",
+            "house_no": "400",
+            "candidates": {
+                "1": 622,
+                "2": 382
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1466
+        },
+        {
+            "area": "內湖區",
+            "cunli": "大湖里",
+            "house_no": "401",
+            "candidates": {
+                "1": 591,
+                "2": 343
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1414
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊火炎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "光田里",
+            "house_no": "225",
+            "candidates": {
+                "1": 631
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "北區",
+            "cunli": "光田里",
+            "house_no": "226",
+            "candidates": {
+                "1": 513
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 899
+        }
+    ]
+}

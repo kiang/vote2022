@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李佩芯",
+            "party": "無"
+        },
+        "2": {
+            "name": "高資穎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "興中里",
+            "house_no": "362",
+            "candidates": {
+                "1": 384,
+                "2": 615
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1868
+        },
+        {
+            "area": "八德區",
+            "cunli": "興中里",
+            "house_no": "363",
+            "candidates": {
+                "1": 523,
+                "2": 435
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 2003
+        }
+    ]
+}

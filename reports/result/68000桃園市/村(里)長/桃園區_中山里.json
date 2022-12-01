@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張國輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林淑榕",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳子颺",
+            "party": "無"
+        },
+        "4": {
+            "name": "李元宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中山里",
+            "house_no": "54",
+            "candidates": {
+                "1": 484,
+                "2": 63,
+                "3": 197,
+                "4": 181
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1587
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中山里",
+            "house_no": "55",
+            "candidates": {
+                "1": 393,
+                "2": 146,
+                "3": 270,
+                "4": 213
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1657
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中山里",
+            "house_no": "56",
+            "candidates": {
+                "1": 342,
+                "2": 113,
+                "3": 243,
+                "4": 211
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1566
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中山里",
+            "house_no": "57",
+            "candidates": {
+                "1": 430,
+                "2": 75,
+                "3": 299,
+                "4": 185
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1659
+        }
+    ]
+}

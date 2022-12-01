@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温文泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "前溪里",
+            "house_no": "51",
+            "candidates": {
+                "1": 519
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "東區",
+            "cunli": "前溪里",
+            "house_no": "52",
+            "candidates": {
+                "1": 459
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 899
+        },
+        {
+            "area": "東區",
+            "cunli": "前溪里",
+            "house_no": "53",
+            "candidates": {
+                "1": 445
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 802
+        }
+    ]
+}

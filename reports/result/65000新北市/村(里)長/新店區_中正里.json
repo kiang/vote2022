@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳家隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "關宗瀚",
+            "party": "無"
+        },
+        "3": {
+            "name": "辜鳳琴",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "李佩勳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "中正里",
+            "house_no": "2177",
+            "candidates": {
+                "1": 314,
+                "2": 55,
+                "3": 362,
+                "4": 120
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1514
+        },
+        {
+            "area": "新店區",
+            "cunli": "中正里",
+            "house_no": "2178",
+            "candidates": {
+                "1": 217,
+                "2": 38,
+                "3": 339,
+                "4": 107
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "新店區",
+            "cunli": "中正里",
+            "house_no": "2179",
+            "candidates": {
+                "1": 240,
+                "2": 33,
+                "3": 351,
+                "4": 146
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "新店區",
+            "cunli": "中正里",
+            "house_no": "2180",
+            "candidates": {
+                "1": 197,
+                "2": 35,
+                "3": 304,
+                "4": 102
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

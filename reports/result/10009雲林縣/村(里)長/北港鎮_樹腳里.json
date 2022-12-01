@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭麗雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "許憶珀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "樹腳里",
+            "house_no": "318",
+            "candidates": {
+                "1": 272,
+                "2": 275
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "樹腳里",
+            "house_no": "319",
+            "candidates": {
+                "1": 251,
+                "2": 366
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "樹腳里",
+            "house_no": "320",
+            "candidates": {
+                "1": 265,
+                "2": 388
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

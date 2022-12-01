@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "凃秀奉",
+            "party": "無"
+        },
+        "2": {
+            "name": "許金海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "幸福里",
+            "house_no": "780",
+            "candidates": {
+                "1": 234,
+                "2": 416
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "安南區",
+            "cunli": "幸福里",
+            "house_no": "781",
+            "candidates": {
+                "1": 404,
+                "2": 382
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "安南區",
+            "cunli": "幸福里",
+            "house_no": "782",
+            "candidates": {
+                "1": 305,
+                "2": 411
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1184
+        }
+    ]
+}

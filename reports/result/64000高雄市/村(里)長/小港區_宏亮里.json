@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪文芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋震寶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "宏亮里",
+            "house_no": "1825",
+            "candidates": {
+                "1": 413,
+                "2": 441
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1488
+        },
+        {
+            "area": "小港區",
+            "cunli": "宏亮里",
+            "house_no": "1826",
+            "candidates": {
+                "1": 348,
+                "2": 552
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1527
+        }
+    ]
+}

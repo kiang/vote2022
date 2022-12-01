@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周樹木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "東和里",
+            "house_no": "2430",
+            "candidates": {
+                "1": 445
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "瑞芳區",
+            "cunli": "東和里",
+            "house_no": "2431",
+            "candidates": {
+                "1": 300
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 599
+        }
+    ]
+}

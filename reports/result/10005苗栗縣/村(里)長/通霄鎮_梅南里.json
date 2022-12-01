@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡月雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅春明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "梅南里",
+            "house_no": "163",
+            "candidates": {
+                "1": 286,
+                "2": 224
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 699
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "梅南里",
+            "house_no": "164",
+            "candidates": {
+                "1": 319,
+                "2": 244
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 773
+        }
+    ]
+}

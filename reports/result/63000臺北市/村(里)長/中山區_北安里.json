@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳小康",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳永忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "北安里",
+            "house_no": "963",
+            "candidates": {
+                "1": 389,
+                "2": 368
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "中山區",
+            "cunli": "北安里",
+            "house_no": "964",
+            "candidates": {
+                "1": 301,
+                "2": 305
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 908
+        }
+    ]
+}

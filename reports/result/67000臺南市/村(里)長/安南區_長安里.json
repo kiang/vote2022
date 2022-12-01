@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝天寅",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭銘學",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭豊村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "長安里",
+            "house_no": "726",
+            "candidates": {
+                "1": 255,
+                "2": 365,
+                "3": 234
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "安南區",
+            "cunli": "長安里",
+            "house_no": "727",
+            "candidates": {
+                "1": 170,
+                "2": 304,
+                "3": 211
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "安南區",
+            "cunli": "長安里",
+            "house_no": "728",
+            "candidates": {
+                "1": 205,
+                "2": 316,
+                "3": 144
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "安南區",
+            "cunli": "長安里",
+            "house_no": "729",
+            "candidates": {
+                "1": 284,
+                "2": 236,
+                "3": 186
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

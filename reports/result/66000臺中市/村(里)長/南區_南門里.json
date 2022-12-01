@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何湞惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱鴻章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "南門里",
+            "house_no": "1431",
+            "candidates": {
+                "1": 368,
+                "2": 341
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "南區",
+            "cunli": "南門里",
+            "house_no": "1432",
+            "candidates": {
+                "1": 332,
+                "2": 435
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "南區",
+            "cunli": "南門里",
+            "house_no": "1433",
+            "candidates": {
+                "1": 387,
+                "2": 235
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1012
+        }
+    ]
+}

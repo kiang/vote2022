@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建興",
+            "party": "無"
+        },
+        "2": {
+            "name": "毛建宇",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "暖暖區",
+            "cunli": "暖暖里",
+            "house_no": "217",
+            "candidates": {
+                "1": 431,
+                "2": 449
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1396
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "暖暖里",
+            "house_no": "218",
+            "candidates": {
+                "1": 322,
+                "2": 267
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1056
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃錫基",
+            "party": "無"
+        },
+        "2": {
+            "name": "江承翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "龍興里",
+            "house_no": "2417",
+            "candidates": {
+                "1": 313,
+                "2": 286
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "瑞芳區",
+            "cunli": "龍興里",
+            "house_no": "2418",
+            "candidates": {
+                "1": 260,
+                "2": 164
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 788
+        }
+    ]
+}

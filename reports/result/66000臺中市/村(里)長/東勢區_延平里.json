@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "延平里",
+            "house_no": "1811",
+            "candidates": {
+                "1": 607
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "東勢區",
+            "cunli": "延平里",
+            "house_no": "1812",
+            "candidates": {
+                "1": 572
+            },
+            "count_wrong": 38,
+            "count_unused": 1,
+            "count_total": 951
+        }
+    ]
+}

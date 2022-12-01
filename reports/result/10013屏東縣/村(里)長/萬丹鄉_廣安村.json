@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳興廣",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘寶同",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "廣安村",
+            "house_no": "296",
+            "candidates": {
+                "1": 271,
+                "2": 440
+            },
+            "count_wrong": 30,
+            "count_unused": 1,
+            "count_total": 1001
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "廣安村",
+            "house_no": "297",
+            "candidates": {
+                "1": 389,
+                "2": 379
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1208
+        }
+    ]
+}

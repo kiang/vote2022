@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何正光",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐明和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋山鄉",
+            "cunli": "枋山村",
+            "house_no": "641",
+            "candidates": {
+                "1": 256,
+                "2": 210
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 560
+        },
+        {
+            "area": "枋山鄉",
+            "cunli": "枋山村",
+            "house_no": "642",
+            "candidates": {
+                "1": 192,
+                "2": 137
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 412
+        }
+    ]
+}

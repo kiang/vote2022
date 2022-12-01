@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張大興",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林裕賜",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "長青里",
+            "house_no": "1265",
+            "candidates": {
+                "1": 351,
+                "2": 403
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "北區",
+            "cunli": "長青里",
+            "house_no": "1266",
+            "candidates": {
+                "1": 374,
+                "2": 424
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "北區",
+            "cunli": "長青里",
+            "house_no": "1267",
+            "candidates": {
+                "1": 377,
+                "2": 417
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1377
+        },
+        {
+            "area": "北區",
+            "cunli": "長青里",
+            "house_no": "1268",
+            "candidates": {
+                "1": 360,
+                "2": 424
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1478
+        }
+    ]
+}

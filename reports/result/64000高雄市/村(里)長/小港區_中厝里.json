@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方蒼賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤三旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "中厝里",
+            "house_no": "1872",
+            "candidates": {
+                "1": 383,
+                "2": 298
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "小港區",
+            "cunli": "中厝里",
+            "house_no": "1873",
+            "candidates": {
+                "1": 450,
+                "2": 326
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "小港區",
+            "cunli": "中厝里",
+            "house_no": "1874",
+            "candidates": {
+                "1": 402,
+                "2": 300
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1184
+        }
+    ]
+}

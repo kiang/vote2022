@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓江山",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝綢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "永安里",
+            "house_no": "67",
+            "candidates": {
+                "1": 379,
+                "2": 471
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "大安區",
+            "cunli": "永安里",
+            "house_no": "68",
+            "candidates": {
+                "1": 175,
+                "2": 129
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 429
+        }
+    ]
+}

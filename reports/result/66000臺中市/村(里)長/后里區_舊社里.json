@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林有盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "卓青松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "舊社里",
+            "house_no": "437",
+            "candidates": {
+                "1": 481,
+                "2": 358
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1162
+        },
+        {
+            "area": "后里區",
+            "cunli": "舊社里",
+            "house_no": "438",
+            "candidates": {
+                "1": 417,
+                "2": 266
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

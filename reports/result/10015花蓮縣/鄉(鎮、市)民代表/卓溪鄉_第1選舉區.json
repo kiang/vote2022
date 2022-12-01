@@ -1,0 +1,90 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張永華",
+            "party": "無"
+        },
+        "2": {
+            "name": "高正虎",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "高發財",
+            "party": "無"
+        },
+        "4": {
+            "name": "林惠婷",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "邱秀英 A bus takisvilainan",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "李桂英 Savi Takisvilainan",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "卓溪鄉",
+            "cunli": "崙山村",
+            "house_no": "323",
+            "candidates": {
+                "1": 16,
+                "2": 58,
+                "3": 176,
+                "4": 75,
+                "5": 37
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 519
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "立山村",
+            "house_no": "324",
+            "candidates": {
+                "1": 18,
+                "2": 71,
+                "3": 2,
+                "4": 187,
+                "5": 105
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 492
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "立山村",
+            "house_no": "325",
+            "candidates": {
+                "1": 8,
+                "2": 224,
+                "3": 1,
+                "4": 81,
+                "5": 54
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 446
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "太平村",
+            "house_no": "326",
+            "candidates": {
+                "1": 248,
+                "2": 49,
+                "3": 45,
+                "4": 53,
+                "5": 90
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 688
+        }
+    ]
+}

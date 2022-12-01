@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳玉蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "連月美",
+            "party": "無"
+        },
+        "3": {
+            "name": "何秋明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "卓溪鄉",
+            "cunli": "卓清村",
+            "house_no": "328",
+            "candidates": {
+                "1": 59,
+                "2": 181,
+                "3": 135
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 596
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "卓清村",
+            "house_no": "329",
+            "candidates": {
+                "1": 101,
+                "2": 35,
+                "3": 120
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 372
+        }
+    ]
+}

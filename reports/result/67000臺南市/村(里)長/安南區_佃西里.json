@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高進見",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡再旺",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳滿雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "佃西里",
+            "house_no": "742",
+            "candidates": {
+                "1": 466,
+                "2": 44,
+                "3": 143
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "安南區",
+            "cunli": "佃西里",
+            "house_no": "743",
+            "candidates": {
+                "1": 450,
+                "2": 56,
+                "3": 212
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1100
+        }
+    ]
+}

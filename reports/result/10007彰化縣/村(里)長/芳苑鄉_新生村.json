@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳克修",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝和順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "新生村",
+            "house_no": "1062",
+            "candidates": {
+                "1": 148,
+                "2": 199
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 528
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "新生村",
+            "house_no": "1063",
+            "candidates": {
+                "1": 230,
+                "2": 253
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 722
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾幸福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "余聚千",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "王興智",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "中興里",
+            "house_no": "1970",
+            "candidates": {
+                "1": 295,
+                "2": 129,
+                "3": 268
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中興里",
+            "house_no": "1971",
+            "candidates": {
+                "1": 334,
+                "2": 97,
+                "3": 277
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中興里",
+            "house_no": "1972",
+            "candidates": {
+                "1": 290,
+                "2": 108,
+                "3": 264
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中興里",
+            "house_no": "1973",
+            "candidates": {
+                "1": 275,
+                "2": 115,
+                "3": 233
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "大寮區",
+            "cunli": "中興里",
+            "house_no": "1974",
+            "candidates": {
+                "1": 366,
+                "2": 160,
+                "3": 200
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1341
+        }
+    ]
+}

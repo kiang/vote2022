@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭翠玫",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝賢裕",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "綠島鄉",
+            "cunli": "南寮村",
+            "house_no": "205",
+            "candidates": {
+                "1": 369,
+                "2": 702
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1670
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "中寮村",
+            "house_no": "206",
+            "candidates": {
+                "1": 256,
+                "2": 469
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "公舘村",
+            "house_no": "207",
+            "candidates": {
+                "1": 183,
+                "2": 331
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 779
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "公舘村",
+            "house_no": "208",
+            "candidates": {
+                "1": 40,
+                "2": 112
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 198
+        }
+    ]
+}

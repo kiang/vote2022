@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "涂葉素華",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊國智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "大葛里",
+            "house_no": "286",
+            "candidates": {
+                "1": 758,
+                "2": 256
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1523
+        },
+        {
+            "area": "朴子市",
+            "cunli": "大葛里",
+            "house_no": "287",
+            "candidates": {
+                "1": 438,
+                "2": 368
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1334
+        }
+    ]
+}

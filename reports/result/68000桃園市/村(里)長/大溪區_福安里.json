@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明能",
+            "party": "無"
+        },
+        "2": {
+            "name": "許漢宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "福安里",
+            "house_no": "657",
+            "candidates": {
+                "1": 301,
+                "2": 424
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "大溪區",
+            "cunli": "福安里",
+            "house_no": "658",
+            "candidates": {
+                "1": 201,
+                "2": 387
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

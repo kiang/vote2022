@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "廣新里",
+            "house_no": "1209",
+            "candidates": {
+                "1": 339
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 834
+        },
+        {
+            "area": "板橋區",
+            "cunli": "廣新里",
+            "house_no": "1210",
+            "candidates": {
+                "1": 462
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "板橋區",
+            "cunli": "廣新里",
+            "house_no": "1211",
+            "candidates": {
+                "1": 510
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 1051
+        }
+    ]
+}

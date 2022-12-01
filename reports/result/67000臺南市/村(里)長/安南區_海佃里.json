@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳惠君",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱信榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭清吉",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳輝勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "海佃里",
+            "house_no": "765",
+            "candidates": {
+                "1": 59,
+                "2": 312,
+                "3": 134,
+                "4": 314
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1294
+        },
+        {
+            "area": "安南區",
+            "cunli": "海佃里",
+            "house_no": "766",
+            "candidates": {
+                "1": 74,
+                "2": 392,
+                "3": 116,
+                "4": 268
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1353
+        },
+        {
+            "area": "安南區",
+            "cunli": "海佃里",
+            "house_no": "767",
+            "candidates": {
+                "1": 67,
+                "2": 263,
+                "3": 133,
+                "4": 433
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1437
+        }
+    ]
+}

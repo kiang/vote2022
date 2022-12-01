@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐梓修",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐兆生",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘伶",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "科園里",
+            "house_no": "87",
+            "candidates": {
+                "1": 214,
+                "2": 297,
+                "3": 159
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1011
+        },
+        {
+            "area": "東區",
+            "cunli": "科園里",
+            "house_no": "88",
+            "candidates": {
+                "1": 171,
+                "2": 301,
+                "3": 126
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "東區",
+            "cunli": "科園里",
+            "house_no": "89",
+            "candidates": {
+                "1": 207,
+                "2": 322,
+                "3": 115
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 968
+        },
+        {
+            "area": "東區",
+            "cunli": "科園里",
+            "house_no": "90",
+            "candidates": {
+                "1": 323,
+                "2": 209,
+                "3": 195
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "東區",
+            "cunli": "科園里",
+            "house_no": "91",
+            "candidates": {
+                "1": 182,
+                "2": 214,
+                "3": 99
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "東區",
+            "cunli": "科園里",
+            "house_no": "92",
+            "candidates": {
+                "1": 232,
+                "2": 339,
+                "3": 202
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

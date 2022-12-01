@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳玉蘭",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張炳亮",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔣湘玲",
+            "party": "無"
+        },
+        "4": {
+            "name": "范富雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "國武里",
+            "house_no": "291",
+            "candidates": {
+                "1": 312,
+                "2": 89,
+                "3": 260,
+                "4": 21
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

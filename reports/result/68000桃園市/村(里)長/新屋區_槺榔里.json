@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅鴻霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐必鈞",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃國棟",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝志英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新屋區",
+            "cunli": "槺榔里",
+            "house_no": "1306",
+            "candidates": {
+                "1": 424,
+                "2": 66,
+                "3": 221,
+                "4": 27
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1034
+        }
+    ]
+}

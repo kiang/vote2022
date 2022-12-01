@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡文惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃博群",
+            "party": "無"
+        },
+        "3": {
+            "name": "許哲睿",
+            "party": "無"
+        },
+        "4": {
+            "name": "袁宇經",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前金區",
+            "cunli": "民生里",
+            "house_no": "1218",
+            "candidates": {
+                "1": 182,
+                "2": 187,
+                "3": 25,
+                "4": 78
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 780
+        }
+    ]
+}

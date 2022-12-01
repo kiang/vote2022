@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳意和",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳木村",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳秀鑾",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳志一",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "武鹿里",
+            "house_no": "123",
+            "candidates": {
+                "1": 309,
+                "2": 130,
+                "3": 33,
+                "4": 242
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1114
+        },
+        {
+            "area": "清水區",
+            "cunli": "武鹿里",
+            "house_no": "124",
+            "candidates": {
+                "1": 373,
+                "2": 210,
+                "3": 66,
+                "4": 214
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "清水區",
+            "cunli": "武鹿里",
+            "house_no": "125",
+            "candidates": {
+                "1": 218,
+                "2": 91,
+                "3": 18,
+                "4": 240
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 862
+        }
+    ]
+}

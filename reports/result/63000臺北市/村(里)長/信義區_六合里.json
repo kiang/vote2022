@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳盈如",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭振中",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "六合里",
+            "house_no": "857",
+            "candidates": {
+                "1": 453,
+                "2": 267
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "信義區",
+            "cunli": "六合里",
+            "house_no": "858",
+            "candidates": {
+                "1": 448,
+                "2": 271
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "信義區",
+            "cunli": "六合里",
+            "house_no": "859",
+            "candidates": {
+                "1": 489,
+                "2": 196
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "信義區",
+            "cunli": "六合里",
+            "house_no": "860",
+            "candidates": {
+                "1": 391,
+                "2": 199
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "信義區",
+            "cunli": "六合里",
+            "house_no": "861",
+            "candidates": {
+                "1": 610,
+                "2": 177
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1192
+        }
+    ]
+}

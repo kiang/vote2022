@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉耀平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "四維里",
+            "house_no": "790",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "信義區",
+            "cunli": "四維里",
+            "house_no": "791",
+            "candidates": {
+                "1": 623
+            },
+            "count_wrong": 145,
+            "count_unused": 0,
+            "count_total": 1114
+        },
+        {
+            "area": "信義區",
+            "cunli": "四維里",
+            "house_no": "792",
+            "candidates": {
+                "1": 624
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "信義區",
+            "cunli": "四維里",
+            "house_no": "793",
+            "candidates": {
+                "1": 580
+            },
+            "count_wrong": 133,
+            "count_unused": 0,
+            "count_total": 1137
+        }
+    ]
+}

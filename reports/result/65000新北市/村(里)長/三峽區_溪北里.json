@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳柏文",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清明",
+            "party": "無"
+        },
+        "3": {
+            "name": "周志勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "溪北里",
+            "house_no": "2129",
+            "candidates": {
+                "1": 31,
+                "2": 175,
+                "3": 186
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 708
+        },
+        {
+            "area": "三峽區",
+            "cunli": "溪北里",
+            "house_no": "2130",
+            "candidates": {
+                "1": 90,
+                "2": 491,
+                "3": 230
+            },
+            "count_wrong": 10,
+            "count_unused": 13,
+            "count_total": 1281
+        }
+    ]
+}

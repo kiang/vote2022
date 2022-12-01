@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張美雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪志成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八里區",
+            "cunli": "頂罟里",
+            "house_no": "163",
+            "candidates": {
+                "1": 193,
+                "2": 496
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1079
+        },
+        {
+            "area": "八里區",
+            "cunli": "頂罟里",
+            "house_no": "164",
+            "candidates": {
+                "1": 162,
+                "2": 336
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1044
+        }
+    ]
+}

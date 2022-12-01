@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張豈嫚",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊海永",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾乙城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "網紗里",
+            "house_no": "230",
+            "candidates": {
+                "1": 150,
+                "2": 11,
+                "3": 461
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1070
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "網紗里",
+            "house_no": "231",
+            "candidates": {
+                "1": 101,
+                "2": 15,
+                "3": 434
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 954
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "網紗里",
+            "house_no": "232",
+            "candidates": {
+                "1": 111,
+                "2": 18,
+                "3": 449
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1005
+        }
+    ]
+}

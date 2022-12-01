@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江貴滿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蕭彩甄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "正興里",
+            "house_no": "1625",
+            "candidates": {
+                "1": 325,
+                "2": 236
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "永和區",
+            "cunli": "正興里",
+            "house_no": "1626",
+            "candidates": {
+                "1": 290,
+                "2": 168
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 820
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳秀鈴",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張水盛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "光耀里",
+            "house_no": "1250",
+            "candidates": {
+                "1": 356,
+                "2": 302
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "新興區",
+            "cunli": "光耀里",
+            "house_no": "1251",
+            "candidates": {
+                "1": 318,
+                "2": 277
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 966
+        }
+    ]
+}

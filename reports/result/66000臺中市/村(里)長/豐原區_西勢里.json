@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王建清",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾章福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "西勢里",
+            "house_no": "487",
+            "candidates": {
+                "1": 493,
+                "2": 341
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "豐原區",
+            "cunli": "西勢里",
+            "house_no": "488",
+            "candidates": {
+                "1": 341,
+                "2": 207
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 845
+        }
+    ]
+}

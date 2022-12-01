@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張儷姻",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭正叡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "福順里",
+            "house_no": "1450",
+            "candidates": {
+                "1": 322,
+                "2": 527
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1401
+        },
+        {
+            "area": "南區",
+            "cunli": "福順里",
+            "house_no": "1451",
+            "candidates": {
+                "1": 338,
+                "2": 467
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "南區",
+            "cunli": "福順里",
+            "house_no": "1452",
+            "candidates": {
+                "1": 311,
+                "2": 465
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1249
+        },
+        {
+            "area": "南區",
+            "cunli": "福順里",
+            "house_no": "1453",
+            "candidates": {
+                "1": 328,
+                "2": 456
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1374
+        }
+    ]
+}

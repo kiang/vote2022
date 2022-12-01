@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳榮華",
+            "party": "無"
+        },
+        "3": {
+            "name": "何朝根",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳裕福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "造橋鄉",
+            "cunli": "朝陽村",
+            "house_no": "274",
+            "candidates": {
+                "1": 129,
+                "2": 138,
+                "3": 531,
+                "4": 97
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "談文村",
+            "house_no": "275",
+            "candidates": {
+                "1": 113,
+                "2": 243,
+                "3": 28,
+                "4": 177
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "龍昇村",
+            "house_no": "276",
+            "candidates": {
+                "1": 317,
+                "2": 26,
+                "3": 16,
+                "4": 292
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

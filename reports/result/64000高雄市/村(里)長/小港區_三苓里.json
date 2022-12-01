@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳清祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭冠霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "三苓里",
+            "house_no": "1815",
+            "candidates": {
+                "1": 330,
+                "2": 423
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "小港區",
+            "cunli": "三苓里",
+            "house_no": "1816",
+            "candidates": {
+                "1": 375,
+                "2": 452
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1279
+        }
+    ]
+}

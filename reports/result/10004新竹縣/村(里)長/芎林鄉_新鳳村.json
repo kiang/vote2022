@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國煌",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳昌樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "新鳳村",
+            "house_no": "380",
+            "candidates": {
+                "1": 250,
+                "2": 219
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 746
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "新鳳村",
+            "house_no": "381",
+            "candidates": {
+                "1": 204,
+                "2": 279
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 750
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏坤邦",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳榮富",
+            "party": "無"
+        },
+        "3": {
+            "name": "余煊昱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "梓義里",
+            "house_no": "400",
+            "candidates": {
+                "1": 151,
+                "2": 176,
+                "3": 296
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 973
+        },
+        {
+            "area": "梓官區",
+            "cunli": "梓義里",
+            "house_no": "401",
+            "candidates": {
+                "1": 143,
+                "2": 194,
+                "3": 297
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1081
+        }
+    ]
+}

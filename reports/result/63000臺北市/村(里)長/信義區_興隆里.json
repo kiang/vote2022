@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吉娃斯‧吉果",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "凌麗美",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "興隆里",
+            "house_no": "737",
+            "candidates": {
+                "1": 237,
+                "2": 275
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 826
+        },
+        {
+            "area": "信義區",
+            "cunli": "興隆里",
+            "house_no": "738",
+            "candidates": {
+                "1": 470,
+                "2": 244
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1179
+        }
+    ]
+}

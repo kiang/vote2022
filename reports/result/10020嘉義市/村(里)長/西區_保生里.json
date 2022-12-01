@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳榮昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭蘇明珠",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭瑞豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "保生里",
+            "house_no": "177",
+            "candidates": {
+                "1": 61,
+                "2": 350,
+                "3": 109
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "西區",
+            "cunli": "保生里",
+            "house_no": "178",
+            "candidates": {
+                "1": 98,
+                "2": 382,
+                "3": 228
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "西區",
+            "cunli": "保生里",
+            "house_no": "179",
+            "candidates": {
+                "1": 57,
+                "2": 203,
+                "3": 201
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "西區",
+            "cunli": "保生里",
+            "house_no": "180",
+            "candidates": {
+                "1": 84,
+                "2": 291,
+                "3": 183
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

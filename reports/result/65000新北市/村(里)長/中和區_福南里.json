@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳國強",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張瑤鴻",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱淑芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "福南里",
+            "house_no": "1460",
+            "candidates": {
+                "1": 231,
+                "2": 189,
+                "3": 352
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "中和區",
+            "cunli": "福南里",
+            "house_no": "1461",
+            "candidates": {
+                "1": 335,
+                "2": 155,
+                "3": 285
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "中和區",
+            "cunli": "福南里",
+            "house_no": "1462",
+            "candidates": {
+                "1": 238,
+                "2": 107,
+                "3": 244
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 926
+        }
+    ]
+}

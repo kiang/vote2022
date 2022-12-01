@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃培堯",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳金泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "景華里",
+            "house_no": "1601",
+            "candidates": {
+                "1": 427,
+                "2": 233
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "文山區",
+            "cunli": "景華里",
+            "house_no": "1602",
+            "candidates": {
+                "1": 392,
+                "2": 281
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "文山區",
+            "cunli": "景華里",
+            "house_no": "1603",
+            "candidates": {
+                "1": 363,
+                "2": 344
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1122
+        },
+        {
+            "area": "文山區",
+            "cunli": "景華里",
+            "house_no": "1604",
+            "candidates": {
+                "1": 401,
+                "2": 356
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1151
+        }
+    ]
+}

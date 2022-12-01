@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高芳熙",
+            "party": "無"
+        },
+        "2": {
+            "name": "高浩洺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "五福村",
+            "house_no": "650",
+            "candidates": {
+                "1": 371,
+                "2": 151
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 784
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "五福村",
+            "house_no": "651",
+            "candidates": {
+                "1": 244,
+                "2": 132
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 598
+        }
+    ]
+}

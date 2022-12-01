@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉建輝",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "圓山里",
+            "house_no": "933",
+            "candidates": {
+                "1": 607
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "中山區",
+            "cunli": "圓山里",
+            "house_no": "934",
+            "candidates": {
+                "1": 590
+            },
+            "count_wrong": 211,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "中山區",
+            "cunli": "圓山里",
+            "house_no": "935",
+            "candidates": {
+                "1": 498
+            },
+            "count_wrong": 171,
+            "count_unused": 0,
+            "count_total": 1069
+        }
+    ]
+}

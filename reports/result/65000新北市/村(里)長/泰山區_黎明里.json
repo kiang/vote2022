@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施呈林",
+            "party": "無"
+        },
+        "2": {
+            "name": "張楊銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "黎明里",
+            "house_no": "314",
+            "candidates": {
+                "1": 471,
+                "2": 370
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "泰山區",
+            "cunli": "黎明里",
+            "house_no": "315",
+            "candidates": {
+                "1": 558,
+                "2": 326
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1529
+        }
+    ]
+}

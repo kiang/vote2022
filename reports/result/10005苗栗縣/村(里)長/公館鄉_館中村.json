@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江曜基",
+            "party": "無"
+        },
+        "2": {
+            "name": "張仁宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "館中村",
+            "house_no": "70",
+            "candidates": {
+                "1": 207,
+                "2": 279
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 706
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "館中村",
+            "house_no": "71",
+            "candidates": {
+                "1": 225,
+                "2": 299
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 748
+        }
+    ]
+}

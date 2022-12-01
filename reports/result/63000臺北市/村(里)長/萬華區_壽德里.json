@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡素麗",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳志雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "周黃凱芝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "壽德里",
+            "house_no": "1338",
+            "candidates": {
+                "1": 264,
+                "2": 305,
+                "3": 84
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "萬華區",
+            "cunli": "壽德里",
+            "house_no": "1339",
+            "candidates": {
+                "1": 310,
+                "2": 311,
+                "3": 77
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "萬華區",
+            "cunli": "壽德里",
+            "house_no": "1340",
+            "candidates": {
+                "1": 242,
+                "2": 282,
+                "3": 86
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 963
+        },
+        {
+            "area": "萬華區",
+            "cunli": "壽德里",
+            "house_no": "1341",
+            "candidates": {
+                "1": 287,
+                "2": 279,
+                "3": 79
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 947
+        }
+    ]
+}

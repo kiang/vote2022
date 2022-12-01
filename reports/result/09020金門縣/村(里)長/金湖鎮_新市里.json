@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳孟霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金湖鎮",
+            "cunli": "新市里",
+            "house_no": "58",
+            "candidates": {
+                "1": 416
+            },
+            "count_wrong": 105,
+            "count_unused": 1,
+            "count_total": 1182
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "新市里",
+            "house_no": "59",
+            "candidates": {
+                "1": 430
+            },
+            "count_wrong": 134,
+            "count_unused": 1,
+            "count_total": 1212
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "新市里",
+            "house_no": "60",
+            "candidates": {
+                "1": 472
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1412
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴清坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘棋榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "北梅里",
+            "house_no": "112",
+            "candidates": {
+                "1": 278,
+                "2": 339
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "北梅里",
+            "house_no": "113",
+            "candidates": {
+                "1": 249,
+                "2": 345
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "北梅里",
+            "house_no": "114",
+            "candidates": {
+                "1": 175,
+                "2": 509
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

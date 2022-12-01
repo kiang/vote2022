@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林崇賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳素琴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "龍德里",
+            "house_no": "133",
+            "candidates": {
+                "1": 226,
+                "2": 329
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "龍德里",
+            "house_no": "134",
+            "candidates": {
+                "1": 181,
+                "2": 341
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 767
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "龍德里",
+            "house_no": "135",
+            "candidates": {
+                "1": 196,
+                "2": 311
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "龍德里",
+            "house_no": "136",
+            "candidates": {
+                "1": 178,
+                "2": 382
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 824
+        }
+    ]
+}

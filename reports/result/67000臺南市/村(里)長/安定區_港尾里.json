@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭道隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "港尾里",
+            "house_no": "567",
+            "candidates": {
+                "1": 379
+            },
+            "count_wrong": 56,
+            "count_unused": 1,
+            "count_total": 693
+        },
+        {
+            "area": "安定區",
+            "cunli": "港尾里",
+            "house_no": "568",
+            "candidates": {
+                "1": 410
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 735
+        }
+    ]
+}

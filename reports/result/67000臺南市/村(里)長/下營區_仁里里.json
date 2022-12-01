@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾冠雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "姜美芬",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊明輝",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳英佐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "仁里里",
+            "house_no": "366",
+            "candidates": {
+                "1": 135,
+                "2": 245,
+                "3": 116,
+                "4": 98
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "下營區",
+            "cunli": "仁里里",
+            "house_no": "367",
+            "candidates": {
+                "1": 106,
+                "2": 226,
+                "3": 198,
+                "4": 87
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 952
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪坤周",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡文彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "茄荖村",
+            "house_no": "235",
+            "candidates": {
+                "1": 261,
+                "2": 448
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "茄荖村",
+            "house_no": "236",
+            "candidates": {
+                "1": 375,
+                "2": 397
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

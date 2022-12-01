@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江峯明",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "黃玉花",
+            "party": "無"
+        },
+        "3": {
+            "name": "駱錫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "維揚里",
+            "house_no": "103",
+            "candidates": {
+                "1": 176,
+                "2": 237,
+                "3": 211
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "維揚里",
+            "house_no": "104",
+            "candidates": {
+                "1": 129,
+                "2": 146,
+                "3": 263
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "維揚里",
+            "house_no": "105",
+            "candidates": {
+                "1": 186,
+                "2": 178,
+                "3": 210
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 932
+        }
+    ]
+}

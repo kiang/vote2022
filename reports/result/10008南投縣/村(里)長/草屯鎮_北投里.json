@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊嬿樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "周宥騰",
+            "party": "無"
+        },
+        "3": {
+            "name": "王枝發",
+            "party": "無"
+        },
+        "4": {
+            "name": "張瑞洋",
+            "party": "無"
+        },
+        "5": {
+            "name": "江志成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "北投里",
+            "house_no": "207",
+            "candidates": {
+                "1": 74,
+                "2": 194,
+                "3": 143,
+                "4": 207,
+                "5": 54
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "北投里",
+            "house_no": "208",
+            "candidates": {
+                "1": 172,
+                "2": 59,
+                "3": 165,
+                "4": 114,
+                "5": 38
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "北投里",
+            "house_no": "209",
+            "candidates": {
+                "1": 152,
+                "2": 72,
+                "3": 254,
+                "4": 137,
+                "5": 75
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1019
+        }
+    ]
+}

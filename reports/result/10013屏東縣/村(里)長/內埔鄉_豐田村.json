@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳঄于",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃賢雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "豐田村",
+            "house_no": "446",
+            "candidates": {
+                "1": 412,
+                "2": 223
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "豐田村",
+            "house_no": "447",
+            "candidates": {
+                "1": 410,
+                "2": 211
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "豐田村",
+            "house_no": "448",
+            "candidates": {
+                "1": 317,
+                "2": 218
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉清來",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳松洪",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅文俊",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃錦松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "東門里",
+            "house_no": "119",
+            "candidates": {
+                "1": 80,
+                "2": 75,
+                "3": 304,
+                "4": 223
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1135
+        }
+    ]
+}

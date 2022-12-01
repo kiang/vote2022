@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝佩蓉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "橋頭村",
+            "house_no": "215",
+            "candidates": {
+                "1": 622
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "橋頭村",
+            "house_no": "216",
+            "candidates": {
+                "1": 514
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "橋頭村",
+            "house_no": "217",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 54,
+            "count_unused": 2,
+            "count_total": 1075
+        }
+    ]
+}

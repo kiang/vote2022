@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁億頴",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡家祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "周建宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "布袋鎮",
+            "cunli": "岑海里",
+            "house_no": "357",
+            "candidates": {
+                "1": 303,
+                "2": 209,
+                "3": 69
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "岑海里",
+            "house_no": "358",
+            "candidates": {
+                "1": 456,
+                "2": 311,
+                "3": 42
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1154
+        }
+    ]
+}

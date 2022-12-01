@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國華",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "羅至佑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "富台里",
+            "house_no": "798",
+            "candidates": {
+                "1": 337,
+                "2": 312
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "信義區",
+            "cunli": "富台里",
+            "house_no": "799",
+            "candidates": {
+                "1": 323,
+                "2": 503
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1233
+        },
+        {
+            "area": "信義區",
+            "cunli": "富台里",
+            "house_no": "800",
+            "candidates": {
+                "1": 385,
+                "2": 487
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1296
+        }
+    ]
+}

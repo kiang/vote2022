@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝進春",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳星全",
+            "party": "無"
+        },
+        "3": {
+            "name": "范玉秀",
+            "party": "無"
+        },
+        "4": {
+            "name": "徐錦基",
+            "party": "無"
+        },
+        "5": {
+            "name": "邱秋榮",
+            "party": "無"
+        },
+        "6": {
+            "name": "黃洋琴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "國姓村",
+            "house_no": "406",
+            "candidates": {
+                "1": 359,
+                "2": 209
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "國姓村",
+            "house_no": "407",
+            "candidates": {
+                "1": 258,
+                "2": 162
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "石門村",
+            "house_no": "408",
+            "candidates": {
+                "1": 208,
+                "2": 262
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "石門村",
+            "house_no": "409",
+            "candidates": {
+                "1": 271,
+                "2": 241
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 881
+        }
+    ]
+}

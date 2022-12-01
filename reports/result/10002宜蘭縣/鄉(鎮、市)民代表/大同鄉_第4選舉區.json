@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘獎",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳忠義",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃金海",
+            "party": "無"
+        },
+        "4": {
+            "name": "呂萬福",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "林春雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同鄉",
+            "cunli": "茂安村",
+            "house_no": "417",
+            "candidates": {
+                "1": 15,
+                "2": 26,
+                "3": 39,
+                "4": 50,
+                "5": 28
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 194
+        },
+        {
+            "area": "大同鄉",
+            "cunli": "四季村",
+            "house_no": "418",
+            "candidates": {
+                "1": 1,
+                "2": 237,
+                "3": 274,
+                "4": 66,
+                "5": 61
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "大同鄉",
+            "cunli": "南山村",
+            "house_no": "419",
+            "candidates": {
+                "1": 0,
+                "2": 74,
+                "3": 54,
+                "4": 239,
+                "5": 195
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 643
+        }
+    ]
+}

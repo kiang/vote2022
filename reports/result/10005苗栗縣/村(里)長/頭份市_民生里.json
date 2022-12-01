@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐瑞文",
+            "party": "無"
+        },
+        "2": {
+            "name": "古益弦",
+            "party": "無"
+        },
+        "3": {
+            "name": "溫文銍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "民生里",
+            "house_no": "407",
+            "candidates": {
+                "1": 262,
+                "2": 107,
+                "3": 349
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "頭份市",
+            "cunli": "民生里",
+            "house_no": "408",
+            "candidates": {
+                "1": 189,
+                "2": 149,
+                "3": 343
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1100
+        }
+    ]
+}

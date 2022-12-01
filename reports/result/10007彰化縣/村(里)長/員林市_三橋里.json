@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃金本",
+            "party": "無"
+        },
+        "2": {
+            "name": "汪益生",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "邱玉雪",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴麗敏",
+            "party": "無"
+        },
+        "5": {
+            "name": "賴柏諺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "三橋里",
+            "house_no": "570",
+            "candidates": {
+                "1": 30,
+                "2": 66,
+                "3": 131,
+                "4": 41,
+                "5": 326
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "員林市",
+            "cunli": "三橋里",
+            "house_no": "571",
+            "candidates": {
+                "1": 38,
+                "2": 27,
+                "3": 208,
+                "4": 67,
+                "5": 301
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "員林市",
+            "cunli": "三橋里",
+            "house_no": "572",
+            "candidates": {
+                "1": 42,
+                "2": 36,
+                "3": 146,
+                "4": 27,
+                "5": 352
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 922
+        }
+    ]
+}

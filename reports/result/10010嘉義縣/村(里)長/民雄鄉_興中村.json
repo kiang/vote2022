@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚鋒鍾",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴亨忠",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳駿祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "興中村",
+            "house_no": "146",
+            "candidates": {
+                "1": 291,
+                "2": 186,
+                "3": 53
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "興中村",
+            "house_no": "147",
+            "candidates": {
+                "1": 337,
+                "2": 217,
+                "3": 27
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 835
+        }
+    ]
+}

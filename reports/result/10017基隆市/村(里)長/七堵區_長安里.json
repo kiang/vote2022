@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張聰龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "王傳隆",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳栓基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "長安里",
+            "house_no": "264",
+            "candidates": {
+                "1": 109,
+                "2": 294,
+                "3": 253
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "七堵區",
+            "cunli": "長安里",
+            "house_no": "265",
+            "candidates": {
+                "1": 126,
+                "2": 223,
+                "3": 299
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1219
+        }
+    ]
+}

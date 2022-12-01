@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金來",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳民哲",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "錦田里",
+            "house_no": "783",
+            "candidates": {
+                "1": 297,
+                "2": 313
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "三重區",
+            "cunli": "錦田里",
+            "house_no": "784",
+            "candidates": {
+                "1": 268,
+                "2": 219
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 812
+        }
+    ]
+}

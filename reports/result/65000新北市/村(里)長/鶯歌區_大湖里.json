@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王世演",
+            "party": "無"
+        },
+        "2": {
+            "name": "李祥慶",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭鈴玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鶯歌區",
+            "cunli": "大湖里",
+            "house_no": "1910",
+            "candidates": {
+                "1": 231,
+                "2": 44,
+                "3": 564
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1407
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "大湖里",
+            "house_no": "1911",
+            "candidates": {
+                "1": 268,
+                "2": 17,
+                "3": 719
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1611
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "大湖里",
+            "house_no": "1912",
+            "candidates": {
+                "1": 244,
+                "2": 34,
+                "3": 507
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1276
+        }
+    ]
+}

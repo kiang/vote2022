@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃春生",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃正良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "龍安里",
+            "house_no": "1325",
+            "candidates": {
+                "1": 355,
+                "2": 365
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "板橋區",
+            "cunli": "龍安里",
+            "house_no": "1326",
+            "candidates": {
+                "1": 504,
+                "2": 316
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1227
+        }
+    ]
+}

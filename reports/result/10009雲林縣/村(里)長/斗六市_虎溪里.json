@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "籃樹盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明燦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "虎溪里",
+            "house_no": "506",
+            "candidates": {
+                "1": 535,
+                "2": 440
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1587
+        },
+        {
+            "area": "斗六市",
+            "cunli": "虎溪里",
+            "house_no": "507",
+            "candidates": {
+                "1": 363,
+                "2": 281
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "斗六市",
+            "cunli": "虎溪里",
+            "house_no": "508",
+            "candidates": {
+                "1": 228,
+                "2": 206
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 667
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江思涵",
+            "party": "無"
+        },
+        "2": {
+            "name": "周賜臺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "頭汴里",
+            "house_no": "1603",
+            "candidates": {
+                "1": 342,
+                "2": 234
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 841
+        },
+        {
+            "area": "太平區",
+            "cunli": "頭汴里",
+            "house_no": "1604",
+            "candidates": {
+                "1": 338,
+                "2": 209
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 858
+        }
+    ]
+}

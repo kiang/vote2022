@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭雪",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳春炎",
+            "party": "無"
+        },
+        "3": {
+            "name": "高文仁",
+            "party": "無"
+        },
+        "4": {
+            "name": "張百合",
+            "party": "無"
+        },
+        "5": {
+            "name": "郭翠芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "友一里",
+            "house_no": "279",
+            "candidates": {
+                "1": 188,
+                "2": 120,
+                "3": 53,
+                "4": 95,
+                "5": 133
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "七堵區",
+            "cunli": "友一里",
+            "house_no": "280",
+            "candidates": {
+                "1": 200,
+                "2": 90,
+                "3": 42,
+                "4": 112,
+                "5": 131
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 951
+        }
+    ]
+}

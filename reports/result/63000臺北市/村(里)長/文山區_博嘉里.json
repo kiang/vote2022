@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳坤輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林文旭",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳昌泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "博嘉里",
+            "house_no": "1737",
+            "candidates": {
+                "1": 358,
+                "2": 220,
+                "3": 36
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "文山區",
+            "cunli": "博嘉里",
+            "house_no": "1738",
+            "candidates": {
+                "1": 308,
+                "2": 266,
+                "3": 61
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "文山區",
+            "cunli": "博嘉里",
+            "house_no": "1739",
+            "candidates": {
+                "1": 371,
+                "2": 184,
+                "3": 29
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "文山區",
+            "cunli": "博嘉里",
+            "house_no": "1740",
+            "candidates": {
+                "1": 300,
+                "2": 226,
+                "3": 31
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "文山區",
+            "cunli": "博嘉里",
+            "house_no": "1741",
+            "candidates": {
+                "1": 354,
+                "2": 215,
+                "3": 37
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 899
+        }
+    ]
+}

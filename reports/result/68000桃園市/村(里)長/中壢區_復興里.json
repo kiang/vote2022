@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱承恩",
+            "party": "無"
+        },
+        "2": {
+            "name": "江其峰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "復興里",
+            "house_no": "840",
+            "candidates": {
+                "1": 319,
+                "2": 334
+            },
+            "count_wrong": 0,
+            "count_unused": 16,
+            "count_total": 1181
+        },
+        {
+            "area": "中壢區",
+            "cunli": "復興里",
+            "house_no": "841",
+            "candidates": {
+                "1": 398,
+                "2": 263
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "中壢區",
+            "cunli": "復興里",
+            "house_no": "842",
+            "candidates": {
+                "1": 354,
+                "2": 353
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1215
+        }
+    ]
+}

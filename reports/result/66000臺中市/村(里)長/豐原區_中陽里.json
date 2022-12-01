@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖瑞釗",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃英瑜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "中陽里",
+            "house_no": "457",
+            "candidates": {
+                "1": 265,
+                "2": 509
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "豐原區",
+            "cunli": "中陽里",
+            "house_no": "458",
+            "candidates": {
+                "1": 231,
+                "2": 535
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "豐原區",
+            "cunli": "中陽里",
+            "house_no": "459",
+            "candidates": {
+                "1": 199,
+                "2": 633
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "豐原區",
+            "cunli": "中陽里",
+            "house_no": "460",
+            "candidates": {
+                "1": 198,
+                "2": 447
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1029
+        }
+    ]
+}

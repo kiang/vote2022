@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭麗玉",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張景舜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "陸嘉村",
+            "house_no": "937",
+            "candidates": {
+                "1": 306,
+                "2": 194
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "竹圍村",
+            "house_no": "938",
+            "candidates": {
+                "1": 416,
+                "2": 267
+            },
+            "count_wrong": 81,
+            "count_unused": 1,
+            "count_total": 1034
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "中和村",
+            "house_no": "939",
+            "candidates": {
+                "1": 254,
+                "2": 145
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "中和村",
+            "house_no": "940",
+            "candidates": {
+                "1": 259,
+                "2": 122
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 718
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "庄內村",
+            "house_no": "941",
+            "candidates": {
+                "1": 356,
+                "2": 193
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1023
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "大湖村",
+            "house_no": "942",
+            "candidates": {
+                "1": 237,
+                "2": 173
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

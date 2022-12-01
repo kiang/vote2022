@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝堂權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "振興里",
+            "house_no": "501",
+            "candidates": {
+                "1": 698
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1322
+        },
+        {
+            "area": "員林市",
+            "cunli": "振興里",
+            "house_no": "502",
+            "candidates": {
+                "1": 651
+            },
+            "count_wrong": 87,
+            "count_unused": 1,
+            "count_total": 1264
+        }
+    ]
+}

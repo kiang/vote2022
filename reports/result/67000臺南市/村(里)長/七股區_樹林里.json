@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃寶田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七股區",
+            "cunli": "樹林里",
+            "house_no": "287",
+            "candidates": {
+                "1": 538
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "七股區",
+            "cunli": "樹林里",
+            "house_no": "288",
+            "candidates": {
+                "1": 308
+            },
+            "count_wrong": 32,
+            "count_unused": 1,
+            "count_total": 678
+        }
+    ]
+}

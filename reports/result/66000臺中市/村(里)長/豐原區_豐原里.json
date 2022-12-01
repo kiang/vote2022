@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪源隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃陳建聲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "豐原里",
+            "house_no": "451",
+            "candidates": {
+                "1": 275,
+                "2": 245
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 878
+        },
+        {
+            "area": "豐原區",
+            "cunli": "豐原里",
+            "house_no": "452",
+            "candidates": {
+                "1": 508,
+                "2": 283
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1249
+        }
+    ]
+}

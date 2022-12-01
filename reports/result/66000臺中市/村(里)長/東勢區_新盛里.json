@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄒心岑",
+            "party": "無"
+        },
+        "2": {
+            "name": "林美英",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳進聰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "新盛里",
+            "house_no": "1796",
+            "candidates": {
+                "1": 49,
+                "2": 292,
+                "3": 460
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "東勢區",
+            "cunli": "新盛里",
+            "house_no": "1797",
+            "candidates": {
+                "1": 47,
+                "2": 206,
+                "3": 482
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "東勢區",
+            "cunli": "新盛里",
+            "house_no": "1798",
+            "candidates": {
+                "1": 53,
+                "2": 203,
+                "3": 517
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "東勢區",
+            "cunli": "新盛里",
+            "house_no": "1799",
+            "candidates": {
+                "1": 40,
+                "2": 217,
+                "3": 461
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

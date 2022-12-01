@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊壬辛",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈村男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "大同里",
+            "house_no": "556",
+            "candidates": {
+                "1": 238,
+                "2": 356
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "大同里",
+            "house_no": "557",
+            "candidates": {
+                "1": 206,
+                "2": 400
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "大同里",
+            "house_no": "558",
+            "candidates": {
+                "1": 181,
+                "2": 380
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 926
+        }
+    ]
+}

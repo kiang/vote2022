@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳美英",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉要國",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐裕逢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "福興村",
+            "house_no": "120",
+            "candidates": {
+                "1": 232,
+                "2": 78,
+                "3": 91,
+                "4": 57,
+                "5": 89,
+                "6": 51
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 926
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "朝陽村",
+            "house_no": "121",
+            "candidates": {
+                "1": 95,
+                "2": 76,
+                "3": 99,
+                "4": 177,
+                "5": 135,
+                "6": 44
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "朝陽村",
+            "house_no": "122",
+            "candidates": {
+                "1": 52,
+                "2": 78,
+                "3": 64,
+                "4": 129,
+                "5": 103,
+                "6": 41
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "竹森村",
+            "house_no": "123",
+            "candidates": {
+                "1": 49,
+                "2": 416,
+                "3": 107,
+                "4": 32,
+                "5": 63,
+                "6": 25
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 985
+        }
+    ]
+}

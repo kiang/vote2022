@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張振東",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳美玟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "萬壽里",
+            "house_no": "1254",
+            "candidates": {
+                "1": 176,
+                "2": 296
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 826
+        },
+        {
+            "area": "萬華區",
+            "cunli": "萬壽里",
+            "house_no": "1255",
+            "candidates": {
+                "1": 177,
+                "2": 336
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "萬華區",
+            "cunli": "萬壽里",
+            "house_no": "1256",
+            "candidates": {
+                "1": 178,
+                "2": 295
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 884
+        }
+    ]
+}

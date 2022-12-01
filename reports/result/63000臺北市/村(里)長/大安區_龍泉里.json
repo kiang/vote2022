@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "龎維良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "龍泉里",
+            "house_no": "1429",
+            "candidates": {
+                "1": 639
+            },
+            "count_wrong": 123,
+            "count_unused": 3,
+            "count_total": 1188
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍泉里",
+            "house_no": "1430",
+            "candidates": {
+                "1": 740
+            },
+            "count_wrong": 117,
+            "count_unused": 1,
+            "count_total": 1276
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍泉里",
+            "house_no": "1431",
+            "candidates": {
+                "1": 688
+            },
+            "count_wrong": 141,
+            "count_unused": 20,
+            "count_total": 1227
+        }
+    ]
+}

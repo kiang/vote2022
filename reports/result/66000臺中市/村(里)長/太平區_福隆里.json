@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃楷能",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "福隆里",
+            "house_no": "1609",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "太平區",
+            "cunli": "福隆里",
+            "house_no": "1610",
+            "candidates": {
+                "1": 684
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1398
+        },
+        {
+            "area": "太平區",
+            "cunli": "福隆里",
+            "house_no": "1611",
+            "candidates": {
+                "1": 351
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 788
+        }
+    ]
+}

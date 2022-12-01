@@ -1,0 +1,135 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃河宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "王文賀",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳宇宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "竹村里",
+            "house_no": "289",
+            "candidates": {
+                "1": 240,
+                "2": 215,
+                "3": 257
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "朴子市",
+            "cunli": "崁前里",
+            "house_no": "290",
+            "candidates": {
+                "1": 129,
+                "2": 290,
+                "3": 159
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 832
+        },
+        {
+            "area": "朴子市",
+            "cunli": "崁後里",
+            "house_no": "291",
+            "candidates": {
+                "1": 98,
+                "2": 266,
+                "3": 110
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "朴子市",
+            "cunli": "順安里",
+            "house_no": "292",
+            "candidates": {
+                "1": 70,
+                "2": 66,
+                "3": 24
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 226
+        },
+        {
+            "area": "朴子市",
+            "cunli": "德家里",
+            "house_no": "293",
+            "candidates": {
+                "1": 87,
+                "2": 122,
+                "3": 299
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 724
+        },
+        {
+            "area": "朴子市",
+            "cunli": "新庄里",
+            "house_no": "294",
+            "candidates": {
+                "1": 193,
+                "2": 106,
+                "3": 166
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 644
+        },
+        {
+            "area": "朴子市",
+            "cunli": "梅華里",
+            "house_no": "295",
+            "candidates": {
+                "1": 322,
+                "2": 104,
+                "3": 170
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 963
+        },
+        {
+            "area": "朴子市",
+            "cunli": "松華里",
+            "house_no": "296",
+            "candidates": {
+                "1": 313,
+                "2": 151,
+                "3": 294
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "朴子市",
+            "cunli": "南竹里",
+            "house_no": "297",
+            "candidates": {
+                "1": 124,
+                "2": 113,
+                "3": 83
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 461
+        }
+    ]
+}

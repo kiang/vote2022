@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林金龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "新崙里",
+            "house_no": "199",
+            "candidates": {
+                "1": 1002
+            },
+            "count_wrong": 220,
+            "count_unused": 0,
+            "count_total": 2079
+        },
+        {
+            "area": "安樂區",
+            "cunli": "新崙里",
+            "house_no": "200",
+            "candidates": {
+                "1": 755
+            },
+            "count_wrong": 137,
+            "count_unused": 0,
+            "count_total": 1770
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉仙臺",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳景明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "自強里",
+            "house_no": "365",
+            "candidates": {
+                "1": 255,
+                "2": 251
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "頭份市",
+            "cunli": "自強里",
+            "house_no": "366",
+            "candidates": {
+                "1": 318,
+                "2": 218
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 967
+        }
+    ]
+}

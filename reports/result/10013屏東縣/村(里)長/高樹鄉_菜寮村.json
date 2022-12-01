@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳隆正",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉明輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾慶德",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉峰印",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "菜寮村",
+            "house_no": "397",
+            "candidates": {
+                "1": 159,
+                "2": 47,
+                "3": 133,
+                "4": 221
+            },
+            "count_wrong": 7,
+            "count_unused": 4,
+            "count_total": 727
+        }
+    ]
+}

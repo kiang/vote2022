@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李健豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳進生",
+            "party": "無"
+        },
+        "3": {
+            "name": "許榮良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大里區",
+            "cunli": "東興里",
+            "house_no": "1686",
+            "candidates": {
+                "1": 125,
+                "2": 296,
+                "3": 309
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1329
+        },
+        {
+            "area": "大里區",
+            "cunli": "東興里",
+            "house_no": "1687",
+            "candidates": {
+                "1": 86,
+                "2": 303,
+                "3": 356
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1308
+        },
+        {
+            "area": "大里區",
+            "cunli": "東興里",
+            "house_no": "1688",
+            "candidates": {
+                "1": 96,
+                "2": 287,
+                "3": 405
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "大里區",
+            "cunli": "東興里",
+            "house_no": "1689",
+            "candidates": {
+                "1": 149,
+                "2": 272,
+                "3": 335
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "大里區",
+            "cunli": "東興里",
+            "house_no": "1690",
+            "candidates": {
+                "1": 141,
+                "2": 256,
+                "3": 386
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1426
+        }
+    ]
+}

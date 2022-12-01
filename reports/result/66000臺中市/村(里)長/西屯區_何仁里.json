@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何永銓",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡翔宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "何仁里",
+            "house_no": "802",
+            "candidates": {
+                "1": 295,
+                "2": 434
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何仁里",
+            "house_no": "803",
+            "candidates": {
+                "1": 336,
+                "2": 461
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何仁里",
+            "house_no": "804",
+            "candidates": {
+                "1": 354,
+                "2": 439
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1373
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何仁里",
+            "house_no": "805",
+            "candidates": {
+                "1": 206,
+                "2": 280
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 871
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何仁里",
+            "house_no": "806",
+            "candidates": {
+                "1": 258,
+                "2": 277
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 922
+        }
+    ]
+}

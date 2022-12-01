@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "秦耀舜",
+            "party": "無"
+        },
+        "2": {
+            "name": "張文瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "新英里",
+            "house_no": "1062",
+            "candidates": {
+                "1": 485,
+                "2": 189
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新英里",
+            "house_no": "1063",
+            "candidates": {
+                "1": 419,
+                "2": 258
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新英里",
+            "house_no": "1064",
+            "candidates": {
+                "1": 553,
+                "2": 274
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1341
+        }
+    ]
+}

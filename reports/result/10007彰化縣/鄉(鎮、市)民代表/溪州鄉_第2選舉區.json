@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖文雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭建來",
+            "party": "無"
+        },
+        "3": {
+            "name": "明琴",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭任凱",
+            "party": "無"
+        },
+        "5": {
+            "name": "莊正雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "東州村",
+            "house_no": "951",
+            "candidates": {
+                "1": 122,
+                "2": 212,
+                "3": 137,
+                "4": 47,
+                "5": 103
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "東州村",
+            "house_no": "952",
+            "candidates": {
+                "1": 52,
+                "2": 307,
+                "3": 98,
+                "4": 12,
+                "5": 48
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "舊眉村",
+            "house_no": "953",
+            "candidates": {
+                "1": 57,
+                "2": 57,
+                "3": 70,
+                "4": 17,
+                "5": 170
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 618
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "舊眉村",
+            "house_no": "954",
+            "candidates": {
+                "1": 79,
+                "2": 66,
+                "3": 64,
+                "4": 20,
+                "5": 247
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 783
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "圳寮村",
+            "house_no": "955",
+            "candidates": {
+                "1": 103,
+                "2": 69,
+                "3": 133,
+                "4": 21,
+                "5": 123
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "圳寮村",
+            "house_no": "956",
+            "candidates": {
+                "1": 97,
+                "2": 50,
+                "3": 127,
+                "4": 15,
+                "5": 81
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 649
+        }
+    ]
+}

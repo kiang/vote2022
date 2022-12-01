@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張國亮",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳禹克",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭建良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "集集鎮",
+            "cunli": "和平里",
+            "house_no": "285",
+            "candidates": {
+                "1": 56,
+                "2": 171,
+                "3": 408
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 853
+        }
+    ]
+}

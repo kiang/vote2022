@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊秀彥",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林文樟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三芝區",
+            "cunli": "後厝里",
+            "house_no": "26",
+            "candidates": {
+                "1": 432,
+                "2": 90
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 804
+        },
+        {
+            "area": "三芝區",
+            "cunli": "後厝里",
+            "house_no": "27",
+            "candidates": {
+                "1": 309,
+                "2": 255
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1119
+        }
+    ]
+}

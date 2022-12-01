@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪承凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳錫勲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "新庄里",
+            "house_no": "200",
+            "candidates": {
+                "1": 485,
+                "2": 271
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "新庄里",
+            "house_no": "201",
+            "candidates": {
+                "1": 404,
+                "2": 302
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "新庄里",
+            "house_no": "202",
+            "candidates": {
+                "1": 432,
+                "2": 385
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1358
+        }
+    ]
+}

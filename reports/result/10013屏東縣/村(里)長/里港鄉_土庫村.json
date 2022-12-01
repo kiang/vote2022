@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方清民",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭莉文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "土庫村",
+            "house_no": "360",
+            "candidates": {
+                "1": 542,
+                "2": 457
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1450
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "土庫村",
+            "house_no": "361",
+            "candidates": {
+                "1": 173,
+                "2": 116
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 482
+        }
+    ]
+}

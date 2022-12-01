@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘仲宇",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳永裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "民生里",
+            "house_no": "118",
+            "candidates": {
+                "1": 111,
+                "2": 289
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 601
+        },
+        {
+            "area": "彰化市",
+            "cunli": "民生里",
+            "house_no": "119",
+            "candidates": {
+                "1": 84,
+                "2": 333
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 651
+        }
+    ]
+}

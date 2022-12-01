@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾建長",
+            "party": "無"
+        },
+        "2": {
+            "name": "卓春成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "中和村",
+            "house_no": "939",
+            "candidates": {
+                "1": 223,
+                "2": 200
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "中和村",
+            "house_no": "940",
+            "candidates": {
+                "1": 233,
+                "2": 209
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 717
+        }
+    ]
+}

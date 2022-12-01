@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王墘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "圳民里",
+            "house_no": "1785",
+            "candidates": {
+                "1": 589
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "樹林區",
+            "cunli": "圳民里",
+            "house_no": "1786",
+            "candidates": {
+                "1": 524
+            },
+            "count_wrong": 106,
+            "count_unused": 0,
+            "count_total": 1202
+        }
+    ]
+}

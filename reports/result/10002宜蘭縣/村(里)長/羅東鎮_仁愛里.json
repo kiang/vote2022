@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林邱鳳鶯",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳漢松",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "仁愛里",
+            "house_no": "130",
+            "candidates": {
+                "1": 400,
+                "2": 465
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "仁愛里",
+            "house_no": "131",
+            "candidates": {
+                "1": 274,
+                "2": 349
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "仁愛里",
+            "house_no": "132",
+            "candidates": {
+                "1": 291,
+                "2": 391
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1114
+        }
+    ]
+}

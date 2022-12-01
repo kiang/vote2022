@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游綉蓮",
+            "party": "無"
+        },
+        "2": {
+            "name": "林婉卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "萬安里",
+            "house_no": "577",
+            "candidates": {
+                "1": 304,
+                "2": 283
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1027
+        },
+        {
+            "area": "新莊區",
+            "cunli": "萬安里",
+            "house_no": "578",
+            "candidates": {
+                "1": 259,
+                "2": 325
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "新莊區",
+            "cunli": "萬安里",
+            "house_no": "579",
+            "candidates": {
+                "1": 384,
+                "2": 271
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1087
+        }
+    ]
+}

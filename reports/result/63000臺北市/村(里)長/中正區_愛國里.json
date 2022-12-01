@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周德潤",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳品縈",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "愛國里",
+            "house_no": "1154",
+            "candidates": {
+                "1": 327,
+                "2": 207
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "中正區",
+            "cunli": "愛國里",
+            "house_no": "1155",
+            "candidates": {
+                "1": 355,
+                "2": 178
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 822
+        },
+        {
+            "area": "中正區",
+            "cunli": "愛國里",
+            "house_no": "1156",
+            "candidates": {
+                "1": 365,
+                "2": 158
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 768
+        }
+    ]
+}

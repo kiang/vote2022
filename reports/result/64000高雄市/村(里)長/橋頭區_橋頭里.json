@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方民田",
+            "party": "無"
+        },
+        "2": {
+            "name": "余美蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "橋頭里",
+            "house_no": "428",
+            "candidates": {
+                "1": 274,
+                "2": 332
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "橋頭里",
+            "house_no": "429",
+            "candidates": {
+                "1": 291,
+                "2": 356
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1065
+        }
+    ]
+}

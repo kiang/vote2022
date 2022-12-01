@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張素綾",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳安朝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新圍村",
+            "house_no": "379",
+            "candidates": {
+                "1": 179,
+                "2": 456
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 937
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新圍村",
+            "house_no": "380",
+            "candidates": {
+                "1": 207,
+                "2": 566
+            },
+            "count_wrong": 33,
+            "count_unused": 1,
+            "count_total": 1061
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新圍村",
+            "house_no": "381",
+            "candidates": {
+                "1": 160,
+                "2": 498
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 954
+        }
+    ]
+}

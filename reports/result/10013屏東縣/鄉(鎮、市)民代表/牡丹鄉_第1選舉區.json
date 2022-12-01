@@ -1,0 +1,130 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李德福",
+            "party": "無"
+        },
+        "2": {
+            "name": "許金吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾明珠",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡天成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "704",
+            "candidates": {
+                "1": 30,
+                "2": 218,
+                "3": 0,
+                "4": 76,
+                "5": 86,
+                "6": 24,
+                "7": 100,
+                "8": 25
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "705",
+            "candidates": {
+                "1": 9,
+                "2": 80,
+                "3": 0,
+                "4": 101,
+                "5": 24,
+                "6": 10,
+                "7": 141,
+                "8": 6
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 501
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "706",
+            "candidates": {
+                "1": 2,
+                "2": 34,
+                "3": 0,
+                "4": 16,
+                "5": 128,
+                "6": 15,
+                "7": 7,
+                "8": 9
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 305
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "牡丹村",
+            "house_no": "707",
+            "candidates": {
+                "1": 298,
+                "2": 44,
+                "3": 0,
+                "4": 24,
+                "5": 37,
+                "6": 13,
+                "7": 32,
+                "8": 17
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 640
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "東源村",
+            "house_no": "708",
+            "candidates": {
+                "1": 8,
+                "2": 9,
+                "3": 0,
+                "4": 12,
+                "5": 26,
+                "6": 261,
+                "7": 16,
+                "8": 3
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 424
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "旭海村",
+            "house_no": "709",
+            "candidates": {
+                "1": 2,
+                "2": 16,
+                "3": 0,
+                "4": 13,
+                "5": 1,
+                "6": 2,
+                "7": 6,
+                "8": 252
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 348
+        }
+    ]
+}

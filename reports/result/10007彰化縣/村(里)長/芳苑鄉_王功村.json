@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文正",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃丁禮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "王功村",
+            "house_no": "1046",
+            "candidates": {
+                "1": 289,
+                "2": 348
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "王功村",
+            "house_no": "1047",
+            "candidates": {
+                "1": 312,
+                "2": 319
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1004
+        }
+    ]
+}

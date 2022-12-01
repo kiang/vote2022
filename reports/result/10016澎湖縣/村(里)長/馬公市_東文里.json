@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李美珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳回築",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "東文里",
+            "house_no": "27",
+            "candidates": {
+                "1": 289,
+                "2": 282
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "馬公市",
+            "cunli": "東文里",
+            "house_no": "28",
+            "candidates": {
+                "1": 293,
+                "2": 323
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "馬公市",
+            "cunli": "東文里",
+            "house_no": "29",
+            "candidates": {
+                "1": 340,
+                "2": 303
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1084
+        }
+    ]
+}

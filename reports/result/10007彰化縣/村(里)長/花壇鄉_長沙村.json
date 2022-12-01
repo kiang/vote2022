@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯金地",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "長沙村",
+            "house_no": "211",
+            "candidates": {
+                "1": 512
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "長沙村",
+            "house_no": "212",
+            "candidates": {
+                "1": 582
+            },
+            "count_wrong": 153,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "長沙村",
+            "house_no": "213",
+            "candidates": {
+                "1": 601
+            },
+            "count_wrong": 126,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "長沙村",
+            "house_no": "214",
+            "candidates": {
+                "1": 621
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

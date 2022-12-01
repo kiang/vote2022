@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "連素卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "中英里",
+            "house_no": "319",
+            "candidates": {
+                "1": 397
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "中英里",
+            "house_no": "320",
+            "candidates": {
+                "1": 347
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 672
+        }
+    ]
+}

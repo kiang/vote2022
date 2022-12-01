@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李傳興",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐金順",
+            "party": "無"
+        },
+        "3": {
+            "name": "白金山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "錦屏村",
+            "house_no": "449",
+            "candidates": {
+                "1": 212,
+                "2": 83,
+                "3": 94
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 506
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "錦屏村",
+            "house_no": "450",
+            "candidates": {
+                "1": 32,
+                "2": 156,
+                "3": 256
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 580
+        }
+    ]
+}

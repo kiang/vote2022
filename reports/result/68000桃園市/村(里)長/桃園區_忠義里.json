@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林福涼",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝錦榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭許妙貞",
+            "party": "無"
+        },
+        "4": {
+            "name": "郭士瑋",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳淑珮",
+            "party": "無"
+        },
+        "6": {
+            "name": "蕭文靖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "忠義里",
+            "house_no": "228",
+            "candidates": {
+                "1": 5,
+                "2": 82,
+                "3": 327,
+                "4": 168,
+                "5": 335,
+                "6": 45
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1758
+        },
+        {
+            "area": "桃園區",
+            "cunli": "忠義里",
+            "house_no": "229",
+            "candidates": {
+                "1": 5,
+                "2": 264,
+                "3": 192,
+                "4": 105,
+                "5": 309,
+                "6": 47
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1649
+        }
+    ]
+}

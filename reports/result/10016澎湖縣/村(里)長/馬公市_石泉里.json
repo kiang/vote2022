@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳召君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "石泉里",
+            "house_no": "34",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 935
+        },
+        {
+            "area": "馬公市",
+            "cunli": "石泉里",
+            "house_no": "35",
+            "candidates": {
+                "1": 479
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "馬公市",
+            "cunli": "石泉里",
+            "house_no": "36",
+            "candidates": {
+                "1": 370
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 808
+        }
+    ]
+}

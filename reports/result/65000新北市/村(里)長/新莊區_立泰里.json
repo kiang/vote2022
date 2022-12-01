@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林顯祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "許文章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "立泰里",
+            "house_no": "518",
+            "candidates": {
+                "1": 382,
+                "2": 402
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1438
+        },
+        {
+            "area": "新莊區",
+            "cunli": "立泰里",
+            "house_no": "519",
+            "candidates": {
+                "1": 443,
+                "2": 376
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "新莊區",
+            "cunli": "立泰里",
+            "house_no": "520",
+            "candidates": {
+                "1": 343,
+                "2": 469
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1378
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳同原",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉晋祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "東門里",
+            "house_no": "1516",
+            "candidates": {
+                "1": 279,
+                "2": 399
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "東門里",
+            "house_no": "1517",
+            "candidates": {
+                "1": 320,
+                "2": 374
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "東門里",
+            "house_no": "1518",
+            "candidates": {
+                "1": 339,
+                "2": 428
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1376
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "東門里",
+            "house_no": "1519",
+            "candidates": {
+                "1": 324,
+                "2": 390
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1330
+        }
+    ]
+}

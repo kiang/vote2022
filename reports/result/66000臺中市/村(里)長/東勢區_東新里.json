@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余運來",
+            "party": "無"
+        },
+        "2": {
+            "name": "林炳輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "東新里",
+            "house_no": "1822",
+            "candidates": {
+                "1": 368,
+                "2": 269
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 952
+        },
+        {
+            "area": "東勢區",
+            "cunli": "東新里",
+            "house_no": "1823",
+            "candidates": {
+                "1": 407,
+                "2": 223
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 939
+        }
+    ]
+}

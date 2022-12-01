@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾秉樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃承隆",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅中隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "中山里",
+            "house_no": "1210",
+            "candidates": {
+                "1": 419,
+                "2": 696,
+                "3": 30
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1701
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "中山里",
+            "house_no": "1211",
+            "candidates": {
+                "1": 345,
+                "2": 679,
+                "3": 11
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1518
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "中山里",
+            "house_no": "1212",
+            "candidates": {
+                "1": 225,
+                "2": 435,
+                "3": 14
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1663
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "中山里",
+            "house_no": "1213",
+            "candidates": {
+                "1": 228,
+                "2": 415,
+                "3": 12
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1026
+        }
+    ]
+}

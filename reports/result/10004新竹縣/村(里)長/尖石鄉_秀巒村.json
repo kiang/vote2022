@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江仁義",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳家豐",
+            "party": "無"
+        },
+        "3": {
+            "name": "哈用．多夫依 Hayung．Tobuy",
+            "party": "無"
+        },
+        "4": {
+            "name": "甘有成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "秀巒村",
+            "house_no": "455",
+            "candidates": {
+                "1": 27,
+                "2": 53,
+                "3": 28,
+                "4": 273
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 482
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "秀巒村",
+            "house_no": "456",
+            "candidates": {
+                "1": 221,
+                "2": 177,
+                "3": 70,
+                "4": 115
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "秀巒村",
+            "house_no": "457",
+            "candidates": {
+                "1": 31,
+                "2": 22,
+                "3": 179,
+                "4": 16
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 310
+        }
+    ]
+}

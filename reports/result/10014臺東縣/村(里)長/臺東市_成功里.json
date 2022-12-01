@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉誌讀",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳惠敏",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "曾呂東昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "成功里",
+            "house_no": "9",
+            "candidates": {
+                "1": 116,
+                "2": 249,
+                "3": 187
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "臺東市",
+            "cunli": "成功里",
+            "house_no": "10",
+            "candidates": {
+                "1": 291,
+                "2": 249,
+                "3": 49
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

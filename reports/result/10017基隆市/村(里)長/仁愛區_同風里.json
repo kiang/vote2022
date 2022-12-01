@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳振宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴學禮",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊春生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "同風里",
+            "house_no": "117",
+            "candidates": {
+                "1": 20,
+                "2": 179,
+                "3": 171
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 550
+        }
+    ]
+}

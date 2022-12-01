@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉威銳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林主演",
+            "party": "無"
+        },
+        "3": {
+            "name": "林敏印",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿谷鄉",
+            "cunli": "初鄉村",
+            "house_no": "351",
+            "candidates": {
+                "1": 137,
+                "2": 143,
+                "3": 148
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "初鄉村",
+            "house_no": "352",
+            "candidates": {
+                "1": 83,
+                "2": 223,
+                "3": 146
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 667
+        }
+    ]
+}

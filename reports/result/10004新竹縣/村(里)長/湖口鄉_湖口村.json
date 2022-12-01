@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁春華",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴家強",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "吳文清",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳在鋥",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "湖口村",
+            "house_no": "309",
+            "candidates": {
+                "1": 132,
+                "2": 74,
+                "3": 266,
+                "4": 279
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖口村",
+            "house_no": "310",
+            "candidates": {
+                "1": 102,
+                "2": 120,
+                "3": 282,
+                "4": 387
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1415
+        }
+    ]
+}

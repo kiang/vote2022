@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉玉琦",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "梁吳文鳳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "樂英里",
+            "house_no": "1192",
+            "candidates": {
+                "1": 604,
+                "2": 232
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "北區",
+            "cunli": "樂英里",
+            "house_no": "1193",
+            "candidates": {
+                "1": 427,
+                "2": 220
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1073
+        }
+    ]
+}

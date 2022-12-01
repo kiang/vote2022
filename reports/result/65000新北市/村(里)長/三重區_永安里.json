@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃育任",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃麗伃",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "永安里",
+            "house_no": "930",
+            "candidates": {
+                "1": 256,
+                "2": 781
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1831
+        },
+        {
+            "area": "三重區",
+            "cunli": "永安里",
+            "house_no": "931",
+            "candidates": {
+                "1": 319,
+                "2": 617
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1545
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李忠信",
+            "party": "無"
+        },
+        "2": {
+            "name": "方暉喻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "崑山里",
+            "house_no": "918",
+            "candidates": {
+                "1": 316,
+                "2": 264
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "永康區",
+            "cunli": "崑山里",
+            "house_no": "919",
+            "candidates": {
+                "1": 441,
+                "2": 238
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "永康區",
+            "cunli": "崑山里",
+            "house_no": "920",
+            "candidates": {
+                "1": 392,
+                "2": 278
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "永康區",
+            "cunli": "崑山里",
+            "house_no": "921",
+            "candidates": {
+                "1": 339,
+                "2": 251
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "永康區",
+            "cunli": "崑山里",
+            "house_no": "922",
+            "candidates": {
+                "1": 344,
+                "2": 244
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1046
+        }
+    ]
+}

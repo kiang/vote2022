@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖昇英",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳見利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "西和里",
+            "house_no": "1115",
+            "candidates": {
+                "1": 277,
+                "2": 271
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 834
+        },
+        {
+            "area": "中西區",
+            "cunli": "西和里",
+            "house_no": "1116",
+            "candidates": {
+                "1": 474,
+                "2": 248
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "中西區",
+            "cunli": "西和里",
+            "house_no": "1117",
+            "candidates": {
+                "1": 429,
+                "2": 125
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 934
+        },
+        {
+            "area": "中西區",
+            "cunli": "西和里",
+            "house_no": "1118",
+            "candidates": {
+                "1": 366,
+                "2": 93
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 844
+        }
+    ]
+}

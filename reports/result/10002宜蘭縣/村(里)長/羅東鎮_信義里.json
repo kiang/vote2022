@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林榮華",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱俊維",
+            "party": "無"
+        },
+        "3": {
+            "name": "林文偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "信義里",
+            "house_no": "121",
+            "candidates": {
+                "1": 47,
+                "2": 450,
+                "3": 144
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "信義里",
+            "house_no": "122",
+            "candidates": {
+                "1": 129,
+                "2": 409,
+                "3": 84
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "信義里",
+            "house_no": "123",
+            "candidates": {
+                "1": 35,
+                "2": 349,
+                "3": 75
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 756
+        }
+    ]
+}

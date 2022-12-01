@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐獻謙",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴嘉南",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐富美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "公園里",
+            "house_no": "1000",
+            "candidates": {
+                "1": 97,
+                "2": 92,
+                "3": 252
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "北區",
+            "cunli": "公園里",
+            "house_no": "1001",
+            "candidates": {
+                "1": 130,
+                "2": 77,
+                "3": 268
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 902
+        }
+    ]
+}

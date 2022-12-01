@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪正平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興光里",
+            "house_no": "1632",
+            "candidates": {
+                "1": 537
+            },
+            "count_wrong": 206,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "文山區",
+            "cunli": "興光里",
+            "house_no": "1633",
+            "candidates": {
+                "1": 460
+            },
+            "count_wrong": 153,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "文山區",
+            "cunli": "興光里",
+            "house_no": "1634",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

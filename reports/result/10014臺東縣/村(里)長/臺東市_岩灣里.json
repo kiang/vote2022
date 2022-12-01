@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "易桂美",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "岩灣里",
+            "house_no": "37",
+            "candidates": {
+                "1": 519
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "臺東市",
+            "cunli": "岩灣里",
+            "house_no": "38",
+            "candidates": {
+                "1": 478
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1077
+        }
+    ]
+}

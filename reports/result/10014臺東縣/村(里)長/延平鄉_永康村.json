@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王自立",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱育南",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳孟仁文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "延平鄉",
+            "cunli": "永康村",
+            "house_no": "217",
+            "candidates": {
+                "1": 111,
+                "2": 103,
+                "3": 39
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 313
+        }
+    ]
+}

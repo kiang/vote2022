@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慧書",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧熙彥",
+            "party": "無"
+        },
+        "3": {
+            "name": "李思逸",
+            "party": "無"
+        },
+        "4": {
+            "name": "温明玉",
+            "party": "無"
+        },
+        "5": {
+            "name": "曾程緯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "中原里",
+            "house_no": "1353",
+            "candidates": {
+                "1": 222,
+                "2": 437,
+                "3": 20,
+                "4": 32,
+                "5": 35
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "中和區",
+            "cunli": "中原里",
+            "house_no": "1354",
+            "candidates": {
+                "1": 447,
+                "2": 229,
+                "3": 27,
+                "4": 29,
+                "5": 2
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1458
+        },
+        {
+            "area": "中和區",
+            "cunli": "中原里",
+            "house_no": "1355",
+            "candidates": {
+                "1": 365,
+                "2": 287,
+                "3": 26,
+                "4": 40,
+                "5": 4
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1398
+        },
+        {
+            "area": "中和區",
+            "cunli": "中原里",
+            "house_no": "1356",
+            "candidates": {
+                "1": 563,
+                "2": 305,
+                "3": 28,
+                "4": 36,
+                "5": 6
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1654
+        },
+        {
+            "area": "中和區",
+            "cunli": "中原里",
+            "house_no": "1357",
+            "candidates": {
+                "1": 241,
+                "2": 517,
+                "3": 33,
+                "4": 18,
+                "5": 13
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1451
+        }
+    ]
+}

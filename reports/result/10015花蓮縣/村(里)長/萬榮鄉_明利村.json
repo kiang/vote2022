@@ -1,0 +1,41 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張仁強",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈冠宥",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝忠義",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳仁文",
+            "party": "無"
+        },
+        "5": {
+            "name": "鍾文榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬榮鄉",
+            "cunli": "明利村",
+            "house_no": "268",
+            "candidates": {
+                "1": 121,
+                "2": 13,
+                "3": 177,
+                "4": 56,
+                "5": 90
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 626
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "貢寮區",
+            "cunli": "福連里",
+            "house_no": "2484",
+            "candidates": {
+                "1": 201
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 470
+        },
+        {
+            "area": "貢寮區",
+            "cunli": "福連里",
+            "house_no": "2485",
+            "candidates": {
+                "1": 103
+            },
+            "count_wrong": 45,
+            "count_unused": 1,
+            "count_total": 376
+        }
+    ]
+}

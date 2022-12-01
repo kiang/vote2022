@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑞良",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭耀卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "舊社村",
+            "house_no": "816",
+            "candidates": {
+                "1": 309,
+                "2": 264
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 846
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "舊社村",
+            "house_no": "817",
+            "candidates": {
+                "1": 287,
+                "2": 215
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 705
+        }
+    ]
+}

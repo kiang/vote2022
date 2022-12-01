@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李姸青",
+            "party": "無"
+        },
+        "2": {
+            "name": "王見守",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝森慶",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳科求",
+            "party": "無"
+        },
+        "5": {
+            "name": "楊鈺翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "北勢里",
+            "house_no": "236",
+            "candidates": {
+                "1": 43,
+                "2": 20,
+                "3": 101,
+                "4": 387,
+                "5": 69
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "北勢里",
+            "house_no": "237",
+            "candidates": {
+                "1": 87,
+                "2": 19,
+                "3": 131,
+                "4": 291,
+                "5": 43
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "北勢里",
+            "house_no": "238",
+            "candidates": {
+                "1": 103,
+                "2": 40,
+                "3": 112,
+                "4": 325,
+                "5": 114
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "北勢里",
+            "house_no": "239",
+            "candidates": {
+                "1": 87,
+                "2": 16,
+                "3": 118,
+                "4": 219,
+                "5": 107
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "北勢里",
+            "house_no": "240",
+            "candidates": {
+                "1": 92,
+                "2": 16,
+                "3": 140,
+                "4": 234,
+                "5": 70
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

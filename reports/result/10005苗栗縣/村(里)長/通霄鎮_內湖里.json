@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾漢東",
+            "party": "無"
+        },
+        "2": {
+            "name": "林輝權",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉賜正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "內湖里",
+            "house_no": "168",
+            "candidates": {
+                "1": 160,
+                "2": 206,
+                "3": 138
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 711
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "內湖里",
+            "house_no": "169",
+            "candidates": {
+                "1": 182,
+                "2": 345,
+                "3": 172
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1058
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高銘吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡榮賢",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄧玉足",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "湖山里",
+            "house_no": "524",
+            "candidates": {
+                "1": 123,
+                "2": 290,
+                "3": 344
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1054
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張阿和",
+            "party": "無"
+        },
+        "2": {
+            "name": "林蘇麗雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖內區",
+            "cunli": "公舘里",
+            "house_no": "164",
+            "candidates": {
+                "1": 298,
+                "2": 363
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "湖內區",
+            "cunli": "公舘里",
+            "house_no": "165",
+            "candidates": {
+                "1": 300,
+                "2": 373
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1083
+        }
+    ]
+}

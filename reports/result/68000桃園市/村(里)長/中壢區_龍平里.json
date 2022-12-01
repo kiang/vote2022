@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李慶融",
+            "party": "無"
+        },
+        "2": {
+            "name": "李維忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "龍平里",
+            "house_no": "739",
+            "candidates": {
+                "1": 459,
+                "2": 348
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍平里",
+            "house_no": "740",
+            "candidates": {
+                "1": 519,
+                "2": 317
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1475
+        }
+    ]
+}

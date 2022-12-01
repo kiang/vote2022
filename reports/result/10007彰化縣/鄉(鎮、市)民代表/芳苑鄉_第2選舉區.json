@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林冬戶",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清在",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "路上村",
+            "house_no": "1041",
+            "candidates": {
+                "1": 169,
+                "2": 200
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 599
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "路平村",
+            "house_no": "1042",
+            "candidates": {
+                "1": 256,
+                "2": 305
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 768
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "三成村",
+            "house_no": "1043",
+            "candidates": {
+                "1": 297,
+                "2": 330
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "福榮村",
+            "house_no": "1044",
+            "candidates": {
+                "1": 139,
+                "2": 237
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 535
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "頂廍村",
+            "house_no": "1045",
+            "candidates": {
+                "1": 239,
+                "2": 137
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 523
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭八郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡秋琴",
+            "party": "無"
+        },
+        "3": {
+            "name": "王勇生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "延平鄉",
+            "cunli": "永康村",
+            "house_no": "217",
+            "candidates": {
+                "1": 200,
+                "2": 38
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 313
+        },
+        {
+            "area": "延平鄉",
+            "cunli": "武陵村",
+            "house_no": "218",
+            "candidates": {
+                "1": 69,
+                "2": 318
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 572
+        }
+    ]
+}

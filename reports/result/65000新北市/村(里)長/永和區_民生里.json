@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧燕山",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃新旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "民生里",
+            "house_no": "1665",
+            "candidates": {
+                "1": 213,
+                "2": 424
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "永和區",
+            "cunli": "民生里",
+            "house_no": "1666",
+            "candidates": {
+                "1": 287,
+                "2": 387
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "永和區",
+            "cunli": "民生里",
+            "house_no": "1667",
+            "candidates": {
+                "1": 322,
+                "2": 355
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

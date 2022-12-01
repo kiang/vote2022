@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黄福林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "北榮里",
+            "house_no": "162",
+            "candidates": {
+                "1": 488
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "西區",
+            "cunli": "北榮里",
+            "house_no": "163",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1033
+        }
+    ]
+}

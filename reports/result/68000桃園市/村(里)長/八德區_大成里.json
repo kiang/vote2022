@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭逸翔",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱得盛",
+            "party": "無"
+        },
+        "3": {
+            "name": "游能吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大成里",
+            "house_no": "456",
+            "candidates": {
+                "1": 111,
+                "2": 580,
+                "3": 349
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1558
+        },
+        {
+            "area": "八德區",
+            "cunli": "大成里",
+            "house_no": "457",
+            "candidates": {
+                "1": 98,
+                "2": 676,
+                "3": 313
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1590
+        }
+    ]
+}

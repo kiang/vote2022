@@ -1,0 +1,53 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張智傑",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鄒信槿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橫山鄉",
+            "cunli": "內灣村",
+            "house_no": "400",
+            "candidates": {
+                "1": 140,
+                "2": 342,
+                "3": 124
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 840
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "力行村",
+            "house_no": "401",
+            "candidates": {
+                "1": 69,
+                "2": 9,
+                "3": 119
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 257
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "力行村",
+            "house_no": "402",
+            "candidates": {
+                "1": 147,
+                "2": 25,
+                "3": 211
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 503
+        }
+    ]
+}

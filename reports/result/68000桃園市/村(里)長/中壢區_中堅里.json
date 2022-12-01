@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳瑞柱",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉高榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "中堅里",
+            "house_no": "792",
+            "candidates": {
+                "1": 600,
+                "2": 196
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "中壢區",
+            "cunli": "中堅里",
+            "house_no": "793",
+            "candidates": {
+                "1": 312,
+                "2": 123
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 774
+        },
+        {
+            "area": "中壢區",
+            "cunli": "中堅里",
+            "house_no": "794",
+            "candidates": {
+                "1": 629,
+                "2": 215
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1463
+        }
+    ]
+}

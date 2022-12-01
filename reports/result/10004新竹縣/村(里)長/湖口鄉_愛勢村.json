@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝春蘭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "愛勢村",
+            "house_no": "285",
+            "candidates": {
+                "1": 681
+            },
+            "count_wrong": 93,
+            "count_unused": 1,
+            "count_total": 1290
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "愛勢村",
+            "house_no": "286",
+            "candidates": {
+                "1": 670
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "愛勢村",
+            "house_no": "287",
+            "candidates": {
+                "1": 689
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1355
+        }
+    ]
+}

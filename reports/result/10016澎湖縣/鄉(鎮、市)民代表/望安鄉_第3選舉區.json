@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳董金針",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明現",
+            "party": "無"
+        },
+        "3": {
+            "name": "呂福肯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "望安鄉",
+            "cunli": "東吉村",
+            "house_no": "111",
+            "candidates": {
+                "1": 63,
+                "2": 47,
+                "3": 80
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 315
+        },
+        {
+            "area": "望安鄉",
+            "cunli": "東坪村",
+            "house_no": "112",
+            "candidates": {
+                "1": 74,
+                "2": 118,
+                "3": 168
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 509
+        },
+        {
+            "area": "望安鄉",
+            "cunli": "西坪村",
+            "house_no": "113",
+            "candidates": {
+                "1": 46,
+                "2": 19,
+                "3": 53
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 207
+        },
+        {
+            "area": "望安鄉",
+            "cunli": "花嶼村",
+            "house_no": "114",
+            "candidates": {
+                "1": 82,
+                "2": 92,
+                "3": 9
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 301
+        }
+    ]
+}

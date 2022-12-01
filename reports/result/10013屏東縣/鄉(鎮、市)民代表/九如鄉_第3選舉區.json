@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳春茂",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳啟亮",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳坤益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "九如鄉",
+            "cunli": "三塊村",
+            "house_no": "342",
+            "candidates": {
+                "1": 203,
+                "2": 709
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1488
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "耆老村",
+            "house_no": "343",
+            "candidates": {
+                "1": 730,
+                "2": 102
+            },
+            "count_wrong": 111,
+            "count_unused": 1,
+            "count_total": 1227
+        }
+    ]
+}

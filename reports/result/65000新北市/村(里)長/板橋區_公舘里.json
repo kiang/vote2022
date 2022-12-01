@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳黃逽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "公舘里",
+            "house_no": "1055",
+            "candidates": {
+                "1": 537
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "板橋區",
+            "cunli": "公舘里",
+            "house_no": "1056",
+            "candidates": {
+                "1": 566
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "板橋區",
+            "cunli": "公舘里",
+            "house_no": "1057",
+            "candidates": {
+                "1": 521
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1061
+        }
+    ]
+}

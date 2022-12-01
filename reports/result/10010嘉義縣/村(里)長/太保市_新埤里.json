@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐錦昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐定安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "新埤里",
+            "house_no": "18",
+            "candidates": {
+                "1": 283,
+                "2": 160
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 615
+        },
+        {
+            "area": "太保市",
+            "cunli": "新埤里",
+            "house_no": "19",
+            "candidates": {
+                "1": 264,
+                "2": 154
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 594
+        }
+    ]
+}

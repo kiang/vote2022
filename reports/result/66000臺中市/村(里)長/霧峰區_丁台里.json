@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施豐碧",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪耀南",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "丁台里",
+            "house_no": "1774",
+            "candidates": {
+                "1": 497,
+                "2": 282
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "丁台里",
+            "house_no": "1775",
+            "candidates": {
+                "1": 313,
+                "2": 454
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1119
+        }
+    ]
+}

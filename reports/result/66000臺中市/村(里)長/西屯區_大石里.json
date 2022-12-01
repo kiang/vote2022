@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉世維",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳忠華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "大石里",
+            "house_no": "821",
+            "candidates": {
+                "1": 226,
+                "2": 446
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大石里",
+            "house_no": "822",
+            "candidates": {
+                "1": 215,
+                "2": 399
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 985
+        }
+    ]
+}

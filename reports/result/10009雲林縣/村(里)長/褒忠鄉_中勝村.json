@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾清松",
+            "party": "無"
+        },
+        "2": {
+            "name": "張文邦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "中勝村",
+            "house_no": "81",
+            "candidates": {
+                "1": 153,
+                "2": 346
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 705
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "中勝村",
+            "house_no": "82",
+            "candidates": {
+                "1": 163,
+                "2": 337
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 691
+        }
+    ]
+}

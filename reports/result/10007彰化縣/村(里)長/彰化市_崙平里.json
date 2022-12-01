@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鐘健誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "林水源",
+            "party": "無"
+        },
+        "3": {
+            "name": "梁麗水",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "崙平里",
+            "house_no": "75",
+            "candidates": {
+                "1": 82,
+                "2": 258,
+                "3": 374
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "彰化市",
+            "cunli": "崙平里",
+            "house_no": "76",
+            "candidates": {
+                "1": 39,
+                "2": 266,
+                "3": 358
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "彰化市",
+            "cunli": "崙平里",
+            "house_no": "77",
+            "candidates": {
+                "1": 33,
+                "2": 264,
+                "3": 279
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "彰化市",
+            "cunli": "崙平里",
+            "house_no": "78",
+            "candidates": {
+                "1": 25,
+                "2": 285,
+                "3": 246
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "彰化市",
+            "cunli": "崙平里",
+            "house_no": "79",
+            "candidates": {
+                "1": 39,
+                "2": 260,
+                "3": 291
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

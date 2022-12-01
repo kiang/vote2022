@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭崢嶸",
+            "party": "無"
+        },
+        "2": {
+            "name": "許金龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "蔦松里",
+            "house_no": "863",
+            "candidates": {
+                "1": 311,
+                "2": 299
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "永康區",
+            "cunli": "蔦松里",
+            "house_no": "864",
+            "candidates": {
+                "1": 244,
+                "2": 389
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

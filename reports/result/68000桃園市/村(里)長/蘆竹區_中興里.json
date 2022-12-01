@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張月娥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "中興里",
+            "house_no": "494",
+            "candidates": {
+                "1": 812
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1452
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "中興里",
+            "house_no": "495",
+            "candidates": {
+                "1": 879
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1775
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "中興里",
+            "house_no": "496",
+            "candidates": {
+                "1": 972
+            },
+            "count_wrong": 68,
+            "count_unused": 1,
+            "count_total": 1769
+        }
+    ]
+}

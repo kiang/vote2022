@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇信豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "何武祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "太南里",
+            "house_no": "161",
+            "candidates": {
+                "1": 393,
+                "2": 502
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1390
+        },
+        {
+            "area": "新營區",
+            "cunli": "太南里",
+            "house_no": "162",
+            "candidates": {
+                "1": 54,
+                "2": 112
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 246
+        }
+    ]
+}

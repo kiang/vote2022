@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡春明",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡其福",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡宗廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "大北里",
+            "house_no": "315",
+            "candidates": {
+                "1": 40,
+                "2": 135,
+                "3": 199
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 529
+        }
+    ]
+}

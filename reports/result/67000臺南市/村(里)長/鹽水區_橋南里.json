@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳榮斌",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏士翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "橋南里",
+            "house_no": "92",
+            "candidates": {
+                "1": 337,
+                "2": 252
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "橋南里",
+            "house_no": "93",
+            "candidates": {
+                "1": 479,
+                "2": 320
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "橋南里",
+            "house_no": "94",
+            "candidates": {
+                "1": 361,
+                "2": 319
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1205
+        }
+    ]
+}

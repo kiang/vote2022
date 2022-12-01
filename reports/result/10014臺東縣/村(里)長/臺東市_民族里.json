@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳宗益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "民族里",
+            "house_no": "13",
+            "candidates": {
+                "1": 432
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 732
+        },
+        {
+            "area": "臺東市",
+            "cunli": "民族里",
+            "house_no": "14",
+            "candidates": {
+                "1": 390
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 714
+        },
+        {
+            "area": "臺東市",
+            "cunli": "民族里",
+            "house_no": "15",
+            "candidates": {
+                "1": 445
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 783
+        }
+    ]
+}

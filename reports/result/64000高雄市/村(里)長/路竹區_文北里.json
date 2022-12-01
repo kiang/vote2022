@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國強",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳慶宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "文北里",
+            "house_no": "213",
+            "candidates": {
+                "1": 225,
+                "2": 325
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "路竹區",
+            "cunli": "文北里",
+            "house_no": "214",
+            "candidates": {
+                "1": 278,
+                "2": 292
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "路竹區",
+            "cunli": "文北里",
+            "house_no": "215",
+            "candidates": {
+                "1": 197,
+                "2": 319
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 933
+        }
+    ]
+}

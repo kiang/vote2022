@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃桂湄",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃周武",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳拱泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "水頭村",
+            "house_no": "66",
+            "candidates": {
+                "1": 328,
+                "2": 168,
+                "3": 126
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1115
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "水頭村",
+            "house_no": "67",
+            "candidates": {
+                "1": 344,
+                "2": 250,
+                "3": 164
+            },
+            "count_wrong": 33,
+            "count_unused": 3,
+            "count_total": 1290
+        }
+    ]
+}

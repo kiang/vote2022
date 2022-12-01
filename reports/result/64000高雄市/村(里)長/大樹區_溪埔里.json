@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張耀珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊銘源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大樹區",
+            "cunli": "溪埔里",
+            "house_no": "857",
+            "candidates": {
+                "1": 203,
+                "2": 221
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 737
+        },
+        {
+            "area": "大樹區",
+            "cunli": "溪埔里",
+            "house_no": "858",
+            "candidates": {
+                "1": 247,
+                "2": 159
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 709
+        }
+    ]
+}

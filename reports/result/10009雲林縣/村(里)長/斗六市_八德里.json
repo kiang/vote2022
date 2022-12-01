@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林錫達",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "八德里",
+            "house_no": "477",
+            "candidates": {
+                "1": 210,
+                "2": 301
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "斗六市",
+            "cunli": "八德里",
+            "house_no": "478",
+            "candidates": {
+                "1": 294,
+                "2": 308
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "斗六市",
+            "cunli": "八德里",
+            "house_no": "479",
+            "candidates": {
+                "1": 298,
+                "2": 287
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1082
+        }
+    ]
+}

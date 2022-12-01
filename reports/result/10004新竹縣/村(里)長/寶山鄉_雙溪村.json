@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許秋天",
+            "party": "無"
+        },
+        "2": {
+            "name": "江為鎮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "寶山鄉",
+            "cunli": "雙溪村",
+            "house_no": "421",
+            "candidates": {
+                "1": 465,
+                "2": 459
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "寶山鄉",
+            "cunli": "雙溪村",
+            "house_no": "422",
+            "candidates": {
+                "1": 383,
+                "2": 302
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1230
+        }
+    ]
+}

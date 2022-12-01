@@ -1,0 +1,170 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳妍臻",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂平清",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪榮利",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭素珍",
+            "party": "無"
+        },
+        "5": {
+            "name": "王經邦",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳紘諒",
+            "party": "無"
+        },
+        "7": {
+            "name": "李月華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖西鄉",
+            "cunli": "城北村",
+            "house_no": "69",
+            "candidates": {
+                "1": 16,
+                "2": 72,
+                "3": 7,
+                "4": 31,
+                "5": 17,
+                "6": 52,
+                "7": 23
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 357
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "太武村",
+            "house_no": "70",
+            "candidates": {
+                "1": 5,
+                "2": 20,
+                "3": 11,
+                "4": 0,
+                "5": 6,
+                "6": 22,
+                "7": 5
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 87
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "隘門村",
+            "house_no": "71",
+            "candidates": {
+                "1": 73,
+                "2": 125,
+                "3": 76,
+                "4": 31,
+                "5": 41,
+                "6": 59,
+                "7": 57
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "林投村",
+            "house_no": "72",
+            "candidates": {
+                "1": 110,
+                "2": 194,
+                "3": 5,
+                "4": 141,
+                "5": 112,
+                "6": 84,
+                "7": 24
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "尖山村",
+            "house_no": "73",
+            "candidates": {
+                "1": 114,
+                "2": 25,
+                "3": 4,
+                "4": 27,
+                "5": 152,
+                "6": 63,
+                "7": 13
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 665
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "龍門村",
+            "house_no": "74",
+            "candidates": {
+                "1": 155,
+                "2": 69,
+                "3": 8,
+                "4": 101,
+                "5": 80,
+                "6": 64,
+                "7": 16
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "龍門村",
+            "house_no": "75",
+            "candidates": {
+                "1": 150,
+                "2": 45,
+                "3": 19,
+                "4": 103,
+                "5": 66,
+                "6": 68,
+                "7": 15
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "菓葉村",
+            "house_no": "76",
+            "candidates": {
+                "1": 35,
+                "2": 54,
+                "3": 4,
+                "4": 26,
+                "5": 19,
+                "6": 281,
+                "7": 6
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 730
+        }
+    ]
+}

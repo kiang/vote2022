@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江松清",
+            "party": "無"
+        },
+        "2": {
+            "name": "邵耀德",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇榮文",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "敦化里",
+            "house_no": "715",
+            "candidates": {
+                "1": 156,
+                "2": 260,
+                "3": 382
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "松山區",
+            "cunli": "敦化里",
+            "house_no": "716",
+            "candidates": {
+                "1": 112,
+                "2": 266,
+                "3": 433
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1238
+        },
+        {
+            "area": "松山區",
+            "cunli": "敦化里",
+            "house_no": "717",
+            "candidates": {
+                "1": 97,
+                "2": 323,
+                "3": 500
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1353
+        },
+        {
+            "area": "松山區",
+            "cunli": "敦化里",
+            "house_no": "718",
+            "candidates": {
+                "1": 111,
+                "2": 320,
+                "3": 487
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

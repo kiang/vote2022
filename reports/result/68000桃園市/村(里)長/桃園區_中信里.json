@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅秀眞",
+            "party": "無"
+        },
+        "2": {
+            "name": "王震宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中信里",
+            "house_no": "71",
+            "candidates": {
+                "1": 323,
+                "2": 425
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中信里",
+            "house_no": "72",
+            "candidates": {
+                "1": 353,
+                "2": 371
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1350
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中信里",
+            "house_no": "73",
+            "candidates": {
+                "1": 310,
+                "2": 427
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1374
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中信里",
+            "house_no": "74",
+            "candidates": {
+                "1": 218,
+                "2": 515
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1406
+        }
+    ]
+}

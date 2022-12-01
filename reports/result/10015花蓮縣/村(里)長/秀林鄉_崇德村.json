@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李慧齡Tumun Mowkey",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "廖秀金",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭阿娜",
+            "party": "無"
+        },
+        "4": {
+            "name": "李貴標 Cincay Peydang",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "崇德村",
+            "house_no": "118",
+            "candidates": {
+                "1": 267,
+                "2": 172,
+                "3": 13,
+                "4": 86
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 735
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "崇德村",
+            "house_no": "119",
+            "candidates": {
+                "1": 182,
+                "2": 173,
+                "3": 22,
+                "4": 70
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 663
+        }
+    ]
+}

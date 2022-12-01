@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林敏德",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "下溪里",
+            "house_no": "1727",
+            "candidates": {
+                "1": 620
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "永和區",
+            "cunli": "下溪里",
+            "house_no": "1728",
+            "candidates": {
+                "1": 629
+            },
+            "count_wrong": 104,
+            "count_unused": 1,
+            "count_total": 1270
+        },
+        {
+            "area": "永和區",
+            "cunli": "下溪里",
+            "house_no": "1729",
+            "candidates": {
+                "1": 653
+            },
+            "count_wrong": 139,
+            "count_unused": 0,
+            "count_total": 1283
+        }
+    ]
+}

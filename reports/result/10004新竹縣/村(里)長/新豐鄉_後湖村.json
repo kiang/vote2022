@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾萍森",
+            "party": "無"
+        },
+        "2": {
+            "name": "姜義炫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新豐鄉",
+            "cunli": "後湖村",
+            "house_no": "337",
+            "candidates": {
+                "1": 286,
+                "2": 188
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "後湖村",
+            "house_no": "338",
+            "candidates": {
+                "1": 374,
+                "2": 161
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 960
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾朝欽",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "南美里",
+            "house_no": "1094",
+            "candidates": {
+                "1": 525
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "中西區",
+            "cunli": "南美里",
+            "house_no": "1095",
+            "candidates": {
+                "1": 505
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "中西區",
+            "cunli": "南美里",
+            "house_no": "1096",
+            "candidates": {
+                "1": 422
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 890
+        }
+    ]
+}

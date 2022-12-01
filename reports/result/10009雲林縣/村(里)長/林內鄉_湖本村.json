@@ -1,0 +1,26 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張太郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "林文祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "湖本村",
+            "house_no": "445",
+            "candidates": {
+                "1": 195,
+                "2": 271
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 603
+        }
+    ]
+}

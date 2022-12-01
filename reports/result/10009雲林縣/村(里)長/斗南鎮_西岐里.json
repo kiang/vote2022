@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊秀儒",
+            "party": "無"
+        },
+        "2": {
+            "name": "王慧評",
+            "party": "無"
+        },
+        "3": {
+            "name": "張順從",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "西岐里",
+            "house_no": "554",
+            "candidates": {
+                "1": 133,
+                "2": 301,
+                "3": 285
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "西岐里",
+            "house_no": "555",
+            "candidates": {
+                "1": 144,
+                "2": 175,
+                "3": 222
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 933
+        }
+    ]
+}

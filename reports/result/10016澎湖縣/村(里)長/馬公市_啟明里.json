@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡美珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "李忠霖",
+            "party": "無"
+        },
+        "3": {
+            "name": "林垂昆",
+            "party": "無"
+        },
+        "4": {
+            "name": "王寶燦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "啟明里",
+            "house_no": "4",
+            "candidates": {
+                "1": 242,
+                "2": 75,
+                "3": 23,
+                "4": 147
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 845
+        }
+    ]
+}

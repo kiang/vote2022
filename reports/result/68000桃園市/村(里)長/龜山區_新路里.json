@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張忠發",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳雪卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "新路里",
+            "house_no": "322",
+            "candidates": {
+                "1": 449,
+                "2": 361
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "龜山區",
+            "cunli": "新路里",
+            "house_no": "323",
+            "candidates": {
+                "1": 314,
+                "2": 273
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 966
+        },
+        {
+            "area": "龜山區",
+            "cunli": "新路里",
+            "house_no": "324",
+            "candidates": {
+                "1": 432,
+                "2": 246
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "龜山區",
+            "cunli": "新路里",
+            "house_no": "325",
+            "candidates": {
+                "1": 484,
+                "2": 399
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1340
+        }
+    ]
+}

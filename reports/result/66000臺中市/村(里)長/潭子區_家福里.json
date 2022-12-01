@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚俊帆",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴美芳",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "鄭朝元",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "潭子區",
+            "cunli": "家福里",
+            "house_no": "694",
+            "candidates": {
+                "1": 279,
+                "2": 337,
+                "3": 206
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "潭子區",
+            "cunli": "家福里",
+            "house_no": "695",
+            "candidates": {
+                "1": 173,
+                "2": 351,
+                "3": 176
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "潭子區",
+            "cunli": "家福里",
+            "house_no": "696",
+            "candidates": {
+                "1": 177,
+                "2": 123,
+                "3": 201
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "潭子區",
+            "cunli": "家福里",
+            "house_no": "697",
+            "candidates": {
+                "1": 220,
+                "2": 165,
+                "3": 222
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

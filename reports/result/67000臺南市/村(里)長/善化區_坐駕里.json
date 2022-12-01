@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林怡珊",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭勝隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "善化區",
+            "cunli": "坐駕里",
+            "house_no": "526",
+            "candidates": {
+                "1": 542,
+                "2": 244
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "善化區",
+            "cunli": "坐駕里",
+            "house_no": "527",
+            "candidates": {
+                "1": 424,
+                "2": 207
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "善化區",
+            "cunli": "坐駕里",
+            "house_no": "528",
+            "candidates": {
+                "1": 478,
+                "2": 265
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1326
+        }
+    ]
+}

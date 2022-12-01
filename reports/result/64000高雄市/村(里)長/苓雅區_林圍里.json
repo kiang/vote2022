@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃國傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅莉萍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "林圍里",
+            "house_no": "1317",
+            "candidates": {
+                "1": 235,
+                "2": 396
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林圍里",
+            "house_no": "1318",
+            "candidates": {
+                "1": 296,
+                "2": 340
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1039
+        }
+    ]
+}

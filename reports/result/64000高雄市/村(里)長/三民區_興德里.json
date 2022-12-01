@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃緣雪",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "興德里",
+            "house_no": "1191",
+            "candidates": {
+                "1": 323,
+                "2": 174
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 866
+        },
+        {
+            "area": "三民區",
+            "cunli": "興德里",
+            "house_no": "1192",
+            "candidates": {
+                "1": 309,
+                "2": 217
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 940
+        }
+    ]
+}

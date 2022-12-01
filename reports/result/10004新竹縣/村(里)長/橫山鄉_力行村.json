@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃榮竹",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "郭彭添",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "橫山鄉",
+            "cunli": "力行村",
+            "house_no": "401",
+            "candidates": {
+                "1": 123,
+                "2": 76
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 257
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "力行村",
+            "house_no": "402",
+            "candidates": {
+                "1": 238,
+                "2": 145
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 503
+        }
+    ]
+}

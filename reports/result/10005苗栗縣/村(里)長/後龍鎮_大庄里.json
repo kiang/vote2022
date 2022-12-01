@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王文瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "王坤龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "大庄里",
+            "house_no": "234",
+            "candidates": {
+                "1": 242,
+                "2": 438
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "大庄里",
+            "house_no": "235",
+            "candidates": {
+                "1": 356,
+                "2": 432
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "大庄里",
+            "house_no": "236",
+            "candidates": {
+                "1": 178,
+                "2": 410
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "大庄里",
+            "house_no": "237",
+            "candidates": {
+                "1": 179,
+                "2": 318
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 836
+        }
+    ]
+}

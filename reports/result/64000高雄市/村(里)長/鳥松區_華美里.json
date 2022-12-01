@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱滄來",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱宏棋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳥松區",
+            "cunli": "華美里",
+            "house_no": "826",
+            "candidates": {
+                "1": 354,
+                "2": 422
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "華美里",
+            "house_no": "827",
+            "candidates": {
+                "1": 326,
+                "2": 387
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "華美里",
+            "house_no": "828",
+            "candidates": {
+                "1": 340,
+                "2": 396
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1232
+        }
+    ]
+}

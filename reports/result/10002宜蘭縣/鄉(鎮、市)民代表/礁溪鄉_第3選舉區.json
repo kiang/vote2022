@@ -1,0 +1,100 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張景程",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊漢銘",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃曜維",
+            "party": "無"
+        },
+        "4": {
+            "name": "李竹村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "三民村",
+            "house_no": "231",
+            "candidates": {
+                "1": 17,
+                "2": 228,
+                "3": 282
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 802
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "三民村",
+            "house_no": "232",
+            "candidates": {
+                "1": 31,
+                "2": 109,
+                "3": 267
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 605
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "三民村",
+            "house_no": "233",
+            "candidates": {
+                "1": 61,
+                "2": 179,
+                "3": 268
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 898
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "林美村",
+            "house_no": "234",
+            "candidates": {
+                "1": 60,
+                "2": 499,
+                "3": 149
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "白鵝村",
+            "house_no": "235",
+            "candidates": {
+                "1": 21,
+                "2": 295,
+                "3": 164
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "玉光村",
+            "house_no": "236",
+            "candidates": {
+                "1": 79,
+                "2": 478,
+                "3": 239
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1044
+        }
+    ]
+}

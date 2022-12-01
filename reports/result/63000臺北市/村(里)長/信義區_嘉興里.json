@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李錫榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭智耀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "嘉興里",
+            "house_no": "880",
+            "candidates": {
+                "1": 147,
+                "2": 394
+            },
+            "count_wrong": 27,
+            "count_unused": 2,
+            "count_total": 789
+        },
+        {
+            "area": "信義區",
+            "cunli": "嘉興里",
+            "house_no": "881",
+            "candidates": {
+                "1": 229,
+                "2": 368
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 878
+        },
+        {
+            "area": "信義區",
+            "cunli": "嘉興里",
+            "house_no": "882",
+            "candidates": {
+                "1": 122,
+                "2": 413
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 859
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林朝乾",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "蔡明德",
+            "party": "無"
+        },
+        "3": {
+            "name": "許峻溢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安發里",
+            "house_no": "1144",
+            "candidates": {
+                "1": 210,
+                "2": 239,
+                "3": 378
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "三民區",
+            "cunli": "安發里",
+            "house_no": "1145",
+            "candidates": {
+                "1": 204,
+                "2": 198,
+                "3": 355
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1294
+        },
+        {
+            "area": "三民區",
+            "cunli": "安發里",
+            "house_no": "1146",
+            "candidates": {
+                "1": 167,
+                "2": 274,
+                "3": 352
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1385
+        }
+    ]
+}

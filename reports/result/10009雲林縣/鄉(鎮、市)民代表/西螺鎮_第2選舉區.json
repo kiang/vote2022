@@ -1,0 +1,102 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林勲源",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖俞順",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾特掌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西螺鎮",
+            "cunli": "大新里",
+            "house_no": "390",
+            "candidates": {
+                "1": 325,
+                "2": 169
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 784
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "大新里",
+            "house_no": "391",
+            "candidates": {
+                "1": 321,
+                "2": 124
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 736
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "埤頭里",
+            "house_no": "392",
+            "candidates": {
+                "1": 110,
+                "2": 367
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 834
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "東興里",
+            "house_no": "393",
+            "candidates": {
+                "1": 219,
+                "2": 328
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "鹿場里",
+            "house_no": "394",
+            "candidates": {
+                "1": 215,
+                "2": 608
+            },
+            "count_wrong": 167,
+            "count_unused": 0,
+            "count_total": 1410
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "廣興里",
+            "house_no": "395",
+            "candidates": {
+                "1": 194,
+                "2": 330
+            },
+            "count_wrong": 93,
+            "count_unused": 1,
+            "count_total": 820
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "頂湳里",
+            "house_no": "396",
+            "candidates": {
+                "1": 184,
+                "2": 377
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 906
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李志強",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃敏捷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "正仁里",
+            "house_no": "1411",
+            "candidates": {
+                "1": 355,
+                "2": 325
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "正仁里",
+            "house_no": "1412",
+            "candidates": {
+                "1": 307,
+                "2": 366
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

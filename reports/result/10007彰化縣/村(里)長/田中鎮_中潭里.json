@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴樹欉",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉淑玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "中潭里",
+            "house_no": "780",
+            "candidates": {
+                "1": 180,
+                "2": 305
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "中潭里",
+            "house_no": "781",
+            "candidates": {
+                "1": 265,
+                "2": 299
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 901
+        }
+    ]
+}

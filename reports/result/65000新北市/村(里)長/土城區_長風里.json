@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "司家駒",
+            "party": "無"
+        },
+        "2": {
+            "name": "石忠利",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "長風里",
+            "house_no": "1948",
+            "candidates": {
+                "1": 124,
+                "2": 395
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 831
+        },
+        {
+            "area": "土城區",
+            "cunli": "長風里",
+            "house_no": "1949",
+            "candidates": {
+                "1": 82,
+                "2": 483
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 902
+        }
+    ]
+}

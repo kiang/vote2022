@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李泰山",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊尚群",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彌陀區",
+            "cunli": "文安里",
+            "house_no": "389",
+            "candidates": {
+                "1": 434,
+                "2": 124
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 824
+        },
+        {
+            "area": "彌陀區",
+            "cunli": "文安里",
+            "house_no": "390",
+            "candidates": {
+                "1": 411,
+                "2": 106
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 772
+        }
+    ]
+}

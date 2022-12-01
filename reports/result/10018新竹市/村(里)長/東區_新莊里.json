@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡羽軒",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝文烽",
+            "party": "無"
+        },
+        "3": {
+            "name": "盧秋永",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "新莊里",
+            "house_no": "97",
+            "candidates": {
+                "1": 68,
+                "2": 257,
+                "3": 326
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "東區",
+            "cunli": "新莊里",
+            "house_no": "98",
+            "candidates": {
+                "1": 125,
+                "2": 167,
+                "3": 241
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 973
+        },
+        {
+            "area": "東區",
+            "cunli": "新莊里",
+            "house_no": "99",
+            "candidates": {
+                "1": 85,
+                "2": 237,
+                "3": 314
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "東區",
+            "cunli": "新莊里",
+            "house_no": "100",
+            "candidates": {
+                "1": 135,
+                "2": 176,
+                "3": 340
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "東區",
+            "cunli": "新莊里",
+            "house_no": "101",
+            "candidates": {
+                "1": 102,
+                "2": 180,
+                "3": 305
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 943
+        }
+    ]
+}

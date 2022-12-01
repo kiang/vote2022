@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭繼光",
+            "party": "無"
+        },
+        "2": {
+            "name": "王瑜蘭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "中社里",
+            "house_no": "133",
+            "candidates": {
+                "1": 535,
+                "2": 366
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1505
+        },
+        {
+            "area": "清水區",
+            "cunli": "中社里",
+            "house_no": "134",
+            "candidates": {
+                "1": 278,
+                "2": 432
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1169
+        }
+    ]
+}

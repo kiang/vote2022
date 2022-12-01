@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹瑞梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "張嘉玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "義興里",
+            "house_no": "1033",
+            "candidates": {
+                "1": 549,
+                "2": 271
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "義興里",
+            "house_no": "1034",
+            "candidates": {
+                "1": 567,
+                "2": 318
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "義興里",
+            "house_no": "1035",
+            "candidates": {
+                "1": 519,
+                "2": 361
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "義興里",
+            "house_no": "1036",
+            "candidates": {
+                "1": 544,
+                "2": 249
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "義興里",
+            "house_no": "1037",
+            "candidates": {
+                "1": 567,
+                "2": 240
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1389
+        }
+    ]
+}

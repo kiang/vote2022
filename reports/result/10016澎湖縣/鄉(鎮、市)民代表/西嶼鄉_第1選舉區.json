@@ -1,0 +1,66 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾玉倫",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金女",
+            "party": "無"
+        },
+        "3": {
+            "name": "趙文敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西嶼鄉",
+            "cunli": "橫礁村",
+            "house_no": "93",
+            "candidates": {
+                "1": 86,
+                "2": 77
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 281
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "合界村",
+            "house_no": "94",
+            "candidates": {
+                "1": 147,
+                "2": 54
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 407
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "竹灣村",
+            "house_no": "95",
+            "candidates": {
+                "1": 58,
+                "2": 284
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 806
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "小門村",
+            "house_no": "96",
+            "candidates": {
+                "1": 93,
+                "2": 21
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 271
+        }
+    ]
+}

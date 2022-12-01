@@ -1,0 +1,154 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳木傳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳志柔",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃恆應",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "二水鄉",
+            "cunli": "過圳村",
+            "house_no": "848",
+            "candidates": {
+                "1": 230,
+                "2": 27,
+                "3": 36,
+                "4": 35,
+                "5": 36,
+                "6": 21,
+                "7": 27
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 576
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "五伯村",
+            "house_no": "849",
+            "candidates": {
+                "1": 41,
+                "2": 29,
+                "3": 121,
+                "4": 47,
+                "5": 26,
+                "6": 43,
+                "7": 138
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 611
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "文化村",
+            "house_no": "850",
+            "candidates": {
+                "1": 69,
+                "2": 75,
+                "3": 82,
+                "4": 150,
+                "5": 65,
+                "6": 115,
+                "7": 85
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "光化村",
+            "house_no": "851",
+            "candidates": {
+                "1": 55,
+                "2": 80,
+                "3": 52,
+                "4": 192,
+                "5": 68,
+                "6": 46,
+                "7": 111
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 863
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "聖化村",
+            "house_no": "852",
+            "candidates": {
+                "1": 18,
+                "2": 60,
+                "3": 19,
+                "4": 66,
+                "5": 69,
+                "6": 31,
+                "7": 46
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 411
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "二水村",
+            "house_no": "853",
+            "candidates": {
+                "1": 57,
+                "2": 189,
+                "3": 104,
+                "4": 68,
+                "5": 72,
+                "6": 26,
+                "7": 55
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 759
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "惠民村",
+            "house_no": "854",
+            "candidates": {
+                "1": 30,
+                "2": 48,
+                "3": 38,
+                "4": 74,
+                "5": 44,
+                "6": 302,
+                "7": 22
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "二水鄉",
+            "cunli": "裕民村",
+            "house_no": "855",
+            "candidates": {
+                "1": 83,
+                "2": 104,
+                "3": 61,
+                "4": 113,
+                "5": 125,
+                "6": 60,
+                "7": 56
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 970
+        }
+    ]
+}

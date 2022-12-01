@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曹中萍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "新興里",
+            "house_no": "1190",
+            "candidates": {
+                "1": 396
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 664
+        },
+        {
+            "area": "北區",
+            "cunli": "新興里",
+            "house_no": "1191",
+            "candidates": {
+                "1": 345
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 699
+        }
+    ]
+}

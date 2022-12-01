@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳成功",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "吉興里",
+            "house_no": "1470",
+            "candidates": {
+                "1": 709
+            },
+            "count_wrong": 71,
+            "count_unused": 1,
+            "count_total": 1294
+        },
+        {
+            "area": "中和區",
+            "cunli": "吉興里",
+            "house_no": "1471",
+            "candidates": {
+                "1": 601
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1202
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聰智",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉文中",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "玉成里",
+            "house_no": "564",
+            "candidates": {
+                "1": 596,
+                "2": 268
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1321
+        },
+        {
+            "area": "南港區",
+            "cunli": "玉成里",
+            "house_no": "565",
+            "candidates": {
+                "1": 578,
+                "2": 249
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "南港區",
+            "cunli": "玉成里",
+            "house_no": "566",
+            "candidates": {
+                "1": 652,
+                "2": 201
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1278
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇鴻璋",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫麗明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "淡水區",
+            "cunli": "水碓里",
+            "house_no": "85",
+            "candidates": {
+                "1": 296,
+                "2": 405
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1184
+        },
+        {
+            "area": "淡水區",
+            "cunli": "水碓里",
+            "house_no": "86",
+            "candidates": {
+                "1": 234,
+                "2": 544
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "淡水區",
+            "cunli": "水碓里",
+            "house_no": "87",
+            "candidates": {
+                "1": 299,
+                "2": 377
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "淡水區",
+            "cunli": "水碓里",
+            "house_no": "88",
+            "candidates": {
+                "1": 287,
+                "2": 370
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1210
+        }
+    ]
+}

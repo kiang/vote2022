@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾清在",
+            "party": "無"
+        },
+        "2": {
+            "name": "高昭南",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "嘉峰里",
+            "house_no": "340",
+            "candidates": {
+                "1": 431,
+                "2": 529
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1386
+        },
+        {
+            "area": "岡山區",
+            "cunli": "嘉峰里",
+            "house_no": "341",
+            "candidates": {
+                "1": 64,
+                "2": 126
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 280
+        }
+    ]
+}

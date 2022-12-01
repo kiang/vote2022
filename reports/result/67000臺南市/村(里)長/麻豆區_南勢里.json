@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳益隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳彥龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳天誠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "南勢里",
+            "house_no": "429",
+            "candidates": {
+                "1": 98,
+                "2": 75,
+                "3": 236
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 680
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "南勢里",
+            "house_no": "430",
+            "candidates": {
+                "1": 154,
+                "2": 107,
+                "3": 179
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "南勢里",
+            "house_no": "431",
+            "candidates": {
+                "1": 93,
+                "2": 149,
+                "3": 221
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 834
+        }
+    ]
+}

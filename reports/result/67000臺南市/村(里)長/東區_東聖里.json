@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃英慈",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡瑋琦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東聖里",
+            "house_no": "1344",
+            "candidates": {
+                "1": 426,
+                "2": 164
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "東區",
+            "cunli": "東聖里",
+            "house_no": "1345",
+            "candidates": {
+                "1": 403,
+                "2": 192
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

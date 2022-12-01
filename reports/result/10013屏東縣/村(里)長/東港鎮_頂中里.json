@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉許金厘",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "李國賓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "頂中里",
+            "house_no": "186",
+            "candidates": {
+                "1": 247,
+                "2": 217
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "頂中里",
+            "house_no": "187",
+            "candidates": {
+                "1": 201,
+                "2": 294
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 723
+        }
+    ]
+}

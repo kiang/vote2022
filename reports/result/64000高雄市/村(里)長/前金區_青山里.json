@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高豐盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "江武吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前金區",
+            "cunli": "青山里",
+            "house_no": "1216",
+            "candidates": {
+                "1": 150,
+                "2": 325
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 872
+        },
+        {
+            "area": "前金區",
+            "cunli": "青山里",
+            "house_no": "1217",
+            "candidates": {
+                "1": 191,
+                "2": 269
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 880
+        }
+    ]
+}

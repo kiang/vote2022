@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王麗美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "光復里",
+            "house_no": "1181",
+            "candidates": {
+                "1": 444
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "中正區",
+            "cunli": "光復里",
+            "house_no": "1182",
+            "candidates": {
+                "1": 544
+            },
+            "count_wrong": 124,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "中正區",
+            "cunli": "光復里",
+            "house_no": "1183",
+            "candidates": {
+                "1": 572
+            },
+            "count_wrong": 118,
+            "count_unused": 1,
+            "count_total": 1102
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅文甫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "泉源里",
+            "house_no": "1375",
+            "candidates": {
+                "1": 551
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "東區",
+            "cunli": "泉源里",
+            "house_no": "1376",
+            "candidates": {
+                "1": 548
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柳星辰",
+            "party": "無"
+        },
+        "2": {
+            "name": "高旭",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳明龍",
+            "party": "無"
+        },
+        "4": {
+            "name": "田逸農",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "巫化‧巴阿立佑司",
+            "party": "無"
+        },
+        "6": {
+            "name": "林志龍",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "潘韋愷",
+            "party": "無"
+        },
+        "8": {
+            "name": "潘正顥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐田里",
+            "house_no": "80",
+            "candidates": {
+                "1": 212,
+                "2": 295
+            },
+            "count_wrong": 45,
+            "count_unused": 1,
+            "count_total": 916
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐田里",
+            "house_no": "81",
+            "candidates": {
+                "1": 205,
+                "2": 393
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "臺東市",
+            "cunli": "新園里",
+            "house_no": "82",
+            "candidates": {
+                "1": 128,
+                "2": 99
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 394
+        },
+        {
+            "area": "臺東市",
+            "cunli": "新園里",
+            "house_no": "83",
+            "candidates": {
+                "1": 102,
+                "2": 192
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 507
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建和里",
+            "house_no": "84",
+            "candidates": {
+                "1": 36,
+                "2": 43
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 175
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建和里",
+            "house_no": "85",
+            "candidates": {
+                "1": 97,
+                "2": 173
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 501
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建興里",
+            "house_no": "86",
+            "candidates": {
+                "1": 403,
+                "2": 269
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "臺東市",
+            "cunli": "知本里",
+            "house_no": "87",
+            "candidates": {
+                "1": 133,
+                "2": 128
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 445
+        },
+        {
+            "area": "臺東市",
+            "cunli": "知本里",
+            "house_no": "88",
+            "candidates": {
+                "1": 111,
+                "2": 87
+            },
+            "count_wrong": 2,
+            "count_unused": 7,
+            "count_total": 350
+        },
+        {
+            "area": "臺東市",
+            "cunli": "知本里",
+            "house_no": "89",
+            "candidates": {
+                "1": 205,
+                "2": 160
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 601
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建農里",
+            "house_no": "90",
+            "candidates": {
+                "1": 142,
+                "2": 206
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 747
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建農里",
+            "house_no": "91",
+            "candidates": {
+                "1": 140,
+                "2": 142
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 545
+        }
+    ]
+}

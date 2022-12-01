@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慶樂",
+            "party": "無"
+        },
+        "2": {
+            "name": "張麗霞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東石鄉",
+            "cunli": "頂揖村",
+            "house_no": "338",
+            "candidates": {
+                "1": 50,
+                "2": 70
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 156
+        },
+        {
+            "area": "東石鄉",
+            "cunli": "頂揖村",
+            "house_no": "339",
+            "candidates": {
+                "1": 95,
+                "2": 112
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 226
+        }
+    ]
+}

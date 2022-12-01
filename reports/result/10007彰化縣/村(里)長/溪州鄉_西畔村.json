@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐旭安",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明遠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "西畔村",
+            "house_no": "957",
+            "candidates": {
+                "1": 229,
+                "2": 469
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1020
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "西畔村",
+            "house_no": "958",
+            "candidates": {
+                "1": 323,
+                "2": 224
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 880
+        }
+    ]
+}

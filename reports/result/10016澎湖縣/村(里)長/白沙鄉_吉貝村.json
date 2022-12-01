@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳合午",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝永乾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白沙鄉",
+            "cunli": "吉貝村",
+            "house_no": "89",
+            "candidates": {
+                "1": 242,
+                "2": 200,
+                "3": 247
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1383
+        }
+    ]
+}

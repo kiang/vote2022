@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明和",
+            "party": "無"
+        },
+        "2": {
+            "name": "周文華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "中山村",
+            "house_no": "303",
+            "candidates": {
+                "1": 186,
+                "2": 423
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "中山村",
+            "house_no": "304",
+            "candidates": {
+                "1": 257,
+                "2": 506
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1104
+        }
+    ]
+}

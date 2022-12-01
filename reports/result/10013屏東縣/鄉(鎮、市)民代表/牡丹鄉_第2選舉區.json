@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李德福",
+            "party": "無"
+        },
+        "2": {
+            "name": "許金吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾明珠",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡天成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "牡丹鄉",
+            "cunli": "高士村",
+            "house_no": "710",
+            "candidates": {
+                "1": 301,
+                "2": 154,
+                "3": 17,
+                "4": 5
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 572
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "四林村",
+            "house_no": "711",
+            "candidates": {
+                "1": 10,
+                "2": 17,
+                "3": 269,
+                "4": 56
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 520
+        }
+    ]
+}

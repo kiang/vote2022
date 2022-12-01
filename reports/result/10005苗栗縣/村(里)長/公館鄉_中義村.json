@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張志偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "湛富坤",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝美蓉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "中義村",
+            "house_no": "77",
+            "candidates": {
+                "1": 110,
+                "2": 210,
+                "3": 409
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "中義村",
+            "house_no": "78",
+            "candidates": {
+                "1": 314,
+                "2": 152,
+                "3": 223
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1024
+        }
+    ]
+}

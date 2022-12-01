@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許秀蓉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "忠平里",
+            "house_no": "1104",
+            "candidates": {
+                "1": 720
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "北屯區",
+            "cunli": "忠平里",
+            "house_no": "1105",
+            "candidates": {
+                "1": 743
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "北屯區",
+            "cunli": "忠平里",
+            "house_no": "1106",
+            "candidates": {
+                "1": 581
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1037
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "仁和里",
+            "house_no": "1415",
+            "candidates": {
+                "1": 557
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "中和區",
+            "cunli": "仁和里",
+            "house_no": "1416",
+            "candidates": {
+                "1": 505
+            },
+            "count_wrong": 49,
+            "count_unused": 1,
+            "count_total": 935
+        },
+        {
+            "area": "中和區",
+            "cunli": "仁和里",
+            "house_no": "1417",
+            "candidates": {
+                "1": 665
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1201
+        }
+    ]
+}

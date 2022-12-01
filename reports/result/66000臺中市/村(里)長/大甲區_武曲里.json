@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王瑞發",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇月鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "武曲里",
+            "house_no": "25",
+            "candidates": {
+                "1": 175,
+                "2": 415
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "大甲區",
+            "cunli": "武曲里",
+            "house_no": "26",
+            "candidates": {
+                "1": 141,
+                "2": 365
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 792
+        }
+    ]
+}

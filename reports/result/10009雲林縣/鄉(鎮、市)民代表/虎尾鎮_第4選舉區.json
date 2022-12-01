@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王秉睿",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉建國",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳樹泉",
+            "party": "無"
+        },
+        "4": {
+            "name": "丁榮富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "東屯里",
+            "house_no": "168",
+            "candidates": {
+                "1": 324,
+                "2": 28,
+                "3": 225,
+                "4": 215
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "西屯里",
+            "house_no": "169",
+            "candidates": {
+                "1": 495,
+                "2": 34,
+                "3": 217,
+                "4": 219
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1409
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "芳草里",
+            "house_no": "170",
+            "candidates": {
+                "1": 270,
+                "2": 24,
+                "3": 133,
+                "4": 114
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "墾地里",
+            "house_no": "171",
+            "candidates": {
+                "1": 172,
+                "2": 40,
+                "3": 186,
+                "4": 156
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "墾地里",
+            "house_no": "172",
+            "candidates": {
+                "1": 222,
+                "2": 34,
+                "3": 152,
+                "4": 68
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "北溪里",
+            "house_no": "173",
+            "candidates": {
+                "1": 261,
+                "2": 20,
+                "3": 86,
+                "4": 127
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "三合里",
+            "house_no": "174",
+            "candidates": {
+                "1": 238,
+                "2": 21,
+                "3": 277,
+                "4": 296
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1290
+        }
+    ]
+}

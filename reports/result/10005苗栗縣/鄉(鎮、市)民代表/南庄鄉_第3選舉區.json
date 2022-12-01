@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "風志雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴賢志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南庄鄉",
+            "cunli": "南富村",
+            "house_no": "430",
+            "candidates": {
+                "1": 144,
+                "2": 297,
+                "3": 197,
+                "4": 86
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "員林村",
+            "house_no": "431",
+            "candidates": {
+                "1": 210,
+                "2": 140,
+                "3": 102,
+                "4": 218
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 932
+        }
+    ]
+}

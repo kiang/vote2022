@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游萬吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳韋帆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水里鄉",
+            "cunli": "永豐村",
+            "house_no": "438",
+            "candidates": {
+                "1": 82,
+                "2": 432
+            },
+            "count_wrong": 33,
+            "count_unused": 1,
+            "count_total": 726
+        },
+        {
+            "area": "水里鄉",
+            "cunli": "永豐村",
+            "house_no": "439",
+            "candidates": {
+                "1": 60,
+                "2": 337
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 549
+        }
+    ]
+}

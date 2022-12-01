@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張雅芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "光隆里",
+            "house_no": "1613",
+            "candidates": {
+                "1": 709
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1437
+        },
+        {
+            "area": "太平區",
+            "cunli": "光隆里",
+            "house_no": "1614",
+            "candidates": {
+                "1": 680
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1455
+        }
+    ]
+}

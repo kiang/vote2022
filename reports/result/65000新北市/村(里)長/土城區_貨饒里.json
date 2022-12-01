@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江宗信",
+            "party": "無"
+        },
+        "2": {
+            "name": "周根本",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭麗雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "貨饒里",
+            "house_no": "1973",
+            "candidates": {
+                "1": 198,
+                "2": 364,
+                "3": 151
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "土城區",
+            "cunli": "貨饒里",
+            "house_no": "1974",
+            "candidates": {
+                "1": 318,
+                "2": 415,
+                "3": 199
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1615
+        },
+        {
+            "area": "土城區",
+            "cunli": "貨饒里",
+            "house_no": "1975",
+            "candidates": {
+                "1": 171,
+                "2": 291,
+                "3": 135
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1040
+        }
+    ]
+}

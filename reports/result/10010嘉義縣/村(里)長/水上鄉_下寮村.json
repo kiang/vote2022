@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳忠海",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳順增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "下寮村",
+            "house_no": "70",
+            "candidates": {
+                "1": 147,
+                "2": 181
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 624
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "下寮村",
+            "house_no": "71",
+            "candidates": {
+                "1": 297,
+                "2": 412
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1165
+        }
+    ]
+}

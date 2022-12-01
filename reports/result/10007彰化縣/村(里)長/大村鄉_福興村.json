@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "汪耀庭",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱清標",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "福興村",
+            "house_no": "627",
+            "candidates": {
+                "1": 461,
+                "2": 237
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "福興村",
+            "house_no": "628",
+            "candidates": {
+                "1": 349,
+                "2": 355
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1106
+        }
+    ]
+}

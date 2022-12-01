@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱涵",
+            "party": "無"
+        },
+        "3": {
+            "name": "李延森",
+            "party": "無"
+        },
+        "4": {
+            "name": "戴振雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐盛里",
+            "house_no": "70",
+            "candidates": {
+                "1": 186,
+                "2": 220,
+                "3": 115,
+                "4": 77
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐盛里",
+            "house_no": "71",
+            "candidates": {
+                "1": 156,
+                "2": 301,
+                "3": 32,
+                "4": 188
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐盛里",
+            "house_no": "72",
+            "candidates": {
+                "1": 102,
+                "2": 349,
+                "3": 32,
+                "4": 107
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1031
+        }
+    ]
+}

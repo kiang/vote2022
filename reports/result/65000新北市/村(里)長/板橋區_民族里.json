@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉成和",
+            "party": "無"
+        },
+        "2": {
+            "name": "張進國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "民族里",
+            "house_no": "1237",
+            "candidates": {
+                "1": 313,
+                "2": 361
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "板橋區",
+            "cunli": "民族里",
+            "house_no": "1238",
+            "candidates": {
+                "1": 508,
+                "2": 392
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1401
+        },
+        {
+            "area": "板橋區",
+            "cunli": "民族里",
+            "house_no": "1239",
+            "candidates": {
+                "1": 400,
+                "2": 400
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

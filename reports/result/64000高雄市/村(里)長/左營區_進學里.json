@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康明義",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳建銘",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "曹順雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "進學里",
+            "house_no": "590",
+            "candidates": {
+                "1": 45,
+                "2": 111,
+                "3": 161
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1549
+        },
+        {
+            "area": "左營區",
+            "cunli": "進學里",
+            "house_no": "591",
+            "candidates": {
+                "1": 51,
+                "2": 218,
+                "3": 286
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 912
+        }
+    ]
+}

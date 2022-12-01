@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉宏信",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "茄萣區",
+            "cunli": "嘉賜里",
+            "house_no": "141",
+            "candidates": {
+                "1": 521
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "茄萣區",
+            "cunli": "嘉賜里",
+            "house_no": "142",
+            "candidates": {
+                "1": 573
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "茄萣區",
+            "cunli": "嘉賜里",
+            "house_no": "143",
+            "candidates": {
+                "1": 594
+            },
+            "count_wrong": 91,
+            "count_unused": 1,
+            "count_total": 1195
+        }
+    ]
+}

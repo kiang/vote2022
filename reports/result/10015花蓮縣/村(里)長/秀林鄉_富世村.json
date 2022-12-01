@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱金成",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "富世村",
+            "house_no": "120",
+            "candidates": {
+                "1": 318,
+                "2": 331
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 867
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "富世村",
+            "house_no": "121",
+            "candidates": {
+                "1": 325,
+                "2": 259
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 838
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "富世村",
+            "house_no": "122",
+            "candidates": {
+                "1": 52,
+                "2": 40
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 156
+        }
+    ]
+}

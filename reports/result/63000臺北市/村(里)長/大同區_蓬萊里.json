@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高炳倉",
+            "party": "無"
+        },
+        "2": {
+            "name": "何英輝",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "蓬萊里",
+            "house_no": "1095",
+            "candidates": {
+                "1": 301,
+                "2": 294
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 937
+        },
+        {
+            "area": "大同區",
+            "cunli": "蓬萊里",
+            "house_no": "1096",
+            "candidates": {
+                "1": 283,
+                "2": 316
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 870
+        },
+        {
+            "area": "大同區",
+            "cunli": "蓬萊里",
+            "house_no": "1097",
+            "candidates": {
+                "1": 321,
+                "2": 430
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "大同區",
+            "cunli": "蓬萊里",
+            "house_no": "1098",
+            "candidates": {
+                "1": 340,
+                "2": 293
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 978
+        }
+    ]
+}

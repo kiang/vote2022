@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林重光",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱志杰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "滿翠里",
+            "house_no": "1120",
+            "candidates": {
+                "1": 271,
+                "2": 189
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 790
+        },
+        {
+            "area": "板橋區",
+            "cunli": "滿翠里",
+            "house_no": "1121",
+            "candidates": {
+                "1": 300,
+                "2": 223
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "板橋區",
+            "cunli": "滿翠里",
+            "house_no": "1122",
+            "candidates": {
+                "1": 244,
+                "2": 334
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 966
+        }
+    ]
+}

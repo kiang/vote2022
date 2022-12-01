@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃秀滿",
+            "party": "無"
+        },
+        "2": {
+            "name": "歐文昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "廣仁里",
+            "house_no": "1018",
+            "candidates": {
+                "1": 396,
+                "2": 396
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣仁里",
+            "house_no": "1019",
+            "candidates": {
+                "1": 450,
+                "2": 355
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1457
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣仁里",
+            "house_no": "1020",
+            "candidates": {
+                "1": 358,
+                "2": 456
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1328
+        }
+    ]
+}

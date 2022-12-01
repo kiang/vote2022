@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳杰",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃俊源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "和順里",
+            "house_no": "1028",
+            "candidates": {
+                "1": 202,
+                "2": 402
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "北區",
+            "cunli": "和順里",
+            "house_no": "1029",
+            "candidates": {
+                "1": 179,
+                "2": 364
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "北區",
+            "cunli": "和順里",
+            "house_no": "1030",
+            "candidates": {
+                "1": 310,
+                "2": 408
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "北區",
+            "cunli": "和順里",
+            "house_no": "1031",
+            "candidates": {
+                "1": 301,
+                "2": 295
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1071
+        }
+    ]
+}

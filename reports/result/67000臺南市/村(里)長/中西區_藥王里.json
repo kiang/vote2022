@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯博仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱彌文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "藥王里",
+            "house_no": "1072",
+            "candidates": {
+                "1": 173,
+                "2": 250
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 711
+        },
+        {
+            "area": "中西區",
+            "cunli": "藥王里",
+            "house_no": "1073",
+            "candidates": {
+                "1": 225,
+                "2": 314
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 875
+        },
+        {
+            "area": "中西區",
+            "cunli": "藥王里",
+            "house_no": "1074",
+            "candidates": {
+                "1": 216,
+                "2": 257
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 732
+        },
+        {
+            "area": "中西區",
+            "cunli": "藥王里",
+            "house_no": "1075",
+            "candidates": {
+                "1": 261,
+                "2": 214
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 762
+        }
+    ]
+}

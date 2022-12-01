@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾興德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "華堂里",
+            "house_no": "1300",
+            "candidates": {
+                "1": 421
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 883
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "華堂里",
+            "house_no": "1301",
+            "candidates": {
+                "1": 404
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "華堂里",
+            "house_no": "1302",
+            "candidates": {
+                "1": 417
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 985
+        }
+    ]
+}

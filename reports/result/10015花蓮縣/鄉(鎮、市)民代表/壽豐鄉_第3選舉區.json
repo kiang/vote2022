@@ -1,0 +1,48 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓阿敏",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝東穎",
+            "party": "無"
+        },
+        "3": {
+            "name": "房美瑤",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "馬其山 Lasang Cilu",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "林晨延",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "鹽寮村",
+            "house_no": "224",
+            "candidates": {
+                "1": 173
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 286
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "水璉村",
+            "house_no": "225",
+            "candidates": {
+                "1": 126
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 282
+        }
+    ]
+}

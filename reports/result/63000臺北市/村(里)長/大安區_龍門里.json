@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃絹家",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "龍門里",
+            "house_no": "1524",
+            "candidates": {
+                "1": 612
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1097
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍門里",
+            "house_no": "1525",
+            "candidates": {
+                "1": 530
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍門里",
+            "house_no": "1526",
+            "candidates": {
+                "1": 655
+            },
+            "count_wrong": 120,
+            "count_unused": 2,
+            "count_total": 1105
+        }
+    ]
+}

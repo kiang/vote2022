@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭石勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "許清泉",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大社區",
+            "cunli": "保社里",
+            "house_no": "711",
+            "candidates": {
+                "1": 230,
+                "2": 354
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "大社區",
+            "cunli": "保社里",
+            "house_no": "712",
+            "candidates": {
+                "1": 244,
+                "2": 320
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "大社區",
+            "cunli": "保社里",
+            "house_no": "713",
+            "candidates": {
+                "1": 246,
+                "2": 329
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1069
+        }
+    ]
+}

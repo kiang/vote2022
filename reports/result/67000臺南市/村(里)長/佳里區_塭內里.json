@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃錦成",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃明輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "塭內里",
+            "house_no": "335",
+            "candidates": {
+                "1": 251,
+                "2": 338
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "佳里區",
+            "cunli": "塭內里",
+            "house_no": "336",
+            "candidates": {
+                "1": 204,
+                "2": 353
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "佳里區",
+            "cunli": "塭內里",
+            "house_no": "337",
+            "candidates": {
+                "1": 291,
+                "2": 176
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 747
+        }
+    ]
+}

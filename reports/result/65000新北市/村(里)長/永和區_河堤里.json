@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡冬冬",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳功明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "河堤里",
+            "house_no": "1746",
+            "candidates": {
+                "1": 297,
+                "2": 498
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1520
+        },
+        {
+            "area": "永和區",
+            "cunli": "河堤里",
+            "house_no": "1747",
+            "candidates": {
+                "1": 279,
+                "2": 432
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1322
+        }
+    ]
+}

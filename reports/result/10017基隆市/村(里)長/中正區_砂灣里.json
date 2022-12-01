@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡曉東",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "砂灣里",
+            "house_no": "27",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 146,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "中正區",
+            "cunli": "砂灣里",
+            "house_no": "28",
+            "candidates": {
+                "1": 349
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 800
+        }
+    ]
+}

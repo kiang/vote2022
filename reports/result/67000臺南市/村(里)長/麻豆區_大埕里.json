@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳焜儔",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳秋雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "大埕里",
+            "house_no": "424",
+            "candidates": {
+                "1": 303,
+                "2": 153
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 804
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "大埕里",
+            "house_no": "425",
+            "candidates": {
+                "1": 276,
+                "2": 205
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "大埕里",
+            "house_no": "426",
+            "candidates": {
+                "1": 376,
+                "2": 189
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1058
+        }
+    ]
+}

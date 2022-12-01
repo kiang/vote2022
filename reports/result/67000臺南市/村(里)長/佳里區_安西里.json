@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳雅慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國賓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "安西里",
+            "house_no": "305",
+            "candidates": {
+                "1": 263,
+                "2": 303
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "佳里區",
+            "cunli": "安西里",
+            "house_no": "306",
+            "candidates": {
+                "1": 300,
+                "2": 320
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "佳里區",
+            "cunli": "安西里",
+            "house_no": "307",
+            "candidates": {
+                "1": 317,
+                "2": 286
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "佳里區",
+            "cunli": "安西里",
+            "house_no": "308",
+            "candidates": {
+                "1": 358,
+                "2": 306
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "佳里區",
+            "cunli": "安西里",
+            "house_no": "309",
+            "candidates": {
+                "1": 337,
+                "2": 352
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1165
+        }
+    ]
+}

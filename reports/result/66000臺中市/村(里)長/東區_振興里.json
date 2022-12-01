@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉作文",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾秀珠",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "振興里",
+            "house_no": "1367",
+            "candidates": {
+                "1": 368,
+                "2": 269
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "東區",
+            "cunli": "振興里",
+            "house_no": "1368",
+            "candidates": {
+                "1": 360,
+                "2": 262
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "東區",
+            "cunli": "振興里",
+            "house_no": "1369",
+            "candidates": {
+                "1": 320,
+                "2": 202
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 839
+        }
+    ]
+}

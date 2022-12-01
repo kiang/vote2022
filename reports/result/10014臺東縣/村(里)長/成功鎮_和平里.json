@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳英蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋安妮",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳立智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "和平里",
+            "house_no": "95",
+            "candidates": {
+                "1": 153,
+                "2": 96,
+                "3": 161
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 690
+        }
+    ]
+}

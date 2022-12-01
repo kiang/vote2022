@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林明德",
+            "party": "無"
+        },
+        "2": {
+            "name": "許淑珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "盛漁里",
+            "house_no": "204",
+            "candidates": {
+                "1": 232,
+                "2": 385
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "盛漁里",
+            "house_no": "205",
+            "candidates": {
+                "1": 243,
+                "2": 408
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 977
+        }
+    ]
+}

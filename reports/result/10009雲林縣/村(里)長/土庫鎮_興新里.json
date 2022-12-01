@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳信志",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭新德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "興新里",
+            "house_no": "101",
+            "candidates": {
+                "1": 294,
+                "2": 118
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 591
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "興新里",
+            "house_no": "102",
+            "candidates": {
+                "1": 266,
+                "2": 216
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 745
+        }
+    ]
+}

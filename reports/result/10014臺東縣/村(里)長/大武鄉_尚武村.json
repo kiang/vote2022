@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明燦",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宗欽",
+            "party": "無"
+        },
+        "3": {
+            "name": "許壽來",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大武鄉",
+            "cunli": "尚武村",
+            "house_no": "200",
+            "candidates": {
+                "1": 312,
+                "2": 417,
+                "3": 84
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1292
+        }
+    ]
+}

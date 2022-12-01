@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林信利",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪啟修",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "文衡里",
+            "house_no": "1462",
+            "candidates": {
+                "1": 357,
+                "2": 297
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "文衡里",
+            "house_no": "1463",
+            "candidates": {
+                "1": 333,
+                "2": 400
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1322
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "文衡里",
+            "house_no": "1464",
+            "candidates": {
+                "1": 324,
+                "2": 394
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1322
+        }
+    ]
+}

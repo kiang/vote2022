@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊鴻文",
+            "party": "無"
+        },
+        "2": {
+            "name": "李卷元",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "社口村",
+            "house_no": "233",
+            "candidates": {
+                "1": 498,
+                "2": 272
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "社口村",
+            "house_no": "234",
+            "candidates": {
+                "1": 554,
+                "2": 246
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1189
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊春貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃比德",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾孝順",
+            "party": "無"
+        },
+        "4": {
+            "name": "田仲華",
+            "party": "無"
+        },
+        "5": {
+            "name": "徐健福",
+            "party": "無"
+        },
+        "6": {
+            "name": "曾有發",
+            "party": "無"
+        },
+        "7": {
+            "name": "曾水生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "嘉樂村",
+            "house_no": "443",
+            "candidates": {
+                "1": 179,
+                "2": 61,
+                "3": 110
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 451
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "嘉樂村",
+            "house_no": "444",
+            "candidates": {
+                "1": 164,
+                "2": 61,
+                "3": 42
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 341
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "新樂村",
+            "house_no": "447",
+            "candidates": {
+                "1": 223,
+                "2": 195,
+                "3": 98
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "新樂村",
+            "house_no": "448",
+            "candidates": {
+                "1": 110,
+                "2": 163,
+                "3": 77
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 454
+        }
+    ]
+}

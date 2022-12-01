@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡元鍟",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳麗卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "游盛政",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鶯歌區",
+            "cunli": "中湖里",
+            "house_no": "1913",
+            "candidates": {
+                "1": 226,
+                "2": 211,
+                "3": 351
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "中湖里",
+            "house_no": "1914",
+            "candidates": {
+                "1": 244,
+                "2": 121,
+                "3": 375
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "中湖里",
+            "house_no": "1915",
+            "candidates": {
+                "1": 194,
+                "2": 217,
+                "3": 300
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "中湖里",
+            "house_no": "1916",
+            "candidates": {
+                "1": 156,
+                "2": 197,
+                "3": 161
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1119
+        }
+    ]
+}

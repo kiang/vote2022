@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊克華",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "彭永珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "文明里",
+            "house_no": "2144",
+            "candidates": {
+                "1": 337,
+                "2": 422
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "新店區",
+            "cunli": "文明里",
+            "house_no": "2145",
+            "candidates": {
+                "1": 257,
+                "2": 316
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 885
+        }
+    ]
+}

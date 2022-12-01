@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉天福",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "劉志明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "塩行里",
+            "house_no": "867",
+            "candidates": {
+                "1": 450,
+                "2": 283
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "永康區",
+            "cunli": "塩行里",
+            "house_no": "868",
+            "candidates": {
+                "1": 286,
+                "2": 284
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1027
+        },
+        {
+            "area": "永康區",
+            "cunli": "塩行里",
+            "house_no": "869",
+            "candidates": {
+                "1": 448,
+                "2": 272
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "永康區",
+            "cunli": "塩行里",
+            "house_no": "870",
+            "candidates": {
+                "1": 333,
+                "2": 270
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1106
+        }
+    ]
+}

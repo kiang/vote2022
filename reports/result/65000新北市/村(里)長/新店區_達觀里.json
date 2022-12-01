@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "金威",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "達觀里",
+            "house_no": "2299",
+            "candidates": {
+                "1": 400
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "新店區",
+            "cunli": "達觀里",
+            "house_no": "2300",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "新店區",
+            "cunli": "達觀里",
+            "house_no": "2301",
+            "candidates": {
+                "1": 719
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1503
+        }
+    ]
+}

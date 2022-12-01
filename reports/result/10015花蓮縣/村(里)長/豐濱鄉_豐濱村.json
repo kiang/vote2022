@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐金德 Kacaw‧Fangh",
+            "party": "無"
+        },
+        "2": {
+            "name": "汪福盛",
+            "party": "無"
+        },
+        "3": {
+            "name": "秦豐春 Sera‧Nikar",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡賢山 Iyu‧Looh",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐濱鄉",
+            "cunli": "豐濱村",
+            "house_no": "260",
+            "candidates": {
+                "1": 91,
+                "2": 131,
+                "3": 51,
+                "4": 181
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 654
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "豐濱村",
+            "house_no": "261",
+            "candidates": {
+                "1": 30,
+                "2": 101,
+                "3": 77,
+                "4": 170
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 595
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "豐濱村",
+            "house_no": "262",
+            "candidates": {
+                "1": 30,
+                "2": 24,
+                "3": 54,
+                "4": 53
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 318
+        }
+    ]
+}

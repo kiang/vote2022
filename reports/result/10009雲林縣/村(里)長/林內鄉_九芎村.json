@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡勝才",
+            "party": "無"
+        },
+        "2": {
+            "name": "林俊州",
+            "party": "無"
+        },
+        "3": {
+            "name": "許彩琳",
+            "party": "無"
+        },
+        "4": {
+            "name": "林文田",
+            "party": "無"
+        },
+        "5": {
+            "name": "余銘勲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "九芎村",
+            "house_no": "443",
+            "candidates": {
+                "1": 284,
+                "2": 257,
+                "3": 36,
+                "4": 35,
+                "5": 304
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "九芎村",
+            "house_no": "444",
+            "candidates": {
+                "1": 195,
+                "2": 235,
+                "3": 51,
+                "4": 25,
+                "5": 319
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1226
+        }
+    ]
+}

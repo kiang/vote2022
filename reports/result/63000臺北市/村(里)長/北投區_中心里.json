@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹嘉文",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳力彰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "中心里",
+            "house_no": "115",
+            "candidates": {
+                "1": 213,
+                "2": 395
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "北投區",
+            "cunli": "中心里",
+            "house_no": "116",
+            "candidates": {
+                "1": 251,
+                "2": 449
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "北投區",
+            "cunli": "中心里",
+            "house_no": "117",
+            "candidates": {
+                "1": 242,
+                "2": 446
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "北投區",
+            "cunli": "中心里",
+            "house_no": "118",
+            "candidates": {
+                "1": 267,
+                "2": 364
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "北投區",
+            "cunli": "中心里",
+            "house_no": "119",
+            "candidates": {
+                "1": 224,
+                "2": 421
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1113
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李新進",
+            "party": "無"
+        },
+        "2": {
+            "name": "李勢利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "學甲區",
+            "cunli": "慈福里",
+            "house_no": "223",
+            "candidates": {
+                "1": 290,
+                "2": 110
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 588
+        },
+        {
+            "area": "學甲區",
+            "cunli": "慈福里",
+            "house_no": "224",
+            "candidates": {
+                "1": 366,
+                "2": 177
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "學甲區",
+            "cunli": "慈福里",
+            "house_no": "225",
+            "candidates": {
+                "1": 155,
+                "2": 88
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 407
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅金浩",
+            "party": "無"
+        },
+        "2": {
+            "name": "李雨庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "墩北里",
+            "house_no": "432",
+            "candidates": {
+                "1": 495,
+                "2": 324
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "后里區",
+            "cunli": "墩北里",
+            "house_no": "433",
+            "candidates": {
+                "1": 341,
+                "2": 330
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "后里區",
+            "cunli": "墩北里",
+            "house_no": "434",
+            "candidates": {
+                "1": 352,
+                "2": 330
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1099
+        }
+    ]
+}

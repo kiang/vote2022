@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "涂光宇",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "廈安里",
+            "house_no": "1151",
+            "candidates": {
+                "1": 658
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "中正區",
+            "cunli": "廈安里",
+            "house_no": "1152",
+            "candidates": {
+                "1": 630
+            },
+            "count_wrong": 104,
+            "count_unused": 1,
+            "count_total": 1099
+        },
+        {
+            "area": "中正區",
+            "cunli": "廈安里",
+            "house_no": "1153",
+            "candidates": {
+                "1": 613
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 1071
+        }
+    ]
+}

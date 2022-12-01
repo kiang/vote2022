@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂文章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "興仁里",
+            "house_no": "69",
+            "candidates": {
+                "1": 488
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "東區",
+            "cunli": "興仁里",
+            "house_no": "70",
+            "candidates": {
+                "1": 498
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "東區",
+            "cunli": "興仁里",
+            "house_no": "71",
+            "candidates": {
+                "1": 421
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1110
+        }
+    ]
+}

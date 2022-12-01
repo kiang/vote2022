@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳曾燕",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭秀英",
+            "party": "無"
+        },
+        "3": {
+            "name": "林志堅",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "智仁里",
+            "house_no": "87",
+            "candidates": {
+                "1": 118,
+                "2": 230,
+                "3": 308
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "智仁里",
+            "house_no": "88",
+            "candidates": {
+                "1": 76,
+                "2": 188,
+                "3": 268
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾靖凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "林天文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "東和里",
+            "house_no": "661",
+            "candidates": {
+                "1": 479,
+                "2": 351
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "安南區",
+            "cunli": "東和里",
+            "house_no": "662",
+            "candidates": {
+                "1": 503,
+                "2": 229
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1355
+        }
+    ]
+}

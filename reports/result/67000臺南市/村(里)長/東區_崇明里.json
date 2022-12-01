@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李仁慈",
+            "party": "無"
+        },
+        "2": {
+            "name": "張家詒",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "崇明里",
+            "house_no": "1385",
+            "candidates": {
+                "1": 393,
+                "2": 322
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "東區",
+            "cunli": "崇明里",
+            "house_no": "1386",
+            "candidates": {
+                "1": 323,
+                "2": 295
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "東區",
+            "cunli": "崇明里",
+            "house_no": "1387",
+            "candidates": {
+                "1": 324,
+                "2": 401
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1337
+        }
+    ]
+}

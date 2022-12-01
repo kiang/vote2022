@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧振良",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "蔡明松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "五甲里",
+            "house_no": "1512",
+            "candidates": {
+                "1": 337,
+                "2": 361
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "關廟區",
+            "cunli": "五甲里",
+            "house_no": "1513",
+            "candidates": {
+                "1": 341,
+                "2": 344
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "關廟區",
+            "cunli": "五甲里",
+            "house_no": "1514",
+            "candidates": {
+                "1": 335,
+                "2": 248
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 969
+        }
+    ]
+}

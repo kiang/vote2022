@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王廷祐",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鍾翠民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "海光里",
+            "house_no": "1537",
+            "candidates": {
+                "1": 335,
+                "2": 387
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "海光里",
+            "house_no": "1538",
+            "candidates": {
+                "1": 345,
+                "2": 459
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1410
+        }
+    ]
+}

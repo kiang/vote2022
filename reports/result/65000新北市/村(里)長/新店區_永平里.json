@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝世欣",
+            "party": "無"
+        },
+        "2": {
+            "name": "林木山",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "永平里",
+            "house_no": "2278",
+            "candidates": {
+                "1": 291,
+                "2": 397
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1259
+        },
+        {
+            "area": "新店區",
+            "cunli": "永平里",
+            "house_no": "2279",
+            "candidates": {
+                "1": 227,
+                "2": 455
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "新店區",
+            "cunli": "永平里",
+            "house_no": "2280",
+            "candidates": {
+                "1": 278,
+                "2": 413
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "新店區",
+            "cunli": "永平里",
+            "house_no": "2281",
+            "candidates": {
+                "1": 305,
+                "2": 296
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1070
+        }
+    ]
+}

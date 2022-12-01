@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "麥克士",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鼓山區",
+            "cunli": "鼓峰里",
+            "house_no": "862",
+            "candidates": {
+                "1": 404
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "鼓山區",
+            "cunli": "鼓峰里",
+            "house_no": "863",
+            "candidates": {
+                "1": 450
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 907
+        }
+    ]
+}

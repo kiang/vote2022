@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慶輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林秀娥",
+            "party": "無"
+        },
+        "3": {
+            "name": "温泳建",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "內島里",
+            "house_no": "185",
+            "candidates": {
+                "1": 17,
+                "2": 326,
+                "3": 173
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 693
+        }
+    ]
+}

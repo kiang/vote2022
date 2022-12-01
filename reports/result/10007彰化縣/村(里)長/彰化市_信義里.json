@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊錫欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳松吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊承翰",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳祝汝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "信義里",
+            "house_no": "117",
+            "candidates": {
+                "1": 47,
+                "2": 29,
+                "3": 138,
+                "4": 252
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 692
+        }
+    ]
+}

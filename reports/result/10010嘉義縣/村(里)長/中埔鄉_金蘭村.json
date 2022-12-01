@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳盈良",
+            "party": "無"
+        },
+        "2": {
+            "name": "張石彈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "金蘭村",
+            "house_no": "432",
+            "candidates": {
+                "1": 232,
+                "2": 230
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 737
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "金蘭村",
+            "house_no": "433",
+            "candidates": {
+                "1": 200,
+                "2": 204
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 690
+        }
+    ]
+}

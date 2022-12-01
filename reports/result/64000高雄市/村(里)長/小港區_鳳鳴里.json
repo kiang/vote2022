@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李振豊",
+            "party": "無"
+        },
+        "2": {
+            "name": "李月雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "鳳鳴里",
+            "house_no": "1875",
+            "candidates": {
+                "1": 156,
+                "2": 582
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "小港區",
+            "cunli": "鳳鳴里",
+            "house_no": "1876",
+            "candidates": {
+                "1": 193,
+                "2": 732
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1661
+        }
+    ]
+}

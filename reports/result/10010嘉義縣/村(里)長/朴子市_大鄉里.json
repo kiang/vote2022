@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯志成",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳惠波",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃慧娟",
+            "party": "無"
+        },
+        "4": {
+            "name": "涂國和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "大鄉里",
+            "house_no": "283",
+            "candidates": {
+                "1": 295,
+                "2": 38,
+                "3": 132,
+                "4": 409
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1331
+        },
+        {
+            "area": "朴子市",
+            "cunli": "大鄉里",
+            "house_no": "284",
+            "candidates": {
+                "1": 131,
+                "2": 29,
+                "3": 131,
+                "4": 244
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "朴子市",
+            "cunli": "大鄉里",
+            "house_no": "285",
+            "candidates": {
+                "1": 199,
+                "2": 75,
+                "3": 78,
+                "4": 237
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

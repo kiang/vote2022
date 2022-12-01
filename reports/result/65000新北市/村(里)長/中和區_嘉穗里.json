@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳榮鐘",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳有參",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "嘉穗里",
+            "house_no": "1510",
+            "candidates": {
+                "1": 392,
+                "2": 571
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1450
+        },
+        {
+            "area": "中和區",
+            "cunli": "嘉穗里",
+            "house_no": "1511",
+            "candidates": {
+                "1": 192,
+                "2": 413
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 992
+        }
+    ]
+}

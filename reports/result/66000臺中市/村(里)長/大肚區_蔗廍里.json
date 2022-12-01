@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "童麗香",
+            "party": "無"
+        },
+        "2": {
+            "name": "林進朝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "蔗廍里",
+            "house_no": "353",
+            "candidates": {
+                "1": 456,
+                "2": 387
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1421
+        },
+        {
+            "area": "大肚區",
+            "cunli": "蔗廍里",
+            "house_no": "354",
+            "candidates": {
+                "1": 413,
+                "2": 273
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1115
+        },
+        {
+            "area": "大肚區",
+            "cunli": "蔗廍里",
+            "house_no": "355",
+            "candidates": {
+                "1": 336,
+                "2": 343
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "大肚區",
+            "cunli": "蔗廍里",
+            "house_no": "356",
+            "candidates": {
+                "1": 333,
+                "2": 358
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1186
+        }
+    ]
+}

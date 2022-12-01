@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張鴻銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊志評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "五華里",
+            "house_no": "980",
+            "candidates": {
+                "1": 365,
+                "2": 335
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1276
+        },
+        {
+            "area": "三重區",
+            "cunli": "五華里",
+            "house_no": "981",
+            "candidates": {
+                "1": 420,
+                "2": 466
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1579
+        },
+        {
+            "area": "三重區",
+            "cunli": "五華里",
+            "house_no": "982",
+            "candidates": {
+                "1": 387,
+                "2": 484
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1477
+        }
+    ]
+}

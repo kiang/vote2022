@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳春梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐崧茗",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "369",
+            "candidates": {
+                "1": 228,
+                "2": 305
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "370",
+            "candidates": {
+                "1": 198,
+                "2": 362
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "371",
+            "candidates": {
+                "1": 265,
+                "2": 265
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1150
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "372",
+            "candidates": {
+                "1": 196,
+                "2": 387
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "松柏村",
+            "house_no": "373",
+            "candidates": {
+                "1": 243,
+                "2": 341
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1394
+        }
+    ]
+}

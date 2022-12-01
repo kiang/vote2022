@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江慶尚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "東埔里",
+            "house_no": "158",
+            "candidates": {
+                "1": 698
+            },
+            "count_wrong": 23,
+            "count_unused": 140,
+            "count_total": 1593
+        },
+        {
+            "area": "桃園區",
+            "cunli": "東埔里",
+            "house_no": "159",
+            "candidates": {
+                "1": 729
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 1428
+        },
+        {
+            "area": "桃園區",
+            "cunli": "東埔里",
+            "house_no": "160",
+            "candidates": {
+                "1": 712
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1359
+        }
+    ]
+}

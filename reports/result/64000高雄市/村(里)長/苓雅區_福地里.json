@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪麗卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡添財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "福地里",
+            "house_no": "1381",
+            "candidates": {
+                "1": 261,
+                "2": 448
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "福地里",
+            "house_no": "1382",
+            "candidates": {
+                "1": 303,
+                "2": 346
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1199
+        }
+    ]
+}

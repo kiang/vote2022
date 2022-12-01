@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何炳蓬",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡美蓮",
+            "party": "無"
+        },
+        "3": {
+            "name": "李淑珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "民享里",
+            "house_no": "1504",
+            "candidates": {
+                "1": 39,
+                "2": 496,
+                "3": 170
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "中和區",
+            "cunli": "民享里",
+            "house_no": "1505",
+            "candidates": {
+                "1": 43,
+                "2": 533,
+                "3": 180
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1088
+        }
+    ]
+}

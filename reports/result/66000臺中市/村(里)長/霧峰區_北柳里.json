@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳宗旺",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳儒親",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "北柳里",
+            "house_no": "1765",
+            "candidates": {
+                "1": 373,
+                "2": 412
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "北柳里",
+            "house_no": "1766",
+            "candidates": {
+                "1": 358,
+                "2": 366
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1233
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "北柳里",
+            "house_no": "1767",
+            "candidates": {
+                "1": 386,
+                "2": 463
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

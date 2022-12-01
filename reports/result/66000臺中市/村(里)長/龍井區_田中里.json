@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "田中里",
+            "house_no": "277",
+            "candidates": {
+                "1": 717
+            },
+            "count_wrong": 125,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "龍井區",
+            "cunli": "田中里",
+            "house_no": "278",
+            "candidates": {
+                "1": 599
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 1163
+        },
+        {
+            "area": "龍井區",
+            "cunli": "田中里",
+            "house_no": "279",
+            "candidates": {
+                "1": 521
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1050
+        }
+    ]
+}

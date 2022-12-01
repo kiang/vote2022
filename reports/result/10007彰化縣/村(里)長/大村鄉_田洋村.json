@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝汶鈺",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭建嘉",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉楨權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "田洋村",
+            "house_no": "605",
+            "candidates": {
+                "1": 401,
+                "2": 95,
+                "3": 329
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1219
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪修富",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪献武",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "後湖里",
+            "house_no": "85",
+            "candidates": {
+                "1": 447,
+                "2": 226
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "東區",
+            "cunli": "後湖里",
+            "house_no": "86",
+            "candidates": {
+                "1": 451,
+                "2": 295
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "東區",
+            "cunli": "後湖里",
+            "house_no": "87",
+            "candidates": {
+                "1": 300,
+                "2": 237
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1054
+        }
+    ]
+}

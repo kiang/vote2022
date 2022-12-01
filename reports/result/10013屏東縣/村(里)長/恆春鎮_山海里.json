@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李承芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤俊銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "山海里",
+            "house_no": "239",
+            "candidates": {
+                "1": 331,
+                "2": 173
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 731
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山海里",
+            "house_no": "240",
+            "candidates": {
+                "1": 328,
+                "2": 182
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 775
+        }
+    ]
+}

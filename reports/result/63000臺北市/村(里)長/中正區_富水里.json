@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳麗真",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "富水里",
+            "house_no": "1219",
+            "candidates": {
+                "1": 500
+            },
+            "count_wrong": 151,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "中正區",
+            "cunli": "富水里",
+            "house_no": "1220",
+            "candidates": {
+                "1": 466
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 955
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇秀敏",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳美雀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "德高里",
+            "house_no": "1319",
+            "candidates": {
+                "1": 420,
+                "2": 201
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "東區",
+            "cunli": "德高里",
+            "house_no": "1320",
+            "candidates": {
+                "1": 521,
+                "2": 300
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "東區",
+            "cunli": "德高里",
+            "house_no": "1321",
+            "candidates": {
+                "1": 290,
+                "2": 175
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 762
+        }
+    ]
+}

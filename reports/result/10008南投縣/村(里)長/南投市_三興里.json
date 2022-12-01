@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳中和",
+            "party": "無"
+        },
+        "2": {
+            "name": "張家祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴元周",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "三興里",
+            "house_no": "9",
+            "candidates": {
+                "1": 182,
+                "2": 159,
+                "3": 258
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "南投市",
+            "cunli": "三興里",
+            "house_no": "10",
+            "candidates": {
+                "1": 236,
+                "2": 163,
+                "3": 341
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "南投市",
+            "cunli": "三興里",
+            "house_no": "11",
+            "candidates": {
+                "1": 260,
+                "2": 142,
+                "3": 336
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "南投市",
+            "cunli": "三興里",
+            "house_no": "12",
+            "candidates": {
+                "1": 213,
+                "2": 118,
+                "3": 228
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "南投市",
+            "cunli": "三興里",
+            "house_no": "13",
+            "candidates": {
+                "1": 149,
+                "2": 137,
+                "3": 316
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 991
+        }
+    ]
+}

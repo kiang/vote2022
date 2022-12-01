@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡森然",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張紅木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "萬祥里",
+            "house_no": "1609",
+            "candidates": {
+                "1": 304,
+                "2": 458
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬祥里",
+            "house_no": "1610",
+            "candidates": {
+                "1": 312,
+                "2": 511
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬祥里",
+            "house_no": "1611",
+            "candidates": {
+                "1": 338,
+                "2": 470
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1191
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林松賓",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾瓊梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "中山里",
+            "house_no": "909",
+            "candidates": {
+                "1": 253,
+                "2": 381
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "中山區",
+            "cunli": "中山里",
+            "house_no": "910",
+            "candidates": {
+                "1": 211,
+                "2": 477
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "中山區",
+            "cunli": "中山里",
+            "house_no": "911",
+            "candidates": {
+                "1": 154,
+                "2": 451
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "中山區",
+            "cunli": "中山里",
+            "house_no": "912",
+            "candidates": {
+                "1": 187,
+                "2": 419
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1112
+        },
+        {
+            "area": "中山區",
+            "cunli": "中山里",
+            "house_no": "913",
+            "candidates": {
+                "1": 312,
+                "2": 481
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1255
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張坤明",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝忠義",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳發盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "復興里",
+            "house_no": "249",
+            "candidates": {
+                "1": 34,
+                "2": 247,
+                "3": 248
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 659
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧建平",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈永林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "香洋里",
+            "house_no": "1505",
+            "candidates": {
+                "1": 300,
+                "2": 265
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "關廟區",
+            "cunli": "香洋里",
+            "house_no": "1506",
+            "candidates": {
+                "1": 315,
+                "2": 296
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "關廟區",
+            "cunli": "香洋里",
+            "house_no": "1507",
+            "candidates": {
+                "1": 426,
+                "2": 337
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1216
+        }
+    ]
+}

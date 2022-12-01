@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李進宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃國發",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳培君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "中汕里",
+            "house_no": "2024",
+            "candidates": {
+                "1": 292,
+                "2": 305,
+                "3": 178
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "林園區",
+            "cunli": "中汕里",
+            "house_no": "2025",
+            "candidates": {
+                "1": 256,
+                "2": 331,
+                "3": 140
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1101
+        }
+    ]
+}

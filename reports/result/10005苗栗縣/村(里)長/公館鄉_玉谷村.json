@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱焰堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳雪蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "玉谷村",
+            "house_no": "91",
+            "candidates": {
+                "1": 307,
+                "2": 189
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 698
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "玉谷村",
+            "house_no": "92",
+            "candidates": {
+                "1": 239,
+                "2": 165
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 693
+        }
+    ]
+}

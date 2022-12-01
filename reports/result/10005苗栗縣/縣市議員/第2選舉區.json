@@ -1,0 +1,641 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黎尚安",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐文達",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "吳昌運",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃芳椿",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "羅貴星",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "114",
+            "candidates": {
+                "1": 191,
+                "2": 38,
+                "3": 46,
+                "4": 161,
+                "5": 113
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 815
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "115",
+            "candidates": {
+                "1": 189,
+                "2": 53,
+                "3": 78,
+                "4": 209,
+                "5": 158
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "116",
+            "candidates": {
+                "1": 274,
+                "2": 37,
+                "3": 77,
+                "4": 297,
+                "5": 168
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "117",
+            "candidates": {
+                "1": 194,
+                "2": 44,
+                "3": 71,
+                "4": 232,
+                "5": 178
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1122
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "樟樹村",
+            "house_no": "118",
+            "candidates": {
+                "1": 237,
+                "2": 52,
+                "3": 102,
+                "4": 310,
+                "5": 211
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "九湖村",
+            "house_no": "119",
+            "candidates": {
+                "1": 227,
+                "2": 32,
+                "3": 85,
+                "4": 241,
+                "5": 186
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "福興村",
+            "house_no": "120",
+            "candidates": {
+                "1": 139,
+                "2": 32,
+                "3": 79,
+                "4": 247,
+                "5": 89
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "朝陽村",
+            "house_no": "121",
+            "candidates": {
+                "1": 186,
+                "2": 28,
+                "3": 68,
+                "4": 184,
+                "5": 142
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 883
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "朝陽村",
+            "house_no": "122",
+            "candidates": {
+                "1": 132,
+                "2": 27,
+                "3": 38,
+                "4": 175,
+                "5": 89
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "竹森村",
+            "house_no": "123",
+            "candidates": {
+                "1": 251,
+                "2": 34,
+                "3": 55,
+                "4": 202,
+                "5": 133
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "中平村",
+            "house_no": "124",
+            "candidates": {
+                "1": 129,
+                "2": 31,
+                "3": 44,
+                "4": 217,
+                "5": 231
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "中平村",
+            "house_no": "125",
+            "candidates": {
+                "1": 154,
+                "2": 32,
+                "3": 35,
+                "4": 145,
+                "5": 179
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "中平村",
+            "house_no": "126",
+            "candidates": {
+                "1": 197,
+                "2": 24,
+                "3": 70,
+                "4": 234,
+                "5": 160
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "興隆村",
+            "house_no": "127",
+            "candidates": {
+                "1": 107,
+                "2": 20,
+                "3": 37,
+                "4": 121,
+                "5": 91
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 514
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "盛隆村",
+            "house_no": "128",
+            "candidates": {
+                "1": 102,
+                "2": 23,
+                "3": 40,
+                "4": 103,
+                "5": 41
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 400
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "新隆村三義鄉",
+            "house_no": "129",
+            "candidates": {
+                "1": 134,
+                "2": 50,
+                "3": 54,
+                "4": 112,
+                "5": 55
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 504
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "廣盛村",
+            "house_no": "130",
+            "candidates": {
+                "1": 66,
+                "2": 135,
+                "3": 112,
+                "4": 28,
+                "5": 90
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 749
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "廣盛村",
+            "house_no": "131",
+            "candidates": {
+                "1": 109,
+                "2": 148,
+                "3": 143,
+                "4": 43,
+                "5": 112
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "廣盛村",
+            "house_no": "132",
+            "candidates": {
+                "1": 133,
+                "2": 137,
+                "3": 138,
+                "4": 59,
+                "5": 130
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "廣盛村",
+            "house_no": "133",
+            "candidates": {
+                "1": 131,
+                "2": 143,
+                "3": 183,
+                "4": 65,
+                "5": 135
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "勝興村",
+            "house_no": "134",
+            "candidates": {
+                "1": 121,
+                "2": 153,
+                "3": 113,
+                "4": 75,
+                "5": 172
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "勝興村",
+            "house_no": "135",
+            "candidates": {
+                "1": 144,
+                "2": 122,
+                "3": 126,
+                "4": 54,
+                "5": 232
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "勝興村",
+            "house_no": "136",
+            "candidates": {
+                "1": 119,
+                "2": 193,
+                "3": 126,
+                "4": 54,
+                "5": 255
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "双潭村",
+            "house_no": "137",
+            "candidates": {
+                "1": 65,
+                "2": 119,
+                "3": 79,
+                "4": 62,
+                "5": 91
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 558
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "双潭村",
+            "house_no": "138",
+            "candidates": {
+                "1": 79,
+                "2": 148,
+                "3": 86,
+                "4": 65,
+                "5": 94
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "双湖村",
+            "house_no": "139",
+            "candidates": {
+                "1": 121,
+                "2": 161,
+                "3": 156,
+                "4": 59,
+                "5": 133
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "双湖村",
+            "house_no": "140",
+            "candidates": {
+                "1": 120,
+                "2": 156,
+                "3": 87,
+                "4": 69,
+                "5": 103
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "西湖村",
+            "house_no": "141",
+            "candidates": {
+                "1": 201,
+                "2": 117,
+                "3": 61,
+                "4": 43,
+                "5": 87
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 651
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "西湖村",
+            "house_no": "142",
+            "candidates": {
+                "1": 199,
+                "2": 104,
+                "3": 44,
+                "4": 63,
+                "5": 128
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 705
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "龍騰村",
+            "house_no": "143",
+            "candidates": {
+                "1": 59,
+                "2": 83,
+                "3": 54,
+                "4": 26,
+                "5": 82
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 394
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "鯉魚潭村",
+            "house_no": "144",
+            "candidates": {
+                "1": 82,
+                "2": 57,
+                "3": 100,
+                "4": 56,
+                "5": 116
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 608
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "鯉魚潭村西湖鄉",
+            "house_no": "145",
+            "candidates": {
+                "1": 73,
+                "2": 94,
+                "3": 123,
+                "4": 40,
+                "5": 124
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 604
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "高埔村",
+            "house_no": "146",
+            "candidates": {
+                "1": 187,
+                "2": 28,
+                "3": 52,
+                "4": 49,
+                "5": 61
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 563
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "下埔村",
+            "house_no": "147",
+            "candidates": {
+                "1": 163,
+                "2": 18,
+                "3": 62,
+                "4": 44,
+                "5": 61
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 526
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "五湖村",
+            "house_no": "148",
+            "candidates": {
+                "1": 151,
+                "2": 30,
+                "3": 72,
+                "4": 144,
+                "5": 119
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 752
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "四湖村",
+            "house_no": "149",
+            "candidates": {
+                "1": 166,
+                "2": 25,
+                "3": 109,
+                "4": 83,
+                "5": 85
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 588
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "三湖村",
+            "house_no": "150",
+            "candidates": {
+                "1": 324,
+                "2": 25,
+                "3": 44,
+                "4": 81,
+                "5": 126
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 838
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "龍洞村",
+            "house_no": "151",
+            "candidates": {
+                "1": 161,
+                "2": 9,
+                "3": 68,
+                "4": 37,
+                "5": 49
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 430
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "金獅村",
+            "house_no": "152",
+            "candidates": {
+                "1": 243,
+                "2": 15,
+                "3": 27,
+                "4": 24,
+                "5": 57
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 460
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "湖東村",
+            "house_no": "153",
+            "candidates": {
+                "1": 406,
+                "2": 38,
+                "3": 97,
+                "4": 111,
+                "5": 130
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "二湖村",
+            "house_no": "154",
+            "candidates": {
+                "1": 257,
+                "2": 17,
+                "3": 50,
+                "4": 33,
+                "5": 116
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 611
+        }
+    ]
+}

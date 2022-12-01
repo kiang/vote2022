@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝祚敏",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔡香蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "江北里",
+            "house_no": "2597",
+            "candidates": {
+                "1": 430,
+                "2": 253
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "汐止區",
+            "cunli": "江北里",
+            "house_no": "2598",
+            "candidates": {
+                "1": 420,
+                "2": 240
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "汐止區",
+            "cunli": "江北里",
+            "house_no": "2599",
+            "candidates": {
+                "1": 405,
+                "2": 345
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1531
+        },
+        {
+            "area": "汐止區",
+            "cunli": "江北里",
+            "house_no": "2600",
+            "candidates": {
+                "1": 478,
+                "2": 248
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1260
+        }
+    ]
+}

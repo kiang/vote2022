@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田宸勳",
+            "party": "無"
+        },
+        "2": {
+            "name": "張慧珍",
+            "party": "無"
+        },
+        "3": {
+            "name": "胡文清 U Ciang",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "三仙里",
+            "house_no": "103",
+            "candidates": {
+                "1": 100,
+                "2": 84,
+                "3": 96
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 478
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "三仙里",
+            "house_no": "104",
+            "candidates": {
+                "1": 45,
+                "2": 225,
+                "3": 172
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 783
+        }
+    ]
+}

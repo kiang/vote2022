@@ -1,0 +1,229 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王封台",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱毅君",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃國建",
+            "party": "無"
+        },
+        "4": {
+            "name": "魏誠良",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "陳詩梵",
+            "party": "無"
+        },
+        "6": {
+            "name": "葉誠祖",
+            "party": "無"
+        },
+        "7": {
+            "name": "江弘琪",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "中苗里",
+            "house_no": "1",
+            "candidates": {
+                "1": 172,
+                "2": 139,
+                "3": 80,
+                "4": 118,
+                "5": 76
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "青苗里",
+            "house_no": "2",
+            "candidates": {
+                "1": 163,
+                "2": 113,
+                "3": 126,
+                "4": 119,
+                "5": 46
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維祥里",
+            "house_no": "3",
+            "candidates": {
+                "1": 178,
+                "2": 141,
+                "3": 132,
+                "4": 95,
+                "5": 52
+            },
+            "count_wrong": 55,
+            "count_unused": 1,
+            "count_total": 1039
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維祥里",
+            "house_no": "4",
+            "candidates": {
+                "1": 229,
+                "2": 112,
+                "3": 109,
+                "4": 120,
+                "5": 40
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維祥里",
+            "house_no": "5",
+            "candidates": {
+                "1": 306,
+                "2": 125,
+                "3": 103,
+                "4": 94,
+                "5": 48
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維新里",
+            "house_no": "6",
+            "candidates": {
+                "1": 184,
+                "2": 274,
+                "3": 149,
+                "4": 107,
+                "5": 34
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1163
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維新里",
+            "house_no": "7",
+            "candidates": {
+                "1": 136,
+                "2": 300,
+                "3": 161,
+                "4": 135,
+                "5": 54
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "維新里",
+            "house_no": "8",
+            "candidates": {
+                "1": 116,
+                "2": 207,
+                "3": 190,
+                "4": 85,
+                "5": 49
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉清里",
+            "house_no": "9",
+            "candidates": {
+                "1": 163,
+                "2": 122,
+                "3": 126,
+                "4": 179,
+                "5": 88
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉清里",
+            "house_no": "10",
+            "candidates": {
+                "1": 153,
+                "2": 145,
+                "3": 57,
+                "4": 179,
+                "5": 108
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉華里",
+            "house_no": "11",
+            "candidates": {
+                "1": 135,
+                "2": 122,
+                "3": 82,
+                "4": 203,
+                "5": 92
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉華里",
+            "house_no": "12",
+            "candidates": {
+                "1": 131,
+                "2": 143,
+                "3": 69,
+                "4": 183,
+                "5": 142
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉華里",
+            "house_no": "13",
+            "candidates": {
+                "1": 188,
+                "2": 164,
+                "3": 91,
+                "4": 187,
+                "5": 94
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1167
+        }
+    ]
+}

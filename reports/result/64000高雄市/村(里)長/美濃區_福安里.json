@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾彩增",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾銘安",
+            "party": "無"
+        },
+        "3": {
+            "name": "古能魁",
+            "party": "無"
+        },
+        "4": {
+            "name": "林錦權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "福安里",
+            "house_no": "99",
+            "candidates": {
+                "1": 139,
+                "2": 182,
+                "3": 298,
+                "4": 115
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1107
+        },
+        {
+            "area": "美濃區",
+            "cunli": "福安里",
+            "house_no": "100",
+            "candidates": {
+                "1": 38,
+                "2": 150,
+                "3": 117,
+                "4": 51
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "美濃區",
+            "cunli": "福安里",
+            "house_no": "101",
+            "candidates": {
+                "1": 54,
+                "2": 158,
+                "3": 152,
+                "4": 60
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 695
+        }
+    ]
+}

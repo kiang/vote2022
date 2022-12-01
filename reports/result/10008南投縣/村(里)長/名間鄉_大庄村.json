@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明達",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊碧雲",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳文王",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "大庄村",
+            "house_no": "319",
+            "candidates": {
+                "1": 245,
+                "2": 315,
+                "3": 76
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "大庄村",
+            "house_no": "320",
+            "candidates": {
+                "1": 240,
+                "2": 247,
+                "3": 101
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 821
+        }
+    ]
+}

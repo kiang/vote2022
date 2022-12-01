@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱國勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯寶雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "鹽樹村",
+            "house_no": "409",
+            "candidates": {
+                "1": 104,
+                "2": 419
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 673
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "鹽樹村",
+            "house_no": "410",
+            "candidates": {
+                "1": 76,
+                "2": 206
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 443
+        }
+    ]
+}

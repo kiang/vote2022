@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周林耀",
+            "party": "無"
+        },
+        "2": {
+            "name": "何信良",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳玉幼",
+            "party": "無"
+        },
+        "4": {
+            "name": "詹志昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "柑園里",
+            "house_no": "1845",
+            "candidates": {
+                "1": 28,
+                "2": 70,
+                "3": 167,
+                "4": 529
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1387
+        },
+        {
+            "area": "樹林區",
+            "cunli": "柑園里",
+            "house_no": "1846",
+            "candidates": {
+                "1": 174,
+                "2": 140,
+                "3": 158,
+                "4": 423
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1728
+        },
+        {
+            "area": "樹林區",
+            "cunli": "柑園里",
+            "house_no": "1847",
+            "candidates": {
+                "1": 130,
+                "2": 260,
+                "3": 157,
+                "4": 372
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1691
+        },
+        {
+            "area": "樹林區",
+            "cunli": "柑園里",
+            "house_no": "1848",
+            "candidates": {
+                "1": 73,
+                "2": 272,
+                "3": 160,
+                "4": 382
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1619
+        },
+        {
+            "area": "樹林區",
+            "cunli": "柑園里",
+            "house_no": "1849",
+            "candidates": {
+                "1": 73,
+                "2": 219,
+                "3": 121,
+                "4": 279
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1306
+        }
+    ]
+}

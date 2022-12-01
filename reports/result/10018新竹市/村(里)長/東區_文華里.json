@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧朝圓",
+            "party": "無"
+        },
+        "2": {
+            "name": "張金滄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "文華里",
+            "house_no": "10",
+            "candidates": {
+                "1": 185,
+                "2": 172
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 609
+        },
+        {
+            "area": "東區",
+            "cunli": "文華里",
+            "house_no": "11",
+            "candidates": {
+                "1": 254,
+                "2": 494
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "東區",
+            "cunli": "文華里",
+            "house_no": "12",
+            "candidates": {
+                "1": 219,
+                "2": 548
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1266
+        },
+        {
+            "area": "東區",
+            "cunli": "文華里",
+            "house_no": "13",
+            "candidates": {
+                "1": 206,
+                "2": 479
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1173
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳祚貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "高大陸",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "賴威宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "國慶里",
+            "house_no": "1101",
+            "candidates": {
+                "1": 343,
+                "2": 336,
+                "3": 110
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "大同區",
+            "cunli": "國慶里",
+            "house_no": "1102",
+            "candidates": {
+                "1": 307,
+                "2": 441,
+                "3": 86
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "大同區",
+            "cunli": "國慶里",
+            "house_no": "1103",
+            "candidates": {
+                "1": 348,
+                "2": 443,
+                "3": 85
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1259
+        }
+    ]
+}

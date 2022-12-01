@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉大誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳大燿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "神洲里",
+            "house_no": "601",
+            "candidates": {
+                "1": 292,
+                "2": 483
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "神岡區",
+            "cunli": "神洲里",
+            "house_no": "602",
+            "candidates": {
+                "1": 290,
+                "2": 552
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

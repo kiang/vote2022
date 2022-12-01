@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃志明",
+            "party": "無"
+        },
+        "2": {
+            "name": "王遠嵐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "永煇里",
+            "house_no": "921",
+            "candidates": {
+                "1": 426,
+                "2": 259
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1104
+        },
+        {
+            "area": "三重區",
+            "cunli": "永煇里",
+            "house_no": "922",
+            "candidates": {
+                "1": 330,
+                "2": 273
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

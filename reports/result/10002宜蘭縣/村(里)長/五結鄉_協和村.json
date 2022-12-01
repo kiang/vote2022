@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃鐙山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "協和村",
+            "house_no": "368",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 121,
+            "count_unused": 1,
+            "count_total": 1088
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "協和村",
+            "house_no": "369",
+            "candidates": {
+                "1": 448
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "協和村",
+            "house_no": "370",
+            "candidates": {
+                "1": 532
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

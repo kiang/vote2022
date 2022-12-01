@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "張明金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "竹林村",
+            "house_no": "230",
+            "candidates": {
+                "1": 328,
+                "2": 307
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "竹林村",
+            "house_no": "231",
+            "candidates": {
+                "1": 294,
+                "2": 228
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 786
+        }
+    ]
+}

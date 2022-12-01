@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江李桂春",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾楊寶",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡林嵩",
+            "party": "無"
+        },
+        "4": {
+            "name": "高幼齡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "佳安里",
+            "house_no": "1259",
+            "candidates": {
+                "1": 377,
+                "2": 31,
+                "3": 285,
+                "4": 106
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "佳安里",
+            "house_no": "1260",
+            "candidates": {
+                "1": 203,
+                "2": 52,
+                "3": 229,
+                "4": 136
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "佳安里",
+            "house_no": "1261",
+            "candidates": {
+                "1": 207,
+                "2": 51,
+                "3": 228,
+                "4": 237
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

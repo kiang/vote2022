@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃鼎安",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜政霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "紅梅里",
+            "house_no": "1153",
+            "candidates": {
+                "1": 240,
+                "2": 470
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "紅梅里",
+            "house_no": "1154",
+            "candidates": {
+                "1": 248,
+                "2": 578
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1298
+        }
+    ]
+}

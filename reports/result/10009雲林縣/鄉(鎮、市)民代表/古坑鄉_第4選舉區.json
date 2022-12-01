@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳茂栯",
+            "party": "無"
+        },
+        "2": {
+            "name": "王啓霖",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉松波",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "華南村",
+            "house_no": "613",
+            "candidates": {
+                "1": 117,
+                "2": 16,
+                "3": 37
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 254
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "華山村",
+            "house_no": "614",
+            "candidates": {
+                "1": 280,
+                "2": 36,
+                "3": 89
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 666
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "桂林村",
+            "house_no": "615",
+            "candidates": {
+                "1": 162,
+                "2": 92,
+                "3": 374
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "樟湖村",
+            "house_no": "616",
+            "candidates": {
+                "1": 114,
+                "2": 66,
+                "3": 135
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 428
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "草嶺村",
+            "house_no": "617",
+            "candidates": {
+                "1": 44,
+                "2": 242,
+                "3": 54
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 516
+        }
+    ]
+}

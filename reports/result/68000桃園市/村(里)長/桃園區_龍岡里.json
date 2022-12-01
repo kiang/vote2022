@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭愛圓",
+            "party": "無"
+        },
+        "2": {
+            "name": "張浩尉",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳永松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "龍岡里",
+            "house_no": "110",
+            "candidates": {
+                "1": 411,
+                "2": 142,
+                "3": 279
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1352
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍岡里",
+            "house_no": "111",
+            "candidates": {
+                "1": 440,
+                "2": 217,
+                "3": 143
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1494
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍岡里",
+            "house_no": "112",
+            "candidates": {
+                "1": 439,
+                "2": 254,
+                "3": 150
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1456
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍岡里",
+            "house_no": "113",
+            "candidates": {
+                "1": 397,
+                "2": 177,
+                "3": 184
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1257
+        }
+    ]
+}

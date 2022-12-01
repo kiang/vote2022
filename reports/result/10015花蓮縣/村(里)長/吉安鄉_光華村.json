@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉光南",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "石福春",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "光華村",
+            "house_no": "203",
+            "candidates": {
+                "1": 216,
+                "2": 242
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "光華村",
+            "house_no": "204",
+            "candidates": {
+                "1": 286,
+                "2": 305
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 996
+        }
+    ]
+}

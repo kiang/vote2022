@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃正偉",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "賴茂庭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "賴明里",
+            "house_no": "1239",
+            "candidates": {
+                "1": 189,
+                "2": 479
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "北區",
+            "cunli": "賴明里",
+            "house_no": "1240",
+            "candidates": {
+                "1": 131,
+                "2": 457
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "北區",
+            "cunli": "賴明里",
+            "house_no": "1241",
+            "candidates": {
+                "1": 158,
+                "2": 463
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1149
+        }
+    ]
+}

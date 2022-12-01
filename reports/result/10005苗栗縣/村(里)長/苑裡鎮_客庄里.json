@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭文郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "客庄里",
+            "house_no": "202",
+            "candidates": {
+                "1": 792
+            },
+            "count_wrong": 134,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "客庄里",
+            "house_no": "203",
+            "candidates": {
+                "1": 696
+            },
+            "count_wrong": 117,
+            "count_unused": 2,
+            "count_total": 1267
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "客庄里",
+            "house_no": "204",
+            "candidates": {
+                "1": 610
+            },
+            "count_wrong": 183,
+            "count_unused": 0,
+            "count_total": 1201
+        }
+    ]
+}

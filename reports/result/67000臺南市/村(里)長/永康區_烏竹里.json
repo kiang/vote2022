@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳壬子",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭美妙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "烏竹里",
+            "house_no": "894",
+            "candidates": {
+                "1": 454,
+                "2": 425
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "永康區",
+            "cunli": "烏竹里",
+            "house_no": "895",
+            "candidates": {
+                "1": 406,
+                "2": 444
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1404
+        }
+    ]
+}

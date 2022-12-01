@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "連顯達",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "外南里",
+            "house_no": "1463",
+            "candidates": {
+                "1": 676
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "中和區",
+            "cunli": "外南里",
+            "house_no": "1464",
+            "candidates": {
+                "1": 642
+            },
+            "count_wrong": 53,
+            "count_unused": 2,
+            "count_total": 1293
+        },
+        {
+            "area": "中和區",
+            "cunli": "外南里",
+            "house_no": "1465",
+            "candidates": {
+                "1": 411
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 3854
+        }
+    ]
+}

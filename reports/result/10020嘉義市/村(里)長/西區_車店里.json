@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "文義榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "馬鳳凰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "車店里",
+            "house_no": "147",
+            "candidates": {
+                "1": 472,
+                "2": 389
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1466
+        },
+        {
+            "area": "西區",
+            "cunli": "車店里",
+            "house_no": "148",
+            "candidates": {
+                "1": 247,
+                "2": 335
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "西區",
+            "cunli": "車店里",
+            "house_no": "149",
+            "candidates": {
+                "1": 235,
+                "2": 520
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "西區",
+            "cunli": "車店里",
+            "house_no": "150",
+            "candidates": {
+                "1": 332,
+                "2": 432
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1506
+        }
+    ]
+}

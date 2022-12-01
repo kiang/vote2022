@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭冬賜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "幸福里",
+            "house_no": "891",
+            "candidates": {
+                "1": 601
+            },
+            "count_wrong": 133,
+            "count_unused": 2,
+            "count_total": 1426
+        },
+        {
+            "area": "三重區",
+            "cunli": "幸福里",
+            "house_no": "892",
+            "candidates": {
+                "1": 604
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "三重區",
+            "cunli": "幸福里",
+            "house_no": "893",
+            "candidates": {
+                "1": 510
+            },
+            "count_wrong": 124,
+            "count_unused": 0,
+            "count_total": 1186
+        }
+    ]
+}

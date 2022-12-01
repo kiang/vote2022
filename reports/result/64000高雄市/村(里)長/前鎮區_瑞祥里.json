@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉美華",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳紫鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞祥里",
+            "house_no": "1757",
+            "candidates": {
+                "1": 312,
+                "2": 272
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞祥里",
+            "house_no": "1758",
+            "candidates": {
+                "1": 325,
+                "2": 343
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞祥里",
+            "house_no": "1759",
+            "candidates": {
+                "1": 348,
+                "2": 233
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞祥里",
+            "house_no": "1760",
+            "candidates": {
+                "1": 283,
+                "2": 330
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1033
+        }
+    ]
+}

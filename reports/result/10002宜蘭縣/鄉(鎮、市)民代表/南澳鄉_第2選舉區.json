@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳長福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "方惠明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南澳鄉",
+            "cunli": "碧候村",
+            "house_no": "422",
+            "candidates": {
+                "1": 85,
+                "2": 277,
+                "3": 278,
+                "4": 57
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "金岳村",
+            "house_no": "423",
+            "candidates": {
+                "1": 216,
+                "2": 50,
+                "3": 29,
+                "4": 0
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 385
+        }
+    ]
+}

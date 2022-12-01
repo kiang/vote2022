@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游緣如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "忠孝里",
+            "house_no": "833",
+            "candidates": {
+                "1": 813
+            },
+            "count_wrong": 146,
+            "count_unused": 2,
+            "count_total": 1563
+        },
+        {
+            "area": "中壢區",
+            "cunli": "忠孝里",
+            "house_no": "834",
+            "candidates": {
+                "1": 677
+            },
+            "count_wrong": 82,
+            "count_unused": 2,
+            "count_total": 1373
+        },
+        {
+            "area": "中壢區",
+            "cunli": "忠孝里",
+            "house_no": "835",
+            "candidates": {
+                "1": 750
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1495
+        }
+    ]
+}

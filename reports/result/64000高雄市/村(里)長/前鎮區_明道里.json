@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田桂名",
+            "party": "無"
+        },
+        "2": {
+            "name": "張惇閎",
+            "party": "無"
+        },
+        "3": {
+            "name": "王進亨",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "明道里",
+            "house_no": "1680",
+            "candidates": {
+                "1": 39,
+                "2": 134,
+                "3": 483
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 991
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉惠櫻",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇逸婷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "舊埤里",
+            "house_no": "20",
+            "candidates": {
+                "1": 207,
+                "2": 314
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 790
+        },
+        {
+            "area": "太保市",
+            "cunli": "舊埤里",
+            "house_no": "21",
+            "candidates": {
+                "1": 318,
+                "2": 257
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "太保市",
+            "cunli": "舊埤里",
+            "house_no": "22",
+            "candidates": {
+                "1": 212,
+                "2": 265
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 781
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡重慶",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡汾漁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "布袋鎮",
+            "cunli": "光復里",
+            "house_no": "360",
+            "candidates": {
+                "1": 434,
+                "2": 113
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "光復里",
+            "house_no": "361",
+            "candidates": {
+                "1": 350,
+                "2": 68
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 630
+        }
+    ]
+}

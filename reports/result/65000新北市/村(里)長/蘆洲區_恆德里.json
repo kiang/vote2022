@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李常孝",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "恆德里",
+            "house_no": "708",
+            "candidates": {
+                "1": 392,
+                "2": 232
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "恆德里",
+            "house_no": "709",
+            "candidates": {
+                "1": 405,
+                "2": 275
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "恆德里",
+            "house_no": "710",
+            "candidates": {
+                "1": 460,
+                "2": 198
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "恆德里",
+            "house_no": "711",
+            "candidates": {
+                "1": 590,
+                "2": 256
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1433
+        }
+    ]
+}

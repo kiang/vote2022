@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴清華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "碧河里",
+            "house_no": "1424",
+            "candidates": {
+                "1": 841
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1536
+        },
+        {
+            "area": "中和區",
+            "cunli": "碧河里",
+            "house_no": "1425",
+            "candidates": {
+                "1": 666
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "中和區",
+            "cunli": "碧河里",
+            "house_no": "1426",
+            "candidates": {
+                "1": 849
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 1589
+        }
+    ]
+}

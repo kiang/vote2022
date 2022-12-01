@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周文靜",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "曾淑蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "康福里",
+            "house_no": "2634",
+            "candidates": {
+                "1": 283,
+                "2": 490
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1517
+        },
+        {
+            "area": "汐止區",
+            "cunli": "康福里",
+            "house_no": "2635",
+            "candidates": {
+                "1": 240,
+                "2": 500
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1446
+        },
+        {
+            "area": "汐止區",
+            "cunli": "康福里",
+            "house_no": "2636",
+            "candidates": {
+                "1": 318,
+                "2": 544
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1646
+        }
+    ]
+}

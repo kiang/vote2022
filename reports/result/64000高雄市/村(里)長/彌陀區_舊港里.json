@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳風慶",
+            "party": "無"
+        },
+        "2": {
+            "name": "李明山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彌陀區",
+            "cunli": "舊港里",
+            "house_no": "387",
+            "candidates": {
+                "1": 239,
+                "2": 279
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 723
+        },
+        {
+            "area": "彌陀區",
+            "cunli": "舊港里",
+            "house_no": "388",
+            "candidates": {
+                "1": 246,
+                "2": 349
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 787
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高麗雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘姿旗",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳鴻銘",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "陳啓祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "南都里",
+            "house_no": "1228",
+            "candidates": {
+                "1": 272,
+                "2": 96,
+                "3": 185,
+                "4": 225
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1563
+        },
+        {
+            "area": "南區",
+            "cunli": "南都里",
+            "house_no": "1229",
+            "candidates": {
+                "1": 337,
+                "2": 70,
+                "3": 77,
+                "4": 165
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

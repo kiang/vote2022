@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張振耀",
+            "party": "無"
+        },
+        "2": {
+            "name": "方義坤",
+            "party": "無"
+        },
+        "3": {
+            "name": "林富琦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "龍水里",
+            "house_no": "238",
+            "candidates": {
+                "1": 222,
+                "2": 219,
+                "3": 253
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

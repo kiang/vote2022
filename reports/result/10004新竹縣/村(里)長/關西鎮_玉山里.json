@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃輝鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "張建良",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃譽仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關西鎮",
+            "cunli": "玉山里",
+            "house_no": "265",
+            "candidates": {
+                "1": 74,
+                "2": 139,
+                "3": 97
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 421
+        }
+    ]
+}

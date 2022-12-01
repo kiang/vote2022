@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉明仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯進國 Davurs．Vaviungan",
+            "party": "無"
+        },
+        "3": {
+            "name": "林明河",
+            "party": "無"
+        },
+        "4": {
+            "name": "簡孝忠 Malacemac．K．Tapurakac",
+            "party": "無"
+        },
+        "5": {
+            "name": "林秀吉",
+            "party": "無"
+        },
+        "6": {
+            "name": "杜育芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑪家鄉",
+            "cunli": "凉山村",
+            "house_no": "670",
+            "candidates": {
+                "1": 57,
+                "2": 17,
+                "3": 366,
+                "4": 114,
+                "5": 266,
+                "6": 55
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1027
+        },
+        {
+            "area": "瑪家鄉",
+            "cunli": "佳義村",
+            "house_no": "671",
+            "candidates": {
+                "1": 236,
+                "2": 238,
+                "3": 14,
+                "4": 110,
+                "5": 29,
+                "6": 63
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "瑪家鄉",
+            "cunli": "排灣村",
+            "house_no": "672",
+            "candidates": {
+                "1": 15,
+                "2": 5,
+                "3": 3,
+                "4": 202,
+                "5": 0,
+                "6": 159
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 432
+        }
+    ]
+}

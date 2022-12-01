@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王國春",
+            "party": "無"
+        },
+        "2": {
+            "name": "王昶清",
+            "party": "無"
+        },
+        "3": {
+            "name": "方文賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "港口里",
+            "house_no": "571",
+            "candidates": {
+                "1": 216,
+                "2": 219,
+                "3": 226
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "安定區",
+            "cunli": "港口里",
+            "house_no": "572",
+            "candidates": {
+                "1": 211,
+                "2": 210,
+                "3": 158
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "安定區",
+            "cunli": "港口里",
+            "house_no": "573",
+            "candidates": {
+                "1": 235,
+                "2": 178,
+                "3": 96
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 771
+        }
+    ]
+}

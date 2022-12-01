@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝章啟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "大突里",
+            "house_no": "684",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 163,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "大突里",
+            "house_no": "685",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "大突里",
+            "house_no": "686",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 1214
+        }
+    ]
+}

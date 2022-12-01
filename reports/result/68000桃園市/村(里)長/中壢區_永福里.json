@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱榮正",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃寶貞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "永福里",
+            "house_no": "895",
+            "candidates": {
+                "1": 153,
+                "2": 215
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 607
+        },
+        {
+            "area": "中壢區",
+            "cunli": "永福里",
+            "house_no": "896",
+            "candidates": {
+                "1": 451,
+                "2": 554
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1455
+        },
+        {
+            "area": "中壢區",
+            "cunli": "永福里",
+            "house_no": "897",
+            "candidates": {
+                "1": 490,
+                "2": 570
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1580
+        },
+        {
+            "area": "中壢區",
+            "cunli": "永福里",
+            "house_no": "898",
+            "candidates": {
+                "1": 499,
+                "2": 542
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1596
+        }
+    ]
+}

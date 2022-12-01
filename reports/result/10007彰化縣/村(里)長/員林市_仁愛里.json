@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃世杰",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳楊秀錦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "仁愛里",
+            "house_no": "562",
+            "candidates": {
+                "1": 217,
+                "2": 248
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "員林市",
+            "cunli": "仁愛里",
+            "house_no": "563",
+            "candidates": {
+                "1": 182,
+                "2": 191
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 585
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊明璋",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉盈發",
+            "party": "無"
+        },
+        "3": {
+            "name": "王明祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西港區",
+            "cunli": "劉厝里",
+            "house_no": "359",
+            "candidates": {
+                "1": 191,
+                "2": 554,
+                "3": 165
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1357
+        }
+    ]
+}

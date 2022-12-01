@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾應武",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪美雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二崙鄉",
+            "cunli": "大庄村",
+            "house_no": "365",
+            "candidates": {
+                "1": 191,
+                "2": 529
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 1173
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "庄西村",
+            "house_no": "366",
+            "candidates": {
+                "1": 40,
+                "2": 393
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 867
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "大同村",
+            "house_no": "367",
+            "candidates": {
+                "1": 151,
+                "2": 317
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 790
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "復興村",
+            "house_no": "368",
+            "candidates": {
+                "1": 350,
+                "2": 258
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

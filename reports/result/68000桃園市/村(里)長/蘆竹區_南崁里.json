@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振德",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱顯助",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "南崁里",
+            "house_no": "532",
+            "candidates": {
+                "1": 235,
+                "2": 495
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "南崁里",
+            "house_no": "533",
+            "candidates": {
+                "1": 270,
+                "2": 554
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "南崁里",
+            "house_no": "534",
+            "candidates": {
+                "1": 233,
+                "2": 385
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1125
+        }
+    ]
+}

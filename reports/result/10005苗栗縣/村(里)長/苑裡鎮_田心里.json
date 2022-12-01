@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾淑貞",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "田心里",
+            "house_no": "227",
+            "candidates": {
+                "1": 270,
+                "2": 453
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "田心里",
+            "house_no": "228",
+            "candidates": {
+                "1": 270,
+                "2": 380
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 873
+        }
+    ]
+}

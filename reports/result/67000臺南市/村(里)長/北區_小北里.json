@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭惠珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝水泉",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "小北里",
+            "house_no": "1007",
+            "candidates": {
+                "1": 203,
+                "2": 337
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "北區",
+            "cunli": "小北里",
+            "house_no": "1008",
+            "candidates": {
+                "1": 128,
+                "2": 362
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 788
+        },
+        {
+            "area": "北區",
+            "cunli": "小北里",
+            "house_no": "1009",
+            "candidates": {
+                "1": 137,
+                "2": 398
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "北區",
+            "cunli": "小北里",
+            "house_no": "1010",
+            "candidates": {
+                "1": 255,
+                "2": 372
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1101
+        }
+    ]
+}

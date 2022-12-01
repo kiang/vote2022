@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾桂葉",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳彥騰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "民生村",
+            "house_no": "98",
+            "candidates": {
+                "1": 404,
+                "2": 429
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1447
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "民生村",
+            "house_no": "99",
+            "candidates": {
+                "1": 345,
+                "2": 487
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1405
+        }
+    ]
+}

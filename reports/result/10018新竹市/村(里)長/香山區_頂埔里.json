@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張芯菲",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈復環",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝詩敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "頂埔里",
+            "house_no": "291",
+            "candidates": {
+                "1": 147,
+                "2": 277,
+                "3": 128
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂埔里",
+            "house_no": "292",
+            "candidates": {
+                "1": 144,
+                "2": 277,
+                "3": 98
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 898
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂埔里",
+            "house_no": "293",
+            "candidates": {
+                "1": 166,
+                "2": 275,
+                "3": 80
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 935
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂埔里",
+            "house_no": "294",
+            "candidates": {
+                "1": 172,
+                "2": 310,
+                "3": 105
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1011
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂埔里",
+            "house_no": "295",
+            "candidates": {
+                "1": 147,
+                "2": 356,
+                "3": 113
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1051
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李衛國",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱添奎",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱新生",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳麗花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "義興村",
+            "house_no": "445",
+            "candidates": {
+                "1": 50,
+                "2": 46,
+                "3": 37,
+                "4": 10
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 196
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "義興村",
+            "house_no": "446",
+            "candidates": {
+                "1": 88,
+                "2": 61,
+                "3": 87,
+                "4": 55
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 356
+        }
+    ]
+}

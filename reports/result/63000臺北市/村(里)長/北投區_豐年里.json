@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周江雪珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭國華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "豐年里",
+            "house_no": "140",
+            "candidates": {
+                "1": 590,
+                "2": 204
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "北投區",
+            "cunli": "豐年里",
+            "house_no": "141",
+            "candidates": {
+                "1": 552,
+                "2": 230
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "北投區",
+            "cunli": "豐年里",
+            "house_no": "142",
+            "candidates": {
+                "1": 480,
+                "2": 241
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

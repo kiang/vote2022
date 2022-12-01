@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志癸",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭筆達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "平安里",
+            "house_no": "977",
+            "candidates": {
+                "1": 448,
+                "2": 369
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平安里",
+            "house_no": "978",
+            "candidates": {
+                "1": 386,
+                "2": 418
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平安里",
+            "house_no": "979",
+            "candidates": {
+                "1": 405,
+                "2": 334
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 1181
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平安里",
+            "house_no": "980",
+            "candidates": {
+                "1": 354,
+                "2": 257
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1208
+        }
+    ]
+}

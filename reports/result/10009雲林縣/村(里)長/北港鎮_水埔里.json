@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇任馳",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇秉豐",
+            "party": "無"
+        },
+        "3": {
+            "name": "高榮慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "水埔里",
+            "house_no": "299",
+            "candidates": {
+                "1": 80,
+                "2": 203,
+                "3": 68
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 453
+        }
+    ]
+}

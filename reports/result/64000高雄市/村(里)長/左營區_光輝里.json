@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅琪隆",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張家富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "光輝里",
+            "house_no": "605",
+            "candidates": {
+                "1": 387,
+                "2": 255
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "左營區",
+            "cunli": "光輝里",
+            "house_no": "606",
+            "candidates": {
+                "1": 347,
+                "2": 305
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1156
+        }
+    ]
+}

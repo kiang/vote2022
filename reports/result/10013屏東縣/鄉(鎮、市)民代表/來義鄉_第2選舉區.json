@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖志強",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅俊宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾必顯",
+            "party": "無"
+        },
+        "4": {
+            "name": "詹勇仁",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "陳文山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "來義鄉",
+            "cunli": "文樂村",
+            "house_no": "686",
+            "candidates": {
+                "1": 278,
+                "2": 108,
+                "3": 87,
+                "4": 32,
+                "5": 138
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "來義鄉",
+            "cunli": "望嘉村",
+            "house_no": "687",
+            "candidates": {
+                "1": 36,
+                "2": 355,
+                "3": 201,
+                "4": 7,
+                "5": 91
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "來義鄉",
+            "cunli": "南和村",
+            "house_no": "688",
+            "candidates": {
+                "1": 4,
+                "2": 10,
+                "3": 7,
+                "4": 148,
+                "5": 234
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 547
+        },
+        {
+            "area": "來義鄉",
+            "cunli": "南和村",
+            "house_no": "689",
+            "candidates": {
+                "1": 4,
+                "2": 77,
+                "3": 6,
+                "4": 93,
+                "5": 322
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 612
+        }
+    ]
+}

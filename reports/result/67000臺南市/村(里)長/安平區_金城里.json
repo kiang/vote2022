@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐明仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃俊策",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安平區",
+            "cunli": "金城里",
+            "house_no": "1161",
+            "candidates": {
+                "1": 195,
+                "2": 272
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "安平區",
+            "cunli": "金城里",
+            "house_no": "1162",
+            "candidates": {
+                "1": 460,
+                "2": 206
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

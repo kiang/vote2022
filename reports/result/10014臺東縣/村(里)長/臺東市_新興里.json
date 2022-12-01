@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹益森",
+            "party": "無"
+        },
+        "2": {
+            "name": "王惠子",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "新興里",
+            "house_no": "48",
+            "candidates": {
+                "1": 262,
+                "2": 168
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 701
+        },
+        {
+            "area": "臺東市",
+            "cunli": "新興里",
+            "house_no": "49",
+            "candidates": {
+                "1": 152,
+                "2": 185
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 590
+        }
+    ]
+}

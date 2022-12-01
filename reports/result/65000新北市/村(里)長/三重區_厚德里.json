@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳榮楠",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈世隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "厚德里",
+            "house_no": "908",
+            "candidates": {
+                "1": 516,
+                "2": 439
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1463
+        },
+        {
+            "area": "三重區",
+            "cunli": "厚德里",
+            "house_no": "909",
+            "candidates": {
+                "1": 457,
+                "2": 462
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1466
+        }
+    ]
+}

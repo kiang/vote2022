@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂秋東",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李柏雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "忠孝里",
+            "house_no": "1442",
+            "candidates": {
+                "1": 364,
+                "2": 451
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "中和區",
+            "cunli": "忠孝里",
+            "house_no": "1443",
+            "candidates": {
+                "1": 299,
+                "2": 425
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "中和區",
+            "cunli": "忠孝里",
+            "house_no": "1444",
+            "candidates": {
+                "1": 403,
+                "2": 360
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1267
+        }
+    ]
+}

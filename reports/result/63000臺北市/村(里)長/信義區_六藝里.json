@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "丁禾溱",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "六藝里",
+            "house_no": "766",
+            "candidates": {
+                "1": 611
+            },
+            "count_wrong": 120,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "信義區",
+            "cunli": "六藝里",
+            "house_no": "767",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 121,
+            "count_unused": 2,
+            "count_total": 860
+        },
+        {
+            "area": "信義區",
+            "cunli": "六藝里",
+            "house_no": "768",
+            "candidates": {
+                "1": 528
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 960
+        }
+    ]
+}

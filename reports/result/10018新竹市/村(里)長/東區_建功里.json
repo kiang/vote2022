@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱漢奇",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "建功里",
+            "house_no": "70",
+            "candidates": {
+                "1": 611
+            },
+            "count_wrong": 137,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "東區",
+            "cunli": "建功里",
+            "house_no": "71",
+            "candidates": {
+                "1": 403
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 757
+        },
+        {
+            "area": "東區",
+            "cunli": "建功里",
+            "house_no": "72",
+            "candidates": {
+                "1": 357
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "東區",
+            "cunli": "建功里",
+            "house_no": "73",
+            "candidates": {
+                "1": 595
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1093
+        }
+    ]
+}

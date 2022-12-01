@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝清安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "子龍里",
+            "house_no": "340",
+            "candidates": {
+                "1": 335
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 734
+        },
+        {
+            "area": "佳里區",
+            "cunli": "子龍里",
+            "house_no": "341",
+            "candidates": {
+                "1": 325
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 692
+        },
+        {
+            "area": "佳里區",
+            "cunli": "子龍里",
+            "house_no": "342",
+            "candidates": {
+                "1": 411
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 874
+        }
+    ]
+}

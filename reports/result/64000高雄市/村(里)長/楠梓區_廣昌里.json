@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳正煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭昌華",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡文東",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "廣昌里",
+            "house_no": "529",
+            "candidates": {
+                "1": 30,
+                "2": 386,
+                "3": 448
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "廣昌里",
+            "house_no": "530",
+            "candidates": {
+                "1": 59,
+                "2": 355,
+                "3": 434
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1401
+        }
+    ]
+}

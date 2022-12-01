@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉燈燦",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪榮典",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅登基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "官田區",
+            "cunli": "隆田里",
+            "house_no": "456",
+            "candidates": {
+                "1": 202,
+                "2": 327,
+                "3": 63
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "官田區",
+            "cunli": "隆田里",
+            "house_no": "457",
+            "candidates": {
+                "1": 177,
+                "2": 365,
+                "3": 68
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

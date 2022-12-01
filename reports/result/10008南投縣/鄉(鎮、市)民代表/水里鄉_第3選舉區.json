@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "許錫明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水里鄉",
+            "cunli": "新山村",
+            "house_no": "442",
+            "candidates": {
+                "1": 76,
+                "2": 52
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 179
+        },
+        {
+            "area": "水里鄉",
+            "cunli": "郡坑村",
+            "house_no": "443",
+            "candidates": {
+                "1": 152,
+                "2": 104
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 306
+        },
+        {
+            "area": "水里鄉",
+            "cunli": "上安村",
+            "house_no": "444",
+            "candidates": {
+                "1": 565,
+                "2": 236
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1040
+        }
+    ]
+}

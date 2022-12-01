@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江茂隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "王梅芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "錦江里",
+            "house_no": "877",
+            "candidates": {
+                "1": 258,
+                "2": 319
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "三重區",
+            "cunli": "錦江里",
+            "house_no": "878",
+            "candidates": {
+                "1": 285,
+                "2": 277
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1015
+        }
+    ]
+}

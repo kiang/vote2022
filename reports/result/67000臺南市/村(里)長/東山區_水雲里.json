@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉庭興",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳福松",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃瑞興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東山區",
+            "cunli": "水雲里",
+            "house_no": "76",
+            "candidates": {
+                "1": 125,
+                "2": 72,
+                "3": 46
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 359
+        }
+    ]
+}

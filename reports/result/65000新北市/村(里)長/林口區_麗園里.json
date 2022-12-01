@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃添福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林口區",
+            "cunli": "麗園里",
+            "house_no": "248",
+            "candidates": {
+                "1": 530
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "林口區",
+            "cunli": "麗園里",
+            "house_no": "249",
+            "candidates": {
+                "1": 508
+            },
+            "count_wrong": 69,
+            "count_unused": 1,
+            "count_total": 1097
+        },
+        {
+            "area": "林口區",
+            "cunli": "麗園里",
+            "house_no": "250",
+            "candidates": {
+                "1": 569
+            },
+            "count_wrong": 65,
+            "count_unused": 2,
+            "count_total": 1088
+        }
+    ]
+}

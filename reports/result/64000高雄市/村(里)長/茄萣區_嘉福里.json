@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭詠荃",
+            "party": "無"
+        },
+        "2": {
+            "name": "李枝容",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳財榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "茄萣區",
+            "cunli": "嘉福里",
+            "house_no": "149",
+            "candidates": {
+                "1": 123,
+                "2": 171,
+                "3": 354
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 955
+        }
+    ]
+}

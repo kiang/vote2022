@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "龔志國",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉建男",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃金潭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大林鎮",
+            "cunli": "西林里",
+            "house_no": "195",
+            "candidates": {
+                "1": 80,
+                "2": 281,
+                "3": 187
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 852
+        },
+        {
+            "area": "大林鎮",
+            "cunli": "西林里",
+            "house_no": "196",
+            "candidates": {
+                "1": 121,
+                "2": 338,
+                "3": 176
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 906
+        }
+    ]
+}

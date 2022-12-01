@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李進源",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉姿均",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "嘉興村",
+            "house_no": "237",
+            "candidates": {
+                "1": 365,
+                "2": 373
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "嘉興村",
+            "house_no": "238",
+            "candidates": {
+                "1": 198,
+                "2": 211
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 562
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳源智",
+            "party": "無"
+        },
+        "2": {
+            "name": "林冠宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "王啓明",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪黃素貞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "義和里",
+            "house_no": "21",
+            "candidates": {
+                "1": 78,
+                "2": 121,
+                "3": 295,
+                "4": 556
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1553
+        },
+        {
+            "area": "大甲區",
+            "cunli": "義和里",
+            "house_no": "22",
+            "candidates": {
+                "1": 61,
+                "2": 132,
+                "3": 226,
+                "4": 646
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1551
+        }
+    ]
+}

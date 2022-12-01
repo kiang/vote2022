@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭士益",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "福林里",
+            "house_no": "988",
+            "candidates": {
+                "1": 430
+            },
+            "count_wrong": 140,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "福林里",
+            "house_no": "989",
+            "candidates": {
+                "1": 563
+            },
+            "count_wrong": 95,
+            "count_unused": 1,
+            "count_total": 1095
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "福林里",
+            "house_no": "990",
+            "candidates": {
+                "1": 646
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1278
+        }
+    ]
+}

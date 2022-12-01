@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉士相",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴勝驊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新埔鎮",
+            "cunli": "四座里",
+            "house_no": "225",
+            "candidates": {
+                "1": 527,
+                "2": 196
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "四座里",
+            "house_no": "226",
+            "candidates": {
+                "1": 482,
+                "2": 192
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "四座里",
+            "house_no": "227",
+            "candidates": {
+                "1": 449,
+                "2": 134
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 918
+        }
+    ]
+}

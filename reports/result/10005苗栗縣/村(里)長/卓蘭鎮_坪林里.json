@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃鈞奎",
+            "party": "無"
+        },
+        "2": {
+            "name": "李淑香",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴坤集",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳庚生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓蘭鎮",
+            "cunli": "坪林里",
+            "house_no": "471",
+            "candidates": {
+                "1": 327,
+                "2": 183,
+                "3": 184,
+                "4": 60
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "坪林里",
+            "house_no": "472",
+            "candidates": {
+                "1": 190,
+                "2": 150,
+                "3": 74,
+                "4": 22
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 605
+        }
+    ]
+}

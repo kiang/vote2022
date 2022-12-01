@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳福來",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "崇德里",
+            "house_no": "1296",
+            "candidates": {
+                "1": 585
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "東區",
+            "cunli": "崇德里",
+            "house_no": "1297",
+            "candidates": {
+                "1": 543
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "東區",
+            "cunli": "崇德里",
+            "house_no": "1298",
+            "candidates": {
+                "1": 431
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "東區",
+            "cunli": "崇德里",
+            "house_no": "1299",
+            "candidates": {
+                "1": 430
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 931
+        }
+    ]
+}

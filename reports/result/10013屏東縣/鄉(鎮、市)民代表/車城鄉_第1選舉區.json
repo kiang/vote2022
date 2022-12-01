@@ -1,0 +1,52 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐志偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林勝揚",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘貴武",
+            "party": "無"
+        },
+        "4": {
+            "name": "董松山",
+            "party": "無"
+        },
+        "5": {
+            "name": "林煌誠",
+            "party": "無"
+        },
+        "6": {
+            "name": "龔寶色",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "車城鄉",
+            "cunli": "海口村",
+            "house_no": "620",
+            "candidates": {
+                "1": 340
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 677
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "田中村",
+            "house_no": "621",
+            "candidates": {
+                "1": 313
+            },
+            "count_wrong": 156,
+            "count_unused": 0,
+            "count_total": 610
+        }
+    ]
+}

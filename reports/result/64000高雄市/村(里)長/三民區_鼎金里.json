@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高豐麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "鼎金里",
+            "house_no": "989",
+            "candidates": {
+                "1": 465
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎金里",
+            "house_no": "990",
+            "candidates": {
+                "1": 561
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎金里",
+            "house_no": "991",
+            "candidates": {
+                "1": 557
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1220
+        }
+    ]
+}

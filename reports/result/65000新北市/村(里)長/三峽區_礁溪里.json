@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周志鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "礁溪里",
+            "house_no": "2101",
+            "candidates": {
+                "1": 689
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "三峽區",
+            "cunli": "礁溪里",
+            "house_no": "2102",
+            "candidates": {
+                "1": 568
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "三峽區",
+            "cunli": "礁溪里",
+            "house_no": "2103",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 44,
+            "count_unused": 1,
+            "count_total": 1206
+        },
+        {
+            "area": "三峽區",
+            "cunli": "礁溪里",
+            "house_no": "2104",
+            "candidates": {
+                "1": 645
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1382
+        }
+    ]
+}

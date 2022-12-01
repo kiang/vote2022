@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林德建",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "曹恆勇",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "劉家發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東引鄉",
+            "cunli": "中柳村、樂華村",
+            "house_no": "10",
+            "candidates": {
+                "1": 536,
+                "2": 143,
+                "3": 284
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1276
+        }
+    ]
+}

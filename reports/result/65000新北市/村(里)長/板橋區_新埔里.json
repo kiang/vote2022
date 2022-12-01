@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳芷庭",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡鈴福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "新埔里",
+            "house_no": "1075",
+            "candidates": {
+                "1": 275,
+                "2": 252
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新埔里",
+            "house_no": "1076",
+            "candidates": {
+                "1": 352,
+                "2": 287
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

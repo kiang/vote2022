@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王清鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡嘉宜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新社區",
+            "cunli": "慶西里",
+            "house_no": "1859",
+            "candidates": {
+                "1": 81,
+                "2": 81
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 208
+        },
+        {
+            "area": "新社區",
+            "cunli": "慶西里",
+            "house_no": "1860",
+            "candidates": {
+                "1": 144,
+                "2": 336
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 622
+        }
+    ]
+}

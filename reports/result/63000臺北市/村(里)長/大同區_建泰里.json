@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林聖恆",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳鵬程",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "王嘉慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "建泰里",
+            "house_no": "1054",
+            "candidates": {
+                "1": 166,
+                "2": 281,
+                "3": 143
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 923
+        },
+        {
+            "area": "大同區",
+            "cunli": "建泰里",
+            "house_no": "1055",
+            "candidates": {
+                "1": 120,
+                "2": 356,
+                "3": 105
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 851
+        },
+        {
+            "area": "大同區",
+            "cunli": "建泰里",
+            "house_no": "1056",
+            "candidates": {
+                "1": 145,
+                "2": 338,
+                "3": 156
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1022
+        }
+    ]
+}

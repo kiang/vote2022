@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施合建",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "太平里",
+            "house_no": "667",
+            "candidates": {
+                "1": 374
+            },
+            "count_wrong": 74,
+            "count_unused": 1,
+            "count_total": 766
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "太平里",
+            "house_no": "668",
+            "candidates": {
+                "1": 407
+            },
+            "count_wrong": 150,
+            "count_unused": 0,
+            "count_total": 927
+        }
+    ]
+}

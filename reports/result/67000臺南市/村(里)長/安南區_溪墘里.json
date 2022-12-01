@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭旭峰",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "曹喻閔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "溪墘里",
+            "house_no": "762",
+            "candidates": {
+                "1": 358,
+                "2": 225
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 970
+        },
+        {
+            "area": "安南區",
+            "cunli": "溪墘里",
+            "house_no": "763",
+            "candidates": {
+                "1": 366,
+                "2": 213
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1011
+        },
+        {
+            "area": "安南區",
+            "cunli": "溪墘里",
+            "house_no": "764",
+            "candidates": {
+                "1": 387,
+                "2": 183
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 919
+        }
+    ]
+}

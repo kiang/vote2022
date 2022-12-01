@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃煌証",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳發強",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "寮廍里",
+            "house_no": "432",
+            "candidates": {
+                "1": 323,
+                "2": 185
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "寮廍里",
+            "house_no": "433",
+            "candidates": {
+                "1": 246,
+                "2": 319
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 804
+        }
+    ]
+}

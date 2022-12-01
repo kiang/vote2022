@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃金良",
+            "party": "中華統一促進黨"
+        },
+        "2": {
+            "name": "范洋坤",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張智鈞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "281",
+            "candidates": {
+                "1": 61,
+                "2": 265,
+                "3": 348
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "282",
+            "candidates": {
+                "1": 99,
+                "2": 257,
+                "3": 373
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "283",
+            "candidates": {
+                "1": 77,
+                "2": 167,
+                "3": 376
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "284",
+            "candidates": {
+                "1": 78,
+                "2": 201,
+                "3": 408
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

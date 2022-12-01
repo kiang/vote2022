@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許麗君",
+            "party": "無"
+        },
+        "2": {
+            "name": "湯燕明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "東香里",
+            "house_no": "324",
+            "candidates": {
+                "1": 227,
+                "2": 291
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 817
+        },
+        {
+            "area": "香山區",
+            "cunli": "東香里",
+            "house_no": "325",
+            "candidates": {
+                "1": 270,
+                "2": 309
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 910
+        },
+        {
+            "area": "香山區",
+            "cunli": "東香里",
+            "house_no": "326",
+            "candidates": {
+                "1": 399,
+                "2": 263
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 995
+        },
+        {
+            "area": "香山區",
+            "cunli": "東香里",
+            "house_no": "327",
+            "candidates": {
+                "1": 362,
+                "2": 311
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

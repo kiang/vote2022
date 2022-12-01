@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾麗櫻",
+            "party": "無"
+        },
+        "2": {
+            "name": "王耀棟",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉宗冠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "平鎮里",
+            "house_no": "963",
+            "candidates": {
+                "1": 256,
+                "2": 311,
+                "3": 209
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1387
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平鎮里",
+            "house_no": "964",
+            "candidates": {
+                "1": 269,
+                "2": 335,
+                "3": 312
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1528
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平鎮里",
+            "house_no": "965",
+            "candidates": {
+                "1": 218,
+                "2": 456,
+                "3": 160
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1399
+        }
+    ]
+}

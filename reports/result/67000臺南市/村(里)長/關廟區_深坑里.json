@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張榮崇",
+            "party": "無"
+        },
+        "2": {
+            "name": "李美女",
+            "party": "無"
+        },
+        "3": {
+            "name": "林國治",
+            "party": "無"
+        },
+        "4": {
+            "name": "張順良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "深坑里",
+            "house_no": "1524",
+            "candidates": {
+                "1": 119,
+                "2": 160,
+                "3": 233,
+                "4": 33
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "關廟區",
+            "cunli": "深坑里",
+            "house_no": "1525",
+            "candidates": {
+                "1": 147,
+                "2": 188,
+                "3": 150,
+                "4": 35
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 675
+        }
+    ]
+}

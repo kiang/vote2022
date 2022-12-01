@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊晉貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹國昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "詹仁本",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "社後里",
+            "house_no": "1008",
+            "candidates": {
+                "1": 454,
+                "2": 218,
+                "3": 134
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 4877
+        },
+        {
+            "area": "板橋區",
+            "cunli": "社後里",
+            "house_no": "1009",
+            "candidates": {
+                "1": 397,
+                "2": 307,
+                "3": 85
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "板橋區",
+            "cunli": "社後里",
+            "house_no": "1010",
+            "candidates": {
+                "1": 496,
+                "2": 233,
+                "3": 66
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "板橋區",
+            "cunli": "社後里",
+            "house_no": "1011",
+            "candidates": {
+                "1": 398,
+                "2": 162,
+                "3": 49
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

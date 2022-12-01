@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張吉源",
+            "party": "無"
+        },
+        "2": {
+            "name": "許美蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "新南村",
+            "house_no": "411",
+            "candidates": {
+                "1": 329,
+                "2": 96
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "新南村",
+            "house_no": "412",
+            "candidates": {
+                "1": 320,
+                "2": 217
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 773
+        }
+    ]
+}

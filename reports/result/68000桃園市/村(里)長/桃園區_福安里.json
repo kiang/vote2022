@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭西元",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾雲卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "福安里",
+            "house_no": "20",
+            "candidates": {
+                "1": 413,
+                "2": 327
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福安里",
+            "house_no": "21",
+            "candidates": {
+                "1": 443,
+                "2": 268
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福安里",
+            "house_no": "22",
+            "candidates": {
+                "1": 515,
+                "2": 419
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1418
+        }
+    ]
+}

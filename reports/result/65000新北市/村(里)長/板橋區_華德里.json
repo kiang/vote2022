@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋瓊志",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳寶銓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "華德里",
+            "house_no": "1282",
+            "candidates": {
+                "1": 298,
+                "2": 414
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華德里",
+            "house_no": "1283",
+            "candidates": {
+                "1": 301,
+                "2": 459
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1321
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華德里",
+            "house_no": "1284",
+            "candidates": {
+                "1": 417,
+                "2": 440
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1604
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華德里",
+            "house_no": "1285",
+            "candidates": {
+                "1": 410,
+                "2": 447
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1618
+        }
+    ]
+}

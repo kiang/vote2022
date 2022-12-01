@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡呈安",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "游菊英",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾珮綺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "龍陣里",
+            "house_no": "1471",
+            "candidates": {
+                "1": 360,
+                "2": 526,
+                "3": 49
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1434
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍陣里",
+            "house_no": "1472",
+            "candidates": {
+                "1": 340,
+                "2": 489,
+                "3": 57
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1278
+        }
+    ]
+}

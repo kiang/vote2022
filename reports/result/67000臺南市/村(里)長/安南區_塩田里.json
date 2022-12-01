@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱小蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "塩田里",
+            "house_no": "801",
+            "candidates": {
+                "1": 356
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 760
+        },
+        {
+            "area": "安南區",
+            "cunli": "塩田里",
+            "house_no": "802",
+            "candidates": {
+                "1": 376
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 741
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張酉添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "永城里",
+            "house_no": "100",
+            "candidates": {
+                "1": 528
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "屏東市",
+            "cunli": "永城里",
+            "house_no": "101",
+            "candidates": {
+                "1": 483
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

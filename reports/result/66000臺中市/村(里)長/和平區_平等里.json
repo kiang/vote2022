@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林春娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁韶陽",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃水木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "平等里",
+            "house_no": "1879",
+            "candidates": {
+                "1": 39,
+                "2": 28,
+                "3": 11
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 146
+        },
+        {
+            "area": "和平區",
+            "cunli": "平等里",
+            "house_no": "1880",
+            "candidates": {
+                "1": 138,
+                "2": 284,
+                "3": 178
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 757
+        }
+    ]
+}

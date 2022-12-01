@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明杰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳冬鄉",
+            "cunli": "塭豐村",
+            "house_no": "609",
+            "candidates": {
+                "1": 519
+            },
+            "count_wrong": 180,
+            "count_unused": 2,
+            "count_total": 1171
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "塭豐村",
+            "house_no": "610",
+            "candidates": {
+                "1": 530
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1077
+        }
+    ]
+}

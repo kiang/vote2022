@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐明興",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔡政宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "普照里",
+            "house_no": "1305",
+            "candidates": {
+                "1": 287,
+                "2": 258
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "普照里",
+            "house_no": "1306",
+            "candidates": {
+                "1": 279,
+                "2": 229
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "普照里",
+            "house_no": "1307",
+            "candidates": {
+                "1": 269,
+                "2": 276
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 945
+        }
+    ]
+}

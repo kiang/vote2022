@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊建銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭文郁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "花園里",
+            "house_no": "1520",
+            "candidates": {
+                "1": 92,
+                "2": 401
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 742
+        },
+        {
+            "area": "關廟區",
+            "cunli": "花園里",
+            "house_no": "1521",
+            "candidates": {
+                "1": 82,
+                "2": 308
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 593
+        },
+        {
+            "area": "關廟區",
+            "cunli": "花園里",
+            "house_no": "1522",
+            "candidates": {
+                "1": 172,
+                "2": 424
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "關廟區",
+            "cunli": "花園里",
+            "house_no": "1523",
+            "candidates": {
+                "1": 125,
+                "2": 521
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

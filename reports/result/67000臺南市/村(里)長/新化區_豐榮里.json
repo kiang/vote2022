@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡朝明",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡素眞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新化區",
+            "cunli": "豐榮里",
+            "house_no": "645",
+            "candidates": {
+                "1": 410,
+                "2": 294
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "新化區",
+            "cunli": "豐榮里",
+            "house_no": "646",
+            "candidates": {
+                "1": 315,
+                "2": 405
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "新化區",
+            "cunli": "豐榮里",
+            "house_no": "647",
+            "candidates": {
+                "1": 154,
+                "2": 366
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 758
+        }
+    ]
+}

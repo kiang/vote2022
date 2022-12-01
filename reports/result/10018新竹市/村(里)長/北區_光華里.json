@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張慶榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "光華里",
+            "house_no": "227",
+            "candidates": {
+                "1": 253
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "北區",
+            "cunli": "光華里",
+            "house_no": "228",
+            "candidates": {
+                "1": 435
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "北區",
+            "cunli": "光華里",
+            "house_no": "229",
+            "candidates": {
+                "1": 460
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "北區",
+            "cunli": "光華里",
+            "house_no": "230",
+            "candidates": {
+                "1": 481
+            },
+            "count_wrong": 105,
+            "count_unused": 1,
+            "count_total": 955
+        }
+    ]
+}

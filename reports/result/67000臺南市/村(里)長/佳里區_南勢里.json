@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃進福",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳傳明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "南勢里",
+            "house_no": "318",
+            "candidates": {
+                "1": 287,
+                "2": 286
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "佳里區",
+            "cunli": "南勢里",
+            "house_no": "319",
+            "candidates": {
+                "1": 341,
+                "2": 321
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "佳里區",
+            "cunli": "南勢里",
+            "house_no": "320",
+            "candidates": {
+                "1": 268,
+                "2": 281
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "佳里區",
+            "cunli": "南勢里",
+            "house_no": "321",
+            "candidates": {
+                "1": 453,
+                "2": 339
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1307
+        }
+    ]
+}

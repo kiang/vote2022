@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張正田",
+            "party": "無"
+        },
+        "2": {
+            "name": "張錫泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "港邊里",
+            "house_no": "144",
+            "candidates": {
+                "1": 291,
+                "2": 281
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 815
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "港邊里",
+            "house_no": "145",
+            "candidates": {
+                "1": 234,
+                "2": 41
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 380
+        }
+    ]
+}

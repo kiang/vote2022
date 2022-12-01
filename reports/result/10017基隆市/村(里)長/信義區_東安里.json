@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林睿騰",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "東安里",
+            "house_no": "63",
+            "candidates": {
+                "1": 659
+            },
+            "count_wrong": 141,
+            "count_unused": 0,
+            "count_total": 1349
+        },
+        {
+            "area": "信義區",
+            "cunli": "東安里",
+            "house_no": "64",
+            "candidates": {
+                "1": 571
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1198
+        }
+    ]
+}

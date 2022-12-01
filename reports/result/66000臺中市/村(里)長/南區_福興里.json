@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鐘淑嬰",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳友龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "福興里",
+            "house_no": "1443",
+            "candidates": {
+                "1": 309,
+                "2": 532
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "南區",
+            "cunli": "福興里",
+            "house_no": "1444",
+            "candidates": {
+                "1": 282,
+                "2": 547
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "南區",
+            "cunli": "福興里",
+            "house_no": "1445",
+            "candidates": {
+                "1": 259,
+                "2": 413
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1136
+        }
+    ]
+}

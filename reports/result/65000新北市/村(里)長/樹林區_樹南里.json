@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱垂章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "樹南里",
+            "house_no": "1803",
+            "candidates": {
+                "1": 514
+            },
+            "count_wrong": 103,
+            "count_unused": 1,
+            "count_total": 1166
+        },
+        {
+            "area": "樹林區",
+            "cunli": "樹南里",
+            "house_no": "1804",
+            "candidates": {
+                "1": 630
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "樹林區",
+            "cunli": "樹南里",
+            "house_no": "1805",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1122
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭錦原",
+            "party": "無"
+        },
+        "2": {
+            "name": "游雲珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭屋鄉",
+            "cunli": "象山村",
+            "house_no": "109",
+            "candidates": {
+                "1": 211,
+                "2": 396
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "頭屋鄉",
+            "cunli": "象山村",
+            "house_no": "110",
+            "candidates": {
+                "1": 337,
+                "2": 402
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 933
+        }
+    ]
+}

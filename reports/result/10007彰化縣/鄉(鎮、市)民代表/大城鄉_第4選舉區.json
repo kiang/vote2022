@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李建和",
+            "party": "無"
+        },
+        "2": {
+            "name": "王宏銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡秋林",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪順天",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳何男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大城鄉",
+            "cunli": "東港村",
+            "house_no": "1027",
+            "candidates": {
+                "1": 60,
+                "2": 118,
+                "3": 12,
+                "4": 234,
+                "5": 375
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "西港村",
+            "house_no": "1028",
+            "candidates": {
+                "1": 53,
+                "2": 50,
+                "3": 3,
+                "4": 234,
+                "5": 233
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "頂庄村",
+            "house_no": "1029",
+            "candidates": {
+                "1": 113,
+                "2": 182,
+                "3": 5,
+                "4": 18,
+                "5": 35
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 626
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "臺西村",
+            "house_no": "1030",
+            "candidates": {
+                "1": 263,
+                "2": 177,
+                "3": 3,
+                "4": 13,
+                "5": 31
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 811
+        }
+    ]
+}

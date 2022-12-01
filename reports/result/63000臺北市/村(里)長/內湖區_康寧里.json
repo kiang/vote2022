@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭秀鳳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林紫薇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "康寧里",
+            "house_no": "496",
+            "candidates": {
+                "1": 517,
+                "2": 291
+            },
+            "count_wrong": 48,
+            "count_unused": 1,
+            "count_total": 1280
+        },
+        {
+            "area": "內湖區",
+            "cunli": "康寧里",
+            "house_no": "497",
+            "candidates": {
+                "1": 517,
+                "2": 313
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 1287
+        },
+        {
+            "area": "內湖區",
+            "cunli": "康寧里",
+            "house_no": "498",
+            "candidates": {
+                "1": 464,
+                "2": 399
+            },
+            "count_wrong": 49,
+            "count_unused": 2,
+            "count_total": 1344
+        },
+        {
+            "area": "內湖區",
+            "cunli": "康寧里",
+            "house_no": "499",
+            "candidates": {
+                "1": 559,
+                "2": 469
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1599
+        },
+        {
+            "area": "內湖區",
+            "cunli": "康寧里",
+            "house_no": "500",
+            "candidates": {
+                "1": 539,
+                "2": 386
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1378
+        }
+    ]
+}

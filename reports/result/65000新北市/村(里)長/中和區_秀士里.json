@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭元龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐健偉",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪易松",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "秀士里",
+            "house_no": "1601",
+            "candidates": {
+                "1": 165,
+                "2": 103,
+                "3": 333
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "中和區",
+            "cunli": "秀士里",
+            "house_no": "1602",
+            "candidates": {
+                "1": 187,
+                "2": 155,
+                "3": 340
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1092
+        }
+    ]
+}

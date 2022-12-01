@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭明法",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大正里",
+            "house_no": "468",
+            "candidates": {
+                "1": 717
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "八德區",
+            "cunli": "大正里",
+            "house_no": "469",
+            "candidates": {
+                "1": 594
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1349
+        },
+        {
+            "area": "八德區",
+            "cunli": "大正里",
+            "house_no": "470",
+            "candidates": {
+                "1": 722
+            },
+            "count_wrong": 57,
+            "count_unused": 1,
+            "count_total": 1359
+        }
+    ]
+}

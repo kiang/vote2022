@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧麗美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林邊鄉",
+            "cunli": "仁和村",
+            "house_no": "575",
+            "candidates": {
+                "1": 426
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "仁和村",
+            "house_no": "576",
+            "candidates": {
+                "1": 488
+            },
+            "count_wrong": 108,
+            "count_unused": 1,
+            "count_total": 796
+        }
+    ]
+}

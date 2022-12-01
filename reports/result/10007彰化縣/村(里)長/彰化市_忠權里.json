@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林連發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "忠權里",
+            "house_no": "63",
+            "candidates": {
+                "1": 609
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 993
+        },
+        {
+            "area": "彰化市",
+            "cunli": "忠權里",
+            "house_no": "64",
+            "candidates": {
+                "1": 601
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "彰化市",
+            "cunli": "忠權里",
+            "house_no": "65",
+            "candidates": {
+                "1": 525
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1008
+        }
+    ]
+}

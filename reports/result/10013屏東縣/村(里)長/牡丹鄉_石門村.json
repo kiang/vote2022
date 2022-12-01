@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張字豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "林一江",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "704",
+            "candidates": {
+                "1": 345,
+                "2": 222
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "705",
+            "candidates": {
+                "1": 266,
+                "2": 105
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 501
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "706",
+            "candidates": {
+                "1": 98,
+                "2": 106
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 305
+        }
+    ]
+}

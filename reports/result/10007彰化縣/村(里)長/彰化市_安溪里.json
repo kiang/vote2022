@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "萬士嘉",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁崇惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "安溪里",
+            "house_no": "178",
+            "candidates": {
+                "1": 316,
+                "2": 341
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "彰化市",
+            "cunli": "安溪里",
+            "house_no": "179",
+            "candidates": {
+                "1": 348,
+                "2": 249
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 899
+        }
+    ]
+}

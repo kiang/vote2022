@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "連春棠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳献堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "柳營區",
+            "cunli": "篤農里",
+            "house_no": "190",
+            "candidates": {
+                "1": 89,
+                "2": 311
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 632
+        },
+        {
+            "area": "柳營區",
+            "cunli": "篤農里",
+            "house_no": "191",
+            "candidates": {
+                "1": 105,
+                "2": 274
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 584
+        }
+    ]
+}

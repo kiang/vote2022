@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林柏融",
+            "party": "無"
+        },
+        "2": {
+            "name": "李國裕",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "新明里",
+            "house_no": "351",
+            "candidates": {
+                "1": 448,
+                "2": 373
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "泰山區",
+            "cunli": "新明里",
+            "house_no": "352",
+            "candidates": {
+                "1": 472,
+                "2": 398
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1408
+        }
+    ]
+}

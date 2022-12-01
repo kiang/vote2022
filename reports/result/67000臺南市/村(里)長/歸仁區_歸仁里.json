@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王振翰",
+            "party": "無"
+        },
+        "2": {
+            "name": "嚴銓鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "歸仁里",
+            "house_no": "1485",
+            "candidates": {
+                "1": 314,
+                "2": 410
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "歸仁里",
+            "house_no": "1486",
+            "candidates": {
+                "1": 290,
+                "2": 270
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

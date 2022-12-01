@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴茂行",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭文明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "永光村",
+            "house_no": "607",
+            "candidates": {
+                "1": 299,
+                "2": 284
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "永光村",
+            "house_no": "608",
+            "candidates": {
+                "1": 447,
+                "2": 221
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1077
+        }
+    ]
+}

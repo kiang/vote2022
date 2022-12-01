@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅進榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐振章",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳恒茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "滿州鄉",
+            "cunli": "長樂村",
+            "house_no": "638",
+            "candidates": {
+                "1": 279,
+                "2": 256,
+                "3": 407
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1235
+        }
+    ]
+}

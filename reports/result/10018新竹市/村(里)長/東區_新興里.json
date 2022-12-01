@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈威志",
+            "party": "無"
+        },
+        "2": {
+            "name": "張進明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "新興里",
+            "house_no": "130",
+            "candidates": {
+                "1": 327,
+                "2": 261
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 929
+        },
+        {
+            "area": "東區",
+            "cunli": "新興里",
+            "house_no": "131",
+            "candidates": {
+                "1": 334,
+                "2": 270
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 996
+        },
+        {
+            "area": "東區",
+            "cunli": "新興里",
+            "house_no": "132",
+            "candidates": {
+                "1": 370,
+                "2": 244
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1038
+        }
+    ]
+}

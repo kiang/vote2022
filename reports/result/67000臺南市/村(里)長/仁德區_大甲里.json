@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金寶",
+            "party": "無"
+        },
+        "2": {
+            "name": "許榮宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁德區",
+            "cunli": "大甲里",
+            "house_no": "1439",
+            "candidates": {
+                "1": 432,
+                "2": 248
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "仁德區",
+            "cunli": "大甲里",
+            "house_no": "1440",
+            "candidates": {
+                "1": 309,
+                "2": 578
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1166
+        }
+    ]
+}

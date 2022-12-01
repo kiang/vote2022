@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝喜松",
+            "party": "無"
+        },
+        "2": {
+            "name": "王年寬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "斗煥里",
+            "house_no": "346",
+            "candidates": {
+                "1": 381,
+                "2": 258
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "頭份市",
+            "cunli": "斗煥里",
+            "house_no": "347",
+            "candidates": {
+                "1": 325,
+                "2": 222
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 873
+        },
+        {
+            "area": "頭份市",
+            "cunli": "斗煥里",
+            "house_no": "348",
+            "candidates": {
+                "1": 348,
+                "2": 169
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 846
+        }
+    ]
+}

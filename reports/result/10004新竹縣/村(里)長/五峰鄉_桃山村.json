@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳素蓮",
+            "party": "無"
+        },
+        "2": {
+            "name": "王正雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五峰鄉",
+            "cunli": "桃山村",
+            "house_no": "460",
+            "candidates": {
+                "1": 214,
+                "2": 203
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 542
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "桃山村",
+            "house_no": "461",
+            "candidates": {
+                "1": 360,
+                "2": 313
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 874
+        }
+    ]
+}

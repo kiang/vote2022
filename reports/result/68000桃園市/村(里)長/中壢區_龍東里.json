@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張永隆",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳家豐",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "龍東里",
+            "house_no": "732",
+            "candidates": {
+                "1": 529,
+                "2": 449
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1586
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍東里",
+            "house_no": "733",
+            "candidates": {
+                "1": 457,
+                "2": 530
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍東里",
+            "house_no": "734",
+            "candidates": {
+                "1": 486,
+                "2": 530
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1639
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭德清",
+            "party": "無"
+        },
+        "2": {
+            "name": "方富詳",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭瑞益",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉秋婕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "北灣里",
+            "house_no": "923",
+            "candidates": {
+                "1": 90,
+                "2": 257,
+                "3": 222,
+                "4": 273
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1439
+        },
+        {
+            "area": "永康區",
+            "cunli": "北灣里",
+            "house_no": "924",
+            "candidates": {
+                "1": 151,
+                "2": 263,
+                "3": 197,
+                "4": 170
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "永康區",
+            "cunli": "北灣里",
+            "house_no": "925",
+            "candidates": {
+                "1": 146,
+                "2": 261,
+                "3": 175,
+                "4": 196
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1204
+        }
+    ]
+}

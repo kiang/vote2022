@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "民全里",
+            "house_no": "598",
+            "candidates": {
+                "1": 601
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "新莊區",
+            "cunli": "民全里",
+            "house_no": "599",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 968
+        },
+        {
+            "area": "新莊區",
+            "cunli": "民全里",
+            "house_no": "600",
+            "candidates": {
+                "1": 494
+            },
+            "count_wrong": 28,
+            "count_unused": 2,
+            "count_total": 992
+        }
+    ]
+}

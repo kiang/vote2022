@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡靜旻",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳壽彭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "秀山里",
+            "house_no": "135",
+            "candidates": {
+                "1": 370,
+                "2": 432
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "北投區",
+            "cunli": "秀山里",
+            "house_no": "136",
+            "candidates": {
+                "1": 407,
+                "2": 557
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1449
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳德文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓蘭鎮",
+            "cunli": "老庄里",
+            "house_no": "456",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 75,
+            "count_unused": 1,
+            "count_total": 872
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "老庄里",
+            "house_no": "457",
+            "candidates": {
+                "1": 570
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 919
+        }
+    ]
+}

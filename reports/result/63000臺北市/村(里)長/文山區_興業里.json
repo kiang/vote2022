@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "凌錦成",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興業里",
+            "house_no": "1644",
+            "candidates": {
+                "1": 623
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "文山區",
+            "cunli": "興業里",
+            "house_no": "1645",
+            "candidates": {
+                "1": 562
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 1027
+        },
+        {
+            "area": "文山區",
+            "cunli": "興業里",
+            "house_no": "1646",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 131,
+            "count_unused": 1,
+            "count_total": 987
+        },
+        {
+            "area": "文山區",
+            "cunli": "興業里",
+            "house_no": "1647",
+            "candidates": {
+                "1": 666
+            },
+            "count_wrong": 133,
+            "count_unused": 0,
+            "count_total": 1175
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李伯壽",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "盧美玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "846",
+            "candidates": {
+                "1": 389,
+                "2": 291
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 987
+        },
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "847",
+            "candidates": {
+                "1": 319,
+                "2": 302
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "848",
+            "candidates": {
+                "1": 330,
+                "2": 311
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "849",
+            "candidates": {
+                "1": 370,
+                "2": 292
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "850",
+            "candidates": {
+                "1": 359,
+                "2": 342
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "851",
+            "candidates": {
+                "1": 368,
+                "2": 247
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "信義區",
+            "cunli": "三張里",
+            "house_no": "852",
+            "candidates": {
+                "1": 324,
+                "2": 299
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 955
+        }
+    ]
+}

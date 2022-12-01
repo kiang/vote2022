@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清池",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊慎選",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄧仁隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "暖暖區",
+            "cunli": "過港里",
+            "house_no": "214",
+            "candidates": {
+                "1": 391,
+                "2": 178,
+                "3": 48
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "過港里",
+            "house_no": "215",
+            "candidates": {
+                "1": 386,
+                "2": 294,
+                "3": 32
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "過港里",
+            "house_no": "216",
+            "candidates": {
+                "1": 368,
+                "2": 427,
+                "3": 13
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1331
+        }
+    ]
+}

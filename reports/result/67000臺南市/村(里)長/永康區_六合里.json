@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李信輝",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "賴明騰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "六合里",
+            "house_no": "810",
+            "candidates": {
+                "1": 413,
+                "2": 227
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1238
+        },
+        {
+            "area": "永康區",
+            "cunli": "六合里",
+            "house_no": "811",
+            "candidates": {
+                "1": 474,
+                "2": 242
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1286
+        },
+        {
+            "area": "永康區",
+            "cunli": "六合里",
+            "house_no": "812",
+            "candidates": {
+                "1": 448,
+                "2": 221
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "永康區",
+            "cunli": "六合里",
+            "house_no": "813",
+            "candidates": {
+                "1": 495,
+                "2": 214
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1337
+        }
+    ]
+}

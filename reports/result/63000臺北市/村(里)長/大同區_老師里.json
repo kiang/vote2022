@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王奕宥",
+            "party": "無"
+        },
+        "2": {
+            "name": "許宮銘",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "賴淑芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "老師里",
+            "house_no": "1122",
+            "candidates": {
+                "1": 163,
+                "2": 387,
+                "3": 196
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "大同區",
+            "cunli": "老師里",
+            "house_no": "1123",
+            "candidates": {
+                "1": 213,
+                "2": 439,
+                "3": 147
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "大同區",
+            "cunli": "老師里",
+            "house_no": "1124",
+            "candidates": {
+                "1": 240,
+                "2": 338,
+                "3": 105
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "大同區",
+            "cunli": "老師里",
+            "house_no": "1125",
+            "candidates": {
+                "1": 341,
+                "2": 329,
+                "3": 118
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1146
+        }
+    ]
+}

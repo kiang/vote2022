@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉人誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳海順",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "民生里",
+            "house_no": "845",
+            "candidates": {
+                "1": 260,
+                "2": 343
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1079
+        },
+        {
+            "area": "三重區",
+            "cunli": "民生里",
+            "house_no": "846",
+            "candidates": {
+                "1": 393,
+                "2": 402
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "三重區",
+            "cunli": "民生里",
+            "house_no": "847",
+            "candidates": {
+                "1": 356,
+                "2": 395
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1241
+        }
+    ]
+}

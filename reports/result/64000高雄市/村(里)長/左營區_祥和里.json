@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉德文",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉傳中",
+            "party": "無"
+        },
+        "3": {
+            "name": "宋怡珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "祥和里",
+            "house_no": "602",
+            "candidates": {
+                "1": 167,
+                "2": 45,
+                "3": 51
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 334
+        }
+    ]
+}

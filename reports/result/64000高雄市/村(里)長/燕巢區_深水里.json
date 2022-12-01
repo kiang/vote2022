@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭天富",
+            "party": "無"
+        },
+        "2": {
+            "name": "林明雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "燕巢區",
+            "cunli": "深水里",
+            "house_no": "378",
+            "candidates": {
+                "1": 270,
+                "2": 519
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1361
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "深水里",
+            "house_no": "379",
+            "candidates": {
+                "1": 149,
+                "2": 412
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 979
+        }
+    ]
+}

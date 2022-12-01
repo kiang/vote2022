@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "粘昆在",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭寳桐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "廈粘村",
+            "house_no": "347",
+            "candidates": {
+                "1": 227,
+                "2": 363
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "廈粘村",
+            "house_no": "348",
+            "candidates": {
+                "1": 493,
+                "2": 153
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 940
+        }
+    ]
+}

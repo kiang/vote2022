@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林坤裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "秀林里",
+            "house_no": "250",
+            "candidates": {
+                "1": 116
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 190
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "秀林里",
+            "house_no": "251",
+            "candidates": {
+                "1": 263
+            },
+            "count_wrong": 39,
+            "count_unused": 1,
+            "count_total": 431
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡玉慧",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "洪炳煌",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "仁德里",
+            "house_no": "389",
+            "candidates": {
+                "1": 385,
+                "2": 437
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1285
+        },
+        {
+            "area": "烏日區",
+            "cunli": "仁德里",
+            "house_no": "390",
+            "candidates": {
+                "1": 258,
+                "2": 514
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "烏日區",
+            "cunli": "仁德里",
+            "house_no": "391",
+            "candidates": {
+                "1": 342,
+                "2": 470
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "烏日區",
+            "cunli": "仁德里",
+            "house_no": "392",
+            "candidates": {
+                "1": 269,
+                "2": 348
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "烏日區",
+            "cunli": "仁德里",
+            "house_no": "393",
+            "candidates": {
+                "1": 270,
+                "2": 410
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1097
+        },
+        {
+            "area": "烏日區",
+            "cunli": "仁德里",
+            "house_no": "394",
+            "candidates": {
+                "1": 266,
+                "2": 416
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1239
+        }
+    ]
+}

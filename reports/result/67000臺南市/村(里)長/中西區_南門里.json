@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇雅子",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "南門里",
+            "house_no": "1097",
+            "candidates": {
+                "1": 487
+            },
+            "count_wrong": 138,
+            "count_unused": 6,
+            "count_total": 1203
+        },
+        {
+            "area": "中西區",
+            "cunli": "南門里",
+            "house_no": "1098",
+            "candidates": {
+                "1": 496
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1145
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林勝隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡志雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "香社里",
+            "house_no": "1012",
+            "candidates": {
+                "1": 459,
+                "2": 300
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1338
+        },
+        {
+            "area": "板橋區",
+            "cunli": "香社里",
+            "house_no": "1013",
+            "candidates": {
+                "1": 465,
+                "2": 318
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1285
+        },
+        {
+            "area": "板橋區",
+            "cunli": "香社里",
+            "house_no": "1014",
+            "candidates": {
+                "1": 406,
+                "2": 314
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

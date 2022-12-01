@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明同",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "王泳淇",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱慧琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "德智里",
+            "house_no": "1157",
+            "candidates": {
+                "1": 294,
+                "2": 162,
+                "3": 175
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "三民區",
+            "cunli": "德智里",
+            "house_no": "1158",
+            "candidates": {
+                "1": 268,
+                "2": 142,
+                "3": 220
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1011
+        }
+    ]
+}

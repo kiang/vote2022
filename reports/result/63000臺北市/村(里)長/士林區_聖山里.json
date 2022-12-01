@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳三勇",
+            "party": "無"
+        },
+        "2": {
+            "name": "張光華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "聖山里",
+            "house_no": "280",
+            "candidates": {
+                "1": 612,
+                "2": 263
+            },
+            "count_wrong": 38,
+            "count_unused": 1,
+            "count_total": 1346
+        },
+        {
+            "area": "士林區",
+            "cunli": "聖山里",
+            "house_no": "281",
+            "candidates": {
+                "1": 591,
+                "2": 272
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "士林區",
+            "cunli": "聖山里",
+            "house_no": "282",
+            "candidates": {
+                "1": 597,
+                "2": 361
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1379
+        }
+    ]
+}

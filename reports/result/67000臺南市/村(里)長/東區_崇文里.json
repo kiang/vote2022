@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳育民",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳冠瑒",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "崇文里",
+            "house_no": "1307",
+            "candidates": {
+                "1": 234,
+                "2": 386
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "東區",
+            "cunli": "崇文里",
+            "house_no": "1308",
+            "candidates": {
+                "1": 287,
+                "2": 414
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "東區",
+            "cunli": "崇文里",
+            "house_no": "1309",
+            "candidates": {
+                "1": 250,
+                "2": 405
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1163
+        },
+        {
+            "area": "東區",
+            "cunli": "崇文里",
+            "house_no": "1310",
+            "candidates": {
+                "1": 227,
+                "2": 409
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "東區",
+            "cunli": "崇文里",
+            "house_no": "1311",
+            "candidates": {
+                "1": 181,
+                "2": 352
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 927
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李美雲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉修宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "瑞竹里",
+            "house_no": "1509",
+            "candidates": {
+                "1": 475,
+                "2": 163
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "瑞竹里",
+            "house_no": "1510",
+            "candidates": {
+                "1": 486,
+                "2": 164
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "瑞竹里",
+            "house_no": "1511",
+            "candidates": {
+                "1": 475,
+                "2": 173
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "瑞竹里",
+            "house_no": "1512",
+            "candidates": {
+                "1": 594,
+                "2": 170
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1301
+        }
+    ]
+}

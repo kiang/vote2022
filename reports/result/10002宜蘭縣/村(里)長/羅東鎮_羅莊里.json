@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張添財",
+            "party": "無"
+        },
+        "2": {
+            "name": "許文川",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘佳樟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "羅莊里",
+            "house_no": "90",
+            "candidates": {
+                "1": 299,
+                "2": 268,
+                "3": 205
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "羅莊里",
+            "house_no": "91",
+            "candidates": {
+                "1": 194,
+                "2": 125,
+                "3": 143
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "羅莊里",
+            "house_no": "92",
+            "candidates": {
+                "1": 245,
+                "2": 131,
+                "3": 120
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 857
+        }
+    ]
+}

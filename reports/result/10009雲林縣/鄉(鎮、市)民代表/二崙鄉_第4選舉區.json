@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾應武",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪美雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二崙鄉",
+            "cunli": "港後村",
+            "house_no": "360",
+            "candidates": {
+                "1": 323,
+                "2": 258
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "港後村",
+            "house_no": "361",
+            "candidates": {
+                "1": 108,
+                "2": 267
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 621
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "大義村",
+            "house_no": "362",
+            "candidates": {
+                "1": 172,
+                "2": 278
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "油車村",
+            "house_no": "363",
+            "candidates": {
+                "1": 449,
+                "2": 137
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "油車村",
+            "house_no": "364",
+            "candidates": {
+                "1": 228,
+                "2": 106
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 642
+        }
+    ]
+}

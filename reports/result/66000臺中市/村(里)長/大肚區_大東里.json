@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙政忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "大東里",
+            "house_no": "333",
+            "candidates": {
+                "1": 493
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 923
+        },
+        {
+            "area": "大肚區",
+            "cunli": "大東里",
+            "house_no": "334",
+            "candidates": {
+                "1": 414
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 806
+        },
+        {
+            "area": "大肚區",
+            "cunli": "大東里",
+            "house_no": "335",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 1163
+        }
+    ]
+}

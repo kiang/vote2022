@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施鈞堡",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈銀德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "力行里",
+            "house_no": "1039",
+            "candidates": {
+                "1": 312,
+                "2": 499
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "中山區",
+            "cunli": "力行里",
+            "house_no": "1040",
+            "candidates": {
+                "1": 352,
+                "2": 412
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "中山區",
+            "cunli": "力行里",
+            "house_no": "1041",
+            "candidates": {
+                "1": 402,
+                "2": 336
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "中山區",
+            "cunli": "力行里",
+            "house_no": "1042",
+            "candidates": {
+                "1": 382,
+                "2": 443
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

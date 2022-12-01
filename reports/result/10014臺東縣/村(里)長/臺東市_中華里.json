@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅進坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊耀乾",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "中華里",
+            "house_no": "3",
+            "candidates": {
+                "1": 390,
+                "2": 324
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1143
+        },
+        {
+            "area": "臺東市",
+            "cunli": "中華里",
+            "house_no": "4",
+            "candidates": {
+                "1": 140,
+                "2": 563
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1034
+        }
+    ]
+}

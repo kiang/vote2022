@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝慶閣",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳宏偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金湖鎮",
+            "cunli": "料羅里",
+            "house_no": "65",
+            "candidates": {
+                "1": 179,
+                "2": 160
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "料羅里",
+            "house_no": "66",
+            "candidates": {
+                "1": 259,
+                "2": 163
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1090
+        }
+    ]
+}

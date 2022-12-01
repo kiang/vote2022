@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李巧函",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "葉雅惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "茄苳里",
+            "house_no": "2573",
+            "candidates": {
+                "1": 415,
+                "2": 334
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "汐止區",
+            "cunli": "茄苳里",
+            "house_no": "2574",
+            "candidates": {
+                "1": 327,
+                "2": 387
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "汐止區",
+            "cunli": "茄苳里",
+            "house_no": "2575",
+            "candidates": {
+                "1": 290,
+                "2": 347
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1196
+        }
+    ]
+}

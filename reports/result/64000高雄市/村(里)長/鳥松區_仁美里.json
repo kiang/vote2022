@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王清見",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "潘麗玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳家儒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳥松區",
+            "cunli": "仁美里",
+            "house_no": "820",
+            "candidates": {
+                "1": 53,
+                "2": 242,
+                "3": 452
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "仁美里",
+            "house_no": "821",
+            "candidates": {
+                "1": 52,
+                "2": 421,
+                "3": 509
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1569
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "仁美里",
+            "house_no": "822",
+            "candidates": {
+                "1": 54,
+                "2": 179,
+                "3": 488
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "仁美里",
+            "house_no": "823",
+            "candidates": {
+                "1": 58,
+                "2": 267,
+                "3": 362
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "仁美里",
+            "house_no": "824",
+            "candidates": {
+                "1": 62,
+                "2": 217,
+                "3": 356
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1044
+        }
+    ]
+}

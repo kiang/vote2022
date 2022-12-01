@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊正成",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃天送",
+            "party": "無"
+        },
+        "3": {
+            "name": "傅玉人",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊蔡枝蓮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "檜樂里",
+            "house_no": "250",
+            "candidates": {
+                "1": 145,
+                "2": 310,
+                "3": 117,
+                "4": 168
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1397
+        },
+        {
+            "area": "桃園區",
+            "cunli": "檜樂里",
+            "house_no": "251",
+            "candidates": {
+                "1": 142,
+                "2": 242,
+                "3": 121,
+                "4": 203
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1400
+        },
+        {
+            "area": "桃園區",
+            "cunli": "檜樂里",
+            "house_no": "252",
+            "candidates": {
+                "1": 317,
+                "2": 175,
+                "3": 90,
+                "4": 280
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1534
+        },
+        {
+            "area": "桃園區",
+            "cunli": "檜樂里",
+            "house_no": "253",
+            "candidates": {
+                "1": 123,
+                "2": 252,
+                "3": 57,
+                "4": 336
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1500
+        }
+    ]
+}

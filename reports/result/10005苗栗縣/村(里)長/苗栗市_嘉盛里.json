@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李源發",
+            "party": "無"
+        },
+        "2": {
+            "name": "傅菊蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "胡森琳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "嘉盛里",
+            "house_no": "37",
+            "candidates": {
+                "1": 193,
+                "2": 334,
+                "3": 225
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "嘉盛里",
+            "house_no": "38",
+            "candidates": {
+                "1": 144,
+                "2": 288,
+                "3": 215
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "嘉盛里",
+            "house_no": "39",
+            "candidates": {
+                "1": 132,
+                "2": 310,
+                "3": 235
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1092
+        }
+    ]
+}

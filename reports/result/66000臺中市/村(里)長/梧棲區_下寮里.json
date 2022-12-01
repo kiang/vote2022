@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許福順",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳常瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梧棲區",
+            "cunli": "下寮里",
+            "house_no": "162",
+            "candidates": {
+                "1": 507,
+                "2": 235
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "下寮里",
+            "house_no": "163",
+            "candidates": {
+                "1": 386,
+                "2": 170
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 824
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊仁義",
+            "party": "無"
+        },
+        "2": {
+            "name": "王翠雯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "布袋鎮",
+            "cunli": "樹林里",
+            "house_no": "369",
+            "candidates": {
+                "1": 137,
+                "2": 119
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 295
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "樹林里",
+            "house_no": "370",
+            "candidates": {
+                "1": 95,
+                "2": 97
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 233
+        }
+    ]
+}

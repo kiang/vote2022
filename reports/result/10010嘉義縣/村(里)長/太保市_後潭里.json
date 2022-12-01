@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡明守",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡樹福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "後潭里",
+            "house_no": "6",
+            "candidates": {
+                "1": 200,
+                "2": 330
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 723
+        },
+        {
+            "area": "太保市",
+            "cunli": "後潭里",
+            "house_no": "7",
+            "candidates": {
+                "1": 241,
+                "2": 373
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 915
+        }
+    ]
+}

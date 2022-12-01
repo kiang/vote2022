@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王貴美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "嘉仁里",
+            "house_no": "168",
+            "candidates": {
+                "1": 838
+            },
+            "count_wrong": 163,
+            "count_unused": 1,
+            "count_total": 1760
+        },
+        {
+            "area": "安樂區",
+            "cunli": "嘉仁里",
+            "house_no": "169",
+            "candidates": {
+                "1": 643
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1237
+        }
+    ]
+}

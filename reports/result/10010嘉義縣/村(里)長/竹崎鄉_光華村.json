@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭崑甲",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧德勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹崎鄉",
+            "cunli": "光華村",
+            "house_no": "492",
+            "candidates": {
+                "1": 123,
+                "2": 210
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 419
+        },
+        {
+            "area": "竹崎鄉",
+            "cunli": "光華村",
+            "house_no": "493",
+            "candidates": {
+                "1": 83,
+                "2": 92
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 237
+        }
+    ]
+}

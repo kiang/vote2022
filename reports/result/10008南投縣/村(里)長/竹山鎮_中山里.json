@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡宗政",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉中村",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊士德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "234",
+            "candidates": {
+                "1": 215,
+                "2": 171,
+                "3": 163
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 840
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "235",
+            "candidates": {
+                "1": 249,
+                "2": 241,
+                "3": 199
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "236",
+            "candidates": {
+                "1": 330,
+                "2": 230,
+                "3": 173
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "中山里",
+            "house_no": "237",
+            "candidates": {
+                "1": 420,
+                "2": 307,
+                "3": 176
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1316
+        }
+    ]
+}

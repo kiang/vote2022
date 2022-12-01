@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭瑀筑",
+            "party": "無"
+        },
+        "2": {
+            "name": "王麗珠",
+            "party": "無"
+        },
+        "3": {
+            "name": "王明智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "淡水區",
+            "cunli": "沙崙里",
+            "house_no": "140",
+            "candidates": {
+                "1": 329,
+                "2": 343,
+                "3": 87
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "淡水區",
+            "cunli": "沙崙里",
+            "house_no": "141",
+            "candidates": {
+                "1": 331,
+                "2": 313,
+                "3": 107
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "淡水區",
+            "cunli": "沙崙里",
+            "house_no": "142",
+            "candidates": {
+                "1": 404,
+                "2": 237,
+                "3": 68
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1422
+        }
+    ]
+}

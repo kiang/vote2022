@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鐘明堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "永興村",
+            "house_no": "1038",
+            "candidates": {
+                "1": 356
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 666
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "永興村",
+            "house_no": "1039",
+            "candidates": {
+                "1": 307
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 608
+        }
+    ]
+}

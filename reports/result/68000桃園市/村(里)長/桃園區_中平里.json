@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏秀錦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中平里",
+            "house_no": "58",
+            "candidates": {
+                "1": 711
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中平里",
+            "house_no": "59",
+            "candidates": {
+                "1": 780
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1547
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中平里",
+            "house_no": "60",
+            "candidates": {
+                "1": 734
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1472
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯福成",
+            "party": "無"
+        },
+        "2": {
+            "name": "王秀玉",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "大涼里",
+            "house_no": "1079",
+            "candidates": {
+                "1": 332,
+                "2": 326
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "中西區",
+            "cunli": "大涼里",
+            "house_no": "1080",
+            "candidates": {
+                "1": 406,
+                "2": 284
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

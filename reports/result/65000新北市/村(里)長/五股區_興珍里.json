@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃朝枝",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭國榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "興珍里",
+            "house_no": "256",
+            "candidates": {
+                "1": 535,
+                "2": 241
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1322
+        },
+        {
+            "area": "五股區",
+            "cunli": "興珍里",
+            "house_no": "257",
+            "candidates": {
+                "1": 387,
+                "2": 352
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1460
+        },
+        {
+            "area": "五股區",
+            "cunli": "興珍里",
+            "house_no": "258",
+            "candidates": {
+                "1": 397,
+                "2": 374
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1206
+        }
+    ]
+}

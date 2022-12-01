@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉英樟",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳仁益",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡昌曄",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡正國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "更寮里",
+            "house_no": "259",
+            "candidates": {
+                "1": 66,
+                "2": 295,
+                "3": 156,
+                "4": 124
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1019
+        }
+    ]
+}

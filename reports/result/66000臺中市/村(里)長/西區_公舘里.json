@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝錫宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "余冠鋐",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "公舘里",
+            "house_no": "1304",
+            "candidates": {
+                "1": 425,
+                "2": 337
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1266
+        },
+        {
+            "area": "西區",
+            "cunli": "公舘里",
+            "house_no": "1305",
+            "candidates": {
+                "1": 468,
+                "2": 339
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "西區",
+            "cunli": "公舘里",
+            "house_no": "1306",
+            "candidates": {
+                "1": 374,
+                "2": 329
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "西區",
+            "cunli": "公舘里",
+            "house_no": "1307",
+            "candidates": {
+                "1": 449,
+                "2": 447
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1365
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雲生",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林東漢",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝佛青",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "福龜村",
+            "house_no": "417",
+            "candidates": {
+                "1": 131,
+                "2": 168,
+                "3": 363
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "福龜村",
+            "house_no": "418",
+            "candidates": {
+                "1": 127,
+                "2": 252,
+                "3": 240
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "乾溝村",
+            "house_no": "419",
+            "candidates": {
+                "1": 158,
+                "2": 143,
+                "3": 181
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 739
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "柑林村",
+            "house_no": "420",
+            "candidates": {
+                "1": 482,
+                "2": 148,
+                "3": 173
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1067
+        }
+    ]
+}

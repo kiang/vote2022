@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉威儀",
+            "party": "無"
+        },
+        "2": {
+            "name": "林季蓉",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳謙德",
+            "party": "無"
+        },
+        "4": {
+            "name": "李政翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "公園里",
+            "house_no": "31",
+            "candidates": {
+                "1": 18,
+                "2": 432,
+                "3": 62,
+                "4": 83
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "東區",
+            "cunli": "公園里",
+            "house_no": "32",
+            "candidates": {
+                "1": 21,
+                "2": 377,
+                "3": 106,
+                "4": 135
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "東區",
+            "cunli": "公園里",
+            "house_no": "33",
+            "candidates": {
+                "1": 30,
+                "2": 398,
+                "3": 45,
+                "4": 94
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 913
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫有明",
+            "party": "無"
+        },
+        "2": {
+            "name": "趙興邦",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝松鳳",
+            "party": "無"
+        },
+        "4": {
+            "name": "周羽心",
+            "party": "無"
+        },
+        "5": {
+            "name": "廖家盛",
+            "party": "無"
+        },
+        "6": {
+            "name": "張金隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "五谷村",
+            "house_no": "89",
+            "candidates": {
+                "1": 145,
+                "2": 51,
+                "3": 115,
+                "4": 328,
+                "5": 6,
+                "6": 173
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1265
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "五谷村",
+            "house_no": "90",
+            "candidates": {
+                "1": 114,
+                "2": 47,
+                "3": 106,
+                "4": 158,
+                "5": 21,
+                "6": 111
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "玉谷村",
+            "house_no": "91",
+            "candidates": {
+                "1": 39,
+                "2": 101,
+                "3": 99,
+                "4": 163,
+                "5": 15,
+                "6": 77
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 698
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "玉谷村",
+            "house_no": "92",
+            "candidates": {
+                "1": 24,
+                "2": 72,
+                "3": 54,
+                "4": 181,
+                "5": 10,
+                "6": 53
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 693
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "鶴岡村",
+            "house_no": "93",
+            "candidates": {
+                "1": 55,
+                "2": 55,
+                "3": 184,
+                "4": 133,
+                "5": 26,
+                "6": 91
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 842
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "鶴岡村",
+            "house_no": "94",
+            "candidates": {
+                "1": 38,
+                "2": 54,
+                "3": 125,
+                "4": 111,
+                "5": 31,
+                "6": 96
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 674
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "鶴山村",
+            "house_no": "95",
+            "candidates": {
+                "1": 16,
+                "2": 45,
+                "3": 219,
+                "4": 81,
+                "5": 16,
+                "6": 40
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 637
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "鶴山村",
+            "house_no": "96",
+            "candidates": {
+                "1": 18,
+                "2": 20,
+                "3": 284,
+                "4": 76,
+                "5": 10,
+                "6": 28
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 729
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "尖山村",
+            "house_no": "97",
+            "candidates": {
+                "1": 36,
+                "2": 142,
+                "3": 128,
+                "4": 89,
+                "5": 13,
+                "6": 21
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 655
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "尖山村",
+            "house_no": "98",
+            "candidates": {
+                "1": 9,
+                "2": 218,
+                "3": 140,
+                "4": 78,
+                "5": 16,
+                "6": 14
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "仁安村",
+            "house_no": "99",
+            "candidates": {
+                "1": 107,
+                "2": 271,
+                "3": 206,
+                "4": 168,
+                "5": 53,
+                "6": 59
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "南河村",
+            "house_no": "100",
+            "candidates": {
+                "1": 7,
+                "2": 38,
+                "3": 50,
+                "4": 35,
+                "5": 4,
+                "6": 35
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 195
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "北河村",
+            "house_no": "101",
+            "candidates": {
+                "1": 22,
+                "2": 71,
+                "3": 65,
+                "4": 41,
+                "5": 8,
+                "6": 9
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 306
+        }
+    ]
+}

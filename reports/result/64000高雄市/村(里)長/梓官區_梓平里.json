@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡坤明",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭群淑",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃常吉",
+            "party": "無"
+        },
+        "4": {
+            "name": "阮順和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "梓平里",
+            "house_no": "405",
+            "candidates": {
+                "1": 104,
+                "2": 337,
+                "3": 448,
+                "4": 89
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1422
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧姿貝",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝蕙鎂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "培德里",
+            "house_no": "914",
+            "candidates": {
+                "1": 593,
+                "2": 349
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1510
+        },
+        {
+            "area": "三重區",
+            "cunli": "培德里",
+            "house_no": "915",
+            "candidates": {
+                "1": 500,
+                "2": 485
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1575
+        }
+    ]
+}

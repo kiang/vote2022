@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃登科",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳俊源",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞興里",
+            "house_no": "1777",
+            "candidates": {
+                "1": 287,
+                "2": 430
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞興里",
+            "house_no": "1778",
+            "candidates": {
+                "1": 326,
+                "2": 459
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1200
+        }
+    ]
+}

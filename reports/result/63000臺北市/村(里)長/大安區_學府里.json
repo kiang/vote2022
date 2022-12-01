@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李淳琳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林慧瑜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "學府里",
+            "house_no": "1578",
+            "candidates": {
+                "1": 371,
+                "2": 136
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "大安區",
+            "cunli": "學府里",
+            "house_no": "1579",
+            "candidates": {
+                "1": 234,
+                "2": 134
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 573
+        },
+        {
+            "area": "大安區",
+            "cunli": "學府里",
+            "house_no": "1580",
+            "candidates": {
+                "1": 236,
+                "2": 124
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 577
+        }
+    ]
+}

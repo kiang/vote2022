@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉玉芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林聖欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "集福里",
+            "house_no": "261",
+            "candidates": {
+                "1": 625,
+                "2": 211
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1593
+        },
+        {
+            "area": "五股區",
+            "cunli": "集福里",
+            "house_no": "262",
+            "candidates": {
+                "1": 470,
+                "2": 202
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "五股區",
+            "cunli": "集福里",
+            "house_no": "263",
+            "candidates": {
+                "1": 180,
+                "2": 80
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 447
+        }
+    ]
+}

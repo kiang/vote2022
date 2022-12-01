@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡宗榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡忠峰",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡維瑞",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡章源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "布袋鎮",
+            "cunli": "岱江里",
+            "house_no": "355",
+            "candidates": {
+                "1": 112,
+                "2": 98,
+                "3": 97,
+                "4": 98
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 571
+        }
+    ]
+}

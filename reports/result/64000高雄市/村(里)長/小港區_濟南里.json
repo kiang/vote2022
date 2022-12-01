@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳妙珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "薛審",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "濟南里",
+            "house_no": "1831",
+            "candidates": {
+                "1": 410,
+                "2": 426
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "小港區",
+            "cunli": "濟南里",
+            "house_no": "1832",
+            "candidates": {
+                "1": 422,
+                "2": 420
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "小港區",
+            "cunli": "濟南里",
+            "house_no": "1833",
+            "candidates": {
+                "1": 348,
+                "2": 368
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1174
+        }
+    ]
+}

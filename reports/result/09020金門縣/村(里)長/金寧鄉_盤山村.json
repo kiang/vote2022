@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁明海",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁品洋",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金寧鄉",
+            "cunli": "盤山村",
+            "house_no": "42",
+            "candidates": {
+                "1": 202,
+                "2": 406
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1571
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "盤山村",
+            "house_no": "43",
+            "candidates": {
+                "1": 98,
+                "2": 296
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "盤山村",
+            "house_no": "44",
+            "candidates": {
+                "1": 147,
+                "2": 332
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1378
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "盤山村",
+            "house_no": "45",
+            "candidates": {
+                "1": 204,
+                "2": 241
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "盤山村",
+            "house_no": "46",
+            "candidates": {
+                "1": 62,
+                "2": 355
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1075
+        }
+    ]
+}

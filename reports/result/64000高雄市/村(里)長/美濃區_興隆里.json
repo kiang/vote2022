@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃耀榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃銘鈞",
+            "party": "無"
+        },
+        "3": {
+            "name": "李雨宣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "興隆里",
+            "house_no": "116",
+            "candidates": {
+                "1": 400,
+                "2": 327,
+                "3": 48
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

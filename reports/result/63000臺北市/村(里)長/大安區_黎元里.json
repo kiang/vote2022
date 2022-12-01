@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯邱素鑾",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "楊志賢",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇偉彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "黎元里",
+            "house_no": "1536",
+            "candidates": {
+                "1": 298,
+                "2": 68,
+                "3": 443
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "大安區",
+            "cunli": "黎元里",
+            "house_no": "1537",
+            "candidates": {
+                "1": 309,
+                "2": 57,
+                "3": 322
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "大安區",
+            "cunli": "黎元里",
+            "house_no": "1538",
+            "candidates": {
+                "1": 221,
+                "2": 43,
+                "3": 396
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "大安區",
+            "cunli": "黎元里",
+            "house_no": "1539",
+            "candidates": {
+                "1": 437,
+                "2": 110,
+                "3": 234
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1206
+        }
+    ]
+}

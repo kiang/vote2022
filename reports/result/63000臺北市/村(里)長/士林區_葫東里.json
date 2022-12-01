@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭淑玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊詔蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "廖尚蔚",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭秀連",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "葫東里",
+            "house_no": "236",
+            "candidates": {
+                "1": 374,
+                "2": 171,
+                "3": 78,
+                "4": 50
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "士林區",
+            "cunli": "葫東里",
+            "house_no": "237",
+            "candidates": {
+                "1": 331,
+                "2": 218,
+                "3": 68,
+                "4": 162
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1144
+        },
+        {
+            "area": "士林區",
+            "cunli": "葫東里",
+            "house_no": "238",
+            "candidates": {
+                "1": 366,
+                "2": 204,
+                "3": 80,
+                "4": 107
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1141
+        }
+    ]
+}

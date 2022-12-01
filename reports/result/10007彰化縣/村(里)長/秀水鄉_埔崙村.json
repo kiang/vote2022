@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇鍠鐺",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇世",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "埔崙村",
+            "house_no": "380",
+            "candidates": {
+                "1": 218,
+                "2": 323
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 816
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "埔崙村",
+            "house_no": "381",
+            "candidates": {
+                "1": 267,
+                "2": 409
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

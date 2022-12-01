@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾于靜",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭百慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "國姓村",
+            "house_no": "406",
+            "candidates": {
+                "1": 232,
+                "2": 404
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "國姓村",
+            "house_no": "407",
+            "candidates": {
+                "1": 156,
+                "2": 305
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 681
+        }
+    ]
+}

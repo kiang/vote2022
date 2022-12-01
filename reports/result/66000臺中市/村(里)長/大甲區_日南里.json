@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱大豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "施德讓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "日南里",
+            "house_no": "47",
+            "candidates": {
+                "1": 356,
+                "2": 388
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "大甲區",
+            "cunli": "日南里",
+            "house_no": "48",
+            "candidates": {
+                "1": 484,
+                "2": 327
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1408
+        },
+        {
+            "area": "大甲區",
+            "cunli": "日南里",
+            "house_no": "49",
+            "candidates": {
+                "1": 456,
+                "2": 352
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "大甲區",
+            "cunli": "日南里",
+            "house_no": "50",
+            "candidates": {
+                "1": 399,
+                "2": 346
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1289
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文聰",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳淑芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "和平里",
+            "house_no": "1313",
+            "candidates": {
+                "1": 317,
+                "2": 482
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "萬華區",
+            "cunli": "和平里",
+            "house_no": "1314",
+            "candidates": {
+                "1": 269,
+                "2": 365
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "萬華區",
+            "cunli": "和平里",
+            "house_no": "1315",
+            "candidates": {
+                "1": 354,
+                "2": 395
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "萬華區",
+            "cunli": "和平里",
+            "house_no": "1316",
+            "candidates": {
+                "1": 333,
+                "2": 328
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "萬華區",
+            "cunli": "和平里",
+            "house_no": "1317",
+            "candidates": {
+                "1": 249,
+                "2": 435
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

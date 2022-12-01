@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余蕎安",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳廣政",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "田仔村",
+            "house_no": "317",
+            "candidates": {
+                "1": 213,
+                "2": 575
+            },
+            "count_wrong": 151,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "大坑村",
+            "house_no": "318",
+            "candidates": {
+                "1": 137,
+                "2": 243
+            },
+            "count_wrong": 72,
+            "count_unused": 1,
+            "count_total": 690
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "大庄村",
+            "house_no": "319",
+            "candidates": {
+                "1": 439,
+                "2": 132
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "大庄村",
+            "house_no": "320",
+            "candidates": {
+                "1": 357,
+                "2": 170
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 822
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "廍下村",
+            "house_no": "321",
+            "candidates": {
+                "1": 196,
+                "2": 461
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 885
+        }
+    ]
+}

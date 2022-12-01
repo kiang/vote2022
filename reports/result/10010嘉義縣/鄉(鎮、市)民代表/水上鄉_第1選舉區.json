@@ -1,0 +1,234 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王曙柏",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉龍春",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡山義",
+            "party": "無"
+        },
+        "4": {
+            "name": "王勇安",
+            "party": "無"
+        },
+        "5": {
+            "name": "王國智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "水上村",
+            "house_no": "62",
+            "candidates": {
+                "1": 87,
+                "2": 25,
+                "3": 19,
+                "4": 76,
+                "5": 76,
+                "6": 173
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "水上村",
+            "house_no": "63",
+            "candidates": {
+                "1": 106,
+                "2": 38,
+                "3": 13,
+                "4": 91,
+                "5": 184,
+                "6": 186
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "水上村",
+            "house_no": "64",
+            "candidates": {
+                "1": 89,
+                "2": 58,
+                "3": 21,
+                "4": 141,
+                "5": 109,
+                "6": 143
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "水上村",
+            "house_no": "65",
+            "candidates": {
+                "1": 94,
+                "2": 22,
+                "3": 31,
+                "4": 117,
+                "5": 62,
+                "6": 132
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "水頭村",
+            "house_no": "66",
+            "candidates": {
+                "1": 135,
+                "2": 82,
+                "3": 61,
+                "4": 66,
+                "5": 118,
+                "6": 168
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "水頭村",
+            "house_no": "67",
+            "candidates": {
+                "1": 119,
+                "2": 86,
+                "3": 126,
+                "4": 75,
+                "5": 161,
+                "6": 194
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "粗溪村",
+            "house_no": "68",
+            "candidates": {
+                "1": 132,
+                "2": 94,
+                "3": 24,
+                "4": 79,
+                "5": 156,
+                "6": 179
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "粗溪村",
+            "house_no": "69",
+            "candidates": {
+                "1": 22,
+                "2": 33,
+                "3": 8,
+                "4": 32,
+                "5": 59,
+                "6": 42
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 295
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "下寮村",
+            "house_no": "70",
+            "candidates": {
+                "1": 36,
+                "2": 94,
+                "3": 5,
+                "4": 27,
+                "5": 113,
+                "6": 52
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 624
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "下寮村",
+            "house_no": "71",
+            "candidates": {
+                "1": 35,
+                "2": 300,
+                "3": 9,
+                "4": 233,
+                "5": 63,
+                "6": 63
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "三和村",
+            "house_no": "72",
+            "candidates": {
+                "1": 37,
+                "2": 213,
+                "3": 16,
+                "4": 67,
+                "5": 84,
+                "6": 104
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "三和村",
+            "house_no": "73",
+            "candidates": {
+                "1": 34,
+                "2": 144,
+                "3": 23,
+                "4": 55,
+                "5": 96,
+                "6": 95
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 705
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "回歸村",
+            "house_no": "74",
+            "candidates": {
+                "1": 12,
+                "2": 60,
+                "3": 4,
+                "4": 49,
+                "5": 69,
+                "6": 51
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 406
+        }
+    ]
+}

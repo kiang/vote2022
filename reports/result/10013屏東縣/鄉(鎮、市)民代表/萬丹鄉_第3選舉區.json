@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐銘言",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅司倫",
+            "party": "無"
+        },
+        "3": {
+            "name": "毛民欽",
+            "party": "無"
+        },
+        "4": {
+            "name": "林仲勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "崙頂村",
+            "house_no": "279",
+            "candidates": {
+                "1": 470,
+                "2": 134
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "崙頂村",
+            "house_no": "280",
+            "candidates": {
+                "1": 345,
+                "2": 120
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 835
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦北村",
+            "house_no": "281",
+            "candidates": {
+                "1": 225,
+                "2": 315
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦北村",
+            "house_no": "282",
+            "candidates": {
+                "1": 224,
+                "2": 262
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦南村",
+            "house_no": "283",
+            "candidates": {
+                "1": 345,
+                "2": 507
+            },
+            "count_wrong": 136,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "後村村",
+            "house_no": "284",
+            "candidates": {
+                "1": 333,
+                "2": 310
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "灣內村",
+            "house_no": "285",
+            "candidates": {
+                "1": 443,
+                "2": 358
+            },
+            "count_wrong": 120,
+            "count_unused": 1,
+            "count_total": 1289
+        }
+    ]
+}

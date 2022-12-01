@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張弘岳",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝見忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "南村里",
+            "house_no": "540",
+            "candidates": {
+                "1": 272,
+                "2": 591
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 1432
+        },
+        {
+            "area": "豐原區",
+            "cunli": "南村里",
+            "house_no": "541",
+            "candidates": {
+                "1": 211,
+                "2": 492
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "豐原區",
+            "cunli": "南村里",
+            "house_no": "542",
+            "candidates": {
+                "1": 197,
+                "2": 482
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "豐原區",
+            "cunli": "南村里",
+            "house_no": "543",
+            "candidates": {
+                "1": 238,
+                "2": 554
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1368
+        }
+    ]
+}

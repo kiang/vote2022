@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美智",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹順吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "後厝里",
+            "house_no": "992",
+            "candidates": {
+                "1": 196,
+                "2": 344
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "後厝里",
+            "house_no": "993",
+            "candidates": {
+                "1": 295,
+                "2": 354
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "後厝里",
+            "house_no": "994",
+            "candidates": {
+                "1": 286,
+                "2": 497
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1296
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宏基",
+            "party": "無"
+        },
+        "2": {
+            "name": "王全益",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "楊燈煙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "郡南里",
+            "house_no": "1222",
+            "candidates": {
+                "1": 64,
+                "2": 358,
+                "3": 430
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1414
+        },
+        {
+            "area": "南區",
+            "cunli": "郡南里",
+            "house_no": "1223",
+            "candidates": {
+                "1": 121,
+                "2": 672,
+                "3": 465
+            },
+            "count_wrong": 33,
+            "count_unused": 1,
+            "count_total": 1966
+        }
+    ]
+}

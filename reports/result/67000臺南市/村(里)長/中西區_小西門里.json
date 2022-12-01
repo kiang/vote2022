@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王重堅",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾俊仁",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "小西門里",
+            "house_no": "1099",
+            "candidates": {
+                "1": 260,
+                "2": 272
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "中西區",
+            "cunli": "小西門里",
+            "house_no": "1100",
+            "candidates": {
+                "1": 231,
+                "2": 343
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "中西區",
+            "cunli": "小西門里",
+            "house_no": "1101",
+            "candidates": {
+                "1": 271,
+                "2": 205
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 841
+        }
+    ]
+}

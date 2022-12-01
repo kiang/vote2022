@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文堯",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳威誠",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳志遠",
+            "party": "無"
+        },
+        "4": {
+            "name": "邱坤煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "海西里",
+            "house_no": "747",
+            "candidates": {
+                "1": 89,
+                "2": 309,
+                "3": 170,
+                "4": 386
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1451
+        },
+        {
+            "area": "安南區",
+            "cunli": "海西里",
+            "house_no": "748",
+            "candidates": {
+                "1": 114,
+                "2": 255,
+                "3": 157,
+                "4": 250
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1242
+        }
+    ]
+}

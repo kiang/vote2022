@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊文良",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪建智",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "店鎮里",
+            "house_no": "1806",
+            "candidates": {
+                "1": 584,
+                "2": 219
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1454
+        },
+        {
+            "area": "小港區",
+            "cunli": "店鎮里",
+            "house_no": "1807",
+            "candidates": {
+                "1": 422,
+                "2": 218
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "小港區",
+            "cunli": "店鎮里",
+            "house_no": "1808",
+            "candidates": {
+                "1": 465,
+                "2": 180
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "小港區",
+            "cunli": "店鎮里",
+            "house_no": "1809",
+            "candidates": {
+                "1": 530,
+                "2": 211
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1346
+        }
+    ]
+}

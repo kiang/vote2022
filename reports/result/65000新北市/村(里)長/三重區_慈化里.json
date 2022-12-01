@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉淇豊",
+            "party": "無"
+        },
+        "2": {
+            "name": "張清泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "慈化里",
+            "house_no": "968",
+            "candidates": {
+                "1": 182,
+                "2": 391
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "三重區",
+            "cunli": "慈化里",
+            "house_no": "969",
+            "candidates": {
+                "1": 256,
+                "2": 420
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1125
+        }
+    ]
+}

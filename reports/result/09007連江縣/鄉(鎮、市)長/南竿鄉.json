@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳其平",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林志東",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南竿鄉",
+            "cunli": "介壽村",
+            "house_no": "1",
+            "candidates": {
+                "1": 454,
+                "2": 260
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "介壽村",
+            "house_no": "2",
+            "candidates": {
+                "1": 410,
+                "2": 246
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "復興村、福沃村",
+            "house_no": "3",
+            "candidates": {
+                "1": 511,
+                "2": 652
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1698
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "清水村、珠螺村",
+            "house_no": "4",
+            "candidates": {
+                "1": 417,
+                "2": 479
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1265
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "仁愛村、津沙村、馬祖村、四維村",
+            "house_no": "5",
+            "candidates": {
+                "1": 437,
+                "2": 618
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1589
+        }
+    ]
+}

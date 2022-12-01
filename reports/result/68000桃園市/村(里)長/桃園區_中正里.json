@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范家瑋",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴莉莉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中正里",
+            "house_no": "61",
+            "candidates": {
+                "1": 316,
+                "2": 604
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1490
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中正里",
+            "house_no": "62",
+            "candidates": {
+                "1": 214,
+                "2": 527
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中正里",
+            "house_no": "63",
+            "candidates": {
+                "1": 212,
+                "2": 554
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中正里",
+            "house_no": "64",
+            "candidates": {
+                "1": 235,
+                "2": 606
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中正里",
+            "house_no": "65",
+            "candidates": {
+                "1": 271,
+                "2": 522
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1379
+        }
+    ]
+}

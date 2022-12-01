@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李茂德",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐德興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "長興里",
+            "house_no": "1005",
+            "candidates": {
+                "1": 488,
+                "2": 151
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "北區",
+            "cunli": "長興里",
+            "house_no": "1006",
+            "candidates": {
+                "1": 471,
+                "2": 166
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1291
+        }
+    ]
+}

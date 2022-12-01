@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江錫銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麗華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "溪州村",
+            "house_no": "947",
+            "candidates": {
+                "1": 112,
+                "2": 280
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 609
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "溪州村",
+            "house_no": "948",
+            "candidates": {
+                "1": 172,
+                "2": 336
+            },
+            "count_wrong": 40,
+            "count_unused": 1,
+            "count_total": 873
+        }
+    ]
+}

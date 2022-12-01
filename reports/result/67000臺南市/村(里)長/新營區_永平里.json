@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "永平里",
+            "house_no": "123",
+            "candidates": {
+                "1": 417
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 821
+        },
+        {
+            "area": "新營區",
+            "cunli": "永平里",
+            "house_no": "124",
+            "candidates": {
+                "1": 401
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "新營區",
+            "cunli": "永平里",
+            "house_no": "125",
+            "candidates": {
+                "1": 265
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 675
+        }
+    ]
+}

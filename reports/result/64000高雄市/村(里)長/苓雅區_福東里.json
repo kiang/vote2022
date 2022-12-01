@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡忠純",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉呂燕芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "福東里",
+            "house_no": "1385",
+            "candidates": {
+                "1": 193,
+                "2": 462
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "福東里",
+            "house_no": "1386",
+            "candidates": {
+                "1": 225,
+                "2": 504
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1306
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴寬和",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳安祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "白樹里",
+            "house_no": "440",
+            "candidates": {
+                "1": 404,
+                "2": 298
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "白樹里",
+            "house_no": "441",
+            "candidates": {
+                "1": 341,
+                "2": 356
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "白樹里",
+            "house_no": "442",
+            "candidates": {
+                "1": 212,
+                "2": 231
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 696
+        }
+    ]
+}

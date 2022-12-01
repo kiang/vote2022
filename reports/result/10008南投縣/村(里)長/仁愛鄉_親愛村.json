@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘筱玉",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳楓寧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "親愛村",
+            "house_no": "485",
+            "candidates": {
+                "1": 159,
+                "2": 331
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 605
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "親愛村",
+            "house_no": "486",
+            "candidates": {
+                "1": 245,
+                "2": 50
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 377
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "親愛村",
+            "house_no": "487",
+            "candidates": {
+                "1": 52,
+                "2": 42
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 128
+        }
+    ]
+}

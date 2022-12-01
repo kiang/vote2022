@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊世權",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉傑成",
+            "party": "無"
+        },
+        "3": {
+            "name": "林傳富",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埕區",
+            "cunli": "府北里",
+            "house_no": "963",
+            "candidates": {
+                "1": 228,
+                "2": 58,
+                "3": 255
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "鹽埕區",
+            "cunli": "府北里",
+            "house_no": "964",
+            "candidates": {
+                "1": 210,
+                "2": 63,
+                "3": 187
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 903
+        }
+    ]
+}

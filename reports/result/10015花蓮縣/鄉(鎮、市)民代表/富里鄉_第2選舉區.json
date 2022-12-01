@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘務本 Saw Mah",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "高岳霖",
+            "party": "無"
+        },
+        "3": {
+            "name": "孫永承",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "富里鄉",
+            "cunli": "石牌村",
+            "house_no": "316",
+            "candidates": {
+                "1": 231,
+                "2": 81,
+                "3": 172,
+                "4": 60
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 815
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "明里村",
+            "house_no": "317",
+            "candidates": {
+                "1": 54,
+                "2": 46,
+                "3": 134,
+                "4": 16
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 325
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "富里村",
+            "house_no": "318",
+            "candidates": {
+                "1": 204,
+                "2": 273,
+                "3": 278,
+                "4": 95
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "永豐村",
+            "house_no": "319",
+            "candidates": {
+                "1": 131,
+                "2": 31,
+                "3": 91,
+                "4": 18
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 414
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "豐南村",
+            "house_no": "320",
+            "candidates": {
+                "1": 62,
+                "2": 12,
+                "3": 52,
+                "4": 11
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 226
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "富南村",
+            "house_no": "321",
+            "candidates": {
+                "1": 41,
+                "2": 67,
+                "3": 89,
+                "4": 37
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 389
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "學田村",
+            "house_no": "322",
+            "candidates": {
+                "1": 73,
+                "2": 91,
+                "3": 32,
+                "4": 144
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 491
+        }
+    ]
+}

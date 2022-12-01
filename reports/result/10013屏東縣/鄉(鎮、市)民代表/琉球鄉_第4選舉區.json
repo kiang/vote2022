@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許金國",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪文良",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪美月",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡怡芳",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳雅頌",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳宏成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "琉球鄉",
+            "cunli": "上福村",
+            "house_no": "618",
+            "candidates": {
+                "1": 462,
+                "2": 218,
+                "3": 105,
+                "4": 124,
+                "5": 4,
+                "6": 224
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1615
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "杉福村",
+            "house_no": "619",
+            "candidates": {
+                "1": 193,
+                "2": 71,
+                "3": 123,
+                "4": 94,
+                "5": 5,
+                "6": 116
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 862
+        }
+    ]
+}

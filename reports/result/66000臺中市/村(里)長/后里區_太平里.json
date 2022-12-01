@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳進益",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃士瑋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "太平里",
+            "house_no": "441",
+            "candidates": {
+                "1": 276,
+                "2": 404
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "后里區",
+            "cunli": "太平里",
+            "house_no": "442",
+            "candidates": {
+                "1": 226,
+                "2": 461
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1030
+        }
+    ]
+}

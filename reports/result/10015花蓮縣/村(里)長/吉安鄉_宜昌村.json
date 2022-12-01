@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃志源",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾雪香",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "彭康壽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "169",
+            "candidates": {
+                "1": 242,
+                "2": 151,
+                "3": 122
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "170",
+            "candidates": {
+                "1": 214,
+                "2": 129,
+                "3": 117
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 973
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "171",
+            "candidates": {
+                "1": 163,
+                "2": 135,
+                "3": 205
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 954
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "宜昌村",
+            "house_no": "172",
+            "candidates": {
+                "1": 164,
+                "2": 139,
+                "3": 199
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 883
+        }
+    ]
+}

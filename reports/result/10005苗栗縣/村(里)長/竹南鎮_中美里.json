@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張弘儐",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁盛宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "中美里",
+            "house_no": "321",
+            "candidates": {
+                "1": 251,
+                "2": 405
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 923
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "中美里",
+            "house_no": "322",
+            "candidates": {
+                "1": 219,
+                "2": 395
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 923
+        }
+    ]
+}

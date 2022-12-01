@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉興振",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃東丸",
+            "party": "無"
+        },
+        "3": {
+            "name": "姜禮銘",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "永興村",
+            "house_no": "377",
+            "candidates": {
+                "1": 152,
+                "2": 120
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 400
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "石潭村",
+            "house_no": "378",
+            "candidates": {
+                "1": 392,
+                "2": 261
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "石潭村",
+            "house_no": "379",
+            "candidates": {
+                "1": 307,
+                "2": 375
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1318
+        }
+    ]
+}

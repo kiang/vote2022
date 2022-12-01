@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李春滿",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃宗德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "負郭里",
+            "house_no": "7",
+            "candidates": {
+                "1": 256,
+                "2": 208
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "負郭里",
+            "house_no": "8",
+            "candidates": {
+                "1": 321,
+                "2": 246
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "負郭里",
+            "house_no": "9",
+            "candidates": {
+                "1": 267,
+                "2": 258
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 944
+        }
+    ]
+}

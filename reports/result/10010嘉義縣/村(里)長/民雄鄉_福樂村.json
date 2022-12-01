@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳榮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王秋雯",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡元煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "福樂村",
+            "house_no": "135",
+            "candidates": {
+                "1": 199,
+                "2": 265,
+                "3": 225
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "福樂村",
+            "house_no": "136",
+            "candidates": {
+                "1": 225,
+                "2": 259,
+                "3": 239
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1319
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "福樂村",
+            "house_no": "137",
+            "candidates": {
+                "1": 165,
+                "2": 279,
+                "3": 313
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "福樂村",
+            "house_no": "138",
+            "candidates": {
+                "1": 207,
+                "2": 241,
+                "3": 289
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1238
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "福樂村",
+            "house_no": "139",
+            "candidates": {
+                "1": 273,
+                "2": 202,
+                "3": 321
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1280
+        }
+    ]
+}

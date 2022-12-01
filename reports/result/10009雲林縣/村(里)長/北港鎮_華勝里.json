@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林金章",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳振利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "292",
+            "candidates": {
+                "1": 343,
+                "2": 345
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "293",
+            "candidates": {
+                "1": 382,
+                "2": 340
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "294",
+            "candidates": {
+                "1": 354,
+                "2": 339
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "華勝里",
+            "house_no": "295",
+            "candidates": {
+                "1": 418,
+                "2": 400
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1252
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉才福",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭萬榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱金清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "泰田里",
+            "house_no": "218",
+            "candidates": {
+                "1": 169,
+                "2": 226,
+                "3": 199
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 859
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "泰田里",
+            "house_no": "219",
+            "candidates": {
+                "1": 278,
+                "2": 131,
+                "3": 142
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 729
+        }
+    ]
+}

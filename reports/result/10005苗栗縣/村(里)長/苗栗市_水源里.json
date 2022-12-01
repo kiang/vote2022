@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李玉華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "水源里",
+            "house_no": "22",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "水源里",
+            "house_no": "23",
+            "candidates": {
+                "1": 611
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1136
+        }
+    ]
+}

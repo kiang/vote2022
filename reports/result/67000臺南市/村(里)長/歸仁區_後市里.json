@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "後市里",
+            "house_no": "1458",
+            "candidates": {
+                "1": 514
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "後市里",
+            "house_no": "1459",
+            "candidates": {
+                "1": 466
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "後市里",
+            "house_no": "1460",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

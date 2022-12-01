@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林家杰",
+            "party": "中國民眾黨"
+        },
+        "2": {
+            "name": "黃展輝",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳敬儒",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳軍豪",
+            "party": "無"
+        },
+        "5": {
+            "name": "張旭輝",
+            "party": "無"
+        },
+        "6": {
+            "name": "吳碧珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "復華里",
+            "house_no": "1043",
+            "candidates": {
+                "1": 24,
+                "2": 337,
+                "3": 66,
+                "4": 127,
+                "5": 32,
+                "6": 233
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1262
+        },
+        {
+            "area": "中山區",
+            "cunli": "復華里",
+            "house_no": "1044",
+            "candidates": {
+                "1": 49,
+                "2": 278,
+                "3": 50,
+                "4": 182,
+                "5": 10,
+                "6": 228
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "中山區",
+            "cunli": "復華里",
+            "house_no": "1045",
+            "candidates": {
+                "1": 52,
+                "2": 256,
+                "3": 51,
+                "4": 142,
+                "5": 20,
+                "6": 205
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1120
+        }
+    ]
+}

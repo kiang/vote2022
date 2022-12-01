@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈國村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "南建里",
+            "house_no": "174",
+            "candidates": {
+                "1": 157,
+                "2": 227
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 587
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "南建里",
+            "house_no": "175",
+            "candidates": {
+                "1": 169,
+                "2": 172
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 502
+        }
+    ]
+}

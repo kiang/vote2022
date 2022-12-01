@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳名城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "獅子里",
+            "house_no": "136",
+            "candidates": {
+                "1": 605
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "西區",
+            "cunli": "獅子里",
+            "house_no": "137",
+            "candidates": {
+                "1": 635
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1295
+        }
+    ]
+}

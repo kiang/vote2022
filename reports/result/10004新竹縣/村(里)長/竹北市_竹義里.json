@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇民華",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐明兆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "竹義里",
+            "house_no": "93",
+            "candidates": {
+                "1": 301,
+                "2": 348
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1235
+        },
+        {
+            "area": "竹北市",
+            "cunli": "竹義里",
+            "house_no": "94",
+            "candidates": {
+                "1": 174,
+                "2": 307
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "竹北市",
+            "cunli": "竹義里",
+            "house_no": "95",
+            "candidates": {
+                "1": 283,
+                "2": 369
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "竹北市",
+            "cunli": "竹義里",
+            "house_no": "96",
+            "candidates": {
+                "1": 260,
+                "2": 320
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "竹北市",
+            "cunli": "竹義里",
+            "house_no": "97",
+            "candidates": {
+                "1": 160,
+                "2": 189
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1090
+        }
+    ]
+}

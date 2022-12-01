@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉信通",
+            "party": "無"
+        },
+        "2": {
+            "name": "段保賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大勇里",
+            "house_no": "477",
+            "candidates": {
+                "1": 467,
+                "2": 287
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "八德區",
+            "cunli": "大勇里",
+            "house_no": "478",
+            "candidates": {
+                "1": 524,
+                "2": 289
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "八德區",
+            "cunli": "大勇里",
+            "house_no": "479",
+            "candidates": {
+                "1": 500,
+                "2": 371
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1340
+        }
+    ]
+}

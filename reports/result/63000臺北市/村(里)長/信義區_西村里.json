@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬念慈",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "盧珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "西村里",
+            "house_no": "730",
+            "candidates": {
+                "1": 321,
+                "2": 310
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 912
+        },
+        {
+            "area": "信義區",
+            "cunli": "西村里",
+            "house_no": "731",
+            "candidates": {
+                "1": 410,
+                "2": 246
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1952
+        },
+        {
+            "area": "信義區",
+            "cunli": "西村里",
+            "house_no": "732",
+            "candidates": {
+                "1": 443,
+                "2": 224
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "信義區",
+            "cunli": "西村里",
+            "house_no": "733",
+            "candidates": {
+                "1": 339,
+                "2": 223
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 830
+        }
+    ]
+}

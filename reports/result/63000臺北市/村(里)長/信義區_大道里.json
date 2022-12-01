@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高永峯",
+            "party": "無"
+        },
+        "2": {
+            "name": "毛水月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "大道里",
+            "house_no": "828",
+            "candidates": {
+                "1": 276,
+                "2": 420
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "信義區",
+            "cunli": "大道里",
+            "house_no": "829",
+            "candidates": {
+                "1": 263,
+                "2": 477
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "信義區",
+            "cunli": "大道里",
+            "house_no": "830",
+            "candidates": {
+                "1": 211,
+                "2": 401
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "信義區",
+            "cunli": "大道里",
+            "house_no": "831",
+            "candidates": {
+                "1": 266,
+                "2": 388
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 839
+        },
+        {
+            "area": "信義區",
+            "cunli": "大道里",
+            "house_no": "832",
+            "candidates": {
+                "1": 228,
+                "2": 450
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

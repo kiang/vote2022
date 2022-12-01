@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳麗雯",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱垂麟",
+            "party": "無"
+        },
+        "3": {
+            "name": "王鐙鋒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "打簾村",
+            "house_no": "893",
+            "candidates": {
+                "1": 282,
+                "2": 382,
+                "3": 38
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "打簾村",
+            "house_no": "894",
+            "candidates": {
+                "1": 185,
+                "2": 222,
+                "3": 32
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 657
+        }
+    ]
+}

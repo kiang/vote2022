@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游國祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳進丁",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇靜華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐安里",
+            "house_no": "64",
+            "candidates": {
+                "1": 104,
+                "2": 247,
+                "3": 177
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐安里",
+            "house_no": "65",
+            "candidates": {
+                "1": 112,
+                "2": 250,
+                "3": 108
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐安里",
+            "house_no": "66",
+            "candidates": {
+                "1": 203,
+                "2": 194,
+                "3": 119
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 861
+        }
+    ]
+}

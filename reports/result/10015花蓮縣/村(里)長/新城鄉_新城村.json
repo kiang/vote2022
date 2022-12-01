@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡國雄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉翊鴻",
+            "party": "無"
+        },
+        "3": {
+            "name": "林聖鈞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "94",
+            "candidates": {
+                "1": 125,
+                "2": 17,
+                "3": 75
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 313
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "95",
+            "candidates": {
+                "1": 282,
+                "2": 60,
+                "3": 204
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 840
+        }
+    ]
+}

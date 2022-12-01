@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳東榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "林志銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "居仁里",
+            "house_no": "879",
+            "candidates": {
+                "1": 238,
+                "2": 146
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 597
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "居仁里",
+            "house_no": "880",
+            "candidates": {
+                "1": 240,
+                "2": 182
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 613
+        }
+    ]
+}

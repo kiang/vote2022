@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李天良",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖日辛",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳冠霖",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳秋涼",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "永德里",
+            "house_no": "918",
+            "candidates": {
+                "1": 60,
+                "2": 286,
+                "3": 431,
+                "4": 54
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "三重區",
+            "cunli": "永德里",
+            "house_no": "919",
+            "candidates": {
+                "1": 34,
+                "2": 229,
+                "3": 401,
+                "4": 51
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "三重區",
+            "cunli": "永德里",
+            "house_no": "920",
+            "candidates": {
+                "1": 57,
+                "2": 289,
+                "3": 442,
+                "4": 87
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1495
+        }
+    ]
+}

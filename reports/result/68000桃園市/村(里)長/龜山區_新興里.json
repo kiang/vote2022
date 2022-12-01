@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳洲輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "呂儒淵",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "新興里",
+            "house_no": "326",
+            "candidates": {
+                "1": 567,
+                "2": 442
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1527
+        },
+        {
+            "area": "龜山區",
+            "cunli": "新興里",
+            "house_no": "327",
+            "candidates": {
+                "1": 173,
+                "2": 166
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1519
+        }
+    ]
+}

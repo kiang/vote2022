@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳忠慶",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蕭清翔",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳清山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "大寮里",
+            "house_no": "1896",
+            "candidates": {
+                "1": 194,
+                "2": 297,
+                "3": 76
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "大寮區",
+            "cunli": "大寮里",
+            "house_no": "1897",
+            "candidates": {
+                "1": 249,
+                "2": 253,
+                "3": 107
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "大寮區",
+            "cunli": "大寮里",
+            "house_no": "1898",
+            "candidates": {
+                "1": 271,
+                "2": 263,
+                "3": 116
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "大寮區",
+            "cunli": "大寮里",
+            "house_no": "1899",
+            "candidates": {
+                "1": 268,
+                "2": 189,
+                "3": 104
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1036
+        },
+        {
+            "area": "大寮區",
+            "cunli": "大寮里",
+            "house_no": "1900",
+            "candidates": {
+                "1": 215,
+                "2": 186,
+                "3": 134
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 978
+        },
+        {
+            "area": "大寮區",
+            "cunli": "大寮里",
+            "house_no": "1901",
+            "candidates": {
+                "1": 263,
+                "2": 274,
+                "3": 147
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

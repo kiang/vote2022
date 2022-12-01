@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃世潤",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "許森林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "芎蕉村",
+            "house_no": "762",
+            "candidates": {
+                "1": 190,
+                "2": 388
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "芎蕉村",
+            "house_no": "763",
+            "candidates": {
+                "1": 174,
+                "2": 472
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 925
+        }
+    ]
+}

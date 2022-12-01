@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳柏錩",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳秀玲",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "鄧可平",
+            "party": "無"
+        },
+        "4": {
+            "name": "傅緯豪",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "余瑞宏",
+            "party": "台灣民眾黨"
+        },
+        "6": {
+            "name": "林志盛",
+            "party": "無"
+        },
+        "7": {
+            "name": "郭彩寶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "94",
+            "candidates": {
+                "1": 86,
+                "2": 129
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 307
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "95",
+            "candidates": {
+                "1": 278,
+                "2": 234
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 769
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "順安村",
+            "house_no": "96",
+            "candidates": {
+                "1": 154,
+                "2": 205
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 517
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "順安村",
+            "house_no": "97",
+            "candidates": {
+                "1": 76,
+                "2": 100
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 253
+        }
+    ]
+}

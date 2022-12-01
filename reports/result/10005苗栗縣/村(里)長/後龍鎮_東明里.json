@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "東明里",
+            "house_no": "238",
+            "candidates": {
+                "1": 368
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 634
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "東明里",
+            "house_no": "239",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 760
+        }
+    ]
+}

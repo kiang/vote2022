@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李進誠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "民和里",
+            "house_no": "728",
+            "candidates": {
+                "1": 610
+            },
+            "count_wrong": 168,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "民和里",
+            "house_no": "729",
+            "candidates": {
+                "1": 418
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 877
+        }
+    ]
+}

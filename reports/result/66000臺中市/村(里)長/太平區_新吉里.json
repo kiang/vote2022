@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃天財",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳炎發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "新吉里",
+            "house_no": "1575",
+            "candidates": {
+                "1": 459,
+                "2": 377
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "太平區",
+            "cunli": "新吉里",
+            "house_no": "1576",
+            "candidates": {
+                "1": 401,
+                "2": 329
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "太平區",
+            "cunli": "新吉里",
+            "house_no": "1577",
+            "candidates": {
+                "1": 326,
+                "2": 298
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "太平區",
+            "cunli": "新吉里",
+            "house_no": "1578",
+            "candidates": {
+                "1": 489,
+                "2": 413
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1565
+        }
+    ]
+}

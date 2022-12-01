@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧爕墩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "北華里",
+            "house_no": "1046",
+            "candidates": {
+                "1": 620
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北華里",
+            "house_no": "1047",
+            "candidates": {
+                "1": 693
+            },
+            "count_wrong": 151,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北華里",
+            "house_no": "1048",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 156,
+            "count_unused": 0,
+            "count_total": 1070
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温紹宏",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林俊民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "文盛里",
+            "house_no": "1221",
+            "candidates": {
+                "1": 411,
+                "2": 352
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "中正區",
+            "cunli": "文盛里",
+            "house_no": "1222",
+            "candidates": {
+                "1": 370,
+                "2": 270
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 943
+        }
+    ]
+}

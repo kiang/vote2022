@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯敦仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "王俊傑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁德區",
+            "cunli": "新田里",
+            "house_no": "1410",
+            "candidates": {
+                "1": 159,
+                "2": 593
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "仁德區",
+            "cunli": "新田里",
+            "house_no": "1411",
+            "candidates": {
+                "1": 159,
+                "2": 432
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "仁德區",
+            "cunli": "新田里",
+            "house_no": "1412",
+            "candidates": {
+                "1": 158,
+                "2": 510
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1159
+        }
+    ]
+}

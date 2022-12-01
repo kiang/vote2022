@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "彰南里",
+            "house_no": "1236",
+            "candidates": {
+                "1": 404
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "南區",
+            "cunli": "彰南里",
+            "house_no": "1237",
+            "candidates": {
+                "1": 289
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 553
+        }
+    ]
+}

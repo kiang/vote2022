@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文良",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊文慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "松腳里",
+            "house_no": "1518",
+            "candidates": {
+                "1": 259,
+                "2": 389
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 935
+        },
+        {
+            "area": "關廟區",
+            "cunli": "松腳里",
+            "house_no": "1519",
+            "candidates": {
+                "1": 351,
+                "2": 346
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 942
+        }
+    ]
+}

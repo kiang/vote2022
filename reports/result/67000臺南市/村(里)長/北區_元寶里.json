@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李和峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "許大衛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "元寶里",
+            "house_no": "966",
+            "candidates": {
+                "1": 384,
+                "2": 384
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1551
+        },
+        {
+            "area": "北區",
+            "cunli": "元寶里",
+            "house_no": "967",
+            "candidates": {
+                "1": 191,
+                "2": 267
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "北區",
+            "cunli": "元寶里",
+            "house_no": "968",
+            "candidates": {
+                "1": 380,
+                "2": 305
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1307
+        }
+    ]
+}

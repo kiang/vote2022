@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉文科",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梅山鄉",
+            "cunli": "梅東村",
+            "house_no": "238",
+            "candidates": {
+                "1": 526
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "梅東村",
+            "house_no": "239",
+            "candidates": {
+                "1": 725
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 1195
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱嘉半",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉光明",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳秀鳳",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳海漢",
+            "party": "無"
+        },
+        "5": {
+            "name": "葉明福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "達仁鄉",
+            "cunli": "新化村",
+            "house_no": "230",
+            "candidates": {
+                "1": 57,
+                "2": 61,
+                "3": 65,
+                "4": 73,
+                "5": 45
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 347
+        }
+    ]
+}

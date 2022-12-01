@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "向薇",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "孔慶君",
+            "party": "無"
+        },
+        "3": {
+            "name": "林坤義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "大禹里",
+            "house_no": "309",
+            "candidates": {
+                "1": 144,
+                "2": 302,
+                "3": 148
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

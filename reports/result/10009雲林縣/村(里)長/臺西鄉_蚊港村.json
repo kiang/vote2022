@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林清泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "許旭哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "蚊港村",
+            "house_no": "59",
+            "candidates": {
+                "1": 494,
+                "2": 272
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "蚊港村",
+            "house_no": "60",
+            "candidates": {
+                "1": 71,
+                "2": 332
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 544
+        }
+    ]
+}

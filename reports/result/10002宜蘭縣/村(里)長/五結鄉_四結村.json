@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李育堅",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃振忠",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳逸德",
+            "party": "無"
+        },
+        "4": {
+            "name": "簡茂山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "四結村",
+            "house_no": "359",
+            "candidates": {
+                "1": 126,
+                "2": 14,
+                "3": 77,
+                "4": 75
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 576
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "四結村",
+            "house_no": "360",
+            "candidates": {
+                "1": 203,
+                "2": 27,
+                "3": 188,
+                "4": 133
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "四結村",
+            "house_no": "361",
+            "candidates": {
+                "1": 226,
+                "2": 57,
+                "3": 107,
+                "4": 212
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

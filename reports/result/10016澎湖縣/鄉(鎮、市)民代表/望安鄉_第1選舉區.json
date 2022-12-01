@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "俞寶貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "許啟庭",
+            "party": "無"
+        },
+        "3": {
+            "name": "俞益興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "望安鄉",
+            "cunli": "東安村",
+            "house_no": "105",
+            "candidates": {
+                "1": 50,
+                "2": 125,
+                "3": 46,
+                "4": 146
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 683
+        },
+        {
+            "area": "望安鄉",
+            "cunli": "西安村",
+            "house_no": "106",
+            "candidates": {
+                "1": 62,
+                "2": 98,
+                "3": 34,
+                "4": 48
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 448
+        },
+        {
+            "area": "望安鄉",
+            "cunli": "中社村",
+            "house_no": "107",
+            "candidates": {
+                "1": 59,
+                "2": 53,
+                "3": 33,
+                "4": 73
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 337
+        },
+        {
+            "area": "望安鄉",
+            "cunli": "水垵村",
+            "house_no": "108",
+            "candidates": {
+                "1": 78,
+                "2": 100,
+                "3": 167,
+                "4": 43
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 521
+        }
+    ]
+}

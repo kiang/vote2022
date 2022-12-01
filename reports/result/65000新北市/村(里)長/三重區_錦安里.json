@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳淑玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱志平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "錦安里",
+            "house_no": "858",
+            "candidates": {
+                "1": 371,
+                "2": 261
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "三重區",
+            "cunli": "錦安里",
+            "house_no": "859",
+            "candidates": {
+                "1": 204,
+                "2": 226
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 643
+        }
+    ]
+}

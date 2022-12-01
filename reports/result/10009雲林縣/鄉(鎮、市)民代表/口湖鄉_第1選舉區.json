@@ -1,0 +1,139 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王老閩",
+            "party": "無"
+        },
+        "2": {
+            "name": "王溪邊",
+            "party": "無"
+        },
+        "3": {
+            "name": "王紫陽",
+            "party": "無"
+        },
+        "4": {
+            "name": "王清呈",
+            "party": "無"
+        },
+        "5": {
+            "name": "王碧聰",
+            "party": "無"
+        },
+        "6": {
+            "name": "吳東宸",
+            "party": "無"
+        },
+        "7": {
+            "name": "楊萬吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "口湖村",
+            "house_no": "226",
+            "candidates": {
+                "1": 232,
+                "2": 172,
+                "3": 16,
+                "4": 80,
+                "5": 234
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "湖東村",
+            "house_no": "227",
+            "candidates": {
+                "1": 102,
+                "2": 183,
+                "3": 13,
+                "4": 55,
+                "5": 425
+            },
+            "count_wrong": 32,
+            "count_unused": 1,
+            "count_total": 1155
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "頂湖村",
+            "house_no": "228",
+            "candidates": {
+                "1": 113,
+                "2": 114,
+                "3": 16,
+                "4": 135,
+                "5": 76
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 613
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "埔南村",
+            "house_no": "229",
+            "candidates": {
+                "1": 133,
+                "2": 236,
+                "3": 21,
+                "4": 26,
+                "5": 45
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 665
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "埔北村",
+            "house_no": "230",
+            "candidates": {
+                "1": 253,
+                "2": 114,
+                "3": 88,
+                "4": 83,
+                "5": 38
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 853
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "謝厝村",
+            "house_no": "231",
+            "candidates": {
+                "1": 223,
+                "2": 176,
+                "3": 23,
+                "4": 91,
+                "5": 145
+            },
+            "count_wrong": 29,
+            "count_unused": 1,
+            "count_total": 954
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "蚵寮村",
+            "house_no": "232",
+            "candidates": {
+                "1": 415,
+                "2": 140,
+                "3": 10,
+                "4": 35,
+                "5": 120
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1342
+        }
+    ]
+}

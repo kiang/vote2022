@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾龍興",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃寶珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "粗溪村",
+            "house_no": "68",
+            "candidates": {
+                "1": 328,
+                "2": 345
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "粗溪村",
+            "house_no": "69",
+            "candidates": {
+                "1": 127,
+                "2": 72
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 295
+        }
+    ]
+}

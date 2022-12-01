@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余清財",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓嘉嘉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "後紅里",
+            "house_no": "295",
+            "candidates": {
+                "1": 466,
+                "2": 300
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "岡山區",
+            "cunli": "後紅里",
+            "house_no": "296",
+            "candidates": {
+                "1": 376,
+                "2": 421
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1350
+        },
+        {
+            "area": "岡山區",
+            "cunli": "後紅里",
+            "house_no": "297",
+            "candidates": {
+                "1": 198,
+                "2": 553
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

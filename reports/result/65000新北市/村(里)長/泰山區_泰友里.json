@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温來居",
+            "party": "無"
+        },
+        "2": {
+            "name": "施虹羽",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊永任",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "泰友里",
+            "house_no": "349",
+            "candidates": {
+                "1": 278,
+                "2": 123,
+                "3": 176
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "泰山區",
+            "cunli": "泰友里",
+            "house_no": "350",
+            "candidates": {
+                "1": 192,
+                "2": 142,
+                "3": 188
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 806
+        }
+    ]
+}

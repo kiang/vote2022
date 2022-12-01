@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯駿榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭國堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "山犁里",
+            "house_no": "419",
+            "candidates": {
+                "1": 378,
+                "2": 279
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "山犁里",
+            "house_no": "420",
+            "candidates": {
+                "1": 443,
+                "2": 307
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1248
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "山犁里",
+            "house_no": "421",
+            "candidates": {
+                "1": 402,
+                "2": 322
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "山犁里",
+            "house_no": "422",
+            "candidates": {
+                "1": 508,
+                "2": 388
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1537
+        }
+    ]
+}

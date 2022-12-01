@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黎玉雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "林文治",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳青廉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "春日里",
+            "house_no": "306",
+            "candidates": {
+                "1": 197,
+                "2": 55,
+                "3": 236
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 804
+        }
+    ]
+}

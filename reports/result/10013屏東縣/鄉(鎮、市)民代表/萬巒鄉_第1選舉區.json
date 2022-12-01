@@ -1,0 +1,118 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林桓文",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林榮耀",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉裕福",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉正雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬巒村",
+            "house_no": "413",
+            "candidates": {
+                "1": 122,
+                "2": 162,
+                "3": 71,
+                "4": 217,
+                "5": 162,
+                "6": 42
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬全村",
+            "house_no": "414",
+            "candidates": {
+                "1": 113,
+                "2": 67,
+                "3": 59,
+                "4": 63,
+                "5": 104,
+                "6": 30
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 686
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬和村",
+            "house_no": "415",
+            "candidates": {
+                "1": 123,
+                "2": 172,
+                "3": 101,
+                "4": 107,
+                "5": 56,
+                "6": 25
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬和村",
+            "house_no": "416",
+            "candidates": {
+                "1": 121,
+                "2": 112,
+                "3": 57,
+                "4": 109,
+                "5": 46,
+                "6": 37
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 709
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "鹿寮村",
+            "house_no": "417",
+            "candidates": {
+                "1": 98,
+                "2": 168,
+                "3": 54,
+                "4": 110,
+                "5": 90,
+                "6": 33
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "硫黃村",
+            "house_no": "418",
+            "candidates": {
+                "1": 55,
+                "2": 55,
+                "3": 49,
+                "4": 90,
+                "5": 79,
+                "6": 34
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 510
+        }
+    ]
+}

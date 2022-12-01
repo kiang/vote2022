@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀進豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉明松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "新坪里",
+            "house_no": "1570",
+            "candidates": {
+                "1": 459,
+                "2": 320
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1496
+        },
+        {
+            "area": "太平區",
+            "cunli": "新坪里",
+            "house_no": "1571",
+            "candidates": {
+                "1": 471,
+                "2": 384
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1455
+        },
+        {
+            "area": "太平區",
+            "cunli": "新坪里",
+            "house_no": "1572",
+            "candidates": {
+                "1": 479,
+                "2": 316
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1670
+        },
+        {
+            "area": "太平區",
+            "cunli": "新坪里",
+            "house_no": "1573",
+            "candidates": {
+                "1": 466,
+                "2": 472
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1521
+        },
+        {
+            "area": "太平區",
+            "cunli": "新坪里",
+            "house_no": "1574",
+            "candidates": {
+                "1": 397,
+                "2": 302
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1392
+        }
+    ]
+}

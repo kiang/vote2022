@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁國忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "許錦村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "麥厝村",
+            "house_no": "349",
+            "candidates": {
+                "1": 415,
+                "2": 268
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "麥厝村",
+            "house_no": "350",
+            "candidates": {
+                "1": 385,
+                "2": 299
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1086
+        }
+    ]
+}

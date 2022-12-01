@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳憲發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "田尾里",
+            "house_no": "23",
+            "candidates": {
+                "1": 264
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 457
+        },
+        {
+            "area": "太保市",
+            "cunli": "田尾里",
+            "house_no": "24",
+            "candidates": {
+                "1": 110
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 229
+        }
+    ]
+}

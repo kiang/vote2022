@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余光雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡黃廣文",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "延平鄉",
+            "cunli": "桃源村",
+            "house_no": "215",
+            "candidates": {
+                "1": 407,
+                "2": 349
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "延平鄉",
+            "cunli": "紅葉村",
+            "house_no": "216",
+            "candidates": {
+                "1": 170,
+                "2": 142
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 398
+        },
+        {
+            "area": "延平鄉",
+            "cunli": "永康村",
+            "house_no": "217",
+            "candidates": {
+                "1": 138,
+                "2": 120
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 313
+        },
+        {
+            "area": "延平鄉",
+            "cunli": "武陵村",
+            "house_no": "218",
+            "candidates": {
+                "1": 195,
+                "2": 200
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 573
+        },
+        {
+            "area": "延平鄉",
+            "cunli": "鸞山村",
+            "house_no": "219",
+            "candidates": {
+                "1": 231,
+                "2": 224
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 572
+        }
+    ]
+}

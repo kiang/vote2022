@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳皇秀",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭允強",
+            "party": "無"
+        },
+        "3": {
+            "name": "林秀英",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "吳欣芸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "金龍里",
+            "house_no": "402",
+            "candidates": {
+                "1": 244,
+                "2": 202,
+                "3": 137,
+                "4": 440
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1521
+        },
+        {
+            "area": "內湖區",
+            "cunli": "金龍里",
+            "house_no": "403",
+            "candidates": {
+                "1": 143,
+                "2": 238,
+                "3": 152,
+                "4": 384
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "內湖區",
+            "cunli": "金龍里",
+            "house_no": "404",
+            "candidates": {
+                "1": 240,
+                "2": 192,
+                "3": 194,
+                "4": 398
+            },
+            "count_wrong": 18,
+            "count_unused": 18,
+            "count_total": 1467
+        }
+    ]
+}

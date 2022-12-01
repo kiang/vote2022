@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范詠翔",
+            "party": "無"
+        },
+        "2": {
+            "name": "李潮海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "社寮里",
+            "house_no": "18",
+            "candidates": {
+                "1": 400,
+                "2": 200
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "中正區",
+            "cunli": "社寮里",
+            "house_no": "19",
+            "candidates": {
+                "1": 252,
+                "2": 179
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 673
+        }
+    ]
+}

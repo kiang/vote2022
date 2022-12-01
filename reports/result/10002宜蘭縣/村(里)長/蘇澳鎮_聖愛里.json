@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文財",
+            "party": "無"
+        },
+        "2": {
+            "name": "范國祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "聖愛里",
+            "house_no": "151",
+            "candidates": {
+                "1": 268,
+                "2": 165
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 727
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "聖愛里",
+            "house_no": "152",
+            "candidates": {
+                "1": 294,
+                "2": 164
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "聖愛里",
+            "house_no": "153",
+            "candidates": {
+                "1": 344,
+                "2": 255
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1052
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉銘松",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳建名",
+            "party": "無"
+        },
+        "3": {
+            "name": "張銘濃",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "永北村",
+            "house_no": "646",
+            "candidates": {
+                "1": 490,
+                "2": 116,
+                "3": 81
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "永北村",
+            "house_no": "647",
+            "candidates": {
+                "1": 350,
+                "2": 198,
+                "3": 161
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1046
+        }
+    ]
+}

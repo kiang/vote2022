@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王彥欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊博文",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "公德里",
+            "house_no": "1343",
+            "candidates": {
+                "1": 363,
+                "2": 443
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "西區",
+            "cunli": "公德里",
+            "house_no": "1344",
+            "candidates": {
+                "1": 316,
+                "2": 444
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "西區",
+            "cunli": "公德里",
+            "house_no": "1345",
+            "candidates": {
+                "1": 255,
+                "2": 555
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1366
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "董進龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "富裕里",
+            "house_no": "1383",
+            "candidates": {
+                "1": 435
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1011
+        },
+        {
+            "area": "東區",
+            "cunli": "富裕里",
+            "house_no": "1384",
+            "candidates": {
+                "1": 436
+            },
+            "count_wrong": 112,
+            "count_unused": 1,
+            "count_total": 1038
+        }
+    ]
+}

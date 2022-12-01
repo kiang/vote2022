@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱昱銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "茄南里",
+            "house_no": "134",
+            "candidates": {
+                "1": 404,
+                "2": 181
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "彰化市",
+            "cunli": "茄南里",
+            "house_no": "135",
+            "candidates": {
+                "1": 406,
+                "2": 217
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "彰化市",
+            "cunli": "茄南里",
+            "house_no": "136",
+            "candidates": {
+                "1": 290,
+                "2": 294
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

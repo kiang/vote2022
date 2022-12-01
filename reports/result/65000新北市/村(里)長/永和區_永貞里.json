@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "薛凌亞",
+            "party": "無"
+        },
+        "2": {
+            "name": "李瓊瑤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "永貞里",
+            "house_no": "1637",
+            "candidates": {
+                "1": 654,
+                "2": 136
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1391
+        },
+        {
+            "area": "永和區",
+            "cunli": "永貞里",
+            "house_no": "1638",
+            "candidates": {
+                "1": 583,
+                "2": 199
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1346
+        }
+    ]
+}

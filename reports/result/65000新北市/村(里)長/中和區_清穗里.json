@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈彥國",
+            "party": "無"
+        },
+        "2": {
+            "name": "王金定",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "清穗里",
+            "house_no": "1528",
+            "candidates": {
+                "1": 326,
+                "2": 432
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1259
+        },
+        {
+            "area": "中和區",
+            "cunli": "清穗里",
+            "house_no": "1529",
+            "candidates": {
+                "1": 479,
+                "2": 406
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1404
+        }
+    ]
+}

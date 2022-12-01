@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳春雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "林畇秀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "山腳里",
+            "house_no": "293",
+            "candidates": {
+                "1": 452,
+                "2": 377
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1469
+        },
+        {
+            "area": "龍井區",
+            "cunli": "山腳里",
+            "house_no": "294",
+            "candidates": {
+                "1": 425,
+                "2": 389
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "龍井區",
+            "cunli": "山腳里",
+            "house_no": "295",
+            "candidates": {
+                "1": 300,
+                "2": 469
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "龍井區",
+            "cunli": "山腳里",
+            "house_no": "296",
+            "candidates": {
+                "1": 476,
+                "2": 366
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1283
+        }
+    ]
+}

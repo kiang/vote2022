@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡心慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "李錦珠",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "南和里",
+            "house_no": "1626",
+            "candidates": {
+                "1": 356,
+                "2": 464
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "南和里",
+            "house_no": "1627",
+            "candidates": {
+                "1": 267,
+                "2": 433
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1167
+        }
+    ]
+}

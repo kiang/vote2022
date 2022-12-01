@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃世傑",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "吳敏寬",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇小蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "苓中里",
+            "house_no": "1278",
+            "candidates": {
+                "1": 55,
+                "2": 322,
+                "3": 103
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 732
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "苓中里",
+            "house_no": "1279",
+            "candidates": {
+                "1": 161,
+                "2": 281,
+                "3": 132
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 777
+        }
+    ]
+}

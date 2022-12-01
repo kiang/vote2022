@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳翊瑛",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪有慶",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳春寳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "風櫃里",
+            "house_no": "51",
+            "candidates": {
+                "1": 234,
+                "2": 380,
+                "3": 178
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1310
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李陳金綉",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "高斯洋",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "蔡治永",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "中央里",
+            "house_no": "1020",
+            "candidates": {
+                "1": 350,
+                "2": 192,
+                "3": 94
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "中山區",
+            "cunli": "中央里",
+            "house_no": "1021",
+            "candidates": {
+                "1": 366,
+                "2": 192,
+                "3": 86
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "中山區",
+            "cunli": "中央里",
+            "house_no": "1022",
+            "candidates": {
+                "1": 362,
+                "2": 177,
+                "3": 101
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 970
+        }
+    ]
+}

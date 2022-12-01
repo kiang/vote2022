@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭進在",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴宗禮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "塩興里",
+            "house_no": "871",
+            "candidates": {
+                "1": 359,
+                "2": 208
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "永康區",
+            "cunli": "塩興里",
+            "house_no": "872",
+            "candidates": {
+                "1": 469,
+                "2": 159
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1395
+        },
+        {
+            "area": "永康區",
+            "cunli": "塩興里",
+            "house_no": "873",
+            "candidates": {
+                "1": 503,
+                "2": 218
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1414
+        }
+    ]
+}

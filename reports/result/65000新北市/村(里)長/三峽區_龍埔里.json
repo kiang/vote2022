@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳椿瑩",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃林賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "龍埔里",
+            "house_no": "2084",
+            "candidates": {
+                "1": 403,
+                "2": 304
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1486
+        },
+        {
+            "area": "三峽區",
+            "cunli": "龍埔里",
+            "house_no": "2085",
+            "candidates": {
+                "1": 472,
+                "2": 467
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1885
+        },
+        {
+            "area": "三峽區",
+            "cunli": "龍埔里",
+            "house_no": "2086",
+            "candidates": {
+                "1": 473,
+                "2": 420
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1738
+        },
+        {
+            "area": "三峽區",
+            "cunli": "龍埔里",
+            "house_no": "2087",
+            "candidates": {
+                "1": 465,
+                "2": 327
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1477
+        },
+        {
+            "area": "三峽區",
+            "cunli": "龍埔里",
+            "house_no": "2088",
+            "candidates": {
+                "1": 502,
+                "2": 401
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1656
+        }
+    ]
+}

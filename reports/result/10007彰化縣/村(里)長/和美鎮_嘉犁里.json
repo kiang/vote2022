@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林錫鐘",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳英傑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "嘉犁里",
+            "house_no": "425",
+            "candidates": {
+                "1": 254,
+                "2": 398
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "嘉犁里",
+            "house_no": "426",
+            "candidates": {
+                "1": 196,
+                "2": 342
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 873
+        }
+    ]
+}

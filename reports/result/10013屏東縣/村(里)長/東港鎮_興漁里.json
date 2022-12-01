@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孔清雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "興漁里",
+            "house_no": "206",
+            "candidates": {
+                "1": 403
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "興漁里",
+            "house_no": "207",
+            "candidates": {
+                "1": 360
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 665
+        }
+    ]
+}

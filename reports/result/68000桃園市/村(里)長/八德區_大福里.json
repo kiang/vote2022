@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂學昌",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "唐瑞伯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大福里",
+            "house_no": "471",
+            "candidates": {
+                "1": 614,
+                "2": 201
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "八德區",
+            "cunli": "大福里",
+            "house_no": "472",
+            "candidates": {
+                "1": 388,
+                "2": 397
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1249
+        },
+        {
+            "area": "八德區",
+            "cunli": "大福里",
+            "house_no": "473",
+            "candidates": {
+                "1": 446,
+                "2": 426
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1443
+        },
+        {
+            "area": "八德區",
+            "cunli": "大福里",
+            "house_no": "474",
+            "candidates": {
+                "1": 416,
+                "2": 265
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1064
+        }
+    ]
+}

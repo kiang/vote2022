@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹前貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉發現",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "下新里",
+            "house_no": "1820",
+            "candidates": {
+                "1": 222,
+                "2": 276
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "東勢區",
+            "cunli": "下新里",
+            "house_no": "1821",
+            "candidates": {
+                "1": 285,
+                "2": 277
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 824
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏春發",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳添琪",
+            "party": "無"
+        },
+        "3": {
+            "name": "胡世中",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "蘇北里",
+            "house_no": "160",
+            "candidates": {
+                "1": 36,
+                "2": 460,
+                "3": 155
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 937
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王復美",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡子銘",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "山頂里",
+            "house_no": "1948",
+            "candidates": {
+                "1": 402,
+                "2": 382
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "大寮區",
+            "cunli": "山頂里",
+            "house_no": "1949",
+            "candidates": {
+                "1": 336,
+                "2": 373
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "大寮區",
+            "cunli": "山頂里",
+            "house_no": "1950",
+            "candidates": {
+                "1": 397,
+                "2": 392
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "大寮區",
+            "cunli": "山頂里",
+            "house_no": "1951",
+            "candidates": {
+                "1": 266,
+                "2": 323
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "大寮區",
+            "cunli": "山頂里",
+            "house_no": "1952",
+            "candidates": {
+                "1": 302,
+                "2": 398
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "大寮區",
+            "cunli": "山頂里",
+            "house_no": "1953",
+            "candidates": {
+                "1": 349,
+                "2": 448
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1298
+        }
+    ]
+}

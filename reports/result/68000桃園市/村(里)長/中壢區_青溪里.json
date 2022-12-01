@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴謙詠",
+            "party": "無"
+        },
+        "2": {
+            "name": "李詠芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "青溪里",
+            "house_no": "946",
+            "candidates": {
+                "1": 242,
+                "2": 425
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "中壢區",
+            "cunli": "青溪里",
+            "house_no": "947",
+            "candidates": {
+                "1": 326,
+                "2": 750
+            },
+            "count_wrong": 31,
+            "count_unused": 2,
+            "count_total": 1801
+        }
+    ]
+}

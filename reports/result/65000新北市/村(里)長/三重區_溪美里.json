@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉仁德",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳權位",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "溪美里",
+            "house_no": "944",
+            "candidates": {
+                "1": 489,
+                "2": 206
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "三重區",
+            "cunli": "溪美里",
+            "house_no": "945",
+            "candidates": {
+                "1": 702,
+                "2": 201
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1464
+        },
+        {
+            "area": "三重區",
+            "cunli": "溪美里",
+            "house_no": "946",
+            "candidates": {
+                "1": 626,
+                "2": 211
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1519
+        },
+        {
+            "area": "三重區",
+            "cunli": "溪美里",
+            "house_no": "947",
+            "candidates": {
+                "1": 696,
+                "2": 174
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1564
+        },
+        {
+            "area": "三重區",
+            "cunli": "溪美里",
+            "house_no": "948",
+            "candidates": {
+                "1": 660,
+                "2": 297
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1711
+        }
+    ]
+}

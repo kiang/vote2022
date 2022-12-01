@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "龔睿堉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "新光里",
+            "house_no": "572",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 141,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "南港區",
+            "cunli": "新光里",
+            "house_no": "573",
+            "candidates": {
+                "1": 574
+            },
+            "count_wrong": 145,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "南港區",
+            "cunli": "新光里",
+            "house_no": "574",
+            "candidates": {
+                "1": 499
+            },
+            "count_wrong": 110,
+            "count_unused": 2,
+            "count_total": 954
+        }
+    ]
+}

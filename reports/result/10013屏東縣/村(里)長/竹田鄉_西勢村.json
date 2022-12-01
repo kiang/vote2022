@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方彥興",
+            "party": "無"
+        },
+        "2": {
+            "name": "林銘政",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉運富",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃順泰",
+            "party": "無"
+        },
+        "5": {
+            "name": "李巍家",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹田鄉",
+            "cunli": "西勢村",
+            "house_no": "481",
+            "candidates": {
+                "1": 116,
+                "2": 273,
+                "3": 210,
+                "4": 86,
+                "5": 69
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "西勢村",
+            "house_no": "482",
+            "candidates": {
+                "1": 126,
+                "2": 197,
+                "3": 135,
+                "4": 199,
+                "5": 89
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1120
+        }
+    ]
+}

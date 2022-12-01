@@ -1,0 +1,98 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林進凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹旺彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壯圍鄉",
+            "cunli": "東港村",
+            "house_no": "254",
+            "candidates": {
+                "1": 164,
+                "2": 95,
+                "3": 42,
+                "4": 395
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "復興村",
+            "house_no": "255",
+            "candidates": {
+                "1": 166,
+                "2": 136,
+                "3": 49,
+                "4": 209
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "復興村",
+            "house_no": "256",
+            "candidates": {
+                "1": 270,
+                "2": 122,
+                "3": 95,
+                "4": 98
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 793
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "過嶺村",
+            "house_no": "257",
+            "candidates": {
+                "1": 176,
+                "2": 214,
+                "3": 67,
+                "4": 26
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 703
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "過嶺村",
+            "house_no": "258",
+            "candidates": {
+                "1": 97,
+                "2": 91,
+                "3": 252,
+                "4": 59
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 730
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "永鎮村",
+            "house_no": "259",
+            "candidates": {
+                "1": 170,
+                "2": 148,
+                "3": 191,
+                "4": 110
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 771
+        }
+    ]
+}

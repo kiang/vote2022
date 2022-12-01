@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊育超",
+            "party": "無"
+        },
+        "2": {
+            "name": "林金旺",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "德厚里",
+            "house_no": "104",
+            "candidates": {
+                "1": 355,
+                "2": 311
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 929
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "德厚里",
+            "house_no": "105",
+            "candidates": {
+                "1": 284,
+                "2": 192
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 717
+        }
+    ]
+}

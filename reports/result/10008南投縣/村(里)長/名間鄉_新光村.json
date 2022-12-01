@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳正健",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳坤衛",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建次",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳寬裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "新光村",
+            "house_no": "333",
+            "candidates": {
+                "1": 94,
+                "2": 29,
+                "3": 64,
+                "4": 281
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "新光村",
+            "house_no": "334",
+            "candidates": {
+                "1": 157,
+                "2": 67,
+                "3": 328,
+                "4": 110
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 948
+        }
+    ]
+}

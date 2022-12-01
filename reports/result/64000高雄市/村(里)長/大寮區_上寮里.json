@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林慰卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪巧璇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "上寮里",
+            "house_no": "1902",
+            "candidates": {
+                "1": 403,
+                "2": 347
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "大寮區",
+            "cunli": "上寮里",
+            "house_no": "1903",
+            "candidates": {
+                "1": 376,
+                "2": 400
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1155
+        }
+    ]
+}

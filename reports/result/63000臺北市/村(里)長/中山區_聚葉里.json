@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙李英記",
+            "party": "無"
+        },
+        "2": {
+            "name": "游啟業",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "聚葉里",
+            "house_no": "922",
+            "candidates": {
+                "1": 231,
+                "2": 453
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "中山區",
+            "cunli": "聚葉里",
+            "house_no": "923",
+            "candidates": {
+                "1": 234,
+                "2": 451
+            },
+            "count_wrong": 37,
+            "count_unused": 4,
+            "count_total": 1080
+        },
+        {
+            "area": "中山區",
+            "cunli": "聚葉里",
+            "house_no": "924",
+            "candidates": {
+                "1": 174,
+                "2": 413
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1030
+        }
+    ]
+}

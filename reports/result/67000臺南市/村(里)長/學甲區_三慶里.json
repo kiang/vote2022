@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭壬貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭炳洪",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭博洋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "學甲區",
+            "cunli": "三慶里",
+            "house_no": "243",
+            "candidates": {
+                "1": 128,
+                "2": 178,
+                "3": 53
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 545
+        },
+        {
+            "area": "學甲區",
+            "cunli": "三慶里",
+            "house_no": "244",
+            "candidates": {
+                "1": 191,
+                "2": 35,
+                "3": 50
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 392
+        },
+        {
+            "area": "學甲區",
+            "cunli": "三慶里",
+            "house_no": "245",
+            "candidates": {
+                "1": 102,
+                "2": 62,
+                "3": 21
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 303
+        }
+    ]
+}

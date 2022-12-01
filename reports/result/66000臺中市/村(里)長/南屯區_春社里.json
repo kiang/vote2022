@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖慧菁",
+            "party": "無"
+        },
+        "2": {
+            "name": "李志洋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "春社里",
+            "house_no": "902",
+            "candidates": {
+                "1": 340,
+                "2": 353
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "南屯區",
+            "cunli": "春社里",
+            "house_no": "903",
+            "candidates": {
+                "1": 352,
+                "2": 354
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "南屯區",
+            "cunli": "春社里",
+            "house_no": "904",
+            "candidates": {
+                "1": 292,
+                "2": 438
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "南屯區",
+            "cunli": "春社里",
+            "house_no": "905",
+            "candidates": {
+                "1": 412,
+                "2": 411
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "南屯區",
+            "cunli": "春社里",
+            "house_no": "906",
+            "candidates": {
+                "1": 243,
+                "2": 376
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1369
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范文蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉登周",
+            "party": "無"
+        },
+        "3": {
+            "name": "林貴華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "福興里",
+            "house_no": "77",
+            "candidates": {
+                "1": 341,
+                "2": 260,
+                "3": 33
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "南投市",
+            "cunli": "福興里",
+            "house_no": "78",
+            "candidates": {
+                "1": 346,
+                "2": 249,
+                "3": 30
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "南投市",
+            "cunli": "福興里",
+            "house_no": "79",
+            "candidates": {
+                "1": 425,
+                "2": 230,
+                "3": 15
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 949
+        }
+    ]
+}

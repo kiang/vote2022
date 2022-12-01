@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊文得",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭萬福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "深坑區",
+            "cunli": "萬順里",
+            "house_no": "2357",
+            "candidates": {
+                "1": 362,
+                "2": 225
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1112
+        },
+        {
+            "area": "深坑區",
+            "cunli": "萬順里",
+            "house_no": "2358",
+            "candidates": {
+                "1": 402,
+                "2": 252
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1112
+        }
+    ]
+}

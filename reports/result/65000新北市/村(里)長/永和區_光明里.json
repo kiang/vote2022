@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林淑芬",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂嘉慧",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "光明里",
+            "house_no": "1629",
+            "candidates": {
+                "1": 288,
+                "2": 414
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "永和區",
+            "cunli": "光明里",
+            "house_no": "1630",
+            "candidates": {
+                "1": 359,
+                "2": 473
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1292
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李家樑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "泰昌里",
+            "house_no": "294",
+            "candidates": {
+                "1": 214
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 502
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "泰昌里",
+            "house_no": "295",
+            "candidates": {
+                "1": 240
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 702
+        }
+    ]
+}

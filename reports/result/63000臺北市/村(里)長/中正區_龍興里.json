@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳月容",
+            "party": "無"
+        },
+        "2": {
+            "name": "林正晴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "龍興里",
+            "house_no": "1143",
+            "candidates": {
+                "1": 388,
+                "2": 246
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍興里",
+            "house_no": "1144",
+            "candidates": {
+                "1": 240,
+                "2": 356
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍興里",
+            "house_no": "1145",
+            "candidates": {
+                "1": 296,
+                "2": 257
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 844
+        }
+    ]
+}

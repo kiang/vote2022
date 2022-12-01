@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳穎綸",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭清泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "淡水區",
+            "cunli": "福德里",
+            "house_no": "45",
+            "candidates": {
+                "1": 344,
+                "2": 300
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1184
+        },
+        {
+            "area": "淡水區",
+            "cunli": "福德里",
+            "house_no": "46",
+            "candidates": {
+                "1": 539,
+                "2": 343
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1427
+        },
+        {
+            "area": "淡水區",
+            "cunli": "福德里",
+            "house_no": "47",
+            "candidates": {
+                "1": 309,
+                "2": 289
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "淡水區",
+            "cunli": "福德里",
+            "house_no": "48",
+            "candidates": {
+                "1": 341,
+                "2": 350
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 1166
+        },
+        {
+            "area": "淡水區",
+            "cunli": "福德里",
+            "house_no": "49",
+            "candidates": {
+                "1": 322,
+                "2": 297
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1114
+        }
+    ]
+}

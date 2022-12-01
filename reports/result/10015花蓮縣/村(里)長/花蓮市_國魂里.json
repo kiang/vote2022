@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙瑞平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國魂里",
+            "house_no": "67",
+            "candidates": {
+                "1": 365
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國魂里",
+            "house_no": "68",
+            "candidates": {
+                "1": 349
+            },
+            "count_wrong": 93,
+            "count_unused": 1,
+            "count_total": 858
+        }
+    ]
+}

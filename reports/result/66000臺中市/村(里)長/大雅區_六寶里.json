@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張嘉榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "林高獎",
+            "party": "無"
+        },
+        "3": {
+            "name": "步佔鐘",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "六寶里",
+            "house_no": "647",
+            "candidates": {
+                "1": 311,
+                "2": 49,
+                "3": 492
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1555
+        },
+        {
+            "area": "大雅區",
+            "cunli": "六寶里",
+            "house_no": "648",
+            "candidates": {
+                "1": 444,
+                "2": 67,
+                "3": 448
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1557
+        },
+        {
+            "area": "大雅區",
+            "cunli": "六寶里",
+            "house_no": "649",
+            "candidates": {
+                "1": 350,
+                "2": 42,
+                "3": 371
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1353
+        },
+        {
+            "area": "大雅區",
+            "cunli": "六寶里",
+            "house_no": "650",
+            "candidates": {
+                "1": 395,
+                "2": 141,
+                "3": 347
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1452
+        }
+    ]
+}

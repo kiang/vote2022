@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李丁美玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳伯温",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿蓮區",
+            "cunli": "清蓮里",
+            "house_no": "244",
+            "candidates": {
+                "1": 307,
+                "2": 186
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "清蓮里",
+            "house_no": "245",
+            "candidates": {
+                "1": 217,
+                "2": 238
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 795
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "清蓮里",
+            "house_no": "246",
+            "candidates": {
+                "1": 240,
+                "2": 246
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 828
+        }
+    ]
+}

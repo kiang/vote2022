@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉惠珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "張常武",
+            "party": "無"
+        },
+        "3": {
+            "name": "童宥翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "國華里",
+            "house_no": "1561",
+            "candidates": {
+                "1": 153,
+                "2": 288,
+                "3": 307
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "中和區",
+            "cunli": "國華里",
+            "house_no": "1562",
+            "candidates": {
+                "1": 226,
+                "2": 360,
+                "3": 439
+            },
+            "count_wrong": 14,
+            "count_unused": 16,
+            "count_total": 1692
+        }
+    ]
+}

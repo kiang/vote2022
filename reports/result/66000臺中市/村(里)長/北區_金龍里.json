@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊文欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "馬國樑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "金龍里",
+            "house_no": "1211",
+            "candidates": {
+                "1": 495,
+                "2": 331
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1339
+        },
+        {
+            "area": "北區",
+            "cunli": "金龍里",
+            "house_no": "1212",
+            "candidates": {
+                "1": 430,
+                "2": 318
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 1321
+        },
+        {
+            "area": "北區",
+            "cunli": "金龍里",
+            "house_no": "1213",
+            "candidates": {
+                "1": 316,
+                "2": 419
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1342
+        }
+    ]
+}

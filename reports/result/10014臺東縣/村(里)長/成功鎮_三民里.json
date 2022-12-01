@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾連發",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳偉文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "三民里",
+            "house_no": "101",
+            "candidates": {
+                "1": 510,
+                "2": 203
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "三民里",
+            "house_no": "102",
+            "candidates": {
+                "1": 491,
+                "2": 303
+            },
+            "count_wrong": 41,
+            "count_unused": 1,
+            "count_total": 1319
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建利",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "百忍里",
+            "house_no": "2188",
+            "candidates": {
+                "1": 458
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "新店區",
+            "cunli": "百忍里",
+            "house_no": "2189",
+            "candidates": {
+                "1": 561
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "新店區",
+            "cunli": "百忍里",
+            "house_no": "2190",
+            "candidates": {
+                "1": 667
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1270
+        }
+    ]
+}

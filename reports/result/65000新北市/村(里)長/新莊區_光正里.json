@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王美仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳通助",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "光正里",
+            "house_no": "618",
+            "candidates": {
+                "1": 410,
+                "2": 286
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "新莊區",
+            "cunli": "光正里",
+            "house_no": "619",
+            "candidates": {
+                "1": 372,
+                "2": 349
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "新莊區",
+            "cunli": "光正里",
+            "house_no": "620",
+            "candidates": {
+                "1": 231,
+                "2": 469
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1214
+        }
+    ]
+}

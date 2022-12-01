@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳若屏",
+            "party": "無"
+        },
+        "2": {
+            "name": "張惠雯",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "景星里",
+            "house_no": "1091",
+            "candidates": {
+                "1": 396,
+                "2": 205
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "大同區",
+            "cunli": "景星里",
+            "house_no": "1092",
+            "candidates": {
+                "1": 446,
+                "2": 240
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1052
+        }
+    ]
+}

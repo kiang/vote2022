@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭清課",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃金條",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "朝安里",
+            "house_no": "200",
+            "candidates": {
+                "1": 261,
+                "2": 217
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 747
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "朝安里",
+            "house_no": "201",
+            "candidates": {
+                "1": 228,
+                "2": 240
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 753
+        }
+    ]
+}

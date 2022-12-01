@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余鴻儒",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李雅惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興豐里",
+            "house_no": "1626",
+            "candidates": {
+                "1": 415,
+                "2": 373
+            },
+            "count_wrong": 99,
+            "count_unused": 1,
+            "count_total": 1346
+        },
+        {
+            "area": "文山區",
+            "cunli": "興豐里",
+            "house_no": "1627",
+            "candidates": {
+                "1": 548,
+                "2": 289
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "文山區",
+            "cunli": "興豐里",
+            "house_no": "1628",
+            "candidates": {
+                "1": 578,
+                "2": 275
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1232
+        }
+    ]
+}

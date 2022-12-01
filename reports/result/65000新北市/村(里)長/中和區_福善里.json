@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳愷松",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "福善里",
+            "house_no": "1382",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "中和區",
+            "cunli": "福善里",
+            "house_no": "1383",
+            "candidates": {
+                "1": 623
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "中和區",
+            "cunli": "福善里",
+            "house_no": "1384",
+            "candidates": {
+                "1": 599
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1250
+        }
+    ]
+}

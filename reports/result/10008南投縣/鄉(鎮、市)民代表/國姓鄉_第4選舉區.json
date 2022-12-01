@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雲生",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林東漢",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝佛青",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "大石村",
+            "house_no": "421",
+            "candidates": {
+                "1": 220,
+                "2": 34,
+                "3": 148
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 649
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "北山村",
+            "house_no": "422",
+            "candidates": {
+                "1": 67,
+                "2": 73,
+                "3": 541
+            },
+            "count_wrong": 33,
+            "count_unused": 1,
+            "count_total": 1004
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "北山村",
+            "house_no": "423",
+            "candidates": {
+                "1": 33,
+                "2": 26,
+                "3": 164
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 381
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "南港村",
+            "house_no": "424",
+            "candidates": {
+                "1": 123,
+                "2": 310,
+                "3": 118
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "南港村",
+            "house_no": "425",
+            "candidates": {
+                "1": 56,
+                "2": 205,
+                "3": 74
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 522
+        }
+    ]
+}

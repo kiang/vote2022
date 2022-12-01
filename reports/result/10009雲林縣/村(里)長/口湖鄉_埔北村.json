@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文獅",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡溪煌",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡建明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "埔北村",
+            "house_no": "230",
+            "candidates": {
+                "1": 152,
+                "2": 179,
+                "3": 258
+            },
+            "count_wrong": 12,
+            "count_unused": 2,
+            "count_total": 852
+        }
+    ]
+}

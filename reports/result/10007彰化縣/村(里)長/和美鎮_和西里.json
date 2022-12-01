@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "和西里",
+            "house_no": "401",
+            "candidates": {
+                "1": 503
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "和西里",
+            "house_no": "402",
+            "candidates": {
+                "1": 614
+            },
+            "count_wrong": 49,
+            "count_unused": 3,
+            "count_total": 1068
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "和西里",
+            "house_no": "403",
+            "candidates": {
+                "1": 554
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 990
+        }
+    ]
+}

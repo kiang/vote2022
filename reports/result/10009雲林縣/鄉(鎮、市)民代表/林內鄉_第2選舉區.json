@@ -1,0 +1,75 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊素棉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林志憲",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉名翔",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡宏昌",
+            "party": "無"
+        },
+        "5": {
+            "name": "張昭榮",
+            "party": "無"
+        },
+        "6": {
+            "name": "曾慶照",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "林北村",
+            "house_no": "439",
+            "candidates": {
+                "1": 80,
+                "2": 138,
+                "3": 152,
+                "4": 369,
+                "5": 169
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林北村",
+            "house_no": "440",
+            "candidates": {
+                "1": 45,
+                "2": 147,
+                "3": 55,
+                "4": 170,
+                "5": 63
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 678
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "坪頂村",
+            "house_no": "441",
+            "candidates": {
+                "1": 11,
+                "2": 231,
+                "3": 19,
+                "4": 28,
+                "5": 71
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 479
+        }
+    ]
+}

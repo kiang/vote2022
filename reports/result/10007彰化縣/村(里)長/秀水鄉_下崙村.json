@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹助益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "下崙村",
+            "house_no": "386",
+            "candidates": {
+                "1": 416
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 649
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "下崙村",
+            "house_no": "387",
+            "candidates": {
+                "1": 369
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 621
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "下崙村",
+            "house_no": "388",
+            "candidates": {
+                "1": 459
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 811
+        }
+    ]
+}

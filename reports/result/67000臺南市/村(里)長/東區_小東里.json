@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃貫中",
+            "party": "無"
+        },
+        "2": {
+            "name": "余天翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "小東里",
+            "house_no": "1369",
+            "candidates": {
+                "1": 301,
+                "2": 280
+            },
+            "count_wrong": 2,
+            "count_unused": 3,
+            "count_total": 978
+        },
+        {
+            "area": "東區",
+            "cunli": "小東里",
+            "house_no": "1370",
+            "candidates": {
+                "1": 322,
+                "2": 266
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "東區",
+            "cunli": "小東里",
+            "house_no": "1371",
+            "candidates": {
+                "1": 226,
+                "2": 324
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "東區",
+            "cunli": "小東里",
+            "house_no": "1372",
+            "candidates": {
+                "1": 249,
+                "2": 331
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 978
+        }
+    ]
+}

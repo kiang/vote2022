@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳胡桂女",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃惠君",
+            "party": "無"
+        },
+        "3": {
+            "name": "余文廣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "鳳鳴里",
+            "house_no": "82",
+            "candidates": {
+                "1": 125,
+                "2": 54,
+                "3": 242
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 582
+        }
+    ]
+}

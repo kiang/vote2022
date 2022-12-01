@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王百瀛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "神岡里",
+            "house_no": "560",
+            "candidates": {
+                "1": 571
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "神岡區",
+            "cunli": "神岡里",
+            "house_no": "561",
+            "candidates": {
+                "1": 510
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "神岡區",
+            "cunli": "神岡里",
+            "house_no": "562",
+            "candidates": {
+                "1": 492
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李月皇",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳新春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "月眉里",
+            "house_no": "446",
+            "candidates": {
+                "1": 273,
+                "2": 360
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "后里區",
+            "cunli": "月眉里",
+            "house_no": "447",
+            "candidates": {
+                "1": 257,
+                "2": 378
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 939
+        }
+    ]
+}

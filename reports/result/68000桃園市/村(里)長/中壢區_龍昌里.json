@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范金水",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "戎政成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "龍昌里",
+            "house_no": "735",
+            "candidates": {
+                "1": 357,
+                "2": 577
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍昌里",
+            "house_no": "736",
+            "candidates": {
+                "1": 278,
+                "2": 399
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1215
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍昌里",
+            "house_no": "737",
+            "candidates": {
+                "1": 275,
+                "2": 510
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍昌里",
+            "house_no": "738",
+            "candidates": {
+                "1": 317,
+                "2": 457
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1330
+        }
+    ]
+}

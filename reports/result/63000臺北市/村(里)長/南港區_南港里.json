@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李志錦",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "南港里",
+            "house_no": "517",
+            "candidates": {
+                "1": 498
+            },
+            "count_wrong": 160,
+            "count_unused": 1,
+            "count_total": 1055
+        },
+        {
+            "area": "南港區",
+            "cunli": "南港里",
+            "house_no": "518",
+            "candidates": {
+                "1": 701
+            },
+            "count_wrong": 166,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "南港區",
+            "cunli": "南港里",
+            "house_no": "519",
+            "candidates": {
+                "1": 613
+            },
+            "count_wrong": 190,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "南港區",
+            "cunli": "南港里",
+            "house_no": "520",
+            "candidates": {
+                "1": 636
+            },
+            "count_wrong": 161,
+            "count_unused": 0,
+            "count_total": 1659
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱三元",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳誠修",
+            "party": "無"
+        },
+        "3": {
+            "name": "許家睿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "博愛里",
+            "house_no": "94",
+            "candidates": {
+                "1": 272,
+                "2": 119,
+                "3": 237
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "博愛里",
+            "house_no": "95",
+            "candidates": {
+                "1": 112,
+                "2": 65,
+                "3": 60
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 392
+        }
+    ]
+}

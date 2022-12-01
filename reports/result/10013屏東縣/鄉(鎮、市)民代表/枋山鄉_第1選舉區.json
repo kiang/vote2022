@@ -1,0 +1,46 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周植龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳德昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "李惠紅",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳宏偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋山鄉",
+            "cunli": "枋山村",
+            "house_no": "641",
+            "candidates": {
+                "1": 286,
+                "2": 189
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 560
+        },
+        {
+            "area": "枋山鄉",
+            "cunli": "枋山村",
+            "house_no": "642",
+            "candidates": {
+                "1": 165,
+                "2": 158
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 412
+        }
+    ]
+}

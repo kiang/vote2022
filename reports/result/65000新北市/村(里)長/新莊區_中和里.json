@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林孟鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中和里",
+            "house_no": "461",
+            "candidates": {
+                "1": 689
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中和里",
+            "house_no": "462",
+            "candidates": {
+                "1": 650
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1299
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中和里",
+            "house_no": "463",
+            "candidates": {
+                "1": 645
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1288
+        }
+    ]
+}

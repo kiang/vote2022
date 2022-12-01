@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡秀惠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱東河",
+            "party": "無"
+        },
+        "3": {
+            "name": "江國華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "忠孝里",
+            "house_no": "347",
+            "candidates": {
+                "1": 399,
+                "2": 58,
+                "3": 265
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "岡山區",
+            "cunli": "忠孝里",
+            "house_no": "348",
+            "candidates": {
+                "1": 302,
+                "2": 45,
+                "3": 316
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1138
+        },
+        {
+            "area": "岡山區",
+            "cunli": "忠孝里",
+            "house_no": "349",
+            "candidates": {
+                "1": 57,
+                "2": 10,
+                "3": 126
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 300
+        }
+    ]
+}

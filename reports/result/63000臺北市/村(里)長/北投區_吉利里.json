@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈勝強",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉序剛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "吉利里",
+            "house_no": "53",
+            "candidates": {
+                "1": 327,
+                "2": 408
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "北投區",
+            "cunli": "吉利里",
+            "house_no": "54",
+            "candidates": {
+                "1": 314,
+                "2": 330
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "北投區",
+            "cunli": "吉利里",
+            "house_no": "55",
+            "candidates": {
+                "1": 364,
+                "2": 367
+            },
+            "count_wrong": 28,
+            "count_unused": 2,
+            "count_total": 1144
+        },
+        {
+            "area": "北投區",
+            "cunli": "吉利里",
+            "house_no": "56",
+            "candidates": {
+                "1": 342,
+                "2": 386
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "北投區",
+            "cunli": "吉利里",
+            "house_no": "57",
+            "candidates": {
+                "1": 345,
+                "2": 381
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1067
+        }
+    ]
+}

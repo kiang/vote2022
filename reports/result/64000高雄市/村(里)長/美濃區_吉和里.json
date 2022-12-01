@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉富麒",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃文梅",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾瑞仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "吉和里",
+            "house_no": "128",
+            "candidates": {
+                "1": 110,
+                "2": 207,
+                "3": 111
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 616
+        },
+        {
+            "area": "美濃區",
+            "cunli": "吉和里",
+            "house_no": "129",
+            "candidates": {
+                "1": 126,
+                "2": 295,
+                "3": 101
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 680
+        }
+    ]
+}

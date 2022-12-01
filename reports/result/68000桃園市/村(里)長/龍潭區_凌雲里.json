@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳振漢",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂菊美",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃萬興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "凌雲里",
+            "house_no": "1222",
+            "candidates": {
+                "1": 470,
+                "2": 28,
+                "3": 163
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "凌雲里",
+            "house_no": "1223",
+            "candidates": {
+                "1": 324,
+                "2": 13,
+                "3": 270
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "凌雲里",
+            "house_no": "1224",
+            "candidates": {
+                "1": 461,
+                "2": 22,
+                "3": 317
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1368
+        }
+    ]
+}

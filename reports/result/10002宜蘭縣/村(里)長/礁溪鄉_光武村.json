@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳憲雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳秀卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "光武村",
+            "house_no": "237",
+            "candidates": {
+                "1": 136,
+                "2": 287
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 595
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "光武村",
+            "house_no": "238",
+            "candidates": {
+                "1": 163,
+                "2": 341
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 753
+        }
+    ]
+}

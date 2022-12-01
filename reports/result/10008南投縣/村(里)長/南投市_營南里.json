@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許惠娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡育民",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "營南里",
+            "house_no": "37",
+            "candidates": {
+                "1": 433,
+                "2": 370
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "南投市",
+            "cunli": "營南里",
+            "house_no": "38",
+            "candidates": {
+                "1": 340,
+                "2": 545
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1234
+        }
+    ]
+}

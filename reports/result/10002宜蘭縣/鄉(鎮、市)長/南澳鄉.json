@@ -1,0 +1,109 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李勝雄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林軍",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳秋月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南澳鄉",
+            "cunli": "東岳村",
+            "house_no": "420",
+            "candidates": {
+                "1": 304,
+                "2": 31,
+                "3": 53
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 445
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "南澳村",
+            "house_no": "421",
+            "candidates": {
+                "1": 639,
+                "2": 159,
+                "3": 95
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "碧候村",
+            "house_no": "422",
+            "candidates": {
+                "1": 438,
+                "2": 210,
+                "3": 52
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "金岳村",
+            "house_no": "423",
+            "candidates": {
+                "1": 186,
+                "2": 71,
+                "3": 42
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 386
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "武塔村",
+            "house_no": "424",
+            "candidates": {
+                "1": 186,
+                "2": 33,
+                "3": 86
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 426
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "金洋村",
+            "house_no": "425",
+            "candidates": {
+                "1": 269,
+                "2": 30,
+                "3": 82
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 477
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "澳花村",
+            "house_no": "426",
+            "candidates": {
+                "1": 403,
+                "2": 82,
+                "3": 78
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 681
+        }
+    ]
+}

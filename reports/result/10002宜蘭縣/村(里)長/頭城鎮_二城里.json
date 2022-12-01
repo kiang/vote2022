@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張金連",
+            "party": "無"
+        },
+        "2": {
+            "name": "李秀卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "張書銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "二城里",
+            "house_no": "211",
+            "candidates": {
+                "1": 347,
+                "2": 88,
+                "3": 343
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1056
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭勁譹",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐信芳",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "范振勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "下竹里",
+            "house_no": "135",
+            "candidates": {
+                "1": 159,
+                "2": 96,
+                "3": 29
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 426
+        }
+    ]
+}

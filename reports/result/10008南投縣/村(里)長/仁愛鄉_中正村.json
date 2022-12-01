@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃秋德",
+            "party": "無"
+        },
+        "2": {
+            "name": "石金水",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃毅德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "中正村",
+            "house_no": "490",
+            "candidates": {
+                "1": 249,
+                "2": 270,
+                "3": 128
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 858
+        }
+    ]
+}

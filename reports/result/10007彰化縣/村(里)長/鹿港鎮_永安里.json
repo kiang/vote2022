@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許錫明",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁弘偉",
+            "party": "無"
+        },
+        "3": {
+            "name": "許沛翎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "264",
+            "candidates": {
+                "1": 62,
+                "2": 338,
+                "3": 263
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "265",
+            "candidates": {
+                "1": 115,
+                "2": 323,
+                "3": 242
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "266",
+            "candidates": {
+                "1": 65,
+                "2": 222,
+                "3": 347
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "267",
+            "candidates": {
+                "1": 62,
+                "2": 252,
+                "3": 289
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 984
+        }
+    ]
+}

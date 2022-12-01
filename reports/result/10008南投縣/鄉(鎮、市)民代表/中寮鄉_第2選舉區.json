@@ -1,0 +1,146 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖義安",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹三宜",
+            "party": "無"
+        },
+        "3": {
+            "name": "卓金棟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中寮鄉",
+            "cunli": "永平村",
+            "house_no": "365",
+            "candidates": {
+                "1": 94,
+                "2": 245,
+                "3": 172,
+                "4": 122,
+                "5": 10,
+                "6": 49
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永平村",
+            "house_no": "366",
+            "candidates": {
+                "1": 77,
+                "2": 136,
+                "3": 177,
+                "4": 67,
+                "5": 1,
+                "6": 71
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 724
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "中寮村",
+            "house_no": "367",
+            "candidates": {
+                "1": 127,
+                "2": 108,
+                "3": 66,
+                "4": 94,
+                "5": 13,
+                "6": 18
+            },
+            "count_wrong": 10,
+            "count_unused": 2,
+            "count_total": 596
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "廣福村",
+            "house_no": "368",
+            "candidates": {
+                "1": 47,
+                "2": 65,
+                "3": 72,
+                "4": 130,
+                "5": 13,
+                "6": 10
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 470
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永福村",
+            "house_no": "369",
+            "candidates": {
+                "1": 138,
+                "2": 34,
+                "3": 9,
+                "4": 18,
+                "5": 6,
+                "6": 25
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 306
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永福村",
+            "house_no": "370",
+            "candidates": {
+                "1": 269,
+                "2": 55,
+                "3": 77,
+                "4": 136,
+                "5": 94,
+                "6": 66
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "義和村",
+            "house_no": "371",
+            "candidates": {
+                "1": 27,
+                "2": 25,
+                "3": 41,
+                "4": 62,
+                "5": 18,
+                "6": 141
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 420
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "義和村",
+            "house_no": "372",
+            "candidates": {
+                "1": 43,
+                "2": 37,
+                "3": 125,
+                "4": 46,
+                "5": 20,
+                "6": 118
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 575
+        }
+    ]
+}

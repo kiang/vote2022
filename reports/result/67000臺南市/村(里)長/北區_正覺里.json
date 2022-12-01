@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳銅吉",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "正覺里",
+            "house_no": "1011",
+            "candidates": {
+                "1": 447
+            },
+            "count_wrong": 84,
+            "count_unused": 1,
+            "count_total": 1012
+        },
+        {
+            "area": "北區",
+            "cunli": "正覺里",
+            "house_no": "1012",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "北區",
+            "cunli": "正覺里",
+            "house_no": "1013",
+            "candidates": {
+                "1": 464
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

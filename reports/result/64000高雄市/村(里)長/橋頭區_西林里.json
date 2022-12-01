@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳建豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "西林里",
+            "house_no": "438",
+            "candidates": {
+                "1": 437
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 645
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "西林里",
+            "house_no": "439",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 676
+        }
+    ]
+}

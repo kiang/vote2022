@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林進保",
+            "party": "無"
+        },
+        "2": {
+            "name": "林建志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "福興村",
+            "house_no": "336",
+            "candidates": {
+                "1": 335,
+                "2": 390
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "福興村",
+            "house_no": "337",
+            "candidates": {
+                "1": 434,
+                "2": 378
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "福興村",
+            "house_no": "338",
+            "candidates": {
+                "1": 316,
+                "2": 321
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1060
+        }
+    ]
+}

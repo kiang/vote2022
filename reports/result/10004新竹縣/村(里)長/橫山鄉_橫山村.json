@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅炳程",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃振明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橫山鄉",
+            "cunli": "橫山村",
+            "house_no": "393",
+            "candidates": {
+                "1": 196,
+                "2": 473
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "橫山村",
+            "house_no": "394",
+            "candidates": {
+                "1": 332,
+                "2": 235
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "橫山村",
+            "house_no": "395",
+            "candidates": {
+                "1": 182,
+                "2": 480
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1052
+        }
+    ]
+}

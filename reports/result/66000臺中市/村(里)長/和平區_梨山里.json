@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高朱強森",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴盛功",
+            "party": "無"
+        },
+        "3": {
+            "name": "張守宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "梨山里",
+            "house_no": "1875",
+            "candidates": {
+                "1": 35,
+                "2": 124,
+                "3": 53
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 355
+        },
+        {
+            "area": "和平區",
+            "cunli": "梨山里",
+            "house_no": "1876",
+            "candidates": {
+                "1": 98,
+                "2": 191,
+                "3": 86
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "和平區",
+            "cunli": "梨山里",
+            "house_no": "1877",
+            "candidates": {
+                "1": 94,
+                "2": 133,
+                "3": 61
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 521
+        },
+        {
+            "area": "和平區",
+            "cunli": "梨山里",
+            "house_no": "1878",
+            "candidates": {
+                "1": 6,
+                "2": 33,
+                "3": 154
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 276
+        }
+    ]
+}

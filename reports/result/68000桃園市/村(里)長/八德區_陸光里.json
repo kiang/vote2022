@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何金鳳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "陸光里",
+            "house_no": "451",
+            "candidates": {
+                "1": 701
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1404
+        },
+        {
+            "area": "八德區",
+            "cunli": "陸光里",
+            "house_no": "452",
+            "candidates": {
+                "1": 769
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "八德區",
+            "cunli": "陸光里",
+            "house_no": "453",
+            "candidates": {
+                "1": 635
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1296
+        }
+    ]
+}

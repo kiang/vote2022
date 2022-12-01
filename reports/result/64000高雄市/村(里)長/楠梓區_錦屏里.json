@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱素梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊明珠",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡甲庚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "錦屏里",
+            "house_no": "501",
+            "candidates": {
+                "1": 115,
+                "2": 179,
+                "3": 255
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "錦屏里",
+            "house_no": "502",
+            "candidates": {
+                "1": 58,
+                "2": 195,
+                "3": 313
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 895
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "錦屏里",
+            "house_no": "503",
+            "candidates": {
+                "1": 61,
+                "2": 143,
+                "3": 362
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 915
+        }
+    ]
+}

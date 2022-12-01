@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王中義",
+            "party": "無"
+        },
+        "2": {
+            "name": "江光輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "瑞陽里",
+            "house_no": "432",
+            "candidates": {
+                "1": 391,
+                "2": 533
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "內湖區",
+            "cunli": "瑞陽里",
+            "house_no": "433",
+            "candidates": {
+                "1": 350,
+                "2": 477
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "內湖區",
+            "cunli": "瑞陽里",
+            "house_no": "434",
+            "candidates": {
+                "1": 356,
+                "2": 456
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "內湖區",
+            "cunli": "瑞陽里",
+            "house_no": "435",
+            "candidates": {
+                "1": 313,
+                "2": 450
+            },
+            "count_wrong": 51,
+            "count_unused": 1,
+            "count_total": 1160
+        },
+        {
+            "area": "內湖區",
+            "cunli": "瑞陽里",
+            "house_no": "436",
+            "candidates": {
+                "1": 367,
+                "2": 461
+            },
+            "count_wrong": 42,
+            "count_unused": 3,
+            "count_total": 1191
+        }
+    ]
+}

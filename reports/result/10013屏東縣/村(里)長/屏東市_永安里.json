@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温昇勳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳家和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "永安里",
+            "house_no": "81",
+            "candidates": {
+                "1": 456,
+                "2": 430
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1418
+        },
+        {
+            "area": "屏東市",
+            "cunli": "永安里",
+            "house_no": "82",
+            "candidates": {
+                "1": 417,
+                "2": 408
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "屏東市",
+            "cunli": "永安里",
+            "house_no": "83",
+            "candidates": {
+                "1": 301,
+                "2": 505
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1431
+        },
+        {
+            "area": "屏東市",
+            "cunli": "永安里",
+            "house_no": "84",
+            "candidates": {
+                "1": 415,
+                "2": 390
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1374
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "雷明聖",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖雙穎",
+            "party": "無"
+        },
+        "3": {
+            "name": "李英華",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳水獅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太麻里鄉",
+            "cunli": "美和村",
+            "house_no": "184",
+            "candidates": {
+                "1": 50,
+                "2": 63,
+                "3": 79,
+                "4": 184
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 570
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "美和村",
+            "house_no": "185",
+            "candidates": {
+                "1": 43,
+                "2": 17,
+                "3": 14,
+                "4": 118
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 315
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "三和村",
+            "house_no": "186",
+            "candidates": {
+                "1": 45,
+                "2": 50,
+                "3": 206,
+                "4": 47
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 542
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "華源村",
+            "house_no": "187",
+            "candidates": {
+                "1": 17,
+                "2": 203,
+                "3": 64,
+                "4": 89
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 581
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "北里村",
+            "house_no": "188",
+            "candidates": {
+                "1": 14,
+                "2": 32,
+                "3": 59,
+                "4": 104
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 335
+        }
+    ]
+}

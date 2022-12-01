@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂麗雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹拯民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "雙溪區",
+            "cunli": "魚行里",
+            "house_no": "2476",
+            "candidates": {
+                "1": 69,
+                "2": 119
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 313
+        },
+        {
+            "area": "雙溪區",
+            "cunli": "魚行里",
+            "house_no": "2477",
+            "candidates": {
+                "1": 21,
+                "2": 163
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 320
+        }
+    ]
+}

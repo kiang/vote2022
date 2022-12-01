@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許正聲",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鉅民",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊朝益",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳清榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "正光里",
+            "house_no": "243",
+            "candidates": {
+                "1": 252,
+                "2": 145,
+                "3": 166,
+                "4": 77
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "七堵區",
+            "cunli": "正光里",
+            "house_no": "244",
+            "candidates": {
+                "1": 294,
+                "2": 180,
+                "3": 178,
+                "4": 75
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1397
+        }
+    ]
+}

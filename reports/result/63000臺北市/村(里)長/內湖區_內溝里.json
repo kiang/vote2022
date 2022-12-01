@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂岳峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "王曉芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "內溝里",
+            "house_no": "456",
+            "candidates": {
+                "1": 330,
+                "2": 423
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "內湖區",
+            "cunli": "內溝里",
+            "house_no": "457",
+            "candidates": {
+                "1": 269,
+                "2": 451
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "內湖區",
+            "cunli": "內溝里",
+            "house_no": "458",
+            "candidates": {
+                "1": 225,
+                "2": 419
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "內湖區",
+            "cunli": "內溝里",
+            "house_no": "459",
+            "candidates": {
+                "1": 226,
+                "2": 217
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 676
+        }
+    ]
+}

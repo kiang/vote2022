@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張竣傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤振暉",
+            "party": "無"
+        },
+        "3": {
+            "name": "張國田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "大崙里",
+            "house_no": "795",
+            "candidates": {
+                "1": 303,
+                "2": 466,
+                "3": 73
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1255
+        }
+    ]
+}

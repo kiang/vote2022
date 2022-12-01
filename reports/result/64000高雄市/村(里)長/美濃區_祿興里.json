@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊國源",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉昭宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "祿興里",
+            "house_no": "104",
+            "candidates": {
+                "1": 326,
+                "2": 414
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "美濃區",
+            "cunli": "祿興里",
+            "house_no": "105",
+            "candidates": {
+                "1": 298,
+                "2": 469
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯丁財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "溪底村",
+            "house_no": "465",
+            "candidates": {
+                "1": 471
+            },
+            "count_wrong": 123,
+            "count_unused": 1,
+            "count_total": 866
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "溪底村",
+            "house_no": "466",
+            "candidates": {
+                "1": 595
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1134
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃正一",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "湖內里",
+            "house_no": "133",
+            "candidates": {
+                "1": 674
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1575
+        },
+        {
+            "area": "西區",
+            "cunli": "湖內里",
+            "house_no": "134",
+            "candidates": {
+                "1": 637
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 1526
+        },
+        {
+            "area": "西區",
+            "cunli": "湖內里",
+            "house_no": "135",
+            "candidates": {
+                "1": 712
+            },
+            "count_wrong": 130,
+            "count_unused": 0,
+            "count_total": 1571
+        }
+    ]
+}

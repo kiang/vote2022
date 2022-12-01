@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張克帆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "永樂里",
+            "house_no": "61",
+            "candidates": {
+                "1": 390
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "臺東市",
+            "cunli": "永樂里",
+            "house_no": "62",
+            "candidates": {
+                "1": 403
+            },
+            "count_wrong": 120,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "臺東市",
+            "cunli": "永樂里",
+            "house_no": "63",
+            "candidates": {
+                "1": 456
+            },
+            "count_wrong": 120,
+            "count_unused": 0,
+            "count_total": 873
+        }
+    ]
+}

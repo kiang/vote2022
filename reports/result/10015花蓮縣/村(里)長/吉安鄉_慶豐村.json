@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭善杰",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳國權",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "王淑娟",
+            "party": "人民民主黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "141",
+            "candidates": {
+                "1": 156,
+                "2": 185,
+                "3": 312
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "142",
+            "candidates": {
+                "1": 156,
+                "2": 124,
+                "3": 232
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "143",
+            "candidates": {
+                "1": 194,
+                "2": 95,
+                "3": 224
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "144",
+            "candidates": {
+                "1": 179,
+                "2": 114,
+                "3": 256
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1146
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "145",
+            "candidates": {
+                "1": 165,
+                "2": 129,
+                "3": 281
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "慶豐村",
+            "house_no": "146",
+            "candidates": {
+                "1": 177,
+                "2": 135,
+                "3": 248
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1125
+        }
+    ]
+}

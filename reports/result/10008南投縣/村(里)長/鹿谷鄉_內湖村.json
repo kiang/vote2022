@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳竹能",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾志權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿谷鄉",
+            "cunli": "內湖村",
+            "house_no": "345",
+            "candidates": {
+                "1": 198,
+                "2": 175
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 529
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "內湖村",
+            "house_no": "346",
+            "candidates": {
+                "1": 162,
+                "2": 169
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 415
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀蓮",
+            "party": "無"
+        },
+        "2": {
+            "name": "白春桐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "月港里",
+            "house_no": "89",
+            "candidates": {
+                "1": 114,
+                "2": 315
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 726
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "月港里",
+            "house_no": "90",
+            "candidates": {
+                "1": 28,
+                "2": 124
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 297
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "月港里",
+            "house_no": "91",
+            "candidates": {
+                "1": 79,
+                "2": 212
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 466
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林全義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "水源里",
+            "house_no": "1216",
+            "candidates": {
+                "1": 462
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 780
+        },
+        {
+            "area": "中正區",
+            "cunli": "水源里",
+            "house_no": "1217",
+            "candidates": {
+                "1": 477
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "中正區",
+            "cunli": "水源里",
+            "house_no": "1218",
+            "candidates": {
+                "1": 454
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 766
+        }
+    ]
+}

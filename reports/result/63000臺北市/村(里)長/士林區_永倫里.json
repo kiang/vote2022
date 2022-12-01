@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋旭曜",
+            "party": "無"
+        },
+        "2": {
+            "name": "石林麗惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "李慶昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "永倫里",
+            "house_no": "254",
+            "candidates": {
+                "1": 249,
+                "2": 446,
+                "3": 34
+            },
+            "count_wrong": 32,
+            "count_unused": 2,
+            "count_total": 1137
+        },
+        {
+            "area": "士林區",
+            "cunli": "永倫里",
+            "house_no": "255",
+            "candidates": {
+                "1": 316,
+                "2": 430,
+                "3": 24
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "士林區",
+            "cunli": "永倫里",
+            "house_no": "256",
+            "candidates": {
+                "1": 306,
+                "2": 485,
+                "3": 27
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "士林區",
+            "cunli": "永倫里",
+            "house_no": "257",
+            "candidates": {
+                "1": 332,
+                "2": 358,
+                "3": 25
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "士林區",
+            "cunli": "永倫里",
+            "house_no": "258",
+            "candidates": {
+                "1": 396,
+                "2": 386,
+                "3": 22
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1243
+        }
+    ]
+}

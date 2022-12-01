@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊幸福",
+            "party": "無"
+        },
+        "2": {
+            "name": "張紘碩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "安溪村",
+            "house_no": "353",
+            "candidates": {
+                "1": 275,
+                "2": 378
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "安溪村",
+            "house_no": "354",
+            "candidates": {
+                "1": 307,
+                "2": 370
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1000
+        }
+    ]
+}

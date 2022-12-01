@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游存常",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳鑫池",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴碧珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "大崙村",
+            "house_no": "613",
+            "candidates": {
+                "1": 7,
+                "2": 263,
+                "3": 335
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 832
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "大崙村",
+            "house_no": "614",
+            "candidates": {
+                "1": 25,
+                "2": 325,
+                "3": 256
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 800
+        }
+    ]
+}

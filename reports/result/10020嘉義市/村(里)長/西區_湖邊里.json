@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李高滿足",
+            "party": "無"
+        },
+        "2": {
+            "name": "張榕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "湖邊里",
+            "house_no": "171",
+            "candidates": {
+                "1": 280,
+                "2": 281
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "西區",
+            "cunli": "湖邊里",
+            "house_no": "172",
+            "candidates": {
+                "1": 321,
+                "2": 245
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 996
+        }
+    ]
+}

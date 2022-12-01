@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉天賦",
+            "party": "無"
+        },
+        "2": {
+            "name": "許貴霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "岡山里",
+            "house_no": "282",
+            "candidates": {
+                "1": 397,
+                "2": 357
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "岡山區",
+            "cunli": "岡山里",
+            "house_no": "283",
+            "candidates": {
+                "1": 312,
+                "2": 114
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "岡山區",
+            "cunli": "岡山里",
+            "house_no": "284",
+            "candidates": {
+                "1": 348,
+                "2": 164
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 987
+        },
+        {
+            "area": "岡山區",
+            "cunli": "岡山里",
+            "house_no": "285",
+            "candidates": {
+                "1": 359,
+                "2": 160
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 847
+        }
+    ]
+}

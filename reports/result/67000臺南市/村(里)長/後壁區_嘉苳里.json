@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡德聖",
+            "party": "無"
+        },
+        "2": {
+            "name": "張運格",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "嘉苳里",
+            "house_no": "5",
+            "candidates": {
+                "1": 409,
+                "2": 194
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "後壁區",
+            "cunli": "嘉苳里",
+            "house_no": "6",
+            "candidates": {
+                "1": 98,
+                "2": 46
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 221
+        }
+    ]
+}

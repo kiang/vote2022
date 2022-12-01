@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭福仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡保秀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "同心里",
+            "house_no": "970",
+            "candidates": {
+                "1": 329,
+                "2": 444
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "南屯區",
+            "cunli": "同心里",
+            "house_no": "971",
+            "candidates": {
+                "1": 345,
+                "2": 503
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1504
+        },
+        {
+            "area": "南屯區",
+            "cunli": "同心里",
+            "house_no": "972",
+            "candidates": {
+                "1": 300,
+                "2": 270
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "南屯區",
+            "cunli": "同心里",
+            "house_no": "973",
+            "candidates": {
+                "1": 294,
+                "2": 301
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1060
+        }
+    ]
+}

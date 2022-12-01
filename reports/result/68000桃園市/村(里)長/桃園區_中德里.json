@@ -1,0 +1,65 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡秀星",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中德里",
+            "house_no": "88",
+            "candidates": {
+                "1": 629
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中德里",
+            "house_no": "89",
+            "candidates": {
+                "1": 837
+            },
+            "count_wrong": 129,
+            "count_unused": 1,
+            "count_total": 1703
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中德里",
+            "house_no": "90",
+            "candidates": {
+                "1": 592
+            },
+            "count_wrong": 135,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中德里",
+            "house_no": "91",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中德里",
+            "house_no": "92",
+            "candidates": {
+                "1": 524
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1180
+        }
+    ]
+}

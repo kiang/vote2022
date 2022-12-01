@@ -1,0 +1,135 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張阿淑",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "廖杰睿",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱淑婷",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "839",
+            "candidates": {
+                "1": 489,
+                "2": 74,
+                "3": 357
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1638
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "840",
+            "candidates": {
+                "1": 429,
+                "2": 102,
+                "3": 259
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "841",
+            "candidates": {
+                "1": 428,
+                "2": 90,
+                "3": 238
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1262
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "842",
+            "candidates": {
+                "1": 363,
+                "2": 116,
+                "3": 204
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1334
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "843",
+            "candidates": {
+                "1": 330,
+                "2": 90,
+                "3": 231
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "844",
+            "candidates": {
+                "1": 322,
+                "2": 118,
+                "3": 222
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "845",
+            "candidates": {
+                "1": 363,
+                "2": 64,
+                "3": 196
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "846",
+            "candidates": {
+                "1": 322,
+                "2": 91,
+                "3": 219
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "西屯區",
+            "cunli": "永安里",
+            "house_no": "847",
+            "candidates": {
+                "1": 306,
+                "2": 138,
+                "3": 222
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1326
+        }
+    ]
+}

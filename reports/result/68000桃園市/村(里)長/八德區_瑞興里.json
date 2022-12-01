@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林昆德",
+            "party": "無"
+        },
+        "2": {
+            "name": "王意華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "瑞興里",
+            "house_no": "376",
+            "candidates": {
+                "1": 489,
+                "2": 429
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1505
+        },
+        {
+            "area": "八德區",
+            "cunli": "瑞興里",
+            "house_no": "377",
+            "candidates": {
+                "1": 466,
+                "2": 330
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

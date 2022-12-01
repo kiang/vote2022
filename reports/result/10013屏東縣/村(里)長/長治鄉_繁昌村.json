@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇坤霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "董平和",
+            "party": "無"
+        },
+        "3": {
+            "name": "李武芳",
+            "party": "無"
+        },
+        "4": {
+            "name": "董陵山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "繁昌村",
+            "house_no": "313",
+            "candidates": {
+                "1": 117,
+                "2": 89,
+                "3": 204,
+                "4": 185
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "繁昌村",
+            "house_no": "314",
+            "candidates": {
+                "1": 121,
+                "2": 100,
+                "3": 176,
+                "4": 234
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 873
+        }
+    ]
+}

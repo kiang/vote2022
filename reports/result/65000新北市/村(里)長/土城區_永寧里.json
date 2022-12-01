@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳曉琪",
+            "party": "無"
+        },
+        "2": {
+            "name": "周清芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "永寧里",
+            "house_no": "1930",
+            "candidates": {
+                "1": 304,
+                "2": 433
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1433
+        },
+        {
+            "area": "土城區",
+            "cunli": "永寧里",
+            "house_no": "1931",
+            "candidates": {
+                "1": 301,
+                "2": 426
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1436
+        },
+        {
+            "area": "土城區",
+            "cunli": "永寧里",
+            "house_no": "1932",
+            "candidates": {
+                "1": 299,
+                "2": 392
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "土城區",
+            "cunli": "永寧里",
+            "house_no": "1933",
+            "candidates": {
+                "1": 294,
+                "2": 416
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1293
+        },
+        {
+            "area": "土城區",
+            "cunli": "永寧里",
+            "house_no": "1934",
+            "candidates": {
+                "1": 271,
+                "2": 472
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1460
+        }
+    ]
+}

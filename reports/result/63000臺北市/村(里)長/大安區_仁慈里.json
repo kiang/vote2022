@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊俊彥",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麒中",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "仁慈里",
+            "house_no": "1391",
+            "candidates": {
+                "1": 300,
+                "2": 566
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "大安區",
+            "cunli": "仁慈里",
+            "house_no": "1392",
+            "candidates": {
+                "1": 210,
+                "2": 523
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "大安區",
+            "cunli": "仁慈里",
+            "house_no": "1393",
+            "candidates": {
+                "1": 287,
+                "2": 625
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1398
+        }
+    ]
+}

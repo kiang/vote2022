@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉丁源",
+            "party": "無"
+        },
+        "2": {
+            "name": "柳建福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "福泰里",
+            "house_no": "320",
+            "candidates": {
+                "1": 346,
+                "2": 403
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "泰山區",
+            "cunli": "福泰里",
+            "house_no": "321",
+            "candidates": {
+                "1": 344,
+                "2": 336
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1179
+        }
+    ]
+}

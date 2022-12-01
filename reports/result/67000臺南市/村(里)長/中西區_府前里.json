@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉錦融",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡宗明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "府前里",
+            "house_no": "1109",
+            "candidates": {
+                "1": 174,
+                "2": 371
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 910
+        },
+        {
+            "area": "中西區",
+            "cunli": "府前里",
+            "house_no": "1110",
+            "candidates": {
+                "1": 294,
+                "2": 229
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 897
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓聖紋",
+            "party": "無"
+        },
+        "2": {
+            "name": "張堂鈺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "成功里",
+            "house_no": "825",
+            "candidates": {
+                "1": 490,
+                "2": 424
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1508
+        },
+        {
+            "area": "中壢區",
+            "cunli": "成功里",
+            "house_no": "826",
+            "candidates": {
+                "1": 454,
+                "2": 345
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1481
+        },
+        {
+            "area": "中壢區",
+            "cunli": "成功里",
+            "house_no": "827",
+            "candidates": {
+                "1": 401,
+                "2": 316
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1255
+        }
+    ]
+}

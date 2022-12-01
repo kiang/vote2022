@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅靜雯",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇吳錦秀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "東寧里",
+            "house_no": "478",
+            "candidates": {
+                "1": 195,
+                "2": 491
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1415
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "東寧里",
+            "house_no": "479",
+            "candidates": {
+                "1": 157,
+                "2": 596
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1499
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "東寧里",
+            "house_no": "480",
+            "candidates": {
+                "1": 141,
+                "2": 600
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1453
+        }
+    ]
+}

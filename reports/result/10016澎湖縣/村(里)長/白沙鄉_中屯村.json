@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾志明",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝鴻展",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭秋香",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝明樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白沙鄉",
+            "cunli": "中屯村",
+            "house_no": "77",
+            "candidates": {
+                "1": 100,
+                "2": 83,
+                "3": 139,
+                "4": 64
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 531
+        }
+    ]
+}

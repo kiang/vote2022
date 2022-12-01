@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張河境",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴世榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "新庄村",
+            "house_no": "591",
+            "candidates": {
+                "1": 196,
+                "2": 346
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 723
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "新庄村",
+            "house_no": "592",
+            "candidates": {
+                "1": 141,
+                "2": 349
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 683
+        }
+    ]
+}

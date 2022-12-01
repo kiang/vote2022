@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王叔珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "東勢里",
+            "house_no": "645",
+            "candidates": {
+                "1": 664
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "松山區",
+            "cunli": "東勢里",
+            "house_no": "646",
+            "candidates": {
+                "1": 643
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "松山區",
+            "cunli": "東勢里",
+            "house_no": "647",
+            "candidates": {
+                "1": 698
+            },
+            "count_wrong": 111,
+            "count_unused": 1,
+            "count_total": 1138
+        }
+    ]
+}

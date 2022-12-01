@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何應成",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇月鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永安區",
+            "cunli": "新港里",
+            "house_no": "273",
+            "candidates": {
+                "1": 326,
+                "2": 207
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 803
+        },
+        {
+            "area": "永安區",
+            "cunli": "新港里",
+            "house_no": "274",
+            "candidates": {
+                "1": 281,
+                "2": 216
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 817
+        },
+        {
+            "area": "永安區",
+            "cunli": "新港里",
+            "house_no": "275",
+            "candidates": {
+                "1": 159,
+                "2": 279
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 629
+        }
+    ]
+}

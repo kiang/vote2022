@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭玩玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林浤澤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "明孝里",
+            "house_no": "1660",
+            "candidates": {
+                "1": 220,
+                "2": 314
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "明孝里",
+            "house_no": "1661",
+            "candidates": {
+                "1": 142,
+                "2": 363
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "明孝里",
+            "house_no": "1662",
+            "candidates": {
+                "1": 156,
+                "2": 232
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 621
+        }
+    ]
+}

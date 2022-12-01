@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂理民",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖寅助",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪武憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "明德里",
+            "house_no": "1998",
+            "candidates": {
+                "1": 276,
+                "2": 330,
+                "3": 351
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1609
+        },
+        {
+            "area": "土城區",
+            "cunli": "明德里",
+            "house_no": "1999",
+            "candidates": {
+                "1": 365,
+                "2": 263,
+                "3": 267
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1610
+        },
+        {
+            "area": "土城區",
+            "cunli": "明德里",
+            "house_no": "2000",
+            "candidates": {
+                "1": 541,
+                "2": 190,
+                "3": 436
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1906
+        }
+    ]
+}

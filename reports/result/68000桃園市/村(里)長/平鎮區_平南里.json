@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊上賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "江珮瑩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "平南里",
+            "house_no": "981",
+            "candidates": {
+                "1": 312,
+                "2": 464
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1326
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平南里",
+            "house_no": "982",
+            "candidates": {
+                "1": 339,
+                "2": 403
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1297
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平南里",
+            "house_no": "983",
+            "candidates": {
+                "1": 414,
+                "2": 425
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平南里",
+            "house_no": "984",
+            "candidates": {
+                "1": 319,
+                "2": 548
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1414
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平南里",
+            "house_no": "985",
+            "candidates": {
+                "1": 208,
+                "2": 456
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1226
+        }
+    ]
+}

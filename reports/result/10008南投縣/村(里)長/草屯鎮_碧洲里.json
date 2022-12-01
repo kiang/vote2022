@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "白淯錡",
+            "party": "無"
+        },
+        "2": {
+            "name": "林芳輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "碧洲里",
+            "house_no": "186",
+            "candidates": {
+                "1": 696,
+                "2": 290
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1392
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "碧洲里",
+            "house_no": "187",
+            "candidates": {
+                "1": 346,
+                "2": 271
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1005
+        }
+    ]
+}

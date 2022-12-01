@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曹麗莉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林山田",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "民本里",
+            "house_no": "1668",
+            "candidates": {
+                "1": 501,
+                "2": 384
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1578
+        },
+        {
+            "area": "永和區",
+            "cunli": "民本里",
+            "house_no": "1669",
+            "candidates": {
+                "1": 486,
+                "2": 401
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1646
+        }
+    ]
+}

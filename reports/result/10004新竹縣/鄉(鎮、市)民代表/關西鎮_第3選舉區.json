@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉文燈",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃淼霖",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "李常棟",
+            "party": "無"
+        },
+        "4": {
+            "name": "范良宇",
+            "party": "無"
+        },
+        "5": {
+            "name": "嚴永海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關西鎮",
+            "cunli": "東光里",
+            "house_no": "262",
+            "candidates": {
+                "1": 338,
+                "2": 393
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "南新里",
+            "house_no": "263",
+            "candidates": {
+                "1": 204,
+                "2": 382
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "新富里",
+            "house_no": "264",
+            "candidates": {
+                "1": 194,
+                "2": 121
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 497
+        },
+        {
+            "area": "關西鎮",
+            "cunli": "玉山里",
+            "house_no": "265",
+            "candidates": {
+                "1": 196,
+                "2": 111
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 422
+        }
+    ]
+}

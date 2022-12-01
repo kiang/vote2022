@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊瑞雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "周文榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "信義里",
+            "house_no": "1738",
+            "candidates": {
+                "1": 410,
+                "2": 323
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "永和區",
+            "cunli": "信義里",
+            "house_no": "1739",
+            "candidates": {
+                "1": 297,
+                "2": 244
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 908
+        }
+    ]
+}

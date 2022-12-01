@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳冠穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "王武龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "歐應德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "文昌里",
+            "house_no": "104",
+            "candidates": {
+                "1": 112,
+                "2": 169,
+                "3": 99
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 567
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "文昌里",
+            "house_no": "105",
+            "candidates": {
+                "1": 60,
+                "2": 61,
+                "3": 85
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 360
+        }
+    ]
+}

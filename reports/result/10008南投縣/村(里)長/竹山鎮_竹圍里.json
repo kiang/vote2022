@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖振輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林志榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "竹圍里",
+            "house_no": "241",
+            "candidates": {
+                "1": 329,
+                "2": 330
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1041
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "竹圍里",
+            "house_no": "242",
+            "candidates": {
+                "1": 277,
+                "2": 402
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1116
+        }
+    ]
+}

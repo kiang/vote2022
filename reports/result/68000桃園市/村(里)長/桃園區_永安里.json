@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊育達",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃柏岳",
+            "party": "無"
+        },
+        "3": {
+            "name": "林昌立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "永安里",
+            "house_no": "135",
+            "candidates": {
+                "1": 418,
+                "2": 117,
+                "3": 296
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "桃園區",
+            "cunli": "永安里",
+            "house_no": "136",
+            "candidates": {
+                "1": 471,
+                "2": 182,
+                "3": 221
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1512
+        },
+        {
+            "area": "桃園區",
+            "cunli": "永安里",
+            "house_no": "137",
+            "candidates": {
+                "1": 480,
+                "2": 173,
+                "3": 333
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1497
+        }
+    ]
+}

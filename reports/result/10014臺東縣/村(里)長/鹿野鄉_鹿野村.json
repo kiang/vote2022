@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳高桐",
+            "party": "無"
+        },
+        "2": {
+            "name": "張英宏",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳家豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿野鄉",
+            "cunli": "鹿野村",
+            "house_no": "140",
+            "candidates": {
+                "1": 52,
+                "2": 56,
+                "3": 230
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 473
+        },
+        {
+            "area": "鹿野鄉",
+            "cunli": "鹿野村",
+            "house_no": "141",
+            "candidates": {
+                "1": 121,
+                "2": 102,
+                "3": 125
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 516
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳淑燕",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭順和",
+            "party": "無"
+        },
+        "3": {
+            "name": "李亦勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "泗林里",
+            "house_no": "178",
+            "candidates": {
+                "1": 299,
+                "2": 91,
+                "3": 218
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "泗林里",
+            "house_no": "179",
+            "candidates": {
+                "1": 192,
+                "2": 102,
+                "3": 193
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 683
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅世宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秋季",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "光華里",
+            "house_no": "139",
+            "candidates": {
+                "1": 263,
+                "2": 214
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "光華里",
+            "house_no": "140",
+            "candidates": {
+                "1": 266,
+                "2": 210
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 892
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "光華里",
+            "house_no": "141",
+            "candidates": {
+                "1": 304,
+                "2": 229
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 929
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "光華里",
+            "house_no": "142",
+            "candidates": {
+                "1": 247,
+                "2": 253
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 871
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "光華里",
+            "house_no": "143",
+            "candidates": {
+                "1": 245,
+                "2": 235
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

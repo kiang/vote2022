@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文禮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "長泰里",
+            "house_no": "871",
+            "candidates": {
+                "1": 545
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "三重區",
+            "cunli": "長泰里",
+            "house_no": "872",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 55,
+            "count_unused": 1,
+            "count_total": 881
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊雪梅",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張孫宥心",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "羅珮瑄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "精忠里",
+            "house_no": "338",
+            "candidates": {
+                "1": 490,
+                "2": 437,
+                "3": 68
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1543
+        },
+        {
+            "area": "龜山區",
+            "cunli": "精忠里",
+            "house_no": "339",
+            "candidates": {
+                "1": 389,
+                "2": 431,
+                "3": 101
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1629
+        },
+        {
+            "area": "龜山區",
+            "cunli": "精忠里",
+            "house_no": "340",
+            "candidates": {
+                "1": 291,
+                "2": 541,
+                "3": 145
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1830
+        }
+    ]
+}

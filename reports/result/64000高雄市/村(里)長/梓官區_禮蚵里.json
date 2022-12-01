@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡添寳",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾清勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "禮蚵里",
+            "house_no": "416",
+            "candidates": {
+                "1": 312,
+                "2": 357
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "梓官區",
+            "cunli": "禮蚵里",
+            "house_no": "417",
+            "candidates": {
+                "1": 361,
+                "2": 237
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 979
+        }
+    ]
+}

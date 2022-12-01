@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志冠",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹聆幼",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭見雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "萬興里",
+            "house_no": "1742",
+            "candidates": {
+                "1": 480,
+                "2": 406,
+                "3": 29
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬興里",
+            "house_no": "1743",
+            "candidates": {
+                "1": 445,
+                "2": 408,
+                "3": 56
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬興里",
+            "house_no": "1744",
+            "candidates": {
+                "1": 538,
+                "2": 397,
+                "3": 38
+            },
+            "count_wrong": 35,
+            "count_unused": 2,
+            "count_total": 1392
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬興里",
+            "house_no": "1745",
+            "candidates": {
+                "1": 465,
+                "2": 372,
+                "3": 36
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1265
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬興里",
+            "house_no": "1746",
+            "candidates": {
+                "1": 365,
+                "2": 430,
+                "3": 47
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1284
+        }
+    ]
+}

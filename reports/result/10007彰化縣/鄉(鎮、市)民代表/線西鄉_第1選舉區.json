@@ -1,0 +1,103 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃宏明",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃漢皇",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾文忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "線西鄉",
+            "cunli": "線西村",
+            "house_no": "487",
+            "candidates": {
+                "1": 70,
+                "2": 151,
+                "3": 29,
+                "4": 169,
+                "5": 55,
+                "6": 54,
+                "7": 107
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "線西鄉",
+            "cunli": "線西村",
+            "house_no": "488",
+            "candidates": {
+                "1": 71,
+                "2": 176,
+                "3": 32,
+                "4": 251,
+                "5": 55,
+                "6": 47,
+                "7": 132
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "線西鄉",
+            "cunli": "頂庄村",
+            "house_no": "489",
+            "candidates": {
+                "1": 64,
+                "2": 149,
+                "3": 54,
+                "4": 44,
+                "5": 65,
+                "6": 391,
+                "7": 77
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "線西鄉",
+            "cunli": "寓埔村",
+            "house_no": "490",
+            "candidates": {
+                "1": 199,
+                "2": 85,
+                "3": 127,
+                "4": 82,
+                "5": 140,
+                "6": 45,
+                "7": 58
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "線西鄉",
+            "cunli": "寓埔村",
+            "house_no": "491",
+            "candidates": {
+                "1": 192,
+                "2": 91,
+                "3": 149,
+                "4": 70,
+                "5": 156,
+                "6": 36,
+                "7": 61
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀建豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "王經綻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梧棲區",
+            "cunli": "福德里",
+            "house_no": "179",
+            "candidates": {
+                "1": 390,
+                "2": 437
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "福德里",
+            "house_no": "180",
+            "candidates": {
+                "1": 340,
+                "2": 424
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "福德里",
+            "house_no": "181",
+            "candidates": {
+                "1": 464,
+                "2": 386
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "福德里",
+            "house_no": "182",
+            "candidates": {
+                "1": 492,
+                "2": 285
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1255
+        }
+    ]
+}

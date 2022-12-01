@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭志偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈秋花",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "李欣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "春日鄉",
+            "cunli": "春日村",
+            "house_no": "690",
+            "candidates": {
+                "1": 87,
+                "2": 409,
+                "3": 216
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 878
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "古華村",
+            "house_no": "691",
+            "candidates": {
+                "1": 124,
+                "2": 209,
+                "3": 169
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 659
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "士文村",
+            "house_no": "692",
+            "candidates": {
+                "1": 56,
+                "2": 82,
+                "3": 109
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 292
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "七佳村",
+            "house_no": "693",
+            "candidates": {
+                "1": 171,
+                "2": 219,
+                "3": 306
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 913
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "歸崇村",
+            "house_no": "694",
+            "candidates": {
+                "1": 108,
+                "2": 208,
+                "3": 185
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 631
+        },
+        {
+            "area": "春日鄉",
+            "cunli": "力里村",
+            "house_no": "695",
+            "candidates": {
+                "1": 88,
+                "2": 174,
+                "3": 102
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 467
+        }
+    ]
+}

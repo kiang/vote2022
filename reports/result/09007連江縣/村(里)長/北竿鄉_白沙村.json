@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王若蓉",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王傳文",
+            "party": "無"
+        },
+        "3": {
+            "name": "林百光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北竿鄉",
+            "cunli": "白沙村",
+            "house_no": "7",
+            "candidates": {
+                "1": 59,
+                "2": 54,
+                "3": 15
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 160
+        }
+    ]
+}

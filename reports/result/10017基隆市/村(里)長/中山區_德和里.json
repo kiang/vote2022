@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾聖為",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤佳惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "李文圭",
+            "party": "無"
+        },
+        "4": {
+            "name": "范振鈿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "德和里",
+            "house_no": "140",
+            "candidates": {
+                "1": 274,
+                "2": 73,
+                "3": 189,
+                "4": 151
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "中山區",
+            "cunli": "德和里",
+            "house_no": "141",
+            "candidates": {
+                "1": 284,
+                "2": 81,
+                "3": 221,
+                "4": 271
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "中山區",
+            "cunli": "德和里",
+            "house_no": "142",
+            "candidates": {
+                "1": 302,
+                "2": 75,
+                "3": 187,
+                "4": 350
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1452
+        },
+        {
+            "area": "中山區",
+            "cunli": "德和里",
+            "house_no": "143",
+            "candidates": {
+                "1": 342,
+                "2": 61,
+                "3": 136,
+                "4": 243
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1254
+        }
+    ]
+}

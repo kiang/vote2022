@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "夏金裕",
+            "party": "無"
+        },
+        "2": {
+            "name": "連建源",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "勝利村",
+            "house_no": "323",
+            "candidates": {
+                "1": 420,
+                "2": 406
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "勝利村",
+            "house_no": "324",
+            "candidates": {
+                "1": 377,
+                "2": 292
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1389
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "勝利村",
+            "house_no": "325",
+            "candidates": {
+                "1": 351,
+                "2": 261
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1240
+        }
+    ]
+}

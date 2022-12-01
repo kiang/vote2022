@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇東啓",
+            "party": "無"
+        },
+        "2": {
+            "name": "雷慧玲",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾茂照",
+            "party": "無"
+        },
+        "4": {
+            "name": "游織嫙",
+            "party": "無"
+        },
+        "5": {
+            "name": "葉金安",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "范期勛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三星鄉",
+            "cunli": "員山村",
+            "house_no": "387",
+            "candidates": {
+                "1": 79,
+                "2": 41,
+                "3": 20,
+                "4": 33
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 216
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "天山村",
+            "house_no": "388",
+            "candidates": {
+                "1": 30,
+                "2": 145,
+                "3": 82,
+                "4": 54
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 446
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "天福村",
+            "house_no": "389",
+            "candidates": {
+                "1": 33,
+                "2": 144,
+                "3": 203,
+                "4": 192
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 731
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "萬德村",
+            "house_no": "390",
+            "candidates": {
+                "1": 204,
+                "2": 25,
+                "3": 89,
+                "4": 46
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 566
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "貴林村",
+            "house_no": "391",
+            "candidates": {
+                "1": 106,
+                "2": 26,
+                "3": 152,
+                "4": 67
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 508
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "萬富村",
+            "house_no": "392",
+            "candidates": {
+                "1": 208,
+                "2": 43,
+                "3": 156,
+                "4": 124
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 719
+        }
+    ]
+}

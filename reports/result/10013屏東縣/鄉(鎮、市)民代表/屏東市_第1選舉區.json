@@ -1,0 +1,134 @@
+{
+    "candidates": {
+        "1": {
+            "name": "饒怡君",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "傅建雄",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "林幸蓉",
+            "party": "無"
+        },
+        "4": {
+            "name": "張儷馨",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳漢霖",
+            "party": "無"
+        },
+        "6": {
+            "name": "李玉萍",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "王芬里",
+            "party": "民主進步黨"
+        },
+        "8": {
+            "name": "黃秈囷",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "大同里",
+            "house_no": "1",
+            "candidates": {
+                "1": 260,
+                "2": 202
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大同里",
+            "house_no": "2",
+            "candidates": {
+                "1": 257,
+                "2": 174
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "屏東市",
+            "cunli": "光榮里",
+            "house_no": "3",
+            "candidates": {
+                "1": 317,
+                "2": 191
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "屏東市",
+            "cunli": "光榮里",
+            "house_no": "4",
+            "candidates": {
+                "1": 275,
+                "2": 174
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大埔里",
+            "house_no": "5",
+            "candidates": {
+                "1": 274,
+                "2": 237
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大埔里",
+            "house_no": "6",
+            "candidates": {
+                "1": 264,
+                "2": 136
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 683
+        },
+        {
+            "area": "屏東市",
+            "cunli": "維新里",
+            "house_no": "7",
+            "candidates": {
+                "1": 409,
+                "2": 234
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "屏東市",
+            "cunli": "維新里",
+            "house_no": "8",
+            "candidates": {
+                "1": 430,
+                "2": 215
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1198
+        }
+    ]
+}

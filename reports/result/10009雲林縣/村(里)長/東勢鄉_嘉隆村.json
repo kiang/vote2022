@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃周對",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳意明",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃寶榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢鄉",
+            "cunli": "嘉隆村",
+            "house_no": "63",
+            "candidates": {
+                "1": 66,
+                "2": 187,
+                "3": 343
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "嘉隆村",
+            "house_no": "64",
+            "candidates": {
+                "1": 49,
+                "2": 107,
+                "3": 307
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 638
+        }
+    ]
+}

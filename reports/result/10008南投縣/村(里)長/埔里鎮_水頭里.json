@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪夢彪",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖正裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "水頭里",
+            "house_no": "96",
+            "candidates": {
+                "1": 356,
+                "2": 323
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "水頭里",
+            "house_no": "97",
+            "candidates": {
+                "1": 334,
+                "2": 342
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "水頭里",
+            "house_no": "98",
+            "candidates": {
+                "1": 103,
+                "2": 199
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 488
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "水頭里",
+            "house_no": "99",
+            "candidates": {
+                "1": 212,
+                "2": 381
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 915
+        }
+    ]
+}

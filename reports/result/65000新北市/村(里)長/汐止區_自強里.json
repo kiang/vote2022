@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陶宗雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "李淑麗",
+            "party": "無"
+        },
+        "3": {
+            "name": "康金龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "自強里",
+            "house_no": "2564",
+            "candidates": {
+                "1": 43,
+                "2": 450,
+                "3": 465
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1644
+        },
+        {
+            "area": "汐止區",
+            "cunli": "自強里",
+            "house_no": "2565",
+            "candidates": {
+                "1": 36,
+                "2": 185,
+                "3": 675
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1673
+        },
+        {
+            "area": "汐止區",
+            "cunli": "自強里",
+            "house_no": "2566",
+            "candidates": {
+                "1": 80,
+                "2": 315,
+                "3": 511
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1672
+        }
+    ]
+}

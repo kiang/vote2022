@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱瓊誼",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇桐慶",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "黃勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "東新里",
+            "house_no": "190",
+            "candidates": {
+                "1": 262,
+                "2": 322,
+                "3": 36
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "東新里",
+            "house_no": "191",
+            "candidates": {
+                "1": 253,
+                "2": 288,
+                "3": 76
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝永昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "吉安里",
+            "house_no": "2439",
+            "candidates": {
+                "1": 262
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "瑞芳區",
+            "cunli": "吉安里",
+            "house_no": "2440",
+            "candidates": {
+                "1": 407
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "瑞芳區",
+            "cunli": "吉安里",
+            "house_no": "2441",
+            "candidates": {
+                "1": 399
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

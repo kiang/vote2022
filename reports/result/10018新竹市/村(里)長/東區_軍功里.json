@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘柏璋",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "軍功里",
+            "house_no": "66",
+            "candidates": {
+                "1": 452
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 927
+        },
+        {
+            "area": "東區",
+            "cunli": "軍功里",
+            "house_no": "67",
+            "candidates": {
+                "1": 381
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 759
+        },
+        {
+            "area": "東區",
+            "cunli": "軍功里",
+            "house_no": "68",
+            "candidates": {
+                "1": 434
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 844
+        }
+    ]
+}

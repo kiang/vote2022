@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "伍宥銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝樹來",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘俊賢",
+            "party": "無"
+        },
+        "4": {
+            "name": "呂清佑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "中芸里",
+            "house_no": "2011",
+            "candidates": {
+                "1": 147,
+                "2": 363,
+                "3": 23,
+                "4": 104
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "林園區",
+            "cunli": "中芸里",
+            "house_no": "2012",
+            "candidates": {
+                "1": 118,
+                "2": 232,
+                "3": 46,
+                "4": 92
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 727
+        }
+    ]
+}

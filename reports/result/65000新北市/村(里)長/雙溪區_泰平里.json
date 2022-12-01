@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方敏珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇文章",
+            "party": "無"
+        },
+        "3": {
+            "name": "連錦池",
+            "party": "無"
+        },
+        "4": {
+            "name": "盧昇明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "雙溪區",
+            "cunli": "泰平里",
+            "house_no": "2478",
+            "candidates": {
+                "1": 330,
+                "2": 275,
+                "3": 62,
+                "4": 120
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1116
+        }
+    ]
+}

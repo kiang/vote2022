@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘麒任",
+            "party": "無"
+        },
+        "2": {
+            "name": "許睦燦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "新富里",
+            "house_no": "529",
+            "candidates": {
+                "1": 182,
+                "2": 476
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "南港區",
+            "cunli": "新富里",
+            "house_no": "530",
+            "candidates": {
+                "1": 207,
+                "2": 531
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "南港區",
+            "cunli": "新富里",
+            "house_no": "531",
+            "candidates": {
+                "1": 176,
+                "2": 547
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖秀麗",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱銘坤",
+            "party": "無"
+        },
+        "3": {
+            "name": "林晁慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "鎮平里",
+            "house_no": "900",
+            "candidates": {
+                "1": 297,
+                "2": 41,
+                "3": 25
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 551
+        },
+        {
+            "area": "南屯區",
+            "cunli": "鎮平里",
+            "house_no": "901",
+            "candidates": {
+                "1": 388,
+                "2": 80,
+                "3": 23
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 721
+        }
+    ]
+}

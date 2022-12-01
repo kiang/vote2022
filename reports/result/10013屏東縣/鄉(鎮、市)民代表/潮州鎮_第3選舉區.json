@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高瑞坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳貞亮",
+            "party": "無"
+        },
+        "3": {
+            "name": "李正順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "泗林里",
+            "house_no": "178",
+            "candidates": {
+                "1": 63,
+                "2": 192,
+                "3": 344
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "泗林里",
+            "house_no": "179",
+            "candidates": {
+                "1": 52,
+                "2": 198,
+                "3": 231
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 683
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "四春里",
+            "house_no": "180",
+            "candidates": {
+                "1": 190,
+                "2": 261,
+                "3": 130
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 869
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "四春里",
+            "house_no": "181",
+            "candidates": {
+                "1": 212,
+                "2": 189,
+                "3": 118
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 769
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "崙東里",
+            "house_no": "182",
+            "candidates": {
+                "1": 111,
+                "2": 279,
+                "3": 325
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "崙東里",
+            "house_no": "183",
+            "candidates": {
+                "1": 10,
+                "2": 92,
+                "3": 150
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 339
+        }
+    ]
+}

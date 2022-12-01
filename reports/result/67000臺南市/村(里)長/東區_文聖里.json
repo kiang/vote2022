@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭林勝時",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭志廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "文聖里",
+            "house_no": "1352",
+            "candidates": {
+                "1": 396,
+                "2": 175
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "東區",
+            "cunli": "文聖里",
+            "house_no": "1353",
+            "candidates": {
+                "1": 429,
+                "2": 149
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "東區",
+            "cunli": "文聖里",
+            "house_no": "1354",
+            "candidates": {
+                "1": 342,
+                "2": 165
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1009
+        },
+        {
+            "area": "東區",
+            "cunli": "文聖里",
+            "house_no": "1355",
+            "candidates": {
+                "1": 356,
+                "2": 196
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

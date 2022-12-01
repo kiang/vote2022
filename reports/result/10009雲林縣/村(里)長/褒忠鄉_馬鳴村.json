@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許文禎",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳瑞明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "馬鳴村",
+            "house_no": "83",
+            "candidates": {
+                "1": 195,
+                "2": 128
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 446
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "馬鳴村",
+            "house_no": "84",
+            "candidates": {
+                "1": 367,
+                "2": 305
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 917
+        }
+    ]
+}

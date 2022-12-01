@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金龍 Ngedrelre‧Druluan",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯永吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "凃朝昇",
+            "party": "無"
+        },
+        "4": {
+            "name": "柯信雄",
+            "party": "無"
+        },
+        "5": {
+            "name": "柯正光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "657",
+            "candidates": {
+                "1": 36,
+                "2": 20,
+                "3": 161,
+                "4": 63,
+                "5": 10
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 331
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "658",
+            "candidates": {
+                "1": 152,
+                "2": 83,
+                "3": 180,
+                "4": 144,
+                "5": 21
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 658
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "霧台村",
+            "house_no": "659",
+            "candidates": {
+                "1": 22,
+                "2": 10,
+                "3": 23,
+                "4": 32,
+                "5": 30
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 152
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "吉露村",
+            "house_no": "660",
+            "candidates": {
+                "1": 32,
+                "2": 15,
+                "3": 42,
+                "4": 32,
+                "5": 27
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 180
+        },
+        {
+            "area": "霧臺鄉",
+            "cunli": "阿禮村",
+            "house_no": "661",
+            "candidates": {
+                "1": 15,
+                "2": 0,
+                "3": 13,
+                "4": 20,
+                "5": 223
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 309
+        }
+    ]
+}

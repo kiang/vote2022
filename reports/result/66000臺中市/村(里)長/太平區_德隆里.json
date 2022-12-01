@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳子梵",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡丞柏",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "吳燕明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "德隆里",
+            "house_no": "1617",
+            "candidates": {
+                "1": 127,
+                "2": 223,
+                "3": 307
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "太平區",
+            "cunli": "德隆里",
+            "house_no": "1618",
+            "candidates": {
+                "1": 112,
+                "2": 160,
+                "3": 370
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "太平區",
+            "cunli": "德隆里",
+            "house_no": "1619",
+            "candidates": {
+                "1": 153,
+                "2": 172,
+                "3": 344
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1020
+        },
+        {
+            "area": "太平區",
+            "cunli": "德隆里",
+            "house_no": "1620",
+            "candidates": {
+                "1": 137,
+                "2": 193,
+                "3": 380
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1273
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馮招金",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳淑昭",
+            "party": "無"
+        },
+        "3": {
+            "name": "王秀鏵",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新埤鄉",
+            "cunli": "新埤村",
+            "house_no": "489",
+            "candidates": {
+                "1": 149,
+                "2": 91,
+                "3": 250
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 708
+        },
+        {
+            "area": "新埤鄉",
+            "cunli": "新埤村",
+            "house_no": "490",
+            "candidates": {
+                "1": 182,
+                "2": 150,
+                "3": 295
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "新埤鄉",
+            "cunli": "新埤村",
+            "house_no": "491",
+            "candidates": {
+                "1": 50,
+                "2": 46,
+                "3": 114
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 291
+        }
+    ]
+}

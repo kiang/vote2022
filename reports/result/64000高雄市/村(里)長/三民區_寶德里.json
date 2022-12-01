@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧錦樹",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘進派",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶德里",
+            "house_no": "1058",
+            "candidates": {
+                "1": 270,
+                "2": 400
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶德里",
+            "house_no": "1059",
+            "candidates": {
+                "1": 292,
+                "2": 314
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶德里",
+            "house_no": "1060",
+            "candidates": {
+                "1": 214,
+                "2": 442
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶德里",
+            "house_no": "1061",
+            "candidates": {
+                "1": 208,
+                "2": 437
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

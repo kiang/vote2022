@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張添發",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "周光明 'Urad Dihang",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "林進財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "月眉村",
+            "house_no": "223",
+            "candidates": {
+                "1": 218,
+                "2": 209,
+                "3": 115
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 798
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱守常",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱志強",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "胡新文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "海端鄉",
+            "cunli": "崁頂村",
+            "house_no": "210",
+            "candidates": {
+                "1": 122,
+                "2": 156,
+                "3": 121
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 579
+        }
+    ]
+}

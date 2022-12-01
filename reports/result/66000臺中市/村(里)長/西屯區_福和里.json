@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林寅利",
+            "party": "無"
+        },
+        "2": {
+            "name": "李鳳珍",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "福和里",
+            "house_no": "864",
+            "candidates": {
+                "1": 479,
+                "2": 379
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1455
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福和里",
+            "house_no": "865",
+            "candidates": {
+                "1": 467,
+                "2": 317
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1338
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福和里",
+            "house_no": "866",
+            "candidates": {
+                "1": 470,
+                "2": 303
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1306
+        }
+    ]
+}

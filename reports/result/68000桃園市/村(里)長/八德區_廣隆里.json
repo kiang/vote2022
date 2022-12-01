@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓阿萬",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇臻宥",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "廣隆里",
+            "house_no": "392",
+            "candidates": {
+                "1": 498,
+                "2": 358
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1316
+        },
+        {
+            "area": "八德區",
+            "cunli": "廣隆里",
+            "house_no": "393",
+            "candidates": {
+                "1": 366,
+                "2": 330
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "八德區",
+            "cunli": "廣隆里",
+            "house_no": "394",
+            "candidates": {
+                "1": 218,
+                "2": 368
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 973
+        },
+        {
+            "area": "八德區",
+            "cunli": "廣隆里",
+            "house_no": "395",
+            "candidates": {
+                "1": 301,
+                "2": 327
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 968
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃瑞拱",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭哲榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃良榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "楓坑村",
+            "house_no": "232",
+            "candidates": {
+                "1": 120,
+                "2": 115,
+                "3": 121,
+                "4": 29,
+                "5": 50
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 552
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "社口村",
+            "house_no": "233",
+            "candidates": {
+                "1": 305,
+                "2": 109,
+                "3": 168,
+                "4": 75,
+                "5": 103
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "社口村",
+            "house_no": "234",
+            "candidates": {
+                "1": 270,
+                "2": 119,
+                "3": 230,
+                "4": 80,
+                "5": 97
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "茄荖村",
+            "house_no": "235",
+            "candidates": {
+                "1": 92,
+                "2": 112,
+                "3": 131,
+                "4": 89,
+                "5": 284
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "茄荖村",
+            "house_no": "236",
+            "candidates": {
+                "1": 93,
+                "2": 92,
+                "3": 117,
+                "4": 258,
+                "5": 214
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "嘉興村",
+            "house_no": "237",
+            "candidates": {
+                "1": 76,
+                "2": 342,
+                "3": 88,
+                "4": 92,
+                "5": 133
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "嘉興村",
+            "house_no": "238",
+            "candidates": {
+                "1": 58,
+                "2": 92,
+                "3": 28,
+                "4": 103,
+                "5": 131
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 562
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "芬園村",
+            "house_no": "239",
+            "candidates": {
+                "1": 134,
+                "2": 117,
+                "3": 105,
+                "4": 95,
+                "5": 81
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 832
+        }
+    ]
+}

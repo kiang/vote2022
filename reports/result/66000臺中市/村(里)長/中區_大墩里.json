@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中區",
+            "cunli": "大墩里",
+            "house_no": "1279",
+            "candidates": {
+                "1": 478
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "中區",
+            "cunli": "大墩里",
+            "house_no": "1280",
+            "candidates": {
+                "1": 385
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 761
+        }
+    ]
+}

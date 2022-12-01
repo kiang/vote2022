@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭阿炎",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭永清",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭世經",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "興榮里",
+            "house_no": "538",
+            "candidates": {
+                "1": 427,
+                "2": 63,
+                "3": 356
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1387
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "興榮里",
+            "house_no": "539",
+            "candidates": {
+                "1": 483,
+                "2": 176,
+                "3": 174
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1314
+        }
+    ]
+}

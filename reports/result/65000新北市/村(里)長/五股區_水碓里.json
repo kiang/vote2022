@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱江永",
+            "party": "無"
+        },
+        "2": {
+            "name": "張玉玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "水碓里",
+            "house_no": "300",
+            "candidates": {
+                "1": 335,
+                "2": 435
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1471
+        },
+        {
+            "area": "五股區",
+            "cunli": "水碓里",
+            "house_no": "301",
+            "candidates": {
+                "1": 370,
+                "2": 277
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1249
+        },
+        {
+            "area": "五股區",
+            "cunli": "水碓里",
+            "house_no": "302",
+            "candidates": {
+                "1": 415,
+                "2": 234
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "五股區",
+            "cunli": "水碓里",
+            "house_no": "303",
+            "candidates": {
+                "1": 409,
+                "2": 320
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "五股區",
+            "cunli": "水碓里",
+            "house_no": "304",
+            "candidates": {
+                "1": 519,
+                "2": 225
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1374
+        }
+    ]
+}

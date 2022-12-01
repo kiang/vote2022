@@ -1,0 +1,142 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡正松",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳麗蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭秀尉",
+            "party": "無"
+        },
+        "4": {
+            "name": "林燦煌",
+            "party": "無"
+        },
+        "5": {
+            "name": "林惇誠",
+            "party": "無"
+        },
+        "6": {
+            "name": "謝昌曄",
+            "party": "無"
+        },
+        "7": {
+            "name": "陳大華",
+            "party": "無"
+        },
+        "8": {
+            "name": "陳靜娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "林子里",
+            "house_no": "563",
+            "candidates": {
+                "1": 349,
+                "2": 281,
+                "3": 217
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "石龜里",
+            "house_no": "564",
+            "candidates": {
+                "1": 106,
+                "2": 363,
+                "3": 81
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 714
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "石溪里",
+            "house_no": "565",
+            "candidates": {
+                "1": 96,
+                "2": 237,
+                "3": 211
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "靖興里",
+            "house_no": "566",
+            "candidates": {
+                "1": 119,
+                "2": 111,
+                "3": 354
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 824
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "新南里",
+            "house_no": "567",
+            "candidates": {
+                "1": 376,
+                "2": 49,
+                "3": 25
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "阿丹里",
+            "house_no": "568",
+            "candidates": {
+                "1": 359,
+                "2": 189,
+                "3": 253
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "將軍里",
+            "house_no": "569",
+            "candidates": {
+                "1": 319,
+                "2": 156,
+                "3": 99
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "將軍里",
+            "house_no": "570",
+            "candidates": {
+                "1": 201,
+                "2": 186,
+                "3": 101
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 804
+        }
+    ]
+}

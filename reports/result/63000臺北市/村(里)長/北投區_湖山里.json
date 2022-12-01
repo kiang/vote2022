@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李秋霞",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "湖山里",
+            "house_no": "166",
+            "candidates": {
+                "1": 426
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 720
+        },
+        {
+            "area": "北投區",
+            "cunli": "湖山里",
+            "house_no": "167",
+            "candidates": {
+                "1": 377
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 615
+        }
+    ]
+}

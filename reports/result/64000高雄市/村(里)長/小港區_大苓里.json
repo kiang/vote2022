@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何小屏",
+            "party": "無"
+        },
+        "2": {
+            "name": "歐世緯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "大苓里",
+            "house_no": "1810",
+            "candidates": {
+                "1": 241,
+                "2": 444
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "小港區",
+            "cunli": "大苓里",
+            "house_no": "1811",
+            "candidates": {
+                "1": 283,
+                "2": 466
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1162
+        }
+    ]
+}

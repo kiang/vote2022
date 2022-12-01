@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊訓城",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "北興里",
+            "house_no": "1067",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北興里",
+            "house_no": "1068",
+            "candidates": {
+                "1": 731
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1373
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北興里",
+            "house_no": "1069",
+            "candidates": {
+                "1": 672
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1388
+        }
+    ]
+}

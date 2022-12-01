@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林燦興",
+            "party": "無"
+        },
+        "2": {
+            "name": "張博淵",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡惠麗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "吉慶里",
+            "house_no": "2437",
+            "candidates": {
+                "1": 5,
+                "2": 60,
+                "3": 451
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "瑞芳區",
+            "cunli": "吉慶里",
+            "house_no": "2438",
+            "candidates": {
+                "1": 10,
+                "2": 50,
+                "3": 404
+            },
+            "count_wrong": 6,
+            "count_unused": 1,
+            "count_total": 835
+        }
+    ]
+}

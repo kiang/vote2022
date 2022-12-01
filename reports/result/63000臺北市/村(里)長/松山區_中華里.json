@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游吉興",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "中華里",
+            "house_no": "648",
+            "candidates": {
+                "1": 728
+            },
+            "count_wrong": 123,
+            "count_unused": 1,
+            "count_total": 1202
+        },
+        {
+            "area": "松山區",
+            "cunli": "中華里",
+            "house_no": "649",
+            "candidates": {
+                "1": 682
+            },
+            "count_wrong": 128,
+            "count_unused": 2,
+            "count_total": 1147
+        },
+        {
+            "area": "松山區",
+            "cunli": "中華里",
+            "house_no": "650",
+            "candidates": {
+                "1": 617
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "松山區",
+            "cunli": "中華里",
+            "house_no": "651",
+            "candidates": {
+                "1": 751
+            },
+            "count_wrong": 126,
+            "count_unused": 0,
+            "count_total": 1254
+        }
+    ]
+}

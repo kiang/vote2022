@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭晉良",
+            "party": "無"
+        },
+        "2": {
+            "name": "賀光卍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "龍鳳里",
+            "house_no": "121",
+            "candidates": {
+                "1": 455,
+                "2": 360
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1496
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍鳳里",
+            "house_no": "122",
+            "candidates": {
+                "1": 392,
+                "2": 208
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 3411
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍鳳里",
+            "house_no": "123",
+            "candidates": {
+                "1": 379,
+                "2": 441
+            },
+            "count_wrong": 40,
+            "count_unused": 1,
+            "count_total": 1529
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍鳳里",
+            "house_no": "124",
+            "candidates": {
+                "1": 424,
+                "2": 431
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1408
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍鳳里",
+            "house_no": "125",
+            "candidates": {
+                "1": 414,
+                "2": 447
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1511
+        }
+    ]
+}

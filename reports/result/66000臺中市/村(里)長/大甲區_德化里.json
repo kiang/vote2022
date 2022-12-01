@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李柄杉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳英士",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "德化里",
+            "house_no": "34",
+            "candidates": {
+                "1": 418,
+                "2": 178
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "大甲區",
+            "cunli": "德化里",
+            "house_no": "35",
+            "candidates": {
+                "1": 449,
+                "2": 88
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 802
+        }
+    ]
+}

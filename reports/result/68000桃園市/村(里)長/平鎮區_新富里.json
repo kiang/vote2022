@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁瑞其",
+            "party": "無"
+        },
+        "2": {
+            "name": "王勝嘉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "新富里",
+            "house_no": "1058",
+            "candidates": {
+                "1": 347,
+                "2": 284
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 2232
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新富里",
+            "house_no": "1059",
+            "candidates": {
+                "1": 364,
+                "2": 287
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新富里",
+            "house_no": "1060",
+            "candidates": {
+                "1": 544,
+                "2": 414
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1553
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新富里",
+            "house_no": "1061",
+            "candidates": {
+                "1": 485,
+                "2": 421
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1582
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅省發",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱堡櫻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "莊敬里",
+            "house_no": "995",
+            "candidates": {
+                "1": 375,
+                "2": 387
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "莊敬里",
+            "house_no": "996",
+            "candidates": {
+                "1": 256,
+                "2": 281
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "莊敬里",
+            "house_no": "997",
+            "candidates": {
+                "1": 319,
+                "2": 340
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "莊敬里",
+            "house_no": "998",
+            "candidates": {
+                "1": 250,
+                "2": 426
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1158
+        }
+    ]
+}

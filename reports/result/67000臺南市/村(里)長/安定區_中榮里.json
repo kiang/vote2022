@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁炳煙",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁添壽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "中榮里",
+            "house_no": "569",
+            "candidates": {
+                "1": 411,
+                "2": 152
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 806
+        },
+        {
+            "area": "安定區",
+            "cunli": "中榮里",
+            "house_no": "570",
+            "candidates": {
+                "1": 390,
+                "2": 240
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 871
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許益銨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "後庄里",
+            "house_no": "18",
+            "candidates": {
+                "1": 538
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "東區",
+            "cunli": "後庄里",
+            "house_no": "19",
+            "candidates": {
+                "1": 380
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "東區",
+            "cunli": "後庄里",
+            "house_no": "20",
+            "candidates": {
+                "1": 558
+            },
+            "count_wrong": 159,
+            "count_unused": 1,
+            "count_total": 1414
+        }
+    ]
+}

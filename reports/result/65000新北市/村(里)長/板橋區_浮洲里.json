@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴姿吟",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾太吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "浮洲里",
+            "house_no": "1294",
+            "candidates": {
+                "1": 446,
+                "2": 239
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "板橋區",
+            "cunli": "浮洲里",
+            "house_no": "1295",
+            "candidates": {
+                "1": 288,
+                "2": 289
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "板橋區",
+            "cunli": "浮洲里",
+            "house_no": "1296",
+            "candidates": {
+                "1": 398,
+                "2": 259
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1037
+        }
+    ]
+}

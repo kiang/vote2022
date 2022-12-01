@@ -1,0 +1,138 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂金穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃啟森",
+            "party": "無"
+        },
+        "3": {
+            "name": "駱義明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "城北里",
+            "house_no": "174",
+            "candidates": {
+                "1": 113,
+                "2": 53,
+                "3": 97,
+                "4": 37,
+                "5": 85
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 613
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "城南里",
+            "house_no": "175",
+            "candidates": {
+                "1": 236,
+                "2": 80,
+                "3": 141,
+                "4": 86,
+                "5": 60
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 846
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "南和里",
+            "house_no": "176",
+            "candidates": {
+                "1": 127,
+                "2": 20,
+                "3": 74,
+                "4": 120,
+                "5": 115
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 728
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "福興里",
+            "house_no": "177",
+            "candidates": {
+                "1": 125,
+                "2": 20,
+                "3": 85,
+                "4": 108,
+                "5": 73
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 606
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "坪頂里",
+            "house_no": "178",
+            "candidates": {
+                "1": 191,
+                "2": 90,
+                "3": 181,
+                "4": 86,
+                "5": 218
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "五南里",
+            "house_no": "179",
+            "candidates": {
+                "1": 212,
+                "2": 216,
+                "3": 130,
+                "4": 81,
+                "5": 351
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1288
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "五北里",
+            "house_no": "180",
+            "candidates": {
+                "1": 80,
+                "2": 48,
+                "3": 65,
+                "4": 91,
+                "5": 122
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 588
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "五北里",
+            "house_no": "181",
+            "candidates": {
+                "1": 67,
+                "2": 34,
+                "3": 112,
+                "4": 156,
+                "5": 130
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 702
+        }
+    ]
+}

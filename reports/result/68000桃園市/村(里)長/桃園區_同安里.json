@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游淑峯",
+            "party": "無"
+        },
+        "2": {
+            "name": "林峻宇",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳秋淑",
+            "party": "無"
+        },
+        "4": {
+            "name": "蕭家淇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "同安里",
+            "house_no": "138",
+            "candidates": {
+                "1": 455,
+                "2": 273,
+                "3": 161,
+                "4": 43
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1579
+        },
+        {
+            "area": "桃園區",
+            "cunli": "同安里",
+            "house_no": "139",
+            "candidates": {
+                "1": 592,
+                "2": 245,
+                "3": 118,
+                "4": 74
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1603
+        },
+        {
+            "area": "桃園區",
+            "cunli": "同安里",
+            "house_no": "140",
+            "candidates": {
+                "1": 363,
+                "2": 253,
+                "3": 122,
+                "4": 112
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1580
+        },
+        {
+            "area": "桃園區",
+            "cunli": "同安里",
+            "house_no": "141",
+            "candidates": {
+                "1": 455,
+                "2": 304,
+                "3": 65,
+                "4": 75
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1459
+        },
+        {
+            "area": "桃園區",
+            "cunli": "同安里",
+            "house_no": "142",
+            "candidates": {
+                "1": 651,
+                "2": 122,
+                "3": 60,
+                "4": 108
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1666
+        },
+        {
+            "area": "桃園區",
+            "cunli": "同安里",
+            "house_no": "143",
+            "candidates": {
+                "1": 411,
+                "2": 398,
+                "3": 66,
+                "4": 46
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1583
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林秀英",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅清龍",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "旗津區",
+            "cunli": "北汕里",
+            "house_no": "978",
+            "candidates": {
+                "1": 471,
+                "2": 230
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "旗津區",
+            "cunli": "北汕里",
+            "house_no": "979",
+            "candidates": {
+                "1": 384,
+                "2": 258
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1181
+        }
+    ]
+}

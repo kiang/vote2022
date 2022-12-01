@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慶璋",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡春山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大林鎮",
+            "cunli": "三和里",
+            "house_no": "214",
+            "candidates": {
+                "1": 261,
+                "2": 340
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 966
+        },
+        {
+            "area": "大林鎮",
+            "cunli": "三和里",
+            "house_no": "215",
+            "candidates": {
+                "1": 366,
+                "2": 317
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 995
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐玉全",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊文政",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麟洛鄉",
+            "cunli": "新田村",
+            "house_no": "320",
+            "candidates": {
+                "1": 243,
+                "2": 268
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 716
+        },
+        {
+            "area": "麟洛鄉",
+            "cunli": "新田村",
+            "house_no": "321",
+            "candidates": {
+                "1": 320,
+                "2": 589
+            },
+            "count_wrong": 37,
+            "count_unused": 1,
+            "count_total": 1329
+        }
+    ]
+}

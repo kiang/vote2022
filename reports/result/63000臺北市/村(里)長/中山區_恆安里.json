@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃志昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱明濱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "恆安里",
+            "house_no": "925",
+            "candidates": {
+                "1": 515,
+                "2": 142
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "中山區",
+            "cunli": "恆安里",
+            "house_no": "926",
+            "candidates": {
+                "1": 559,
+                "2": 161
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "中山區",
+            "cunli": "恆安里",
+            "house_no": "927",
+            "candidates": {
+                "1": 466,
+                "2": 155
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "中山區",
+            "cunli": "恆安里",
+            "house_no": "928",
+            "candidates": {
+                "1": 342,
+                "2": 129
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 858
+        }
+    ]
+}

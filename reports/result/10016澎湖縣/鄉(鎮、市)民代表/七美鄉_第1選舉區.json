@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張訓五",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉長茂",
+            "party": "無"
+        },
+        "3": {
+            "name": "許萬景",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七美鄉",
+            "cunli": "東湖村",
+            "house_no": "115",
+            "candidates": {
+                "1": 56,
+                "2": 32,
+                "3": 50
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 243
+        },
+        {
+            "area": "七美鄉",
+            "cunli": "西湖村",
+            "house_no": "116",
+            "candidates": {
+                "1": 122,
+                "2": 139,
+                "3": 148
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 575
+        }
+    ]
+}

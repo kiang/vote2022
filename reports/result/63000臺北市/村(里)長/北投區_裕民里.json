@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊振寧",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝閔弘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "裕民里",
+            "house_no": "26",
+            "candidates": {
+                "1": 396,
+                "2": 469
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "北投區",
+            "cunli": "裕民里",
+            "house_no": "27",
+            "candidates": {
+                "1": 394,
+                "2": 417
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "北投區",
+            "cunli": "裕民里",
+            "house_no": "28",
+            "candidates": {
+                "1": 450,
+                "2": 380
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1334
+        },
+        {
+            "area": "北投區",
+            "cunli": "裕民里",
+            "house_no": "29",
+            "candidates": {
+                "1": 425,
+                "2": 380
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "北投區",
+            "cunli": "裕民里",
+            "house_no": "30",
+            "candidates": {
+                "1": 407,
+                "2": 353
+            },
+            "count_wrong": 32,
+            "count_unused": 1,
+            "count_total": 1166
+        }
+    ]
+}

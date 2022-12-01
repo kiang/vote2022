@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪翠微",
+            "party": "無"
+        },
+        "2": {
+            "name": "張如德",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭錦泰",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "玉泉里",
+            "house_no": "1046",
+            "candidates": {
+                "1": 134,
+                "2": 117,
+                "3": 465
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "大同區",
+            "cunli": "玉泉里",
+            "house_no": "1047",
+            "candidates": {
+                "1": 180,
+                "2": 170,
+                "3": 420
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1227
+        }
+    ]
+}

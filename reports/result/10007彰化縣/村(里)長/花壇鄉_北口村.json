@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖桂村",
+            "party": "無"
+        },
+        "2": {
+            "name": "許淑卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "王瑞慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "北口村",
+            "house_no": "200",
+            "candidates": {
+                "1": 303,
+                "2": 300,
+                "3": 77
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1070
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "北口村",
+            "house_no": "201",
+            "candidates": {
+                "1": 176,
+                "2": 217,
+                "3": 36
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 668
+        }
+    ]
+}

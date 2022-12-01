@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃崑山",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秋菊",
+            "party": "無"
+        },
+        "3": {
+            "name": "李坤湖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安邦里",
+            "house_no": "1172",
+            "candidates": {
+                "1": 473,
+                "2": 52,
+                "3": 173
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "三民區",
+            "cunli": "安邦里",
+            "house_no": "1173",
+            "candidates": {
+                "1": 536,
+                "2": 75,
+                "3": 191
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "三民區",
+            "cunli": "安邦里",
+            "house_no": "1174",
+            "candidates": {
+                "1": 409,
+                "2": 82,
+                "3": 163
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1068
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王雷凱",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "景勤里",
+            "house_no": "872",
+            "candidates": {
+                "1": 479
+            },
+            "count_wrong": 115,
+            "count_unused": 2,
+            "count_total": 948
+        },
+        {
+            "area": "信義區",
+            "cunli": "景勤里",
+            "house_no": "873",
+            "candidates": {
+                "1": 545
+            },
+            "count_wrong": 143,
+            "count_unused": 1,
+            "count_total": 1053
+        },
+        {
+            "area": "信義區",
+            "cunli": "景勤里",
+            "house_no": "874",
+            "candidates": {
+                "1": 584
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1067
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃崇賢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "瑞光里",
+            "house_no": "437",
+            "candidates": {
+                "1": 667
+            },
+            "count_wrong": 242,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "內湖區",
+            "cunli": "瑞光里",
+            "house_no": "438",
+            "candidates": {
+                "1": 625
+            },
+            "count_wrong": 186,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "內湖區",
+            "cunli": "瑞光里",
+            "house_no": "439",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 153,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

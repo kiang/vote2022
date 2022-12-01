@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江艷嬪",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "潘玉淳",
+            "party": "無"
+        },
+        "3": {
+            "name": "杜志毅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "新東里",
+            "house_no": "1373",
+            "candidates": {
+                "1": 218,
+                "2": 243,
+                "3": 130
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1039
+        },
+        {
+            "area": "東區",
+            "cunli": "新東里",
+            "house_no": "1374",
+            "candidates": {
+                "1": 295,
+                "2": 237,
+                "3": 212
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1208
+        }
+    ]
+}

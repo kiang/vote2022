@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈銘偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "南昌里",
+            "house_no": "559",
+            "candidates": {
+                "1": 559
+            },
+            "count_wrong": 125,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "南昌里",
+            "house_no": "560",
+            "candidates": {
+                "1": 405
+            },
+            "count_wrong": 198,
+            "count_unused": 1,
+            "count_total": 974
+        }
+    ]
+}

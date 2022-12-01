@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃郁玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊信哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "巷口里",
+            "house_no": "408",
+            "candidates": {
+                "1": 240,
+                "2": 281
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 873
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "巷口里",
+            "house_no": "409",
+            "candidates": {
+                "1": 238,
+                "2": 458
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

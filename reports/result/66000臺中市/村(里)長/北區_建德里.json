@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭凱鶴",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麗媛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "建德里",
+            "house_no": "1200",
+            "candidates": {
+                "1": 339,
+                "2": 226
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "北區",
+            "cunli": "建德里",
+            "house_no": "1201",
+            "candidates": {
+                "1": 377,
+                "2": 297
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "北區",
+            "cunli": "建德里",
+            "house_no": "1202",
+            "candidates": {
+                "1": 378,
+                "2": 260
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1012
+        }
+    ]
+}

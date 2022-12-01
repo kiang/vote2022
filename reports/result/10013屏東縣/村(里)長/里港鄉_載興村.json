@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慈慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳冠榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "載興村",
+            "house_no": "358",
+            "candidates": {
+                "1": 129,
+                "2": 471
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "載興村",
+            "house_no": "359",
+            "candidates": {
+                "1": 151,
+                "2": 676
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1276
+        }
+    ]
+}

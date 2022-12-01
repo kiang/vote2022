@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇敬豈",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃秀珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "寶山鄉",
+            "cunli": "寶山村",
+            "house_no": "431",
+            "candidates": {
+                "1": 326,
+                "2": 172
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 840
+        },
+        {
+            "area": "寶山鄉",
+            "cunli": "油田村",
+            "house_no": "432",
+            "candidates": {
+                "1": 196,
+                "2": 271
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 573
+        },
+        {
+            "area": "寶山鄉",
+            "cunli": "山湖村",
+            "house_no": "433",
+            "candidates": {
+                "1": 174,
+                "2": 170
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 516
+        }
+    ]
+}

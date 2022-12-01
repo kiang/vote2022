@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔣水南",
+            "party": "無"
+        },
+        "2": {
+            "name": "歐淼宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "大舍里",
+            "house_no": "408",
+            "candidates": {
+                "1": 350,
+                "2": 512
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1324
+        },
+        {
+            "area": "梓官區",
+            "cunli": "大舍里",
+            "house_no": "409",
+            "candidates": {
+                "1": 316,
+                "2": 448
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "梓官區",
+            "cunli": "大舍里",
+            "house_no": "410",
+            "candidates": {
+                "1": 297,
+                "2": 339
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1032
+        }
+    ]
+}

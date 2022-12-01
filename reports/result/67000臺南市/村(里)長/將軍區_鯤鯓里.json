@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王燕宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "李健長",
+            "party": "無"
+        },
+        "3": {
+            "name": "周益東",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "將軍區",
+            "cunli": "鯤鯓里",
+            "house_no": "268",
+            "candidates": {
+                "1": 196,
+                "2": 134,
+                "3": 135
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "將軍區",
+            "cunli": "鯤鯓里",
+            "house_no": "269",
+            "candidates": {
+                "1": 394,
+                "2": 159,
+                "3": 127
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1012
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹金福",
+            "party": "無"
+        },
+        "2": {
+            "name": "余新德",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳秀珍",
+            "party": "無"
+        },
+        "4": {
+            "name": "楊秀蘭",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳源發",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳秀蘭",
+            "party": "無"
+        },
+        "7": {
+            "name": "徐成國 Hane·Gayaw",
+            "party": "中國國民黨"
+        },
+        "8": {
+            "name": "鍾紫韻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富源村",
+            "house_no": "282",
+            "candidates": {
+                "1": 116,
+                "2": 167
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 455
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富民村",
+            "house_no": "283",
+            "candidates": {
+                "1": 53,
+                "2": 74
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 222
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富興村",
+            "house_no": "284",
+            "candidates": {
+                "1": 63,
+                "2": 141
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 344
+        }
+    ]
+}

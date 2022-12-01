@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林珍枝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林桂箕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "中興里",
+            "house_no": "386",
+            "candidates": {
+                "1": 489,
+                "2": 326
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1396
+        },
+        {
+            "area": "頭份市",
+            "cunli": "中興里",
+            "house_no": "387",
+            "candidates": {
+                "1": 551,
+                "2": 196
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1338
+        }
+    ]
+}

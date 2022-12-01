@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳育融",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "法華里",
+            "house_no": "1066",
+            "candidates": {
+                "1": 519
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "中西區",
+            "cunli": "法華里",
+            "house_no": "1067",
+            "candidates": {
+                "1": 488
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1268
+        }
+    ]
+}

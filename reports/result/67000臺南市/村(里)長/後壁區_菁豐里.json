@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊玉年",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "菁豐里",
+            "house_no": "11",
+            "candidates": {
+                "1": 399
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "後壁區",
+            "cunli": "菁豐里",
+            "house_no": "12",
+            "candidates": {
+                "1": 200
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 426
+        }
+    ]
+}

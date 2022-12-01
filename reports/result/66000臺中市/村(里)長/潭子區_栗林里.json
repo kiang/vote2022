@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡順雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳銘麟",
+            "party": "時代力量"
+        }
+    },
+    "data": [
+        {
+            "area": "潭子區",
+            "cunli": "栗林里",
+            "house_no": "720",
+            "candidates": {
+                "1": 449,
+                "2": 251
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "潭子區",
+            "cunli": "栗林里",
+            "house_no": "721",
+            "candidates": {
+                "1": 439,
+                "2": 285
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "潭子區",
+            "cunli": "栗林里",
+            "house_no": "722",
+            "candidates": {
+                "1": 427,
+                "2": 271
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "潭子區",
+            "cunli": "栗林里",
+            "house_no": "723",
+            "candidates": {
+                "1": 367,
+                "2": 286
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1071
+        }
+    ]
+}

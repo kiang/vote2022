@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯凱文",
+            "party": "無"
+        },
+        "2": {
+            "name": "周中堅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "鷺江里",
+            "house_no": "705",
+            "candidates": {
+                "1": 412,
+                "2": 416
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1528
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "鷺江里",
+            "house_no": "706",
+            "candidates": {
+                "1": 514,
+                "2": 466
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1649
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "鷺江里",
+            "house_no": "707",
+            "candidates": {
+                "1": 391,
+                "2": 431
+            },
+            "count_wrong": 19,
+            "count_unused": 16,
+            "count_total": 1470
+        }
+    ]
+}

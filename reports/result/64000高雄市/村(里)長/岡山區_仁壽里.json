@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉永裕",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡權明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "仁壽里",
+            "house_no": "319",
+            "candidates": {
+                "1": 416,
+                "2": 215
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "岡山區",
+            "cunli": "仁壽里",
+            "house_no": "320",
+            "candidates": {
+                "1": 410,
+                "2": 200
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 996
+        },
+        {
+            "area": "岡山區",
+            "cunli": "仁壽里",
+            "house_no": "321",
+            "candidates": {
+                "1": 431,
+                "2": 191
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1148
+        }
+    ]
+}

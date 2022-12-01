@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉龍豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "王秀緞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "西路里",
+            "house_no": "786",
+            "candidates": {
+                "1": 536,
+                "2": 230
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "西路里",
+            "house_no": "787",
+            "candidates": {
+                "1": 407,
+                "2": 265
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

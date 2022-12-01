@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張明全",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳源宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "王麗玉",
+            "party": "無"
+        },
+        "4": {
+            "name": "柯唐堯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "秀昌里",
+            "house_no": "559",
+            "candidates": {
+                "1": 308,
+                "2": 117,
+                "3": 176,
+                "4": 27
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "秀昌里",
+            "house_no": "560",
+            "candidates": {
+                "1": 274,
+                "2": 112,
+                "3": 193,
+                "4": 34
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 981
+        }
+    ]
+}

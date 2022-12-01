@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許經富",
+            "party": "無"
+        },
+        "2": {
+            "name": "周才淵",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "仕豐里",
+            "house_no": "433",
+            "candidates": {
+                "1": 374,
+                "2": 441
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "仕豐里",
+            "house_no": "434",
+            "candidates": {
+                "1": 361,
+                "2": 492
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1234
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇善榛",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊基生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "明城里",
+            "house_no": "2302",
+            "candidates": {
+                "1": 491,
+                "2": 375
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1488
+        },
+        {
+            "area": "新店區",
+            "cunli": "明城里",
+            "house_no": "2303",
+            "candidates": {
+                "1": 416,
+                "2": 404
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1438
+        }
+    ]
+}

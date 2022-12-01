@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉鳳美",
+            "party": "無"
+        },
+        "2": {
+            "name": "張美娥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "大同里",
+            "house_no": "1",
+            "candidates": {
+                "1": 363,
+                "2": 153
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大同里",
+            "house_no": "2",
+            "candidates": {
+                "1": 205,
+                "2": 258
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 738
+        }
+    ]
+}

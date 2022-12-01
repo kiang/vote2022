@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫有明",
+            "party": "無"
+        },
+        "2": {
+            "name": "趙興邦",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝松鳳",
+            "party": "無"
+        },
+        "4": {
+            "name": "周羽心",
+            "party": "無"
+        },
+        "5": {
+            "name": "廖家盛",
+            "party": "無"
+        },
+        "6": {
+            "name": "張金隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "福基村",
+            "house_no": "82",
+            "candidates": {
+                "1": 238,
+                "2": 341
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "福德村",
+            "house_no": "83",
+            "candidates": {
+                "1": 67,
+                "2": 116
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 324
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "福星村",
+            "house_no": "84",
+            "candidates": {
+                "1": 76,
+                "2": 400
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "福星村",
+            "house_no": "85",
+            "candidates": {
+                "1": 102,
+                "2": 577
+            },
+            "count_wrong": 52,
+            "count_unused": 2,
+            "count_total": 1167
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "石墻村",
+            "house_no": "86",
+            "candidates": {
+                "1": 230,
+                "2": 173
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "石墻村",
+            "house_no": "87",
+            "candidates": {
+                "1": 210,
+                "2": 195
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 732
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "開礦村",
+            "house_no": "88",
+            "candidates": {
+                "1": 45,
+                "2": 101
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 259
+        }
+    ]
+}

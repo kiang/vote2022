@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊瑞璋",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "孫積德",
+            "party": "無"
+        },
+        "3": {
+            "name": "張裕欣",
+            "party": "無"
+        },
+        "4": {
+            "name": "張智翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "景新里",
+            "house_no": "837",
+            "candidates": {
+                "1": 33,
+                "2": 443,
+                "3": 72,
+                "4": 187
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1075
+        },
+        {
+            "area": "信義區",
+            "cunli": "景新里",
+            "house_no": "838",
+            "candidates": {
+                "1": 41,
+                "2": 356,
+                "3": 79,
+                "4": 172
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "信義區",
+            "cunli": "景新里",
+            "house_no": "839",
+            "candidates": {
+                "1": 48,
+                "2": 330,
+                "3": 27,
+                "4": 193
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "信義區",
+            "cunli": "景新里",
+            "house_no": "840",
+            "candidates": {
+                "1": 125,
+                "2": 289,
+                "3": 20,
+                "4": 202
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1003
+        }
+    ]
+}

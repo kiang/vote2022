@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張翊喬",
+            "party": "無"
+        },
+        "2": {
+            "name": "倪同慧",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "翟沐欣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "合群里",
+            "house_no": "607",
+            "candidates": {
+                "1": 28,
+                "2": 542,
+                "3": 187
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "左營區",
+            "cunli": "合群里",
+            "house_no": "608",
+            "candidates": {
+                "1": 29,
+                "2": 460,
+                "3": 215
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1170
+        }
+    ]
+}

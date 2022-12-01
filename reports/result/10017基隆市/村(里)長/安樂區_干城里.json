@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "俞秀真",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "干城里",
+            "house_no": "162",
+            "candidates": {
+                "1": 724
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "安樂區",
+            "cunli": "干城里",
+            "house_no": "163",
+            "candidates": {
+                "1": 267
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 570
+        }
+    ]
+}

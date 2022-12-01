@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李蔡春花",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳翌翠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "和平里",
+            "house_no": "1268",
+            "candidates": {
+                "1": 704,
+                "2": 230
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1592
+        },
+        {
+            "area": "板橋區",
+            "cunli": "和平里",
+            "house_no": "1269",
+            "candidates": {
+                "1": 654,
+                "2": 285
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1602
+        }
+    ]
+}

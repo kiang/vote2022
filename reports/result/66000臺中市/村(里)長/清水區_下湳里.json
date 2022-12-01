@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡煌生",
+            "party": "無"
+        },
+        "2": {
+            "name": "李王玉蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "下湳里",
+            "house_no": "153",
+            "candidates": {
+                "1": 315,
+                "2": 526
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "清水區",
+            "cunli": "下湳里",
+            "house_no": "154",
+            "candidates": {
+                "1": 449,
+                "2": 527
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1378
+        }
+    ]
+}

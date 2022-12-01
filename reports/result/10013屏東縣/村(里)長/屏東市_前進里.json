@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王泰益",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃桂桐",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳盈翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "前進里",
+            "house_no": "51",
+            "candidates": {
+                "1": 415,
+                "2": 98,
+                "3": 343
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1334
+        },
+        {
+            "area": "屏東市",
+            "cunli": "前進里",
+            "house_no": "52",
+            "candidates": {
+                "1": 405,
+                "2": 189,
+                "3": 319
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1446
+        }
+    ]
+}

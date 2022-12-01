@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李詩銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "錦中里",
+            "house_no": "540",
+            "candidates": {
+                "1": 675
+            },
+            "count_wrong": 203,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "錦中里",
+            "house_no": "541",
+            "candidates": {
+                "1": 765
+            },
+            "count_wrong": 180,
+            "count_unused": 0,
+            "count_total": 1636
+        }
+    ]
+}

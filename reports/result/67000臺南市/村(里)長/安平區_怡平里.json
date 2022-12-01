@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳俐婷",
+            "party": "無"
+        },
+        "2": {
+            "name": "林玉羣",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡錦庭",
+            "party": "無"
+        },
+        "4": {
+            "name": "胡晴柔",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安平區",
+            "cunli": "怡平里",
+            "house_no": "1127",
+            "candidates": {
+                "1": 196,
+                "2": 158,
+                "3": 257,
+                "4": 86
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1419
+        },
+        {
+            "area": "安平區",
+            "cunli": "怡平里",
+            "house_no": "1128",
+            "candidates": {
+                "1": 164,
+                "2": 82,
+                "3": 361,
+                "4": 86
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1339
+        },
+        {
+            "area": "安平區",
+            "cunli": "怡平里",
+            "house_no": "1129",
+            "candidates": {
+                "1": 200,
+                "2": 112,
+                "3": 300,
+                "4": 85
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1304
+        }
+    ]
+}

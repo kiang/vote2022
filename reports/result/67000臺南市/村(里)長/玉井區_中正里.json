@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王清風",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉井區",
+            "cunli": "中正里",
+            "house_no": "504",
+            "candidates": {
+                "1": 302
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 561
+        },
+        {
+            "area": "玉井區",
+            "cunli": "中正里",
+            "house_no": "505",
+            "candidates": {
+                "1": 281
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 582
+        }
+    ]
+}

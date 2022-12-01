@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳淑華",
+            "party": "無"
+        },
+        "2": {
+            "name": "李起綸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "永和里",
+            "house_no": "1471",
+            "candidates": {
+                "1": 182,
+                "2": 470
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "南區",
+            "cunli": "永和里",
+            "house_no": "1472",
+            "candidates": {
+                "1": 243,
+                "2": 437
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "南區",
+            "cunli": "永和里",
+            "house_no": "1473",
+            "candidates": {
+                "1": 196,
+                "2": 424
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1031
+        },
+        {
+            "area": "南區",
+            "cunli": "永和里",
+            "house_no": "1474",
+            "candidates": {
+                "1": 197,
+                "2": 410
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1064
+        }
+    ]
+}

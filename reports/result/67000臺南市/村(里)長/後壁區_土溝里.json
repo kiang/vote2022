@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林木己",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "土溝里",
+            "house_no": "7",
+            "candidates": {
+                "1": 201
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 424
+        },
+        {
+            "area": "後壁區",
+            "cunli": "土溝里",
+            "house_no": "8",
+            "candidates": {
+                "1": 410
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 794
+        }
+    ]
+}

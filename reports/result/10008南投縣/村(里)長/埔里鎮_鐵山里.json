@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯韞和",
+            "party": "無"
+        },
+        "2": {
+            "name": "林秀惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "鐵山里",
+            "house_no": "140",
+            "candidates": {
+                "1": 270,
+                "2": 247
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 719
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "鐵山里",
+            "house_no": "141",
+            "candidates": {
+                "1": 280,
+                "2": 311
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 871
+        }
+    ]
+}

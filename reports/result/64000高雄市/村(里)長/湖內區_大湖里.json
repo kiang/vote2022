@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪添謀",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝明軒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖內區",
+            "cunli": "大湖里",
+            "house_no": "169",
+            "candidates": {
+                "1": 284,
+                "2": 255
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "湖內區",
+            "cunli": "大湖里",
+            "house_no": "170",
+            "candidates": {
+                "1": 224,
+                "2": 333
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "湖內區",
+            "cunli": "大湖里",
+            "house_no": "171",
+            "candidates": {
+                "1": 332,
+                "2": 223
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 904
+        },
+        {
+            "area": "湖內區",
+            "cunli": "大湖里",
+            "house_no": "172",
+            "candidates": {
+                "1": 279,
+                "2": 247
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 932
+        }
+    ]
+}

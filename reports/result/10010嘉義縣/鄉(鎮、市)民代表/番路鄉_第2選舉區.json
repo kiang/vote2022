@@ -1,0 +1,146 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪研蘋",
+            "party": "無"
+        },
+        "2": {
+            "name": "林朝新",
+            "party": "無"
+        },
+        "3": {
+            "name": "丁秀蘭",
+            "party": "無"
+        },
+        "4": {
+            "name": "林宜清",
+            "party": "無"
+        },
+        "5": {
+            "name": "林瑞英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "番路鄉",
+            "cunli": "觸口村",
+            "house_no": "502",
+            "candidates": {
+                "1": 77,
+                "2": 26,
+                "3": 216,
+                "4": 60,
+                "5": 19
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 766
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "觸口村",
+            "house_no": "503",
+            "candidates": {
+                "1": 262,
+                "2": 11,
+                "3": 14,
+                "4": 40,
+                "5": 14
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 421
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "大湖村",
+            "house_no": "504",
+            "candidates": {
+                "1": 49,
+                "2": 44,
+                "3": 28,
+                "4": 344,
+                "5": 11
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 599
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "公田村",
+            "house_no": "505",
+            "candidates": {
+                "1": 16,
+                "2": 111,
+                "3": 10,
+                "4": 33,
+                "5": 15
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 290
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "公田村",
+            "house_no": "506",
+            "candidates": {
+                "1": 98,
+                "2": 27,
+                "3": 17,
+                "4": 114,
+                "5": 142
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 621
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "公興村",
+            "house_no": "507",
+            "candidates": {
+                "1": 53,
+                "2": 38,
+                "3": 85,
+                "4": 90,
+                "5": 26
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 475
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "草山村",
+            "house_no": "508",
+            "candidates": {
+                "1": 54,
+                "2": 3,
+                "3": 18,
+                "4": 45,
+                "5": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 152
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "草山村",
+            "house_no": "509",
+            "candidates": {
+                "1": 12,
+                "2": 10,
+                "3": 58,
+                "4": 70,
+                "5": 9
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 196
+        }
+    ]
+}

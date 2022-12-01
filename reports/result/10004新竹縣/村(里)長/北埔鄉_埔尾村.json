@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李宗炎",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓進鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北埔鄉",
+            "cunli": "埔尾村",
+            "house_no": "413",
+            "candidates": {
+                "1": 430,
+                "2": 158
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "北埔鄉",
+            "cunli": "埔尾村",
+            "house_no": "414",
+            "candidates": {
+                "1": 306,
+                "2": 180
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 774
+        },
+        {
+            "area": "北埔鄉",
+            "cunli": "埔尾村",
+            "house_no": "415",
+            "candidates": {
+                "1": 312,
+                "2": 165
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 800
+        }
+    ]
+}

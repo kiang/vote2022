@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊協進",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃永全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "黎明村",
+            "house_no": "469",
+            "candidates": {
+                "1": 359,
+                "2": 314
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "黎明村",
+            "house_no": "470",
+            "candidates": {
+                "1": 307,
+                "2": 408
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

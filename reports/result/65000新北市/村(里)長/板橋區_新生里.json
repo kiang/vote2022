@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王保利",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳慶宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "新生里",
+            "house_no": "1035",
+            "candidates": {
+                "1": 423,
+                "2": 292
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新生里",
+            "house_no": "1036",
+            "candidates": {
+                "1": 589,
+                "2": 293
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新生里",
+            "house_no": "1037",
+            "candidates": {
+                "1": 364,
+                "2": 365
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1114
+        }
+    ]
+}

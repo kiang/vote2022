@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林忠諺",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "江文雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "五常里",
+            "house_no": "952",
+            "candidates": {
+                "1": 492,
+                "2": 517
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1584
+        },
+        {
+            "area": "三重區",
+            "cunli": "五常里",
+            "house_no": "953",
+            "candidates": {
+                "1": 580,
+                "2": 262
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1370
+        },
+        {
+            "area": "三重區",
+            "cunli": "五常里",
+            "house_no": "954",
+            "candidates": {
+                "1": 421,
+                "2": 328
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1273
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐玉霞",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳在堯",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "信義村",
+            "house_no": "300",
+            "candidates": {
+                "1": 508,
+                "2": 264
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信義村",
+            "house_no": "301",
+            "candidates": {
+                "1": 491,
+                "2": 241
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信義村",
+            "house_no": "302",
+            "candidates": {
+                "1": 500,
+                "2": 260
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1212
+        }
+    ]
+}

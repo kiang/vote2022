@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴圭柱",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂永欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "莒光里",
+            "house_no": "1139",
+            "candidates": {
+                "1": 323,
+                "2": 489
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "板橋區",
+            "cunli": "莒光里",
+            "house_no": "1140",
+            "candidates": {
+                "1": 226,
+                "2": 465
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1077
+        }
+    ]
+}

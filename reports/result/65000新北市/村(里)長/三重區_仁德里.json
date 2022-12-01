@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明志",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃騰睿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "仁德里",
+            "house_no": "825",
+            "candidates": {
+                "1": 328,
+                "2": 173
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 865
+        },
+        {
+            "area": "三重區",
+            "cunli": "仁德里",
+            "house_no": "826",
+            "candidates": {
+                "1": 271,
+                "2": 226
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 838
+        }
+    ]
+}

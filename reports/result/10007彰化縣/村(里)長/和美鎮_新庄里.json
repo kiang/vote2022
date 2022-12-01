@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王溪成",
+            "party": "無"
+        },
+        "2": {
+            "name": "許寶全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "新庄里",
+            "house_no": "435",
+            "candidates": {
+                "1": 371,
+                "2": 331
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "新庄里",
+            "house_no": "436",
+            "candidates": {
+                "1": 504,
+                "2": 327
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1219
+        }
+    ]
+}

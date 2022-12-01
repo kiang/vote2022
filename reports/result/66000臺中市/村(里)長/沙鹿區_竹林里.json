@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王國藩",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "吳秉富",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳吉成",
+            "party": "無"
+        },
+        "4": {
+            "name": "楊川田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "225",
+            "candidates": {
+                "1": 97,
+                "2": 103,
+                "3": 239,
+                "4": 76
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "226",
+            "candidates": {
+                "1": 100,
+                "2": 104,
+                "3": 210,
+                "4": 90
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "227",
+            "candidates": {
+                "1": 248,
+                "2": 87,
+                "3": 303,
+                "4": 63
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "228",
+            "candidates": {
+                "1": 246,
+                "2": 109,
+                "3": 226,
+                "4": 52
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "229",
+            "candidates": {
+                "1": 185,
+                "2": 76,
+                "3": 298,
+                "4": 54
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1079
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "230",
+            "candidates": {
+                "1": 110,
+                "2": 107,
+                "3": 265,
+                "4": 134
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "竹林里",
+            "house_no": "231",
+            "candidates": {
+                "1": 119,
+                "2": 100,
+                "3": 265,
+                "4": 132
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1030
+        }
+    ]
+}

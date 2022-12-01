@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陽一賜",
+            "party": "無"
+        },
+        "2": {
+            "name": "林智郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "嘉豐村",
+            "house_no": "127",
+            "candidates": {
+                "1": 71,
+                "2": 78
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 260
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "嘉豐村",
+            "house_no": "128",
+            "candidates": {
+                "1": 51,
+                "2": 93
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 199
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝志宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "何進財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "北斗村",
+            "house_no": "129",
+            "candidates": {
+                "1": 591,
+                "2": 287
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 1426
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "北斗村",
+            "house_no": "130",
+            "candidates": {
+                "1": 574,
+                "2": 304
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1579
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "北斗村",
+            "house_no": "131",
+            "candidates": {
+                "1": 283,
+                "2": 163
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 714
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "北斗村",
+            "house_no": "132",
+            "candidates": {
+                "1": 553,
+                "2": 169
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1353
+        }
+    ]
+}

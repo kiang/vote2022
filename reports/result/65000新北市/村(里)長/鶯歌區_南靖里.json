@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金定",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鶯歌區",
+            "cunli": "南靖里",
+            "house_no": "1888",
+            "candidates": {
+                "1": 405
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 824
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "南靖里",
+            "house_no": "1889",
+            "candidates": {
+                "1": 676
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "南靖里",
+            "house_no": "1890",
+            "candidates": {
+                "1": 439
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 903
+        }
+    ]
+}

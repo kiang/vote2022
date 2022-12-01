@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃再團",
+            "party": "無"
+        },
+        "2": {
+            "name": "王為騰",
+            "party": "公民黨"
+        },
+        "3": {
+            "name": "陳進成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳冬鄉",
+            "cunli": "昌隆村",
+            "house_no": "604",
+            "candidates": {
+                "1": 74,
+                "2": 419,
+                "3": 77,
+                "4": 10
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 895
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "豐隆村",
+            "house_no": "605",
+            "candidates": {
+                "1": 135,
+                "2": 241,
+                "3": 46,
+                "4": 12
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 654
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "大同村",
+            "house_no": "606",
+            "candidates": {
+                "1": 337,
+                "2": 89,
+                "3": 229,
+                "4": 73
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1101
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "羌園村",
+            "house_no": "607",
+            "candidates": {
+                "1": 141,
+                "2": 26,
+                "3": 460,
+                "4": 9
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

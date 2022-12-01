@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃慶豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧渙賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "流東里",
+            "house_no": "342",
+            "candidates": {
+                "1": 394,
+                "2": 257
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "頭份市",
+            "cunli": "流東里",
+            "house_no": "343",
+            "candidates": {
+                "1": 457,
+                "2": 175
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1026
+        }
+    ]
+}

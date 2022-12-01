@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳福勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳昌賢",
+            "party": "無"
+        },
+        "3": {
+            "name": "王錫榮",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳盈暉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "文化里",
+            "house_no": "853",
+            "candidates": {
+                "1": 241,
+                "2": 147,
+                "3": 201,
+                "4": 16
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "三重區",
+            "cunli": "文化里",
+            "house_no": "854",
+            "candidates": {
+                "1": 253,
+                "2": 143,
+                "3": 190,
+                "4": 12
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 913
+        }
+    ]
+}

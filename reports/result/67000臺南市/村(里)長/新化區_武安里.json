@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林保全",
+            "party": "無"
+        },
+        "2": {
+            "name": "林揚順",
+            "party": "無"
+        },
+        "3": {
+            "name": "王富泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新化區",
+            "cunli": "武安里",
+            "house_no": "625",
+            "candidates": {
+                "1": 355,
+                "2": 195,
+                "3": 70
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1025
+        },
+        {
+            "area": "新化區",
+            "cunli": "武安里",
+            "house_no": "626",
+            "candidates": {
+                "1": 337,
+                "2": 216,
+                "3": 77
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "新化區",
+            "cunli": "武安里",
+            "house_no": "627",
+            "candidates": {
+                "1": 167,
+                "2": 193,
+                "3": 156
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 881
+        }
+    ]
+}

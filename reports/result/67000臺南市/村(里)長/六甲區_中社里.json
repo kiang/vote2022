@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳仙藏",
+            "party": "無"
+        },
+        "2": {
+            "name": "王新木",
+            "party": "無"
+        },
+        "3": {
+            "name": "高敬泰",
+            "party": "無"
+        },
+        "4": {
+            "name": "李黃阿鳳",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳莞淇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "六甲區",
+            "cunli": "中社里",
+            "house_no": "400",
+            "candidates": {
+                "1": 157,
+                "2": 119,
+                "3": 139,
+                "4": 204,
+                "5": 42
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "六甲區",
+            "cunli": "中社里",
+            "house_no": "401",
+            "candidates": {
+                "1": 66,
+                "2": 71,
+                "3": 37,
+                "4": 101,
+                "5": 96
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 580
+        }
+    ]
+}

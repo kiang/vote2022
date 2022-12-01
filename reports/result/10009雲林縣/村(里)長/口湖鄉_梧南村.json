@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李清南",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宏濤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "梧南村",
+            "house_no": "245",
+            "candidates": {
+                "1": 425,
+                "2": 157
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "梧南村",
+            "house_no": "246",
+            "candidates": {
+                "1": 384,
+                "2": 178
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 819
+        }
+    ]
+}

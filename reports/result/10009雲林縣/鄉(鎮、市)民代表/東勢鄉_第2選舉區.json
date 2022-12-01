@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳烱鋅",
+            "party": "無"
+        },
+        "2": {
+            "name": "張哲維",
+            "party": "無"
+        },
+        "3": {
+            "name": "周國賢",
+            "party": "無"
+        },
+        "4": {
+            "name": "周嵩展",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢鄉",
+            "cunli": "東南村",
+            "house_no": "65",
+            "candidates": {
+                "1": 149,
+                "2": 188,
+                "3": 114,
+                "4": 143
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 829
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "東南村",
+            "house_no": "66",
+            "candidates": {
+                "1": 91,
+                "2": 101,
+                "3": 78,
+                "4": 109
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 566
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "東北村",
+            "house_no": "67",
+            "candidates": {
+                "1": 254,
+                "2": 166,
+                "3": 112,
+                "4": 270
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "龍潭村",
+            "house_no": "68",
+            "candidates": {
+                "1": 173,
+                "2": 97,
+                "3": 166,
+                "4": 152
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 766
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "程海村",
+            "house_no": "69",
+            "candidates": {
+                "1": 107,
+                "2": 164,
+                "3": 80,
+                "4": 95
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 543
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張哲瑋",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂勗淇",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "梁永辰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "行孝里",
+            "house_no": "991",
+            "candidates": {
+                "1": 351,
+                "2": 420,
+                "3": 140
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "中山區",
+            "cunli": "行孝里",
+            "house_no": "992",
+            "candidates": {
+                "1": 244,
+                "2": 275,
+                "3": 110
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "中山區",
+            "cunli": "行孝里",
+            "house_no": "993",
+            "candidates": {
+                "1": 247,
+                "2": 401,
+                "3": 112
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1149
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "李明權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "東灣里",
+            "house_no": "906",
+            "candidates": {
+                "1": 468,
+                "2": 143
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "永康區",
+            "cunli": "東灣里",
+            "house_no": "907",
+            "candidates": {
+                "1": 394,
+                "2": 216
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "永康區",
+            "cunli": "東灣里",
+            "house_no": "908",
+            "candidates": {
+                "1": 436,
+                "2": 198
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1135
+        }
+    ]
+}

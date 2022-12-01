@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖家慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "張均鳴",
+            "party": "無"
+        },
+        "3": {
+            "name": "張長瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "西墩里",
+            "house_no": "743",
+            "candidates": {
+                "1": 270,
+                "2": 155,
+                "3": 267
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西墩里",
+            "house_no": "744",
+            "candidates": {
+                "1": 229,
+                "2": 198,
+                "3": 203
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西墩里",
+            "house_no": "745",
+            "candidates": {
+                "1": 198,
+                "2": 164,
+                "3": 202
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西墩里",
+            "house_no": "746",
+            "candidates": {
+                "1": 235,
+                "2": 154,
+                "3": 226
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西墩里",
+            "house_no": "747",
+            "candidates": {
+                "1": 375,
+                "2": 148,
+                "3": 219
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1299
+        }
+    ]
+}

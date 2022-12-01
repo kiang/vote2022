@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘杰劭",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧年益",
+            "party": "無"
+        },
+        "3": {
+            "name": "林汶垚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "陽明里",
+            "house_no": "520",
+            "candidates": {
+                "1": 116,
+                "2": 281,
+                "3": 329
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1122
+        },
+        {
+            "area": "豐原區",
+            "cunli": "陽明里",
+            "house_no": "521",
+            "candidates": {
+                "1": 125,
+                "2": 344,
+                "3": 376
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1375
+        }
+    ]
+}

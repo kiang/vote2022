@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "塗英志",
+            "party": "無"
+        },
+        "2": {
+            "name": "張文振",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "文雅里",
+            "house_no": "10",
+            "candidates": {
+                "1": 323,
+                "2": 367
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "東區",
+            "cunli": "文雅里",
+            "house_no": "11",
+            "candidates": {
+                "1": 279,
+                "2": 309
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "東區",
+            "cunli": "文雅里",
+            "house_no": "12",
+            "candidates": {
+                "1": 301,
+                "2": 291
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

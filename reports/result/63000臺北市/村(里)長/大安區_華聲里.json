@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "華聲里",
+            "house_no": "1566",
+            "candidates": {
+                "1": 632
+            },
+            "count_wrong": 136,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "大安區",
+            "cunli": "華聲里",
+            "house_no": "1567",
+            "candidates": {
+                "1": 515
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "大安區",
+            "cunli": "華聲里",
+            "house_no": "1568",
+            "candidates": {
+                "1": 540
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 978
+        }
+    ]
+}

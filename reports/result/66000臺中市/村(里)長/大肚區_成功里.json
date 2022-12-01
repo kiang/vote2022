@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳新座",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳思學",
+            "party": "無"
+        },
+        "3": {
+            "name": "傅國綱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "成功里",
+            "house_no": "341",
+            "candidates": {
+                "1": 452,
+                "2": 90,
+                "3": 142
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 906
+        }
+    ]
+}

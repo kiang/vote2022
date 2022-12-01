@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉光明 Umin‧Havung",
+            "party": "無"
+        },
+        "2": {
+            "name": "王碧雪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "卓溪鄉",
+            "cunli": "立山村",
+            "house_no": "324",
+            "candidates": {
+                "1": 217,
+                "2": 165
+            },
+            "count_wrong": 7,
+            "count_unused": 2,
+            "count_total": 492
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "立山村",
+            "house_no": "325",
+            "candidates": {
+                "1": 261,
+                "2": 100
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 446
+        }
+    ]
+}

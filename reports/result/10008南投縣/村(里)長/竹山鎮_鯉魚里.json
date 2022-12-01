@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許志應",
+            "party": "無"
+        },
+        "2": {
+            "name": "余如堅",
+            "party": "無"
+        },
+        "3": {
+            "name": "張介玟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "鯉魚里",
+            "house_no": "278",
+            "candidates": {
+                "1": 28,
+                "2": 161,
+                "3": 108
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 433
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "鯉魚里",
+            "house_no": "279",
+            "candidates": {
+                "1": 1,
+                "2": 91,
+                "3": 73
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 258
+        }
+    ]
+}

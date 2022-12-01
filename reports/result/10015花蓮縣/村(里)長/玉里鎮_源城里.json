@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "倪金蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "范姜士豪",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉原青",
+            "party": "台灣民眾黨"
+        },
+        "4": {
+            "name": "李春生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "源城里",
+            "house_no": "298",
+            "candidates": {
+                "1": 140,
+                "2": 170,
+                "3": 53,
+                "4": 337
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1163
+        }
+    ]
+}

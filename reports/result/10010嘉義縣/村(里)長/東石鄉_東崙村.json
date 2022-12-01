@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀文",
+            "party": "無"
+        },
+        "2": {
+            "name": "王木源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東石鄉",
+            "cunli": "東崙村",
+            "house_no": "348",
+            "candidates": {
+                "1": 162,
+                "2": 115
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 359
+        },
+        {
+            "area": "東石鄉",
+            "cunli": "東崙村",
+            "house_no": "349",
+            "candidates": {
+                "1": 66,
+                "2": 122
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 295
+        }
+    ]
+}

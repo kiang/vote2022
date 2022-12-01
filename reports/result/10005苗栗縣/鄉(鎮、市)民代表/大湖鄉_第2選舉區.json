@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文明",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝慶德",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱菊英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大湖鄉",
+            "cunli": "靜湖村",
+            "house_no": "438",
+            "candidates": {
+                "1": 63,
+                "2": 185,
+                "3": 143,
+                "4": 149
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "靜湖村",
+            "house_no": "439",
+            "candidates": {
+                "1": 81,
+                "2": 194,
+                "3": 190,
+                "4": 93
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 829
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "富興村",
+            "house_no": "440",
+            "candidates": {
+                "1": 323,
+                "2": 146,
+                "3": 257,
+                "4": 96
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1266
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "大南村",
+            "house_no": "441",
+            "candidates": {
+                "1": 56,
+                "2": 72,
+                "3": 138,
+                "4": 86
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 487
+        }
+    ]
+}

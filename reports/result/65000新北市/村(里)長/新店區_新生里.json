@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃頌之",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "新生里",
+            "house_no": "2151",
+            "candidates": {
+                "1": 365
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "新店區",
+            "cunli": "新生里",
+            "house_no": "2152",
+            "candidates": {
+                "1": 845
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 1467
+        },
+        {
+            "area": "新店區",
+            "cunli": "新生里",
+            "house_no": "2153",
+            "candidates": {
+                "1": 615
+            },
+            "count_wrong": 154,
+            "count_unused": 0,
+            "count_total": 1352
+        },
+        {
+            "area": "新店區",
+            "cunli": "新生里",
+            "house_no": "2154",
+            "candidates": {
+                "1": 558
+            },
+            "count_wrong": 146,
+            "count_unused": 0,
+            "count_total": 1295
+        }
+    ]
+}

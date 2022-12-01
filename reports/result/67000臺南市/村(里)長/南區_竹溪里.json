@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康益彰",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾銘澤",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳勁宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "竹溪里",
+            "house_no": "1175",
+            "candidates": {
+                "1": 161,
+                "2": 219,
+                "3": 30
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 756
+        },
+        {
+            "area": "南區",
+            "cunli": "竹溪里",
+            "house_no": "1176",
+            "candidates": {
+                "1": 232,
+                "2": 191,
+                "3": 44
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 776
+        }
+    ]
+}

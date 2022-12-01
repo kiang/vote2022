@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明政",
+            "party": "無"
+        },
+        "2": {
+            "name": "李溪成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "中正村",
+            "house_no": "299",
+            "candidates": {
+                "1": 225,
+                "2": 353
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 866
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "中正村",
+            "house_no": "300",
+            "candidates": {
+                "1": 235,
+                "2": 218
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 654
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "中正村",
+            "house_no": "301",
+            "candidates": {
+                "1": 239,
+                "2": 356
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "中正村",
+            "house_no": "302",
+            "candidates": {
+                "1": 261,
+                "2": 363
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

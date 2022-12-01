@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許文爵",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭木桂",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪玉騰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "龍泉里",
+            "house_no": "1",
+            "candidates": {
+                "1": 324,
+                "2": 189,
+                "3": 88
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

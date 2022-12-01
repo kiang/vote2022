@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余榮水",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳潔如",
+            "party": "無"
+        },
+        "3": {
+            "name": "侯朝明",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾齡瑩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "曹公里",
+            "house_no": "1422",
+            "candidates": {
+                "1": 115,
+                "2": 66,
+                "3": 92,
+                "4": 218
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 812
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "曹公里",
+            "house_no": "1423",
+            "candidates": {
+                "1": 123,
+                "2": 97,
+                "3": 124,
+                "4": 193
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 973
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳安吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "袁菁梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "清水里",
+            "house_no": "101",
+            "candidates": {
+                "1": 322,
+                "2": 232
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 848
+        },
+        {
+            "area": "清水區",
+            "cunli": "清水里",
+            "house_no": "102",
+            "candidates": {
+                "1": 477,
+                "2": 407
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1372
+        }
+    ]
+}

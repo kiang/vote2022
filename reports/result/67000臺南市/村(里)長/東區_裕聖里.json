@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃姿雅",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁宗漢",
+            "party": "無"
+        },
+        "3": {
+            "name": "柯銓泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "裕聖里",
+            "house_no": "1333",
+            "candidates": {
+                "1": 511,
+                "2": 32,
+                "3": 151
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "東區",
+            "cunli": "裕聖里",
+            "house_no": "1334",
+            "candidates": {
+                "1": 451,
+                "2": 43,
+                "3": 153
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1048
+        },
+        {
+            "area": "東區",
+            "cunli": "裕聖里",
+            "house_no": "1335",
+            "candidates": {
+                "1": 424,
+                "2": 64,
+                "3": 164
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "東區",
+            "cunli": "裕聖里",
+            "house_no": "1336",
+            "candidates": {
+                "1": 451,
+                "2": 44,
+                "3": 121
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂坤益",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹冠誠",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾迺瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "大平村",
+            "house_no": "350",
+            "candidates": {
+                "1": 295,
+                "2": 218,
+                "3": 149
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1046
+        }
+    ]
+}

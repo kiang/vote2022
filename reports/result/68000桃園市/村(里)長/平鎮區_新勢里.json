@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金興",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳祥焜",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃彥期",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "新勢里",
+            "house_no": "1049",
+            "candidates": {
+                "1": 279,
+                "2": 233,
+                "3": 151
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新勢里",
+            "house_no": "1050",
+            "candidates": {
+                "1": 367,
+                "2": 331,
+                "3": 98
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新勢里",
+            "house_no": "1051",
+            "candidates": {
+                "1": 379,
+                "2": 270,
+                "3": 126
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1216
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅學成",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉源祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "鶴岡村",
+            "house_no": "93",
+            "candidates": {
+                "1": 165,
+                "2": 387
+            },
+            "count_wrong": 13,
+            "count_unused": 2,
+            "count_total": 842
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "鶴岡村",
+            "house_no": "94",
+            "candidates": {
+                "1": 165,
+                "2": 296
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 674
+        }
+    ]
+}

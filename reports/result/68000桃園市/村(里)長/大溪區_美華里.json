@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡為清",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾慶章",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐曉宣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "美華里",
+            "house_no": "654",
+            "candidates": {
+                "1": 342,
+                "2": 163,
+                "3": 180
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "大溪區",
+            "cunli": "美華里",
+            "house_no": "655",
+            "candidates": {
+                "1": 417,
+                "2": 111,
+                "3": 266
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "大溪區",
+            "cunli": "美華里",
+            "house_no": "656",
+            "candidates": {
+                "1": 173,
+                "2": 81,
+                "3": 204
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 715
+        }
+    ]
+}

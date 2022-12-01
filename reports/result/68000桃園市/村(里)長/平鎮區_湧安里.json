@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金福",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉秋森",
+            "party": "無"
+        },
+        "3": {
+            "name": "張鶴騰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "湧安里",
+            "house_no": "1001",
+            "candidates": {
+                "1": 507,
+                "2": 56,
+                "3": 398
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1674
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "湧安里",
+            "house_no": "1002",
+            "candidates": {
+                "1": 454,
+                "2": 73,
+                "3": 272
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "湧安里",
+            "house_no": "1003",
+            "candidates": {
+                "1": 337,
+                "2": 63,
+                "3": 396
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1377
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林泓佐",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "施士凱",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "下埤里",
+            "house_no": "994",
+            "candidates": {
+                "1": 357,
+                "2": 394
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "中山區",
+            "cunli": "下埤里",
+            "house_no": "995",
+            "candidates": {
+                "1": 340,
+                "2": 399
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "中山區",
+            "cunli": "下埤里",
+            "house_no": "996",
+            "candidates": {
+                "1": 375,
+                "2": 393
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1249
+        },
+        {
+            "area": "中山區",
+            "cunli": "下埤里",
+            "house_no": "997",
+            "candidates": {
+                "1": 369,
+                "2": 416
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1210
+        },
+        {
+            "area": "中山區",
+            "cunli": "下埤里",
+            "house_no": "998",
+            "candidates": {
+                "1": 383,
+                "2": 441
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1216
+        }
+    ]
+}

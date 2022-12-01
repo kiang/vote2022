@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊凱發",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃小芬",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅祐祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "正泰里",
+            "house_no": "1193",
+            "candidates": {
+                "1": 117,
+                "2": 319,
+                "3": 361
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "板橋區",
+            "cunli": "正泰里",
+            "house_no": "1194",
+            "candidates": {
+                "1": 228,
+                "2": 249,
+                "3": 359
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

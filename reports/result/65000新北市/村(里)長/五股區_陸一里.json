@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王進和",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭振舜",
+            "party": "無"
+        },
+        "3": {
+            "name": "王章鳳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "陸一里",
+            "house_no": "310",
+            "candidates": {
+                "1": 237,
+                "2": 209,
+                "3": 226
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "五股區",
+            "cunli": "陸一里",
+            "house_no": "311",
+            "candidates": {
+                "1": 248,
+                "2": 209,
+                "3": 231
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1121
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪淑婷",
+            "party": "無"
+        },
+        "3": {
+            "name": "王坤吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "鼻頭里",
+            "house_no": "2458",
+            "candidates": {
+                "1": 189,
+                "2": 33,
+                "3": 294
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 822
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林口區",
+            "cunli": "中湖里",
+            "house_no": "194",
+            "candidates": {
+                "1": 605
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "林口區",
+            "cunli": "中湖里",
+            "house_no": "195",
+            "candidates": {
+                "1": 572
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "林口區",
+            "cunli": "中湖里",
+            "house_no": "196",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 174,
+            "count_unused": 0,
+            "count_total": 1453
+        }
+    ]
+}

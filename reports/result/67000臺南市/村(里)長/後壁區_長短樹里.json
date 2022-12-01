@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭國瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃麗盆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "長短樹里",
+            "house_no": "18",
+            "candidates": {
+                "1": 87,
+                "2": 512
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "後壁區",
+            "cunli": "長短樹里",
+            "house_no": "19",
+            "candidates": {
+                "1": 246,
+                "2": 73
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 453
+        },
+        {
+            "area": "後壁區",
+            "cunli": "長短樹里",
+            "house_no": "20",
+            "candidates": {
+                "1": 127,
+                "2": 190
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 504
+        }
+    ]
+}

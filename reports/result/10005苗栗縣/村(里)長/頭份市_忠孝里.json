@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王秀華",
+            "party": "無"
+        },
+        "2": {
+            "name": "張俊堯",
+            "party": "無"
+        },
+        "3": {
+            "name": "江永富",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃琦崴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "忠孝里",
+            "house_no": "362",
+            "candidates": {
+                "1": 320,
+                "2": 94,
+                "3": 157,
+                "4": 87
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "頭份市",
+            "cunli": "忠孝里",
+            "house_no": "363",
+            "candidates": {
+                "1": 289,
+                "2": 103,
+                "3": 181,
+                "4": 87
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "頭份市",
+            "cunli": "忠孝里",
+            "house_no": "364",
+            "candidates": {
+                "1": 291,
+                "2": 92,
+                "3": 100,
+                "4": 104
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 932
+        }
+    ]
+}

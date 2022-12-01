@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳鐵全",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳宗評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢鄉",
+            "cunli": "四美村",
+            "house_no": "74",
+            "candidates": {
+                "1": 276,
+                "2": 84
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 551
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "四美村",
+            "house_no": "75",
+            "candidates": {
+                "1": 137,
+                "2": 102
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 379
+        }
+    ]
+}

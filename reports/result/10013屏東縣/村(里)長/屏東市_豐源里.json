@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國棟",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃建智",
+            "party": "無"
+        },
+        "3": {
+            "name": "丁國庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "豐源里",
+            "house_no": "26",
+            "candidates": {
+                "1": 232,
+                "2": 78,
+                "3": 338
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐源里",
+            "house_no": "27",
+            "candidates": {
+                "1": 181,
+                "2": 91,
+                "3": 278
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐源里",
+            "house_no": "28",
+            "candidates": {
+                "1": 259,
+                "2": 153,
+                "3": 299
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

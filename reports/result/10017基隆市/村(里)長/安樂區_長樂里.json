@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張德發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "長樂里",
+            "house_no": "185",
+            "candidates": {
+                "1": 886
+            },
+            "count_wrong": 140,
+            "count_unused": 0,
+            "count_total": 1639
+        },
+        {
+            "area": "安樂區",
+            "cunli": "長樂里",
+            "house_no": "186",
+            "candidates": {
+                "1": 363
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 669
+        },
+        {
+            "area": "安樂區",
+            "cunli": "長樂里",
+            "house_no": "187",
+            "candidates": {
+                "1": 424
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 831
+        }
+    ]
+}

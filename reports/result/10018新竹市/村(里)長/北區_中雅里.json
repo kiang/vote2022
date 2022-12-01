@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉天全",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄔滬生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "中雅里",
+            "house_no": "188",
+            "candidates": {
+                "1": 216,
+                "2": 475
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "北區",
+            "cunli": "中雅里",
+            "house_no": "189",
+            "candidates": {
+                "1": 191,
+                "2": 368
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "北區",
+            "cunli": "中雅里",
+            "house_no": "190",
+            "candidates": {
+                "1": 149,
+                "2": 475
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 975
+        }
+    ]
+}

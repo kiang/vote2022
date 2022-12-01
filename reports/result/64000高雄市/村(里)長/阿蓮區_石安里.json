@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡寬意",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈建豐",
+            "party": "無"
+        },
+        "3": {
+            "name": "石武俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿蓮區",
+            "cunli": "石安里",
+            "house_no": "232",
+            "candidates": {
+                "1": 545,
+                "2": 285,
+                "3": 33
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1232
+        }
+    ]
+}

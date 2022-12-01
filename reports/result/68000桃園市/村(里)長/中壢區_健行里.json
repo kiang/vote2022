@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙國忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉邦笙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "健行里",
+            "house_no": "876",
+            "candidates": {
+                "1": 180,
+                "2": 659
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1294
+        },
+        {
+            "area": "中壢區",
+            "cunli": "健行里",
+            "house_no": "877",
+            "candidates": {
+                "1": 474,
+                "2": 373
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1467
+        },
+        {
+            "area": "中壢區",
+            "cunli": "健行里",
+            "house_no": "878",
+            "candidates": {
+                "1": 205,
+                "2": 684
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1465
+        }
+    ]
+}

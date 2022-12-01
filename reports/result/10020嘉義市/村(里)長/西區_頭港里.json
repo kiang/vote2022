@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高順能",
+            "party": "無"
+        },
+        "2": {
+            "name": "游啓明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "頭港里",
+            "house_no": "119",
+            "candidates": {
+                "1": 358,
+                "2": 299
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "西區",
+            "cunli": "頭港里",
+            "house_no": "120",
+            "candidates": {
+                "1": 311,
+                "2": 239
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 841
+        }
+    ]
+}

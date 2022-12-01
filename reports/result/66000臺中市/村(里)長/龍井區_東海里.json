@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊宗翰",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "林秋蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "東海里",
+            "house_no": "315",
+            "candidates": {
+                "1": 275,
+                "2": 452
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "龍井區",
+            "cunli": "東海里",
+            "house_no": "316",
+            "candidates": {
+                "1": 242,
+                "2": 489
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1454
+        },
+        {
+            "area": "龍井區",
+            "cunli": "東海里",
+            "house_no": "317",
+            "candidates": {
+                "1": 319,
+                "2": 418
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1433
+        },
+        {
+            "area": "龍井區",
+            "cunli": "東海里",
+            "house_no": "318",
+            "candidates": {
+                "1": 254,
+                "2": 418
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "龍井區",
+            "cunli": "東海里",
+            "house_no": "319",
+            "candidates": {
+                "1": 220,
+                "2": 440
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "龍井區",
+            "cunli": "東海里",
+            "house_no": "320",
+            "candidates": {
+                "1": 257,
+                "2": 479
+            },
+            "count_wrong": 41,
+            "count_unused": 1,
+            "count_total": 1352
+        }
+    ]
+}

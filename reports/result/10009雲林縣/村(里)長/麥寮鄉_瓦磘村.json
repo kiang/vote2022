@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許萬得",
+            "party": "無"
+        },
+        "2": {
+            "name": "林慶郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "瓦磘村",
+            "house_no": "11",
+            "candidates": {
+                "1": 277,
+                "2": 146
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 724
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "瓦磘村",
+            "house_no": "12",
+            "candidates": {
+                "1": 163,
+                "2": 604
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 1231
+        }
+    ]
+}

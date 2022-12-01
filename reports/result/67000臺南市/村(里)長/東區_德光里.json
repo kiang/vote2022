@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾國全",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "德光里",
+            "house_no": "1293",
+            "candidates": {
+                "1": 563
+            },
+            "count_wrong": 124,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "東區",
+            "cunli": "德光里",
+            "house_no": "1294",
+            "candidates": {
+                "1": 596
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1305
+        },
+        {
+            "area": "東區",
+            "cunli": "德光里",
+            "house_no": "1295",
+            "candidates": {
+                "1": 561
+            },
+            "count_wrong": 126,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

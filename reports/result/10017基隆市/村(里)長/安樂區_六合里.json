@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘德發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "六合里",
+            "house_no": "180",
+            "candidates": {
+                "1": 755
+            },
+            "count_wrong": 141,
+            "count_unused": 0,
+            "count_total": 1523
+        },
+        {
+            "area": "安樂區",
+            "cunli": "六合里",
+            "house_no": "181",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 99,
+            "count_unused": 2,
+            "count_total": 1081
+        },
+        {
+            "area": "安樂區",
+            "cunli": "六合里",
+            "house_no": "182",
+            "candidates": {
+                "1": 556
+            },
+            "count_wrong": 155,
+            "count_unused": 0,
+            "count_total": 1070
+        }
+    ]
+}

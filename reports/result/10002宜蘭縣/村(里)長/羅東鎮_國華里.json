@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志明",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭敏華",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "游文龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "國華里",
+            "house_no": "111",
+            "candidates": {
+                "1": 65,
+                "2": 249,
+                "3": 250
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "國華里",
+            "house_no": "112",
+            "candidates": {
+                "1": 139,
+                "2": 253,
+                "3": 283
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "國華里",
+            "house_no": "113",
+            "candidates": {
+                "1": 115,
+                "2": 215,
+                "3": 285
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "國華里",
+            "house_no": "114",
+            "candidates": {
+                "1": 78,
+                "2": 207,
+                "3": 255
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 922
+        }
+    ]
+}

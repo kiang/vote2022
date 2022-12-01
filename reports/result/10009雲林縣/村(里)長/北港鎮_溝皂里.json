@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡文進",
+            "party": "無"
+        },
+        "2": {
+            "name": "許傑凱",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡火盛",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡榮修",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "溝皂里",
+            "house_no": "313",
+            "candidates": {
+                "1": 178,
+                "2": 113,
+                "3": 161,
+                "4": 256
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1070
+        }
+    ]
+}

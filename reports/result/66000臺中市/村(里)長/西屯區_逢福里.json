@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張文平",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡雅莉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "逢福里",
+            "house_no": "778",
+            "candidates": {
+                "1": 605,
+                "2": 290
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1370
+        },
+        {
+            "area": "西屯區",
+            "cunli": "逢福里",
+            "house_no": "779",
+            "candidates": {
+                "1": 478,
+                "2": 186
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "西屯區",
+            "cunli": "逢福里",
+            "house_no": "780",
+            "candidates": {
+                "1": 469,
+                "2": 249
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "西屯區",
+            "cunli": "逢福里",
+            "house_no": "781",
+            "candidates": {
+                "1": 522,
+                "2": 199
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

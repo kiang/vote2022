@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡妤年",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳宗泰",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱玉菊",
+            "party": "無"
+        },
+        "4": {
+            "name": "徐弘睿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "建民里",
+            "house_no": "1",
+            "candidates": {
+                "1": 303,
+                "2": 17,
+                "3": 333,
+                "4": 168
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "北投區",
+            "cunli": "建民里",
+            "house_no": "2",
+            "candidates": {
+                "1": 379,
+                "2": 17,
+                "3": 267,
+                "4": 163
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "北投區",
+            "cunli": "建民里",
+            "house_no": "3",
+            "candidates": {
+                "1": 395,
+                "2": 14,
+                "3": 243,
+                "4": 182
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1183
+        }
+    ]
+}

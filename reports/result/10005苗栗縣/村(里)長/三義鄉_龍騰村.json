@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂明定",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳陳貞蓉",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃秀玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "龍騰村",
+            "house_no": "143",
+            "candidates": {
+                "1": 35,
+                "2": 165,
+                "3": 124
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 391
+        }
+    ]
+}

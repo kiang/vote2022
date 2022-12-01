@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡瑞賓",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宗陽",
+            "party": "無"
+        },
+        "3": {
+            "name": "藍靜莉",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃怡雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "中庸里",
+            "house_no": "120",
+            "candidates": {
+                "1": 119,
+                "2": 217,
+                "3": 269,
+                "4": 69
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1070
+        },
+        {
+            "area": "北投區",
+            "cunli": "中庸里",
+            "house_no": "121",
+            "candidates": {
+                "1": 106,
+                "2": 259,
+                "3": 289,
+                "4": 86
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "北投區",
+            "cunli": "中庸里",
+            "house_no": "122",
+            "candidates": {
+                "1": 80,
+                "2": 257,
+                "3": 222,
+                "4": 88
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1024
+        }
+    ]
+}

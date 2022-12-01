@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭漍華",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "陳春津",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "立人里",
+            "house_no": "1032",
+            "candidates": {
+                "1": 172,
+                "2": 515
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1308
+        },
+        {
+            "area": "北區",
+            "cunli": "立人里",
+            "house_no": "1033",
+            "candidates": {
+                "1": 61,
+                "2": 583
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1073
+        }
+    ]
+}

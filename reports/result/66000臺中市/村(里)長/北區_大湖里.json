@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳炤烈",
+            "party": "無"
+        },
+        "2": {
+            "name": "紀國華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "大湖里",
+            "house_no": "1183",
+            "candidates": {
+                "1": 264,
+                "2": 485
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "北區",
+            "cunli": "大湖里",
+            "house_no": "1184",
+            "candidates": {
+                "1": 215,
+                "2": 325
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 827
+        }
+    ]
+}

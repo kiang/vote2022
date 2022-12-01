@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉玉伴",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "泰安里",
+            "house_no": "1578",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "中和區",
+            "cunli": "泰安里",
+            "house_no": "1579",
+            "candidates": {
+                "1": 324
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 744
+        },
+        {
+            "area": "中和區",
+            "cunli": "泰安里",
+            "house_no": "1580",
+            "candidates": {
+                "1": 455
+            },
+            "count_wrong": 143,
+            "count_unused": 0,
+            "count_total": 1113
+        }
+    ]
+}

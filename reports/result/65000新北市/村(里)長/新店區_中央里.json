@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王志翔",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "楊友琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "中央里",
+            "house_no": "2209",
+            "candidates": {
+                "1": 238,
+                "2": 612
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "新店區",
+            "cunli": "中央里",
+            "house_no": "2210",
+            "candidates": {
+                "1": 232,
+                "2": 466
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "新店區",
+            "cunli": "中央里",
+            "house_no": "2211",
+            "candidates": {
+                "1": 275,
+                "2": 565
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "新店區",
+            "cunli": "中央里",
+            "house_no": "2212",
+            "candidates": {
+                "1": 202,
+                "2": 582
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1190
+        }
+    ]
+}

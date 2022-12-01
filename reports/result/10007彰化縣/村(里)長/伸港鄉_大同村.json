@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳源森",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宜蕎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "大同村",
+            "house_no": "459",
+            "candidates": {
+                "1": 472,
+                "2": 284
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "大同村",
+            "house_no": "460",
+            "candidates": {
+                "1": 627,
+                "2": 352
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1483
+        }
+    ]
+}

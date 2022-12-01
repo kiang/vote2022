@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉家聲",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭双火",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "富岡里",
+            "house_no": "1169",
+            "candidates": {
+                "1": 333,
+                "2": 234
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "富岡里",
+            "house_no": "1170",
+            "candidates": {
+                "1": 299,
+                "2": 213
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

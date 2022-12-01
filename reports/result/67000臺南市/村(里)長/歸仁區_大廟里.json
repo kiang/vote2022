@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳淩澤",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳壽啟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "大廟里",
+            "house_no": "1498",
+            "candidates": {
+                "1": 344,
+                "2": 288
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "大廟里",
+            "house_no": "1499",
+            "candidates": {
+                "1": 341,
+                "2": 324
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "大廟里",
+            "house_no": "1500",
+            "candidates": {
+                "1": 340,
+                "2": 337
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

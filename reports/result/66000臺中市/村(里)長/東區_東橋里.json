@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何冠緯",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱森春",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東橋里",
+            "house_no": "1370",
+            "candidates": {
+                "1": 519,
+                "2": 283
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "東區",
+            "cunli": "東橋里",
+            "house_no": "1371",
+            "candidates": {
+                "1": 448,
+                "2": 265
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "東區",
+            "cunli": "東橋里",
+            "house_no": "1372",
+            "candidates": {
+                "1": 441,
+                "2": 274
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1140
+        }
+    ]
+}

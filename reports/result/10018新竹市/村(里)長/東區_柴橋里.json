@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃桂蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "李文福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "柴橋里",
+            "house_no": "155",
+            "candidates": {
+                "1": 267,
+                "2": 217
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "東區",
+            "cunli": "柴橋里",
+            "house_no": "156",
+            "candidates": {
+                "1": 302,
+                "2": 194
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "東區",
+            "cunli": "柴橋里",
+            "house_no": "157",
+            "candidates": {
+                "1": 384,
+                "2": 194
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 863
+        },
+        {
+            "area": "東區",
+            "cunli": "柴橋里",
+            "house_no": "158",
+            "candidates": {
+                "1": 410,
+                "2": 190
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "東區",
+            "cunli": "柴橋里",
+            "house_no": "159",
+            "candidates": {
+                "1": 583,
+                "2": 143
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1263
+        }
+    ]
+}

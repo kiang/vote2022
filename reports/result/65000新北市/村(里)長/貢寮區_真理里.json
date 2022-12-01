@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙瑞昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "李勝興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "貢寮區",
+            "cunli": "真理里",
+            "house_no": "2489",
+            "candidates": {
+                "1": 269,
+                "2": 168
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1029
+        },
+        {
+            "area": "貢寮區",
+            "cunli": "真理里",
+            "house_no": "2490",
+            "candidates": {
+                "1": 237,
+                "2": 165
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 876
+        }
+    ]
+}

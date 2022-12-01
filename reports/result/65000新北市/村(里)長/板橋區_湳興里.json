@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪雅鈴",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉育奇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "湳興里",
+            "house_no": "1002",
+            "candidates": {
+                "1": 412,
+                "2": 329
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "板橋區",
+            "cunli": "湳興里",
+            "house_no": "1003",
+            "candidates": {
+                "1": 294,
+                "2": 319
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "板橋區",
+            "cunli": "湳興里",
+            "house_no": "1004",
+            "candidates": {
+                "1": 294,
+                "2": 237
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "板橋區",
+            "cunli": "湳興里",
+            "house_no": "1005",
+            "candidates": {
+                "1": 287,
+                "2": 308
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1071
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張清文",
+            "party": "無"
+        },
+        "2": {
+            "name": "王春茂",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "明正里",
+            "house_no": "1663",
+            "candidates": {
+                "1": 198,
+                "2": 417
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "明正里",
+            "house_no": "1664",
+            "candidates": {
+                "1": 230,
+                "2": 334
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "明正里",
+            "house_no": "1665",
+            "candidates": {
+                "1": 172,
+                "2": 442
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "明正里",
+            "house_no": "1666",
+            "candidates": {
+                "1": 211,
+                "2": 251
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "明正里",
+            "house_no": "1667",
+            "candidates": {
+                "1": 288,
+                "2": 300
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1015
+        }
+    ]
+}

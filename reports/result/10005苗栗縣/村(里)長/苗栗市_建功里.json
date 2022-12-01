@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴安老",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱紹齊",
+            "party": "無"
+        },
+        "3": {
+            "name": "何春木",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "建功里",
+            "house_no": "50",
+            "candidates": {
+                "1": 307,
+                "2": 128,
+                "3": 163
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 935
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "建功里",
+            "house_no": "51",
+            "candidates": {
+                "1": 292,
+                "2": 116,
+                "3": 165
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 934
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "建功里",
+            "house_no": "52",
+            "candidates": {
+                "1": 284,
+                "2": 119,
+                "3": 135
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "建功里",
+            "house_no": "53",
+            "candidates": {
+                "1": 296,
+                "2": 118,
+                "3": 144
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

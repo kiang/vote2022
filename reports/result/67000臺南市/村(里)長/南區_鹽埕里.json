@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王文坤",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "蔡進原",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "鹽埕里",
+            "house_no": "1206",
+            "candidates": {
+                "1": 178,
+                "2": 365
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "南區",
+            "cunli": "鹽埕里",
+            "house_no": "1207",
+            "candidates": {
+                "1": 139,
+                "2": 321
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 784
+        },
+        {
+            "area": "南區",
+            "cunli": "鹽埕里",
+            "house_no": "1208",
+            "candidates": {
+                "1": 414,
+                "2": 239
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "南區",
+            "cunli": "鹽埕里",
+            "house_no": "1209",
+            "candidates": {
+                "1": 333,
+                "2": 183
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 870
+        }
+    ]
+}

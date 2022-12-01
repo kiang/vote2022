@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭鴻輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭秀琴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "太保里",
+            "house_no": "1",
+            "candidates": {
+                "1": 237,
+                "2": 599
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "太保市",
+            "cunli": "太保里",
+            "house_no": "2",
+            "candidates": {
+                "1": 144,
+                "2": 547
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1041
+        }
+    ]
+}

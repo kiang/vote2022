@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慧敏",
+            "party": "無"
+        },
+        "2": {
+            "name": "李昆晏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "介壽里",
+            "house_no": "1073",
+            "candidates": {
+                "1": 394,
+                "2": 355
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "板橋區",
+            "cunli": "介壽里",
+            "house_no": "1074",
+            "candidates": {
+                "1": 406,
+                "2": 325
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

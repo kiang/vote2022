@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑞進",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳春祈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "明志里",
+            "house_no": "346",
+            "candidates": {
+                "1": 283,
+                "2": 395
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "泰山區",
+            "cunli": "明志里",
+            "house_no": "347",
+            "candidates": {
+                "1": 269,
+                "2": 305
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "泰山區",
+            "cunli": "明志里",
+            "house_no": "348",
+            "candidates": {
+                "1": 194,
+                "2": 422
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 986
+        }
+    ]
+}

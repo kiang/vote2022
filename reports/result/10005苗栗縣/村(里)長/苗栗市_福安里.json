@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐玄漳",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊德發",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄧兆鋒",
+            "party": "無"
+        },
+        "4": {
+            "name": "羅興賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "福安里",
+            "house_no": "44",
+            "candidates": {
+                "1": 333,
+                "2": 219,
+                "3": 111,
+                "4": 95
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "福安里",
+            "house_no": "45",
+            "candidates": {
+                "1": 261,
+                "2": 260,
+                "3": 46,
+                "4": 58
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 929
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "福安里",
+            "house_no": "46",
+            "candidates": {
+                "1": 258,
+                "2": 162,
+                "3": 110,
+                "4": 131
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1205
+        }
+    ]
+}

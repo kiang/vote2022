@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏文彬",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "牛埔里",
+            "house_no": "162",
+            "candidates": {
+                "1": 489
+            },
+            "count_wrong": 93,
+            "count_unused": 1,
+            "count_total": 862
+        },
+        {
+            "area": "彰化市",
+            "cunli": "牛埔里",
+            "house_no": "163",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "彰化市",
+            "cunli": "牛埔里",
+            "house_no": "164",
+            "candidates": {
+                "1": 551
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 953
+        }
+    ]
+}

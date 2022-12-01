@@ -1,0 +1,842 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施喻琁",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "許志宏",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "大有里",
+            "house_no": "248",
+            "candidates": {
+                "1": 226,
+                "2": 404
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "中興里",
+            "house_no": "249",
+            "candidates": {
+                "1": 99,
+                "2": 182
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 481
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "洛津里",
+            "house_no": "250",
+            "candidates": {
+                "1": 156,
+                "2": 362
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "順興里",
+            "house_no": "251",
+            "candidates": {
+                "1": 184,
+                "2": 438
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 878
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "252",
+            "candidates": {
+                "1": 160,
+                "2": 364
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "253",
+            "candidates": {
+                "1": 231,
+                "2": 416
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "254",
+            "candidates": {
+                "1": 151,
+                "2": 288
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "255",
+            "candidates": {
+                "1": 125,
+                "2": 296
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 699
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "256",
+            "candidates": {
+                "1": 256,
+                "2": 554
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "新宮里",
+            "house_no": "257",
+            "candidates": {
+                "1": 221,
+                "2": 333
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 802
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "玉順里",
+            "house_no": "258",
+            "candidates": {
+                "1": 190,
+                "2": 452
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "259",
+            "candidates": {
+                "1": 207,
+                "2": 382
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1000
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "260",
+            "candidates": {
+                "1": 233,
+                "2": 413
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "261",
+            "candidates": {
+                "1": 216,
+                "2": 415
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1024
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東石里",
+            "house_no": "262",
+            "candidates": {
+                "1": 182,
+                "2": 501
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "郭厝里",
+            "house_no": "263",
+            "candidates": {
+                "1": 85,
+                "2": 223
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 504
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "264",
+            "candidates": {
+                "1": 181,
+                "2": 472
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "265",
+            "candidates": {
+                "1": 217,
+                "2": 451
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "266",
+            "candidates": {
+                "1": 163,
+                "2": 455
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "永安里",
+            "house_no": "267",
+            "candidates": {
+                "1": 211,
+                "2": 400
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "景福里",
+            "house_no": "268",
+            "candidates": {
+                "1": 188,
+                "2": 476
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "泰興里",
+            "house_no": "269",
+            "candidates": {
+                "1": 225,
+                "2": 460
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1097
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "長興里",
+            "house_no": "270",
+            "candidates": {
+                "1": 38,
+                "2": 120
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 260
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "興化里",
+            "house_no": "271",
+            "candidates": {
+                "1": 92,
+                "2": 239
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 549
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "龍山里",
+            "house_no": "272",
+            "candidates": {
+                "1": 129,
+                "2": 246
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 588
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "菜園里",
+            "house_no": "273",
+            "candidates": {
+                "1": 214,
+                "2": 408
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 848
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "街尾里",
+            "house_no": "274",
+            "candidates": {
+                "1": 233,
+                "2": 440
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "街尾里",
+            "house_no": "275",
+            "candidates": {
+                "1": 184,
+                "2": 485
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "詔安里",
+            "house_no": "276",
+            "candidates": {
+                "1": 188,
+                "2": 589
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "詔安里",
+            "house_no": "277",
+            "candidates": {
+                "1": 91,
+                "2": 338
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "海埔里",
+            "house_no": "278",
+            "candidates": {
+                "1": 168,
+                "2": 510
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "海埔里",
+            "house_no": "279",
+            "candidates": {
+                "1": 181,
+                "2": 543
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "海埔里",
+            "house_no": "280",
+            "candidates": {
+                "1": 200,
+                "2": 530
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1200
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "洋厝里",
+            "house_no": "281",
+            "candidates": {
+                "1": 97,
+                "2": 502
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 927
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "洋厝里",
+            "house_no": "282",
+            "candidates": {
+                "1": 88,
+                "2": 329
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 715
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "洋厝里",
+            "house_no": "283",
+            "candidates": {
+                "1": 117,
+                "2": 315
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "草中里",
+            "house_no": "284",
+            "candidates": {
+                "1": 99,
+                "2": 490
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "草中里",
+            "house_no": "285",
+            "candidates": {
+                "1": 115,
+                "2": 473
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "草中里",
+            "house_no": "286",
+            "candidates": {
+                "1": 128,
+                "2": 480
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭南里",
+            "house_no": "287",
+            "candidates": {
+                "1": 135,
+                "2": 573
+            },
+            "count_wrong": 48,
+            "count_unused": 1,
+            "count_total": 1171
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭南里",
+            "house_no": "288",
+            "candidates": {
+                "1": 101,
+                "2": 502
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "山崙里",
+            "house_no": "289",
+            "candidates": {
+                "1": 117,
+                "2": 454
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 996
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "山崙里",
+            "house_no": "290",
+            "candidates": {
+                "1": 155,
+                "2": 491
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "山崙里",
+            "house_no": "291",
+            "candidates": {
+                "1": 113,
+                "2": 462
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂番里",
+            "house_no": "292",
+            "candidates": {
+                "1": 107,
+                "2": 341
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂番里",
+            "house_no": "293",
+            "candidates": {
+                "1": 62,
+                "2": 281
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 619
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂番里",
+            "house_no": "294",
+            "candidates": {
+                "1": 116,
+                "2": 519
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂番里",
+            "house_no": "295",
+            "candidates": {
+                "1": 135,
+                "2": 572
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭崙里",
+            "house_no": "296",
+            "candidates": {
+                "1": 79,
+                "2": 409
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 815
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭崙里",
+            "house_no": "297",
+            "candidates": {
+                "1": 71,
+                "2": 352
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 701
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭崙里",
+            "house_no": "298",
+            "candidates": {
+                "1": 119,
+                "2": 524
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "299",
+            "candidates": {
+                "1": 107,
+                "2": 519
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "300",
+            "candidates": {
+                "1": 145,
+                "2": 586
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1047
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "301",
+            "candidates": {
+                "1": 100,
+                "2": 504
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "302",
+            "candidates": {
+                "1": 151,
+                "2": 595
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "廖厝里",
+            "house_no": "303",
+            "candidates": {
+                "1": 196,
+                "2": 698
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1354
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "廖厝里",
+            "house_no": "304",
+            "candidates": {
+                "1": 144,
+                "2": 649
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "廖厝里",
+            "house_no": "305",
+            "candidates": {
+                "1": 198,
+                "2": 673
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1444
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "306",
+            "candidates": {
+                "1": 121,
+                "2": 575
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "307",
+            "candidates": {
+                "1": 187,
+                "2": 496
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "308",
+            "candidates": {
+                "1": 202,
+                "2": 580
+            },
+            "count_wrong": 34,
+            "count_unused": 2,
+            "count_total": 1282
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "309",
+            "candidates": {
+                "1": 216,
+                "2": 531
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1454
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "鹿東里",
+            "house_no": "310",
+            "candidates": {
+                "1": 268,
+                "2": 662
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1432
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "鹿東里",
+            "house_no": "311",
+            "candidates": {
+                "1": 222,
+                "2": 531
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂厝里",
+            "house_no": "312",
+            "candidates": {
+                "1": 184,
+                "2": 500
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂厝里",
+            "house_no": "313",
+            "candidates": {
+                "1": 142,
+                "2": 380
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 887
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂厝里",
+            "house_no": "314",
+            "candidates": {
+                "1": 154,
+                "2": 383
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 877
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "鹿和里",
+            "house_no": "315",
+            "candidates": {
+                "1": 216,
+                "2": 490
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "鹿和里",
+            "house_no": "316",
+            "candidates": {
+                "1": 184,
+                "2": 505
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1122
+        }
+    ]
+}

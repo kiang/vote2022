@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張政岳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "大明里",
+            "house_no": "540",
+            "candidates": {
+                "1": 738
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "員林市",
+            "cunli": "大明里",
+            "house_no": "541",
+            "candidates": {
+                "1": 565
+            },
+            "count_wrong": 63,
+            "count_unused": 2,
+            "count_total": 1041
+        }
+    ]
+}

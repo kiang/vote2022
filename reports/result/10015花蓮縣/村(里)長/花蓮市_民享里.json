@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐靖縈",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民享里",
+            "house_no": "10",
+            "candidates": {
+                "1": 381
+            },
+            "count_wrong": 46,
+            "count_unused": 1,
+            "count_total": 937
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民享里",
+            "house_no": "11",
+            "candidates": {
+                "1": 419
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 926
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民享里",
+            "house_no": "12",
+            "candidates": {
+                "1": 417
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 968
+        }
+    ]
+}

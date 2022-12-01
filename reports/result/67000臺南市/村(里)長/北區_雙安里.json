@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡武林",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭智化",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "雙安里",
+            "house_no": "1034",
+            "candidates": {
+                "1": 235,
+                "2": 292
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "北區",
+            "cunli": "雙安里",
+            "house_no": "1035",
+            "candidates": {
+                "1": 252,
+                "2": 351
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1129
+        }
+    ]
+}

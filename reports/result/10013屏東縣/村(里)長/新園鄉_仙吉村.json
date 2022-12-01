@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡東清",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃楊麗銀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新園鄉",
+            "cunli": "仙吉村",
+            "house_no": "528",
+            "candidates": {
+                "1": 489,
+                "2": 304
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "仙吉村",
+            "house_no": "529",
+            "candidates": {
+                "1": 458,
+                "2": 379
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1235
+        }
+    ]
+}

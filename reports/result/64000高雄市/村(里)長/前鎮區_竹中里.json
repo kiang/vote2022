@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊茂榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧德玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "竹中里",
+            "house_no": "1746",
+            "candidates": {
+                "1": 398,
+                "2": 268
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1122
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "竹中里",
+            "house_no": "1747",
+            "candidates": {
+                "1": 342,
+                "2": 221
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "竹中里",
+            "house_no": "1748",
+            "candidates": {
+                "1": 359,
+                "2": 321
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1133
+        }
+    ]
+}

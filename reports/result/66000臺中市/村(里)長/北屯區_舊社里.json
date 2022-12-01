@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝秉憲",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇振輝",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "舊社里",
+            "house_no": "1170",
+            "candidates": {
+                "1": 555,
+                "2": 445
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1721
+        },
+        {
+            "area": "北屯區",
+            "cunli": "舊社里",
+            "house_no": "1171",
+            "candidates": {
+                "1": 491,
+                "2": 217
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1321
+        },
+        {
+            "area": "北屯區",
+            "cunli": "舊社里",
+            "house_no": "1172",
+            "candidates": {
+                "1": 444,
+                "2": 334
+            },
+            "count_wrong": 38,
+            "count_unused": 1,
+            "count_total": 1445
+        },
+        {
+            "area": "北屯區",
+            "cunli": "舊社里",
+            "house_no": "1173",
+            "candidates": {
+                "1": 425,
+                "2": 313
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "北屯區",
+            "cunli": "舊社里",
+            "house_no": "1174",
+            "candidates": {
+                "1": 463,
+                "2": 351
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1530
+        },
+        {
+            "area": "北屯區",
+            "cunli": "舊社里",
+            "house_no": "1175",
+            "candidates": {
+                "1": 399,
+                "2": 328
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1517
+        }
+    ]
+}

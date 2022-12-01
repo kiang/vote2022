@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周碩財",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃泰傑",
+            "party": "無"
+        },
+        "3": {
+            "name": "林筱清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "民權里",
+            "house_no": "1045",
+            "candidates": {
+                "1": 255,
+                "2": 378,
+                "3": 77
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "板橋區",
+            "cunli": "民權里",
+            "house_no": "1046",
+            "candidates": {
+                "1": 284,
+                "2": 392,
+                "3": 61
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1130
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾東龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅瑞卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義鄉",
+            "cunli": "同富村",
+            "house_no": "460",
+            "candidates": {
+                "1": 303,
+                "2": 416
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "同富村",
+            "house_no": "461",
+            "candidates": {
+                "1": 111,
+                "2": 228
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 459
+        }
+    ]
+}

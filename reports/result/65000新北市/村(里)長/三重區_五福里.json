@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李福山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "五福里",
+            "house_no": "955",
+            "candidates": {
+                "1": 412
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "三重區",
+            "cunli": "五福里",
+            "house_no": "956",
+            "candidates": {
+                "1": 380
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "三重區",
+            "cunli": "五福里",
+            "house_no": "957",
+            "candidates": {
+                "1": 584
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1373
+        }
+    ]
+}

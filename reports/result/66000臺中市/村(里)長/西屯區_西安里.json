@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴德榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐文電",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "西安里",
+            "house_no": "732",
+            "candidates": {
+                "1": 373,
+                "2": 347
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1312
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西安里",
+            "house_no": "733",
+            "candidates": {
+                "1": 382,
+                "2": 339
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1220
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西安里",
+            "house_no": "734",
+            "candidates": {
+                "1": 335,
+                "2": 384
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "西屯區",
+            "cunli": "西安里",
+            "house_no": "735",
+            "candidates": {
+                "1": 289,
+                "2": 384
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1283
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭振隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "王崑茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "安慶里",
+            "house_no": "688",
+            "candidates": {
+                "1": 398,
+                "2": 376
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "安南區",
+            "cunli": "安慶里",
+            "house_no": "689",
+            "candidates": {
+                "1": 399,
+                "2": 406
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "安南區",
+            "cunli": "安慶里",
+            "house_no": "690",
+            "candidates": {
+                "1": 329,
+                "2": 394
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "安南區",
+            "cunli": "安慶里",
+            "house_no": "691",
+            "candidates": {
+                "1": 331,
+                "2": 296
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "安南區",
+            "cunli": "安慶里",
+            "house_no": "692",
+            "candidates": {
+                "1": 325,
+                "2": 337
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1176
+        }
+    ]
+}

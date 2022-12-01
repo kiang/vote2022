@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳石南",
+            "party": "無"
+        },
+        "2": {
+            "name": "許玉華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "港埔里",
+            "house_no": "1993",
+            "candidates": {
+                "1": 361,
+                "2": 231
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "林園區",
+            "cunli": "港埔里",
+            "house_no": "1994",
+            "candidates": {
+                "1": 389,
+                "2": 162
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 826
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴鼎錩",
+            "party": "無"
+        },
+        "2": {
+            "name": "童翊娟",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張中信",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "協和里",
+            "house_no": "135",
+            "candidates": {
+                "1": 277,
+                "2": 287,
+                "3": 367
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1454
+        }
+    ]
+}

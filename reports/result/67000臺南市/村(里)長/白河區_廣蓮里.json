@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "包永松",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴俊霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "廣蓮里",
+            "house_no": "53",
+            "candidates": {
+                "1": 213,
+                "2": 180
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 591
+        },
+        {
+            "area": "白河區",
+            "cunli": "廣蓮里",
+            "house_no": "54",
+            "candidates": {
+                "1": 155,
+                "2": 419
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 803
+        }
+    ]
+}

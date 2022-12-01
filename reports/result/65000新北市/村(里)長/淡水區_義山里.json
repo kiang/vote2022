@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡依綾",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊永麗",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡瀛",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡宜芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "淡水區",
+            "cunli": "義山里",
+            "house_no": "38",
+            "candidates": {
+                "1": 217,
+                "2": 373,
+                "3": 54,
+                "4": 70
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "淡水區",
+            "cunli": "義山里",
+            "house_no": "39",
+            "candidates": {
+                "1": 163,
+                "2": 373,
+                "3": 26,
+                "4": 59
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1056
+        }
+    ]
+}

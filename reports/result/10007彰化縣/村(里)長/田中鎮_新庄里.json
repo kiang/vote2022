@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝秉儒",
+            "party": "無"
+        },
+        "2": {
+            "name": "應昌儒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "新庄里",
+            "house_no": "778",
+            "candidates": {
+                "1": 236,
+                "2": 389
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "新庄里",
+            "house_no": "779",
+            "candidates": {
+                "1": 256,
+                "2": 583
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1307
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李林耀",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫志忠",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "朱園里",
+            "house_no": "1031",
+            "candidates": {
+                "1": 530,
+                "2": 246
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "中山區",
+            "cunli": "朱園里",
+            "house_no": "1032",
+            "candidates": {
+                "1": 456,
+                "2": 261
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "中山區",
+            "cunli": "朱園里",
+            "house_no": "1033",
+            "candidates": {
+                "1": 563,
+                "2": 276
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1223
+        }
+    ]
+}

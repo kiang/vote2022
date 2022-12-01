@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李美霞",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭文進",
+            "party": "無"
+        },
+        "3": {
+            "name": "鐘國賓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "坪林區",
+            "cunli": "水德里",
+            "house_no": "2388",
+            "candidates": {
+                "1": 187,
+                "2": 141,
+                "3": 208
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 640
+        }
+    ]
+}

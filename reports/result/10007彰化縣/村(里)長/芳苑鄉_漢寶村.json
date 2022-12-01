@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭鵬豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "漢寶村",
+            "house_no": "1064",
+            "candidates": {
+                "1": 434
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 820
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "漢寶村",
+            "house_no": "1065",
+            "candidates": {
+                "1": 709
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1146
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "漢寶村",
+            "house_no": "1066",
+            "candidates": {
+                "1": 570
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1056
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王晟境",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳健成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "國昌里",
+            "house_no": "565",
+            "candidates": {
+                "1": 311,
+                "2": 339
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "國昌里",
+            "house_no": "566",
+            "candidates": {
+                "1": 255,
+                "2": 356
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "國昌里",
+            "house_no": "567",
+            "candidates": {
+                "1": 324,
+                "2": 321
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

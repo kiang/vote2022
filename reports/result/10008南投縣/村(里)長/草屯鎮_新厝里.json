@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡宏校",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳佳玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "新厝里",
+            "house_no": "176",
+            "candidates": {
+                "1": 354,
+                "2": 296
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "新厝里",
+            "house_no": "177",
+            "candidates": {
+                "1": 424,
+                "2": 438
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "新厝里",
+            "house_no": "178",
+            "candidates": {
+                "1": 324,
+                "2": 269
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 876
+        }
+    ]
+}

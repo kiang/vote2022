@@ -1,0 +1,48 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王彩華",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金塗",
+            "party": "無"
+        },
+        "3": {
+            "name": "李亞倫",
+            "party": "無"
+        },
+        "4": {
+            "name": "黎竹紅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "滿州鄉",
+            "cunli": "永靖村",
+            "house_no": "636",
+            "candidates": {
+                "1": 76,
+                "2": 261,
+                "3": 264
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 887
+        },
+        {
+            "area": "滿州鄉",
+            "cunli": "港口村",
+            "house_no": "637",
+            "candidates": {
+                "1": 202,
+                "2": 183,
+                "3": 371
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1026
+        }
+    ]
+}

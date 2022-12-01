@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪揚才",
+            "party": "無"
+        },
+        "2": {
+            "name": "何春梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "渴望里",
+            "house_no": "1277",
+            "candidates": {
+                "1": 389,
+                "2": 324
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1060
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "渴望里",
+            "house_no": "1278",
+            "candidates": {
+                "1": 301,
+                "2": 310
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 993
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭吉山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西港區",
+            "cunli": "永樂里",
+            "house_no": "361",
+            "candidates": {
+                "1": 471
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "西港區",
+            "cunli": "永樂里",
+            "house_no": "362",
+            "candidates": {
+                "1": 219
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 358
+        }
+    ]
+}

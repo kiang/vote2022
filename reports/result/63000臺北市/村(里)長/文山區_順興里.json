@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "單曉涵",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊培釧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "順興里",
+            "house_no": "1699",
+            "candidates": {
+                "1": 274,
+                "2": 430
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "文山區",
+            "cunli": "順興里",
+            "house_no": "1700",
+            "candidates": {
+                "1": 305,
+                "2": 490
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "文山區",
+            "cunli": "順興里",
+            "house_no": "1701",
+            "candidates": {
+                "1": 264,
+                "2": 547
+            },
+            "count_wrong": 35,
+            "count_unused": 1,
+            "count_total": 1203
+        },
+        {
+            "area": "文山區",
+            "cunli": "順興里",
+            "house_no": "1702",
+            "candidates": {
+                "1": 251,
+                "2": 500
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "文山區",
+            "cunli": "順興里",
+            "house_no": "1703",
+            "candidates": {
+                "1": 267,
+                "2": 665
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1332
+        }
+    ]
+}

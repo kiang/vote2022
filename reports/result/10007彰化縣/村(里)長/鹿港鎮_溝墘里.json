@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃玉樹",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪明園",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "299",
+            "candidates": {
+                "1": 238,
+                "2": 397
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "300",
+            "candidates": {
+                "1": 290,
+                "2": 444
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "301",
+            "candidates": {
+                "1": 341,
+                "2": 261
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 850
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "溝墘里",
+            "house_no": "302",
+            "candidates": {
+                "1": 312,
+                "2": 450
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1156
+        }
+    ]
+}

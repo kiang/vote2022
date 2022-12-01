@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林沛薇",
+            "party": "無"
+        },
+        "2": {
+            "name": "林華騰",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳昭俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "康壽里",
+            "house_no": "2",
+            "candidates": {
+                "1": 105,
+                "2": 160,
+                "3": 203
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 601
+        },
+        {
+            "area": "南投市",
+            "cunli": "康壽里",
+            "house_no": "3",
+            "candidates": {
+                "1": 151,
+                "2": 156,
+                "3": 175
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 716
+        }
+    ]
+}

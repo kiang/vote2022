@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴鈴珠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃淑貞",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "106",
+            "candidates": {
+                "1": 265,
+                "2": 280
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 929
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "107",
+            "candidates": {
+                "1": 288,
+                "2": 269
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "108",
+            "candidates": {
+                "1": 248,
+                "2": 282
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

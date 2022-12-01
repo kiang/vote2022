@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許瑞文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿里山鄉",
+            "cunli": "十字村",
+            "house_no": "523",
+            "candidates": {
+                "1": 110
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 225
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "十字村",
+            "house_no": "524",
+            "candidates": {
+                "1": 26
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 76
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱珍玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪文吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "仁美里",
+            "house_no": "741",
+            "candidates": {
+                "1": 353,
+                "2": 436
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1448
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁美里",
+            "house_no": "742",
+            "candidates": {
+                "1": 287,
+                "2": 279
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁美里",
+            "house_no": "743",
+            "candidates": {
+                "1": 490,
+                "2": 383
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1427
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁美里",
+            "house_no": "744",
+            "candidates": {
+                "1": 353,
+                "2": 547
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1467
+        }
+    ]
+}

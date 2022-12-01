@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳姿秀",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林明通",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "萬芳里",
+            "house_no": "1727",
+            "candidates": {
+                "1": 566,
+                "2": 302
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬芳里",
+            "house_no": "1728",
+            "candidates": {
+                "1": 532,
+                "2": 239
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬芳里",
+            "house_no": "1729",
+            "candidates": {
+                "1": 604,
+                "2": 268
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬芳里",
+            "house_no": "1730",
+            "candidates": {
+                "1": 611,
+                "2": 275
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬芳里",
+            "house_no": "1731",
+            "candidates": {
+                "1": 492,
+                "2": 253
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1209
+        }
+    ]
+}

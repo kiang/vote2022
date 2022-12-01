@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林勝立",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳政億",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡進樂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大林鎮",
+            "cunli": "中林里",
+            "house_no": "213",
+            "candidates": {
+                "1": 652,
+                "2": 155,
+                "3": 189
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1461
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林芸安",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉澄淼",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "觀音里",
+            "house_no": "1315",
+            "candidates": {
+                "1": 397,
+                "2": 478
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1324
+        },
+        {
+            "area": "觀音區",
+            "cunli": "觀音里",
+            "house_no": "1316",
+            "candidates": {
+                "1": 280,
+                "2": 437
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1369
+        }
+    ]
+}

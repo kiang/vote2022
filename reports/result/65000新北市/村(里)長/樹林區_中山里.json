@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡炎輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "中山里",
+            "house_no": "1841",
+            "candidates": {
+                "1": 777
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1479
+        },
+        {
+            "area": "樹林區",
+            "cunli": "中山里",
+            "house_no": "1842",
+            "candidates": {
+                "1": 732
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "樹林區",
+            "cunli": "中山里",
+            "house_no": "1843",
+            "candidates": {
+                "1": 813
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1712
+        }
+    ]
+}

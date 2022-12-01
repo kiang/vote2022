@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林麗華",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉金獅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "冬山鄉",
+            "cunli": "香和村",
+            "house_no": "310",
+            "candidates": {
+                "1": 265,
+                "2": 346
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "香和村",
+            "house_no": "311",
+            "candidates": {
+                "1": 294,
+                "2": 302
+            },
+            "count_wrong": 32,
+            "count_unused": 1,
+            "count_total": 1005
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "香和村",
+            "house_no": "312",
+            "candidates": {
+                "1": 180,
+                "2": 328
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 908
+        }
+    ]
+}

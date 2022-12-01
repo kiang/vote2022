@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡祥任",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭誌男",
+            "party": "無"
+        },
+        "3": {
+            "name": "王傑倫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬里區",
+            "cunli": "萬里里",
+            "house_no": "2519",
+            "candidates": {
+                "1": 127,
+                "2": 67,
+                "3": 316
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "萬里區",
+            "cunli": "萬里里",
+            "house_no": "2520",
+            "candidates": {
+                "1": 161,
+                "2": 33,
+                "3": 280
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "萬里區",
+            "cunli": "萬里里",
+            "house_no": "2521",
+            "candidates": {
+                "1": 141,
+                "2": 30,
+                "3": 317
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "萬里區",
+            "cunli": "萬里里",
+            "house_no": "2522",
+            "candidates": {
+                "1": 288,
+                "2": 57,
+                "3": 388
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1354
+        }
+    ]
+}

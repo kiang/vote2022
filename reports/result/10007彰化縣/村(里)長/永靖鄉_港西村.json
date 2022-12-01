@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳勝照",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃銀砂",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "港西村",
+            "house_no": "648",
+            "candidates": {
+                "1": 291,
+                "2": 301
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "港西村",
+            "house_no": "649",
+            "candidates": {
+                "1": 276,
+                "2": 224
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 744
+        }
+    ]
+}

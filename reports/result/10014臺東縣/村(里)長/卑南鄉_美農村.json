@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳民富",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳治東",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "美農村",
+            "house_no": "120",
+            "candidates": {
+                "1": 30,
+                "2": 90
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 196
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "美農村",
+            "house_no": "121",
+            "candidates": {
+                "1": 117,
+                "2": 166
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 449
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "美農村",
+            "house_no": "122",
+            "candidates": {
+                "1": 120,
+                "2": 118
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 351
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何信誼",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳錦灶",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "吳國禎",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新豐鄉",
+            "cunli": "員山村",
+            "house_no": "345",
+            "candidates": {
+                "1": 141,
+                "2": 186,
+                "3": 408
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1301
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "員山村",
+            "house_no": "346",
+            "candidates": {
+                "1": 204,
+                "2": 244,
+                "3": 285
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 1450
+        }
+    ]
+}

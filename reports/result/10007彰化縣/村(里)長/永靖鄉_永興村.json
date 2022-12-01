@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴同崙",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱寬重",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "永興村",
+            "house_no": "638",
+            "candidates": {
+                "1": 244,
+                "2": 226
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 689
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "永興村",
+            "house_no": "639",
+            "candidates": {
+                "1": 308,
+                "2": 260
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 793
+        }
+    ]
+}

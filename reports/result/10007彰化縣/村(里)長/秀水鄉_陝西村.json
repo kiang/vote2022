@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林棟樑",
+            "party": "無"
+        },
+        "2": {
+            "name": "林書晨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "陝西村",
+            "house_no": "358",
+            "candidates": {
+                "1": 255,
+                "2": 193
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 660
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "陝西村",
+            "house_no": "359",
+            "candidates": {
+                "1": 279,
+                "2": 162
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 725
+        }
+    ]
+}

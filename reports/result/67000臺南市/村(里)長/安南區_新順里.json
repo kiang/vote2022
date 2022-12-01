@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳賈",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊萬祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "新順里",
+            "house_no": "679",
+            "candidates": {
+                "1": 484,
+                "2": 225
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "安南區",
+            "cunli": "新順里",
+            "house_no": "680",
+            "candidates": {
+                "1": 722,
+                "2": 200
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1593
+        },
+        {
+            "area": "安南區",
+            "cunli": "新順里",
+            "house_no": "681",
+            "candidates": {
+                "1": 584,
+                "2": 179
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "安南區",
+            "cunli": "新順里",
+            "house_no": "682",
+            "candidates": {
+                "1": 404,
+                "2": 188
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "安南區",
+            "cunli": "新順里",
+            "house_no": "683",
+            "candidates": {
+                "1": 411,
+                "2": 204
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1042
+        }
+    ]
+}

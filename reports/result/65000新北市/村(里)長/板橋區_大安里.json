@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林惠英",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳勇鎬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "大安里",
+            "house_no": "1313",
+            "candidates": {
+                "1": 362,
+                "2": 336
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "板橋區",
+            "cunli": "大安里",
+            "house_no": "1314",
+            "candidates": {
+                "1": 328,
+                "2": 396
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "板橋區",
+            "cunli": "大安里",
+            "house_no": "1315",
+            "candidates": {
+                "1": 294,
+                "2": 429
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1087
+        }
+    ]
+}

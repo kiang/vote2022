@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許竣崎",
+            "party": "無"
+        },
+        "2": {
+            "name": "許日新",
+            "party": "無"
+        },
+        "3": {
+            "name": "許文濱",
+            "party": "無"
+        },
+        "4": {
+            "name": "鐘家佺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "北路里",
+            "house_no": "783",
+            "candidates": {
+                "1": 246,
+                "2": 95,
+                "3": 151,
+                "4": 123
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1036
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "北路里",
+            "house_no": "784",
+            "candidates": {
+                "1": 179,
+                "2": 157,
+                "3": 165,
+                "4": 184
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "北路里",
+            "house_no": "785",
+            "candidates": {
+                "1": 269,
+                "2": 119,
+                "3": 174,
+                "4": 115
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

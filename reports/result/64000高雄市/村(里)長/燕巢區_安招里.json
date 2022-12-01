@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金福",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓忠峯",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃清吉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "燕巢區",
+            "cunli": "安招里",
+            "house_no": "358",
+            "candidates": {
+                "1": 302,
+                "2": 169,
+                "3": 171
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "安招里",
+            "house_no": "359",
+            "candidates": {
+                "1": 303,
+                "2": 151,
+                "3": 199
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "安招里",
+            "house_no": "360",
+            "candidates": {
+                "1": 269,
+                "2": 170,
+                "3": 194
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "安招里",
+            "house_no": "361",
+            "candidates": {
+                "1": 29,
+                "2": 15,
+                "3": 53
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 204
+        }
+    ]
+}

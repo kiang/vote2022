@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游鎧銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "周進貴",
+            "party": "無"
+        },
+        "3": {
+            "name": "呂永豐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏來區",
+            "cunli": "孝義里",
+            "house_no": "2401",
+            "candidates": {
+                "1": 64,
+                "2": 49,
+                "3": 79
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 226
+        }
+    ]
+}

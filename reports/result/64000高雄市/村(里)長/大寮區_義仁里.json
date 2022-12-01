@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許明得",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "義仁里",
+            "house_no": "1932",
+            "candidates": {
+                "1": 636
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "大寮區",
+            "cunli": "義仁里",
+            "house_no": "1933",
+            "candidates": {
+                "1": 428
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 713
+        }
+    ]
+}

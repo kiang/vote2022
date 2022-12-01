@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊松源",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡陳美華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "好收里",
+            "house_no": "316",
+            "candidates": {
+                "1": 309,
+                "2": 387
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "好收里",
+            "house_no": "317",
+            "candidates": {
+                "1": 357,
+                "2": 63
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 546
+        }
+    ]
+}

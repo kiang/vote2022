@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "尤俊銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳進興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "府南里",
+            "house_no": "1217",
+            "candidates": {
+                "1": 498,
+                "2": 361
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1649
+        },
+        {
+            "area": "南區",
+            "cunli": "府南里",
+            "house_no": "1218",
+            "candidates": {
+                "1": 530,
+                "2": 301
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1475
+        },
+        {
+            "area": "南區",
+            "cunli": "府南里",
+            "house_no": "1219",
+            "candidates": {
+                "1": 553,
+                "2": 289
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1432
+        }
+    ]
+}

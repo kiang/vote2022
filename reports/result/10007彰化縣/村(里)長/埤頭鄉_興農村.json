@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許志安",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃成居",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳燕喜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "興農村",
+            "house_no": "918",
+            "candidates": {
+                "1": 42,
+                "2": 263,
+                "3": 333
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "興農村",
+            "house_no": "919",
+            "candidates": {
+                "1": 27,
+                "2": 269,
+                "3": 183
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 756
+        }
+    ]
+}

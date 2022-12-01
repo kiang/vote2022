@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何明來",
+            "party": "無"
+        },
+        "2": {
+            "name": "衛佳文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "北埔里",
+            "house_no": "132",
+            "candidates": {
+                "1": 343,
+                "2": 495
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1518
+        },
+        {
+            "area": "桃園區",
+            "cunli": "北埔里",
+            "house_no": "133",
+            "candidates": {
+                "1": 333,
+                "2": 480
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1490
+        },
+        {
+            "area": "桃園區",
+            "cunli": "北埔里",
+            "house_no": "134",
+            "candidates": {
+                "1": 473,
+                "2": 405
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1549
+        }
+    ]
+}

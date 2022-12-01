@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜世湖",
+            "party": "無"
+        },
+        "2": {
+            "name": "林慶源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "正南里",
+            "house_no": "282",
+            "candidates": {
+                "1": 566,
+                "2": 219
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1384
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "正南里",
+            "house_no": "283",
+            "candidates": {
+                "1": 477,
+                "2": 155
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1209
+        }
+    ]
+}

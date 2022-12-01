@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "巫吉清",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃冠富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "新生里",
+            "house_no": "582",
+            "candidates": {
+                "1": 544,
+                "2": 281
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1293
+        },
+        {
+            "area": "員林市",
+            "cunli": "新生里",
+            "house_no": "583",
+            "candidates": {
+                "1": 407,
+                "2": 187
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "員林市",
+            "cunli": "新生里",
+            "house_no": "584",
+            "candidates": {
+                "1": 329,
+                "2": 184
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 779
+        },
+        {
+            "area": "員林市",
+            "cunli": "新生里",
+            "house_no": "585",
+            "candidates": {
+                "1": 319,
+                "2": 191
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

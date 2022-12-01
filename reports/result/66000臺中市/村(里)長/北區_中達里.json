@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林清福",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴文進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "中達里",
+            "house_no": "1272",
+            "candidates": {
+                "1": 325,
+                "2": 450
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1286
+        },
+        {
+            "area": "北區",
+            "cunli": "中達里",
+            "house_no": "1273",
+            "candidates": {
+                "1": 301,
+                "2": 417
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1162
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林信忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "林義果",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "六結村",
+            "house_no": "224",
+            "candidates": {
+                "1": 360,
+                "2": 24
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 550
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "六結村",
+            "house_no": "225",
+            "candidates": {
+                "1": 401,
+                "2": 35
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 724
+        }
+    ]
+}

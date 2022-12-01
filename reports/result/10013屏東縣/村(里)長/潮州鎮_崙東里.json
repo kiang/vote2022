@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭山河",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳振茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "崙東里",
+            "house_no": "182",
+            "candidates": {
+                "1": 381,
+                "2": 355
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "崙東里",
+            "house_no": "183",
+            "candidates": {
+                "1": 173,
+                "2": 83
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 339
+        }
+    ]
+}

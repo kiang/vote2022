@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡長安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞芳區",
+            "cunli": "瑞濱里",
+            "house_no": "2460",
+            "candidates": {
+                "1": 327
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "瑞芳區",
+            "cunli": "瑞濱里",
+            "house_no": "2461",
+            "candidates": {
+                "1": 304
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

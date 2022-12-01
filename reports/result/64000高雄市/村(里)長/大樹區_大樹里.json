@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁清欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁源泰",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳喜傳",
+            "party": "無"
+        },
+        "4": {
+            "name": "梁瑞麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大樹區",
+            "cunli": "大樹里",
+            "house_no": "854",
+            "candidates": {
+                "1": 77,
+                "2": 278,
+                "3": 370,
+                "4": 27
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "大樹區",
+            "cunli": "大樹里",
+            "house_no": "855",
+            "candidates": {
+                "1": 80,
+                "2": 350,
+                "3": 344,
+                "4": 40
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1174
+        }
+    ]
+}

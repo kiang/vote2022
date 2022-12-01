@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁安升",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃江山",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝佩蓉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "六桂村",
+            "house_no": "388",
+            "candidates": {
+                "1": 288,
+                "2": 362,
+                "3": 123
+            },
+            "count_wrong": 25,
+            "count_unused": 2,
+            "count_total": 1097
+        }
+    ]
+}

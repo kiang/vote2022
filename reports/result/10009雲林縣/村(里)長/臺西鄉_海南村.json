@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "丁宇蓁",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳志勇",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳安全",
+            "party": "無"
+        },
+        "4": {
+            "name": "丁丞濂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "海南村",
+            "house_no": "38",
+            "candidates": {
+                "1": 114,
+                "2": 291,
+                "3": 11,
+                "4": 331
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1053
+        }
+    ]
+}

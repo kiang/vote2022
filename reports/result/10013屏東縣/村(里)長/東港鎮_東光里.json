@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳德仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾煜超",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "東光里",
+            "house_no": "195",
+            "candidates": {
+                "1": 301,
+                "2": 193
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 839
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "東光里",
+            "house_no": "196",
+            "candidates": {
+                "1": 317,
+                "2": 159
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 750
+        }
+    ]
+}

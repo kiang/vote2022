@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇宏仁",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳春美",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳永吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "幸福里",
+            "house_no": "1190",
+            "candidates": {
+                "1": 285,
+                "2": 238,
+                "3": 160
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "中正區",
+            "cunli": "幸福里",
+            "house_no": "1191",
+            "candidates": {
+                "1": 298,
+                "2": 143,
+                "3": 110
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1679
+        },
+        {
+            "area": "中正區",
+            "cunli": "幸福里",
+            "house_no": "1192",
+            "candidates": {
+                "1": 261,
+                "2": 146,
+                "3": 178
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "中正區",
+            "cunli": "幸福里",
+            "house_no": "1193",
+            "candidates": {
+                "1": 255,
+                "2": 170,
+                "3": 146
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 878
+        }
+    ]
+}

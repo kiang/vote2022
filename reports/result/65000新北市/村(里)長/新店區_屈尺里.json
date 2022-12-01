@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉宇明",
+            "party": "無"
+        },
+        "2": {
+            "name": "唐萬居",
+            "party": "無"
+        },
+        "3": {
+            "name": "林凱倫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "屈尺里",
+            "house_no": "2351",
+            "candidates": {
+                "1": 203,
+                "2": 386,
+                "3": 149
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "新店區",
+            "cunli": "屈尺里",
+            "house_no": "2352",
+            "candidates": {
+                "1": 115,
+                "2": 300,
+                "3": 255
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1106
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐文妙",
+            "party": "無"
+        },
+        "2": {
+            "name": "張桂寧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "濫坑里",
+            "house_no": "414",
+            "candidates": {
+                "1": 404,
+                "2": 260
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "頭份市",
+            "cunli": "濫坑里",
+            "house_no": "415",
+            "candidates": {
+                "1": 313,
+                "2": 387
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1069
+        }
+    ]
+}

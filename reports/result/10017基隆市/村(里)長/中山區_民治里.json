@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭秀欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃國偉",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉淑枝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "民治里",
+            "house_no": "124",
+            "candidates": {
+                "1": 117,
+                "2": 269,
+                "3": 158
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 734
+        }
+    ]
+}

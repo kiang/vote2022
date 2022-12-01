@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋燕秋",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明山",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳莉蓁",
+            "party": "無"
+        },
+        "4": {
+            "name": "朱美璉",
+            "party": "無"
+        },
+        "5": {
+            "name": "林慧如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新園鄉",
+            "cunli": "烏龍村",
+            "house_no": "540",
+            "candidates": {
+                "1": 84,
+                "2": 242,
+                "3": 60,
+                "4": 157,
+                "5": 234
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "興龍村",
+            "house_no": "541",
+            "candidates": {
+                "1": 69,
+                "2": 170,
+                "3": 116,
+                "4": 148,
+                "5": 215
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "興龍村",
+            "house_no": "542",
+            "candidates": {
+                "1": 84,
+                "2": 134,
+                "3": 94,
+                "4": 168,
+                "5": 158
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "中洲村",
+            "house_no": "543",
+            "candidates": {
+                "1": 49,
+                "2": 177,
+                "3": 81,
+                "4": 124,
+                "5": 95
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 821
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "中洲村",
+            "house_no": "544",
+            "candidates": {
+                "1": 86,
+                "2": 66,
+                "3": 78,
+                "4": 76,
+                "5": 137
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 672
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "南龍村",
+            "house_no": "545",
+            "candidates": {
+                "1": 60,
+                "2": 139,
+                "3": 102,
+                "4": 151,
+                "5": 476
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1316
+        }
+    ]
+}

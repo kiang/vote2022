@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國連",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "詹前褘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "中原里",
+            "house_no": "658",
+            "candidates": {
+                "1": 471,
+                "2": 209
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1301
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "中原里",
+            "house_no": "659",
+            "candidates": {
+                "1": 467,
+                "2": 193
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "中原里",
+            "house_no": "660",
+            "candidates": {
+                "1": 389,
+                "2": 184
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "中原里",
+            "house_no": "661",
+            "candidates": {
+                "1": 403,
+                "2": 159
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1218
+        }
+    ]
+}

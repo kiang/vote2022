@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳偉嘉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳國定",
+            "party": "無"
+        },
+        "3": {
+            "name": "張耀仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "德翠里",
+            "house_no": "1113",
+            "candidates": {
+                "1": 463,
+                "2": 110,
+                "3": 329
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1537
+        },
+        {
+            "area": "板橋區",
+            "cunli": "德翠里",
+            "house_no": "1114",
+            "candidates": {
+                "1": 412,
+                "2": 190,
+                "3": 330
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1568
+        },
+        {
+            "area": "板橋區",
+            "cunli": "德翠里",
+            "house_no": "1115",
+            "candidates": {
+                "1": 382,
+                "2": 122,
+                "3": 399
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "板橋區",
+            "cunli": "德翠里",
+            "house_no": "1116",
+            "candidates": {
+                "1": 406,
+                "2": 91,
+                "3": 433
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1429
+        }
+    ]
+}

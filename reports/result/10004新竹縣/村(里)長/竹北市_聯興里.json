@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉金海",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳威男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "聯興里",
+            "house_no": "115",
+            "candidates": {
+                "1": 246,
+                "2": 326
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1031
+        },
+        {
+            "area": "竹北市",
+            "cunli": "聯興里",
+            "house_no": "116",
+            "candidates": {
+                "1": 172,
+                "2": 326
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "竹北市",
+            "cunli": "聯興里",
+            "house_no": "117",
+            "candidates": {
+                "1": 277,
+                "2": 450
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "竹北市",
+            "cunli": "聯興里",
+            "house_no": "118",
+            "candidates": {
+                "1": 283,
+                "2": 403
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1192
+        }
+    ]
+}

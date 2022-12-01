@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾鈺琄",
+            "party": "無"
+        },
+        "2": {
+            "name": "許麗卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "竹山里",
+            "house_no": "231",
+            "candidates": {
+                "1": 477,
+                "2": 240
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "竹山里",
+            "house_no": "232",
+            "candidates": {
+                "1": 328,
+                "2": 194
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 769
+        }
+    ]
+}

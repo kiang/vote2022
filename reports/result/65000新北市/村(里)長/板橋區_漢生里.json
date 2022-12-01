@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭水文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "漢生里",
+            "house_no": "1052",
+            "candidates": {
+                "1": 566
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "板橋區",
+            "cunli": "漢生里",
+            "house_no": "1053",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "板橋區",
+            "cunli": "漢生里",
+            "house_no": "1054",
+            "candidates": {
+                "1": 599
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

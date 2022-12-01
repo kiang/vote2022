@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林何良",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃兵善",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "利澤村",
+            "house_no": "379",
+            "candidates": {
+                "1": 289,
+                "2": 184
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "利澤村",
+            "house_no": "380",
+            "candidates": {
+                "1": 417,
+                "2": 154
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1000
+        }
+    ]
+}

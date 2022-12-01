@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭明堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新市區",
+            "cunli": "新市里",
+            "house_no": "585",
+            "candidates": {
+                "1": 417
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "新市區",
+            "cunli": "新市里",
+            "house_no": "586",
+            "candidates": {
+                "1": 535
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "新市區",
+            "cunli": "新市里",
+            "house_no": "587",
+            "candidates": {
+                "1": 385
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 914
+        }
+    ]
+}

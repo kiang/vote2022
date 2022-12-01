@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃純美",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳春助",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "中庄里",
+            "house_no": "76",
+            "candidates": {
+                "1": 331,
+                "2": 193
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 983
+        },
+        {
+            "area": "東區",
+            "cunli": "中庄里",
+            "house_no": "77",
+            "candidates": {
+                "1": 418,
+                "2": 198
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1074
+        },
+        {
+            "area": "東區",
+            "cunli": "中庄里",
+            "house_no": "78",
+            "candidates": {
+                "1": 361,
+                "2": 220
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1001
+        }
+    ]
+}

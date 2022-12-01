@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明達",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃正浪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "芳和里",
+            "house_no": "1532",
+            "candidates": {
+                "1": 314,
+                "2": 480
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "大安區",
+            "cunli": "芳和里",
+            "house_no": "1533",
+            "candidates": {
+                "1": 305,
+                "2": 354
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "大安區",
+            "cunli": "芳和里",
+            "house_no": "1534",
+            "candidates": {
+                "1": 287,
+                "2": 405
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "大安區",
+            "cunli": "芳和里",
+            "house_no": "1535",
+            "candidates": {
+                "1": 338,
+                "2": 374
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1155
+        }
+    ]
+}

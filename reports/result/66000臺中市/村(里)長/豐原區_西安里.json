@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅茂榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉慶輝",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "西安里",
+            "house_no": "483",
+            "candidates": {
+                "1": 489,
+                "2": 201
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "豐原區",
+            "cunli": "西安里",
+            "house_no": "484",
+            "candidates": {
+                "1": 450,
+                "2": 246
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "豐原區",
+            "cunli": "西安里",
+            "house_no": "485",
+            "candidates": {
+                "1": 519,
+                "2": 220
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "豐原區",
+            "cunli": "西安里",
+            "house_no": "486",
+            "candidates": {
+                "1": 423,
+                "2": 278
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1142
+        }
+    ]
+}

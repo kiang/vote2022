@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文通",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "西溪里",
+            "house_no": "1995",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1027
+        },
+        {
+            "area": "林園區",
+            "cunli": "西溪里",
+            "house_no": "1996",
+            "candidates": {
+                "1": 555
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "林園區",
+            "cunli": "西溪里",
+            "house_no": "1997",
+            "candidates": {
+                "1": 665
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1225
+        }
+    ]
+}

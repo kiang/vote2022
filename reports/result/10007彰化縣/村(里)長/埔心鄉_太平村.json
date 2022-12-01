@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張祥作",
+            "party": "無"
+        },
+        "2": {
+            "name": "張先進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "太平村",
+            "house_no": "754",
+            "candidates": {
+                "1": 341,
+                "2": 268
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 932
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "太平村",
+            "house_no": "755",
+            "candidates": {
+                "1": 253,
+                "2": 356
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 985
+        }
+    ]
+}

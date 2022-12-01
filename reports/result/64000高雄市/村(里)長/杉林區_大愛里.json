@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴東山",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊明芳",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳木源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "杉林區",
+            "cunli": "大愛里",
+            "house_no": "42",
+            "candidates": {
+                "1": 283,
+                "2": 14,
+                "3": 198
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "杉林區",
+            "cunli": "大愛里",
+            "house_no": "43",
+            "candidates": {
+                "1": 229,
+                "2": 13,
+                "3": 246
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 994
+        }
+    ]
+}

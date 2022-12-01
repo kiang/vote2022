@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃建賓",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳仲民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大武鄉",
+            "cunli": "南興村",
+            "house_no": "199",
+            "candidates": {
+                "1": 272,
+                "2": 128
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 527
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "尚武村",
+            "house_no": "200",
+            "candidates": {
+                "1": 534,
+                "2": 279
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大武村",
+            "house_no": "201",
+            "candidates": {
+                "1": 467,
+                "2": 334
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大鳥村",
+            "house_no": "202",
+            "candidates": {
+                "1": 411,
+                "2": 376
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大竹村",
+            "house_no": "203",
+            "candidates": {
+                "1": 97,
+                "2": 183
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大竹村",
+            "house_no": "204",
+            "candidates": {
+                "1": 128,
+                "2": 151
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 368
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃麗芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "江黃秀銀",
+            "party": "無"
+        },
+        "3": {
+            "name": "張松可",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "許榮林",
+            "party": "無"
+        },
+        "5": {
+            "name": "林金堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "舊社村",
+            "house_no": "226",
+            "candidates": {
+                "1": 116,
+                "2": 223,
+                "3": 204,
+                "4": 84
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "舊社村",
+            "house_no": "227",
+            "candidates": {
+                "1": 104,
+                "2": 199,
+                "3": 168,
+                "4": 61
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 766
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "大埔村",
+            "house_no": "228",
+            "candidates": {
+                "1": 72,
+                "2": 153,
+                "3": 159,
+                "4": 62
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 622
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "大埔村",
+            "house_no": "229",
+            "candidates": {
+                "1": 107,
+                "2": 135,
+                "3": 202,
+                "4": 59
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 669
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "竹林村",
+            "house_no": "230",
+            "candidates": {
+                "1": 272,
+                "2": 64,
+                "3": 153,
+                "4": 144
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "竹林村",
+            "house_no": "231",
+            "candidates": {
+                "1": 241,
+                "2": 35,
+                "3": 164,
+                "4": 76
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 786
+        }
+    ]
+}

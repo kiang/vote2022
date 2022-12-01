@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張江海",
+            "party": "無"
+        },
+        "2": {
+            "name": "李文峯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崁頂鄉",
+            "cunli": "北勢村",
+            "house_no": "562",
+            "candidates": {
+                "1": 176,
+                "2": 318
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 739
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "北勢村",
+            "house_no": "563",
+            "candidates": {
+                "1": 135,
+                "2": 299
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 684
+        }
+    ]
+}

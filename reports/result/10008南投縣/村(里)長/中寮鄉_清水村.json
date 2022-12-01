@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇如輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "李春發",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃喬群",
+            "party": "無"
+        },
+        "4": {
+            "name": "魏相冠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中寮鄉",
+            "cunli": "清水村",
+            "house_no": "373",
+            "candidates": {
+                "1": 253,
+                "2": 292,
+                "3": 53,
+                "4": 53
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 831
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王美蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "侯贈寶",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃信章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "後埔里",
+            "house_no": "107",
+            "candidates": {
+                "1": 103,
+                "2": 40,
+                "3": 557,
+                "4": 63
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "後埔里",
+            "house_no": "108",
+            "candidates": {
+                "1": 85,
+                "2": 55,
+                "3": 459,
+                "4": 111
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "崙內里",
+            "house_no": "109",
+            "candidates": {
+                "1": 162,
+                "2": 173,
+                "3": 192,
+                "4": 28
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 783
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "崙內里",
+            "house_no": "110",
+            "candidates": {
+                "1": 110,
+                "2": 163,
+                "3": 134,
+                "4": 28
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 659
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "大荖里",
+            "house_no": "111",
+            "candidates": {
+                "1": 366,
+                "2": 81,
+                "3": 151,
+                "4": 35
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 833
+        }
+    ]
+}

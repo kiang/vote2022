@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張桐山",
+            "party": "無"
+        },
+        "2": {
+            "name": "許宇浩",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳秀珠",
+            "party": "無"
+        },
+        "4": {
+            "name": "許典維",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "南寮里",
+            "house_no": "273",
+            "candidates": {
+                "1": 216,
+                "2": 95,
+                "3": 147,
+                "4": 209
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "北區",
+            "cunli": "南寮里",
+            "house_no": "274",
+            "candidates": {
+                "1": 209,
+                "2": 109,
+                "3": 155,
+                "4": 163
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "北區",
+            "cunli": "南寮里",
+            "house_no": "275",
+            "candidates": {
+                "1": 168,
+                "2": 132,
+                "3": 150,
+                "4": 188
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "北區",
+            "cunli": "南寮里",
+            "house_no": "276",
+            "candidates": {
+                "1": 96,
+                "2": 87,
+                "3": 324,
+                "4": 194
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "北區",
+            "cunli": "南寮里",
+            "house_no": "277",
+            "candidates": {
+                "1": 151,
+                "2": 140,
+                "3": 143,
+                "4": 180
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

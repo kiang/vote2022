@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許慶銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖學成",
+            "party": "無"
+        },
+        "3": {
+            "name": "張真榮",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶興里",
+            "house_no": "1065",
+            "candidates": {
+                "1": 394,
+                "2": 183,
+                "3": 261
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1443
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶興里",
+            "house_no": "1066",
+            "candidates": {
+                "1": 328,
+                "2": 219,
+                "3": 281
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1512
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶興里",
+            "house_no": "1067",
+            "candidates": {
+                "1": 493,
+                "2": 92,
+                "3": 246
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1570
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶興里",
+            "house_no": "1068",
+            "candidates": {
+                "1": 425,
+                "2": 170,
+                "3": 261
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1596
+        }
+    ]
+}

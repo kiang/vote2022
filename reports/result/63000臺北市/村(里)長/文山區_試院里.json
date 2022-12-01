@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖欽銅",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "楊宗翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "試院里",
+            "house_no": "1669",
+            "candidates": {
+                "1": 399,
+                "2": 329
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1078
+        },
+        {
+            "area": "文山區",
+            "cunli": "試院里",
+            "house_no": "1670",
+            "candidates": {
+                "1": 394,
+                "2": 321
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1045
+        },
+        {
+            "area": "文山區",
+            "cunli": "試院里",
+            "house_no": "1671",
+            "candidates": {
+                "1": 421,
+                "2": 277
+            },
+            "count_wrong": 25,
+            "count_unused": 2,
+            "count_total": 1029
+        },
+        {
+            "area": "文山區",
+            "cunli": "試院里",
+            "house_no": "1672",
+            "candidates": {
+                "1": 491,
+                "2": 287
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "文山區",
+            "cunli": "試院里",
+            "house_no": "1673",
+            "candidates": {
+                "1": 453,
+                "2": 387
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

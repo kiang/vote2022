@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭紋玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱達雲",
+            "party": "無"
+        },
+        "3": {
+            "name": "王森騰",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞豐里",
+            "house_no": "1755",
+            "candidates": {
+                "1": 150,
+                "2": 279,
+                "3": 358
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞豐里",
+            "house_no": "1756",
+            "candidates": {
+                "1": 133,
+                "2": 290,
+                "3": 329
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1231
+        }
+    ]
+}

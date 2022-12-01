@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林思宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "王阮寶雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖內區",
+            "cunli": "中賢里",
+            "house_no": "181",
+            "candidates": {
+                "1": 178,
+                "2": 383
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "湖內區",
+            "cunli": "中賢里",
+            "house_no": "182",
+            "candidates": {
+                "1": 194,
+                "2": 395
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林秉融",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪崑法",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "新興里",
+            "house_no": "372",
+            "candidates": {
+                "1": 364,
+                "2": 237
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "下營區",
+            "cunli": "新興里",
+            "house_no": "373",
+            "candidates": {
+                "1": 386,
+                "2": 250
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 977
+        }
+    ]
+}

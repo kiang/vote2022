@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊文孔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "奮起里",
+            "house_no": "103",
+            "candidates": {
+                "1": 392
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 696
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "奮起里",
+            "house_no": "104",
+            "candidates": {
+                "1": 310
+            },
+            "count_wrong": 37,
+            "count_unused": 1,
+            "count_total": 518
+        }
+    ]
+}

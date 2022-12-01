@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林有財",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃有錫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "後厝里",
+            "house_no": "624",
+            "candidates": {
+                "1": 130,
+                "2": 145
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 357
+        },
+        {
+            "area": "大園區",
+            "cunli": "後厝里",
+            "house_no": "625",
+            "candidates": {
+                "1": 343,
+                "2": 183
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 652
+        }
+    ]
+}

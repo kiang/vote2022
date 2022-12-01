@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張修源",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧敦仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "三湖里",
+            "house_no": "1175",
+            "candidates": {
+                "1": 492,
+                "2": 288
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "三湖里",
+            "house_no": "1176",
+            "candidates": {
+                "1": 510,
+                "2": 410
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1445
+        }
+    ]
+}

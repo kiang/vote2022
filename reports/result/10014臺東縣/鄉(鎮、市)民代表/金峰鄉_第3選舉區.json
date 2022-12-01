@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓芯慈",
+            "party": "無"
+        },
+        "2": {
+            "name": "林光明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金峰鄉",
+            "cunli": "賓茂村",
+            "house_no": "224",
+            "candidates": {
+                "1": 127,
+                "2": 111
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 278
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "歷坵村",
+            "house_no": "225",
+            "candidates": {
+                "1": 193,
+                "2": 51
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 289
+        }
+    ]
+}

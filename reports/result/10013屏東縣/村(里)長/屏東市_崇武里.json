@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王玉林",
+            "party": "無"
+        },
+        "2": {
+            "name": "馬彥平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "崇武里",
+            "house_no": "48",
+            "candidates": {
+                "1": 183,
+                "2": 527
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇武里",
+            "house_no": "49",
+            "candidates": {
+                "1": 170,
+                "2": 585
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇武里",
+            "house_no": "50",
+            "candidates": {
+                "1": 159,
+                "2": 499
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1227
+        }
+    ]
+}

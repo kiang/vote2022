@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "史妮可",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊文柱",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "城東里",
+            "house_no": "1287",
+            "candidates": {
+                "1": 285,
+                "2": 216
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "城東里",
+            "house_no": "1288",
+            "candidates": {
+                "1": 286,
+                "2": 204
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 855
+        }
+    ]
+}

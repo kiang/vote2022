@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周明癸",
+            "party": "無"
+        },
+        "2": {
+            "name": "林東明",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳清泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "泉州村",
+            "house_no": "471",
+            "candidates": {
+                "1": 202,
+                "2": 154,
+                "3": 357
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "泉州村",
+            "house_no": "472",
+            "candidates": {
+                "1": 86,
+                "2": 78,
+                "3": 393
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 881
+        }
+    ]
+}

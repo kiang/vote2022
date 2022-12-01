@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐秀珠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "住安里",
+            "house_no": "1480",
+            "candidates": {
+                "1": 674
+            },
+            "count_wrong": 169,
+            "count_unused": 1,
+            "count_total": 1333
+        },
+        {
+            "area": "大安區",
+            "cunli": "住安里",
+            "house_no": "1481",
+            "candidates": {
+                "1": 628
+            },
+            "count_wrong": 146,
+            "count_unused": 1,
+            "count_total": 1304
+        },
+        {
+            "area": "大安區",
+            "cunli": "住安里",
+            "house_no": "1482",
+            "candidates": {
+                "1": 703
+            },
+            "count_wrong": 118,
+            "count_unused": 1,
+            "count_total": 1263
+        }
+    ]
+}

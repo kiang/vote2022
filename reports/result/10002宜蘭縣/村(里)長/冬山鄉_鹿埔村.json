@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江清祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "冬山鄉",
+            "cunli": "鹿埔村",
+            "house_no": "338",
+            "candidates": {
+                "1": 746
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "鹿埔村",
+            "house_no": "339",
+            "candidates": {
+                "1": 693
+            },
+            "count_wrong": 40,
+            "count_unused": 1,
+            "count_total": 1262
+        }
+    ]
+}

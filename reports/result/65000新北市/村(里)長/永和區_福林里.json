@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫協同",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "莊水獅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "福林里",
+            "house_no": "1618",
+            "candidates": {
+                "1": 470,
+                "2": 435
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "永和區",
+            "cunli": "福林里",
+            "house_no": "1619",
+            "candidates": {
+                "1": 458,
+                "2": 370
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1343
+        }
+    ]
+}

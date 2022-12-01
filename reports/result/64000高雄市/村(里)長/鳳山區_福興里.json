@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭陳麗珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "張世源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "福興里",
+            "house_no": "1642",
+            "candidates": {
+                "1": 287,
+                "2": 264
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "福興里",
+            "house_no": "1643",
+            "candidates": {
+                "1": 275,
+                "2": 312
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "福興里",
+            "house_no": "1644",
+            "candidates": {
+                "1": 345,
+                "2": 262
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1184
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "福興里",
+            "house_no": "1645",
+            "candidates": {
+                "1": 314,
+                "2": 313
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "福興里",
+            "house_no": "1646",
+            "candidates": {
+                "1": 269,
+                "2": 255
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

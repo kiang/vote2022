@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳清安",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡孟葦",
+            "party": "無"
+        },
+        "3": {
+            "name": "侯光飛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "忠孝里",
+            "house_no": "1275",
+            "candidates": {
+                "1": 281,
+                "2": 213,
+                "3": 60
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 954
+        },
+        {
+            "area": "東區",
+            "cunli": "忠孝里",
+            "house_no": "1276",
+            "candidates": {
+                "1": 256,
+                "2": 230,
+                "3": 64
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "東區",
+            "cunli": "忠孝里",
+            "house_no": "1277",
+            "candidates": {
+                "1": 235,
+                "2": 270,
+                "3": 60
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "東區",
+            "cunli": "忠孝里",
+            "house_no": "1278",
+            "candidates": {
+                "1": 260,
+                "2": 207,
+                "3": 97
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 969
+        }
+    ]
+}

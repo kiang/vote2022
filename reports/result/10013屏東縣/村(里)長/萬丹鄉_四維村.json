@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊世明",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡銘昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭水煙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "四維村",
+            "house_no": "272",
+            "candidates": {
+                "1": 284,
+                "2": 272,
+                "3": 70
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "四維村",
+            "house_no": "273",
+            "candidates": {
+                "1": 265,
+                "2": 405,
+                "3": 52
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1047
+        }
+    ]
+}

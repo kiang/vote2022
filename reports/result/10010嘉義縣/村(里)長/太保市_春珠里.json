@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施秀緣",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡德村",
+            "party": "無"
+        },
+        "3": {
+            "name": "李長濱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "春珠里",
+            "house_no": "10",
+            "candidates": {
+                "1": 285,
+                "2": 492,
+                "3": 18
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

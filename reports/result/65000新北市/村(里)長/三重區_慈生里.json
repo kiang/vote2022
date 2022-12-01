@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳瓊茹",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳漢嘉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "慈生里",
+            "house_no": "962",
+            "candidates": {
+                "1": 318,
+                "2": 236
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "三重區",
+            "cunli": "慈生里",
+            "house_no": "963",
+            "candidates": {
+                "1": 398,
+                "2": 220
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 958
+        }
+    ]
+}

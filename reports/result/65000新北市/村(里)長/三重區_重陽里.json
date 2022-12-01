@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳興農",
+            "party": "無"
+        },
+        "2": {
+            "name": "王秀玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "重陽里",
+            "house_no": "843",
+            "candidates": {
+                "1": 375,
+                "2": 507
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1516
+        },
+        {
+            "area": "三重區",
+            "cunli": "重陽里",
+            "house_no": "844",
+            "candidates": {
+                "1": 404,
+                "2": 395
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1450
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳麗芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳圓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "仁雅村",
+            "house_no": "826",
+            "candidates": {
+                "1": 180,
+                "2": 273
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 720
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "仁雅村",
+            "house_no": "827",
+            "candidates": {
+                "1": 332,
+                "2": 188
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "仁雅村",
+            "house_no": "828",
+            "candidates": {
+                "1": 415,
+                "2": 275
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1093
+        }
+    ]
+}

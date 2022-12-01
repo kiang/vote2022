@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪偉倫",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳永菁",
+            "party": "無"
+        },
+        "3": {
+            "name": "張耕華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "赤嵌里",
+            "house_no": "1060",
+            "candidates": {
+                "1": 198,
+                "2": 238,
+                "3": 191
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "中西區",
+            "cunli": "赤嵌里",
+            "house_no": "1061",
+            "candidates": {
+                "1": 136,
+                "2": 390,
+                "3": 140
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "中西區",
+            "cunli": "赤嵌里",
+            "house_no": "1062",
+            "candidates": {
+                "1": 167,
+                "2": 358,
+                "3": 138
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

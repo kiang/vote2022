@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅福成",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林添祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安東里",
+            "house_no": "1147",
+            "candidates": {
+                "1": 334,
+                "2": 541
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1423
+        },
+        {
+            "area": "三民區",
+            "cunli": "安東里",
+            "house_no": "1148",
+            "candidates": {
+                "1": 360,
+                "2": 514
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1435
+        }
+    ]
+}

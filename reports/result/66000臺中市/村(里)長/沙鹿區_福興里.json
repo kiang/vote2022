@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳炳同",
+            "party": "無"
+        },
+        "2": {
+            "name": "白嘉進",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔣木林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "福興里",
+            "house_no": "233",
+            "candidates": {
+                "1": 381,
+                "2": 95,
+                "3": 437
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1350
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "福興里",
+            "house_no": "234",
+            "candidates": {
+                "1": 256,
+                "2": 68,
+                "3": 379
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "福興里",
+            "house_no": "235",
+            "candidates": {
+                "1": 266,
+                "2": 150,
+                "3": 387
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1286
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李學傑",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "吳讚樓",
+            "party": "無"
+        },
+        "3": {
+            "name": "王詩文",
+            "party": "無"
+        },
+        "4": {
+            "name": "王鴻凱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "興新里",
+            "house_no": "101",
+            "candidates": {
+                "1": 139,
+                "2": 232
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 591
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "興新里",
+            "house_no": "102",
+            "candidates": {
+                "1": 164,
+                "2": 275
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 746
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "奮起里",
+            "house_no": "103",
+            "candidates": {
+                "1": 92,
+                "2": 299
+            },
+            "count_wrong": 37,
+            "count_unused": 1,
+            "count_total": 696
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "奮起里",
+            "house_no": "104",
+            "candidates": {
+                "1": 121,
+                "2": 198
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 518
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "埤腳里",
+            "house_no": "105",
+            "candidates": {
+                "1": 253,
+                "2": 148
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 657
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "埤腳里",
+            "house_no": "106",
+            "candidates": {
+                "1": 124,
+                "2": 204
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 491
+        }
+    ]
+}

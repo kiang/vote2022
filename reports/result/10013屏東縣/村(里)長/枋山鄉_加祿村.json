@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭南成",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭昌達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋山鄉",
+            "cunli": "加祿村",
+            "house_no": "643",
+            "candidates": {
+                "1": 299,
+                "2": 412
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 873
+        },
+        {
+            "area": "枋山鄉",
+            "cunli": "加祿村",
+            "house_no": "644",
+            "candidates": {
+                "1": 349,
+                "2": 440
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 935
+        }
+    ]
+}

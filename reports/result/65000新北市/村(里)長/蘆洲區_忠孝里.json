@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾進致",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐茂集",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "忠孝里",
+            "house_no": "745",
+            "candidates": {
+                "1": 250,
+                "2": 371
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "忠孝里",
+            "house_no": "746",
+            "candidates": {
+                "1": 241,
+                "2": 330
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 943
+        }
+    ]
+}

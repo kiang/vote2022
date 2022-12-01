@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉亦松",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "盧燕春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "池上鄉",
+            "cunli": "福原村",
+            "house_no": "150",
+            "candidates": {
+                "1": 339,
+                "2": 247
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 973
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "福原村",
+            "house_no": "151",
+            "candidates": {
+                "1": 338,
+                "2": 268
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 877
+        }
+    ]
+}

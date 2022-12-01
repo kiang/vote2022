@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林義萬",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大社區",
+            "cunli": "保安里",
+            "house_no": "719",
+            "candidates": {
+                "1": 443
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "大社區",
+            "cunli": "保安里",
+            "house_no": "720",
+            "candidates": {
+                "1": 489
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "大社區",
+            "cunli": "保安里",
+            "house_no": "721",
+            "candidates": {
+                "1": 475
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 999
+        }
+    ]
+}

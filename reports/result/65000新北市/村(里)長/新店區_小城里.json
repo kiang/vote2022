@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許月鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭仁澤",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "小城里",
+            "house_no": "2304",
+            "candidates": {
+                "1": 189,
+                "2": 466
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "新店區",
+            "cunli": "小城里",
+            "house_no": "2305",
+            "candidates": {
+                "1": 156,
+                "2": 496
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "新店區",
+            "cunli": "小城里",
+            "house_no": "2306",
+            "candidates": {
+                "1": 167,
+                "2": 361
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 903
+        }
+    ]
+}

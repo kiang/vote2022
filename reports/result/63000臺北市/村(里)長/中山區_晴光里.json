@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張芊卉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林姿吟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "晴光里",
+            "house_no": "929",
+            "candidates": {
+                "1": 211,
+                "2": 442
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "中山區",
+            "cunli": "晴光里",
+            "house_no": "930",
+            "candidates": {
+                "1": 202,
+                "2": 390
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "中山區",
+            "cunli": "晴光里",
+            "house_no": "931",
+            "candidates": {
+                "1": 258,
+                "2": 450
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "中山區",
+            "cunli": "晴光里",
+            "house_no": "932",
+            "candidates": {
+                "1": 215,
+                "2": 497
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

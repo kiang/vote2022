@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姜俊豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊長源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "竹圍里",
+            "house_no": "275",
+            "candidates": {
+                "1": 408,
+                "2": 566
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1488
+        },
+        {
+            "area": "朴子市",
+            "cunli": "竹圍里",
+            "house_no": "276",
+            "candidates": {
+                "1": 303,
+                "2": 478
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "朴子市",
+            "cunli": "竹圍里",
+            "house_no": "277",
+            "candidates": {
+                "1": 478,
+                "2": 485
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1441
+        }
+    ]
+}

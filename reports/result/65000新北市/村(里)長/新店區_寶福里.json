@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張季卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "林時文",
+            "party": "無"
+        },
+        "3": {
+            "name": "江淑芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "寶福里",
+            "house_no": "2234",
+            "candidates": {
+                "1": 186,
+                "2": 259,
+                "3": 303
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1272
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶福里",
+            "house_no": "2235",
+            "candidates": {
+                "1": 279,
+                "2": 178,
+                "3": 238
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶福里",
+            "house_no": "2236",
+            "candidates": {
+                "1": 88,
+                "2": 95,
+                "3": 186
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 806
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶福里",
+            "house_no": "2237",
+            "candidates": {
+                "1": 172,
+                "2": 204,
+                "3": 416
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1338
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶福里",
+            "house_no": "2238",
+            "candidates": {
+                "1": 119,
+                "2": 564,
+                "3": 217
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1393
+        }
+    ]
+}

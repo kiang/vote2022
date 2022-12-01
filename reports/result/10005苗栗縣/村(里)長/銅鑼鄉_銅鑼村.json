@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林鴻源",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧文慶",
+            "party": "無"
+        },
+        "3": {
+            "name": "李松光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "114",
+            "candidates": {
+                "1": 164,
+                "2": 154,
+                "3": 228
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "115",
+            "candidates": {
+                "1": 225,
+                "2": 172,
+                "3": 284
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "116",
+            "candidates": {
+                "1": 235,
+                "2": 164,
+                "3": 456
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "銅鑼村",
+            "house_no": "117",
+            "candidates": {
+                "1": 161,
+                "2": 196,
+                "3": 350
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

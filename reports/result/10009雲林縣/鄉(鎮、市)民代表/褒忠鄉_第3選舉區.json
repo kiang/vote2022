@@ -1,0 +1,40 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張漢村",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳良俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "有才村",
+            "house_no": "87",
+            "candidates": {
+                "1": 232,
+                "2": 116,
+                "3": 255
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "田洋村",
+            "house_no": "88",
+            "candidates": {
+                "1": 188,
+                "2": 227,
+                "3": 113
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 728
+        }
+    ]
+}

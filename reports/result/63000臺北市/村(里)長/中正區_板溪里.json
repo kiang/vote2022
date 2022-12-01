@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃國輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉佩玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "板溪里",
+            "house_no": "1240",
+            "candidates": {
+                "1": 309,
+                "2": 236
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 850
+        },
+        {
+            "area": "中正區",
+            "cunli": "板溪里",
+            "house_no": "1241",
+            "candidates": {
+                "1": 316,
+                "2": 260
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "中正區",
+            "cunli": "板溪里",
+            "house_no": "1242",
+            "candidates": {
+                "1": 417,
+                "2": 228
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 951
+        }
+    ]
+}

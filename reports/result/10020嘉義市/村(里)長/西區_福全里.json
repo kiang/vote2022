@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭建林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "福全里",
+            "house_no": "108",
+            "candidates": {
+                "1": 480
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "西區",
+            "cunli": "福全里",
+            "house_no": "109",
+            "candidates": {
+                "1": 487
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "西區",
+            "cunli": "福全里",
+            "house_no": "110",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1630
+        }
+    ]
+}

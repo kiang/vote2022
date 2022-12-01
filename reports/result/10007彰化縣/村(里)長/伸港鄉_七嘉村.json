@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯天來",
+            "party": "無"
+        },
+        "2": {
+            "name": "王淑梨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "七嘉村",
+            "house_no": "482",
+            "candidates": {
+                "1": 376,
+                "2": 235
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "七嘉村",
+            "house_no": "483",
+            "candidates": {
+                "1": 388,
+                "2": 268
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "七嘉村",
+            "house_no": "484",
+            "candidates": {
+                "1": 338,
+                "2": 260
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 981
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林基明",
+            "party": "無"
+        },
+        "2": {
+            "name": "林金玲",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建和",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡日生",
+            "party": "無"
+        },
+        "5": {
+            "name": "林文正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "豐榮村",
+            "house_no": "335",
+            "candidates": {
+                "1": 23,
+                "2": 229,
+                "3": 3,
+                "4": 227,
+                "5": 3
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "豐榮村",
+            "house_no": "336",
+            "candidates": {
+                "1": 46,
+                "2": 228,
+                "3": 41,
+                "4": 117,
+                "5": 7
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "草湖村",
+            "house_no": "337",
+            "candidates": {
+                "1": 237,
+                "2": 77,
+                "3": 8,
+                "4": 46,
+                "5": 52
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "草湖村",
+            "house_no": "338",
+            "candidates": {
+                "1": 283,
+                "2": 70,
+                "3": 3,
+                "4": 48,
+                "5": 67
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 699
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "舊庄村",
+            "house_no": "339",
+            "candidates": {
+                "1": 85,
+                "2": 286,
+                "3": 4,
+                "4": 219,
+                "5": 28
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "水尾村",
+            "house_no": "340",
+            "candidates": {
+                "1": 214,
+                "2": 257,
+                "3": 16,
+                "4": 95,
+                "5": 58
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "枋南村",
+            "house_no": "341",
+            "candidates": {
+                "1": 108,
+                "2": 227,
+                "3": 16,
+                "4": 100,
+                "5": 46
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 710
+        }
+    ]
+}

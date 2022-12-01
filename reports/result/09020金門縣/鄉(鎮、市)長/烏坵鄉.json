@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳宗龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡燕明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏坵鄉",
+            "cunli": "大坵村",
+            "house_no": "56",
+            "candidates": {
+                "1": 9,
+                "2": 60
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 272
+        },
+        {
+            "area": "烏坵鄉",
+            "cunli": "小坵村",
+            "house_no": "57",
+            "candidates": {
+                "1": 10,
+                "2": 42
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 289
+        }
+    ]
+}

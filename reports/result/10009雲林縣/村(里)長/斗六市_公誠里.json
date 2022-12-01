@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王玳琪",
+            "party": "無"
+        },
+        "2": {
+            "name": "張清徽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "公誠里",
+            "house_no": "473",
+            "candidates": {
+                "1": 293,
+                "2": 258
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "斗六市",
+            "cunli": "公誠里",
+            "house_no": "474",
+            "candidates": {
+                "1": 329,
+                "2": 366
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

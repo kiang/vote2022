@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張清水",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "佳化里",
+            "house_no": "325",
+            "candidates": {
+                "1": 551
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "佳里區",
+            "cunli": "佳化里",
+            "house_no": "326",
+            "candidates": {
+                "1": 512
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 934
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雪卿",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "王惠仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "林朱堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "順昌里",
+            "house_no": "1246",
+            "candidates": {
+                "1": 210,
+                "2": 49,
+                "3": 357
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "新興區",
+            "cunli": "順昌里",
+            "house_no": "1247",
+            "candidates": {
+                "1": 179,
+                "2": 65,
+                "3": 302
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 970
+        }
+    ]
+}

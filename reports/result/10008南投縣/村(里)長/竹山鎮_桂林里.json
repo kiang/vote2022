@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林金賓",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳玟杅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "桂林里",
+            "house_no": "243",
+            "candidates": {
+                "1": 615,
+                "2": 154
+            },
+            "count_wrong": 38,
+            "count_unused": 2,
+            "count_total": 1235
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桂林里",
+            "house_no": "244",
+            "candidates": {
+                "1": 660,
+                "2": 140
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1262
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "桂林里",
+            "house_no": "245",
+            "candidates": {
+                "1": 467,
+                "2": 127
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 994
+        }
+    ]
+}

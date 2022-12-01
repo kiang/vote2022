@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許佳霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈茂松",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "行善里",
+            "house_no": "465",
+            "candidates": {
+                "1": 534,
+                "2": 362
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "內湖區",
+            "cunli": "行善里",
+            "house_no": "466",
+            "candidates": {
+                "1": 431,
+                "2": 562
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1450
+        },
+        {
+            "area": "內湖區",
+            "cunli": "行善里",
+            "house_no": "467",
+            "candidates": {
+                "1": 452,
+                "2": 565
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1474
+        },
+        {
+            "area": "內湖區",
+            "cunli": "行善里",
+            "house_no": "468",
+            "candidates": {
+                "1": 466,
+                "2": 577
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1556
+        }
+    ]
+}

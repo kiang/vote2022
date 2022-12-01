@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜金秀",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄞永崑",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄞家乾",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄞家齊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "五魁里",
+            "house_no": "163",
+            "candidates": {
+                "1": 194,
+                "2": 86,
+                "3": 277,
+                "4": 327
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1363
+        }
+    ]
+}

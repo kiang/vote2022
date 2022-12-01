@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈源興",
+            "party": "無"
+        },
+        "2": {
+            "name": "李兆恩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新豐鄉",
+            "cunli": "瑞興村",
+            "house_no": "335",
+            "candidates": {
+                "1": 73,
+                "2": 482
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "新豐鄉",
+            "cunli": "瑞興村",
+            "house_no": "336",
+            "candidates": {
+                "1": 67,
+                "2": 335
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

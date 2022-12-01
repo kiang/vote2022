@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "董怡民",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "豐田里",
+            "house_no": "21",
+            "candidates": {
+                "1": 549
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐田里",
+            "house_no": "22",
+            "candidates": {
+                "1": 532
+            },
+            "count_wrong": 152,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐田里",
+            "house_no": "23",
+            "candidates": {
+                "1": 519
+            },
+            "count_wrong": 138,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

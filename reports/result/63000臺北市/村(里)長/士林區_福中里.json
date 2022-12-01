@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀榮鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "王德利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福中里",
+            "house_no": "201",
+            "candidates": {
+                "1": 379,
+                "2": 434
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "士林區",
+            "cunli": "福中里",
+            "house_no": "202",
+            "candidates": {
+                "1": 385,
+                "2": 474
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "士林區",
+            "cunli": "福中里",
+            "house_no": "203",
+            "candidates": {
+                "1": 366,
+                "2": 591
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "士林區",
+            "cunli": "福中里",
+            "house_no": "204",
+            "candidates": {
+                "1": 378,
+                "2": 536
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1405
+        }
+    ]
+}

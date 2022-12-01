@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊瑄品",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳姵樺",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "大有里",
+            "house_no": "209",
+            "candidates": {
+                "1": 291,
+                "2": 429,
+                "3": 50
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1483
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大有里",
+            "house_no": "210",
+            "candidates": {
+                "1": 335,
+                "2": 437,
+                "3": 34
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1495
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大有里",
+            "house_no": "211",
+            "candidates": {
+                "1": 347,
+                "2": 523,
+                "3": 47
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1593
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大有里",
+            "house_no": "212",
+            "candidates": {
+                "1": 351,
+                "2": 563,
+                "3": 31
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1618
+        }
+    ]
+}

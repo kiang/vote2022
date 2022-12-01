@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳繼全",
+            "party": "無"
+        },
+        "2": {
+            "name": "張明山",
+            "party": "無"
+        },
+        "3": {
+            "name": "李蒼岳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "平山里",
+            "house_no": "65",
+            "candidates": {
+                "1": 365,
+                "2": 267,
+                "3": 30
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "南投市",
+            "cunli": "平山里",
+            "house_no": "66",
+            "candidates": {
+                "1": 359,
+                "2": 195,
+                "3": 37
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "南投市",
+            "cunli": "平山里",
+            "house_no": "67",
+            "candidates": {
+                "1": 388,
+                "2": 247,
+                "3": 49
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "南投市",
+            "cunli": "平山里",
+            "house_no": "68",
+            "candidates": {
+                "1": 392,
+                "2": 202,
+                "3": 66
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "南投市",
+            "cunli": "平山里",
+            "house_no": "69",
+            "candidates": {
+                "1": 402,
+                "2": 230,
+                "3": 48
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1135
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡懷芝",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡建立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金湖鎮",
+            "cunli": "瓊林里",
+            "house_no": "74",
+            "candidates": {
+                "1": 370,
+                "2": 321
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1649
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "瓊林里",
+            "house_no": "75",
+            "candidates": {
+                "1": 369,
+                "2": 253
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1590
+        }
+    ]
+}

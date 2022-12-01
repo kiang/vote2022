@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡健翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "福和里",
+            "house_no": "1394",
+            "candidates": {
+                "1": 503
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "中和區",
+            "cunli": "福和里",
+            "house_no": "1395",
+            "candidates": {
+                "1": 617
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "中和區",
+            "cunli": "福和里",
+            "house_no": "1396",
+            "candidates": {
+                "1": 560
+            },
+            "count_wrong": 61,
+            "count_unused": 1,
+            "count_total": 1084
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張勻通",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘陳金桃",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "尊賢里",
+            "house_no": "62",
+            "candidates": {
+                "1": 381,
+                "2": 439
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1245
+        },
+        {
+            "area": "北投區",
+            "cunli": "尊賢里",
+            "house_no": "63",
+            "candidates": {
+                "1": 456,
+                "2": 372
+            },
+            "count_wrong": 41,
+            "count_unused": 1,
+            "count_total": 1251
+        },
+        {
+            "area": "北投區",
+            "cunli": "尊賢里",
+            "house_no": "64",
+            "candidates": {
+                "1": 429,
+                "2": 398
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1253
+        }
+    ]
+}

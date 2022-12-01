@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林明坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "李傳河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "暖暖區",
+            "cunli": "暖同里",
+            "house_no": "219",
+            "candidates": {
+                "1": 312,
+                "2": 360
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "暖同里",
+            "house_no": "220",
+            "candidates": {
+                "1": 240,
+                "2": 466
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1394
+        }
+    ]
+}

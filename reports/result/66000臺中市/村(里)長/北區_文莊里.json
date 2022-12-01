@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉継勇",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "文莊里",
+            "house_no": "1180",
+            "candidates": {
+                "1": 413
+            },
+            "count_wrong": 116,
+            "count_unused": 3,
+            "count_total": 897
+        },
+        {
+            "area": "北區",
+            "cunli": "文莊里",
+            "house_no": "1181",
+            "candidates": {
+                "1": 415
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 895
+        },
+        {
+            "area": "北區",
+            "cunli": "文莊里",
+            "house_no": "1182",
+            "candidates": {
+                "1": 745
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1287
+        }
+    ]
+}

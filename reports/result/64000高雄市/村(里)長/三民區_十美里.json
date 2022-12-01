@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡灯能",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "鐘安立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "十美里",
+            "house_no": "1176",
+            "candidates": {
+                "1": 264,
+                "2": 277
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 841
+        },
+        {
+            "area": "三民區",
+            "cunli": "十美里",
+            "house_no": "1177",
+            "candidates": {
+                "1": 257,
+                "2": 207
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 744
+        }
+    ]
+}

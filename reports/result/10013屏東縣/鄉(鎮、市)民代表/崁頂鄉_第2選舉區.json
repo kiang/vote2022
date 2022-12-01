@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡嘉榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾妙汝",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊萬福",
+            "party": "無"
+        },
+        "4": {
+            "name": "郭見東",
+            "party": "無"
+        },
+        "5": {
+            "name": "黃順發",
+            "party": "無"
+        },
+        "6": {
+            "name": "翁啓峯",
+            "party": "公民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "崁頂鄉",
+            "cunli": "力社村",
+            "house_no": "559",
+            "candidates": {
+                "1": 347,
+                "2": 319,
+                "3": 205
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "圍內村",
+            "house_no": "560",
+            "candidates": {
+                "1": 131,
+                "2": 135,
+                "3": 557
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1155
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉貴滿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王天祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "光復鄉",
+            "cunli": "西富村",
+            "house_no": "248",
+            "candidates": {
+                "1": 211,
+                "2": 90
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 447
+        },
+        {
+            "area": "光復鄉",
+            "cunli": "西富村",
+            "house_no": "249",
+            "candidates": {
+                "1": 79,
+                "2": 154
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 410
+        }
+    ]
+}

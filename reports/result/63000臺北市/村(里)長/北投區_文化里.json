@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪德芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "周世英",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "文化里",
+            "house_no": "137",
+            "candidates": {
+                "1": 334,
+                "2": 368
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "北投區",
+            "cunli": "文化里",
+            "house_no": "138",
+            "candidates": {
+                "1": 305,
+                "2": 369
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "北投區",
+            "cunli": "文化里",
+            "house_no": "139",
+            "candidates": {
+                "1": 392,
+                "2": 439
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1224
+        }
+    ]
+}

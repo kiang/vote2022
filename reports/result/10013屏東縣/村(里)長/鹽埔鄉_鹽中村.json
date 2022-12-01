@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾陳春枝",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳寶明",
+            "party": "無"
+        },
+        "3": {
+            "name": "林風旗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "鹽中村",
+            "house_no": "368",
+            "candidates": {
+                "1": 411,
+                "2": 131,
+                "3": 150
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "鹽中村",
+            "house_no": "369",
+            "candidates": {
+                "1": 458,
+                "2": 157,
+                "3": 215
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1193
+        }
+    ]
+}

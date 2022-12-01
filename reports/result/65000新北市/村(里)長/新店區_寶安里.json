@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王永",
+            "party": "統一聯盟黨"
+        },
+        "2": {
+            "name": "宋美雪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "寶安里",
+            "house_no": "2239",
+            "candidates": {
+                "1": 143,
+                "2": 506
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶安里",
+            "house_no": "2240",
+            "candidates": {
+                "1": 151,
+                "2": 441
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶安里",
+            "house_no": "2241",
+            "candidates": {
+                "1": 113,
+                "2": 491
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶安里",
+            "house_no": "2242",
+            "candidates": {
+                "1": 166,
+                "2": 490
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1165
+        }
+    ]
+}

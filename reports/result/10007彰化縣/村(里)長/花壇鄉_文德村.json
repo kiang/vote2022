@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林凱意",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴慧霞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花壇鄉",
+            "cunli": "文德村",
+            "house_no": "203",
+            "candidates": {
+                "1": 402,
+                "2": 208
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "文德村",
+            "house_no": "204",
+            "candidates": {
+                "1": 356,
+                "2": 198
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 929
+        },
+        {
+            "area": "花壇鄉",
+            "cunli": "文德村",
+            "house_no": "205",
+            "candidates": {
+                "1": 511,
+                "2": 218
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

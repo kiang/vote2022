@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "張年昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉東良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "池上鄉",
+            "cunli": "富興村",
+            "house_no": "160",
+            "candidates": {
+                "1": 65,
+                "2": 85,
+                "3": 113
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 360
+        }
+    ]
+}

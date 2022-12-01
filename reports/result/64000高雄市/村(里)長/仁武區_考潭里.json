@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳國華",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡德明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "考潭里",
+            "house_no": "748",
+            "candidates": {
+                "1": 368,
+                "2": 413
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "仁武區",
+            "cunli": "考潭里",
+            "house_no": "749",
+            "candidates": {
+                "1": 390,
+                "2": 394
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1250
+        }
+    ]
+}

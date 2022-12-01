@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳錦章",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "楊玉樹",
+            "party": "無"
+        },
+        "3": {
+            "name": "張志祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金湖鎮",
+            "cunli": "新湖里",
+            "house_no": "67",
+            "candidates": {
+                "1": 443,
+                "2": 263,
+                "3": 53
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1820
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "新湖里",
+            "house_no": "68",
+            "candidates": {
+                "1": 262,
+                "2": 253,
+                "3": 53
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1590
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "新湖里",
+            "house_no": "69",
+            "candidates": {
+                "1": 366,
+                "2": 225,
+                "3": 83
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1669
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "新湖里",
+            "house_no": "70",
+            "candidates": {
+                "1": 347,
+                "2": 221,
+                "3": 41
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1472
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "新湖里",
+            "house_no": "71",
+            "candidates": {
+                "1": 345,
+                "2": 228,
+                "3": 63
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1388
+        }
+    ]
+}

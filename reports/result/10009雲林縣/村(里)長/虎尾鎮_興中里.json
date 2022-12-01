@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡添丁",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾雲卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "興中里",
+            "house_no": "156",
+            "candidates": {
+                "1": 230,
+                "2": 344
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 795
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "興中里",
+            "house_no": "157",
+            "candidates": {
+                "1": 282,
+                "2": 277
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 787
+        }
+    ]
+}

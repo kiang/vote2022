@@ -1,0 +1,88 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾瑜娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊世彬",
+            "party": "無"
+        },
+        "3": {
+            "name": "李日栓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二崙鄉",
+            "cunli": "三和村",
+            "house_no": "348",
+            "candidates": {
+                "1": 22,
+                "2": 183,
+                "3": 20,
+                "4": 15
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 418
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "三和村",
+            "house_no": "349",
+            "candidates": {
+                "1": 46,
+                "2": 481,
+                "3": 12,
+                "4": 33
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "湳仔村",
+            "house_no": "350",
+            "candidates": {
+                "1": 210,
+                "2": 245,
+                "3": 141,
+                "4": 145
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "田尾村",
+            "house_no": "351",
+            "candidates": {
+                "1": 244,
+                "2": 51,
+                "3": 220,
+                "4": 96
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "田尾村",
+            "house_no": "352",
+            "candidates": {
+                "1": 209,
+                "2": 44,
+                "3": 128,
+                "4": 176
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 791
+        }
+    ]
+}

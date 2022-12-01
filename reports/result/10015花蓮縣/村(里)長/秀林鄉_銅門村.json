@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾賓利",
+            "party": "無"
+        },
+        "2": {
+            "name": "咪咪·阿比司 Mimi·Abis",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉清賢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "銅門村",
+            "house_no": "130",
+            "candidates": {
+                "1": 134,
+                "2": 140,
+                "3": 223
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 706
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "銅門村",
+            "house_no": "131",
+            "candidates": {
+                "1": 69,
+                "2": 38,
+                "3": 250
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 484
+        }
+    ]
+}

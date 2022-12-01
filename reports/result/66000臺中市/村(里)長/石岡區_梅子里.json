@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱明雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭光勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "石岡區",
+            "cunli": "梅子里",
+            "house_no": "1836",
+            "candidates": {
+                "1": 143,
+                "2": 298
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 647
+        },
+        {
+            "area": "石岡區",
+            "cunli": "梅子里",
+            "house_no": "1837",
+            "candidates": {
+                "1": 196,
+                "2": 494
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

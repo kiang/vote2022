@@ -1,0 +1,89 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清增",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳紹祺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南庄鄉",
+            "cunli": "東村",
+            "house_no": "425",
+            "candidates": {
+                "1": 143,
+                "2": 232,
+                "3": 57,
+                "4": 150,
+                "5": 79
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "西村",
+            "house_no": "426",
+            "candidates": {
+                "1": 151,
+                "2": 80,
+                "3": 38,
+                "4": 87,
+                "5": 32
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 536
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "南江村",
+            "house_no": "427",
+            "candidates": {
+                "1": 100,
+                "2": 91,
+                "3": 67,
+                "4": 248,
+                "5": 121
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "蓬萊村",
+            "house_no": "432",
+            "candidates": {
+                "1": 99,
+                "2": 35,
+                "3": 73,
+                "4": 32,
+                "5": 30
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 422
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "東河村",
+            "house_no": "433",
+            "candidates": {
+                "1": 24,
+                "2": 41,
+                "3": 18,
+                "4": 65,
+                "5": 17
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 270
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾嘉斌",
+            "party": "無"
+        },
+        "2": {
+            "name": "林桂蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "福隆里",
+            "house_no": "949",
+            "candidates": {
+                "1": 552,
+                "2": 172
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "三重區",
+            "cunli": "福隆里",
+            "house_no": "950",
+            "candidates": {
+                "1": 468,
+                "2": 186
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "三重區",
+            "cunli": "福隆里",
+            "house_no": "951",
+            "candidates": {
+                "1": 405,
+                "2": 275
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1202
+        }
+    ]
+}

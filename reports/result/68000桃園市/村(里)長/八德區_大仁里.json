@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張國平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大仁里",
+            "house_no": "422",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "八德區",
+            "cunli": "大仁里",
+            "house_no": "423",
+            "candidates": {
+                "1": 716
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1543
+        },
+        {
+            "area": "八德區",
+            "cunli": "大仁里",
+            "house_no": "424",
+            "candidates": {
+                "1": 604
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 1275
+        }
+    ]
+}

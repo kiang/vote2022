@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉彥祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "高世忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金峰鄉",
+            "cunli": "正興村",
+            "house_no": "222",
+            "candidates": {
+                "1": 212,
+                "2": 140,
+                "3": 25,
+                "4": 57
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 525
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "新興村",
+            "house_no": "223",
+            "candidates": {
+                "1": 16,
+                "2": 10,
+                "3": 220,
+                "4": 158
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 457
+        }
+    ]
+}

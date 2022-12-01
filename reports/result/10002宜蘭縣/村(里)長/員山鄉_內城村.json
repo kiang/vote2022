@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭頂旺",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱火金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "內城村",
+            "house_no": "285",
+            "candidates": {
+                "1": 164,
+                "2": 202
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 566
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "內城村",
+            "house_no": "286",
+            "candidates": {
+                "1": 281,
+                "2": 245
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 832
+        }
+    ]
+}

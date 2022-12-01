@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏伊鈴",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾聯家",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "自強里",
+            "house_no": "1340",
+            "candidates": {
+                "1": 353,
+                "2": 322
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "東區",
+            "cunli": "自強里",
+            "house_no": "1341",
+            "candidates": {
+                "1": 365,
+                "2": 277
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "東區",
+            "cunli": "自強里",
+            "house_no": "1342",
+            "candidates": {
+                "1": 396,
+                "2": 235
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "東區",
+            "cunli": "自強里",
+            "house_no": "1343",
+            "candidates": {
+                "1": 388,
+                "2": 245
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1231
+        }
+    ]
+}

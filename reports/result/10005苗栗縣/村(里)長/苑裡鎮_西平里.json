@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭亦翔",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭銀良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "西平里",
+            "house_no": "194",
+            "candidates": {
+                "1": 276,
+                "2": 254
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 780
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "西平里",
+            "house_no": "195",
+            "candidates": {
+                "1": 282,
+                "2": 213
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 734
+        }
+    ]
+}

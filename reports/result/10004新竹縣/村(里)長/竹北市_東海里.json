@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡瑞琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡秀蓮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "東海里",
+            "house_no": "30",
+            "candidates": {
+                "1": 322,
+                "2": 217
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 930
+        },
+        {
+            "area": "竹北市",
+            "cunli": "東海里",
+            "house_no": "31",
+            "candidates": {
+                "1": 316,
+                "2": 346
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "竹北市",
+            "cunli": "東海里",
+            "house_no": "32",
+            "candidates": {
+                "1": 316,
+                "2": 286
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 889
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳惠貞",
+            "party": "無"
+        },
+        "2": {
+            "name": "林炎生",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪進國",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡一雄",
+            "party": "無"
+        },
+        "5": {
+            "name": "洪坤富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "芳苑村",
+            "house_no": "1031",
+            "candidates": {
+                "1": 96,
+                "2": 175,
+                "3": 48,
+                "4": 61,
+                "5": 246
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 898
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秉絃",
+            "party": "無"
+        },
+        "2": {
+            "name": "林美貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "線西鄉",
+            "cunli": "頂犁村",
+            "house_no": "496",
+            "candidates": {
+                "1": 286,
+                "2": 496
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1195
+        },
+        {
+            "area": "線西鄉",
+            "cunli": "頂犁村",
+            "house_no": "497",
+            "candidates": {
+                "1": 329,
+                "2": 443
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1264
+        }
+    ]
+}

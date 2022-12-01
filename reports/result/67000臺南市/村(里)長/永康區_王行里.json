@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳丁為",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "王行里",
+            "house_no": "892",
+            "candidates": {
+                "1": 657
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "永康區",
+            "cunli": "王行里",
+            "house_no": "893",
+            "candidates": {
+                "1": 596
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1153
+        }
+    ]
+}

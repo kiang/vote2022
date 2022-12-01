@@ -1,0 +1,162 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李高明珠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳寵吉",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "潘德順",
+            "party": "無"
+        },
+        "4": {
+            "name": "林美智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太麻里鄉",
+            "cunli": "大王村",
+            "house_no": "189",
+            "candidates": {
+                "1": 83,
+                "2": 85,
+                "3": 71,
+                "4": 77
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 491
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "大王村",
+            "house_no": "190",
+            "candidates": {
+                "1": 90,
+                "2": 74,
+                "3": 89,
+                "4": 121
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 634
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "泰和村",
+            "house_no": "191",
+            "candidates": {
+                "1": 126,
+                "2": 80,
+                "3": 51,
+                "4": 86
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 534
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "泰和村",
+            "house_no": "192",
+            "candidates": {
+                "1": 125,
+                "2": 70,
+                "3": 54,
+                "4": 72
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 507
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "香蘭村",
+            "house_no": "193",
+            "candidates": {
+                "1": 92,
+                "2": 25,
+                "3": 49,
+                "4": 20
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 291
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "香蘭村",
+            "house_no": "194",
+            "candidates": {
+                "1": 28,
+                "2": 8,
+                "3": 3,
+                "4": 11
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 95
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "金崙村",
+            "house_no": "195",
+            "candidates": {
+                "1": 13,
+                "2": 43,
+                "3": 11,
+                "4": 21
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 158
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "金崙村",
+            "house_no": "196",
+            "candidates": {
+                "1": 17,
+                "2": 38,
+                "3": 27,
+                "4": 21
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 205
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "多良村",
+            "house_no": "197",
+            "candidates": {
+                "1": 1,
+                "2": 3,
+                "3": 3,
+                "4": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 16
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "多良村",
+            "house_no": "198",
+            "candidates": {
+                "1": 51,
+                "2": 20,
+                "3": 10,
+                "4": 36
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 192
+        }
+    ]
+}

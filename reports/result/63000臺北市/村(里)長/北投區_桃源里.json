@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳仲宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "王秀鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "桃源里",
+            "house_no": "147",
+            "candidates": {
+                "1": 596,
+                "2": 354
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "北投區",
+            "cunli": "桃源里",
+            "house_no": "148",
+            "candidates": {
+                "1": 505,
+                "2": 267
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1184
+        },
+        {
+            "area": "北投區",
+            "cunli": "桃源里",
+            "house_no": "149",
+            "candidates": {
+                "1": 510,
+                "2": 280
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "北投區",
+            "cunli": "桃源里",
+            "house_no": "150",
+            "candidates": {
+                "1": 538,
+                "2": 291
+            },
+            "count_wrong": 41,
+            "count_unused": 2,
+            "count_total": 1288
+        }
+    ]
+}

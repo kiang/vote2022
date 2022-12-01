@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "涂德滄",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉鴻均",
+            "party": "無"
+        },
+        "3": {
+            "name": "林文宏",
+            "party": "無"
+        },
+        "4": {
+            "name": "葉榕德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大湖鄉",
+            "cunli": "大湖村",
+            "house_no": "434",
+            "candidates": {
+                "1": 115,
+                "2": 121,
+                "3": 102,
+                "4": 100,
+                "5": 76
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "大湖村",
+            "house_no": "435",
+            "candidates": {
+                "1": 147,
+                "2": 144,
+                "3": 94,
+                "4": 108,
+                "5": 122
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 822
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "明湖村",
+            "house_no": "436",
+            "candidates": {
+                "1": 201,
+                "2": 68,
+                "3": 43,
+                "4": 36,
+                "5": 54
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 526
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "大寮村",
+            "house_no": "437",
+            "candidates": {
+                "1": 209,
+                "2": 75,
+                "3": 126,
+                "4": 300,
+                "5": 100
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1124
+        }
+    ]
+}

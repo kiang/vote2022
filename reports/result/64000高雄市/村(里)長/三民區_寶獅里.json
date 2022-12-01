@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林昆明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶獅里",
+            "house_no": "1055",
+            "candidates": {
+                "1": 487
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶獅里",
+            "house_no": "1056",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶獅里",
+            "house_no": "1057",
+            "candidates": {
+                "1": 543
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1088
+        }
+    ]
+}

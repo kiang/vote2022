@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林含芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊順富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "福元里",
+            "house_no": "367",
+            "candidates": {
+                "1": 366,
+                "2": 302
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1210
+        },
+        {
+            "area": "八德區",
+            "cunli": "福元里",
+            "house_no": "368",
+            "candidates": {
+                "1": 379,
+                "2": 355
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1409
+        },
+        {
+            "area": "八德區",
+            "cunli": "福元里",
+            "house_no": "369",
+            "candidates": {
+                "1": 401,
+                "2": 341
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1335
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡順豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文彬",
+            "party": "無"
+        },
+        "3": {
+            "name": "李宗諭",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "林丁貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "翁園里",
+            "house_no": "1912",
+            "candidates": {
+                "1": 196,
+                "2": 157,
+                "3": 177,
+                "4": 248
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "大寮區",
+            "cunli": "翁園里",
+            "house_no": "1913",
+            "candidates": {
+                "1": 396,
+                "2": 64,
+                "3": 267,
+                "4": 164
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "大寮區",
+            "cunli": "翁園里",
+            "house_no": "1914",
+            "candidates": {
+                "1": 341,
+                "2": 71,
+                "3": 185,
+                "4": 202
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1231
+        }
+    ]
+}

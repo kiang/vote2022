@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭成果",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳國球",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "興隆村",
+            "house_no": "127",
+            "candidates": {
+                "1": 161,
+                "2": 225
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 515
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "盛隆村",
+            "house_no": "128",
+            "candidates": {
+                "1": 168,
+                "2": 150
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 400
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "新隆村",
+            "house_no": "129",
+            "candidates": {
+                "1": 173,
+                "2": 231
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 505
+        }
+    ]
+}

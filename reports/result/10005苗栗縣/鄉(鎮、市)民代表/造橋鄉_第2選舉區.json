@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊金蓮",
+            "party": "無"
+        },
+        "2": {
+            "name": "林鳳珠",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃萬福",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳有凌",
+            "party": "無"
+        },
+        "5": {
+            "name": "黃文昌",
+            "party": "無"
+        },
+        "6": {
+            "name": "張梅蘭",
+            "party": "共和黨"
+        },
+        "7": {
+            "name": "廖義勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "造橋鄉",
+            "cunli": "平興村",
+            "house_no": "267",
+            "candidates": {
+                "1": 242
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 408
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "豐湖村",
+            "house_no": "268",
+            "candidates": {
+                "1": 598
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 916
+        }
+    ]
+}

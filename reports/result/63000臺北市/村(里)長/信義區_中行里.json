@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃銓政",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林美君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "中行里",
+            "house_no": "822",
+            "candidates": {
+                "1": 238,
+                "2": 356
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "信義區",
+            "cunli": "中行里",
+            "house_no": "823",
+            "candidates": {
+                "1": 243,
+                "2": 462
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "信義區",
+            "cunli": "中行里",
+            "house_no": "824",
+            "candidates": {
+                "1": 255,
+                "2": 334
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "信義區",
+            "cunli": "中行里",
+            "house_no": "825",
+            "candidates": {
+                "1": 247,
+                "2": 389
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "信義區",
+            "cunli": "中行里",
+            "house_no": "826",
+            "candidates": {
+                "1": 327,
+                "2": 427
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "信義區",
+            "cunli": "中行里",
+            "house_no": "827",
+            "candidates": {
+                "1": 306,
+                "2": 445
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1175
+        }
+    ]
+}

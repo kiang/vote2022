@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉美完",
+            "party": "無"
+        },
+        "2": {
+            "name": "張清龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "大眉里",
+            "house_no": "127",
+            "candidates": {
+                "1": 206,
+                "2": 313
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "竹北市",
+            "cunli": "大眉里",
+            "house_no": "128",
+            "candidates": {
+                "1": 110,
+                "2": 298
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 776
+        }
+    ]
+}

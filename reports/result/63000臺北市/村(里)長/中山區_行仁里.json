@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李珮琬",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳德賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "行仁里",
+            "house_no": "986",
+            "candidates": {
+                "1": 335,
+                "2": 487
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "中山區",
+            "cunli": "行仁里",
+            "house_no": "987",
+            "candidates": {
+                "1": 406,
+                "2": 571
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1482
+        },
+        {
+            "area": "中山區",
+            "cunli": "行仁里",
+            "house_no": "988",
+            "candidates": {
+                "1": 361,
+                "2": 429
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "中山區",
+            "cunli": "行仁里",
+            "house_no": "989",
+            "candidates": {
+                "1": 303,
+                "2": 502
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "中山區",
+            "cunli": "行仁里",
+            "house_no": "990",
+            "candidates": {
+                "1": 291,
+                "2": 512
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

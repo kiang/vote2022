@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡祥坤",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "周偉義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "東門里",
+            "house_no": "1",
+            "candidates": {
+                "1": 212,
+                "2": 349
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1339
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "東門里",
+            "house_no": "2",
+            "candidates": {
+                "1": 332,
+                "2": 407
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1673
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "東門里",
+            "house_no": "3",
+            "candidates": {
+                "1": 338,
+                "2": 382
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1672
+        }
+    ]
+}

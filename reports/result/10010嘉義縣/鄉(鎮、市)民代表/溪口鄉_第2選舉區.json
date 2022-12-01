@@ -1,0 +1,158 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王春森",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡錦雯",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳世舟",
+            "party": "無"
+        },
+        "4": {
+            "name": "邱翠雲",
+            "party": "無"
+        },
+        "5": {
+            "name": "何振達",
+            "party": "無"
+        },
+        "6": {
+            "name": "賴俊吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪口鄉",
+            "cunli": "柴林村",
+            "house_no": "230",
+            "candidates": {
+                "1": 179,
+                "2": 75,
+                "3": 116,
+                "4": 25,
+                "5": 72,
+                "6": 27
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 727
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "林腳村",
+            "house_no": "231",
+            "candidates": {
+                "1": 101,
+                "2": 60,
+                "3": 111,
+                "4": 53,
+                "5": 83,
+                "6": 36
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "美南村",
+            "house_no": "232",
+            "candidates": {
+                "1": 14,
+                "2": 104,
+                "3": 24,
+                "4": 73,
+                "5": 203,
+                "6": 299
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "美北村",
+            "house_no": "233",
+            "candidates": {
+                "1": 21,
+                "2": 57,
+                "3": 26,
+                "4": 47,
+                "5": 164,
+                "6": 294
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "本厝村",
+            "house_no": "234",
+            "candidates": {
+                "1": 6,
+                "2": 210,
+                "3": 33,
+                "4": 16,
+                "5": 26,
+                "6": 40
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 514
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "本厝村",
+            "house_no": "235",
+            "candidates": {
+                "1": 9,
+                "2": 121,
+                "3": 8,
+                "4": 21,
+                "5": 23,
+                "6": 23
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 347
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "游西村",
+            "house_no": "236",
+            "candidates": {
+                "1": 16,
+                "2": 34,
+                "3": 50,
+                "4": 177,
+                "5": 95,
+                "6": 18
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 629
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "游東村",
+            "house_no": "237",
+            "candidates": {
+                "1": 6,
+                "2": 58,
+                "3": 34,
+                "4": 327,
+                "5": 69,
+                "6": 61
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 913
+        }
+    ]
+}

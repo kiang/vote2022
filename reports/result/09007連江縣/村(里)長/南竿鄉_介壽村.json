@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳春開",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳美貴",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南竿鄉",
+            "cunli": "介壽村",
+            "house_no": "1",
+            "candidates": {
+                "1": 245,
+                "2": 449
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "南竿鄉",
+            "cunli": "介壽村",
+            "house_no": "2",
+            "candidates": {
+                "1": 263,
+                "2": 381
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 900
+        }
+    ]
+}

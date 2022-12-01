@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游欽誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉欣怡",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳元彪",
+            "party": "無"
+        },
+        "4": {
+            "name": "高詠恩",
+            "party": "無"
+        },
+        "5": {
+            "name": "彭雅各",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳立達 Laysa·Taymu",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五峰鄉",
+            "cunli": "花園村",
+            "house_no": "462",
+            "candidates": {
+                "1": 116,
+                "2": 53,
+                "3": 44,
+                "4": 58,
+                "5": 192,
+                "6": 107
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 708
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "竹林村",
+            "house_no": "463",
+            "candidates": {
+                "1": 21,
+                "2": 93,
+                "3": 87,
+                "4": 5,
+                "5": 40,
+                "6": 40
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 359
+        }
+    ]
+}

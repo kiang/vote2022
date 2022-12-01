@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊恭勤",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金沙鎮",
+            "cunli": "官嶼里",
+            "house_no": "85",
+            "candidates": {
+                "1": 371
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "金沙鎮",
+            "cunli": "官嶼里",
+            "house_no": "86",
+            "candidates": {
+                "1": 264
+            },
+            "count_wrong": 55,
+            "count_unused": 1,
+            "count_total": 949
+        }
+    ]
+}

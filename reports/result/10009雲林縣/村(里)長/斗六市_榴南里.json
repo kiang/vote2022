@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "何錦龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "榴南里",
+            "house_no": "520",
+            "candidates": {
+                "1": 252,
+                "2": 356
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "斗六市",
+            "cunli": "榴南里",
+            "house_no": "521",
+            "candidates": {
+                "1": 306,
+                "2": 450
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1209
+        }
+    ]
+}

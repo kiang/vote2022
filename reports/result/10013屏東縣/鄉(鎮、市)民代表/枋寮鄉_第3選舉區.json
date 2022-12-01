@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林輝星",
+            "party": "無"
+        },
+        "2": {
+            "name": "林鳳春",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭海彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "東海村",
+            "house_no": "520",
+            "candidates": {
+                "1": 291,
+                "2": 172,
+                "3": 173
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "東海村",
+            "house_no": "521",
+            "candidates": {
+                "1": 246,
+                "2": 163,
+                "3": 126
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 756
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "東海村",
+            "house_no": "522",
+            "candidates": {
+                "1": 264,
+                "2": 149,
+                "3": 178
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "大庄村",
+            "house_no": "523",
+            "candidates": {
+                "1": 143,
+                "2": 118,
+                "3": 95
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 585
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "太源村",
+            "house_no": "524",
+            "candidates": {
+                "1": 296,
+                "2": 224,
+                "3": 82
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "玉泉村",
+            "house_no": "525",
+            "candidates": {
+                "1": 91,
+                "2": 96,
+                "3": 79
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 387
+        }
+    ]
+}

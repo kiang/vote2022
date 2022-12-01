@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂國維",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "朝陽里",
+            "house_no": "1061",
+            "candidates": {
+                "1": 679
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "大同區",
+            "cunli": "朝陽里",
+            "house_no": "1062",
+            "candidates": {
+                "1": 686
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "大同區",
+            "cunli": "朝陽里",
+            "house_no": "1063",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 1158
+        }
+    ]
+}

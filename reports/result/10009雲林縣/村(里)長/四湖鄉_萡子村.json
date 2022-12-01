@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡裕福",
+            "party": "無"
+        },
+        "2": {
+            "name": "駱鳳蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡龍湶",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡茂源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "萡子村",
+            "house_no": "195",
+            "candidates": {
+                "1": 81,
+                "2": 332,
+                "3": 22,
+                "4": 128
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 841
+        }
+    ]
+}

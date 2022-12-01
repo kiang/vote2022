@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡昭輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡信良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "新庄村",
+            "house_no": "255",
+            "candidates": {
+                "1": 274,
+                "2": 555
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1141
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "新庄村",
+            "house_no": "256",
+            "candidates": {
+                "1": 219,
+                "2": 413
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 876
+        }
+    ]
+}

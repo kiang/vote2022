@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉得全",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭蓮金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "林森里",
+            "house_no": "867",
+            "candidates": {
+                "1": 386,
+                "2": 434
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "中壢區",
+            "cunli": "林森里",
+            "house_no": "868",
+            "candidates": {
+                "1": 371,
+                "2": 342
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "中壢區",
+            "cunli": "林森里",
+            "house_no": "869",
+            "candidates": {
+                "1": 342,
+                "2": 471
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1219
+        }
+    ]
+}

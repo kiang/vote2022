@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游輝鐘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "大坑里",
+            "house_no": "264",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大坑里",
+            "house_no": "265",
+            "candidates": {
+                "1": 472
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 949
+        }
+    ]
+}

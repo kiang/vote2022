@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅麗珍",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "鐘政義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "中央里",
+            "house_no": "533",
+            "candidates": {
+                "1": 245,
+                "2": 478
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "員林市",
+            "cunli": "中央里",
+            "house_no": "534",
+            "candidates": {
+                "1": 214,
+                "2": 338
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 844
+        }
+    ]
+}

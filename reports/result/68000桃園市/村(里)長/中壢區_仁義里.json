@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張正忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "仁義里",
+            "house_no": "772",
+            "candidates": {
+                "1": 558
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁義里",
+            "house_no": "773",
+            "candidates": {
+                "1": 682
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "中壢區",
+            "cunli": "仁義里",
+            "house_no": "774",
+            "candidates": {
+                "1": 654
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

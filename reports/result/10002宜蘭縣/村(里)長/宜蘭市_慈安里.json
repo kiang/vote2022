@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林再添",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹日宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "慈安里",
+            "house_no": "61",
+            "candidates": {
+                "1": 157,
+                "2": 288
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "慈安里",
+            "house_no": "62",
+            "candidates": {
+                "1": 142,
+                "2": 322
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 850
+        }
+    ]
+}

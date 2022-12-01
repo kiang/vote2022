@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王彥巽",
+            "party": "無"
+        },
+        "2": {
+            "name": "林太源",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇鎮芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "下埔里",
+            "house_no": "209",
+            "candidates": {
+                "1": 83,
+                "2": 294,
+                "3": 290
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 880
+        }
+    ]
+}

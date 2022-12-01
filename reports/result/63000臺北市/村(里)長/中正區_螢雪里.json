@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文質",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張邱佳玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "螢雪里",
+            "house_no": "1247",
+            "candidates": {
+                "1": 455,
+                "2": 344
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "中正區",
+            "cunli": "螢雪里",
+            "house_no": "1248",
+            "candidates": {
+                "1": 366,
+                "2": 317
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "中正區",
+            "cunli": "螢雪里",
+            "house_no": "1249",
+            "candidates": {
+                "1": 483,
+                "2": 280
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

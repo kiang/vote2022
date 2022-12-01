@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅時松",
+            "party": "無"
+        },
+        "2": {
+            "name": "林煒育",
+            "party": "無"
+        },
+        "3": {
+            "name": "張玉鳳",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳家榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "勝興村",
+            "house_no": "134",
+            "candidates": {
+                "1": 189,
+                "2": 172,
+                "3": 227,
+                "4": 66
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "勝興村",
+            "house_no": "135",
+            "candidates": {
+                "1": 199,
+                "2": 214,
+                "3": 140,
+                "4": 147
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "勝興村",
+            "house_no": "136",
+            "candidates": {
+                "1": 212,
+                "2": 183,
+                "3": 146,
+                "4": 213
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "龍騰村",
+            "house_no": "143",
+            "candidates": {
+                "1": 103,
+                "2": 97,
+                "3": 63,
+                "4": 59
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 394
+        }
+    ]
+}

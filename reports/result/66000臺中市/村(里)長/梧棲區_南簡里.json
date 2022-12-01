@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡佳君",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡榮華",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭正忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梧棲區",
+            "cunli": "南簡里",
+            "house_no": "175",
+            "candidates": {
+                "1": 523,
+                "2": 284,
+                "3": 71
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "南簡里",
+            "house_no": "176",
+            "candidates": {
+                "1": 431,
+                "2": 250,
+                "3": 114
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "南簡里",
+            "house_no": "177",
+            "candidates": {
+                "1": 467,
+                "2": 218,
+                "3": 78
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "梧棲區",
+            "cunli": "南簡里",
+            "house_no": "178",
+            "candidates": {
+                "1": 507,
+                "2": 268,
+                "3": 130
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1462
+        }
+    ]
+}

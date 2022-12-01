@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉嘉茵",
+            "party": "無"
+        },
+        "2": {
+            "name": "邵美惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃仲霖",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶泰里",
+            "house_no": "1062",
+            "candidates": {
+                "1": 141,
+                "2": 208,
+                "3": 283
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶泰里",
+            "house_no": "1063",
+            "candidates": {
+                "1": 96,
+                "2": 209,
+                "3": 296
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶泰里",
+            "house_no": "1064",
+            "candidates": {
+                "1": 148,
+                "2": 162,
+                "3": 311
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

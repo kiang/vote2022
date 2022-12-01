@@ -1,0 +1,97 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳延瑜",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宏志",
+            "party": "無"
+        },
+        "3": {
+            "name": "施長川",
+            "party": "無"
+        },
+        "4": {
+            "name": "張美純",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "竹田鄉",
+            "cunli": "南勢村",
+            "house_no": "480",
+            "candidates": {
+                "1": 65,
+                "2": 204,
+                "3": 5,
+                "4": 43,
+                "5": 47
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 445
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "西勢村",
+            "house_no": "481",
+            "candidates": {
+                "1": 255,
+                "2": 176,
+                "3": 79,
+                "4": 147,
+                "5": 130
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "西勢村",
+            "house_no": "482",
+            "candidates": {
+                "1": 271,
+                "2": 144,
+                "3": 59,
+                "4": 113,
+                "5": 159
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "福田村",
+            "house_no": "483",
+            "candidates": {
+                "1": 88,
+                "2": 80,
+                "3": 7,
+                "4": 184,
+                "5": 13
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 454
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "永豐村",
+            "house_no": "484",
+            "candidates": {
+                "1": 109,
+                "2": 104,
+                "3": 13,
+                "4": 77,
+                "5": 186
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 821
+        }
+    ]
+}

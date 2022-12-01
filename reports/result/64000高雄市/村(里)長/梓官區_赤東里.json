@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高再傳",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "郭錦成",
+            "party": "無"
+        },
+        "3": {
+            "name": "李福明",
+            "party": "無"
+        },
+        "4": {
+            "name": "王紹銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "赤東里",
+            "house_no": "413",
+            "candidates": {
+                "1": 22,
+                "2": 508,
+                "3": 117,
+                "4": 190
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "梓官區",
+            "cunli": "赤東里",
+            "house_no": "414",
+            "candidates": {
+                "1": 24,
+                "2": 271,
+                "3": 93,
+                "4": 191
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 892
+        }
+    ]
+}

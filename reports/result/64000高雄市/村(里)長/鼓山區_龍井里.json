@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳景山",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡淑貞",
+            "party": "無"
+        },
+        "3": {
+            "name": "周明吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鼓山區",
+            "cunli": "龍井里",
+            "house_no": "880",
+            "candidates": {
+                "1": 49,
+                "2": 283,
+                "3": 418
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1141
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊朝全",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪源龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "李茂雄",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "九芎里",
+            "house_no": "651",
+            "candidates": {
+                "1": 172,
+                "2": 229,
+                "3": 406
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1531
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "九芎里",
+            "house_no": "652",
+            "candidates": {
+                "1": 146,
+                "2": 248,
+                "3": 430
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1537
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "九芎里",
+            "house_no": "653",
+            "candidates": {
+                "1": 213,
+                "2": 192,
+                "3": 398
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1561
+        }
+    ]
+}

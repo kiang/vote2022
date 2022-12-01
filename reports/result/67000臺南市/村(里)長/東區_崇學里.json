@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳長提",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "崇學里",
+            "house_no": "1261",
+            "candidates": {
+                "1": 421
+            },
+            "count_wrong": 97,
+            "count_unused": 1,
+            "count_total": 863
+        },
+        {
+            "area": "東區",
+            "cunli": "崇學里",
+            "house_no": "1262",
+            "candidates": {
+                "1": 429
+            },
+            "count_wrong": 98,
+            "count_unused": 0,
+            "count_total": 897
+        },
+        {
+            "area": "東區",
+            "cunli": "崇學里",
+            "house_no": "1263",
+            "candidates": {
+                "1": 396
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 916
+        }
+    ]
+}

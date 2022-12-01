@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李鴻志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "順德里",
+            "house_no": "900",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "三重區",
+            "cunli": "順德里",
+            "house_no": "901",
+            "candidates": {
+                "1": 439
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 872
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉隆詳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "過溝里",
+            "house_no": "27",
+            "candidates": {
+                "1": 418,
+                "2": 294
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "太保市",
+            "cunli": "過溝里",
+            "house_no": "28",
+            "candidates": {
+                "1": 262,
+                "2": 233
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 801
+        },
+        {
+            "area": "太保市",
+            "cunli": "過溝里",
+            "house_no": "29",
+            "candidates": {
+                "1": 339,
+                "2": 260
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "太保市",
+            "cunli": "過溝里",
+            "house_no": "30",
+            "candidates": {
+                "1": 257,
+                "2": 148
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 592
+        }
+    ]
+}

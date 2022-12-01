@@ -1,0 +1,41 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃世銀",
+            "party": "無"
+        },
+        "2": {
+            "name": "房紹堂",
+            "party": "無"
+        },
+        "3": {
+            "name": "豆思慧",
+            "party": "無"
+        },
+        "4": {
+            "name": "彭慶華",
+            "party": "無"
+        },
+        "5": {
+            "name": "黃文興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "獅潭鄉",
+            "cunli": "百壽村",
+            "house_no": "449",
+            "candidates": {
+                "1": 99,
+                "2": 68,
+                "3": 42,
+                "4": 25,
+                "5": 29
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 314
+        }
+    ]
+}

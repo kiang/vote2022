@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志宏",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "蔡博智",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡志偉",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳燕霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "五王里",
+            "house_no": "803",
+            "candidates": {
+                "1": 202,
+                "2": 188,
+                "3": 88,
+                "4": 257
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "永康區",
+            "cunli": "五王里",
+            "house_no": "804",
+            "candidates": {
+                "1": 292,
+                "2": 214,
+                "3": 54,
+                "4": 141
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "永康區",
+            "cunli": "五王里",
+            "house_no": "805",
+            "candidates": {
+                "1": 267,
+                "2": 214,
+                "3": 109,
+                "4": 172
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1361
+        },
+        {
+            "area": "永康區",
+            "cunli": "五王里",
+            "house_no": "806",
+            "candidates": {
+                "1": 230,
+                "2": 133,
+                "3": 93,
+                "4": 192
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1383
+        }
+    ]
+}

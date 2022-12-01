@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯錦德",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳雨澤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "左營區",
+            "cunli": "尾北里",
+            "house_no": "599",
+            "candidates": {
+                "1": 603,
+                "2": 250
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1419
+        },
+        {
+            "area": "左營區",
+            "cunli": "尾北里",
+            "house_no": "600",
+            "candidates": {
+                "1": 634,
+                "2": 280
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1667
+        }
+    ]
+}

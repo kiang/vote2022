@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳盛隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳瑞勲",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳總敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "番婆里",
+            "house_no": "703",
+            "candidates": {
+                "1": 242,
+                "2": 178,
+                "3": 224
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "番婆里",
+            "house_no": "704",
+            "candidates": {
+                "1": 145,
+                "2": 131,
+                "3": 210
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 767
+        }
+    ]
+}

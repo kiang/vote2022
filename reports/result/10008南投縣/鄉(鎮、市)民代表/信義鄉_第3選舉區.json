@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "全得民",
+            "party": "無"
+        },
+        "2": {
+            "name": "幸金龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "松東隆",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "谷明耀",
+            "party": "無"
+        },
+        "5": {
+            "name": "金馬嵐Balang．Nangavulan",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義鄉",
+            "cunli": "同富村",
+            "house_no": "460",
+            "candidates": {
+                "1": 16,
+                "2": 300,
+                "3": 288,
+                "4": 122
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "同富村",
+            "house_no": "461",
+            "candidates": {
+                "1": 2,
+                "2": 185,
+                "3": 80,
+                "4": 80
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 459
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "神木村",
+            "house_no": "462",
+            "candidates": {
+                "1": 5,
+                "2": 171,
+                "3": 88,
+                "4": 82
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 462
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "神木村",
+            "house_no": "463",
+            "candidates": {
+                "1": 0,
+                "2": 76,
+                "3": 26,
+                "4": 2
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 138
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "東埔村",
+            "house_no": "464",
+            "candidates": {
+                "1": 324,
+                "2": 131,
+                "3": 90,
+                "4": 155
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

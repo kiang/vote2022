@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳慶輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林美惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞豐村",
+            "house_no": "148",
+            "candidates": {
+                "1": 150,
+                "2": 108
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 392
+        },
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞豐村",
+            "house_no": "149",
+            "candidates": {
+                "1": 82,
+                "2": 229
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 433
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳坤龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "施瑞權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔鹽鄉",
+            "cunli": "埔鹽村",
+            "house_no": "708",
+            "candidates": {
+                "1": 291,
+                "2": 328
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 870
+        },
+        {
+            "area": "埔鹽鄉",
+            "cunli": "埔鹽村",
+            "house_no": "709",
+            "candidates": {
+                "1": 190,
+                "2": 296
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 729
+        }
+    ]
+}

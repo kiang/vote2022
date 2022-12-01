@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾皇亭",
+            "party": "無"
+        },
+        "2": {
+            "name": "方信智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "中心里",
+            "house_no": "19",
+            "candidates": {
+                "1": 247,
+                "2": 204
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "臺東市",
+            "cunli": "中心里",
+            "house_no": "20",
+            "candidates": {
+                "1": 367,
+                "2": 232
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "臺東市",
+            "cunli": "中心里",
+            "house_no": "21",
+            "candidates": {
+                "1": 353,
+                "2": 237
+            },
+            "count_wrong": 17,
+            "count_unused": 3,
+            "count_total": 972
+        }
+    ]
+}

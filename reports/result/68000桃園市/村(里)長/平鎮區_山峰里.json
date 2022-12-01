@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾毓海",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳進宏",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "山峰里",
+            "house_no": "986",
+            "candidates": {
+                "1": 293,
+                "2": 330
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "山峰里",
+            "house_no": "987",
+            "candidates": {
+                "1": 393,
+                "2": 353
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1130
+        }
+    ]
+}

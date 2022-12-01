@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明松",
+            "party": "無"
+        },
+        "2": {
+            "name": "張清和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "福安里",
+            "house_no": "848",
+            "candidates": {
+                "1": 421,
+                "2": 432
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1423
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福安里",
+            "house_no": "849",
+            "candidates": {
+                "1": 332,
+                "2": 499
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1429
+        }
+    ]
+}

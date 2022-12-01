@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃發達",
+            "party": "無"
+        },
+        "2": {
+            "name": "林均鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "華江里",
+            "house_no": "1077",
+            "candidates": {
+                "1": 575,
+                "2": 257
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1476
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華江里",
+            "house_no": "1078",
+            "candidates": {
+                "1": 521,
+                "2": 190
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1210
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華江里",
+            "house_no": "1079",
+            "candidates": {
+                "1": 630,
+                "2": 295
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1596
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華江里",
+            "house_no": "1080",
+            "candidates": {
+                "1": 611,
+                "2": 177
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1467
+        }
+    ]
+}

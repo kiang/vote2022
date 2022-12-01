@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴育楣",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭存修",
+            "party": "無"
+        },
+        "3": {
+            "name": "翁嘉壕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "清水村",
+            "house_no": "832",
+            "candidates": {
+                "1": 423,
+                "2": 445
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1212
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "山湖村",
+            "house_no": "833",
+            "candidates": {
+                "1": 369,
+                "2": 303
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "埤斗村",
+            "house_no": "834",
+            "candidates": {
+                "1": 400,
+                "2": 277
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 934
+        }
+    ]
+}

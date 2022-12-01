@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈育濃",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊里慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "龍埔里",
+            "house_no": "837",
+            "candidates": {
+                "1": 421,
+                "2": 172
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "永康區",
+            "cunli": "龍埔里",
+            "house_no": "838",
+            "candidates": {
+                "1": 558,
+                "2": 155
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "永康區",
+            "cunli": "龍埔里",
+            "house_no": "839",
+            "candidates": {
+                "1": 577,
+                "2": 169
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1346
+        }
+    ]
+}

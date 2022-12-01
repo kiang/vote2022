@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張榮華",
+            "party": "無"
+        },
+        "2": {
+            "name": "許育章",
+            "party": "無"
+        },
+        "3": {
+            "name": "呂佳穎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埕區",
+            "cunli": "慈愛里",
+            "house_no": "946",
+            "candidates": {
+                "1": 46,
+                "2": 25,
+                "3": 166
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 317
+        }
+    ]
+}

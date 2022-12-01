@@ -1,0 +1,108 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林明聰",
+            "party": "無"
+        },
+        "2": {
+            "name": "王俊昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝永興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓蘭鎮",
+            "cunli": "老庄里",
+            "house_no": "456",
+            "candidates": {
+                "1": 46,
+                "2": 85,
+                "3": 192,
+                "4": 168,
+                "5": 115
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 873
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "老庄里",
+            "house_no": "457",
+            "candidates": {
+                "1": 55,
+                "2": 79,
+                "3": 147,
+                "4": 180,
+                "5": 179
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "新榮里",
+            "house_no": "458",
+            "candidates": {
+                "1": 52,
+                "2": 108,
+                "3": 185,
+                "4": 159,
+                "5": 178
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "中街里",
+            "house_no": "459",
+            "candidates": {
+                "1": 62,
+                "2": 85,
+                "3": 105,
+                "4": 130,
+                "5": 96
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 658
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "新厝里",
+            "house_no": "460",
+            "candidates": {
+                "1": 73,
+                "2": 143,
+                "3": 76,
+                "4": 95,
+                "5": 100
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 729
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "新厝里",
+            "house_no": "461",
+            "candidates": {
+                "1": 46,
+                "2": 127,
+                "3": 70,
+                "4": 94,
+                "5": 130
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 681
+        }
+    ]
+}

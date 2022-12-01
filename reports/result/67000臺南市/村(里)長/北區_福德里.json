@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林勝緞",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳坤宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "福德里",
+            "house_no": "1020",
+            "candidates": {
+                "1": 352,
+                "2": 187
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "北區",
+            "cunli": "福德里",
+            "house_no": "1021",
+            "candidates": {
+                "1": 386,
+                "2": 234
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "北區",
+            "cunli": "福德里",
+            "house_no": "1022",
+            "candidates": {
+                "1": 427,
+                "2": 243
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "北區",
+            "cunli": "福德里",
+            "house_no": "1023",
+            "candidates": {
+                "1": 374,
+                "2": 235
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1140
+        }
+    ]
+}

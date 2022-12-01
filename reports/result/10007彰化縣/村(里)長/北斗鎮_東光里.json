@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂學銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "東光里",
+            "house_no": "881",
+            "candidates": {
+                "1": 607
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "東光里",
+            "house_no": "882",
+            "candidates": {
+                "1": 558
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1101
+        }
+    ]
+}

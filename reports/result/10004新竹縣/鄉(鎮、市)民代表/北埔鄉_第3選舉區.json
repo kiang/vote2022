@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李瑞玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北埔鄉",
+            "cunli": "大湖村",
+            "house_no": "412",
+            "candidates": {
+                "1": 313
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 525
+        },
+        {
+            "area": "北埔鄉",
+            "cunli": "南坑村",
+            "house_no": "419",
+            "candidates": {
+                "1": 213
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 305
+        },
+        {
+            "area": "北埔鄉",
+            "cunli": "外坪村",
+            "house_no": "420",
+            "candidates": {
+                "1": 164
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 278
+        }
+    ]
+}

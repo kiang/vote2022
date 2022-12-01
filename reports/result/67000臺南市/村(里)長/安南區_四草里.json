@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王秋萍",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳文振",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "蔡進財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "四草里",
+            "house_no": "799",
+            "candidates": {
+                "1": 408,
+                "2": 250,
+                "3": 55
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "安南區",
+            "cunli": "四草里",
+            "house_no": "800",
+            "candidates": {
+                "1": 358,
+                "2": 157,
+                "3": 60
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 842
+        }
+    ]
+}

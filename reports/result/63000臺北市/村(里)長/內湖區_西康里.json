@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王興國",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李茂雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "西康里",
+            "house_no": "357",
+            "candidates": {
+                "1": 659,
+                "2": 159
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西康里",
+            "house_no": "358",
+            "candidates": {
+                "1": 750,
+                "2": 155
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1326
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西康里",
+            "house_no": "359",
+            "candidates": {
+                "1": 730,
+                "2": 146
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1297
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西康里",
+            "house_no": "360",
+            "candidates": {
+                "1": 692,
+                "2": 173
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西康里",
+            "house_no": "361",
+            "candidates": {
+                "1": 654,
+                "2": 138
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西康里",
+            "house_no": "362",
+            "candidates": {
+                "1": 653,
+                "2": 137
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1201
+        }
+    ]
+}

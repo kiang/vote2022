@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊玉鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳麗雅",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃子芸",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "許富元",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "苓東里",
+            "house_no": "1282",
+            "candidates": {
+                "1": 135,
+                "2": 115,
+                "3": 133,
+                "4": 17
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 675
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "苓東里",
+            "house_no": "1283",
+            "candidates": {
+                "1": 194,
+                "2": 80,
+                "3": 138,
+                "4": 14
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 645
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江啓南",
+            "party": "無"
+        },
+        "2": {
+            "name": "汪瑞霞",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "天福里",
+            "house_no": "309",
+            "candidates": {
+                "1": 569,
+                "2": 343
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1389
+        },
+        {
+            "area": "士林區",
+            "cunli": "天福里",
+            "house_no": "310",
+            "candidates": {
+                "1": 496,
+                "2": 229
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "士林區",
+            "cunli": "天福里",
+            "house_no": "311",
+            "candidates": {
+                "1": 547,
+                "2": 236
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1173
+        },
+        {
+            "area": "士林區",
+            "cunli": "天福里",
+            "house_no": "312",
+            "candidates": {
+                "1": 515,
+                "2": 272
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1189
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡榮富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "新興里",
+            "house_no": "123",
+            "candidates": {
+                "1": 360
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "新興里",
+            "house_no": "124",
+            "candidates": {
+                "1": 378
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 887
+        }
+    ]
+}

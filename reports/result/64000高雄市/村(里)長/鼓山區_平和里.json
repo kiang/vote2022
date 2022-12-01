@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳玉芳",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鼓山區",
+            "cunli": "平和里",
+            "house_no": "882",
+            "candidates": {
+                "1": 800
+            },
+            "count_wrong": 135,
+            "count_unused": 0,
+            "count_total": 1616
+        },
+        {
+            "area": "鼓山區",
+            "cunli": "平和里",
+            "house_no": "883",
+            "candidates": {
+                "1": 670
+            },
+            "count_wrong": 243,
+            "count_unused": 0,
+            "count_total": 1590
+        }
+    ]
+}

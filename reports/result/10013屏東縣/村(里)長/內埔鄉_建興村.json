@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫怡祿",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳進昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇萬壽",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "建興村",
+            "house_no": "466",
+            "candidates": {
+                "1": 123,
+                "2": 193,
+                "3": 167
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 733
+        }
+    ]
+}

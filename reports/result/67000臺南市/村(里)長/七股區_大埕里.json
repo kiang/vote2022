@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃中燦",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳清文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七股區",
+            "cunli": "大埕里",
+            "house_no": "284",
+            "candidates": {
+                "1": 201,
+                "2": 257
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "七股區",
+            "cunli": "大埕里",
+            "house_no": "285",
+            "candidates": {
+                "1": 239,
+                "2": 217
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 770
+        },
+        {
+            "area": "七股區",
+            "cunli": "大埕里",
+            "house_no": "286",
+            "candidates": {
+                "1": 209,
+                "2": 311
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 836
+        }
+    ]
+}

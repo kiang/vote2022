@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝素玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "顔耀宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "三民里",
+            "house_no": "806",
+            "candidates": {
+                "1": 497,
+                "2": 355
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1373
+        },
+        {
+            "area": "三重區",
+            "cunli": "三民里",
+            "house_no": "807",
+            "candidates": {
+                "1": 588,
+                "2": 287
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1421
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林洪文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "隘口里",
+            "house_no": "27",
+            "candidates": {
+                "1": 533
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "竹北市",
+            "cunli": "隘口里",
+            "house_no": "28",
+            "candidates": {
+                "1": 470
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "竹北市",
+            "cunli": "隘口里",
+            "house_no": "29",
+            "candidates": {
+                "1": 425
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 845
+        }
+    ]
+}

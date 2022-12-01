@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉佐陸",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃定宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉明耀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "瑞原里",
+            "house_no": "1202",
+            "candidates": {
+                "1": 401,
+                "2": 286,
+                "3": 54
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞原里",
+            "house_no": "1203",
+            "candidates": {
+                "1": 242,
+                "2": 446,
+                "3": 9
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞原里",
+            "house_no": "1204",
+            "candidates": {
+                "1": 367,
+                "2": 319,
+                "3": 22
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1241
+        }
+    ]
+}

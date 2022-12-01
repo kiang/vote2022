@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林修進",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳啟源",
+            "party": "無"
+        },
+        "3": {
+            "name": "魏遠義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "銘德里",
+            "house_no": "1342",
+            "candidates": {
+                "1": 153,
+                "2": 619,
+                "3": 94
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "萬華區",
+            "cunli": "銘德里",
+            "house_no": "1343",
+            "candidates": {
+                "1": 186,
+                "2": 560,
+                "3": 104
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "萬華區",
+            "cunli": "銘德里",
+            "house_no": "1344",
+            "candidates": {
+                "1": 333,
+                "2": 388,
+                "3": 72
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1229
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘富明",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱永乾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "新東里",
+            "house_no": "49",
+            "candidates": {
+                "1": 397,
+                "2": 232
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1079
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新東里",
+            "house_no": "50",
+            "candidates": {
+                "1": 306,
+                "2": 182
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "新東里",
+            "house_no": "51",
+            "candidates": {
+                "1": 321,
+                "2": 225
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 956
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓芯慈",
+            "party": "無"
+        },
+        "2": {
+            "name": "林光明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金峰鄉",
+            "cunli": "嘉蘭村",
+            "house_no": "220",
+            "candidates": {
+                "1": 21,
+                "2": 8
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 39
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "嘉蘭村",
+            "house_no": "221",
+            "candidates": {
+                "1": 10,
+                "2": 7
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 24
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "正興村",
+            "house_no": "222",
+            "candidates": {
+                "1": 15,
+                "2": 35
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 69
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "新興村",
+            "house_no": "223",
+            "candidates": {
+                "1": 18,
+                "2": 24
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 64
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "賓茂村",
+            "house_no": "224",
+            "candidates": {
+                "1": 21,
+                "2": 11
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 36
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "歷坵村",
+            "house_no": "225",
+            "candidates": {
+                "1": 15,
+                "2": 7
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 27
+        }
+    ]
+}

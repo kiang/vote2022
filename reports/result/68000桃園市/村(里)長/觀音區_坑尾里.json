@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "向春榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉宗建",
+            "party": "無"
+        },
+        "3": {
+            "name": "池明廷",
+            "party": "無"
+        },
+        "4": {
+            "name": "姜仁新",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "坑尾里",
+            "house_no": "1326",
+            "candidates": {
+                "1": 237,
+                "2": 18,
+                "3": 43,
+                "4": 163
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 752
+        },
+        {
+            "area": "觀音區",
+            "cunli": "坑尾里",
+            "house_no": "1327",
+            "candidates": {
+                "1": 254,
+                "2": 84,
+                "3": 19,
+                "4": 231
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1060
+        }
+    ]
+}

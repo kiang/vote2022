@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴允文",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐谷里",
+            "house_no": "73",
+            "candidates": {
+                "1": 532
+            },
+            "count_wrong": 93,
+            "count_unused": 2,
+            "count_total": 1144
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐谷里",
+            "house_no": "74",
+            "candidates": {
+                "1": 541
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐谷里",
+            "house_no": "75",
+            "candidates": {
+                "1": 496
+            },
+            "count_wrong": 124,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

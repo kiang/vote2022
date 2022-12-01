@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉燈煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖俊傑",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南澳鄉",
+            "cunli": "武塔村",
+            "house_no": "424",
+            "candidates": {
+                "1": 90,
+                "2": 218
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 426
+        },
+        {
+            "area": "南澳鄉",
+            "cunli": "金洋村",
+            "house_no": "425",
+            "candidates": {
+                "1": 214,
+                "2": 178
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 477
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱詔偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林仁貴",
+            "party": "無"
+        },
+        "3": {
+            "name": "涂雅淳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "高原里",
+            "house_no": "1273",
+            "candidates": {
+                "1": 122,
+                "2": 207,
+                "3": 521
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "高原里",
+            "house_no": "1274",
+            "candidates": {
+                "1": 145,
+                "2": 219,
+                "3": 418
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "高原里",
+            "house_no": "1275",
+            "candidates": {
+                "1": 169,
+                "2": 265,
+                "3": 319
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1374
+        }
+    ]
+}

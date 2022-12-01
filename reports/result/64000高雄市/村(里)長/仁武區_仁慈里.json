@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李順豊",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜忠山",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪月琴",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "仁慈里",
+            "house_no": "795",
+            "candidates": {
+                "1": 143,
+                "2": 213,
+                "3": 371
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "仁武區",
+            "cunli": "仁慈里",
+            "house_no": "796",
+            "candidates": {
+                "1": 228,
+                "2": 149,
+                "3": 356
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1100
+        }
+    ]
+}

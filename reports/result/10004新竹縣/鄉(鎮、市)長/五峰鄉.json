@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "秋維書",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂小龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "葛忠義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "五峰鄉",
+            "cunli": "大隘村",
+            "house_no": "458",
+            "candidates": {
+                "1": 165,
+                "2": 80,
+                "3": 269
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 646
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "大隘村",
+            "house_no": "459",
+            "candidates": {
+                "1": 191,
+                "2": 152,
+                "3": 145
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 645
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "桃山村",
+            "house_no": "460",
+            "candidates": {
+                "1": 185,
+                "2": 157,
+                "3": 79
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 542
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "桃山村",
+            "house_no": "461",
+            "candidates": {
+                "1": 417,
+                "2": 177,
+                "3": 86
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "花園村",
+            "house_no": "462",
+            "candidates": {
+                "1": 228,
+                "2": 192,
+                "3": 144
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 708
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "竹林村",
+            "house_no": "463",
+            "candidates": {
+                "1": 55,
+                "2": 133,
+                "3": 96
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 359
+        }
+    ]
+}

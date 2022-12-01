@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱秀切",
+            "party": "無"
+        },
+        "2": {
+            "name": "張洪惠雪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "平和里",
+            "house_no": "1293",
+            "candidates": {
+                "1": 209,
+                "2": 303
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "西區",
+            "cunli": "平和里",
+            "house_no": "1294",
+            "candidates": {
+                "1": 211,
+                "2": 242
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 797
+        }
+    ]
+}

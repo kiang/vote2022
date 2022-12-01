@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許春昉",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖原章",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳春玉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "中溪里",
+            "house_no": "1713",
+            "candidates": {
+                "1": 396,
+                "2": 140,
+                "3": 346
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1459
+        },
+        {
+            "area": "永和區",
+            "cunli": "中溪里",
+            "house_no": "1714",
+            "candidates": {
+                "1": 309,
+                "2": 121,
+                "3": 376
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1367
+        },
+        {
+            "area": "永和區",
+            "cunli": "中溪里",
+            "house_no": "1715",
+            "candidates": {
+                "1": 319,
+                "2": 109,
+                "3": 337
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1380
+        }
+    ]
+}

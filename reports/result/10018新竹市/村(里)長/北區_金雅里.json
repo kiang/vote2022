@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇虹宇",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳清福",
+            "party": "無"
+        },
+        "3": {
+            "name": "韓榮春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "金雅里",
+            "house_no": "238",
+            "candidates": {
+                "1": 338,
+                "2": 120,
+                "3": 280
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1009
+        },
+        {
+            "area": "北區",
+            "cunli": "金雅里",
+            "house_no": "239",
+            "candidates": {
+                "1": 346,
+                "2": 65,
+                "3": 221
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "北區",
+            "cunli": "金雅里",
+            "house_no": "240",
+            "candidates": {
+                "1": 289,
+                "2": 214,
+                "3": 256
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1108
+        }
+    ]
+}

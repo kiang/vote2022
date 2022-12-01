@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志純",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳世宗",
+            "party": "無"
+        },
+        "3": {
+            "name": "許宏義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "溪邊里",
+            "house_no": "96",
+            "candidates": {
+                "1": 87,
+                "2": 103,
+                "3": 303
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 643
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "溪邊里",
+            "house_no": "97",
+            "candidates": {
+                "1": 6,
+                "2": 244,
+                "3": 74
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 407
+        }
+    ]
+}

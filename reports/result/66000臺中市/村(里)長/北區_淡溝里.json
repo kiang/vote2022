@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何文正",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "孫若梅",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡雅芳",
+            "party": "無"
+        },
+        "4": {
+            "name": "林采霏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "淡溝里",
+            "house_no": "1250",
+            "candidates": {
+                "1": 361,
+                "2": 165,
+                "3": 244,
+                "4": 36
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1368
+        },
+        {
+            "area": "北區",
+            "cunli": "淡溝里",
+            "house_no": "1251",
+            "candidates": {
+                "1": 244,
+                "2": 83,
+                "3": 261,
+                "4": 29
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "北區",
+            "cunli": "淡溝里",
+            "house_no": "1252",
+            "candidates": {
+                "1": 282,
+                "2": 90,
+                "3": 293,
+                "4": 21
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "北區",
+            "cunli": "淡溝里",
+            "house_no": "1253",
+            "candidates": {
+                "1": 338,
+                "2": 96,
+                "3": 216,
+                "4": 21
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1138
+        }
+    ]
+}

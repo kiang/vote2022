@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝銘亮",
+            "party": "無"
+        },
+        "2": {
+            "name": "王葉素",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "北湖里",
+            "house_no": "191",
+            "candidates": {
+                "1": 545,
+                "2": 385
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1511
+        },
+        {
+            "area": "西區",
+            "cunli": "北湖里",
+            "house_no": "192",
+            "candidates": {
+                "1": 433,
+                "2": 417
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1346
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周春生",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永森",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "和興里",
+            "house_no": "1476",
+            "candidates": {
+                "1": 386,
+                "2": 486
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "和興里",
+            "house_no": "1477",
+            "candidates": {
+                "1": 404,
+                "2": 415
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1440
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "和興里",
+            "house_no": "1478",
+            "candidates": {
+                "1": 425,
+                "2": 390
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1450
+        }
+    ]
+}

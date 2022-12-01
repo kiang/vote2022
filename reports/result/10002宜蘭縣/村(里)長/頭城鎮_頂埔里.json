@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭志弘",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋來泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "頂埔里",
+            "house_no": "207",
+            "candidates": {
+                "1": 174,
+                "2": 238
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 558
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "頂埔里",
+            "house_no": "208",
+            "candidates": {
+                "1": 285,
+                "2": 222
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 694
+        }
+    ]
+}

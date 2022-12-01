@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫維誠",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "蘇夏宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林口區",
+            "cunli": "林口里",
+            "house_no": "180",
+            "candidates": {
+                "1": 261,
+                "2": 399
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "林口區",
+            "cunli": "林口里",
+            "house_no": "181",
+            "candidates": {
+                "1": 294,
+                "2": 275
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "林口區",
+            "cunli": "林口里",
+            "house_no": "182",
+            "candidates": {
+                "1": 231,
+                "2": 315
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "林口區",
+            "cunli": "林口里",
+            "house_no": "183",
+            "candidates": {
+                "1": 217,
+                "2": 317
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1031
+        }
+    ]
+}

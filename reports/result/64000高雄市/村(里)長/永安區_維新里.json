@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔣福山",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃溪水",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄧丞鈞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永安區",
+            "cunli": "維新里",
+            "house_no": "279",
+            "candidates": {
+                "1": 468,
+                "2": 258,
+                "3": 93
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "永安區",
+            "cunli": "維新里",
+            "house_no": "280",
+            "candidates": {
+                "1": 410,
+                "2": 233,
+                "3": 78
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "永安區",
+            "cunli": "維新里",
+            "house_no": "281",
+            "candidates": {
+                "1": 362,
+                "2": 225,
+                "3": 158
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1108
+        }
+    ]
+}

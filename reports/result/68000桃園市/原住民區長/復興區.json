@@ -1,0 +1,191 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游正英",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林秋霖",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "蘇佐璽",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "曾志湘",
+            "party": "無"
+        },
+        "5": {
+            "name": "楊春樹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "復興區",
+            "cunli": "三民里",
+            "house_no": "699",
+            "candidates": {
+                "1": 316,
+                "2": 21,
+                "3": 154,
+                "4": 178,
+                "5": 21
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1009
+        },
+        {
+            "area": "復興區",
+            "cunli": "三民里",
+            "house_no": "700",
+            "candidates": {
+                "1": 296,
+                "2": 13,
+                "3": 125,
+                "4": 242,
+                "5": 30
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "復興區",
+            "cunli": "澤仁里",
+            "house_no": "701",
+            "candidates": {
+                "1": 284,
+                "2": 36,
+                "3": 292,
+                "4": 219,
+                "5": 81
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1421
+        },
+        {
+            "area": "復興區",
+            "cunli": "霞雲里",
+            "house_no": "702",
+            "candidates": {
+                "1": 148,
+                "2": 44,
+                "3": 157,
+                "4": 133,
+                "5": 43
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 666
+        },
+        {
+            "area": "復興區",
+            "cunli": "義盛里",
+            "house_no": "703",
+            "candidates": {
+                "1": 203,
+                "2": 27,
+                "3": 98,
+                "4": 142,
+                "5": 30
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 736
+        },
+        {
+            "area": "復興區",
+            "cunli": "羅浮里",
+            "house_no": "704",
+            "candidates": {
+                "1": 254,
+                "2": 31,
+                "3": 185,
+                "4": 198,
+                "5": 77
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1082
+        },
+        {
+            "area": "復興區",
+            "cunli": "長興里",
+            "house_no": "705",
+            "candidates": {
+                "1": 115,
+                "2": 41,
+                "3": 201,
+                "4": 72,
+                "5": 33
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 643
+        },
+        {
+            "area": "復興區",
+            "cunli": "奎輝里",
+            "house_no": "706",
+            "candidates": {
+                "1": 148,
+                "2": 62,
+                "3": 85,
+                "4": 22,
+                "5": 255
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 734
+        },
+        {
+            "area": "復興區",
+            "cunli": "高義里",
+            "house_no": "707",
+            "candidates": {
+                "1": 173,
+                "2": 38,
+                "3": 159,
+                "4": 152,
+                "5": 26
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 767
+        },
+        {
+            "area": "復興區",
+            "cunli": "三光里",
+            "house_no": "708",
+            "candidates": {
+                "1": 98,
+                "2": 78,
+                "3": 118,
+                "4": 119,
+                "5": 84
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "復興區",
+            "cunli": "華陵里",
+            "house_no": "709",
+            "candidates": {
+                "1": 264,
+                "2": 38,
+                "3": 255,
+                "4": 242,
+                "5": 57
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1270
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇聰賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "高世國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "拱北里",
+            "house_no": "2601",
+            "candidates": {
+                "1": 446,
+                "2": 212
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1417
+        },
+        {
+            "area": "汐止區",
+            "cunli": "拱北里",
+            "house_no": "2602",
+            "candidates": {
+                "1": 453,
+                "2": 325
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1486
+        },
+        {
+            "area": "汐止區",
+            "cunli": "拱北里",
+            "house_no": "2603",
+            "candidates": {
+                "1": 378,
+                "2": 393
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1585
+        }
+    ]
+}

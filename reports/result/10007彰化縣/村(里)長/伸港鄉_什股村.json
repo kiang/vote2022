@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林世意",
+            "party": "無"
+        },
+        "2": {
+            "name": "林典宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "伸港鄉",
+            "cunli": "什股村",
+            "house_no": "469",
+            "candidates": {
+                "1": 432,
+                "2": 281
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "伸港鄉",
+            "cunli": "什股村",
+            "house_no": "470",
+            "candidates": {
+                "1": 476,
+                "2": 345
+            },
+            "count_wrong": 51,
+            "count_unused": 1,
+            "count_total": 1323
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭世和",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭愛國",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "葉賞",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾福傳",
+            "party": "無"
+        },
+        "5": {
+            "name": "何在鎣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "中潭里",
+            "house_no": "780",
+            "candidates": {
+                "1": 68,
+                "2": 113,
+                "3": 60,
+                "4": 58,
+                "5": 135,
+                "6": 43
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "中潭里",
+            "house_no": "781",
+            "candidates": {
+                "1": 114,
+                "2": 115,
+                "3": 103,
+                "4": 72,
+                "5": 103,
+                "6": 54
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "龍潭里",
+            "house_no": "782",
+            "candidates": {
+                "1": 58,
+                "2": 97,
+                "3": 47,
+                "4": 66,
+                "5": 33,
+                "6": 38
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 550
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "北路里",
+            "house_no": "783",
+            "candidates": {
+                "1": 110,
+                "2": 87,
+                "3": 181,
+                "4": 91,
+                "5": 97,
+                "6": 58
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "北路里",
+            "house_no": "784",
+            "candidates": {
+                "1": 138,
+                "2": 140,
+                "3": 125,
+                "4": 111,
+                "5": 111,
+                "6": 66
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "北路里",
+            "house_no": "785",
+            "candidates": {
+                "1": 88,
+                "2": 124,
+                "3": 188,
+                "4": 88,
+                "5": 134,
+                "6": 61
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "西路里",
+            "house_no": "786",
+            "candidates": {
+                "1": 167,
+                "2": 176,
+                "3": 84,
+                "4": 128,
+                "5": 128,
+                "6": 88
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "西路里",
+            "house_no": "787",
+            "candidates": {
+                "1": 151,
+                "2": 155,
+                "3": 94,
+                "4": 70,
+                "5": 113,
+                "6": 90
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "東路里",
+            "house_no": "788",
+            "candidates": {
+                "1": 104,
+                "2": 125,
+                "3": 74,
+                "4": 160,
+                "5": 100,
+                "6": 72
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 990
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "南路里",
+            "house_no": "789",
+            "candidates": {
+                "1": 89,
+                "2": 119,
+                "3": 75,
+                "4": 93,
+                "5": 246,
+                "6": 51
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "中路里",
+            "house_no": "790",
+            "candidates": {
+                "1": 82,
+                "2": 115,
+                "3": 76,
+                "4": 99,
+                "5": 121,
+                "6": 63
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "中路里",
+            "house_no": "791",
+            "candidates": {
+                "1": 107,
+                "2": 121,
+                "3": 77,
+                "4": 115,
+                "5": 128,
+                "6": 56
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "梅州里",
+            "house_no": "792",
+            "candidates": {
+                "1": 152,
+                "2": 212,
+                "3": 90,
+                "4": 165,
+                "5": 122,
+                "6": 84
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1239
+        }
+    ]
+}

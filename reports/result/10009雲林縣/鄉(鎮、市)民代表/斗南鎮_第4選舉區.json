@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈爲祺",
+            "party": "無"
+        },
+        "2": {
+            "name": "粘清",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳秀章",
+            "party": "無"
+        },
+        "4": {
+            "name": "李建燁",
+            "party": "無"
+        },
+        "5": {
+            "name": "張淑媛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "東明里",
+            "house_no": "583",
+            "candidates": {
+                "1": 258,
+                "2": 36,
+                "3": 129,
+                "4": 84,
+                "5": 86
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "新光里",
+            "house_no": "584",
+            "candidates": {
+                "1": 447,
+                "2": 57,
+                "3": 172,
+                "4": 84,
+                "5": 95
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1324
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "新光里",
+            "house_no": "585",
+            "candidates": {
+                "1": 278,
+                "2": 57,
+                "3": 269,
+                "4": 85,
+                "5": 174
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1389
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "田頭里",
+            "house_no": "586",
+            "candidates": {
+                "1": 181,
+                "2": 42,
+                "3": 71,
+                "4": 143,
+                "5": 336
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "田頭里",
+            "house_no": "587",
+            "candidates": {
+                "1": 161,
+                "2": 28,
+                "3": 28,
+                "4": 78,
+                "5": 310
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 926
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "小東里",
+            "house_no": "588",
+            "candidates": {
+                "1": 177,
+                "2": 90,
+                "3": 144,
+                "4": 202,
+                "5": 331
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1382
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許文能",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉金幸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東光里",
+            "house_no": "1359",
+            "candidates": {
+                "1": 346,
+                "2": 307
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1260
+        },
+        {
+            "area": "東區",
+            "cunli": "東光里",
+            "house_no": "1360",
+            "candidates": {
+                "1": 268,
+                "2": 226
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "東區",
+            "cunli": "東光里",
+            "house_no": "1361",
+            "candidates": {
+                "1": 237,
+                "2": 390
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "東區",
+            "cunli": "東光里",
+            "house_no": "1362",
+            "candidates": {
+                "1": 257,
+                "2": 350
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1100
+        }
+    ]
+}

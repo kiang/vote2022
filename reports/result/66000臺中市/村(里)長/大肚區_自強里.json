@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林順安",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "自強里",
+            "house_no": "357",
+            "candidates": {
+                "1": 551
+            },
+            "count_wrong": 107,
+            "count_unused": 1,
+            "count_total": 1194
+        },
+        {
+            "area": "大肚區",
+            "cunli": "自強里",
+            "house_no": "358",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "大肚區",
+            "cunli": "自強里",
+            "house_no": "359",
+            "candidates": {
+                "1": 463
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 982
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯鄭迎",
+            "party": "無"
+        },
+        "2": {
+            "name": "張珮榕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "惠楠里",
+            "house_no": "489",
+            "candidates": {
+                "1": 123,
+                "2": 210
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "惠楠里",
+            "house_no": "490",
+            "candidates": {
+                "1": 161,
+                "2": 313
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "惠楠里",
+            "house_no": "491",
+            "candidates": {
+                "1": 99,
+                "2": 360
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 952
+        }
+    ]
+}

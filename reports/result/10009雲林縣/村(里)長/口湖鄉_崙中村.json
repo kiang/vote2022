@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝文棋",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊乾雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "崙中村",
+            "house_no": "235",
+            "candidates": {
+                "1": 229,
+                "2": 204
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 700
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "崙中村",
+            "house_no": "236",
+            "candidates": {
+                "1": 280,
+                "2": 170
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 731
+        }
+    ]
+}

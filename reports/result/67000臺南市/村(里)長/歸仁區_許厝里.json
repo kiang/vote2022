@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳素鸞",
+            "party": "無"
+        },
+        "2": {
+            "name": "許春加",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "許厝里",
+            "house_no": "1470",
+            "candidates": {
+                "1": 480,
+                "2": 159
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "許厝里",
+            "house_no": "1471",
+            "candidates": {
+                "1": 416,
+                "2": 177
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 987
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "許厝里",
+            "house_no": "1472",
+            "candidates": {
+                "1": 487,
+                "2": 124
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1085
+        }
+    ]
+}

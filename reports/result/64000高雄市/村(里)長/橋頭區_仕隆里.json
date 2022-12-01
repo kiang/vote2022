@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬兆賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "馬輝記",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "仕隆里",
+            "house_no": "431",
+            "candidates": {
+                "1": 406,
+                "2": 330
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "仕隆里",
+            "house_no": "432",
+            "candidates": {
+                "1": 387,
+                "2": 303
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1011
+        }
+    ]
+}

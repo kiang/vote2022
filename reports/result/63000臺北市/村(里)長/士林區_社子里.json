@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林瑞祥",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳明雄",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "柯麗玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "社子里",
+            "house_no": "239",
+            "candidates": {
+                "1": 305,
+                "2": 288,
+                "3": 253
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "士林區",
+            "cunli": "社子里",
+            "house_no": "240",
+            "candidates": {
+                "1": 312,
+                "2": 279,
+                "3": 333
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "士林區",
+            "cunli": "社子里",
+            "house_no": "241",
+            "candidates": {
+                "1": 242,
+                "2": 365,
+                "3": 285
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "士林區",
+            "cunli": "社子里",
+            "house_no": "242",
+            "candidates": {
+                "1": 208,
+                "2": 365,
+                "3": 320
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1327
+        }
+    ]
+}

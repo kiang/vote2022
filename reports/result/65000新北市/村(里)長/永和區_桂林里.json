@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧宣蓉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳映璇",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "桂林里",
+            "house_no": "1614",
+            "candidates": {
+                "1": 505,
+                "2": 444
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1639
+        },
+        {
+            "area": "永和區",
+            "cunli": "桂林里",
+            "house_no": "1615",
+            "candidates": {
+                "1": 436,
+                "2": 389
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1461
+        }
+    ]
+}

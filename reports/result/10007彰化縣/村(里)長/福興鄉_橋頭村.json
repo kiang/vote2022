@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許漢宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳媽權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "橋頭村",
+            "house_no": "326",
+            "candidates": {
+                "1": 418,
+                "2": 348
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "橋頭村",
+            "house_no": "327",
+            "candidates": {
+                "1": 487,
+                "2": 337
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1290
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡金山",
+            "party": "無"
+        },
+        "2": {
+            "name": "薛志典",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡俊裕",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳啟銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "溪底村",
+            "house_no": "181",
+            "candidates": {
+                "1": 172,
+                "2": 107,
+                "3": 194,
+                "4": 239
+            },
+            "count_wrong": 4,
+            "count_unused": 1,
+            "count_total": 911
+        }
+    ]
+}

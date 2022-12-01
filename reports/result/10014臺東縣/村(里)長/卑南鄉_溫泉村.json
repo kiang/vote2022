@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃金定",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖金增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "溫泉村",
+            "house_no": "135",
+            "candidates": {
+                "1": 268,
+                "2": 317
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "溫泉村",
+            "house_no": "136",
+            "candidates": {
+                "1": 43,
+                "2": 51
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 137
+        }
+    ]
+}

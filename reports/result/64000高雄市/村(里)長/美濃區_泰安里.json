@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱國維",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉國松",
+            "party": "無"
+        },
+        "3": {
+            "name": "林敬峯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "泰安里",
+            "house_no": "120",
+            "candidates": {
+                "1": 153,
+                "2": 238,
+                "3": 30
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 691
+        },
+        {
+            "area": "美濃區",
+            "cunli": "泰安里",
+            "house_no": "121",
+            "candidates": {
+                "1": 292,
+                "2": 193,
+                "3": 51
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 816
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張明昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "湖西村",
+            "house_no": "302",
+            "candidates": {
+                "1": 342
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 616
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "湖西村",
+            "house_no": "303",
+            "candidates": {
+                "1": 411
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 658
+        }
+    ]
+}

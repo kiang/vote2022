@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許明輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "金展儀",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉桂雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新化區",
+            "cunli": "東榮里",
+            "house_no": "628",
+            "candidates": {
+                "1": 271,
+                "2": 74,
+                "3": 278
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "新化區",
+            "cunli": "東榮里",
+            "house_no": "629",
+            "candidates": {
+                "1": 202,
+                "2": 128,
+                "3": 157
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 802
+        },
+        {
+            "area": "新化區",
+            "cunli": "東榮里",
+            "house_no": "630",
+            "candidates": {
+                "1": 201,
+                "2": 93,
+                "3": 224
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "新化區",
+            "cunli": "東榮里",
+            "house_no": "631",
+            "candidates": {
+                "1": 248,
+                "2": 86,
+                "3": 264
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1009
+        }
+    ]
+}

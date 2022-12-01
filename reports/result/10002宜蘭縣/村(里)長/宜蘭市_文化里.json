@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳哲男",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳啓鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "文化里",
+            "house_no": "16",
+            "candidates": {
+                "1": 208,
+                "2": 267
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 850
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "文化里",
+            "house_no": "17",
+            "candidates": {
+                "1": 188,
+                "2": 324
+            },
+            "count_wrong": 29,
+            "count_unused": 1,
+            "count_total": 905
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "文化里",
+            "house_no": "18",
+            "candidates": {
+                "1": 126,
+                "2": 502
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

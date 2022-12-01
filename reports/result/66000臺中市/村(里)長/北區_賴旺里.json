@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖三慶",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃育嘉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "賴旺里",
+            "house_no": "1236",
+            "candidates": {
+                "1": 212,
+                "2": 483
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "北區",
+            "cunli": "賴旺里",
+            "house_no": "1237",
+            "candidates": {
+                "1": 233,
+                "2": 491
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1422
+        },
+        {
+            "area": "北區",
+            "cunli": "賴旺里",
+            "house_no": "1238",
+            "candidates": {
+                "1": 239,
+                "2": 478
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1368
+        }
+    ]
+}

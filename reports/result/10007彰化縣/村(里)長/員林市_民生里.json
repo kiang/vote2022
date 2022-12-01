@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭上筆",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉燿彰",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃國楨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "民生里",
+            "house_no": "523",
+            "candidates": {
+                "1": 254,
+                "2": 142,
+                "3": 112
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 832
+        },
+        {
+            "area": "員林市",
+            "cunli": "民生里",
+            "house_no": "524",
+            "candidates": {
+                "1": 195,
+                "2": 186,
+                "3": 133
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "員林市",
+            "cunli": "民生里",
+            "house_no": "525",
+            "candidates": {
+                "1": 333,
+                "2": 130,
+                "3": 110
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 852
+        }
+    ]
+}

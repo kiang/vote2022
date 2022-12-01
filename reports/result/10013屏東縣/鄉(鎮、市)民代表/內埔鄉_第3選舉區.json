@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃子珉",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘家莉",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "郭麗珍",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "張金土",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳俊凱",
+            "party": "無"
+        },
+        "6": {
+            "name": "李進賢",
+            "party": "無"
+        },
+        "7": {
+            "name": "王修元",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "東勢村",
+            "house_no": "455",
+            "candidates": {
+                "1": 316,
+                "2": 400
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "東勢村",
+            "house_no": "456",
+            "candidates": {
+                "1": 611,
+                "2": 256
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1495
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "東片村",
+            "house_no": "457",
+            "candidates": {
+                "1": 214,
+                "2": 315
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "上樹村",
+            "house_no": "458",
+            "candidates": {
+                "1": 320,
+                "2": 283
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

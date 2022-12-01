@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂聰成",
+            "party": "無"
+        },
+        "2": {
+            "name": "紀威廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "中正里",
+            "house_no": "2007",
+            "candidates": {
+                "1": 568,
+                "2": 315
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1445
+        },
+        {
+            "area": "土城區",
+            "cunli": "中正里",
+            "house_no": "2008",
+            "candidates": {
+                "1": 483,
+                "2": 313
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1299
+        }
+    ]
+}

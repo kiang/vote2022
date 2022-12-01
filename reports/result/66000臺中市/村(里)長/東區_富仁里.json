@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王詣凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "施文海",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "司宇辰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "富仁里",
+            "house_no": "1408",
+            "candidates": {
+                "1": 80,
+                "2": 392,
+                "3": 172
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "東區",
+            "cunli": "富仁里",
+            "house_no": "1409",
+            "candidates": {
+                "1": 53,
+                "2": 250,
+                "3": 241
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "東區",
+            "cunli": "富仁里",
+            "house_no": "1410",
+            "candidates": {
+                "1": 31,
+                "2": 458,
+                "3": 135
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "東區",
+            "cunli": "富仁里",
+            "house_no": "1411",
+            "candidates": {
+                "1": 46,
+                "2": 234,
+                "3": 251
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 906
+        }
+    ]
+}

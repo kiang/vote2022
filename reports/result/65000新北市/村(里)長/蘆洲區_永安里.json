@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林永富",
+            "party": "無"
+        },
+        "2": {
+            "name": "李建興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "永安里",
+            "house_no": "648",
+            "candidates": {
+                "1": 370,
+                "2": 435
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "永安里",
+            "house_no": "649",
+            "candidates": {
+                "1": 338,
+                "2": 606
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1580
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "永安里",
+            "house_no": "650",
+            "candidates": {
+                "1": 251,
+                "2": 545
+            },
+            "count_wrong": 29,
+            "count_unused": 1,
+            "count_total": 1495
+        }
+    ]
+}

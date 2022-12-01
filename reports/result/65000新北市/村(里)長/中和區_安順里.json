@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳振益",
+            "party": "無"
+        },
+        "2": {
+            "name": "王雪秋",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "安順里",
+            "house_no": "1569",
+            "candidates": {
+                "1": 394,
+                "2": 326
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "中和區",
+            "cunli": "安順里",
+            "house_no": "1570",
+            "candidates": {
+                "1": 363,
+                "2": 518
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "中和區",
+            "cunli": "安順里",
+            "house_no": "1571",
+            "candidates": {
+                "1": 409,
+                "2": 445
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1270
+        }
+    ]
+}

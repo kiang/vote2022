@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘厚勳",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "許錦忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "長春里",
+            "house_no": "783",
+            "candidates": {
+                "1": 299,
+                "2": 506
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "信義區",
+            "cunli": "長春里",
+            "house_no": "784",
+            "candidates": {
+                "1": 230,
+                "2": 465
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "信義區",
+            "cunli": "長春里",
+            "house_no": "785",
+            "candidates": {
+                "1": 294,
+                "2": 514
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1203
+        }
+    ]
+}

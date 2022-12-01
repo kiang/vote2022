@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉鐙淑",
+            "party": "無"
+        },
+        "2": {
+            "name": "張文華",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱妙珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "卦山里",
+            "house_no": "98",
+            "candidates": {
+                "1": 236,
+                "2": 171,
+                "3": 276
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "彰化市",
+            "cunli": "卦山里",
+            "house_no": "99",
+            "candidates": {
+                "1": 167,
+                "2": 215,
+                "3": 331
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1208
+        }
+    ]
+}

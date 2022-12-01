@@ -1,0 +1,91 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林基明",
+            "party": "無"
+        },
+        "2": {
+            "name": "林金玲",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建和",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡日生",
+            "party": "無"
+        },
+        "5": {
+            "name": "林文正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "阿勸村",
+            "house_no": "330",
+            "candidates": {
+                "1": 300,
+                "2": 172,
+                "3": 122
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "阿勸村",
+            "house_no": "331",
+            "candidates": {
+                "1": 114,
+                "2": 262,
+                "3": 240
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "五魁村",
+            "house_no": "332",
+            "candidates": {
+                "1": 231,
+                "2": 153,
+                "3": 106
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大有村",
+            "house_no": "333",
+            "candidates": {
+                "1": 294,
+                "2": 120,
+                "3": 27
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大有村",
+            "house_no": "334",
+            "candidates": {
+                "1": 258,
+                "2": 224,
+                "3": 28
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 777
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雪娥",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇孟維",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "瑞誠里",
+            "house_no": "1779",
+            "candidates": {
+                "1": 478,
+                "2": 301
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "瑞誠里",
+            "house_no": "1780",
+            "candidates": {
+                "1": 443,
+                "2": 235
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1123
+        }
+    ]
+}

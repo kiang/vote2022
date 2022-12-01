@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林武勇",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝坤茂",
+            "party": "無"
+        },
+        "3": {
+            "name": "李江淋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "莿桐鄉",
+            "cunli": "埔子村",
+            "house_no": "417",
+            "candidates": {
+                "1": 211,
+                "2": 126,
+                "3": 358
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "埔子村",
+            "house_no": "418",
+            "candidates": {
+                "1": 175,
+                "2": 54,
+                "3": 424
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 956
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧幸助",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "魚池村",
+            "house_no": "380",
+            "candidates": {
+                "1": 525
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "魚池村",
+            "house_no": "381",
+            "candidates": {
+                "1": 635
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

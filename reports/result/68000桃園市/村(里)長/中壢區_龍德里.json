@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱文正",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉金湘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "龍德里",
+            "house_no": "726",
+            "candidates": {
+                "1": 550,
+                "2": 290
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍德里",
+            "house_no": "727",
+            "candidates": {
+                "1": 549,
+                "2": 275
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍德里",
+            "house_no": "728",
+            "candidates": {
+                "1": 596,
+                "2": 273
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1406
+        }
+    ]
+}

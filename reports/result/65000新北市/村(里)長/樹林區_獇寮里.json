@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉燕雪",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾世賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "獇寮里",
+            "house_no": "1760",
+            "candidates": {
+                "1": 368,
+                "2": 426
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "樹林區",
+            "cunli": "獇寮里",
+            "house_no": "1761",
+            "candidates": {
+                "1": 268,
+                "2": 426
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1338
+        },
+        {
+            "area": "樹林區",
+            "cunli": "獇寮里",
+            "house_no": "1762",
+            "candidates": {
+                "1": 336,
+                "2": 331
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1409
+        }
+    ]
+}

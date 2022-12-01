@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉國宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡清海",
+            "party": "無"
+        },
+        "3": {
+            "name": "李瑞賢",
+            "party": "無"
+        },
+        "4": {
+            "name": "李佳昌",
+            "party": "無"
+        },
+        "5": {
+            "name": "李宸杉",
+            "party": "無"
+        },
+        "6": {
+            "name": "邱月鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "港東村",
+            "house_no": "239",
+            "candidates": {
+                "1": 283,
+                "2": 69,
+                "3": 166,
+                "4": 277
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1408
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "港西村",
+            "house_no": "240",
+            "candidates": {
+                "1": 202,
+                "2": 58,
+                "3": 125,
+                "4": 158
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "台子村",
+            "house_no": "241",
+            "candidates": {
+                "1": 117,
+                "2": 68,
+                "3": 51,
+                "4": 29
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 346
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "台子村",
+            "house_no": "242",
+            "candidates": {
+                "1": 196,
+                "2": 195,
+                "3": 58,
+                "4": 74
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 719
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "台子村",
+            "house_no": "243",
+            "candidates": {
+                "1": 165,
+                "2": 258,
+                "3": 98,
+                "4": 51
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "口湖鄉",
+            "cunli": "成龍村",
+            "house_no": "244",
+            "candidates": {
+                "1": 281,
+                "2": 68,
+                "3": 164,
+                "4": 52
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 853
+        }
+    ]
+}

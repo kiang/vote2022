@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周金進",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋祥輝",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "雙和里",
+            "house_no": "875",
+            "candidates": {
+                "1": 280,
+                "2": 510
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "信義區",
+            "cunli": "雙和里",
+            "house_no": "876",
+            "candidates": {
+                "1": 236,
+                "2": 495
+            },
+            "count_wrong": 29,
+            "count_unused": 1,
+            "count_total": 1080
+        },
+        {
+            "area": "信義區",
+            "cunli": "雙和里",
+            "house_no": "877",
+            "candidates": {
+                "1": 288,
+                "2": 519
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "信義區",
+            "cunli": "雙和里",
+            "house_no": "878",
+            "candidates": {
+                "1": 286,
+                "2": 439
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "信義區",
+            "cunli": "雙和里",
+            "house_no": "879",
+            "candidates": {
+                "1": 273,
+                "2": 462
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1167
+        }
+    ]
+}

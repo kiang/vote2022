@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳果生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "官田區",
+            "cunli": "隆本里",
+            "house_no": "458",
+            "candidates": {
+                "1": 415
+            },
+            "count_wrong": 56,
+            "count_unused": 1,
+            "count_total": 883
+        },
+        {
+            "area": "官田區",
+            "cunli": "隆本里",
+            "house_no": "459",
+            "candidates": {
+                "1": 595
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "官田區",
+            "cunli": "隆本里",
+            "house_no": "460",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1325
+        }
+    ]
+}

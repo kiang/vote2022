@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林俊哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宗惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太保市",
+            "cunli": "前潭里",
+            "house_no": "4",
+            "candidates": {
+                "1": 324,
+                "2": 136
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 688
+        },
+        {
+            "area": "太保市",
+            "cunli": "前潭里",
+            "house_no": "5",
+            "candidates": {
+                "1": 274,
+                "2": 182
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 705
+        }
+    ]
+}

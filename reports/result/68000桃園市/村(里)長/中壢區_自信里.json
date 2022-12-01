@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐瑞珍",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "施學誌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "自信里",
+            "house_no": "815",
+            "candidates": {
+                "1": 486,
+                "2": 214
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1312
+        },
+        {
+            "area": "中壢區",
+            "cunli": "自信里",
+            "house_no": "816",
+            "candidates": {
+                "1": 515,
+                "2": 284
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1400
+        },
+        {
+            "area": "中壢區",
+            "cunli": "自信里",
+            "house_no": "817",
+            "candidates": {
+                "1": 456,
+                "2": 245
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "中壢區",
+            "cunli": "自信里",
+            "house_no": "818",
+            "candidates": {
+                "1": 477,
+                "2": 189
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1313
+        }
+    ]
+}

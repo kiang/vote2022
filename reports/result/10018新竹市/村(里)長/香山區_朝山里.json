@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳桂廷",
+            "party": "無"
+        },
+        "2": {
+            "name": "王文福",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳銘昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "朝山里",
+            "house_no": "339",
+            "candidates": {
+                "1": 352,
+                "2": 184,
+                "3": 175
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "香山區",
+            "cunli": "朝山里",
+            "house_no": "340",
+            "candidates": {
+                "1": 342,
+                "2": 238,
+                "3": 132
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 986
+        }
+    ]
+}

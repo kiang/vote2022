@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王寶桂",
+            "party": "無"
+        },
+        "2": {
+            "name": "林建全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "錦盛里",
+            "house_no": "1550",
+            "candidates": {
+                "1": 376,
+                "2": 602
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1654
+        },
+        {
+            "area": "中和區",
+            "cunli": "錦盛里",
+            "house_no": "1551",
+            "candidates": {
+                "1": 427,
+                "2": 538
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1587
+        }
+    ]
+}

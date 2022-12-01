@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王坤茂",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "景福里",
+            "house_no": "1484",
+            "candidates": {
+                "1": 812
+            },
+            "count_wrong": 177,
+            "count_unused": 0,
+            "count_total": 1846
+        },
+        {
+            "area": "中和區",
+            "cunli": "景福里",
+            "house_no": "1485",
+            "candidates": {
+                "1": 701
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 1469
+        },
+        {
+            "area": "中和區",
+            "cunli": "景福里",
+            "house_no": "1486",
+            "candidates": {
+                "1": 723
+            },
+            "count_wrong": 191,
+            "count_unused": 0,
+            "count_total": 1591
+        }
+    ]
+}

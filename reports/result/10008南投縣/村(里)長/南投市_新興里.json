@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王日強",
+            "party": "無"
+        },
+        "2": {
+            "name": "張嘉良",
+            "party": "無"
+        },
+        "3": {
+            "name": "石書諭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "新興里",
+            "house_no": "70",
+            "candidates": {
+                "1": 225,
+                "2": 167,
+                "3": 252
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "南投市",
+            "cunli": "新興里",
+            "house_no": "71",
+            "candidates": {
+                "1": 241,
+                "2": 215,
+                "3": 264
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "南投市",
+            "cunli": "新興里",
+            "house_no": "72",
+            "candidates": {
+                "1": 226,
+                "2": 213,
+                "3": 292
+            },
+            "count_wrong": 45,
+            "count_unused": 1,
+            "count_total": 1282
+        },
+        {
+            "area": "南投市",
+            "cunli": "新興里",
+            "house_no": "73",
+            "candidates": {
+                "1": 328,
+                "2": 211,
+                "3": 336
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1381
+        }
+    ]
+}

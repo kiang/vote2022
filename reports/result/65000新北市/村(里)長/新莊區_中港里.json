@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李芳永",
+            "party": "無"
+        },
+        "2": {
+            "name": "高忠傑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中港里",
+            "house_no": "489",
+            "candidates": {
+                "1": 213,
+                "2": 473
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1294
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中港里",
+            "house_no": "490",
+            "candidates": {
+                "1": 236,
+                "2": 456
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1298
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中港里",
+            "house_no": "491",
+            "candidates": {
+                "1": 258,
+                "2": 542
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中港里",
+            "house_no": "492",
+            "candidates": {
+                "1": 205,
+                "2": 472
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1182
+        }
+    ]
+}

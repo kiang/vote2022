@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐福進",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "萬盛里",
+            "house_no": "1623",
+            "candidates": {
+                "1": 623
+            },
+            "count_wrong": 163,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬盛里",
+            "house_no": "1624",
+            "candidates": {
+                "1": 678
+            },
+            "count_wrong": 158,
+            "count_unused": 1,
+            "count_total": 1242
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬盛里",
+            "house_no": "1625",
+            "candidates": {
+                "1": 771
+            },
+            "count_wrong": 6,
+            "count_unused": 147,
+            "count_total": 1311
+        }
+    ]
+}

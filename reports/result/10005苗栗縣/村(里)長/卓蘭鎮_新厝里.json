@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋光復",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹淑貞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓蘭鎮",
+            "cunli": "新厝里",
+            "house_no": "460",
+            "candidates": {
+                "1": 270,
+                "2": 214
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 729
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "新厝里",
+            "house_no": "461",
+            "candidates": {
+                "1": 265,
+                "2": 204
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 681
+        }
+    ]
+}

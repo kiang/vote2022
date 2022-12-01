@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何德寬",
+            "party": "無"
+        },
+        "2": {
+            "name": "何秉益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "菁山里",
+            "house_no": "344",
+            "candidates": {
+                "1": 388,
+                "2": 212
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "士林區",
+            "cunli": "菁山里",
+            "house_no": "345",
+            "candidates": {
+                "1": 105,
+                "2": 261
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 509
+        }
+    ]
+}

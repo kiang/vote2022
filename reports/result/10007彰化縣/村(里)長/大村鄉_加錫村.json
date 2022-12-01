@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康佰武",
+            "party": "無"
+        },
+        "2": {
+            "name": "王振輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "加錫村",
+            "house_no": "611",
+            "candidates": {
+                "1": 206,
+                "2": 293
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 693
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "加錫村",
+            "house_no": "612",
+            "candidates": {
+                "1": 366,
+                "2": 253
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 879
+        }
+    ]
+}

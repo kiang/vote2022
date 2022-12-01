@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉清木",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏明清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "朝陽里",
+            "house_no": "13",
+            "candidates": {
+                "1": 110,
+                "2": 530
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "馬公市",
+            "cunli": "朝陽里",
+            "house_no": "14",
+            "candidates": {
+                "1": 112,
+                "2": 479
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "馬公市",
+            "cunli": "朝陽里",
+            "house_no": "15",
+            "candidates": {
+                "1": 122,
+                "2": 603
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1331
+        },
+        {
+            "area": "馬公市",
+            "cunli": "朝陽里",
+            "house_no": "16",
+            "candidates": {
+                "1": 127,
+                "2": 599
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1315
+        }
+    ]
+}

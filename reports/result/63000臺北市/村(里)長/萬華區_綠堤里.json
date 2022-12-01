@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱郁惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉維晟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "綠堤里",
+            "house_no": "1302",
+            "candidates": {
+                "1": 463,
+                "2": 325
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "萬華區",
+            "cunli": "綠堤里",
+            "house_no": "1303",
+            "candidates": {
+                "1": 451,
+                "2": 283
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "萬華區",
+            "cunli": "綠堤里",
+            "house_no": "1304",
+            "candidates": {
+                "1": 560,
+                "2": 211
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1173
+        }
+    ]
+}

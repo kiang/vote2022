@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳欣儀",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳柏廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中全里",
+            "house_no": "470",
+            "candidates": {
+                "1": 182,
+                "2": 436
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中全里",
+            "house_no": "471",
+            "candidates": {
+                "1": 158,
+                "2": 405
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中全里",
+            "house_no": "472",
+            "candidates": {
+                "1": 131,
+                "2": 433
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 959
+        }
+    ]
+}

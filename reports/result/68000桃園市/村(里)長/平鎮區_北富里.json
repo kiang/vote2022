@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游振乾",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃照仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "范耀仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "北富里",
+            "house_no": "1075",
+            "candidates": {
+                "1": 346,
+                "2": 286,
+                "3": 132
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北富里",
+            "house_no": "1076",
+            "candidates": {
+                "1": 388,
+                "2": 213,
+                "3": 131
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "北富里",
+            "house_no": "1077",
+            "candidates": {
+                "1": 472,
+                "2": 136,
+                "3": 171
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1184
+        }
+    ]
+}

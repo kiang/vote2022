@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖福",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳則磐",
+            "party": "無"
+        },
+        "3": {
+            "name": "趙恭信",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳新安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "烏日里",
+            "house_no": "360",
+            "candidates": {
+                "1": 302,
+                "2": 41,
+                "3": 82,
+                "4": 449
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1425
+        },
+        {
+            "area": "烏日區",
+            "cunli": "烏日里",
+            "house_no": "361",
+            "candidates": {
+                "1": 202,
+                "2": 60,
+                "3": 98,
+                "4": 432
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "烏日區",
+            "cunli": "烏日里",
+            "house_no": "362",
+            "candidates": {
+                "1": 271,
+                "2": 47,
+                "3": 85,
+                "4": 311
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "烏日區",
+            "cunli": "烏日里",
+            "house_no": "363",
+            "candidates": {
+                "1": 284,
+                "2": 67,
+                "3": 87,
+                "4": 365
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1416
+        },
+        {
+            "area": "烏日區",
+            "cunli": "烏日里",
+            "house_no": "364",
+            "candidates": {
+                "1": 309,
+                "2": 59,
+                "3": 74,
+                "4": 352
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1356
+        },
+        {
+            "area": "烏日區",
+            "cunli": "烏日里",
+            "house_no": "365",
+            "candidates": {
+                "1": 343,
+                "2": 100,
+                "3": 133,
+                "4": 361
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1549
+        }
+    ]
+}

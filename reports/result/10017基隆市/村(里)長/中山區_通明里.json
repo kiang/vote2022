@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭財源",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳仁傑",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇祐平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "通明里",
+            "house_no": "130",
+            "candidates": {
+                "1": 139,
+                "2": 68,
+                "3": 216
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 752
+        },
+        {
+            "area": "中山區",
+            "cunli": "通明里",
+            "house_no": "131",
+            "candidates": {
+                "1": 177,
+                "2": 103,
+                "3": 267
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 855
+        }
+    ]
+}

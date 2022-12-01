@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳武卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "文中里",
+            "house_no": "93",
+            "candidates": {
+                "1": 791
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1433
+        },
+        {
+            "area": "桃園區",
+            "cunli": "文中里",
+            "house_no": "94",
+            "candidates": {
+                "1": 890
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1568
+        },
+        {
+            "area": "桃園區",
+            "cunli": "文中里",
+            "house_no": "95",
+            "candidates": {
+                "1": 838
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1599
+        }
+    ]
+}

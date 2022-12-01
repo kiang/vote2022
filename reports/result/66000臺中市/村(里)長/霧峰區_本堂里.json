@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯義聰",
+            "party": "無"
+        },
+        "2": {
+            "name": "林錦池",
+            "party": "無"
+        },
+        "3": {
+            "name": "石瑀玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "本堂里",
+            "house_no": "1760",
+            "candidates": {
+                "1": 42,
+                "2": 351,
+                "3": 232
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "本堂里",
+            "house_no": "1761",
+            "candidates": {
+                "1": 67,
+                "2": 399,
+                "3": 217
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "本堂里",
+            "house_no": "1762",
+            "candidates": {
+                "1": 73,
+                "2": 428,
+                "3": 188
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "本堂里",
+            "house_no": "1763",
+            "candidates": {
+                "1": 59,
+                "2": 395,
+                "3": 217
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "本堂里",
+            "house_no": "1764",
+            "candidates": {
+                "1": 48,
+                "2": 359,
+                "3": 194
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1013
+        }
+    ]
+}

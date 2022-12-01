@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳雅琪",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳嘉和",
+            "party": "無"
+        },
+        "3": {
+            "name": "李詹淇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "和慶里",
+            "house_no": "149",
+            "candidates": {
+                "1": 105,
+                "2": 474,
+                "3": 267
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1557
+        },
+        {
+            "area": "中山區",
+            "cunli": "和慶里",
+            "house_no": "150",
+            "candidates": {
+                "1": 133,
+                "2": 409,
+                "3": 290
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1528
+        },
+        {
+            "area": "中山區",
+            "cunli": "和慶里",
+            "house_no": "151",
+            "candidates": {
+                "1": 159,
+                "2": 468,
+                "3": 300
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1580
+        },
+        {
+            "area": "中山區",
+            "cunli": "和慶里",
+            "house_no": "152",
+            "candidates": {
+                "1": 137,
+                "2": 525,
+                "3": 228
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1523
+        }
+    ]
+}

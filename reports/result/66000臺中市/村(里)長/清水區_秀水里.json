@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳月娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊金景",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "秀水里",
+            "house_no": "120",
+            "candidates": {
+                "1": 604,
+                "2": 259
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1465
+        },
+        {
+            "area": "清水區",
+            "cunli": "秀水里",
+            "house_no": "121",
+            "candidates": {
+                "1": 723,
+                "2": 274
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1619
+        },
+        {
+            "area": "清水區",
+            "cunli": "秀水里",
+            "house_no": "122",
+            "candidates": {
+                "1": 514,
+                "2": 227
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1222
+        }
+    ]
+}

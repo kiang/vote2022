@@ -1,0 +1,98 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱煥森",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾祐綾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "池上鄉",
+            "cunli": "福原村",
+            "house_no": "150",
+            "candidates": {
+                "1": 88,
+                "2": 156,
+                "3": 142,
+                "4": 133
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "福原村",
+            "house_no": "151",
+            "candidates": {
+                "1": 94,
+                "2": 145,
+                "3": 165,
+                "4": 183
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 840
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "福文村",
+            "house_no": "152",
+            "candidates": {
+                "1": 75,
+                "2": 49,
+                "3": 69,
+                "4": 57
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 395
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "福文村",
+            "house_no": "153",
+            "candidates": {
+                "1": 49,
+                "2": 54,
+                "3": 111,
+                "4": 44
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 462
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "大埔村",
+            "house_no": "156",
+            "candidates": {
+                "1": 47,
+                "2": 66,
+                "3": 101,
+                "4": 57
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 388
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "新興村",
+            "house_no": "157",
+            "candidates": {
+                "1": 126,
+                "2": 67,
+                "3": 183,
+                "4": 55
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 673
+        }
+    ]
+}

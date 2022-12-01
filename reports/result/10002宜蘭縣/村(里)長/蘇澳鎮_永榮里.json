@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳來發",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴錦昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡淑惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "永榮里",
+            "house_no": "138",
+            "candidates": {
+                "1": 154,
+                "2": 243,
+                "3": 278
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "永榮里",
+            "house_no": "139",
+            "candidates": {
+                "1": 163,
+                "2": 249,
+                "3": 199
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "永榮里",
+            "house_no": "140",
+            "candidates": {
+                "1": 99,
+                "2": 310,
+                "3": 159
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "永榮里",
+            "house_no": "141",
+            "candidates": {
+                "1": 70,
+                "2": 232,
+                "3": 167
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 734
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱茂杉",
+            "party": "無"
+        },
+        "2": {
+            "name": "李志偉",
+            "party": "無"
+        },
+        "3": {
+            "name": "余永寬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "永和里",
+            "house_no": "273",
+            "candidates": {
+                "1": 216,
+                "2": 246,
+                "3": 346
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "朴子市",
+            "cunli": "永和里",
+            "house_no": "274",
+            "candidates": {
+                "1": 193,
+                "2": 228,
+                "3": 327
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1145
+        }
+    ]
+}

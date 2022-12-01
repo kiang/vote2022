@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美英",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄒宗國",
+            "party": "無"
+        },
+        "3": {
+            "name": "翁宗豐",
+            "party": "無"
+        },
+        "4": {
+            "name": "楊素珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "立仁里",
+            "house_no": "134",
+            "candidates": {
+                "1": 26,
+                "2": 179,
+                "3": 100,
+                "4": 369
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "立仁里",
+            "house_no": "135",
+            "candidates": {
+                "1": 18,
+                "2": 164,
+                "3": 143,
+                "4": 445
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "立仁里",
+            "house_no": "136",
+            "candidates": {
+                "1": 19,
+                "2": 219,
+                "3": 77,
+                "4": 372
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1194
+        }
+    ]
+}

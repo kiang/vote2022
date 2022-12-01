@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李建和",
+            "party": "無"
+        },
+        "2": {
+            "name": "王宏銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡秋林",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪順天",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳何男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大城鄉",
+            "cunli": "豐美村",
+            "house_no": "1024",
+            "candidates": {
+                "1": 94,
+                "2": 336
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 803
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "三豐村",
+            "house_no": "1025",
+            "candidates": {
+                "1": 178,
+                "2": 132
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 583
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "菜寮村",
+            "house_no": "1026",
+            "candidates": {
+                "1": 509,
+                "2": 136
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

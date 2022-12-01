@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文權",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳啟東",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興安里",
+            "house_no": "1648",
+            "candidates": {
+                "1": 638,
+                "2": 264
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "文山區",
+            "cunli": "興安里",
+            "house_no": "1649",
+            "candidates": {
+                "1": 641,
+                "2": 285
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "文山區",
+            "cunli": "興安里",
+            "house_no": "1650",
+            "candidates": {
+                "1": 778,
+                "2": 210
+            },
+            "count_wrong": 33,
+            "count_unused": 1,
+            "count_total": 1363
+        },
+        {
+            "area": "文山區",
+            "cunli": "興安里",
+            "house_no": "1651",
+            "candidates": {
+                "1": 668,
+                "2": 226
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

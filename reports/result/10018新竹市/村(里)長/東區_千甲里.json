@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾資強",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "千甲里",
+            "house_no": "57",
+            "candidates": {
+                "1": 553
+            },
+            "count_wrong": 86,
+            "count_unused": 3,
+            "count_total": 1032
+        },
+        {
+            "area": "東區",
+            "cunli": "千甲里",
+            "house_no": "58",
+            "candidates": {
+                "1": 510
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 968
+        }
+    ]
+}

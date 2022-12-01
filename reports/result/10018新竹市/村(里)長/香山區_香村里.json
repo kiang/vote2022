@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳嵩銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉麗玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳春生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "香村里",
+            "house_no": "328",
+            "candidates": {
+                "1": 157,
+                "2": 323,
+                "3": 285
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "香山區",
+            "cunli": "香村里",
+            "house_no": "329",
+            "candidates": {
+                "1": 149,
+                "2": 282,
+                "3": 246
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "香山區",
+            "cunli": "香村里",
+            "house_no": "330",
+            "candidates": {
+                "1": 56,
+                "2": 271,
+                "3": 388
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1134
+        }
+    ]
+}

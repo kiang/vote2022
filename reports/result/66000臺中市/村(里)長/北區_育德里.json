@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑨浩",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃志銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃淑容",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "育德里",
+            "house_no": "1247",
+            "candidates": {
+                "1": 222,
+                "2": 513,
+                "3": 114
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "北區",
+            "cunli": "育德里",
+            "house_no": "1248",
+            "candidates": {
+                "1": 86,
+                "2": 368,
+                "3": 64
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "北區",
+            "cunli": "育德里",
+            "house_no": "1249",
+            "candidates": {
+                "1": 129,
+                "2": 414,
+                "3": 98
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1096
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃家豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳益昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "昌隆里",
+            "house_no": "415",
+            "candidates": {
+                "1": 311,
+                "2": 355
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌隆里",
+            "house_no": "416",
+            "candidates": {
+                "1": 366,
+                "2": 287
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌隆里",
+            "house_no": "417",
+            "candidates": {
+                "1": 178,
+                "2": 513
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

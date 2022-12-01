@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李士博",
+            "party": "無"
+        },
+        "2": {
+            "name": "李永達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "安業里",
+            "house_no": "441",
+            "candidates": {
+                "1": 174,
+                "2": 183
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 526
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "安業里",
+            "house_no": "442",
+            "candidates": {
+                "1": 378,
+                "2": 132
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 716
+        }
+    ]
+}

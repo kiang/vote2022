@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李有福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "誠安里",
+            "house_no": "1417",
+            "candidates": {
+                "1": 613
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "大安區",
+            "cunli": "誠安里",
+            "house_no": "1418",
+            "candidates": {
+                "1": 560
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "大安區",
+            "cunli": "誠安里",
+            "house_no": "1419",
+            "candidates": {
+                "1": 567
+            },
+            "count_wrong": 96,
+            "count_unused": 1,
+            "count_total": 977
+        }
+    ]
+}

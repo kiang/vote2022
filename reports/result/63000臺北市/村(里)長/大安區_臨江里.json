@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉勇雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "臨江里",
+            "house_no": "1495",
+            "candidates": {
+                "1": 681
+            },
+            "count_wrong": 112,
+            "count_unused": 1,
+            "count_total": 1199
+        },
+        {
+            "area": "大安區",
+            "cunli": "臨江里",
+            "house_no": "1496",
+            "candidates": {
+                "1": 680
+            },
+            "count_wrong": 67,
+            "count_unused": 1,
+            "count_total": 1121
+        },
+        {
+            "area": "大安區",
+            "cunli": "臨江里",
+            "house_no": "1497",
+            "candidates": {
+                "1": 593
+            },
+            "count_wrong": 49,
+            "count_unused": 12,
+            "count_total": 977
+        }
+    ]
+}

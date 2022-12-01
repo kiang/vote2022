@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪世東",
+            "party": "無"
+        },
+        "2": {
+            "name": "王澤源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關廟區",
+            "cunli": "龜洞里",
+            "house_no": "1528",
+            "candidates": {
+                "1": 313,
+                "2": 209
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 749
+        },
+        {
+            "area": "關廟區",
+            "cunli": "龜洞里",
+            "house_no": "1529",
+            "candidates": {
+                "1": 265,
+                "2": 241
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 678
+        }
+    ]
+}

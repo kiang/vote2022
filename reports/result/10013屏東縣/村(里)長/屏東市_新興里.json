@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅士熒",
+            "party": "無"
+        },
+        "2": {
+            "name": "許家緯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "新興里",
+            "house_no": "60",
+            "candidates": {
+                "1": 470,
+                "2": 347
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "屏東市",
+            "cunli": "新興里",
+            "house_no": "61",
+            "candidates": {
+                "1": 258,
+                "2": 314
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1174
+        }
+    ]
+}

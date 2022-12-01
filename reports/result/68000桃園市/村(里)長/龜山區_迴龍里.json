@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐麗月",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝煜晟",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳冠輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "迴龍里",
+            "house_no": "315",
+            "candidates": {
+                "1": 264,
+                "2": 117,
+                "3": 90
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 871
+        },
+        {
+            "area": "龜山區",
+            "cunli": "迴龍里",
+            "house_no": "316",
+            "candidates": {
+                "1": 287,
+                "2": 152,
+                "3": 108
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "龜山區",
+            "cunli": "迴龍里",
+            "house_no": "317",
+            "candidates": {
+                "1": 363,
+                "2": 189,
+                "3": 126
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1285
+        },
+        {
+            "area": "龜山區",
+            "cunli": "迴龍里",
+            "house_no": "318",
+            "candidates": {
+                "1": 375,
+                "2": 206,
+                "3": 145
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "龜山區",
+            "cunli": "迴龍里",
+            "house_no": "319",
+            "candidates": {
+                "1": 336,
+                "2": 216,
+                "3": 144
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1319
+        }
+    ]
+}

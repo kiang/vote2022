@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳朝桂",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "沈建宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "本元里",
+            "house_no": "1040",
+            "candidates": {
+                "1": 290,
+                "2": 439
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "三民區",
+            "cunli": "本元里",
+            "house_no": "1041",
+            "candidates": {
+                "1": 337,
+                "2": 299
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "三民區",
+            "cunli": "本元里",
+            "house_no": "1042",
+            "candidates": {
+                "1": 249,
+                "2": 443
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "三民區",
+            "cunli": "本元里",
+            "house_no": "1043",
+            "candidates": {
+                "1": 338,
+                "2": 297
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

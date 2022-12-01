@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭悅生",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "徐徽梁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁德區",
+            "cunli": "太子里",
+            "house_no": "1388",
+            "candidates": {
+                "1": 340,
+                "2": 444
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "仁德區",
+            "cunli": "太子里",
+            "house_no": "1389",
+            "candidates": {
+                "1": 378,
+                "2": 410
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "仁德區",
+            "cunli": "太子里",
+            "house_no": "1390",
+            "candidates": {
+                "1": 290,
+                "2": 507
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1412
+        },
+        {
+            "area": "仁德區",
+            "cunli": "太子里",
+            "house_no": "1391",
+            "candidates": {
+                "1": 219,
+                "2": 464
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1188
+        }
+    ]
+}

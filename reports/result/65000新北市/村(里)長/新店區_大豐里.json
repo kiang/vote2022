@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉秀瓶",
+            "party": "無"
+        },
+        "2": {
+            "name": "張厚仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "大豐里",
+            "house_no": "2218",
+            "candidates": {
+                "1": 198,
+                "2": 404
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "新店區",
+            "cunli": "大豐里",
+            "house_no": "2219",
+            "candidates": {
+                "1": 217,
+                "2": 397
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "新店區",
+            "cunli": "大豐里",
+            "house_no": "2220",
+            "candidates": {
+                "1": 175,
+                "2": 485
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1019
+        }
+    ]
+}

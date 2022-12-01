@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃清順",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯仁傑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "振興里",
+            "house_no": "1164",
+            "candidates": {
+                "1": 364,
+                "2": 422
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "板橋區",
+            "cunli": "振興里",
+            "house_no": "1165",
+            "candidates": {
+                "1": 382,
+                "2": 373
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "板橋區",
+            "cunli": "振興里",
+            "house_no": "1166",
+            "candidates": {
+                "1": 381,
+                "2": 358
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

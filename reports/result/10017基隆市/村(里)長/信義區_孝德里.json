@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱志偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "孝德里",
+            "house_no": "73",
+            "candidates": {
+                "1": 668
+            },
+            "count_wrong": 89,
+            "count_unused": 1,
+            "count_total": 1405
+        },
+        {
+            "area": "信義區",
+            "cunli": "孝德里",
+            "house_no": "74",
+            "candidates": {
+                "1": 503
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 1123
+        }
+    ]
+}

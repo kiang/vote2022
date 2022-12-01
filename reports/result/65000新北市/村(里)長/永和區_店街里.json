@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王訢人",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳茂己",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "店街里",
+            "house_no": "1686",
+            "candidates": {
+                "1": 292,
+                "2": 317
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "永和區",
+            "cunli": "店街里",
+            "house_no": "1687",
+            "candidates": {
+                "1": 357,
+                "2": 280
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "永和區",
+            "cunli": "店街里",
+            "house_no": "1688",
+            "candidates": {
+                "1": 371,
+                "2": 261
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1138
+        }
+    ]
+}

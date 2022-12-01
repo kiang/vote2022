@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王薏卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊麗玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "呂貴粟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "口湖鄉",
+            "cunli": "口湖村",
+            "house_no": "226",
+            "candidates": {
+                "1": 302,
+                "2": 21,
+                "3": 423
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1060
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明仙",
+            "party": "無"
+        },
+        "2": {
+            "name": "李添益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "重興里",
+            "house_no": "167",
+            "candidates": {
+                "1": 99,
+                "2": 484
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "西區",
+            "cunli": "重興里",
+            "house_no": "168",
+            "candidates": {
+                "1": 72,
+                "2": 420
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 799
+        }
+    ]
+}

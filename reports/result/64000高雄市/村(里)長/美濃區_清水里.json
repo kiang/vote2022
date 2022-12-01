@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張金發",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾慶源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "清水里",
+            "house_no": "124",
+            "candidates": {
+                "1": 238,
+                "2": 336
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "美濃區",
+            "cunli": "清水里",
+            "house_no": "125",
+            "candidates": {
+                "1": 319,
+                "2": 174
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 743
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝青峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓君灝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "興福里",
+            "house_no": "2632",
+            "candidates": {
+                "1": 283,
+                "2": 497
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1367
+        },
+        {
+            "area": "汐止區",
+            "cunli": "興福里",
+            "house_no": "2633",
+            "candidates": {
+                "1": 352,
+                "2": 383
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1459
+        }
+    ]
+}

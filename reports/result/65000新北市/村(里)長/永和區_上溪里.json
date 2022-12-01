@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭元富",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡裕馨",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴碧鑾",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "上溪里",
+            "house_no": "1742",
+            "candidates": {
+                "1": 124,
+                "2": 149,
+                "3": 180
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "永和區",
+            "cunli": "上溪里",
+            "house_no": "1743",
+            "candidates": {
+                "1": 166,
+                "2": 116,
+                "3": 198
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 790
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾志國",
+            "party": "無"
+        },
+        "2": {
+            "name": "李科緯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八里區",
+            "cunli": "埤頭里",
+            "house_no": "160",
+            "candidates": {
+                "1": 468,
+                "2": 312
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1411
+        },
+        {
+            "area": "八里區",
+            "cunli": "埤頭里",
+            "house_no": "161",
+            "candidates": {
+                "1": 474,
+                "2": 213
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1245
+        },
+        {
+            "area": "八里區",
+            "cunli": "埤頭里",
+            "house_no": "162",
+            "candidates": {
+                "1": 411,
+                "2": 264
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1236
+        }
+    ]
+}

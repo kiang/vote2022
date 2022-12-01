@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王安國",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林明正",
+            "party": "無"
+        },
+        "3": {
+            "name": "趙宋世英",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "新生里",
+            "house_no": "1172",
+            "candidates": {
+                "1": 251,
+                "2": 115,
+                "3": 174
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "南區",
+            "cunli": "新生里",
+            "house_no": "1173",
+            "candidates": {
+                "1": 322,
+                "2": 65,
+                "3": 269
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "南區",
+            "cunli": "新生里",
+            "house_no": "1174",
+            "candidates": {
+                "1": 326,
+                "2": 77,
+                "3": 200
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1082
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋志光",
+            "party": "無"
+        },
+        "2": {
+            "name": "林新雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長濱鄉",
+            "cunli": "三間村",
+            "house_no": "179",
+            "candidates": {
+                "1": 240,
+                "2": 119
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 629
+        },
+        {
+            "area": "長濱鄉",
+            "cunli": "三間村",
+            "house_no": "180",
+            "candidates": {
+                "1": 124,
+                "2": 52
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 296
+        },
+        {
+            "area": "長濱鄉",
+            "cunli": "三間村",
+            "house_no": "181",
+            "candidates": {
+                "1": 55,
+                "2": 18
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 170
+        }
+    ]
+}

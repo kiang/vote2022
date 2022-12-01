@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "丁秋",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文求",
+            "party": "無"
+        },
+        "3": {
+            "name": "林勝山",
+            "party": "無"
+        },
+        "4": {
+            "name": "林民雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "五港村",
+            "house_no": "50",
+            "candidates": {
+                "1": 76,
+                "2": 362,
+                "3": 89,
+                "4": 308
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "五港村",
+            "house_no": "51",
+            "candidates": {
+                "1": 17,
+                "2": 58,
+                "3": 17,
+                "4": 290
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 524
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "富琦村",
+            "house_no": "52",
+            "candidates": {
+                "1": 224,
+                "2": 119,
+                "3": 200,
+                "4": 165
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "富琦村",
+            "house_no": "53",
+            "candidates": {
+                "1": 104,
+                "2": 76,
+                "3": 50,
+                "4": 46
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 435
+        }
+    ]
+}

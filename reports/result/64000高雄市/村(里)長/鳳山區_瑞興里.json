@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王玉蘭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "瑞興里",
+            "house_no": "1513",
+            "candidates": {
+                "1": 672
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "瑞興里",
+            "house_no": "1514",
+            "candidates": {
+                "1": 642
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1454
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "瑞興里",
+            "house_no": "1515",
+            "candidates": {
+                "1": 788
+            },
+            "count_wrong": 161,
+            "count_unused": 0,
+            "count_total": 1683
+        }
+    ]
+}

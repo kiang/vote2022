@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘素裝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳悅芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "48",
+            "candidates": {
+                "1": 161,
+                "2": 244
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "49",
+            "candidates": {
+                "1": 209,
+                "2": 230
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "50",
+            "candidates": {
+                "1": 248,
+                "2": 214
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "51",
+            "candidates": {
+                "1": 278,
+                "2": 285
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主權里",
+            "house_no": "52",
+            "candidates": {
+                "1": 250,
+                "2": 281
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 964
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝學明",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐肇淼",
+            "party": "無"
+        },
+        "3": {
+            "name": "張盛業",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "玉華里",
+            "house_no": "11",
+            "candidates": {
+                "1": 56,
+                "2": 357,
+                "3": 238
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉華里",
+            "house_no": "12",
+            "candidates": {
+                "1": 84,
+                "2": 356,
+                "3": 245
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "玉華里",
+            "house_no": "13",
+            "candidates": {
+                "1": 83,
+                "2": 340,
+                "3": 323
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1166
+        }
+    ]
+}

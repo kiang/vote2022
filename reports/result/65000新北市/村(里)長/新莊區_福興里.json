@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊明教",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉宗鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "福興里",
+            "house_no": "399",
+            "candidates": {
+                "1": 580,
+                "2": 145
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "新莊區",
+            "cunli": "福興里",
+            "house_no": "400",
+            "candidates": {
+                "1": 583,
+                "2": 131
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "新莊區",
+            "cunli": "福興里",
+            "house_no": "401",
+            "candidates": {
+                "1": 572,
+                "2": 173
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "新莊區",
+            "cunli": "福興里",
+            "house_no": "402",
+            "candidates": {
+                "1": 550,
+                "2": 206
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1295
+        }
+    ]
+}

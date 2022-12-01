@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李茂山",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳盈伶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "港坪里",
+            "house_no": "116",
+            "candidates": {
+                "1": 398,
+                "2": 143
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "西區",
+            "cunli": "港坪里",
+            "house_no": "117",
+            "candidates": {
+                "1": 379,
+                "2": 215
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "西區",
+            "cunli": "港坪里",
+            "house_no": "118",
+            "candidates": {
+                "1": 407,
+                "2": 183
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1196
+        }
+    ]
+}

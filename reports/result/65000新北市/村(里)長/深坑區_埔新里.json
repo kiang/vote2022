@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游貫中",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔡桂英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "深坑區",
+            "cunli": "埔新里",
+            "house_no": "2365",
+            "candidates": {
+                "1": 427,
+                "2": 341
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1382
+        },
+        {
+            "area": "深坑區",
+            "cunli": "埔新里",
+            "house_no": "2366",
+            "candidates": {
+                "1": 394,
+                "2": 357
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1349
+        },
+        {
+            "area": "深坑區",
+            "cunli": "埔新里",
+            "house_no": "2367",
+            "candidates": {
+                "1": 384,
+                "2": 349
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "深坑區",
+            "cunli": "埔新里",
+            "house_no": "2368",
+            "candidates": {
+                "1": 374,
+                "2": 524
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1437
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡金火",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉興隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "南勢里",
+            "house_no": "1864",
+            "candidates": {
+                "1": 293,
+                "2": 362
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "和平區",
+            "cunli": "南勢里",
+            "house_no": "1865",
+            "candidates": {
+                "1": 387,
+                "2": 327
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 938
+        }
+    ]
+}

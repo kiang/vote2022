@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金山",
+            "party": "無"
+        },
+        "2": {
+            "name": "王建福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "坪林區",
+            "cunli": "上德里",
+            "house_no": "2393",
+            "candidates": {
+                "1": 67,
+                "2": 126
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 334
+        },
+        {
+            "area": "坪林區",
+            "cunli": "上德里",
+            "house_no": "2394",
+            "candidates": {
+                "1": 275,
+                "2": 44
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 476
+        }
+    ]
+}

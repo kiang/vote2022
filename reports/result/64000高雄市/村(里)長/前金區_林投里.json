@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳光昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡祁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前金區",
+            "cunli": "林投里",
+            "house_no": "1220",
+            "candidates": {
+                "1": 285,
+                "2": 77,
+                "3": 133
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1010
+        }
+    ]
+}

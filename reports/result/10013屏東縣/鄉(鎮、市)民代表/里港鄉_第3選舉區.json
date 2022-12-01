@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾天明",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳清麗",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾聰諭",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝見興",
+            "party": "無"
+        },
+        "5": {
+            "name": "張振源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "鐵店村",
+            "house_no": "355",
+            "candidates": {
+                "1": 171,
+                "2": 330,
+                "3": 171,
+                "4": 240
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "茄苳村",
+            "house_no": "356",
+            "candidates": {
+                "1": 36,
+                "2": 42,
+                "3": 25,
+                "4": 93
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 287
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "茄苳村",
+            "house_no": "357",
+            "candidates": {
+                "1": 71,
+                "2": 561,
+                "3": 69,
+                "4": 122
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "載興村",
+            "house_no": "358",
+            "candidates": {
+                "1": 194,
+                "2": 107,
+                "3": 147,
+                "4": 215
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "載興村",
+            "house_no": "359",
+            "candidates": {
+                "1": 298,
+                "2": 86,
+                "3": 245,
+                "4": 246
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1276
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡宏奇",
+            "party": "無"
+        },
+        "2": {
+            "name": "林證梧",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳松煜",
+            "party": "無"
+        },
+        "4": {
+            "name": "張馥蘭",
+            "party": "無"
+        },
+        "5": {
+            "name": "簡石木",
+            "party": "無"
+        },
+        "6": {
+            "name": "廖啟賢",
+            "party": "民主進步黨"
+        },
+        "7": {
+            "name": "吳武洲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "三興村",
+            "house_no": "348",
+            "candidates": {
+                "1": 116,
+                "2": 74,
+                "3": 235,
+                "4": 246
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "三興村",
+            "house_no": "349",
+            "candidates": {
+                "1": 165,
+                "2": 45,
+                "3": 164,
+                "4": 224
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "二結村",
+            "house_no": "350",
+            "candidates": {
+                "1": 91,
+                "2": 140,
+                "3": 199,
+                "4": 100
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "二結村",
+            "house_no": "351",
+            "candidates": {
+                "1": 59,
+                "2": 172,
+                "3": 240,
+                "4": 75
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "鎮安村",
+            "house_no": "352",
+            "candidates": {
+                "1": 55,
+                "2": 128,
+                "3": 174,
+                "4": 73
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 768
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "鎮安村",
+            "house_no": "353",
+            "candidates": {
+                "1": 85,
+                "2": 136,
+                "3": 203,
+                "4": 93
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 867
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "鎮安村",
+            "house_no": "354",
+            "candidates": {
+                "1": 81,
+                "2": 139,
+                "3": 292,
+                "4": 114
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 946
+        }
+    ]
+}

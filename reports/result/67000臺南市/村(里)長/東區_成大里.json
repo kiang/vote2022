@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張歸樵",
+            "party": "無"
+        },
+        "2": {
+            "name": "夏劍絢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "成大里",
+            "house_no": "1265",
+            "candidates": {
+                "1": 289,
+                "2": 229
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "東區",
+            "cunli": "成大里",
+            "house_no": "1266",
+            "candidates": {
+                "1": 268,
+                "2": 220
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 871
+        }
+    ]
+}

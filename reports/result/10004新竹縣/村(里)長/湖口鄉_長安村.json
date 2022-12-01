@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明上",
+            "party": "無"
+        },
+        "2": {
+            "name": "張勝財",
+            "party": "無"
+        },
+        "3": {
+            "name": "盧潮鉅",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "長安村",
+            "house_no": "308",
+            "candidates": {
+                "1": 68,
+                "2": 297,
+                "3": 363
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

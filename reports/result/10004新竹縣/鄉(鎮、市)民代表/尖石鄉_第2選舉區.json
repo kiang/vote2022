@@ -1,0 +1,123 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温武雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾榮義",
+            "party": "無"
+        },
+        "3": {
+            "name": "佛度布待",
+            "party": "無"
+        },
+        "4": {
+            "name": "林愛珍",
+            "party": "無"
+        },
+        "5": {
+            "name": "馬沙巴浪",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "徐大衛",
+            "party": "無"
+        },
+        "7": {
+            "name": "廖英雄",
+            "party": "無"
+        },
+        "8": {
+            "name": "范中強",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "義興村",
+            "house_no": "445",
+            "candidates": {
+                "1": 75,
+                "2": 10,
+                "3": 14,
+                "4": 16,
+                "5": 14,
+                "6": 3,
+                "7": 10
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 196
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "義興村",
+            "house_no": "446",
+            "candidates": {
+                "1": 154,
+                "2": 46,
+                "3": 13,
+                "4": 19,
+                "5": 20,
+                "6": 11,
+                "7": 26
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 356
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "錦屏村",
+            "house_no": "449",
+            "candidates": {
+                "1": 13,
+                "2": 107,
+                "3": 32,
+                "4": 150,
+                "5": 13,
+                "6": 47,
+                "7": 22
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 506
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "錦屏村",
+            "house_no": "450",
+            "candidates": {
+                "1": 28,
+                "2": 47,
+                "3": 20,
+                "4": 25,
+                "5": 122,
+                "6": 12,
+                "7": 193
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 580
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "梅花村",
+            "house_no": "451",
+            "candidates": {
+                "1": 49,
+                "2": 75,
+                "3": 212,
+                "4": 27,
+                "5": 92,
+                "6": 25,
+                "7": 18
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 622
+        }
+    ]
+}

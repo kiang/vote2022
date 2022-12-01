@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉志賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳樹濱",
+            "party": "無"
+        },
+        "3": {
+            "name": "趙奕忻",
+            "party": "無"
+        },
+        "4": {
+            "name": "趙玉瑜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "磺溪里",
+            "house_no": "339",
+            "candidates": {
+                "1": 204,
+                "2": 201,
+                "3": 503,
+                "4": 252
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1651
+        }
+    ]
+}

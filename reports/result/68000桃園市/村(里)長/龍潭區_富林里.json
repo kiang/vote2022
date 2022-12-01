@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉義風",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "魏榮貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "富林里",
+            "house_no": "1269",
+            "candidates": {
+                "1": 494,
+                "2": 464
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1643
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "富林里",
+            "house_no": "1270",
+            "candidates": {
+                "1": 498,
+                "2": 554
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1577
+        }
+    ]
+}

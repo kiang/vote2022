@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝盛宜 Calaw Kaniw",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪福文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳林鎮",
+            "cunli": "山興里",
+            "house_no": "232",
+            "candidates": {
+                "1": 72,
+                "2": 115
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 289
+        },
+        {
+            "area": "鳳林鎮",
+            "cunli": "山興里",
+            "house_no": "233",
+            "candidates": {
+                "1": 100,
+                "2": 34
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 227
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許佳明",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃炳勲",
+            "party": "無"
+        },
+        "3": {
+            "name": "藍豐文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "鳳山里",
+            "house_no": "80",
+            "candidates": {
+                "1": 295,
+                "2": 194,
+                "3": 174
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李鳳芝",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "烏林里",
+            "house_no": "1216",
+            "candidates": {
+                "1": 671
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1409
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "烏林里",
+            "house_no": "1217",
+            "candidates": {
+                "1": 733
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1592
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "烏林里",
+            "house_no": "1218",
+            "candidates": {
+                "1": 671
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1427
+        }
+    ]
+}

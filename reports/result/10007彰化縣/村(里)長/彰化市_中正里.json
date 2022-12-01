@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林令宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳冠宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "中正里",
+            "house_no": "103",
+            "candidates": {
+                "1": 229,
+                "2": 188
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 623
+        },
+        {
+            "area": "彰化市",
+            "cunli": "中正里",
+            "house_no": "104",
+            "candidates": {
+                "1": 190,
+                "2": 196
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 690
+        }
+    ]
+}

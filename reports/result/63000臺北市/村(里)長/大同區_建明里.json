@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王振宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "建明里",
+            "house_no": "1048",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "大同區",
+            "cunli": "建明里",
+            "house_no": "1049",
+            "candidates": {
+                "1": 457
+            },
+            "count_wrong": 116,
+            "count_unused": 1,
+            "count_total": 897
+        },
+        {
+            "area": "大同區",
+            "cunli": "建明里",
+            "house_no": "1050",
+            "candidates": {
+                "1": 334
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 719
+        }
+    ]
+}

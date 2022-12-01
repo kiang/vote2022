@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李式嘉",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂建同",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "自立里",
+            "house_no": "1024",
+            "candidates": {
+                "1": 270,
+                "2": 441
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "板橋區",
+            "cunli": "自立里",
+            "house_no": "1025",
+            "candidates": {
+                "1": 197,
+                "2": 503
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1160
+        }
+    ]
+}

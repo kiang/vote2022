@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭文昌",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "民權里",
+            "house_no": "1649",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 128,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "永和區",
+            "cunli": "民權里",
+            "house_no": "1650",
+            "candidates": {
+                "1": 653
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1356
+        },
+        {
+            "area": "永和區",
+            "cunli": "民權里",
+            "house_no": "1651",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 141,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

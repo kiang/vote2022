@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王廣禮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林靜賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "林森里",
+            "house_no": "74",
+            "candidates": {
+                "1": 313,
+                "2": 416
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1233
+        },
+        {
+            "area": "東區",
+            "cunli": "林森里",
+            "house_no": "75",
+            "candidates": {
+                "1": 241,
+                "2": 244
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 913
+        }
+    ]
+}

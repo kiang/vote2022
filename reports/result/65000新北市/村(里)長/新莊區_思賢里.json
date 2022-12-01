@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓茂松",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊祐全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "思賢里",
+            "house_no": "445",
+            "candidates": {
+                "1": 335,
+                "2": 345
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "新莊區",
+            "cunli": "思賢里",
+            "house_no": "446",
+            "candidates": {
+                "1": 339,
+                "2": 384
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "新莊區",
+            "cunli": "思賢里",
+            "house_no": "447",
+            "candidates": {
+                "1": 326,
+                "2": 425
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1213
+        }
+    ]
+}

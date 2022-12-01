@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林國崧",
+            "party": "無"
+        },
+        "2": {
+            "name": "李重華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "騰雲里",
+            "house_no": "1385",
+            "candidates": {
+                "1": 235,
+                "2": 600
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "萬華區",
+            "cunli": "騰雲里",
+            "house_no": "1386",
+            "candidates": {
+                "1": 250,
+                "2": 603
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1228
+        }
+    ]
+}

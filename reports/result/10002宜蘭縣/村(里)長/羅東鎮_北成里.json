@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅暳鎂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "北成里",
+            "house_no": "108",
+            "candidates": {
+                "1": 559
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "北成里",
+            "house_no": "109",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 824
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "北成里",
+            "house_no": "110",
+            "candidates": {
+                "1": 365
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 779
+        }
+    ]
+}

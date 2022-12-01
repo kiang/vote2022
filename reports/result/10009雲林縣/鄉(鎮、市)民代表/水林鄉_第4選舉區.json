@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王朝羣",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡東富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水林鄉",
+            "cunli": "海埔村",
+            "house_no": "275",
+            "candidates": {
+                "1": 225,
+                "2": 332
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 910
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "土厝村",
+            "house_no": "276",
+            "candidates": {
+                "1": 243,
+                "2": 429
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "溪墘村",
+            "house_no": "277",
+            "candidates": {
+                "1": 258,
+                "2": 327
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 755
+        }
+    ]
+}

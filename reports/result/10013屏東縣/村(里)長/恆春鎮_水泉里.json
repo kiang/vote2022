@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳桂賓",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹榮旗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "水泉里",
+            "house_no": "243",
+            "candidates": {
+                "1": 213,
+                "2": 203
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 651
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "水泉里",
+            "house_no": "244",
+            "candidates": {
+                "1": 268,
+                "2": 173
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 689
+        }
+    ]
+}

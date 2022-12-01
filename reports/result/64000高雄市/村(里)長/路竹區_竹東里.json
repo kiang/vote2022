@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王美田",
+            "party": "無"
+        },
+        "2": {
+            "name": "程啓龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "竹東里",
+            "house_no": "207",
+            "candidates": {
+                "1": 260,
+                "2": 283
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "路竹區",
+            "cunli": "竹東里",
+            "house_no": "208",
+            "candidates": {
+                "1": 143,
+                "2": 282
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "路竹區",
+            "cunli": "竹東里",
+            "house_no": "209",
+            "candidates": {
+                "1": 142,
+                "2": 369
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "路竹區",
+            "cunli": "竹東里",
+            "house_no": "210",
+            "candidates": {
+                "1": 167,
+                "2": 425
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 887
+        }
+    ]
+}

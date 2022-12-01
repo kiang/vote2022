@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐陽鴻英",
+            "party": "無"
+        },
+        "2": {
+            "name": "藍英中",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "678",
+            "candidates": {
+                "1": 377,
+                "2": 402
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1288
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "679",
+            "candidates": {
+                "1": 379,
+                "2": 334
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "680",
+            "candidates": {
+                "1": 346,
+                "2": 415
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁愛里",
+            "house_no": "681",
+            "candidates": {
+                "1": 336,
+                "2": 423
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1340
+        }
+    ]
+}

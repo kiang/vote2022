@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉天喜",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉芳鎭",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉建宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "田心村",
+            "house_no": "600",
+            "candidates": {
+                "1": 355,
+                "2": 108,
+                "3": 261
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1042
+        }
+    ]
+}

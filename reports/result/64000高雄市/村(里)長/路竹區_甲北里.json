@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王文梁",
+            "party": "無"
+        },
+        "2": {
+            "name": "王錦祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "甲北里",
+            "house_no": "197",
+            "candidates": {
+                "1": 382,
+                "2": 212
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "路竹區",
+            "cunli": "甲北里",
+            "house_no": "198",
+            "candidates": {
+                "1": 340,
+                "2": 374
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳孟育",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊志煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "嘉和里",
+            "house_no": "19",
+            "candidates": {
+                "1": 418,
+                "2": 305
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "南投市",
+            "cunli": "嘉和里",
+            "house_no": "20",
+            "candidates": {
+                "1": 293,
+                "2": 323
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 928
+        },
+        {
+            "area": "南投市",
+            "cunli": "嘉和里",
+            "house_no": "21",
+            "candidates": {
+                "1": 363,
+                "2": 395
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1127
+        },
+        {
+            "area": "南投市",
+            "cunli": "嘉和里",
+            "house_no": "22",
+            "candidates": {
+                "1": 365,
+                "2": 310
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1169
+        }
+    ]
+}

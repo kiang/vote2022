@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高世偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳福星",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾建成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰安鄉",
+            "cunli": "梅園村",
+            "house_no": "482",
+            "candidates": {
+                "1": 126,
+                "2": 168,
+                "3": 130
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 482
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏森樹",
+            "party": "無"
+        },
+        "2": {
+            "name": "張向",
+            "party": "無"
+        },
+        "3": {
+            "name": "林宜蓁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "莿桐鄉",
+            "cunli": "甘厝村",
+            "house_no": "411",
+            "candidates": {
+                "1": 19,
+                "2": 390,
+                "3": 225
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 811
+        }
+    ]
+}

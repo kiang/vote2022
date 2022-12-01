@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林羽潔",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊火濱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "西興里",
+            "house_no": "57",
+            "candidates": {
+                "1": 308,
+                "2": 316
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "彰化市",
+            "cunli": "西興里",
+            "house_no": "58",
+            "candidates": {
+                "1": 380,
+                "2": 406
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "彰化市",
+            "cunli": "西興里",
+            "house_no": "59",
+            "candidates": {
+                "1": 267,
+                "2": 330
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 975
+        }
+    ]
+}

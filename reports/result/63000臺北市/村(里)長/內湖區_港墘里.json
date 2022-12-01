@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林保琪",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭孝忠",
+            "party": "無"
+        },
+        "3": {
+            "name": "魏景城",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "港墘里",
+            "house_no": "367",
+            "candidates": {
+                "1": 177,
+                "2": 219,
+                "3": 425
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港墘里",
+            "house_no": "368",
+            "candidates": {
+                "1": 129,
+                "2": 244,
+                "3": 399
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港墘里",
+            "house_no": "369",
+            "candidates": {
+                "1": 191,
+                "2": 275,
+                "3": 396
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "內湖區",
+            "cunli": "港墘里",
+            "house_no": "370",
+            "candidates": {
+                "1": 168,
+                "2": 240,
+                "3": 400
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

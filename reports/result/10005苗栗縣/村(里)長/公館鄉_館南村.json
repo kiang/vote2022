@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃明祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "公館鄉",
+            "cunli": "館南村",
+            "house_no": "74",
+            "candidates": {
+                "1": 633
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "館南村",
+            "house_no": "75",
+            "candidates": {
+                "1": 661
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "公館鄉",
+            "cunli": "館南村",
+            "house_no": "76",
+            "candidates": {
+                "1": 635
+            },
+            "count_wrong": 78,
+            "count_unused": 3,
+            "count_total": 1062
+        }
+    ]
+}

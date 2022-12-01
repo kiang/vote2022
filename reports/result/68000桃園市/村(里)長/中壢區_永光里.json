@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳廉聖",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃雪珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "永光里",
+            "house_no": "926",
+            "candidates": {
+                "1": 330,
+                "2": 429
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1262
+        },
+        {
+            "area": "中壢區",
+            "cunli": "永光里",
+            "house_no": "927",
+            "candidates": {
+                "1": 348,
+                "2": 491
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "中壢區",
+            "cunli": "永光里",
+            "house_no": "928",
+            "candidates": {
+                "1": 248,
+                "2": 439
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "中壢區",
+            "cunli": "永光里",
+            "house_no": "929",
+            "candidates": {
+                "1": 385,
+                "2": 322
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1355
+        }
+    ]
+}

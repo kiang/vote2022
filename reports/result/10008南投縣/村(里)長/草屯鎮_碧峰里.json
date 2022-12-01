@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "袁玉珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "碧峰里",
+            "house_no": "182",
+            "candidates": {
+                "1": 280,
+                "2": 352
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "碧峰里",
+            "house_no": "183",
+            "candidates": {
+                "1": 320,
+                "2": 360
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "碧峰里",
+            "house_no": "184",
+            "candidates": {
+                "1": 467,
+                "2": 221
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "碧峰里",
+            "house_no": "185",
+            "candidates": {
+                "1": 385,
+                "2": 385
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1236
+        }
+    ]
+}

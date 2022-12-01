@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聖心",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪正義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "龜壳里",
+            "house_no": "64",
+            "candidates": {
+                "1": 229,
+                "2": 398
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "大安區",
+            "cunli": "龜壳里",
+            "house_no": "65",
+            "candidates": {
+                "1": 194,
+                "2": 220
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 600
+        }
+    ]
+}

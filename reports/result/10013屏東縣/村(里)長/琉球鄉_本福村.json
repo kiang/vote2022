@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃志明",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇新富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "琉球鄉",
+            "cunli": "本福村",
+            "house_no": "611",
+            "candidates": {
+                "1": 361,
+                "2": 340
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "琉球鄉",
+            "cunli": "本福村",
+            "house_no": "612",
+            "candidates": {
+                "1": 204,
+                "2": 476
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 973
+        }
+    ]
+}

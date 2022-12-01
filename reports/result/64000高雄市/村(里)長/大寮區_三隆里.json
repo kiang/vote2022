@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宗諒",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭國欽",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "三隆里",
+            "house_no": "1904",
+            "candidates": {
+                "1": 395,
+                "2": 452
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "大寮區",
+            "cunli": "三隆里",
+            "house_no": "1905",
+            "candidates": {
+                "1": 291,
+                "2": 392
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "大寮區",
+            "cunli": "三隆里",
+            "house_no": "1906",
+            "candidates": {
+                "1": 203,
+                "2": 484
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "大寮區",
+            "cunli": "三隆里",
+            "house_no": "1907",
+            "candidates": {
+                "1": 320,
+                "2": 343
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1043
+        }
+    ]
+}

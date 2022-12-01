@@ -1,0 +1,41 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李木華",
+            "party": "無"
+        },
+        "2": {
+            "name": "林福明",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾文國",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴孟徽",
+            "party": "無"
+        },
+        "5": {
+            "name": "連文章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "獅潭鄉",
+            "cunli": "和興村",
+            "house_no": "452",
+            "candidates": {
+                "1": 172,
+                "2": 22,
+                "3": 159,
+                "4": 37,
+                "5": 73
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 539
+        }
+    ]
+}

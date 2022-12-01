@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴沛承",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉邦悌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "雙連里",
+            "house_no": "1038",
+            "candidates": {
+                "1": 575,
+                "2": 456
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1664
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "雙連里",
+            "house_no": "1039",
+            "candidates": {
+                "1": 436,
+                "2": 469
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1514
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "雙連里",
+            "house_no": "1040",
+            "candidates": {
+                "1": 421,
+                "2": 374
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1356
+        }
+    ]
+}

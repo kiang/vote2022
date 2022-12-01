@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康永昆",
+            "party": "無"
+        },
+        "2": {
+            "name": "李鎮南",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃清溪",
+            "party": "無"
+        },
+        "4": {
+            "name": "蘇烱睿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "林貴里",
+            "house_no": "1362",
+            "candidates": {
+                "1": 90,
+                "2": 88,
+                "3": 198,
+                "4": 131
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林貴里",
+            "house_no": "1363",
+            "candidates": {
+                "1": 68,
+                "2": 48,
+                "3": 259,
+                "4": 171
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 867
+        }
+    ]
+}

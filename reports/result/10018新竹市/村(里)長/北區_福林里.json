@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪炎輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "許芳熒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "福林里",
+            "house_no": "262",
+            "candidates": {
+                "1": 372,
+                "2": 376
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "北區",
+            "cunli": "福林里",
+            "house_no": "263",
+            "candidates": {
+                "1": 484,
+                "2": 219
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1117
+        },
+        {
+            "area": "北區",
+            "cunli": "福林里",
+            "house_no": "264",
+            "candidates": {
+                "1": 267,
+                "2": 157
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "北區",
+            "cunli": "福林里",
+            "house_no": "265",
+            "candidates": {
+                "1": 327,
+                "2": 138
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 708
+        }
+    ]
+}

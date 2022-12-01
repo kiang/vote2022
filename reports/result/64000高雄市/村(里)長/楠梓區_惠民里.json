@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林元明",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張淑分",
+            "party": "無"
+        },
+        "3": {
+            "name": "林桂生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "惠民里",
+            "house_no": "494",
+            "candidates": {
+                "1": 220,
+                "2": 364,
+                "3": 206
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "惠民里",
+            "house_no": "495",
+            "candidates": {
+                "1": 195,
+                "2": 390,
+                "3": 241
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "惠民里",
+            "house_no": "496",
+            "candidates": {
+                "1": 268,
+                "2": 277,
+                "3": 173
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1216
+        }
+    ]
+}

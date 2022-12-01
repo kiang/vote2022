@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張神俊",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳信賓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土庫鎮",
+            "cunli": "新庄里",
+            "house_no": "119",
+            "candidates": {
+                "1": 231,
+                "2": 238
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 708
+        },
+        {
+            "area": "土庫鎮",
+            "cunli": "新庄里",
+            "house_no": "120",
+            "candidates": {
+                "1": 202,
+                "2": 220
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 628
+        }
+    ]
+}

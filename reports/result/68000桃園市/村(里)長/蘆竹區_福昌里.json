@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐承昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "林翁秀蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "福昌里",
+            "house_no": "517",
+            "candidates": {
+                "1": 483,
+                "2": 426
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1746
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "福昌里",
+            "house_no": "518",
+            "candidates": {
+                "1": 329,
+                "2": 502
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1580
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "福昌里",
+            "house_no": "519",
+            "candidates": {
+                "1": 387,
+                "2": 521
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1548
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "狄金山",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "興中里",
+            "house_no": "1721",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "興中里",
+            "house_no": "1722",
+            "candidates": {
+                "1": 381
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "興中里",
+            "house_no": "1723",
+            "candidates": {
+                "1": 304
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

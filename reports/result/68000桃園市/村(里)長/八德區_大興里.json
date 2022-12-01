@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂理章",
+            "party": "無"
+        },
+        "2": {
+            "name": "張政雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大興里",
+            "house_no": "432",
+            "candidates": {
+                "1": 442,
+                "2": 282
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "八德區",
+            "cunli": "大興里",
+            "house_no": "433",
+            "candidates": {
+                "1": 366,
+                "2": 393
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "八德區",
+            "cunli": "大興里",
+            "house_no": "434",
+            "candidates": {
+                "1": 319,
+                "2": 378
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1226
+        }
+    ]
+}

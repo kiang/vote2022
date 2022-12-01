@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林立偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "王福吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳朝陽",
+            "party": "無"
+        },
+        "4": {
+            "name": "李寶懿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "朝陽里",
+            "house_no": "1",
+            "candidates": {
+                "1": 369,
+                "2": 211,
+                "3": 118,
+                "4": 116
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1249
+        }
+    ]
+}

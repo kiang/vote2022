@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯蔚君",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳財國",
+            "party": "無"
+        },
+        "3": {
+            "name": "翁健倫",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "安富里",
+            "house_no": "775",
+            "candidates": {
+                "1": 143,
+                "2": 127,
+                "3": 240
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "安南區",
+            "cunli": "安富里",
+            "house_no": "776",
+            "candidates": {
+                "1": 212,
+                "2": 145,
+                "3": 232
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "安南區",
+            "cunli": "安富里",
+            "house_no": "777",
+            "candidates": {
+                "1": 175,
+                "2": 209,
+                "3": 274
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "安南區",
+            "cunli": "安富里",
+            "house_no": "778",
+            "candidates": {
+                "1": 167,
+                "2": 220,
+                "3": 279
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "安南區",
+            "cunli": "安富里",
+            "house_no": "779",
+            "candidates": {
+                "1": 171,
+                "2": 190,
+                "3": 251
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

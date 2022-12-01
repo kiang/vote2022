@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝國文",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃盛哲",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊定國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰安鄉",
+            "cunli": "士林村",
+            "house_no": "484",
+            "candidates": {
+                "1": 142,
+                "2": 207,
+                "3": 154
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 588
+        }
+    ]
+}

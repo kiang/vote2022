@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鐘振榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡曉如",
+            "party": "無"
+        },
+        "3": {
+            "name": "鐘宏池",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "水尾村",
+            "house_no": "970",
+            "candidates": {
+                "1": 114,
+                "2": 175,
+                "3": 151
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 654
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "水尾村",
+            "house_no": "971",
+            "candidates": {
+                "1": 91,
+                "2": 230,
+                "3": 245
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 791
+        }
+    ]
+}

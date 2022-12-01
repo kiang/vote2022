@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曹炎權",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹賜增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "中東里",
+            "house_no": "518",
+            "candidates": {
+                "1": 345,
+                "2": 186
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "員林市",
+            "cunli": "中東里",
+            "house_no": "519",
+            "candidates": {
+                "1": 281,
+                "2": 213
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 838
+        }
+    ]
+}

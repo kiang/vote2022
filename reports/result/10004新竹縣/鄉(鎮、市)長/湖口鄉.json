@@ -1,0 +1,836 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范綱胤",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴翊如",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳淑君",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "田耀祖",
+            "party": "無"
+        },
+        "5": {
+            "name": "鄭士榤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "和興村",
+            "house_no": "275",
+            "candidates": {
+                "1": 23,
+                "2": 61,
+                "3": 257,
+                "4": 24,
+                "5": 450
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1272
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "和興村",
+            "house_no": "276",
+            "candidates": {
+                "1": 22,
+                "2": 82,
+                "3": 341,
+                "4": 24,
+                "5": 534
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1524
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "東興村",
+            "house_no": "277",
+            "candidates": {
+                "1": 10,
+                "2": 53,
+                "3": 220,
+                "4": 40,
+                "5": 291
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "東興村",
+            "house_no": "278",
+            "candidates": {
+                "1": 12,
+                "2": 66,
+                "3": 224,
+                "4": 19,
+                "5": 202
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "東興村",
+            "house_no": "279",
+            "candidates": {
+                "1": 12,
+                "2": 55,
+                "3": 206,
+                "4": 31,
+                "5": 284
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "東興村",
+            "house_no": "280",
+            "candidates": {
+                "1": 11,
+                "2": 60,
+                "3": 209,
+                "4": 27,
+                "5": 196
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "281",
+            "candidates": {
+                "1": 20,
+                "2": 73,
+                "3": 160,
+                "4": 15,
+                "5": 412
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "282",
+            "candidates": {
+                "1": 31,
+                "2": 112,
+                "3": 226,
+                "4": 28,
+                "5": 352
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1370
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "283",
+            "candidates": {
+                "1": 16,
+                "2": 45,
+                "3": 272,
+                "4": 22,
+                "5": 265
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "德盛村",
+            "house_no": "284",
+            "candidates": {
+                "1": 10,
+                "2": 73,
+                "3": 289,
+                "4": 10,
+                "5": 314
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "愛勢村",
+            "house_no": "285",
+            "candidates": {
+                "1": 19,
+                "2": 84,
+                "3": 249,
+                "4": 22,
+                "5": 366
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "愛勢村",
+            "house_no": "286",
+            "candidates": {
+                "1": 4,
+                "2": 58,
+                "3": 307,
+                "4": 22,
+                "5": 374
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "愛勢村",
+            "house_no": "287",
+            "candidates": {
+                "1": 11,
+                "2": 99,
+                "3": 262,
+                "4": 30,
+                "5": 354
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "仁勢村",
+            "house_no": "288",
+            "candidates": {
+                "1": 19,
+                "2": 73,
+                "3": 170,
+                "4": 10,
+                "5": 252
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 810
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "孝勢村",
+            "house_no": "289",
+            "candidates": {
+                "1": 16,
+                "2": 58,
+                "3": 326,
+                "4": 24,
+                "5": 266
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中勢村",
+            "house_no": "290",
+            "candidates": {
+                "1": 17,
+                "2": 84,
+                "3": 336,
+                "4": 50,
+                "5": 245
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中勢村",
+            "house_no": "291",
+            "candidates": {
+                "1": 26,
+                "2": 100,
+                "3": 281,
+                "4": 26,
+                "5": 324
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中勢村",
+            "house_no": "292",
+            "candidates": {
+                "1": 19,
+                "2": 58,
+                "3": 268,
+                "4": 17,
+                "5": 267
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中正村",
+            "house_no": "293",
+            "candidates": {
+                "1": 14,
+                "2": 85,
+                "3": 299,
+                "4": 17,
+                "5": 280
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中正村",
+            "house_no": "294",
+            "candidates": {
+                "1": 9,
+                "2": 115,
+                "3": 318,
+                "4": 27,
+                "5": 314
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中正村",
+            "house_no": "295",
+            "candidates": {
+                "1": 4,
+                "2": 111,
+                "3": 253,
+                "4": 21,
+                "5": 255
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "296",
+            "candidates": {
+                "1": 20,
+                "2": 80,
+                "3": 259,
+                "4": 22,
+                "5": 314
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1438
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "297",
+            "candidates": {
+                "1": 18,
+                "2": 97,
+                "3": 282,
+                "4": 41,
+                "5": 277
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "298",
+            "candidates": {
+                "1": 13,
+                "2": 57,
+                "3": 274,
+                "4": 26,
+                "5": 281
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "299",
+            "candidates": {
+                "1": 9,
+                "2": 113,
+                "3": 364,
+                "4": 21,
+                "5": 235
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信義村",
+            "house_no": "300",
+            "candidates": {
+                "1": 11,
+                "2": 107,
+                "3": 325,
+                "4": 20,
+                "5": 309
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1245
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信義村",
+            "house_no": "301",
+            "candidates": {
+                "1": 10,
+                "2": 93,
+                "3": 273,
+                "4": 50,
+                "5": 307
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1284
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信義村",
+            "house_no": "302",
+            "candidates": {
+                "1": 14,
+                "2": 89,
+                "3": 328,
+                "4": 31,
+                "5": 307
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "波羅村",
+            "house_no": "303",
+            "candidates": {
+                "1": 13,
+                "2": 93,
+                "3": 242,
+                "4": 22,
+                "5": 237
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "波羅村",
+            "house_no": "304",
+            "candidates": {
+                "1": 14,
+                "2": 76,
+                "3": 269,
+                "4": 30,
+                "5": 210
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "長嶺村",
+            "house_no": "305",
+            "candidates": {
+                "1": 16,
+                "2": 98,
+                "3": 373,
+                "4": 20,
+                "5": 177
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1132
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "長嶺村",
+            "house_no": "306",
+            "candidates": {
+                "1": 11,
+                "2": 59,
+                "3": 231,
+                "4": 16,
+                "5": 144
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "長嶺村",
+            "house_no": "307",
+            "candidates": {
+                "1": 12,
+                "2": 76,
+                "3": 301,
+                "4": 32,
+                "5": 209
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "長安村",
+            "house_no": "308",
+            "candidates": {
+                "1": 9,
+                "2": 80,
+                "3": 370,
+                "4": 19,
+                "5": 238
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖口村",
+            "house_no": "309",
+            "candidates": {
+                "1": 23,
+                "2": 92,
+                "3": 370,
+                "4": 14,
+                "5": 245
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖口村",
+            "house_no": "310",
+            "candidates": {
+                "1": 13,
+                "2": 111,
+                "3": 422,
+                "4": 26,
+                "5": 313
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1417
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖鏡村",
+            "house_no": "311",
+            "candidates": {
+                "1": 14,
+                "2": 129,
+                "3": 360,
+                "4": 18,
+                "5": 291
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖鏡村",
+            "house_no": "312",
+            "candidates": {
+                "1": 17,
+                "2": 114,
+                "3": 332,
+                "4": 20,
+                "5": 242
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "湖南村",
+            "house_no": "313",
+            "candidates": {
+                "1": 16,
+                "2": 74,
+                "3": 565,
+                "4": 24,
+                "5": 189
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1430
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "314",
+            "candidates": {
+                "1": 11,
+                "2": 79,
+                "3": 433,
+                "4": 16,
+                "5": 149
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "315",
+            "candidates": {
+                "1": 16,
+                "2": 43,
+                "3": 326,
+                "4": 16,
+                "5": 112
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 963
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "316",
+            "candidates": {
+                "1": 17,
+                "2": 83,
+                "3": 297,
+                "4": 10,
+                "5": 146
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "317",
+            "candidates": {
+                "1": 22,
+                "2": 94,
+                "3": 329,
+                "4": 19,
+                "5": 180
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "318",
+            "candidates": {
+                "1": 10,
+                "2": 98,
+                "3": 229,
+                "4": 15,
+                "5": 137
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1168
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳凰村",
+            "house_no": "319",
+            "candidates": {
+                "1": 15,
+                "2": 82,
+                "3": 309,
+                "4": 4,
+                "5": 130
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳凰村",
+            "house_no": "320",
+            "candidates": {
+                "1": 12,
+                "2": 158,
+                "3": 239,
+                "4": 14,
+                "5": 148
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳凰村",
+            "house_no": "321",
+            "candidates": {
+                "1": 16,
+                "2": 112,
+                "3": 343,
+                "4": 14,
+                "5": 177
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳凰村",
+            "house_no": "322",
+            "candidates": {
+                "1": 19,
+                "2": 155,
+                "3": 328,
+                "4": 19,
+                "5": 171
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1449
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "勝利村",
+            "house_no": "323",
+            "candidates": {
+                "1": 24,
+                "2": 141,
+                "3": 437,
+                "4": 13,
+                "5": 205
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1450
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "勝利村",
+            "house_no": "324",
+            "candidates": {
+                "1": 12,
+                "2": 90,
+                "3": 368,
+                "4": 18,
+                "5": 176
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1395
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "勝利村",
+            "house_no": "325",
+            "candidates": {
+                "1": 18,
+                "2": 67,
+                "3": 354,
+                "4": 14,
+                "5": 160
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳山村",
+            "house_no": "326",
+            "candidates": {
+                "1": 18,
+                "2": 52,
+                "3": 285,
+                "4": 4,
+                "5": 125
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳山村",
+            "house_no": "327",
+            "candidates": {
+                "1": 13,
+                "2": 74,
+                "3": 425,
+                "4": 9,
+                "5": 155
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "鳳山村",
+            "house_no": "328",
+            "candidates": {
+                "1": 10,
+                "2": 71,
+                "3": 280,
+                "4": 9,
+                "5": 103
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 914
+        }
+    ]
+}

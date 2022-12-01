@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳萬長",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃姿蓉",
+            "party": "無"
+        },
+        "3": {
+            "name": "連秀嬌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "石碇區",
+            "cunli": "豐田里",
+            "house_no": "2378",
+            "candidates": {
+                "1": 38,
+                "2": 152,
+                "3": 18
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 275
+        },
+        {
+            "area": "石碇區",
+            "cunli": "豐田里",
+            "house_no": "2379",
+            "candidates": {
+                "1": 43,
+                "2": 25,
+                "3": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 84
+        }
+    ]
+}

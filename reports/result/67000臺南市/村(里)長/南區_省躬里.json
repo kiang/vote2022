@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜枝文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "省躬里",
+            "house_no": "1245",
+            "candidates": {
+                "1": 662
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "南區",
+            "cunli": "省躬里",
+            "house_no": "1246",
+            "candidates": {
+                "1": 585
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 1374
+        },
+        {
+            "area": "南區",
+            "cunli": "省躬里",
+            "house_no": "1247",
+            "candidates": {
+                "1": 661
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1231
+        }
+    ]
+}

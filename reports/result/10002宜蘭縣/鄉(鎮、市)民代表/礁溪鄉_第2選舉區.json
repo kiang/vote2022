@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游旻峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳政展",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳錫祺",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "二龍村",
+            "house_no": "226",
+            "candidates": {
+                "1": 332,
+                "2": 221,
+                "3": 232
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "時潮村",
+            "house_no": "227",
+            "candidates": {
+                "1": 246,
+                "2": 57,
+                "3": 207
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 832
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "時潮村",
+            "house_no": "228",
+            "candidates": {
+                "1": 209,
+                "2": 31,
+                "3": 103
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 557
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "玉田村",
+            "house_no": "229",
+            "candidates": {
+                "1": 141,
+                "2": 36,
+                "3": 362
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "玉田村",
+            "house_no": "230",
+            "candidates": {
+                "1": 159,
+                "2": 65,
+                "3": 425
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 1145
+        }
+    ]
+}

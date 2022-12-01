@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳坤福",
+            "party": "無"
+        },
+        "2": {
+            "name": "夏文君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "大光里",
+            "house_no": "993",
+            "candidates": {
+                "1": 304,
+                "2": 343
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "北區",
+            "cunli": "大光里",
+            "house_no": "994",
+            "candidates": {
+                "1": 278,
+                "2": 254
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "北區",
+            "cunli": "大光里",
+            "house_no": "995",
+            "candidates": {
+                "1": 330,
+                "2": 375
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "北區",
+            "cunli": "大光里",
+            "house_no": "996",
+            "candidates": {
+                "1": 342,
+                "2": 277
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1040
+        }
+    ]
+}

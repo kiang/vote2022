@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許時章",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "主安里",
+            "house_no": "46",
+            "candidates": {
+                "1": 518
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主安里",
+            "house_no": "47",
+            "candidates": {
+                "1": 499
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1151
+        }
+    ]
+}

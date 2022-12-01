@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宸玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐良芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "建華里",
+            "house_no": "34",
+            "candidates": {
+                "1": 322,
+                "2": 149
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "東區",
+            "cunli": "建華里",
+            "house_no": "35",
+            "candidates": {
+                "1": 244,
+                "2": 195
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 703
+        },
+        {
+            "area": "東區",
+            "cunli": "建華里",
+            "house_no": "36",
+            "candidates": {
+                "1": 183,
+                "2": 279
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 746
+        }
+    ]
+}

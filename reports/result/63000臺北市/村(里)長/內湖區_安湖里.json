@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張慶源",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤樹旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "安湖里",
+            "house_no": "479",
+            "candidates": {
+                "1": 171,
+                "2": 470
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "內湖區",
+            "cunli": "安湖里",
+            "house_no": "480",
+            "candidates": {
+                "1": 297,
+                "2": 409
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1146
+        },
+        {
+            "area": "內湖區",
+            "cunli": "安湖里",
+            "house_no": "481",
+            "candidates": {
+                "1": 242,
+                "2": 476
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1131
+        },
+        {
+            "area": "內湖區",
+            "cunli": "安湖里",
+            "house_no": "482",
+            "candidates": {
+                "1": 262,
+                "2": 588
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "內湖區",
+            "cunli": "安湖里",
+            "house_no": "483",
+            "candidates": {
+                "1": 218,
+                "2": 631
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1317
+        }
+    ]
+}

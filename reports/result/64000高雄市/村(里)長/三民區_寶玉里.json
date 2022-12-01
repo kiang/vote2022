@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃永富",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃昱椉",
+            "party": "無"
+        },
+        "3": {
+            "name": "林恭正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶玉里",
+            "house_no": "1100",
+            "candidates": {
+                "1": 274,
+                "2": 363,
+                "3": 284
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1529
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶玉里",
+            "house_no": "1101",
+            "candidates": {
+                "1": 158,
+                "2": 413,
+                "3": 277
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1448
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶玉里",
+            "house_no": "1102",
+            "candidates": {
+                "1": 77,
+                "2": 410,
+                "3": 280
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1408
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶玉里",
+            "house_no": "1103",
+            "candidates": {
+                "1": 224,
+                "2": 452,
+                "3": 213
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1559
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶玉里",
+            "house_no": "1104",
+            "candidates": {
+                "1": 138,
+                "2": 392,
+                "3": 243
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1522
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周翊庭",
+            "party": "無"
+        },
+        "2": {
+            "name": "王旭新",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "南聖里",
+            "house_no": "1350",
+            "candidates": {
+                "1": 279,
+                "2": 343
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "東區",
+            "cunli": "南聖里",
+            "house_no": "1351",
+            "candidates": {
+                "1": 406,
+                "2": 367
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1319
+        }
+    ]
+}

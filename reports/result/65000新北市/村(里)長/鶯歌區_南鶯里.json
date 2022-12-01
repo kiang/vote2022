@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊煌暉",
+            "party": "無"
+        },
+        "2": {
+            "name": "李明弘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鶯歌區",
+            "cunli": "南鶯里",
+            "house_no": "1870",
+            "candidates": {
+                "1": 206,
+                "2": 732
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1663
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "南鶯里",
+            "house_no": "1871",
+            "candidates": {
+                "1": 154,
+                "2": 668
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1534
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "南鶯里",
+            "house_no": "1872",
+            "candidates": {
+                "1": 167,
+                "2": 638
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1530
+        }
+    ]
+}

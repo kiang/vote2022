@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林燕玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "林子洋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "百福里",
+            "house_no": "2196",
+            "candidates": {
+                "1": 426,
+                "2": 209
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1051
+        },
+        {
+            "area": "新店區",
+            "cunli": "百福里",
+            "house_no": "2197",
+            "candidates": {
+                "1": 382,
+                "2": 165
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "新店區",
+            "cunli": "百福里",
+            "house_no": "2198",
+            "candidates": {
+                "1": 450,
+                "2": 182
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1084
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡坤育",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "吳明信",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳曜宗",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳順博",
+            "party": "無"
+        },
+        "5": {
+            "name": "蔡坤廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "羊調村",
+            "house_no": "186",
+            "candidates": {
+                "1": 301,
+                "2": 145
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "內湖村",
+            "house_no": "187",
+            "candidates": {
+                "1": 263,
+                "2": 146
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 706
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "飛東村",
+            "house_no": "188",
+            "candidates": {
+                "1": 18,
+                "2": 239
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 506
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "飛沙村",
+            "house_no": "189",
+            "candidates": {
+                "1": 21,
+                "2": 387
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "三姓村",
+            "house_no": "190",
+            "candidates": {
+                "1": 105,
+                "2": 151
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 351
+        }
+    ]
+}

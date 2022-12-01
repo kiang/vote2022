@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雪東",
+            "party": "無"
+        },
+        "2": {
+            "name": "林義山",
+            "party": "無"
+        },
+        "3": {
+            "name": "林瑞祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "三汴村",
+            "house_no": "317",
+            "candidates": {
+                "1": 99,
+                "2": 492,
+                "3": 287
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1311
+        }
+    ]
+}

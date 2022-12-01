@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林泰宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔣築諠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "松江里",
+            "house_no": "971",
+            "candidates": {
+                "1": 315,
+                "2": 425
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "中山區",
+            "cunli": "松江里",
+            "house_no": "972",
+            "candidates": {
+                "1": 354,
+                "2": 500
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "中山區",
+            "cunli": "松江里",
+            "house_no": "973",
+            "candidates": {
+                "1": 314,
+                "2": 489
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "中山區",
+            "cunli": "松江里",
+            "house_no": "974",
+            "candidates": {
+                "1": 268,
+                "2": 475
+            },
+            "count_wrong": 59,
+            "count_unused": 1,
+            "count_total": 1176
+        }
+    ]
+}

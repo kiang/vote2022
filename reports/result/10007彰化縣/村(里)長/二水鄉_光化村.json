@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾豊印",
+            "party": "無"
+        },
+        "2": {
+            "name": "張惠明",
+            "party": "無"
+        },
+        "3": {
+            "name": "游玉英",
+            "party": "無"
+        },
+        "4": {
+            "name": "孔炳煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二水鄉",
+            "cunli": "光化村",
+            "house_no": "851",
+            "candidates": {
+                "1": 121,
+                "2": 256,
+                "3": 45,
+                "4": 187
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 862
+        }
+    ]
+}

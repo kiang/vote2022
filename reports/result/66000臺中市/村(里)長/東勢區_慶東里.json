@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅阡容",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃國修",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅東全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "慶東里",
+            "house_no": "1790",
+            "candidates": {
+                "1": 250,
+                "2": 279,
+                "3": 184
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "東勢區",
+            "cunli": "慶東里",
+            "house_no": "1791",
+            "candidates": {
+                "1": 197,
+                "2": 252,
+                "3": 154
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 831
+        }
+    ]
+}

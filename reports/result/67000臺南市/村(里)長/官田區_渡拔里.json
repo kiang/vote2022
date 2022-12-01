@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴禮",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡義全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "官田區",
+            "cunli": "渡拔里",
+            "house_no": "464",
+            "candidates": {
+                "1": 165,
+                "2": 184
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 460
+        },
+        {
+            "area": "官田區",
+            "cunli": "渡拔里",
+            "house_no": "465",
+            "candidates": {
+                "1": 289,
+                "2": 219
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 675
+        },
+        {
+            "area": "官田區",
+            "cunli": "渡拔里",
+            "house_no": "466",
+            "candidates": {
+                "1": 268,
+                "2": 300
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "官田區",
+            "cunli": "渡拔里",
+            "house_no": "467",
+            "candidates": {
+                "1": 169,
+                "2": 185
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 492
+        }
+    ]
+}

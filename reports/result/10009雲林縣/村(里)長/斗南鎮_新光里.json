@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳藝中",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宏弦",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳秋蓮",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝岱芳",
+            "party": "無"
+        },
+        "5": {
+            "name": "周鐘泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "新光里",
+            "house_no": "584",
+            "candidates": {
+                "1": 70,
+                "2": 260,
+                "3": 305,
+                "4": 188,
+                "5": 33
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1324
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "新光里",
+            "house_no": "585",
+            "candidates": {
+                "1": 76,
+                "2": 245,
+                "3": 374,
+                "4": 143,
+                "5": 26
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1388
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "殷新昇",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳秋明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "復興里",
+            "house_no": "930",
+            "candidates": {
+                "1": 130,
+                "2": 332
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "永康區",
+            "cunli": "復興里",
+            "house_no": "931",
+            "candidates": {
+                "1": 128,
+                "2": 341
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 878
+        }
+    ]
+}

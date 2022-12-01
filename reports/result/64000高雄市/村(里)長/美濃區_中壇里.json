@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊秋田",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃森文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "中壇里",
+            "house_no": "106",
+            "candidates": {
+                "1": 258,
+                "2": 293
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "美濃區",
+            "cunli": "中壇里",
+            "house_no": "107",
+            "candidates": {
+                "1": 358,
+                "2": 236
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 975
+        }
+    ]
+}

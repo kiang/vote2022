@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴啓誠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "尤文雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "坪林里",
+            "house_no": "1540",
+            "candidates": {
+                "1": 297,
+                "2": 415
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "太平區",
+            "cunli": "坪林里",
+            "house_no": "1541",
+            "candidates": {
+                "1": 291,
+                "2": 336
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "太平區",
+            "cunli": "坪林里",
+            "house_no": "1542",
+            "candidates": {
+                "1": 322,
+                "2": 285
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

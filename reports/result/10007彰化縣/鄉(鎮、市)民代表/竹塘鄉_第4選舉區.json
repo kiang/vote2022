@@ -1,0 +1,136 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉劍輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹江華",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "林素珍",
+            "party": "無"
+        },
+        "4": {
+            "name": "詹清鴻",
+            "party": "無"
+        },
+        "5": {
+            "name": "張瑞雄",
+            "party": "無"
+        },
+        "6": {
+            "name": "黃豊元",
+            "party": "無"
+        },
+        "7": {
+            "name": "詹喬錠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹塘鄉",
+            "cunli": "溪墘村",
+            "house_no": "1077",
+            "candidates": {
+                "1": 35,
+                "2": 11,
+                "3": 5,
+                "4": 68,
+                "5": 47,
+                "6": 178,
+                "7": 33
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 443
+        },
+        {
+            "area": "竹塘鄉",
+            "cunli": "竹林村",
+            "house_no": "1078",
+            "candidates": {
+                "1": 254,
+                "2": 1,
+                "3": 9,
+                "4": 41,
+                "5": 124,
+                "6": 89,
+                "7": 63
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "竹塘鄉",
+            "cunli": "土庫村",
+            "house_no": "1079",
+            "candidates": {
+                "1": 84,
+                "2": 9,
+                "3": 9,
+                "4": 164,
+                "5": 115,
+                "6": 69,
+                "7": 11
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 600
+        },
+        {
+            "area": "竹塘鄉",
+            "cunli": "內新村",
+            "house_no": "1080",
+            "candidates": {
+                "1": 53,
+                "2": 33,
+                "3": 53,
+                "4": 53,
+                "5": 51,
+                "6": 130,
+                "7": 7
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 501
+        },
+        {
+            "area": "竹塘鄉",
+            "cunli": "長安村",
+            "house_no": "1081",
+            "candidates": {
+                "1": 101,
+                "2": 57,
+                "3": 125,
+                "4": 78,
+                "5": 63,
+                "6": 79,
+                "7": 22
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "竹塘鄉",
+            "cunli": "永安村",
+            "house_no": "1082",
+            "candidates": {
+                "1": 73,
+                "2": 65,
+                "3": 73,
+                "4": 73,
+                "5": 26,
+                "6": 76,
+                "7": 7
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 511
+        }
+    ]
+}

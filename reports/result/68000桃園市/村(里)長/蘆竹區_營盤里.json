@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃秀鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳美玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪素秋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "營盤里",
+            "house_no": "560",
+            "candidates": {
+                "1": 308,
+                "2": 200,
+                "3": 405
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1449
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "營盤里",
+            "house_no": "561",
+            "candidates": {
+                "1": 408,
+                "2": 209,
+                "3": 321
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1628
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "營盤里",
+            "house_no": "562",
+            "candidates": {
+                "1": 482,
+                "2": 177,
+                "3": 303
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1636
+        }
+    ]
+}

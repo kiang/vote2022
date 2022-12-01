@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周煜茗",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱耀輝",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "太昌村",
+            "house_no": "138",
+            "candidates": {
+                "1": 218,
+                "2": 281
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "太昌村",
+            "house_no": "139",
+            "candidates": {
+                "1": 246,
+                "2": 300
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "太昌村",
+            "house_no": "140",
+            "candidates": {
+                "1": 224,
+                "2": 248
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1123
+        }
+    ]
+}

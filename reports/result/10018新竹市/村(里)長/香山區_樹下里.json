@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡志堅",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳國亮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "樹下里",
+            "house_no": "310",
+            "candidates": {
+                "1": 423,
+                "2": 294
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "香山區",
+            "cunli": "樹下里",
+            "house_no": "311",
+            "candidates": {
+                "1": 348,
+                "2": 288
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 923
+        }
+    ]
+}

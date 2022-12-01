@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳宥霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫清海",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃楓仁",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "王田里",
+            "house_no": "321",
+            "candidates": {
+                "1": 301,
+                "2": 435,
+                "3": 224
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1505
+        },
+        {
+            "area": "大肚區",
+            "cunli": "王田里",
+            "house_no": "322",
+            "candidates": {
+                "1": 264,
+                "2": 370,
+                "3": 165
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "大肚區",
+            "cunli": "王田里",
+            "house_no": "323",
+            "candidates": {
+                "1": 315,
+                "2": 357,
+                "3": 217
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1391
+        }
+    ]
+}

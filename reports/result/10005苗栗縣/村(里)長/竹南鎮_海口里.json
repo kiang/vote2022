@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊福興",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭宏秋",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭萬和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "海口里",
+            "house_no": "324",
+            "candidates": {
+                "1": 376,
+                "2": 332,
+                "3": 205
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1411
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "海口里",
+            "house_no": "325",
+            "candidates": {
+                "1": 302,
+                "2": 265,
+                "3": 267
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "海口里",
+            "house_no": "326",
+            "candidates": {
+                "1": 251,
+                "2": 216,
+                "3": 297
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

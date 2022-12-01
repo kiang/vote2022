@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李振申",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱垂育",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "瑚璉村",
+            "house_no": "654",
+            "candidates": {
+                "1": 417,
+                "2": 498
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1395
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "瑚璉村",
+            "house_no": "655",
+            "candidates": {
+                "1": 412,
+                "2": 389
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1205
+        }
+    ]
+}

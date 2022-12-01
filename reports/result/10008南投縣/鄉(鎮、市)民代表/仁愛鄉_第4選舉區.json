@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝光明",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林瑞祥",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "互助村",
+            "house_no": "491",
+            "candidates": {
+                "1": 249,
+                "2": 291
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "互助村",
+            "house_no": "492",
+            "candidates": {
+                "1": 170,
+                "2": 157
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 424
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "新生村",
+            "house_no": "493",
+            "candidates": {
+                "1": 142,
+                "2": 195
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 387
+        }
+    ]
+}

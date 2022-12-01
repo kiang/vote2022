@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴韋斯",
+            "party": "無"
+        },
+        "2": {
+            "name": "林善群",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "馬蘭里",
+            "house_no": "22",
+            "candidates": {
+                "1": 237,
+                "2": 402
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "臺東市",
+            "cunli": "馬蘭里",
+            "house_no": "23",
+            "candidates": {
+                "1": 255,
+                "2": 394
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1116
+        }
+    ]
+}

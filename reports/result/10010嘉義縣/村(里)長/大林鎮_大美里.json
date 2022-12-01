@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡銓佑",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡伯利",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴啓芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大林鎮",
+            "cunli": "大美里",
+            "house_no": "208",
+            "candidates": {
+                "1": 290,
+                "2": 520,
+                "3": 98
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1467
+        }
+    ]
+}

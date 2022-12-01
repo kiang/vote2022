@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王三保",
+            "party": "無"
+        },
+        "2": {
+            "name": "王登炎",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "成德里",
+            "house_no": "1024",
+            "candidates": {
+                "1": 182,
+                "2": 376
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "北區",
+            "cunli": "成德里",
+            "house_no": "1025",
+            "candidates": {
+                "1": 173,
+                "2": 381
+            },
+            "count_wrong": 19,
+            "count_unused": 8,
+            "count_total": 1069
+        },
+        {
+            "area": "北區",
+            "cunli": "成德里",
+            "house_no": "1026",
+            "candidates": {
+                "1": 165,
+                "2": 395
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "北區",
+            "cunli": "成德里",
+            "house_no": "1027",
+            "candidates": {
+                "1": 147,
+                "2": 288
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 883
+        }
+    ]
+}

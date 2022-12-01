@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林其明",
+            "party": "無"
+        },
+        "2": {
+            "name": "李麗真",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘誼樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "文化里",
+            "house_no": "136",
+            "candidates": {
+                "1": 170,
+                "2": 173,
+                "3": 253
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1200
+        }
+    ]
+}

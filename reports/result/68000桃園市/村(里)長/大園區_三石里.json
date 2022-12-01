@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李旺朝",
+            "party": "無"
+        },
+        "2": {
+            "name": "張世良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "三石里",
+            "house_no": "612",
+            "candidates": {
+                "1": 444,
+                "2": 368
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "大園區",
+            "cunli": "三石里",
+            "house_no": "613",
+            "candidates": {
+                "1": 494,
+                "2": 519
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1466
+        }
+    ]
+}

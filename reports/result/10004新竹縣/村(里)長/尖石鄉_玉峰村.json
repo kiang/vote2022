@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林清文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "尖石鄉",
+            "cunli": "玉峰村",
+            "house_no": "452",
+            "candidates": {
+                "1": 401
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 601
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "玉峰村",
+            "house_no": "453",
+            "candidates": {
+                "1": 365
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 566
+        },
+        {
+            "area": "尖石鄉",
+            "cunli": "玉峰村",
+            "house_no": "454",
+            "candidates": {
+                "1": 77
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 116
+        }
+    ]
+}

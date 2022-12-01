@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇益和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "圳福里",
+            "house_no": "1782",
+            "candidates": {
+                "1": 621
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1316
+        },
+        {
+            "area": "樹林區",
+            "cunli": "圳福里",
+            "house_no": "1783",
+            "candidates": {
+                "1": 673
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "樹林區",
+            "cunli": "圳福里",
+            "house_no": "1784",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1092
+        }
+    ]
+}

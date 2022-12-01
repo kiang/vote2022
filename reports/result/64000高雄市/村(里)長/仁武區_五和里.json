@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林雅婷",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張炎隆",
+            "party": "無"
+        },
+        "3": {
+            "name": "許有長",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "五和里",
+            "house_no": "783",
+            "candidates": {
+                "1": 262,
+                "2": 148,
+                "3": 286
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "仁武區",
+            "cunli": "五和里",
+            "house_no": "784",
+            "candidates": {
+                "1": 245,
+                "2": 97,
+                "3": 342
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "仁武區",
+            "cunli": "五和里",
+            "house_no": "785",
+            "candidates": {
+                "1": 258,
+                "2": 147,
+                "3": 256
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "仁武區",
+            "cunli": "五和里",
+            "house_no": "786",
+            "candidates": {
+                "1": 258,
+                "2": 170,
+                "3": 258
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1245
+        }
+    ]
+}

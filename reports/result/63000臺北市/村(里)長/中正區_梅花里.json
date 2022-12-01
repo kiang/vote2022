@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳崑山",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "莊義源",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "呂金標",
+            "party": "無"
+        },
+        "4": {
+            "name": "徐景星",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "梅花里",
+            "house_no": "1187",
+            "candidates": {
+                "1": 238,
+                "2": 107,
+                "3": 77,
+                "4": 150
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "中正區",
+            "cunli": "梅花里",
+            "house_no": "1188",
+            "candidates": {
+                "1": 226,
+                "2": 115,
+                "3": 55,
+                "4": 96
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 785
+        },
+        {
+            "area": "中正區",
+            "cunli": "梅花里",
+            "house_no": "1189",
+            "candidates": {
+                "1": 113,
+                "2": 114,
+                "3": 216,
+                "4": 81
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 802
+        }
+    ]
+}

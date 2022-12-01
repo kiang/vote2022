@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴哲倫",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾清香",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳冬鄉",
+            "cunli": "玉光村",
+            "house_no": "602",
+            "candidates": {
+                "1": 140,
+                "2": 418
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "玉光村",
+            "house_no": "603",
+            "candidates": {
+                "1": 262,
+                "2": 570
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1188
+        }
+    ]
+}

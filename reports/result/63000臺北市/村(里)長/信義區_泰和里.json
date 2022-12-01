@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄒宗平",
+            "party": "無"
+        },
+        "2": {
+            "name": "連婉彤",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡靜怡",
+            "party": "無"
+        },
+        "4": {
+            "name": "林正義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "泰和里",
+            "house_no": "862",
+            "candidates": {
+                "1": 61,
+                "2": 191,
+                "3": 30,
+                "4": 186
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "信義區",
+            "cunli": "泰和里",
+            "house_no": "863",
+            "candidates": {
+                "1": 102,
+                "2": 286,
+                "3": 21,
+                "4": 249
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "信義區",
+            "cunli": "泰和里",
+            "house_no": "864",
+            "candidates": {
+                "1": 160,
+                "2": 229,
+                "3": 58,
+                "4": 306
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "信義區",
+            "cunli": "泰和里",
+            "house_no": "865",
+            "candidates": {
+                "1": 120,
+                "2": 212,
+                "3": 26,
+                "4": 284
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "信義區",
+            "cunli": "泰和里",
+            "house_no": "866",
+            "candidates": {
+                "1": 126,
+                "2": 341,
+                "3": 15,
+                "4": 287
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "信義區",
+            "cunli": "泰和里",
+            "house_no": "867",
+            "candidates": {
+                "1": 91,
+                "2": 206,
+                "3": 24,
+                "4": 247
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 963
+        }
+    ]
+}

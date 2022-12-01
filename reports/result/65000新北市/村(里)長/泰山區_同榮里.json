@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬豫軍",
+            "party": "無"
+        },
+        "2": {
+            "name": "古清輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "同榮里",
+            "house_no": "327",
+            "candidates": {
+                "1": 352,
+                "2": 368
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "泰山區",
+            "cunli": "同榮里",
+            "house_no": "328",
+            "candidates": {
+                "1": 341,
+                "2": 334
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "泰山區",
+            "cunli": "同榮里",
+            "house_no": "329",
+            "candidates": {
+                "1": 287,
+                "2": 267
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1008
+        }
+    ]
+}

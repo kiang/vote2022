@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江勝雄",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳子玄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "建南里",
+            "house_no": "1224",
+            "candidates": {
+                "1": 449,
+                "2": 301
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "南區",
+            "cunli": "建南里",
+            "house_no": "1225",
+            "candidates": {
+                "1": 340,
+                "2": 329
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "南區",
+            "cunli": "建南里",
+            "house_no": "1226",
+            "candidates": {
+                "1": 438,
+                "2": 311
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "南區",
+            "cunli": "建南里",
+            "house_no": "1227",
+            "candidates": {
+                "1": 461,
+                "2": 363
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1385
+        }
+    ]
+}

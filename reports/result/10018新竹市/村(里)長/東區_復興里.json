@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張浩燃",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃建廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "18",
+            "candidates": {
+                "1": 316,
+                "2": 373
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "19",
+            "candidates": {
+                "1": 307,
+                "2": 315
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1191
+        },
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "20",
+            "candidates": {
+                "1": 323,
+                "2": 418
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "21",
+            "candidates": {
+                "1": 295,
+                "2": 363
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1083
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾春喜",
+            "party": "無"
+        },
+        "2": {
+            "name": "林登財",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾居萬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "九如鄉",
+            "cunli": "九塊村",
+            "house_no": "331",
+            "candidates": {
+                "1": 236,
+                "2": 421,
+                "3": 270
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1342
+        }
+    ]
+}

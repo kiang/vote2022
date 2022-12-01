@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許美珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾尚倫",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳德和",
+            "party": "無"
+        },
+        "4": {
+            "name": "許連圳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "七賢里",
+            "house_no": "183",
+            "candidates": {
+                "1": 34,
+                "2": 305,
+                "3": 265,
+                "4": 110
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1163
+        },
+        {
+            "area": "安樂區",
+            "cunli": "七賢里",
+            "house_no": "184",
+            "candidates": {
+                "1": 50,
+                "2": 317,
+                "3": 216,
+                "4": 119
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1129
+        }
+    ]
+}

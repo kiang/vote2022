@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃文源",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊鎮榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳信景",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳泳璘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "六龜區",
+            "cunli": "中興里",
+            "house_no": "29",
+            "candidates": {
+                "1": 35,
+                "2": 179,
+                "3": 340,
+                "4": 280
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1327
+        }
+    ]
+}

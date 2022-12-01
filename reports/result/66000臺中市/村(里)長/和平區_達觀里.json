@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李嬋娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳振福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "達觀里",
+            "house_no": "1872",
+            "candidates": {
+                "1": 266,
+                "2": 275
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 758
+        },
+        {
+            "area": "和平區",
+            "cunli": "達觀里",
+            "house_no": "1873",
+            "candidates": {
+                "1": 112,
+                "2": 138
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 339
+        }
+    ]
+}

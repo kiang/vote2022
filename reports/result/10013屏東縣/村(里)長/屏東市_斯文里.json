@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施美如",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭明賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "斯文里",
+            "house_no": "111",
+            "candidates": {
+                "1": 254,
+                "2": 210
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "屏東市",
+            "cunli": "斯文里",
+            "house_no": "112",
+            "candidates": {
+                "1": 294,
+                "2": 348
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1063
+        }
+    ]
+}

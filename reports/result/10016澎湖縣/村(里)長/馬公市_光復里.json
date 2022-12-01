@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李潤民",
+            "party": "無"
+        },
+        "2": {
+            "name": "王金琪",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃敏惠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "光復里",
+            "house_no": "7",
+            "candidates": {
+                "1": 34,
+                "2": 106,
+                "3": 377
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "馬公市",
+            "cunli": "光復里",
+            "house_no": "8",
+            "candidates": {
+                "1": 72,
+                "2": 140,
+                "3": 305
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

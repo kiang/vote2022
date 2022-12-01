@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇明田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東山區",
+            "cunli": "東正里",
+            "house_no": "65",
+            "candidates": {
+                "1": 323
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "東山區",
+            "cunli": "東正里",
+            "house_no": "66",
+            "candidates": {
+                "1": 286
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 658
+        }
+    ]
+}

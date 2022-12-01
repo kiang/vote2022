@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林碧珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏進宜",
+            "party": "無"
+        },
+        "3": {
+            "name": "李昶龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "瓦厝村",
+            "house_no": "946",
+            "candidates": {
+                "1": 71,
+                "2": 291,
+                "3": 259
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 858
+        }
+    ]
+}

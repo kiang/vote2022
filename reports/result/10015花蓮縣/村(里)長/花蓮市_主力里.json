@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林建成",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "主力里",
+            "house_no": "53",
+            "candidates": {
+                "1": 350
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主力里",
+            "house_no": "54",
+            "candidates": {
+                "1": 354
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "主力里",
+            "house_no": "55",
+            "candidates": {
+                "1": 358
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

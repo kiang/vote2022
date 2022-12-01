@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅時禎",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁興明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "崙坪里",
+            "house_no": "1335",
+            "candidates": {
+                "1": 423,
+                "2": 275
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 1094
+        },
+        {
+            "area": "觀音區",
+            "cunli": "崙坪里",
+            "house_no": "1336",
+            "candidates": {
+                "1": 396,
+                "2": 290
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "觀音區",
+            "cunli": "崙坪里",
+            "house_no": "1337",
+            "candidates": {
+                "1": 404,
+                "2": 357
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1169
+        },
+        {
+            "area": "觀音區",
+            "cunli": "崙坪里",
+            "house_no": "1338",
+            "candidates": {
+                "1": 456,
+                "2": 333
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1259
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳寬進",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳錫慶",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳聰明",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡宗伯",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳秀育",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "中西里",
+            "house_no": "984",
+            "candidates": {
+                "1": 45,
+                "2": 163,
+                "3": 27,
+                "4": 87,
+                "5": 40
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 623
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "中西里",
+            "house_no": "985",
+            "candidates": {
+                "1": 71,
+                "2": 165,
+                "3": 59,
+                "4": 119,
+                "5": 61
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "廣興里",
+            "house_no": "986",
+            "candidates": {
+                "1": 45,
+                "2": 91,
+                "3": 357,
+                "4": 40,
+                "5": 207
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "香田里",
+            "house_no": "987",
+            "candidates": {
+                "1": 93,
+                "2": 157,
+                "3": 174,
+                "4": 88,
+                "5": 73
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 999
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "外竹里",
+            "house_no": "988",
+            "candidates": {
+                "1": 77,
+                "2": 165,
+                "3": 100,
+                "4": 170,
+                "5": 43
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "興華里",
+            "house_no": "989",
+            "candidates": {
+                "1": 160,
+                "2": 114,
+                "3": 57,
+                "4": 265,
+                "5": 49
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "東興里",
+            "house_no": "990",
+            "candidates": {
+                "1": 70,
+                "2": 111,
+                "3": 82,
+                "4": 236,
+                "5": 31
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "東興里",
+            "house_no": "991",
+            "candidates": {
+                "1": 85,
+                "2": 134,
+                "3": 120,
+                "4": 103,
+                "5": 73
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "後厝里",
+            "house_no": "992",
+            "candidates": {
+                "1": 117,
+                "2": 153,
+                "3": 110,
+                "4": 112,
+                "5": 38
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "後厝里",
+            "house_no": "993",
+            "candidates": {
+                "1": 110,
+                "2": 174,
+                "3": 148,
+                "4": 172,
+                "5": 42
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "後厝里",
+            "house_no": "994",
+            "candidates": {
+                "1": 144,
+                "2": 253,
+                "3": 137,
+                "4": 188,
+                "5": 63
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1296
+        }
+    ]
+}

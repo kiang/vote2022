@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "何火生",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "將軍區",
+            "cunli": "忠嘉里",
+            "house_no": "250",
+            "candidates": {
+                "1": 312,
+                "2": 146
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 664
+        },
+        {
+            "area": "將軍區",
+            "cunli": "忠嘉里",
+            "house_no": "251",
+            "candidates": {
+                "1": 356,
+                "2": 233
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 844
+        },
+        {
+            "area": "將軍區",
+            "cunli": "忠嘉里",
+            "house_no": "252",
+            "candidates": {
+                "1": 80,
+                "2": 262
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 505
+        },
+        {
+            "area": "將軍區",
+            "cunli": "忠嘉里",
+            "house_no": "253",
+            "candidates": {
+                "1": 92,
+                "2": 152
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 342
+        }
+    ]
+}

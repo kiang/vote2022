@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃美珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡岳澄",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃逢廣",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "景慶里",
+            "house_no": "1593",
+            "candidates": {
+                "1": 134,
+                "2": 358,
+                "3": 327
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "文山區",
+            "cunli": "景慶里",
+            "house_no": "1594",
+            "candidates": {
+                "1": 133,
+                "2": 334,
+                "3": 371
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1249
+        },
+        {
+            "area": "文山區",
+            "cunli": "景慶里",
+            "house_no": "1595",
+            "candidates": {
+                "1": 130,
+                "2": 458,
+                "3": 286
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "文山區",
+            "cunli": "景慶里",
+            "house_no": "1596",
+            "candidates": {
+                "1": 135,
+                "2": 426,
+                "3": 281
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1249
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭清木",
+            "party": "無"
+        },
+        "2": {
+            "name": "張文通",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "大同里",
+            "house_no": "260",
+            "candidates": {
+                "1": 532,
+                "2": 325
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1525
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大同里",
+            "house_no": "261",
+            "candidates": {
+                "1": 578,
+                "2": 276
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大同里",
+            "house_no": "262",
+            "candidates": {
+                "1": 645,
+                "2": 244
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1576
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大同里",
+            "house_no": "263",
+            "candidates": {
+                "1": 411,
+                "2": 235
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1127
+        }
+    ]
+}

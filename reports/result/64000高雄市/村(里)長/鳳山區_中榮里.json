@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃敏榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃慶分",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉秀美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "中榮里",
+            "house_no": "1585",
+            "candidates": {
+                "1": 199,
+                "2": 33,
+                "3": 570
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1463
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中榮里",
+            "house_no": "1586",
+            "candidates": {
+                "1": 217,
+                "2": 30,
+                "3": 532
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中榮里",
+            "house_no": "1587",
+            "candidates": {
+                "1": 206,
+                "2": 42,
+                "3": 602
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1535
+        }
+    ]
+}

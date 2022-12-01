@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳逸峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄒士根",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "河堤里",
+            "house_no": "1227",
+            "candidates": {
+                "1": 260,
+                "2": 374
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "中正區",
+            "cunli": "河堤里",
+            "house_no": "1228",
+            "candidates": {
+                "1": 199,
+                "2": 354
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 878
+        },
+        {
+            "area": "中正區",
+            "cunli": "河堤里",
+            "house_no": "1229",
+            "candidates": {
+                "1": 180,
+                "2": 462
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "中正區",
+            "cunli": "河堤里",
+            "house_no": "1230",
+            "candidates": {
+                "1": 193,
+                "2": 323
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

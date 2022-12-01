@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇麗容",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "文聖里",
+            "house_no": "62",
+            "candidates": {
+                "1": 417,
+                "2": 452
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "文聖里",
+            "house_no": "63",
+            "candidates": {
+                "1": 531,
+                "2": 330
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "文聖里",
+            "house_no": "64",
+            "candidates": {
+                "1": 288,
+                "2": 220
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 839
+        }
+    ]
+}

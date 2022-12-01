@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖伯睿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "俞慧君",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "88",
+            "candidates": {
+                "1": 294,
+                "2": 208
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 957
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "89",
+            "candidates": {
+                "1": 264,
+                "2": 280
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1085
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "90",
+            "candidates": {
+                "1": 183,
+                "2": 280
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1078
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國興里",
+            "house_no": "91",
+            "candidates": {
+                "1": 183,
+                "2": 253
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 916
+        }
+    ]
+}

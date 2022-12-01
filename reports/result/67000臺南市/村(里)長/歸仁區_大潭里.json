@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃錫家",
+            "party": "無"
+        },
+        "2": {
+            "name": "林俊成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "大潭里",
+            "house_no": "1481",
+            "candidates": {
+                "1": 215,
+                "2": 390
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "大潭里",
+            "house_no": "1482",
+            "candidates": {
+                "1": 188,
+                "2": 294
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 855
+        }
+    ]
+}

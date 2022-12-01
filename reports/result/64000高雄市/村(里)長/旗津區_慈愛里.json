@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "夏啓峯",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳清雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗津區",
+            "cunli": "慈愛里",
+            "house_no": "972",
+            "candidates": {
+                "1": 472,
+                "2": 117
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "旗津區",
+            "cunli": "慈愛里",
+            "house_no": "973",
+            "candidates": {
+                "1": 485,
+                "2": 89
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1034
+        }
+    ]
+}

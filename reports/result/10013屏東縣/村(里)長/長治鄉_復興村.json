@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳智平",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃福和",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃政君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "復興村",
+            "house_no": "310",
+            "candidates": {
+                "1": 546,
+                "2": 348,
+                "3": 85
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1426
+        }
+    ]
+}

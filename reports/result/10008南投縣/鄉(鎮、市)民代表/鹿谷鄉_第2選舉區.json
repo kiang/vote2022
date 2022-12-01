@@ -1,0 +1,108 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林江鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳君宜",
+            "party": "無"
+        },
+        "3": {
+            "name": "林錡享",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿谷鄉",
+            "cunli": "內湖村",
+            "house_no": "345",
+            "candidates": {
+                "1": 88,
+                "2": 86,
+                "3": 9,
+                "4": 120,
+                "5": 68
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 530
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "內湖村",
+            "house_no": "346",
+            "candidates": {
+                "1": 64,
+                "2": 88,
+                "3": 6,
+                "4": 104,
+                "5": 61
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 415
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "和雅村",
+            "house_no": "347",
+            "candidates": {
+                "1": 210,
+                "2": 55,
+                "3": 12,
+                "4": 97,
+                "5": 32
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 593
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹林村",
+            "house_no": "348",
+            "candidates": {
+                "1": 40,
+                "2": 195,
+                "3": 9,
+                "4": 132,
+                "5": 101
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 675
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹林村",
+            "house_no": "349",
+            "candidates": {
+                "1": 22,
+                "2": 158,
+                "3": 7,
+                "4": 103,
+                "5": 235
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "竹豐村",
+            "house_no": "350",
+            "candidates": {
+                "1": 48,
+                "2": 80,
+                "3": 4,
+                "4": 354,
+                "5": 114
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 865
+        }
+    ]
+}

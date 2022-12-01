@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳孟勇",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "胡維鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國威里",
+            "house_no": "59",
+            "candidates": {
+                "1": 98,
+                "2": 157
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 867
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國威里",
+            "house_no": "60",
+            "candidates": {
+                "1": 197,
+                "2": 161
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 748
+        }
+    ]
+}

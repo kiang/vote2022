@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林永福",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳憲億",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊朝雄",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "仁愛里",
+            "house_no": "1670",
+            "candidates": {
+                "1": 280,
+                "2": 58,
+                "3": 502
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1212
+        }
+    ]
+}

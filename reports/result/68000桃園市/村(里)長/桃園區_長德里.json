@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "萬覺英",
+            "party": "無"
+        },
+        "2": {
+            "name": "雷淑華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "長德里",
+            "house_no": "163",
+            "candidates": {
+                "1": 532,
+                "2": 483
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1633
+        },
+        {
+            "area": "桃園區",
+            "cunli": "長德里",
+            "house_no": "164",
+            "candidates": {
+                "1": 366,
+                "2": 435
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "桃園區",
+            "cunli": "長德里",
+            "house_no": "165",
+            "candidates": {
+                "1": 460,
+                "2": 583
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1808
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳皆樺",
+            "party": "中華民族致公黨"
+        },
+        "2": {
+            "name": "王俊堯",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅孝英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "民安里",
+            "house_no": "904",
+            "candidates": {
+                "1": 18,
+                "2": 439,
+                "3": 311
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "中山區",
+            "cunli": "民安里",
+            "house_no": "905",
+            "candidates": {
+                "1": 16,
+                "2": 401,
+                "3": 292
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "中山區",
+            "cunli": "民安里",
+            "house_no": "906",
+            "candidates": {
+                "1": 17,
+                "2": 361,
+                "3": 465
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1303
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "涂文昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳平雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "嵇慶生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "長春里",
+            "house_no": "29",
+            "candidates": {
+                "1": 198,
+                "2": 208,
+                "3": 124
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "屏東市",
+            "cunli": "長春里",
+            "house_no": "30",
+            "candidates": {
+                "1": 95,
+                "2": 153,
+                "3": 122
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 643
+        }
+    ]
+}

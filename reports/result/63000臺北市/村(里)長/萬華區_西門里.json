@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉敏惠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "謝金洲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "西門里",
+            "house_no": "1257",
+            "candidates": {
+                "1": 355,
+                "2": 215
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "萬華區",
+            "cunli": "西門里",
+            "house_no": "1258",
+            "candidates": {
+                "1": 409,
+                "2": 188
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "萬華區",
+            "cunli": "西門里",
+            "house_no": "1259",
+            "candidates": {
+                "1": 335,
+                "2": 182
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 918
+        }
+    ]
+}

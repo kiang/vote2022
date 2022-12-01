@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游家興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "洽溪里",
+            "house_no": "943",
+            "candidates": {
+                "1": 790
+            },
+            "count_wrong": 81,
+            "count_unused": 1,
+            "count_total": 1601
+        },
+        {
+            "area": "中壢區",
+            "cunli": "洽溪里",
+            "house_no": "944",
+            "candidates": {
+                "1": 800
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1629
+        },
+        {
+            "area": "中壢區",
+            "cunli": "洽溪里",
+            "house_no": "945",
+            "candidates": {
+                "1": 660
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1313
+        }
+    ]
+}

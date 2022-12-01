@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許琼娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金魚",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃梅芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "海南里",
+            "house_no": "783",
+            "candidates": {
+                "1": 325,
+                "2": 292,
+                "3": 140
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "安南區",
+            "cunli": "海南里",
+            "house_no": "784",
+            "candidates": {
+                "1": 169,
+                "2": 307,
+                "3": 191
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1026
+        }
+    ]
+}

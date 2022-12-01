@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許盛鋒",
+            "party": "無"
+        },
+        "2": {
+            "name": "許智全",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐金生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "溫泉里",
+            "house_no": "108",
+            "candidates": {
+                "1": 114,
+                "2": 332,
+                "3": 208
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "北投區",
+            "cunli": "溫泉里",
+            "house_no": "109",
+            "candidates": {
+                "1": 101,
+                "2": 265,
+                "3": 219
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "北投區",
+            "cunli": "溫泉里",
+            "house_no": "110",
+            "candidates": {
+                "1": 85,
+                "2": 232,
+                "3": 436
+            },
+            "count_wrong": 34,
+            "count_unused": 2,
+            "count_total": 1076
+        },
+        {
+            "area": "北投區",
+            "cunli": "溫泉里",
+            "house_no": "111",
+            "candidates": {
+                "1": 107,
+                "2": 307,
+                "3": 285
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "北投區",
+            "cunli": "溫泉里",
+            "house_no": "112",
+            "candidates": {
+                "1": 87,
+                "2": 362,
+                "3": 306
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1153
+        }
+    ]
+}

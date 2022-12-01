@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李佳倩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "淡水區",
+            "cunli": "幸福里",
+            "house_no": "120",
+            "candidates": {
+                "1": 412
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 968
+        },
+        {
+            "area": "淡水區",
+            "cunli": "幸福里",
+            "house_no": "121",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "淡水區",
+            "cunli": "幸福里",
+            "house_no": "122",
+            "candidates": {
+                "1": 506
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

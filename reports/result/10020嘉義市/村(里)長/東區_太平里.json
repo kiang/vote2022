@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施欣成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "太平里",
+            "house_no": "31",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "東區",
+            "cunli": "太平里",
+            "house_no": "32",
+            "candidates": {
+                "1": 615
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "東區",
+            "cunli": "太平里",
+            "house_no": "33",
+            "candidates": {
+                "1": 577
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1303
+        }
+    ]
+}

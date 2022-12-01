@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁迪文",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳靜慧",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "福美里",
+            "house_no": "1385",
+            "candidates": {
+                "1": 505,
+                "2": 261
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "中和區",
+            "cunli": "福美里",
+            "house_no": "1386",
+            "candidates": {
+                "1": 366,
+                "2": 459
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1269
+        },
+        {
+            "area": "中和區",
+            "cunli": "福美里",
+            "house_no": "1387",
+            "candidates": {
+                "1": 415,
+                "2": 410
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1323
+        }
+    ]
+}

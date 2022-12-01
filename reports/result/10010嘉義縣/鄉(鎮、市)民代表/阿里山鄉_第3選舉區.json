@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊莫俄",
+            "party": "無"
+        },
+        "2": {
+            "name": "王國波",
+            "party": "無"
+        },
+        "3": {
+            "name": "安麗花",
+            "party": "無"
+        },
+        "4": {
+            "name": "汪堅雄",
+            "party": "無"
+        },
+        "5": {
+            "name": "莊榮貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿里山鄉",
+            "cunli": "里佳村",
+            "house_no": "529",
+            "candidates": {
+                "1": 15,
+                "2": 8,
+                "3": 47,
+                "4": 47,
+                "5": 30
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 232
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "山美村",
+            "house_no": "530",
+            "candidates": {
+                "1": 14,
+                "2": 3,
+                "3": 135,
+                "4": 33,
+                "5": 132
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 458
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "新美村",
+            "house_no": "531",
+            "candidates": {
+                "1": 10,
+                "2": 30,
+                "3": 31,
+                "4": 62,
+                "5": 67
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 273
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "茶山村",
+            "house_no": "532",
+            "candidates": {
+                "1": 106,
+                "2": 5,
+                "3": 8,
+                "4": 43,
+                "5": 30
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 254
+        }
+    ]
+}

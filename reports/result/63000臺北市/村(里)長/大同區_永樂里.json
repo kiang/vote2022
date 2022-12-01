@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宗穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "張瑋倫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "永樂里",
+            "house_no": "1057",
+            "candidates": {
+                "1": 507,
+                "2": 234
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "大同區",
+            "cunli": "永樂里",
+            "house_no": "1058",
+            "candidates": {
+                "1": 380,
+                "2": 171
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "大同區",
+            "cunli": "永樂里",
+            "house_no": "1059",
+            "candidates": {
+                "1": 468,
+                "2": 223
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "大同區",
+            "cunli": "永樂里",
+            "house_no": "1060",
+            "candidates": {
+                "1": 520,
+                "2": 193
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1050
+        }
+    ]
+}

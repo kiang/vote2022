@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李福順",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "鄭春華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "行政里",
+            "house_no": "982",
+            "candidates": {
+                "1": 271,
+                "2": 366
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "中山區",
+            "cunli": "行政里",
+            "house_no": "983",
+            "candidates": {
+                "1": 211,
+                "2": 490
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "中山區",
+            "cunli": "行政里",
+            "house_no": "984",
+            "candidates": {
+                "1": 327,
+                "2": 508
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "中山區",
+            "cunli": "行政里",
+            "house_no": "985",
+            "candidates": {
+                "1": 390,
+                "2": 577
+            },
+            "count_wrong": 73,
+            "count_unused": 1,
+            "count_total": 2932
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊清風",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳小麗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "柳營區",
+            "cunli": "東昇里",
+            "house_no": "179",
+            "candidates": {
+                "1": 254,
+                "2": 266
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "柳營區",
+            "cunli": "東昇里",
+            "house_no": "180",
+            "candidates": {
+                "1": 397,
+                "2": 237
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "柳營區",
+            "cunli": "東昇里",
+            "house_no": "181",
+            "candidates": {
+                "1": 360,
+                "2": 210
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 842
+        }
+    ]
+}

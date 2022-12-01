@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方振漢",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱啓東",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "新吉里",
+            "house_no": "579",
+            "candidates": {
+                "1": 542,
+                "2": 235
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "安定區",
+            "cunli": "新吉里",
+            "house_no": "580",
+            "candidates": {
+                "1": 537,
+                "2": 177
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1151
+        }
+    ]
+}

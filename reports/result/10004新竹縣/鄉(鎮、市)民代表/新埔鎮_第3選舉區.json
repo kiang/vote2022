@@ -1,0 +1,109 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林益賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱炳戊",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳宣蒼",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新埔鎮",
+            "cunli": "內立里",
+            "house_no": "234",
+            "candidates": {
+                "1": 341,
+                "2": 296,
+                "3": 40
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "寶石里",
+            "house_no": "235",
+            "candidates": {
+                "1": 246,
+                "2": 161,
+                "3": 111
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "236",
+            "candidates": {
+                "1": 238,
+                "2": 91,
+                "3": 272
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "237",
+            "candidates": {
+                "1": 181,
+                "2": 60,
+                "3": 326
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "238",
+            "candidates": {
+                "1": 96,
+                "2": 28,
+                "3": 233
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "239",
+            "candidates": {
+                "1": 87,
+                "2": 78,
+                "3": 270
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "文山里",
+            "house_no": "240",
+            "candidates": {
+                "1": 109,
+                "2": 58,
+                "3": 234
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 863
+        }
+    ]
+}

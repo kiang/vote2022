@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭嘉書",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭鄧發",
+            "party": "無"
+        },
+        "3": {
+            "name": "周塗城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬里區",
+            "cunli": "雙興里",
+            "house_no": "2534",
+            "candidates": {
+                "1": 370,
+                "2": 65,
+                "3": 194
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 924
+        }
+    ]
+}

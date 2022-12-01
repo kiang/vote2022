@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅朝慶",
+            "party": "無"
+        },
+        "2": {
+            "name": "張志鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "新興里",
+            "house_no": "1006",
+            "candidates": {
+                "1": 621,
+                "2": 200
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新興里",
+            "house_no": "1007",
+            "candidates": {
+                "1": 544,
+                "2": 182
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1377
+        }
+    ]
+}

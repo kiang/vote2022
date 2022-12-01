@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳淑玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋茂榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東興里",
+            "house_no": "1373",
+            "candidates": {
+                "1": 378,
+                "2": 452
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "東區",
+            "cunli": "東興里",
+            "house_no": "1374",
+            "candidates": {
+                "1": 445,
+                "2": 454
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1348
+        }
+    ]
+}

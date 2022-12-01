@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳證閎",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇永樹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "本揚里",
+            "house_no": "1050",
+            "candidates": {
+                "1": 412,
+                "2": 386
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "三民區",
+            "cunli": "本揚里",
+            "house_no": "1051",
+            "candidates": {
+                "1": 363,
+                "2": 405
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1459
+        },
+        {
+            "area": "三民區",
+            "cunli": "本揚里",
+            "house_no": "1052",
+            "candidates": {
+                "1": 331,
+                "2": 346
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "三民區",
+            "cunli": "本揚里",
+            "house_no": "1053",
+            "candidates": {
+                "1": 392,
+                "2": 289
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "三民區",
+            "cunli": "本揚里",
+            "house_no": "1054",
+            "candidates": {
+                "1": 315,
+                "2": 382
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

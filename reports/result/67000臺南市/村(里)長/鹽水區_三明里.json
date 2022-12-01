@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙添成",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金印",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳明憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "三明里",
+            "house_no": "101",
+            "candidates": {
+                "1": 140,
+                "2": 236,
+                "3": 108
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "三明里",
+            "house_no": "102",
+            "candidates": {
+                "1": 98,
+                "2": 41,
+                "3": 30
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 258
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "三明里",
+            "house_no": "103",
+            "candidates": {
+                "1": 116,
+                "2": 34,
+                "3": 128
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 442
+        }
+    ]
+}

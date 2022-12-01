@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳茂栯",
+            "party": "無"
+        },
+        "2": {
+            "name": "王啓霖",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉松波",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "永光村",
+            "house_no": "607",
+            "candidates": {
+                "1": 248,
+                "2": 56,
+                "3": 267
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "永光村",
+            "house_no": "608",
+            "candidates": {
+                "1": 289,
+                "2": 63,
+                "3": 310
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "永昌村",
+            "house_no": "609",
+            "candidates": {
+                "1": 343,
+                "2": 33,
+                "3": 270
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "永昌村",
+            "house_no": "610",
+            "candidates": {
+                "1": 336,
+                "2": 35,
+                "3": 192
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 908
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "麻園村",
+            "house_no": "611",
+            "candidates": {
+                "1": 175,
+                "2": 59,
+                "3": 224
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 711
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "崁腳村",
+            "house_no": "612",
+            "candidates": {
+                "1": 498,
+                "2": 90,
+                "3": 195
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1182
+        }
+    ]
+}

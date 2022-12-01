@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳麗鶯",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘玉洪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "平田里",
+            "house_no": "1045",
+            "candidates": {
+                "1": 192,
+                "2": 321
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1027
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平田里",
+            "house_no": "1046",
+            "candidates": {
+                "1": 269,
+                "2": 410
+            },
+            "count_wrong": 30,
+            "count_unused": 4,
+            "count_total": 1181
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平田里",
+            "house_no": "1047",
+            "candidates": {
+                "1": 181,
+                "2": 386
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平田里",
+            "house_no": "1048",
+            "candidates": {
+                "1": 164,
+                "2": 410
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平田里",
+            "house_no": "1049",
+            "candidates": {
+                "1": 202,
+                "2": 377
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1109
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹德盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊玉雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "立德里",
+            "house_no": "459",
+            "candidates": {
+                "1": 164,
+                "2": 476
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "新莊區",
+            "cunli": "立德里",
+            "house_no": "460",
+            "candidates": {
+                "1": 193,
+                "2": 422
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1103
+        }
+    ]
+}

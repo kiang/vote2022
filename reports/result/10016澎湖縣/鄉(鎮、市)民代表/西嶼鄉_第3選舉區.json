@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂清陣",
+            "party": "無"
+        },
+        "2": {
+            "name": "李家萱",
+            "party": "無"
+        },
+        "3": {
+            "name": "薛美華",
+            "party": "無"
+        },
+        "4": {
+            "name": "許見情",
+            "party": "無"
+        },
+        "5": {
+            "name": "洪耀幸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西嶼鄉",
+            "cunli": "內垵村",
+            "house_no": "102",
+            "candidates": {
+                "1": 282,
+                "2": 107,
+                "3": 46,
+                "4": 43,
+                "5": 256
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1245
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "外垵村",
+            "house_no": "103",
+            "candidates": {
+                "1": 78,
+                "2": 171,
+                "3": 37,
+                "4": 190,
+                "5": 75
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 913
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "外垵村",
+            "house_no": "104",
+            "candidates": {
+                "1": 83,
+                "2": 181,
+                "3": 57,
+                "4": 303,
+                "5": 82
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

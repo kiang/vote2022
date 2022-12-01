@@ -1,0 +1,941 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志明",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃玲蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾素政",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "詹金富",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "陳飛廷",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞穗村",
+            "house_no": "272",
+            "candidates": {
+                "1": 74,
+                "2": 50,
+                "3": 64,
+                "4": 111,
+                "5": 129
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞穗村",
+            "house_no": "273",
+            "candidates": {
+                "1": 84,
+                "2": 90,
+                "3": 98,
+                "4": 135,
+                "5": 121
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞美村",
+            "house_no": "274",
+            "candidates": {
+                "1": 80,
+                "2": 51,
+                "3": 88,
+                "4": 145,
+                "5": 97
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 735
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞美村",
+            "house_no": "275",
+            "candidates": {
+                "1": 81,
+                "2": 63,
+                "3": 59,
+                "4": 129,
+                "5": 117
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 656
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞良村",
+            "house_no": "276",
+            "candidates": {
+                "1": 40,
+                "2": 17,
+                "3": 14,
+                "4": 107,
+                "5": 51
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 323
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞祥村",
+            "house_no": "277",
+            "candidates": {
+                "1": 100,
+                "2": 46,
+                "3": 73,
+                "4": 87,
+                "5": 90
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 663
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞北村",
+            "house_no": "278",
+            "candidates": {
+                "1": 44,
+                "2": 32,
+                "3": 18,
+                "4": 42,
+                "5": 38
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 290
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "舞鶴村",
+            "house_no": "279",
+            "candidates": {
+                "1": 85,
+                "2": 45,
+                "3": 40,
+                "4": 27,
+                "5": 34
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 390
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "鶴岡村",
+            "house_no": "280",
+            "candidates": {
+                "1": 24,
+                "2": 19,
+                "3": 19,
+                "4": 71,
+                "5": 22
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 238
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "奇美村",
+            "house_no": "281",
+            "candidates": {
+                "1": 3,
+                "2": 2,
+                "3": 3,
+                "4": 12,
+                "5": 3
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 36
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富源村",
+            "house_no": "282",
+            "candidates": {
+                "1": 94,
+                "2": 11,
+                "3": 97,
+                "4": 54,
+                "5": 34
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 447
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富民村",
+            "house_no": "283",
+            "candidates": {
+                "1": 31,
+                "2": 6,
+                "3": 11,
+                "4": 27,
+                "5": 11
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 163
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富興村玉里鎮",
+            "house_no": "284",
+            "candidates": {
+                "1": 58,
+                "2": 9,
+                "3": 58,
+                "4": 42,
+                "5": 32
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 342
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "中城里",
+            "house_no": "285",
+            "candidates": {
+                "1": 92,
+                "2": 97,
+                "3": 178,
+                "4": 46,
+                "5": 35
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "中城里",
+            "house_no": "286",
+            "candidates": {
+                "1": 81,
+                "2": 139,
+                "3": 136,
+                "4": 56,
+                "5": 38
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 733
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "中城里",
+            "house_no": "287",
+            "candidates": {
+                "1": 49,
+                "2": 125,
+                "3": 119,
+                "4": 33,
+                "5": 34
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 539
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "中城里",
+            "house_no": "288",
+            "candidates": {
+                "1": 54,
+                "2": 116,
+                "3": 140,
+                "4": 39,
+                "5": 31
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 682
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "中城里",
+            "house_no": "289",
+            "candidates": {
+                "1": 71,
+                "2": 132,
+                "3": 139,
+                "4": 37,
+                "5": 29
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 659
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "中城里",
+            "house_no": "290",
+            "candidates": {
+                "1": 105,
+                "2": 133,
+                "3": 164,
+                "4": 59,
+                "5": 41
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 842
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "國武里",
+            "house_no": "291",
+            "candidates": {
+                "1": 113,
+                "2": 197,
+                "3": 224,
+                "4": 68,
+                "5": 55
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "啟模里",
+            "house_no": "292",
+            "candidates": {
+                "1": 132,
+                "2": 86,
+                "3": 114,
+                "4": 36,
+                "5": 14
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 665
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "啟模里",
+            "house_no": "293",
+            "candidates": {
+                "1": 81,
+                "2": 95,
+                "3": 88,
+                "4": 29,
+                "5": 22
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 578
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "泰昌里",
+            "house_no": "294",
+            "candidates": {
+                "1": 28,
+                "2": 80,
+                "3": 82,
+                "4": 21,
+                "5": 20
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 463
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "泰昌里",
+            "house_no": "295",
+            "candidates": {
+                "1": 44,
+                "2": 61,
+                "3": 55,
+                "4": 18,
+                "5": 7
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 577
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "永昌里",
+            "house_no": "296",
+            "candidates": {
+                "1": 42,
+                "2": 31,
+                "3": 74,
+                "4": 18,
+                "5": 13
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 343
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "永昌里",
+            "house_no": "297",
+            "candidates": {
+                "1": 74,
+                "2": 71,
+                "3": 62,
+                "4": 33,
+                "5": 26
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 569
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "源城里",
+            "house_no": "298",
+            "candidates": {
+                "1": 98,
+                "2": 164,
+                "3": 213,
+                "4": 58,
+                "5": 26
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 936
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "長良里",
+            "house_no": "299",
+            "candidates": {
+                "1": 34,
+                "2": 49,
+                "3": 33,
+                "4": 43,
+                "5": 9
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 313
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "樂合里",
+            "house_no": "300",
+            "candidates": {
+                "1": 27,
+                "2": 54,
+                "3": 49,
+                "4": 12,
+                "5": 13
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 285
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "東豐里",
+            "house_no": "301",
+            "candidates": {
+                "1": 22,
+                "2": 89,
+                "3": 29,
+                "4": 43,
+                "5": 5
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 268
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "觀音里",
+            "house_no": "302",
+            "candidates": {
+                "1": 62,
+                "2": 83,
+                "3": 90,
+                "4": 43,
+                "5": 19
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 573
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "觀音里",
+            "house_no": "303",
+            "candidates": {
+                "1": 12,
+                "2": 24,
+                "3": 32,
+                "4": 17,
+                "5": 8
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 179
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "松浦里",
+            "house_no": "304",
+            "candidates": {
+                "1": 4,
+                "2": 7,
+                "3": 10,
+                "4": 4,
+                "5": 4
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 59
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "松浦里",
+            "house_no": "305",
+            "candidates": {
+                "1": 18,
+                "2": 31,
+                "3": 27,
+                "4": 37,
+                "5": 16
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 239
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "春日里",
+            "house_no": "306",
+            "candidates": {
+                "1": 29,
+                "2": 23,
+                "3": 55,
+                "4": 39,
+                "5": 13
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 287
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "德武里",
+            "house_no": "307",
+            "candidates": {
+                "1": 3,
+                "2": 1,
+                "3": 7,
+                "4": 2,
+                "5": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 43
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "三民里",
+            "house_no": "308",
+            "candidates": {
+                "1": 47,
+                "2": 112,
+                "3": 167,
+                "4": 58,
+                "5": 38
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 747
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "大禹里富里鄉",
+            "house_no": "309",
+            "candidates": {
+                "1": 86,
+                "2": 126,
+                "3": 129,
+                "4": 76,
+                "5": 18
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 733
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "吳江村",
+            "house_no": "310",
+            "candidates": {
+                "1": 21,
+                "2": 110,
+                "3": 15,
+                "4": 59,
+                "5": 14
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 335
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "東里村",
+            "house_no": "311",
+            "candidates": {
+                "1": 17,
+                "2": 178,
+                "3": 21,
+                "4": 209,
+                "5": 44
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 793
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "萬寧村",
+            "house_no": "312",
+            "candidates": {
+                "1": 12,
+                "2": 134,
+                "3": 12,
+                "4": 95,
+                "5": 14
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 434
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "新興村",
+            "house_no": "313",
+            "candidates": {
+                "1": 11,
+                "2": 129,
+                "3": 37,
+                "4": 76,
+                "5": 9
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 432
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "竹田村",
+            "house_no": "314",
+            "candidates": {
+                "1": 36,
+                "2": 287,
+                "3": 38,
+                "4": 247,
+                "5": 18
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 922
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "羅山村",
+            "house_no": "315",
+            "candidates": {
+                "1": 15,
+                "2": 79,
+                "3": 8,
+                "4": 159,
+                "5": 8
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 402
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "石牌村",
+            "house_no": "316",
+            "candidates": {
+                "1": 47,
+                "2": 139,
+                "3": 17,
+                "4": 322,
+                "5": 22
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "明里村",
+            "house_no": "317",
+            "candidates": {
+                "1": 9,
+                "2": 101,
+                "3": 4,
+                "4": 132,
+                "5": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 317
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富里村",
+            "house_no": "318",
+            "candidates": {
+                "1": 13,
+                "2": 165,
+                "3": 24,
+                "4": 527,
+                "5": 20
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "永豐村",
+            "house_no": "319",
+            "candidates": {
+                "1": 11,
+                "2": 80,
+                "3": 5,
+                "4": 169,
+                "5": 3
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 409
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "豐南村",
+            "house_no": "320",
+            "candidates": {
+                "1": 5,
+                "2": 33,
+                "3": 2,
+                "4": 92,
+                "5": 3
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 218
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "富南村",
+            "house_no": "321",
+            "candidates": {
+                "1": 7,
+                "2": 70,
+                "3": 11,
+                "4": 136,
+                "5": 4
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 386
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "學田村卓溪鄉",
+            "house_no": "322",
+            "candidates": {
+                "1": 11,
+                "2": 84,
+                "3": 11,
+                "4": 210,
+                "5": 18
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 483
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "崙山村",
+            "house_no": "323",
+            "candidates": {
+                "1": 1,
+                "2": 4,
+                "3": 1,
+                "4": 0,
+                "5": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 29
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "立山村",
+            "house_no": "324",
+            "candidates": {
+                "1": 7,
+                "2": 2,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 15
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "立山村",
+            "house_no": "325",
+            "candidates": {
+                "1": 2,
+                "2": 0,
+                "3": 2,
+                "4": 0,
+                "5": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 10
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "太平村",
+            "house_no": "326",
+            "candidates": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 0,
+                "5": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 14
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "卓溪村",
+            "house_no": "327",
+            "candidates": {
+                "1": 17,
+                "2": 8,
+                "3": 10,
+                "4": 2,
+                "5": 1
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 68
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "卓清村",
+            "house_no": "328",
+            "candidates": {
+                "1": 11,
+                "2": 4,
+                "3": 6,
+                "4": 1,
+                "5": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 38
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "卓清村",
+            "house_no": "329",
+            "candidates": {
+                "1": 1,
+                "2": 4,
+                "3": 1,
+                "4": 1,
+                "5": 0
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 12
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "古風村",
+            "house_no": "330",
+            "candidates": {
+                "1": 6,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 14
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "古風村",
+            "house_no": "331",
+            "candidates": {
+                "1": 5,
+                "2": 4,
+                "3": 5,
+                "4": 2,
+                "5": 0
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 23
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "古風村",
+            "house_no": "332",
+            "candidates": {
+                "1": 0,
+                "2": 7,
+                "3": 0,
+                "4": 3,
+                "5": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 15
+        }
+    ]
+}

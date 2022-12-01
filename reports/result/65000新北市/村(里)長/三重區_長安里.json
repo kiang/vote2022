@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李宗烈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "長安里",
+            "house_no": "860",
+            "candidates": {
+                "1": 348
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "三重區",
+            "cunli": "長安里",
+            "house_no": "861",
+            "candidates": {
+                "1": 447
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 943
+        }
+    ]
+}

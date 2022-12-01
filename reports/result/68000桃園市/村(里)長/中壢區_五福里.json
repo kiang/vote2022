@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅茂松",
+            "party": "無"
+        },
+        "2": {
+            "name": "林賴玉英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "五福里",
+            "house_no": "937",
+            "candidates": {
+                "1": 236,
+                "2": 449
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "中壢區",
+            "cunli": "五福里",
+            "house_no": "938",
+            "candidates": {
+                "1": 204,
+                "2": 445
+            },
+            "count_wrong": 10,
+            "count_unused": 8,
+            "count_total": 1085
+        },
+        {
+            "area": "中壢區",
+            "cunli": "五福里",
+            "house_no": "939",
+            "candidates": {
+                "1": 315,
+                "2": 531
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1339
+        }
+    ]
+}

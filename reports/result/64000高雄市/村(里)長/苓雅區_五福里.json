@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許寬智",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱瑞祥",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "五福里",
+            "house_no": "1400",
+            "candidates": {
+                "1": 366,
+                "2": 309
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "五福里",
+            "house_no": "1401",
+            "candidates": {
+                "1": 280,
+                "2": 378
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "五福里",
+            "house_no": "1402",
+            "candidates": {
+                "1": 261,
+                "2": 410
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1123
+        }
+    ]
+}

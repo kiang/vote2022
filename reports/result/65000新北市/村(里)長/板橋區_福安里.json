@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國貞",
+            "party": "無"
+        },
+        "2": {
+            "name": "紀懿容",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "福安里",
+            "house_no": "1316",
+            "candidates": {
+                "1": 166,
+                "2": 427
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 952
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福安里",
+            "house_no": "1317",
+            "candidates": {
+                "1": 285,
+                "2": 373
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福安里",
+            "house_no": "1318",
+            "candidates": {
+                "1": 336,
+                "2": 419
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1477
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福安里",
+            "house_no": "1319",
+            "candidates": {
+                "1": 242,
+                "2": 401
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福安里",
+            "house_no": "1320",
+            "candidates": {
+                "1": 338,
+                "2": 399
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1360
+        }
+    ]
+}

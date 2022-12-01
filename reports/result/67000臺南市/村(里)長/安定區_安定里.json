@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐陽春彥",
+            "party": "無"
+        },
+        "2": {
+            "name": "王燕陸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "安定里",
+            "house_no": "563",
+            "candidates": {
+                "1": 235,
+                "2": 163
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 632
+        },
+        {
+            "area": "安定區",
+            "cunli": "安定里",
+            "house_no": "564",
+            "candidates": {
+                "1": 337,
+                "2": 173
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 700
+        }
+    ]
+}

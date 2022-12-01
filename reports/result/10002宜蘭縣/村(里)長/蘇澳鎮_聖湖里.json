@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳順平",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "聖湖里",
+            "house_no": "154",
+            "candidates": {
+                "1": 294
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 518
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "聖湖里",
+            "house_no": "155",
+            "candidates": {
+                "1": 471
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 835
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "聖湖里",
+            "house_no": "156",
+            "candidates": {
+                "1": 476
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 798
+        }
+    ]
+}

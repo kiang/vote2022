@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳加勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉行仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "永興里",
+            "house_no": "1000",
+            "candidates": {
+                "1": 326,
+                "2": 184
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "永興里",
+            "house_no": "1001",
+            "candidates": {
+                "1": 310,
+                "2": 91
+            },
+            "count_wrong": 7,
+            "count_unused": 1,
+            "count_total": 618
+        }
+    ]
+}

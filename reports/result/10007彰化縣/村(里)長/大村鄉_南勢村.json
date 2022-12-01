@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃玉河",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊惠華",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴坤境",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴沛河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "南勢村",
+            "house_no": "608",
+            "candidates": {
+                "1": 362,
+                "2": 278,
+                "3": 34,
+                "4": 358
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1447
+        }
+    ]
+}

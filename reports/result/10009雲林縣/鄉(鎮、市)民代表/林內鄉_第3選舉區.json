@@ -1,0 +1,94 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張添益",
+            "party": "無"
+        },
+        "2": {
+            "name": "李麗觀",
+            "party": "無"
+        },
+        "3": {
+            "name": "嚴秉鑫",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃清得",
+            "party": "無"
+        },
+        "5": {
+            "name": "曾鈺容",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳洲彪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "林茂村",
+            "house_no": "442",
+            "candidates": {
+                "1": 130,
+                "2": 102,
+                "3": 76,
+                "4": 39,
+                "5": 58,
+                "6": 138
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "九芎村",
+            "house_no": "443",
+            "candidates": {
+                "1": 247,
+                "2": 221,
+                "3": 212,
+                "4": 150,
+                "5": 72,
+                "6": 14
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "九芎村",
+            "house_no": "444",
+            "candidates": {
+                "1": 241,
+                "2": 148,
+                "3": 147,
+                "4": 177,
+                "5": 103,
+                "6": 14
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "湖本村",
+            "house_no": "445",
+            "candidates": {
+                "1": 59,
+                "2": 64,
+                "3": 71,
+                "4": 64,
+                "5": 202,
+                "6": 9
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 605
+        }
+    ]
+}

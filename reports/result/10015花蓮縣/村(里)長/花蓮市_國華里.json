@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林軒羽",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "譚鉉澕",
+            "party": "無"
+        },
+        "3": {
+            "name": "李清華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國華里",
+            "house_no": "65",
+            "candidates": {
+                "1": 235,
+                "2": 80,
+                "3": 236
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國華里",
+            "house_no": "66",
+            "candidates": {
+                "1": 240,
+                "2": 148,
+                "3": 150
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1016
+        }
+    ]
+}

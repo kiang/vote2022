@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林錫祺",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王萍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "忠貞里",
+            "house_no": "1364",
+            "candidates": {
+                "1": 446,
+                "2": 260
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "萬華區",
+            "cunli": "忠貞里",
+            "house_no": "1365",
+            "candidates": {
+                "1": 451,
+                "2": 252
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "萬華區",
+            "cunli": "忠貞里",
+            "house_no": "1366",
+            "candidates": {
+                "1": 357,
+                "2": 253
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "萬華區",
+            "cunli": "忠貞里",
+            "house_no": "1367",
+            "candidates": {
+                "1": 347,
+                "2": 264
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 933
+        }
+    ]
+}

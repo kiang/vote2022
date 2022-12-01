@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧顯中",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳進順",
+            "party": "無"
+        },
+        "3": {
+            "name": "林義木",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "忠義里",
+            "house_no": "657",
+            "candidates": {
+                "1": 122,
+                "2": 25,
+                "3": 558
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "大雅區",
+            "cunli": "忠義里",
+            "house_no": "658",
+            "candidates": {
+                "1": 101,
+                "2": 16,
+                "3": 522
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1031
+        },
+        {
+            "area": "大雅區",
+            "cunli": "忠義里",
+            "house_no": "659",
+            "candidates": {
+                "1": 134,
+                "2": 14,
+                "3": 595
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1206
+        }
+    ]
+}

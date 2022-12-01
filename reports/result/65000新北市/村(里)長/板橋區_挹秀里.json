@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王添福",
+            "party": "無"
+        },
+        "2": {
+            "name": "張麗華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "挹秀里",
+            "house_no": "1000",
+            "candidates": {
+                "1": 251,
+                "2": 263
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 852
+        },
+        {
+            "area": "板橋區",
+            "cunli": "挹秀里",
+            "house_no": "1001",
+            "candidates": {
+                "1": 209,
+                "2": 236
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 662
+        }
+    ]
+}

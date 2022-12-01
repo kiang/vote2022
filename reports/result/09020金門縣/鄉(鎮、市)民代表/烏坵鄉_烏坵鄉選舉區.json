@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃金揚",
+            "party": "無"
+        },
+        "2": {
+            "name": "林有進",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳興德",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡福春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏坵鄉",
+            "cunli": "大坵村",
+            "house_no": "56",
+            "candidates": {
+                "1": 10,
+                "2": 26,
+                "3": 11,
+                "4": 46
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 272
+        },
+        {
+            "area": "烏坵鄉",
+            "cunli": "小坵村",
+            "house_no": "57",
+            "candidates": {
+                "1": 61,
+                "2": 0,
+                "3": 55,
+                "4": 2
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 289
+        }
+    ]
+}

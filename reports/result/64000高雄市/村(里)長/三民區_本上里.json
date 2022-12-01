@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹鶴",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳英富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "本上里",
+            "house_no": "1047",
+            "candidates": {
+                "1": 560,
+                "2": 218
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "三民區",
+            "cunli": "本上里",
+            "house_no": "1048",
+            "candidates": {
+                "1": 480,
+                "2": 244
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "三民區",
+            "cunli": "本上里",
+            "house_no": "1049",
+            "candidates": {
+                "1": 496,
+                "2": 266
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1411
+        }
+    ]
+}

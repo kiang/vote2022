@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇福堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐秋傑",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡黃敏",
+            "party": "無"
+        },
+        "4": {
+            "name": "何麗莉",
+            "party": "中華統一促進黨"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "寶民里",
+            "house_no": "257",
+            "candidates": {
+                "1": 75,
+                "2": 481,
+                "3": 75,
+                "4": 128
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶民里",
+            "house_no": "258",
+            "candidates": {
+                "1": 105,
+                "2": 461,
+                "3": 80,
+                "4": 152
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1622
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶民里",
+            "house_no": "259",
+            "candidates": {
+                "1": 88,
+                "2": 385,
+                "3": 58,
+                "4": 43
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

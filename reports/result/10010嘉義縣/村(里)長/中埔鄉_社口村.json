@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃俊峯",
+            "party": "無"
+        },
+        "2": {
+            "name": "張聰敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "社口村",
+            "house_no": "438",
+            "candidates": {
+                "1": 41,
+                "2": 182
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 402
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "社口村",
+            "house_no": "439",
+            "candidates": {
+                "1": 114,
+                "2": 306
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 749
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "社口村",
+            "house_no": "440",
+            "candidates": {
+                "1": 165,
+                "2": 330
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

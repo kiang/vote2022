@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "凃芳宜",
+            "party": "無"
+        },
+        "2": {
+            "name": "張金財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "龍星里",
+            "house_no": "1237",
+            "candidates": {
+                "1": 382,
+                "2": 564
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1583
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "龍星里",
+            "house_no": "1238",
+            "candidates": {
+                "1": 222,
+                "2": 660
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "龍星里",
+            "house_no": "1239",
+            "candidates": {
+                "1": 181,
+                "2": 474
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

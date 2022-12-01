@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高月英",
+            "party": "無"
+        },
+        "2": {
+            "name": "王阿秀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "竹南里",
+            "house_no": "224",
+            "candidates": {
+                "1": 287,
+                "2": 223
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "路竹區",
+            "cunli": "竹南里",
+            "house_no": "225",
+            "candidates": {
+                "1": 266,
+                "2": 213
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 810
+        },
+        {
+            "area": "路竹區",
+            "cunli": "竹南里",
+            "house_no": "226",
+            "candidates": {
+                "1": 261,
+                "2": 205
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 820
+        }
+    ]
+}

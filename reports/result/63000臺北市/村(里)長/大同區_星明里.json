@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉福永",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃書揚",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "星明里",
+            "house_no": "1064",
+            "candidates": {
+                "1": 385,
+                "2": 310
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1143
+        },
+        {
+            "area": "大同區",
+            "cunli": "星明里",
+            "house_no": "1065",
+            "candidates": {
+                "1": 328,
+                "2": 379
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "大同區",
+            "cunli": "星明里",
+            "house_no": "1066",
+            "candidates": {
+                "1": 480,
+                "2": 260
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "大同區",
+            "cunli": "星明里",
+            "house_no": "1067",
+            "candidates": {
+                "1": 493,
+                "2": 297
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1236
+        }
+    ]
+}

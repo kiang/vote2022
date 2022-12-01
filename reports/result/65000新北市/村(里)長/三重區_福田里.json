@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅香蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清圳",
+            "party": "無"
+        },
+        "3": {
+            "name": "游昇翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "福田里",
+            "house_no": "797",
+            "candidates": {
+                "1": 218,
+                "2": 477,
+                "3": 226
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "三重區",
+            "cunli": "福田里",
+            "house_no": "798",
+            "candidates": {
+                "1": 189,
+                "2": 583,
+                "3": 224
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1555
+        }
+    ]
+}

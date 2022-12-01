@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾福烈",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹幸財",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "桃源里",
+            "house_no": "1",
+            "candidates": {
+                "1": 255,
+                "2": 289
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 841
+        },
+        {
+            "area": "彰化市",
+            "cunli": "桃源里",
+            "house_no": "2",
+            "candidates": {
+                "1": 140,
+                "2": 191
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 635
+        },
+        {
+            "area": "彰化市",
+            "cunli": "桃源里",
+            "house_no": "3",
+            "candidates": {
+                "1": 281,
+                "2": 261
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 851
+        }
+    ]
+}

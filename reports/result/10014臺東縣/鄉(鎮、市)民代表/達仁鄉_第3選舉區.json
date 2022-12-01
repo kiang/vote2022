@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖新一",
+            "party": "無"
+        },
+        "2": {
+            "name": "董美華",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱志偉",
+            "party": "無"
+        },
+        "4": {
+            "name": "尤嘉妡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "達仁鄉",
+            "cunli": "台坂村",
+            "house_no": "231",
+            "candidates": {
+                "1": 21,
+                "2": 162,
+                "3": 10,
+                "4": 289
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 594
+        },
+        {
+            "area": "達仁鄉",
+            "cunli": "土坂村",
+            "house_no": "232",
+            "candidates": {
+                "1": 353,
+                "2": 43,
+                "3": 252,
+                "4": 35
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 837
+        }
+    ]
+}

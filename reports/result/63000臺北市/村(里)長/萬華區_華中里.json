@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃世豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊為忠",
+            "party": "無"
+        },
+        "3": {
+            "name": "王愷葳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "華中里",
+            "house_no": "1351",
+            "candidates": {
+                "1": 379,
+                "2": 160,
+                "3": 213
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "萬華區",
+            "cunli": "華中里",
+            "house_no": "1352",
+            "candidates": {
+                "1": 261,
+                "2": 137,
+                "3": 201
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "萬華區",
+            "cunli": "華中里",
+            "house_no": "1353",
+            "candidates": {
+                "1": 337,
+                "2": 192,
+                "3": 190
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "萬華區",
+            "cunli": "華中里",
+            "house_no": "1354",
+            "candidates": {
+                "1": 376,
+                "2": 160,
+                "3": 202
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "萬華區",
+            "cunli": "華中里",
+            "house_no": "1355",
+            "candidates": {
+                "1": 310,
+                "2": 128,
+                "3": 140
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 864
+        }
+    ]
+}

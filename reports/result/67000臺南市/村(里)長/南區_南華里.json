@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳勝宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "辜福恩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "南華里",
+            "house_no": "1230",
+            "candidates": {
+                "1": 226,
+                "2": 405
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "南區",
+            "cunli": "南華里",
+            "house_no": "1231",
+            "candidates": {
+                "1": 270,
+                "2": 379
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1177
+        }
+    ]
+}

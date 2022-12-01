@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪崑松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "和平里",
+            "house_no": "1812",
+            "candidates": {
+                "1": 337,
+                "2": 309
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1107
+        },
+        {
+            "area": "樹林區",
+            "cunli": "和平里",
+            "house_no": "1813",
+            "candidates": {
+                "1": 241,
+                "2": 321
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "樹林區",
+            "cunli": "和平里",
+            "house_no": "1814",
+            "candidates": {
+                "1": 309,
+                "2": 289
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1139
+        }
+    ]
+}

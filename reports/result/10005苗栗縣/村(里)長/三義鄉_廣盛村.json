@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林瑞櫻",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳家達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "130",
+            "candidates": {
+                "1": 274,
+                "2": 174
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 763
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "131",
+            "candidates": {
+                "1": 326,
+                "2": 232
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "132",
+            "candidates": {
+                "1": 312,
+                "2": 289
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 978
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "廣盛村",
+            "house_no": "133",
+            "candidates": {
+                "1": 350,
+                "2": 319
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖新一",
+            "party": "無"
+        },
+        "2": {
+            "name": "董美華",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱志偉",
+            "party": "無"
+        },
+        "4": {
+            "name": "尤嘉妡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "達仁鄉",
+            "cunli": "安朔村",
+            "house_no": "226",
+            "candidates": {
+                "1": 51,
+                "2": 47,
+                "3": 60
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 231
+        },
+        {
+            "area": "達仁鄉",
+            "cunli": "安朔村",
+            "house_no": "227",
+            "candidates": {
+                "1": 95,
+                "2": 16,
+                "3": 133
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 312
+        },
+        {
+            "area": "達仁鄉",
+            "cunli": "新化村",
+            "house_no": "230",
+            "candidates": {
+                "1": 53,
+                "2": 221,
+                "3": 27
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 347
+        }
+    ]
+}

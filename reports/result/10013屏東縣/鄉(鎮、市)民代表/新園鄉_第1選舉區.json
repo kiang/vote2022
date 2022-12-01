@@ -1,0 +1,131 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許金墻",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊榮屏",
+            "party": "無"
+        },
+        "3": {
+            "name": "盧政宏",
+            "party": "無"
+        },
+        "4": {
+            "name": "方西進",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳春日",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新園鄉",
+            "cunli": "瓦磘村",
+            "house_no": "526",
+            "candidates": {
+                "1": 33,
+                "2": 32,
+                "3": 265,
+                "4": 166,
+                "5": 51
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 774
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "瓦磘村",
+            "house_no": "527",
+            "candidates": {
+                "1": 24,
+                "2": 19,
+                "3": 376,
+                "4": 105,
+                "5": 34
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "仙吉村",
+            "house_no": "528",
+            "candidates": {
+                "1": 111,
+                "2": 169,
+                "3": 103,
+                "4": 345,
+                "5": 78
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "仙吉村",
+            "house_no": "529",
+            "candidates": {
+                "1": 63,
+                "2": 143,
+                "3": 113,
+                "4": 445,
+                "5": 87
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "田洋村",
+            "house_no": "530",
+            "candidates": {
+                "1": 18,
+                "2": 337,
+                "3": 106,
+                "4": 185,
+                "5": 110
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "田洋村",
+            "house_no": "531",
+            "candidates": {
+                "1": 28,
+                "2": 257,
+                "3": 109,
+                "4": 184,
+                "5": 213
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "港墘村",
+            "house_no": "532",
+            "candidates": {
+                "1": 37,
+                "2": 102,
+                "3": 87,
+                "4": 365,
+                "5": 28
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 787
+        }
+    ]
+}

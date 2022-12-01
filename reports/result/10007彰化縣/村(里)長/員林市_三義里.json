@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林錦泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "張仕穎",
+            "party": "無"
+        },
+        "3": {
+            "name": "張麗梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "三義里",
+            "house_no": "580",
+            "candidates": {
+                "1": 264,
+                "2": 297,
+                "3": 159
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "員林市",
+            "cunli": "三義里",
+            "house_no": "581",
+            "candidates": {
+                "1": 343,
+                "2": 326,
+                "3": 69
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1208
+        }
+    ]
+}

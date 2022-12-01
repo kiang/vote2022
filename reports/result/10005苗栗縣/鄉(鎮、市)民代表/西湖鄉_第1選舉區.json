@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "古秋雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳承泰",
+            "party": "無"
+        },
+        "3": {
+            "name": "古召善",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳峻毅",
+            "party": "無"
+        },
+        "5": {
+            "name": "蘇文正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西湖鄉",
+            "cunli": "高埔村",
+            "house_no": "146",
+            "candidates": {
+                "1": 192,
+                "2": 62,
+                "3": 60,
+                "4": 69,
+                "5": 7
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 572
+        },
+        {
+            "area": "西湖鄉",
+            "cunli": "下埔村",
+            "house_no": "147",
+            "candidates": {
+                "1": 32,
+                "2": 110,
+                "3": 120,
+                "4": 70,
+                "5": 27
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 529
+        },
+        {
+            "area": "西湖鄉",
+            "cunli": "五湖村",
+            "house_no": "148",
+            "candidates": {
+                "1": 6,
+                "2": 27,
+                "3": 180,
+                "4": 296,
+                "5": 15
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "西湖鄉",
+            "cunli": "四湖村",
+            "house_no": "149",
+            "candidates": {
+                "1": 25,
+                "2": 39,
+                "3": 115,
+                "4": 29,
+                "5": 258
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 590
+        }
+    ]
+}

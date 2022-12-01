@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃秀霖",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鍾文宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國風里",
+            "house_no": "56",
+            "candidates": {
+                "1": 328,
+                "2": 202
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國風里",
+            "house_no": "57",
+            "candidates": {
+                "1": 284,
+                "2": 254
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國風里",
+            "house_no": "58",
+            "candidates": {
+                "1": 312,
+                "2": 248
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

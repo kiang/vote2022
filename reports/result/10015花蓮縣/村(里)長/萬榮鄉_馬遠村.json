@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬萬居",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "馬鍾啓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬榮鄉",
+            "cunli": "馬遠村",
+            "house_no": "269",
+            "candidates": {
+                "1": 155,
+                "2": 145
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 413
+        },
+        {
+            "area": "萬榮鄉",
+            "cunli": "馬遠村",
+            "house_no": "270",
+            "candidates": {
+                "1": 189,
+                "2": 200
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 628
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃南忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃ㄧ忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "學東里",
+            "house_no": "736",
+            "candidates": {
+                "1": 405,
+                "2": 298
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "安南區",
+            "cunli": "學東里",
+            "house_no": "737",
+            "candidates": {
+                "1": 359,
+                "2": 382
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1267
+        }
+    ]
+}

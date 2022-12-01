@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許文輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "謝文興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "富福里",
+            "house_no": "1284",
+            "candidates": {
+                "1": 404,
+                "2": 298
+            },
+            "count_wrong": 41,
+            "count_unused": 1,
+            "count_total": 2487
+        },
+        {
+            "area": "萬華區",
+            "cunli": "富福里",
+            "house_no": "1285",
+            "candidates": {
+                "1": 365,
+                "2": 231
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "萬華區",
+            "cunli": "富福里",
+            "house_no": "1286",
+            "candidates": {
+                "1": 347,
+                "2": 276
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "萬華區",
+            "cunli": "富福里",
+            "house_no": "1287",
+            "candidates": {
+                "1": 315,
+                "2": 286
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 864
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳橜達",
+            "party": "無"
+        },
+        "2": {
+            "name": "林登益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壯圍鄉",
+            "cunli": "美城村",
+            "house_no": "266",
+            "candidates": {
+                "1": 395,
+                "2": 376
+            },
+            "count_wrong": 23,
+            "count_unused": 5,
+            "count_total": 1097
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "美城村",
+            "house_no": "267",
+            "candidates": {
+                "1": 418,
+                "2": 383
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1120
+        }
+    ]
+}

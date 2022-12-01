@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王榞浤",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃榮義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "義仁村",
+            "house_no": "436",
+            "candidates": {
+                "1": 86,
+                "2": 256
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 562
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "義仁村",
+            "house_no": "437",
+            "candidates": {
+                "1": 116,
+                "2": 411
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 877
+        }
+    ]
+}

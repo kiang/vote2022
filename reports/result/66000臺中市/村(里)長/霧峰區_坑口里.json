@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許庭鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳原宗",
+            "party": "無"
+        },
+        "3": {
+            "name": "王中興",
+            "party": "無"
+        },
+        "4": {
+            "name": "羅慧勤",
+            "party": "無"
+        },
+        "5": {
+            "name": "簡嘉右",
+            "party": "無"
+        },
+        "6": {
+            "name": "林素月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "坑口里",
+            "house_no": "1783",
+            "candidates": {
+                "1": 57,
+                "2": 45,
+                "3": 292,
+                "4": 127,
+                "5": 80,
+                "6": 76
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "坑口里",
+            "house_no": "1784",
+            "candidates": {
+                "1": 31,
+                "2": 8,
+                "3": 280,
+                "4": 190,
+                "5": 51,
+                "6": 69
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "坑口里",
+            "house_no": "1785",
+            "candidates": {
+                "1": 71,
+                "2": 6,
+                "3": 212,
+                "4": 98,
+                "5": 107,
+                "6": 55
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 826
+        }
+    ]
+}

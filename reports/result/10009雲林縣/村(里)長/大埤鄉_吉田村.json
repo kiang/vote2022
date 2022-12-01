@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭丁財",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金定",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉寬茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大埤鄉",
+            "cunli": "吉田村",
+            "house_no": "533",
+            "candidates": {
+                "1": 241,
+                "2": 105,
+                "3": 136
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 666
+        }
+    ]
+}

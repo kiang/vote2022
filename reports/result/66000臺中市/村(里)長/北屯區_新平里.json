@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李良仁",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "新平里",
+            "house_no": "1156",
+            "candidates": {
+                "1": 691
+            },
+            "count_wrong": 111,
+            "count_unused": 1,
+            "count_total": 1521
+        },
+        {
+            "area": "北屯區",
+            "cunli": "新平里",
+            "house_no": "1157",
+            "candidates": {
+                "1": 611
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "北屯區",
+            "cunli": "新平里",
+            "house_no": "1158",
+            "candidates": {
+                "1": 692
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1413
+        }
+    ]
+}

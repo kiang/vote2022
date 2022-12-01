@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何添富",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃琮壹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "文隆村",
+            "house_no": "154",
+            "candidates": {
+                "1": 276,
+                "2": 586
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "文隆村",
+            "house_no": "155",
+            "candidates": {
+                "1": 124,
+                "2": 531
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1051
+        }
+    ]
+}

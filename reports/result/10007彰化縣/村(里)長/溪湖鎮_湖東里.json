@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳芬妮",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪錫松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "湖東里",
+            "house_no": "670",
+            "candidates": {
+                "1": 362,
+                "2": 238
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "湖東里",
+            "house_no": "671",
+            "candidates": {
+                "1": 351,
+                "2": 304
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1078
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "湖東里",
+            "house_no": "672",
+            "candidates": {
+                "1": 524,
+                "2": 184
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "湖東里",
+            "house_no": "673",
+            "candidates": {
+                "1": 443,
+                "2": 255
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1225
+        }
+    ]
+}

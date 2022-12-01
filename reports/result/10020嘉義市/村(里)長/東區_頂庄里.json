@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周勝雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊天基",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "頂庄里",
+            "house_no": "79",
+            "candidates": {
+                "1": 317,
+                "2": 304
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "東區",
+            "cunli": "頂庄里",
+            "house_no": "80",
+            "candidates": {
+                "1": 273,
+                "2": 299
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 901
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李夜香",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃永順",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳥松區",
+            "cunli": "坔埔里",
+            "house_no": "817",
+            "candidates": {
+                "1": 185,
+                "2": 583
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "坔埔里",
+            "house_no": "818",
+            "candidates": {
+                "1": 178,
+                "2": 528
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "鳥松區",
+            "cunli": "坔埔里",
+            "house_no": "819",
+            "candidates": {
+                "1": 193,
+                "2": 466
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

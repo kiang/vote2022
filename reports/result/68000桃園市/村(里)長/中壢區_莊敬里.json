@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉邦茂",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "莊敬里",
+            "house_no": "819",
+            "candidates": {
+                "1": 913
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1600
+        },
+        {
+            "area": "中壢區",
+            "cunli": "莊敬里",
+            "house_no": "820",
+            "candidates": {
+                "1": 858
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1636
+        }
+    ]
+}

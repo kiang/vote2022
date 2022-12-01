@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張建湖",
+            "party": "無"
+        },
+        "2": {
+            "name": "傅鈺婷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "墩東里",
+            "house_no": "423",
+            "candidates": {
+                "1": 412,
+                "2": 286
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "后里區",
+            "cunli": "墩東里",
+            "house_no": "424",
+            "candidates": {
+                "1": 437,
+                "2": 299
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "后里區",
+            "cunli": "墩東里",
+            "house_no": "425",
+            "candidates": {
+                "1": 384,
+                "2": 372
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "后里區",
+            "cunli": "墩東里",
+            "house_no": "426",
+            "candidates": {
+                "1": 342,
+                "2": 381
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

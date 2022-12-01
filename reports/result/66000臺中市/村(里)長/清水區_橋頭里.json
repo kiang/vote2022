@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林瑶卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉國川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "橋頭里",
+            "house_no": "148",
+            "candidates": {
+                "1": 518,
+                "2": 282
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "清水區",
+            "cunli": "橋頭里",
+            "house_no": "149",
+            "candidates": {
+                "1": 688,
+                "2": 265
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1386
+        },
+        {
+            "area": "清水區",
+            "cunli": "橋頭里",
+            "house_no": "150",
+            "candidates": {
+                "1": 587,
+                "2": 254
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "清水區",
+            "cunli": "橋頭里",
+            "house_no": "151",
+            "candidates": {
+                "1": 647,
+                "2": 383
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1624
+        },
+        {
+            "area": "清水區",
+            "cunli": "橋頭里",
+            "house_no": "152",
+            "candidates": {
+                "1": 770,
+                "2": 276
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1644
+        }
+    ]
+}

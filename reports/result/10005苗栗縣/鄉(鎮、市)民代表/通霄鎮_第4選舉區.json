@@ -1,0 +1,109 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂金穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃啟森",
+            "party": "無"
+        },
+        "3": {
+            "name": "駱義明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "通灣里",
+            "house_no": "182",
+            "candidates": {
+                "1": 458,
+                "2": 200,
+                "3": 20
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "通灣里",
+            "house_no": "183",
+            "candidates": {
+                "1": 323,
+                "2": 345,
+                "3": 12
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "新埔里",
+            "house_no": "184",
+            "candidates": {
+                "1": 327,
+                "2": 240,
+                "3": 108
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "內島里",
+            "house_no": "185",
+            "candidates": {
+                "1": 160,
+                "2": 158,
+                "3": 183
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 693
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "白東里",
+            "house_no": "186",
+            "candidates": {
+                "1": 124,
+                "2": 137,
+                "3": 85
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 584
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "白東里",
+            "house_no": "187",
+            "candidates": {
+                "1": 169,
+                "2": 142,
+                "3": 108
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "白西里",
+            "house_no": "188",
+            "candidates": {
+                "1": 201,
+                "2": 174,
+                "3": 130
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 696
+        }
+    ]
+}

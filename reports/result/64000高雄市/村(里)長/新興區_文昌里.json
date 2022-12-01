@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張東華",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉育洋",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "杜炤烈",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "文昌里",
+            "house_no": "1248",
+            "candidates": {
+                "1": 109,
+                "2": 366,
+                "3": 236
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "新興區",
+            "cunli": "文昌里",
+            "house_no": "1249",
+            "candidates": {
+                "1": 150,
+                "2": 328,
+                "3": 281
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1353
+        }
+    ]
+}

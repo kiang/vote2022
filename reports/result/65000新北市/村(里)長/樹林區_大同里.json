@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳華宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "許進旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "大同里",
+            "house_no": "1822",
+            "candidates": {
+                "1": 303,
+                "2": 562
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1441
+        },
+        {
+            "area": "樹林區",
+            "cunli": "大同里",
+            "house_no": "1823",
+            "candidates": {
+                "1": 265,
+                "2": 677
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1547
+        }
+    ]
+}

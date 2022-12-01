@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝泳河",
+            "party": "無"
+        },
+        "2": {
+            "name": "許明圖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "大道里",
+            "house_no": "864",
+            "candidates": {
+                "1": 227,
+                "2": 444
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1078
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "大道里",
+            "house_no": "865",
+            "candidates": {
+                "1": 129,
+                "2": 363
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 784
+        }
+    ]
+}

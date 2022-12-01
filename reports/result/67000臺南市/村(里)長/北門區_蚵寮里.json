@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪松茂",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪承富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北門區",
+            "cunli": "蚵寮里",
+            "house_no": "208",
+            "candidates": {
+                "1": 271,
+                "2": 71
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 537
+        },
+        {
+            "area": "北門區",
+            "cunli": "蚵寮里",
+            "house_no": "209",
+            "candidates": {
+                "1": 157,
+                "2": 173
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 505
+        },
+        {
+            "area": "北門區",
+            "cunli": "蚵寮里",
+            "house_no": "210",
+            "candidates": {
+                "1": 75,
+                "2": 116
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 283
+        }
+    ]
+}

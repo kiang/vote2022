@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李木魁",
+            "party": "無"
+        },
+        "2": {
+            "name": "李智祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二崙鄉",
+            "cunli": "崙東村",
+            "house_no": "342",
+            "candidates": {
+                "1": 281,
+                "2": 252
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 810
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "崙東村",
+            "house_no": "343",
+            "candidates": {
+                "1": 230,
+                "2": 143
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 581
+        }
+    ]
+}

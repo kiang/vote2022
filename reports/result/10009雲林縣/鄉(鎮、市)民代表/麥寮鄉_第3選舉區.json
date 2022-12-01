@@ -1,0 +1,102 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "康正宗",
+            "party": "無"
+        },
+        "3": {
+            "name": "雷忠儀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "崙後村",
+            "house_no": "25",
+            "candidates": {
+                "1": 67,
+                "2": 132,
+                "3": 89,
+                "4": 573
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "崙後村",
+            "house_no": "26",
+            "candidates": {
+                "1": 76,
+                "2": 116,
+                "3": 90,
+                "4": 563
+            },
+            "count_wrong": 38,
+            "count_unused": 1,
+            "count_total": 1358
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "27",
+            "candidates": {
+                "1": 321,
+                "2": 320,
+                "3": 18,
+                "4": 133
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "28",
+            "candidates": {
+                "1": 203,
+                "2": 338,
+                "3": 10,
+                "4": 110
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 972
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "29",
+            "candidates": {
+                "1": 273,
+                "2": 213,
+                "3": 2,
+                "4": 92
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "30",
+            "candidates": {
+                "1": 187,
+                "2": 256,
+                "3": 14,
+                "4": 128
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 909
+        }
+    ]
+}

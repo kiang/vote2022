@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃俊龍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "松隆里",
+            "house_no": "807",
+            "candidates": {
+                "1": 504
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "信義區",
+            "cunli": "松隆里",
+            "house_no": "808",
+            "candidates": {
+                "1": 453
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 904
+        }
+    ]
+}

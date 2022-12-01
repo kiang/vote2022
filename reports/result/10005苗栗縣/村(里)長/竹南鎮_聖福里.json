@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪宏村",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝美香",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "聖福里",
+            "house_no": "296",
+            "candidates": {
+                "1": 286,
+                "2": 391
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "聖福里",
+            "house_no": "297",
+            "candidates": {
+                "1": 356,
+                "2": 311
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "聖福里",
+            "house_no": "298",
+            "candidates": {
+                "1": 314,
+                "2": 394
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1071
+        }
+    ]
+}

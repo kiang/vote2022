@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張嘉榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新化區",
+            "cunli": "知義里",
+            "house_no": "652",
+            "candidates": {
+                "1": 637
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "新化區",
+            "cunli": "知義里",
+            "house_no": "653",
+            "candidates": {
+                "1": 431
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 942
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡宗羲",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊和男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "關嶺里",
+            "house_no": "45",
+            "candidates": {
+                "1": 203,
+                "2": 147
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 578
+        },
+        {
+            "area": "白河區",
+            "cunli": "關嶺里",
+            "house_no": "46",
+            "candidates": {
+                "1": 86,
+                "2": 112
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 352
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "candidates": {
+        "1": {
+            "name": "阮茂益",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭信政",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭文彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林邊鄉",
+            "cunli": "仁和村",
+            "house_no": "575",
+            "candidates": {
+                "1": 38,
+                "2": 100,
+                "3": 174,
+                "4": 83,
+                "5": 153
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "仁和村",
+            "house_no": "576",
+            "candidates": {
+                "1": 52,
+                "2": 119,
+                "3": 156,
+                "4": 111,
+                "5": 142
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "田厝村",
+            "house_no": "577",
+            "candidates": {
+                "1": 53,
+                "2": 271,
+                "3": 88,
+                "4": 65,
+                "5": 223
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "崎峯村",
+            "house_no": "578",
+            "candidates": {
+                "1": 78,
+                "2": 139,
+                "3": 255,
+                "4": 249,
+                "5": 169
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "水利村",
+            "house_no": "579",
+            "candidates": {
+                "1": 165,
+                "2": 112,
+                "3": 65,
+                "4": 102,
+                "5": 63
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 710
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "水利村",
+            "house_no": "580",
+            "candidates": {
+                "1": 165,
+                "2": 72,
+                "3": 45,
+                "4": 322,
+                "5": 126
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

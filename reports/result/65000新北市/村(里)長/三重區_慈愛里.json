@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李國華",
+            "party": "無"
+        },
+        "2": {
+            "name": "許志明",
+            "party": "無"
+        },
+        "3": {
+            "name": "李漢琦",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝粘瑞花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "慈愛里",
+            "house_no": "966",
+            "candidates": {
+                "1": 292,
+                "2": 244,
+                "3": 284,
+                "4": 193
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1528
+        },
+        {
+            "area": "三重區",
+            "cunli": "慈愛里",
+            "house_no": "967",
+            "candidates": {
+                "1": 232,
+                "2": 178,
+                "3": 194,
+                "4": 287
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1404
+        }
+    ]
+}

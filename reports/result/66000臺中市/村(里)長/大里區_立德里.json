@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張誌泓",
+            "party": "無"
+        },
+        "2": {
+            "name": "江慶賢",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝燻翔",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大里區",
+            "cunli": "立德里",
+            "house_no": "1723",
+            "candidates": {
+                "1": 278,
+                "2": 440,
+                "3": 208
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1525
+        },
+        {
+            "area": "大里區",
+            "cunli": "立德里",
+            "house_no": "1724",
+            "candidates": {
+                "1": 341,
+                "2": 372,
+                "3": 170
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1502
+        },
+        {
+            "area": "大里區",
+            "cunli": "立德里",
+            "house_no": "1725",
+            "candidates": {
+                "1": 291,
+                "2": 426,
+                "3": 186
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1459
+        },
+        {
+            "area": "大里區",
+            "cunli": "立德里",
+            "house_no": "1726",
+            "candidates": {
+                "1": 285,
+                "2": 519,
+                "3": 165
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1593
+        },
+        {
+            "area": "大里區",
+            "cunli": "立德里",
+            "house_no": "1727",
+            "candidates": {
+                "1": 281,
+                "2": 452,
+                "3": 137
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1365
+        }
+    ]
+}

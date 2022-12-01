@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑞吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "王清得",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "開化里",
+            "house_no": "380",
+            "candidates": {
+                "1": 266,
+                "2": 383
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "下營區",
+            "cunli": "開化里",
+            "house_no": "381",
+            "candidates": {
+                "1": 240,
+                "2": 319
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 847
+        }
+    ]
+}

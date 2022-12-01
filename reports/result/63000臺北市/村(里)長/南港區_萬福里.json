@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林建華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "萬福里",
+            "house_no": "578",
+            "candidates": {
+                "1": 668
+            },
+            "count_wrong": 98,
+            "count_unused": 1,
+            "count_total": 1092
+        },
+        {
+            "area": "南港區",
+            "cunli": "萬福里",
+            "house_no": "579",
+            "candidates": {
+                "1": 589
+            },
+            "count_wrong": 122,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "南港區",
+            "cunli": "萬福里",
+            "house_no": "580",
+            "candidates": {
+                "1": 748
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 1193
+        }
+    ]
+}

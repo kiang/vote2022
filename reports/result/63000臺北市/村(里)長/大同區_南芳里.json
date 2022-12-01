@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳品君",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴徐玉枝",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "南芳里",
+            "house_no": "1084",
+            "candidates": {
+                "1": 323,
+                "2": 412
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "大同區",
+            "cunli": "南芳里",
+            "house_no": "1085",
+            "candidates": {
+                "1": 339,
+                "2": 362
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "大同區",
+            "cunli": "南芳里",
+            "house_no": "1086",
+            "candidates": {
+                "1": 362,
+                "2": 331
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1072
+        }
+    ]
+}

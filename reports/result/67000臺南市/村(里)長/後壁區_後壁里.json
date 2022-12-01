@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後壁區",
+            "cunli": "後壁里",
+            "house_no": "1",
+            "candidates": {
+                "1": 367
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 671
+        },
+        {
+            "area": "後壁區",
+            "cunli": "後壁里",
+            "house_no": "2",
+            "candidates": {
+                "1": 435
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 871
+        }
+    ]
+}

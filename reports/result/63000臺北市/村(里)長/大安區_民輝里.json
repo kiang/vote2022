@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳威禎",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳桓浩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "民輝里",
+            "house_no": "1411",
+            "candidates": {
+                "1": 601,
+                "2": 246
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1379
+        },
+        {
+            "area": "大安區",
+            "cunli": "民輝里",
+            "house_no": "1412",
+            "candidates": {
+                "1": 570,
+                "2": 227
+            },
+            "count_wrong": 59,
+            "count_unused": 1,
+            "count_total": 1252
+        },
+        {
+            "area": "大安區",
+            "cunli": "民輝里",
+            "house_no": "1413",
+            "candidates": {
+                "1": 689,
+                "2": 199
+            },
+            "count_wrong": 37,
+            "count_unused": 1,
+            "count_total": 1405
+        },
+        {
+            "area": "大安區",
+            "cunli": "民輝里",
+            "house_no": "1414",
+            "candidates": {
+                "1": 464,
+                "2": 248
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1144
+        }
+    ]
+}

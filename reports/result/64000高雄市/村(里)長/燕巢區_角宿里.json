@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊璨隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊坤仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "燕巢區",
+            "cunli": "角宿里",
+            "house_no": "362",
+            "candidates": {
+                "1": 479,
+                "2": 192
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "角宿里",
+            "house_no": "363",
+            "candidates": {
+                "1": 225,
+                "2": 162
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 593
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "角宿里",
+            "house_no": "364",
+            "candidates": {
+                "1": 441,
+                "2": 232
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

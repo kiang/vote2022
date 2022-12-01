@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝麗玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "八張里",
+            "house_no": "2067",
+            "candidates": {
+                "1": 441
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "三峽區",
+            "cunli": "八張里",
+            "house_no": "2068",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "三峽區",
+            "cunli": "八張里",
+            "house_no": "2069",
+            "candidates": {
+                "1": 583
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1280
+        }
+    ]
+}

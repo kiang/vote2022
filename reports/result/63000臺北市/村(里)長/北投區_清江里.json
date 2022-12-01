@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李炳亷",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "周京珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "清江里",
+            "house_no": "88",
+            "candidates": {
+                "1": 378,
+                "2": 266
+            },
+            "count_wrong": 45,
+            "count_unused": 10,
+            "count_total": 2167
+        },
+        {
+            "area": "北投區",
+            "cunli": "清江里",
+            "house_no": "89",
+            "candidates": {
+                "1": 525,
+                "2": 316
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "北投區",
+            "cunli": "清江里",
+            "house_no": "90",
+            "candidates": {
+                "1": 591,
+                "2": 247
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "北投區",
+            "cunli": "清江里",
+            "house_no": "91",
+            "candidates": {
+                "1": 506,
+                "2": 289
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "北投區",
+            "cunli": "清江里",
+            "house_no": "92",
+            "candidates": {
+                "1": 610,
+                "2": 252
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "北投區",
+            "cunli": "清江里",
+            "house_no": "93",
+            "candidates": {
+                "1": 501,
+                "2": 145
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 941
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張凱翔",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱錦庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "三條里",
+            "house_no": "558",
+            "candidates": {
+                "1": 436,
+                "2": 380
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "員林市",
+            "cunli": "三條里",
+            "house_no": "559",
+            "candidates": {
+                "1": 484,
+                "2": 399
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1367
+        }
+    ]
+}

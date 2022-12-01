@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王素娥",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林嘉琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "竹林里",
+            "house_no": "1612",
+            "candidates": {
+                "1": 500,
+                "2": 419
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1620
+        },
+        {
+            "area": "永和區",
+            "cunli": "竹林里",
+            "house_no": "1613",
+            "candidates": {
+                "1": 424,
+                "2": 324
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1401
+        }
+    ]
+}

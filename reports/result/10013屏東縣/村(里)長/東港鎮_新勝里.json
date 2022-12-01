@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊瑞吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾明都",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "新勝里",
+            "house_no": "184",
+            "candidates": {
+                "1": 262,
+                "2": 356
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "新勝里",
+            "house_no": "185",
+            "candidates": {
+                "1": 394,
+                "2": 256
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 985
+        }
+    ]
+}

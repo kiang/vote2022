@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高太郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "深坑區",
+            "cunli": "土庫里",
+            "house_no": "2361",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "深坑區",
+            "cunli": "土庫里",
+            "house_no": "2362",
+            "candidates": {
+                "1": 600
+            },
+            "count_wrong": 119,
+            "count_unused": 3,
+            "count_total": 1304
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇順利",
+            "party": "無"
+        },
+        "2": {
+            "name": "周錦谷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "下廍里",
+            "house_no": "219",
+            "candidates": {
+                "1": 304,
+                "2": 356
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "下廍里",
+            "house_no": "220",
+            "candidates": {
+                "1": 301,
+                "2": 329
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 915
+        }
+    ]
+}

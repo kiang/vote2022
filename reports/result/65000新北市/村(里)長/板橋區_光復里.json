@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王俊智",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳建和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "光復里",
+            "house_no": "1170",
+            "candidates": {
+                "1": 412,
+                "2": 423
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1401
+        },
+        {
+            "area": "板橋區",
+            "cunli": "光復里",
+            "house_no": "1171",
+            "candidates": {
+                "1": 474,
+                "2": 355
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1413
+        }
+    ]
+}

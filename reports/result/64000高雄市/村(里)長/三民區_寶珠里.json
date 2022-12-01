@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張忠厚",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳榮增",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶珠里",
+            "house_no": "1097",
+            "candidates": {
+                "1": 354,
+                "2": 464
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 3058
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶珠里",
+            "house_no": "1098",
+            "candidates": {
+                "1": 263,
+                "2": 631
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1653
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶珠里",
+            "house_no": "1099",
+            "candidates": {
+                "1": 206,
+                "2": 601
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1603
+        }
+    ]
+}

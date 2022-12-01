@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁祐康",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鈺淳",
+            "party": "無"
+        },
+        "3": {
+            "name": "李文鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "中正里",
+            "house_no": "161",
+            "candidates": {
+                "1": 86,
+                "2": 142,
+                "3": 213
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 632
+        }
+    ]
+}

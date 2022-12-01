@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明義",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾敏明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "得仁里",
+            "house_no": "722",
+            "candidates": {
+                "1": 390,
+                "2": 500
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "得仁里",
+            "house_no": "723",
+            "candidates": {
+                "1": 280,
+                "2": 509
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1285
+        }
+    ]
+}

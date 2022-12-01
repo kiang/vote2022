@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許凱傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "張賦脈",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "保安里",
+            "house_no": "1131",
+            "candidates": {
+                "1": 389,
+                "2": 448
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "大同區",
+            "cunli": "保安里",
+            "house_no": "1132",
+            "candidates": {
+                "1": 440,
+                "2": 449
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "大同區",
+            "cunli": "保安里",
+            "house_no": "1133",
+            "candidates": {
+                "1": 419,
+                "2": 404
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1177
+        }
+    ]
+}

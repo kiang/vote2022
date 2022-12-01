@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李振榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "興仁里",
+            "house_no": "795",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興仁里",
+            "house_no": "796",
+            "candidates": {
+                "1": 452
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1117
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興仁里",
+            "house_no": "797",
+            "candidates": {
+                "1": 472
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 1040
+        }
+    ]
+}

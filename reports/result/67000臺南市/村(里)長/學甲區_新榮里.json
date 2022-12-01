@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳敏郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴文龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝佑敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "學甲區",
+            "cunli": "新榮里",
+            "house_no": "233",
+            "candidates": {
+                "1": 120,
+                "2": 298,
+                "3": 274
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "學甲區",
+            "cunli": "新榮里",
+            "house_no": "234",
+            "candidates": {
+                "1": 328,
+                "2": 120,
+                "3": 315
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1218
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙強",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "光明里",
+            "house_no": "74",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "東區",
+            "cunli": "光明里",
+            "house_no": "75",
+            "candidates": {
+                "1": 371
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 733
+        },
+        {
+            "area": "東區",
+            "cunli": "光明里",
+            "house_no": "76",
+            "candidates": {
+                "1": 609
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 999
+        }
+    ]
+}

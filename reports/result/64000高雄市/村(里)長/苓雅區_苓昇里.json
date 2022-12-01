@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文喜",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡素卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭懿瑩",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "苓昇里",
+            "house_no": "1277",
+            "candidates": {
+                "1": 348,
+                "2": 143,
+                "3": 219
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

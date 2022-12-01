@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "滕建忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳崑德",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳麗嬌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "仁和里",
+            "house_no": "282",
+            "candidates": {
+                "1": 172,
+                "2": 368,
+                "3": 425
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1776
+        }
+    ]
+}

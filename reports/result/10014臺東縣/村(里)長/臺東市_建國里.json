@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周連圳",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱騰緯",
+            "party": "無"
+        },
+        "3": {
+            "name": "王美雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "建國里",
+            "house_no": "11",
+            "candidates": {
+                "1": 163,
+                "2": 90,
+                "3": 277
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 846
+        },
+        {
+            "area": "臺東市",
+            "cunli": "建國里",
+            "house_no": "12",
+            "candidates": {
+                "1": 158,
+                "2": 203,
+                "3": 215
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 912
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊光華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "蘇西里",
+            "house_no": "157",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 810
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "蘇西里",
+            "house_no": "158",
+            "candidates": {
+                "1": 294
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 598
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "蘇西里",
+            "house_no": "159",
+            "candidates": {
+                "1": 417
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 763
+        }
+    ]
+}

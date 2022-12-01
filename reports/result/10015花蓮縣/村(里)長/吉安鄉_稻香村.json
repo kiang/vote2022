@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張光強",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鄧桂英",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "稻香村",
+            "house_no": "162",
+            "candidates": {
+                "1": 254,
+                "2": 226
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "稻香村",
+            "house_no": "163",
+            "candidates": {
+                "1": 273,
+                "2": 263
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 968
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "稻香村",
+            "house_no": "164",
+            "candidates": {
+                "1": 254,
+                "2": 401
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1180
+        }
+    ]
+}

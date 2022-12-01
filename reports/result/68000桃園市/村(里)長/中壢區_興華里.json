@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林紅棗",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳俊諺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "興華里",
+            "house_no": "836",
+            "candidates": {
+                "1": 378,
+                "2": 407
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興華里",
+            "house_no": "837",
+            "candidates": {
+                "1": 328,
+                "2": 508
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1431
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興華里",
+            "house_no": "838",
+            "candidates": {
+                "1": 411,
+                "2": 386
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興華里",
+            "house_no": "839",
+            "candidates": {
+                "1": 429,
+                "2": 394
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1461
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張育豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "林朝聰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "新庄里",
+            "house_no": "573",
+            "candidates": {
+                "1": 440,
+                "2": 460
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "神岡區",
+            "cunli": "新庄里",
+            "house_no": "574",
+            "candidates": {
+                "1": 422,
+                "2": 429
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "神岡區",
+            "cunli": "新庄里",
+            "house_no": "575",
+            "candidates": {
+                "1": 504,
+                "2": 296
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1283
+        }
+    ]
+}

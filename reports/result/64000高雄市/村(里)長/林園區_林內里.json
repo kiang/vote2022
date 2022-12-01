@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃清景",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉水盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "林內里",
+            "house_no": "2001",
+            "candidates": {
+                "1": 451,
+                "2": 222
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "林園區",
+            "cunli": "林內里",
+            "house_no": "2002",
+            "candidates": {
+                "1": 286,
+                "2": 226
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 858
+        }
+    ]
+}

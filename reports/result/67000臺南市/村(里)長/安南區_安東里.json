@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金城",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "安東里",
+            "house_no": "704",
+            "candidates": {
+                "1": 651
+            },
+            "count_wrong": 161,
+            "count_unused": 1,
+            "count_total": 1403
+        },
+        {
+            "area": "安南區",
+            "cunli": "安東里",
+            "house_no": "705",
+            "candidates": {
+                "1": 619
+            },
+            "count_wrong": 111,
+            "count_unused": 5,
+            "count_total": 1268
+        }
+    ]
+}

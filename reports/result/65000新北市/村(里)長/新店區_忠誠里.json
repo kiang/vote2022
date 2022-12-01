@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡雯芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇煌輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳弘銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "忠誠里",
+            "house_no": "2175",
+            "candidates": {
+                "1": 326,
+                "2": 300,
+                "3": 44
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "新店區",
+            "cunli": "忠誠里",
+            "house_no": "2176",
+            "candidates": {
+                "1": 268,
+                "2": 244,
+                "3": 59
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

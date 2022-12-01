@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林龍照",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅天升",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烈嶼鄉",
+            "cunli": "林湖村",
+            "house_no": "48",
+            "candidates": {
+                "1": 378,
+                "2": 294
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1561
+        },
+        {
+            "area": "烈嶼鄉",
+            "cunli": "林湖村",
+            "house_no": "49",
+            "candidates": {
+                "1": 198,
+                "2": 435
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 1682
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振利",
+            "party": "無"
+        },
+        "2": {
+            "name": "林伯晏",
+            "party": "無"
+        },
+        "3": {
+            "name": "林克遠",
+            "party": "無"
+        },
+        "4": {
+            "name": "林文智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "崙北村",
+            "house_no": "191",
+            "candidates": {
+                "1": 12,
+                "2": 57,
+                "3": 166,
+                "4": 282,
+                "5": 64
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "崙北村",
+            "house_no": "192",
+            "candidates": {
+                "1": 2,
+                "2": 45,
+                "3": 283,
+                "4": 176,
+                "5": 53
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "崙南村",
+            "house_no": "193",
+            "candidates": {
+                "1": 15,
+                "2": 43,
+                "3": 136,
+                "4": 144,
+                "5": 98
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "廣溝村",
+            "house_no": "194",
+            "candidates": {
+                "1": 35,
+                "2": 103,
+                "3": 35,
+                "4": 47,
+                "5": 146
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "萡子村",
+            "house_no": "195",
+            "candidates": {
+                "1": 159,
+                "2": 259,
+                "3": 24,
+                "4": 55,
+                "5": 58
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 841
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "萡東村",
+            "house_no": "196",
+            "candidates": {
+                "1": 261,
+                "2": 207,
+                "3": 31,
+                "4": 50,
+                "5": 60
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

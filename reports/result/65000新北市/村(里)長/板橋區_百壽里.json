@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林華偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林樹枝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "百壽里",
+            "house_no": "1071",
+            "candidates": {
+                "1": 406,
+                "2": 303
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "板橋區",
+            "cunli": "百壽里",
+            "house_no": "1072",
+            "candidates": {
+                "1": 384,
+                "2": 286
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1110
+        }
+    ]
+}

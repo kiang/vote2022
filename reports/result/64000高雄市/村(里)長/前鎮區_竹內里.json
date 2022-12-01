@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭黃秀蘭",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "蘇慶忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "竹內里",
+            "house_no": "1732",
+            "candidates": {
+                "1": 271,
+                "2": 512
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "竹內里",
+            "house_no": "1733",
+            "candidates": {
+                "1": 291,
+                "2": 476
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1244
+        }
+    ]
+}

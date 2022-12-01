@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳俊樑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "豐田村",
+            "house_no": "901",
+            "candidates": {
+                "1": 251,
+                "2": 256
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "仁里村",
+            "house_no": "902",
+            "candidates": {
+                "1": 276,
+                "2": 110
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 609
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "仁里村",
+            "house_no": "903",
+            "candidates": {
+                "1": 365,
+                "2": 188
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "新厝村",
+            "house_no": "904",
+            "candidates": {
+                "1": 110,
+                "2": 54
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 247
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "溪頂村",
+            "house_no": "905",
+            "candidates": {
+                "1": 222,
+                "2": 158
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 588
+        }
+    ]
+}

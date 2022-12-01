@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江啓賓",
+            "party": "無"
+        },
+        "2": {
+            "name": "林榮格",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "番路鄉",
+            "cunli": "新福村",
+            "house_no": "496",
+            "candidates": {
+                "1": 339,
+                "2": 193
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 737
+        },
+        {
+            "area": "番路鄉",
+            "cunli": "新福村",
+            "house_no": "497",
+            "candidates": {
+                "1": 185,
+                "2": 152
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 505
+        }
+    ]
+}

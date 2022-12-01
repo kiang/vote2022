@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳延瑜",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳宏志",
+            "party": "無"
+        },
+        "3": {
+            "name": "施長川",
+            "party": "無"
+        },
+        "4": {
+            "name": "張美純",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "竹田鄉",
+            "cunli": "六巷村",
+            "house_no": "485",
+            "candidates": {
+                "1": 40,
+                "2": 63,
+                "3": 407,
+                "4": 52
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 757
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "泗洲村",
+            "house_no": "486",
+            "candidates": {
+                "1": 243,
+                "2": 168,
+                "3": 116,
+                "4": 151
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "大湖村",
+            "house_no": "487",
+            "candidates": {
+                "1": 309,
+                "2": 100,
+                "3": 197,
+                "4": 274
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1150
+        },
+        {
+            "area": "竹田鄉",
+            "cunli": "鳳明村",
+            "house_no": "488",
+            "candidates": {
+                "1": 251,
+                "2": 354,
+                "3": 45,
+                "4": 169
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1145
+        }
+    ]
+}

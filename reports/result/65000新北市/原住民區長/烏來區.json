@@ -1,0 +1,131 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周至剛",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡馬新",
+            "party": "無"
+        },
+        "3": {
+            "name": "林東暭",
+            "party": "無"
+        },
+        "4": {
+            "name": "周守信",
+            "party": "無"
+        },
+        "5": {
+            "name": "王子瑋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏來區",
+            "cunli": "忠治里",
+            "house_no": "2397",
+            "candidates": {
+                "1": 146,
+                "2": 166,
+                "3": 49,
+                "4": 167,
+                "5": 56
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "烏來區",
+            "cunli": "忠治里",
+            "house_no": "2398",
+            "candidates": {
+                "1": 125,
+                "2": 80,
+                "3": 45,
+                "4": 144,
+                "5": 76
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 635
+        },
+        {
+            "area": "烏來區",
+            "cunli": "烏來里",
+            "house_no": "2399",
+            "candidates": {
+                "1": 161,
+                "2": 258,
+                "3": 63,
+                "4": 174,
+                "5": 78
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "烏來區",
+            "cunli": "烏來里",
+            "house_no": "2400",
+            "candidates": {
+                "1": 317,
+                "2": 174,
+                "3": 72,
+                "4": 203,
+                "5": 54
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "烏來區",
+            "cunli": "孝義里",
+            "house_no": "2401",
+            "candidates": {
+                "1": 42,
+                "2": 53,
+                "3": 4,
+                "4": 68,
+                "5": 21
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 226
+        },
+        {
+            "area": "烏來區",
+            "cunli": "信賢里",
+            "house_no": "2402",
+            "candidates": {
+                "1": 99,
+                "2": 70,
+                "3": 20,
+                "4": 83,
+                "5": 25
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 476
+        },
+        {
+            "area": "烏來區",
+            "cunli": "福山里",
+            "house_no": "2403",
+            "candidates": {
+                "1": 130,
+                "2": 100,
+                "3": 26,
+                "4": 141,
+                "5": 65
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 595
+        }
+    ]
+}

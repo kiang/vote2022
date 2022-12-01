@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳俞安",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋藍美玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "華德里",
+            "house_no": "1017",
+            "candidates": {
+                "1": 238,
+                "2": 326
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "北區",
+            "cunli": "華德里",
+            "house_no": "1018",
+            "candidates": {
+                "1": 406,
+                "2": 380
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1529
+        },
+        {
+            "area": "北區",
+            "cunli": "華德里",
+            "house_no": "1019",
+            "candidates": {
+                "1": 198,
+                "2": 288
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 944
+        }
+    ]
+}

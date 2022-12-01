@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李榮盛",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫聖雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "李昌軒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安康里",
+            "house_no": "1137",
+            "candidates": {
+                "1": 165,
+                "2": 276,
+                "3": 188
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "三民區",
+            "cunli": "安康里",
+            "house_no": "1138",
+            "candidates": {
+                "1": 180,
+                "2": 301,
+                "3": 189
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1228
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王能波",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭文龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "田寮里",
+            "house_no": "1180",
+            "candidates": {
+                "1": 321,
+                "2": 179
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "南區",
+            "cunli": "田寮里",
+            "house_no": "1181",
+            "candidates": {
+                "1": 497,
+                "2": 172
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "南區",
+            "cunli": "田寮里",
+            "house_no": "1182",
+            "candidates": {
+                "1": 299,
+                "2": 206
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 944
+        }
+    ]
+}

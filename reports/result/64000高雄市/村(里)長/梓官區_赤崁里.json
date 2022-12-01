@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡良鑑",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "梓官區",
+            "cunli": "赤崁里",
+            "house_no": "411",
+            "candidates": {
+                "1": 535
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "梓官區",
+            "cunli": "赤崁里",
+            "house_no": "412",
+            "candidates": {
+                "1": 342
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 660
+        }
+    ]
+}

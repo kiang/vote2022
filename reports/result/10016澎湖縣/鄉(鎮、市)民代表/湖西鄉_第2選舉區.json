@@ -1,0 +1,153 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳妍臻",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂平清",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪榮利",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭素珍",
+            "party": "無"
+        },
+        "5": {
+            "name": "王經邦",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳紘諒",
+            "party": "無"
+        },
+        "7": {
+            "name": "李月華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖西鄉",
+            "cunli": "成功村",
+            "house_no": "62",
+            "candidates": {
+                "1": 121,
+                "2": 104,
+                "3": 34,
+                "4": 110,
+                "5": 61,
+                "6": 15,
+                "7": 39
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 910
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "東石村",
+            "house_no": "63",
+            "candidates": {
+                "1": 18,
+                "2": 19,
+                "3": 13,
+                "4": 6,
+                "5": 4,
+                "6": 4,
+                "7": 28
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 115
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "沙港村",
+            "house_no": "64",
+            "candidates": {
+                "1": 87,
+                "2": 194,
+                "3": 69,
+                "4": 14,
+                "5": 53,
+                "6": 9,
+                "7": 45
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 772
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "中西村",
+            "house_no": "65",
+            "candidates": {
+                "1": 25,
+                "2": 19,
+                "3": 66,
+                "4": 8,
+                "5": 11,
+                "6": 0,
+                "7": 25
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 224
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "鼎灣村",
+            "house_no": "66",
+            "candidates": {
+                "1": 38,
+                "2": 23,
+                "3": 33,
+                "4": 6,
+                "5": 19,
+                "6": 3,
+                "7": 131
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 604
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "潭邊村",
+            "house_no": "67",
+            "candidates": {
+                "1": 37,
+                "2": 26,
+                "3": 64,
+                "4": 14,
+                "5": 22,
+                "6": 16,
+                "7": 25
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 289
+        },
+        {
+            "area": "湖西鄉",
+            "cunli": "許家村",
+            "house_no": "68",
+            "candidates": {
+                "1": 101,
+                "2": 12,
+                "3": 13,
+                "4": 15,
+                "5": 31,
+                "6": 9,
+                "7": 70
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 401
+        }
+    ]
+}

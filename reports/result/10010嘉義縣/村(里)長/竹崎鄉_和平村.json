@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温翊達",
+            "party": "無"
+        },
+        "2": {
+            "name": "許全模",
+            "party": "無"
+        },
+        "3": {
+            "name": "許永鑫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹崎鄉",
+            "cunli": "和平村",
+            "house_no": "458",
+            "candidates": {
+                "1": 107,
+                "2": 364,
+                "3": 88
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "竹崎鄉",
+            "cunli": "和平村",
+            "house_no": "459",
+            "candidates": {
+                "1": 78,
+                "2": 455,
+                "3": 129
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1134
+        }
+    ]
+}

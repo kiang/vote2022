@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江宗穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭榮珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "安和里",
+            "house_no": "695",
+            "candidates": {
+                "1": 300,
+                "2": 376
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "安南區",
+            "cunli": "安和里",
+            "house_no": "696",
+            "candidates": {
+                "1": 252,
+                "2": 317
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 947
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林朝清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "龍崗里",
+            "house_no": "303",
+            "candidates": {
+                "1": 753
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1463
+        },
+        {
+            "area": "龍井區",
+            "cunli": "龍崗里",
+            "house_no": "304",
+            "candidates": {
+                "1": 649
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1186
+        }
+    ]
+}

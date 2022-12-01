@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李進財",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳春輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪木田",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉佳銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "汴頭里",
+            "house_no": "58",
+            "candidates": {
+                "1": 224,
+                "2": 63,
+                "3": 44,
+                "4": 82
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 673
+        }
+    ]
+}

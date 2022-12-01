@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡英道",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊素月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "大同里",
+            "house_no": "289",
+            "candidates": {
+                "1": 145,
+                "2": 109
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 398
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "大同里",
+            "house_no": "290",
+            "candidates": {
+                "1": 232,
+                "2": 212
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 685
+        }
+    ]
+}

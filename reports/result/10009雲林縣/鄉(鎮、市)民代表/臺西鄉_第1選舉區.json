@@ -1,0 +1,110 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林敵虎",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳一平",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳花環",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳四維",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳振吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "台西村",
+            "house_no": "37",
+            "candidates": {
+                "1": 321,
+                "2": 146,
+                "3": 179,
+                "4": 132
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "海南村",
+            "house_no": "38",
+            "candidates": {
+                "1": 205,
+                "2": 157,
+                "3": 238,
+                "4": 151
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "海北村",
+            "house_no": "39",
+            "candidates": {
+                "1": 371,
+                "2": 106,
+                "3": 158,
+                "4": 158
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "海口村",
+            "house_no": "40",
+            "candidates": {
+                "1": 107,
+                "2": 295,
+                "3": 72,
+                "4": 108
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "海口村",
+            "house_no": "41",
+            "candidates": {
+                "1": 72,
+                "2": 113,
+                "3": 72,
+                "4": 390
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "山寮村",
+            "house_no": "42",
+            "candidates": {
+                "1": 106,
+                "2": 51,
+                "3": 296,
+                "4": 49
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 787
+        }
+    ]
+}

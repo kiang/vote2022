@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林玉琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡錦文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "介壽里",
+            "house_no": "624",
+            "candidates": {
+                "1": 240,
+                "2": 496
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "松山區",
+            "cunli": "介壽里",
+            "house_no": "625",
+            "candidates": {
+                "1": 259,
+                "2": 441
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "松山區",
+            "cunli": "介壽里",
+            "house_no": "626",
+            "candidates": {
+                "1": 374,
+                "2": 403
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1118
+        }
+    ]
+}

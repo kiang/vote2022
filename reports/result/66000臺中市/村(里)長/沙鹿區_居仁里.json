@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳世芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃月兒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "居仁里",
+            "house_no": "199",
+            "candidates": {
+                "1": 260,
+                "2": 187
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "居仁里",
+            "house_no": "200",
+            "candidates": {
+                "1": 146,
+                "2": 172
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 535
+        }
+    ]
+}

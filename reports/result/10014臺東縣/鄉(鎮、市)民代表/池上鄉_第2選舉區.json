@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅菊妹",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏其位",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "池上鄉",
+            "cunli": "慶豐村",
+            "house_no": "154",
+            "candidates": {
+                "1": 240,
+                "2": 195
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 552
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "大坡村",
+            "house_no": "155",
+            "candidates": {
+                "1": 36,
+                "2": 23
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 86
+        }
+    ]
+}

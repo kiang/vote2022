@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王聖勛",
+            "party": "無"
+        },
+        "2": {
+            "name": "丹林志成",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉嘉屯",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃益琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "水社村",
+            "house_no": "400",
+            "candidates": {
+                "1": 181,
+                "2": 71,
+                "3": 171,
+                "4": 150
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "日月村",
+            "house_no": "401",
+            "candidates": {
+                "1": 25,
+                "2": 214,
+                "3": 161,
+                "4": 225
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "頭社村",
+            "house_no": "402",
+            "candidates": {
+                "1": 13,
+                "2": 31,
+                "3": 180,
+                "4": 35
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 374
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "頭社村",
+            "house_no": "403",
+            "candidates": {
+                "1": 32,
+                "2": 46,
+                "3": 226,
+                "4": 77
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 499
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "武登村",
+            "house_no": "404",
+            "candidates": {
+                "1": 6,
+                "2": 49,
+                "3": 132,
+                "4": 39
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 314
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "武登村",
+            "house_no": "405",
+            "candidates": {
+                "1": 15,
+                "2": 16,
+                "3": 105,
+                "4": 13
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 217
+        }
+    ]
+}

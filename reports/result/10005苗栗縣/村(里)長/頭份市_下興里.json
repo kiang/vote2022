@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉永泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃林鳳嬌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "下興里",
+            "house_no": "372",
+            "candidates": {
+                "1": 228,
+                "2": 521
+            },
+            "count_wrong": 16,
+            "count_unused": 2,
+            "count_total": 1148
+        },
+        {
+            "area": "頭份市",
+            "cunli": "下興里",
+            "house_no": "373",
+            "candidates": {
+                "1": 253,
+                "2": 551
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1275
+        }
+    ]
+}

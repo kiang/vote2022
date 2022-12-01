@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉嘉龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "永南村",
+            "house_no": "644",
+            "candidates": {
+                "1": 577
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "永南村",
+            "house_no": "645",
+            "candidates": {
+                "1": 467
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 756
+        }
+    ]
+}

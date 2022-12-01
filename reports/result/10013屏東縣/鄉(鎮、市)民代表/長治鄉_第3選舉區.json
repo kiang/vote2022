@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳貴松",
+            "party": "無"
+        },
+        "2": {
+            "name": "張永彰",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "蘇瑞珉",
+            "party": "無"
+        },
+        "4": {
+            "name": "李清科",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "繁昌村",
+            "house_no": "313",
+            "candidates": {
+                "1": 345,
+                "2": 91,
+                "3": 100,
+                "4": 73
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 802
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "繁昌村",
+            "house_no": "314",
+            "candidates": {
+                "1": 345,
+                "2": 141,
+                "3": 90,
+                "4": 67
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 873
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "繁榮村",
+            "house_no": "315",
+            "candidates": {
+                "1": 275,
+                "2": 228,
+                "3": 151,
+                "4": 231
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "繁隆村",
+            "house_no": "316",
+            "candidates": {
+                "1": 283,
+                "2": 183,
+                "3": 133,
+                "4": 184
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "繁華村",
+            "house_no": "317",
+            "candidates": {
+                "1": 272,
+                "2": 99,
+                "3": 139,
+                "4": 286
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "繁華村",
+            "house_no": "318",
+            "candidates": {
+                "1": 136,
+                "2": 124,
+                "3": 124,
+                "4": 292
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "榮華村",
+            "house_no": "319",
+            "candidates": {
+                "1": 141,
+                "2": 162,
+                "3": 48,
+                "4": 128
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 702
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "全得民",
+            "party": "無"
+        },
+        "2": {
+            "name": "幸金龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "松東隆",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "谷明耀",
+            "party": "無"
+        },
+        "5": {
+            "name": "金馬嵐Balang．Nangavulan",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義鄉",
+            "cunli": "人和村",
+            "house_no": "465",
+            "candidates": {
+                "1": 44,
+                "2": 52,
+                "3": 79,
+                "4": 34,
+                "5": 396
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "人和村",
+            "house_no": "466",
+            "candidates": {
+                "1": 16,
+                "2": 8,
+                "3": 12,
+                "4": 21,
+                "5": 85
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 243
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "地利村",
+            "house_no": "467",
+            "candidates": {
+                "1": 51,
+                "2": 76,
+                "3": 241,
+                "4": 159,
+                "5": 76
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "雙龍村",
+            "house_no": "468",
+            "candidates": {
+                "1": 204,
+                "2": 30,
+                "3": 34,
+                "4": 102,
+                "5": 58
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 575
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "潭南村",
+            "house_no": "469",
+            "candidates": {
+                "1": 28,
+                "2": 178,
+                "3": 58,
+                "4": 128,
+                "5": 32
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 548
+        }
+    ]
+}

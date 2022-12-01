@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王基安",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭怡靖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "溪寮里",
+            "house_no": "1963",
+            "candidates": {
+                "1": 339,
+                "2": 152
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 678
+        },
+        {
+            "area": "大寮區",
+            "cunli": "溪寮里",
+            "house_no": "1964",
+            "candidates": {
+                "1": 348,
+                "2": 216
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 823
+        }
+    ]
+}

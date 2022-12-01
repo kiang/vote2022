@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林素玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡勝堅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "舊社村",
+            "house_no": "226",
+            "candidates": {
+                "1": 338,
+                "2": 284
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "芬園鄉",
+            "cunli": "舊社村",
+            "house_no": "227",
+            "candidates": {
+                "1": 172,
+                "2": 356
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 765
+        }
+    ]
+}

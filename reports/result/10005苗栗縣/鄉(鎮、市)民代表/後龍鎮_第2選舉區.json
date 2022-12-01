@@ -1,0 +1,142 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美雪",
+            "party": "無"
+        },
+        "2": {
+            "name": "趙羽茜",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳國忠",
+            "party": "無"
+        },
+        "4": {
+            "name": "朱朝民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "豐富里",
+            "house_no": "242",
+            "candidates": {
+                "1": 136,
+                "2": 301,
+                "3": 28,
+                "4": 182,
+                "5": 172
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "校椅里",
+            "house_no": "243",
+            "candidates": {
+                "1": 197,
+                "2": 171,
+                "3": 72,
+                "4": 109,
+                "5": 205
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "埔頂里",
+            "house_no": "244",
+            "candidates": {
+                "1": 164,
+                "2": 124,
+                "3": 25,
+                "4": 61,
+                "5": 280
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "埔頂里",
+            "house_no": "245",
+            "candidates": {
+                "1": 281,
+                "2": 73,
+                "3": 26,
+                "4": 45,
+                "5": 227
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "埔頂里",
+            "house_no": "246",
+            "candidates": {
+                "1": 138,
+                "2": 76,
+                "3": 14,
+                "4": 170,
+                "5": 162
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 811
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "新民里",
+            "house_no": "247",
+            "candidates": {
+                "1": 89,
+                "2": 154,
+                "3": 13,
+                "4": 64,
+                "5": 147
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 641
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "新民里",
+            "house_no": "248",
+            "candidates": {
+                "1": 101,
+                "2": 165,
+                "3": 16,
+                "4": 50,
+                "5": 98
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 595
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "復興里",
+            "house_no": "249",
+            "candidates": {
+                "1": 154,
+                "2": 102,
+                "3": 24,
+                "4": 69,
+                "5": 167
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 661
+        }
+    ]
+}

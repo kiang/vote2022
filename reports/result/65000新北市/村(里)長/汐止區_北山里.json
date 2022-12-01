@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀蓉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林徵熊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "北山里",
+            "house_no": "2647",
+            "candidates": {
+                "1": 272,
+                "2": 529
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1430
+        },
+        {
+            "area": "汐止區",
+            "cunli": "北山里",
+            "house_no": "2648",
+            "candidates": {
+                "1": 387,
+                "2": 402
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1289
+        },
+        {
+            "area": "汐止區",
+            "cunli": "北山里",
+            "house_no": "2649",
+            "candidates": {
+                "1": 436,
+                "2": 338
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "汐止區",
+            "cunli": "北山里",
+            "house_no": "2650",
+            "candidates": {
+                "1": 334,
+                "2": 293
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

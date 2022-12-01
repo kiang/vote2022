@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李永",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "建業里",
+            "house_no": "36",
+            "candidates": {
+                "1": 624
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "建業里",
+            "house_no": "37",
+            "candidates": {
+                "1": 416
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 800
+        }
+    ]
+}

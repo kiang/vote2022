@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱國清",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱文仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "溫世偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "香楊村",
+            "house_no": "304",
+            "candidates": {
+                "1": 164,
+                "2": 110,
+                "3": 178
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 699
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "香楊村",
+            "house_no": "305",
+            "candidates": {
+                "1": 432,
+                "2": 283,
+                "3": 317
+            },
+            "count_wrong": 47,
+            "count_unused": 2,
+            "count_total": 1862
+        }
+    ]
+}

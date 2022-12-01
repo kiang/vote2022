@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "連金福",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃新德 Amid‧ ˆApak",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳林鎮",
+            "cunli": "長橋里",
+            "house_no": "239",
+            "candidates": {
+                "1": 276,
+                "2": 259
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "鳳林鎮",
+            "cunli": "森榮里",
+            "house_no": "240",
+            "candidates": {
+                "1": 25,
+                "2": 11
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 43
+        }
+    ]
+}

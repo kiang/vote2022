@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭桂林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大湳里",
+            "house_no": "417",
+            "candidates": {
+                "1": 685
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "八德區",
+            "cunli": "大湳里",
+            "house_no": "418",
+            "candidates": {
+                "1": 634
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 1316
+        },
+        {
+            "area": "八德區",
+            "cunli": "大湳里",
+            "house_no": "419",
+            "candidates": {
+                "1": 481
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1183
+        }
+    ]
+}

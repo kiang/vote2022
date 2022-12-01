@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "袁碧嬌",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "德仁里",
+            "house_no": "1159",
+            "candidates": {
+                "1": 398
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "三民區",
+            "cunli": "德仁里",
+            "house_no": "1160",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 880
+        }
+    ]
+}

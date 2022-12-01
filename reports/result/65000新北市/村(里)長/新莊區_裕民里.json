@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾榆期",
+            "party": "無"
+        },
+        "2": {
+            "name": "林秋福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "裕民里",
+            "house_no": "564",
+            "candidates": {
+                "1": 305,
+                "2": 473
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "新莊區",
+            "cunli": "裕民里",
+            "house_no": "565",
+            "candidates": {
+                "1": 423,
+                "2": 494
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1497
+        },
+        {
+            "area": "新莊區",
+            "cunli": "裕民里",
+            "house_no": "566",
+            "candidates": {
+                "1": 352,
+                "2": 494
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1440
+        },
+        {
+            "area": "新莊區",
+            "cunli": "裕民里",
+            "house_no": "567",
+            "candidates": {
+                "1": 400,
+                "2": 356
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1400
+        }
+    ]
+}

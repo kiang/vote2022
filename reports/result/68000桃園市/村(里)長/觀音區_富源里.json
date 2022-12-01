@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張阿千",
+            "party": "無"
+        },
+        "2": {
+            "name": "余奕增",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "富源里",
+            "house_no": "1339",
+            "candidates": {
+                "1": 364,
+                "2": 391
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "觀音區",
+            "cunli": "富源里",
+            "house_no": "1340",
+            "candidates": {
+                "1": 364,
+                "2": 464
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1312
+        },
+        {
+            "area": "觀音區",
+            "cunli": "富源里",
+            "house_no": "1341",
+            "candidates": {
+                "1": 499,
+                "2": 334
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1280
+        }
+    ]
+}

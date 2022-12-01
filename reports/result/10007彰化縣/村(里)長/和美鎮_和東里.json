@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王文雄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "尤堃宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "和東里",
+            "house_no": "394",
+            "candidates": {
+                "1": 261,
+                "2": 301
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "和東里",
+            "house_no": "395",
+            "candidates": {
+                "1": 307,
+                "2": 213
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "和東里",
+            "house_no": "396",
+            "candidates": {
+                "1": 303,
+                "2": 248
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "和東里",
+            "house_no": "397",
+            "candidates": {
+                "1": 291,
+                "2": 425
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1224
+        }
+    ]
+}

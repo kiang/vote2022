@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "管文英",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳之貴",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "翠山里",
+            "house_no": "348",
+            "candidates": {
+                "1": 287,
+                "2": 457
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "士林區",
+            "cunli": "翠山里",
+            "house_no": "349",
+            "candidates": {
+                "1": 230,
+                "2": 542
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1101
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾明福",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾淑蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "獅山里",
+            "house_no": "111",
+            "candidates": {
+                "1": 526,
+                "2": 207
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "美濃區",
+            "cunli": "獅山里",
+            "house_no": "112",
+            "candidates": {
+                "1": 518,
+                "2": 264
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1213
+        }
+    ]
+}

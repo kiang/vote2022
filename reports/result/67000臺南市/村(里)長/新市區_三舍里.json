@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林華郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "方進昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新市區",
+            "cunli": "三舍里",
+            "house_no": "599",
+            "candidates": {
+                "1": 338,
+                "2": 261
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 859
+        },
+        {
+            "area": "新市區",
+            "cunli": "三舍里",
+            "house_no": "600",
+            "candidates": {
+                "1": 190,
+                "2": 189
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 622
+        }
+    ]
+}

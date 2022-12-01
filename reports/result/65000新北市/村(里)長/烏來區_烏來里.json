@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高信夫",
+            "party": "無"
+        },
+        "2": {
+            "name": "林春雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊健福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏來區",
+            "cunli": "烏來里",
+            "house_no": "2399",
+            "candidates": {
+                "1": 98,
+                "2": 409,
+                "3": 211
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "烏來區",
+            "cunli": "烏來里",
+            "house_no": "2400",
+            "candidates": {
+                "1": 259,
+                "2": 312,
+                "3": 241
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

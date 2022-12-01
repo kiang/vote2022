@@ -1,0 +1,110 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳英銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘壯志",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "704",
+            "candidates": {
+                "1": 204,
+                "2": 362
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "705",
+            "candidates": {
+                "1": 160,
+                "2": 209
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 501
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "石門村",
+            "house_no": "706",
+            "candidates": {
+                "1": 89,
+                "2": 119
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 305
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "牡丹村",
+            "house_no": "707",
+            "candidates": {
+                "1": 166,
+                "2": 297
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 640
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "東源村",
+            "house_no": "708",
+            "candidates": {
+                "1": 147,
+                "2": 185
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 424
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "旭海村",
+            "house_no": "709",
+            "candidates": {
+                "1": 26,
+                "2": 265
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 348
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "高士村",
+            "house_no": "710",
+            "candidates": {
+                "1": 176,
+                "2": 299
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 572
+        },
+        {
+            "area": "牡丹鄉",
+            "cunli": "四林村",
+            "house_no": "711",
+            "candidates": {
+                "1": 99,
+                "2": 240
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 520
+        }
+    ]
+}

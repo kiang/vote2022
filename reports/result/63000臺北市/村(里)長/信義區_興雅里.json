@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馬強",
+            "party": "無"
+        },
+        "2": {
+            "name": "林素琴",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "興雅里",
+            "house_no": "745",
+            "candidates": {
+                "1": 276,
+                "2": 384
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "信義區",
+            "cunli": "興雅里",
+            "house_no": "746",
+            "candidates": {
+                "1": 272,
+                "2": 376
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "信義區",
+            "cunli": "興雅里",
+            "house_no": "747",
+            "candidates": {
+                "1": 390,
+                "2": 445
+            },
+            "count_wrong": 49,
+            "count_unused": 2,
+            "count_total": 1244
+        },
+        {
+            "area": "信義區",
+            "cunli": "興雅里",
+            "house_no": "748",
+            "candidates": {
+                "1": 294,
+                "2": 321
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1021
+        }
+    ]
+}

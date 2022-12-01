@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李傳興",
+            "party": "無"
+        },
+        "2": {
+            "name": "李義遠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "中原里",
+            "house_no": "219",
+            "candidates": {
+                "1": 327,
+                "2": 418
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1115
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "中原里",
+            "house_no": "220",
+            "candidates": {
+                "1": 279,
+                "2": 326
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 840
+        }
+    ]
+}

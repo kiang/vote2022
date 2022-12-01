@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳俊良",
+            "party": "無"
+        },
+        "2": {
+            "name": "侯星陽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "忠智里",
+            "house_no": "99",
+            "candidates": {
+                "1": 355,
+                "2": 242
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "忠智里",
+            "house_no": "100",
+            "candidates": {
+                "1": 372,
+                "2": 222
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 930
+        }
+    ]
+}

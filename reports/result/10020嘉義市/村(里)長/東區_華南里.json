@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡國樑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "華南里",
+            "house_no": "36",
+            "candidates": {
+                "1": 358
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "東區",
+            "cunli": "華南里",
+            "house_no": "37",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 958
+        }
+    ]
+}

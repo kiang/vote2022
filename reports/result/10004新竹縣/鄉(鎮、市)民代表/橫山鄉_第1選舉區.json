@@ -1,0 +1,140 @@
+{
+    "candidates": {
+        "1": {
+            "name": "麥瑞鳳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳文亮",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "徐洪正",
+            "party": "無"
+        },
+        "4": {
+            "name": "許英棋",
+            "party": "無"
+        },
+        "5": {
+            "name": "巫江銘",
+            "party": "無"
+        },
+        "6": {
+            "name": "張瑞蘭",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "葉樹沿",
+            "party": "無"
+        },
+        "8": {
+            "name": "羅世達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橫山鄉",
+            "cunli": "橫山村",
+            "house_no": "393",
+            "candidates": {
+                "1": 51,
+                "2": 89,
+                "3": 58,
+                "4": 56,
+                "5": 65,
+                "6": 149,
+                "7": 242
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "橫山村",
+            "house_no": "394",
+            "candidates": {
+                "1": 45,
+                "2": 36,
+                "3": 12,
+                "4": 69,
+                "5": 46,
+                "6": 301,
+                "7": 62
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "橫山村",
+            "house_no": "395",
+            "candidates": {
+                "1": 29,
+                "2": 168,
+                "3": 11,
+                "4": 40,
+                "5": 90,
+                "6": 71,
+                "7": 276
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "田寮村",
+            "house_no": "396",
+            "candidates": {
+                "1": 291,
+                "2": 18,
+                "3": 9,
+                "4": 119,
+                "5": 25,
+                "6": 61,
+                "7": 19
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 808
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "南昌村",
+            "house_no": "397",
+            "candidates": {
+                "1": 24,
+                "2": 8,
+                "3": 2,
+                "4": 12,
+                "5": 5,
+                "6": 34,
+                "7": 16
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 167
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "豐鄉村",
+            "house_no": "398",
+            "candidates": {
+                "1": 11,
+                "2": 8,
+                "3": 13,
+                "4": 13,
+                "5": 39,
+                "6": 27,
+                "7": 35
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 208
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林裕隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "林木雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬和村",
+            "house_no": "415",
+            "candidates": {
+                "1": 392,
+                "2": 198
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬和村",
+            "house_no": "416",
+            "candidates": {
+                "1": 301,
+                "2": 186
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 709
+        }
+    ]
+}

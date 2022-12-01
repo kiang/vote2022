@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李朝清",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱光復",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "忠義里",
+            "house_no": "1490",
+            "candidates": {
+                "1": 421,
+                "2": 111
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 919
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠義里",
+            "house_no": "1491",
+            "candidates": {
+                "1": 435,
+                "2": 106
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠義里",
+            "house_no": "1492",
+            "candidates": {
+                "1": 452,
+                "2": 82
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠義里",
+            "house_no": "1493",
+            "candidates": {
+                "1": 567,
+                "2": 150
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

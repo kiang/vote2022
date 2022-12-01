@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林秋榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾華民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "崇義里",
+            "house_no": "133",
+            "candidates": {
+                "1": 317,
+                "2": 263
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 903
+        },
+        {
+            "area": "竹北市",
+            "cunli": "崇義里",
+            "house_no": "134",
+            "candidates": {
+                "1": 226,
+                "2": 352
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 911
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾銘郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "林月草",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "外埔區",
+            "cunli": "三崁里",
+            "house_no": "87",
+            "candidates": {
+                "1": 352,
+                "2": 369
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "外埔區",
+            "cunli": "三崁里",
+            "house_no": "88",
+            "candidates": {
+                "1": 252,
+                "2": 258
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 782
+        }
+    ]
+}

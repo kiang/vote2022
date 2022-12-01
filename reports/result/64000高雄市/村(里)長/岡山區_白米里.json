@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "史勝忠",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "曾詠妮",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡勝宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "白米里",
+            "house_no": "332",
+            "candidates": {
+                "1": 262,
+                "2": 269,
+                "3": 75
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 869
+        },
+        {
+            "area": "岡山區",
+            "cunli": "白米里",
+            "house_no": "333",
+            "candidates": {
+                "1": 211,
+                "2": 259,
+                "3": 202
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1020
+        }
+    ]
+}

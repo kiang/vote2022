@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張啓進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "埔頂里",
+            "house_no": "244",
+            "candidates": {
+                "1": 561
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 888
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "埔頂里",
+            "house_no": "245",
+            "candidates": {
+                "1": 584
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "埔頂里",
+            "house_no": "246",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 131,
+            "count_unused": 0,
+            "count_total": 811
+        }
+    ]
+}

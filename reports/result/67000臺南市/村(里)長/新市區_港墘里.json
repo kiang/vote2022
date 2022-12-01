@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李嘉誠",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鋒文",
+            "party": "無"
+        },
+        "3": {
+            "name": "翁龍慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新市區",
+            "cunli": "港墘里",
+            "house_no": "610",
+            "candidates": {
+                "1": 212,
+                "2": 149,
+                "3": 134
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "新市區",
+            "cunli": "港墘里",
+            "house_no": "611",
+            "candidates": {
+                "1": 198,
+                "2": 342,
+                "3": 152
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "新市區",
+            "cunli": "港墘里",
+            "house_no": "612",
+            "candidates": {
+                "1": 150,
+                "2": 178,
+                "3": 339
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

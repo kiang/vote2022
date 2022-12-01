@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張俊卿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "華崙里",
+            "house_no": "1004",
+            "candidates": {
+                "1": 607
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "華崙里",
+            "house_no": "1005",
+            "candidates": {
+                "1": 649
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "華崙里",
+            "house_no": "1006",
+            "candidates": {
+                "1": 585
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1001
+        }
+    ]
+}

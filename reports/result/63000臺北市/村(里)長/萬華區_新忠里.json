@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱文龍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "新忠里",
+            "house_no": "1368",
+            "candidates": {
+                "1": 459
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "萬華區",
+            "cunli": "新忠里",
+            "house_no": "1369",
+            "candidates": {
+                "1": 509
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "萬華區",
+            "cunli": "新忠里",
+            "house_no": "1370",
+            "candidates": {
+                "1": 708
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1040
+        }
+    ]
+}

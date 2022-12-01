@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高銘鴻",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "朱崙里",
+            "house_no": "1037",
+            "candidates": {
+                "1": 730
+            },
+            "count_wrong": 150,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "中山區",
+            "cunli": "朱崙里",
+            "house_no": "1038",
+            "candidates": {
+                "1": 644
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1118
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王昭人",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳駿明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "300",
+            "candidates": {
+                "1": 539,
+                "2": 274
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "301",
+            "candidates": {
+                "1": 389,
+                "2": 249
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "302",
+            "candidates": {
+                "1": 301,
+                "2": 150
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 742
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "303",
+            "candidates": {
+                "1": 340,
+                "2": 151
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 770
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "304",
+            "candidates": {
+                "1": 440,
+                "2": 206
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1089
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "新街里",
+            "house_no": "305",
+            "candidates": {
+                "1": 396,
+                "2": 283
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

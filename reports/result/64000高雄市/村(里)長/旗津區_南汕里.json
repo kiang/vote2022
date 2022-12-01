@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯靜宜",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡明議",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗津區",
+            "cunli": "南汕里",
+            "house_no": "980",
+            "candidates": {
+                "1": 232,
+                "2": 300
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "旗津區",
+            "cunli": "南汕里",
+            "house_no": "981",
+            "candidates": {
+                "1": 224,
+                "2": 448
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1021
+        }
+    ]
+}

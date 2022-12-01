@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇樹木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "秀峰里",
+            "house_no": "2554",
+            "candidates": {
+                "1": 273
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1793
+        },
+        {
+            "area": "汐止區",
+            "cunli": "秀峰里",
+            "house_no": "2555",
+            "candidates": {
+                "1": 622
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1515
+        },
+        {
+            "area": "汐止區",
+            "cunli": "秀峰里",
+            "house_no": "2556",
+            "candidates": {
+                "1": 540
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

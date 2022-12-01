@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉健勲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "溪海里",
+            "house_no": "590",
+            "candidates": {
+                "1": 597
+            },
+            "count_wrong": 155,
+            "count_unused": 0,
+            "count_total": 1511
+        },
+        {
+            "area": "大園區",
+            "cunli": "溪海里",
+            "house_no": "591",
+            "candidates": {
+                "1": 624
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1518
+        },
+        {
+            "area": "大園區",
+            "cunli": "溪海里",
+            "house_no": "592",
+            "candidates": {
+                "1": 722
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 1648
+        }
+    ]
+}

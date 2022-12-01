@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金爾",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭永樂",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳俊忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔鹽鄉",
+            "cunli": "西湖村",
+            "house_no": "723",
+            "candidates": {
+                "1": 465,
+                "2": 37,
+                "3": 198
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "埔鹽鄉",
+            "cunli": "西湖村",
+            "house_no": "724",
+            "candidates": {
+                "1": 237,
+                "2": 43,
+                "3": 456
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1019
+        }
+    ]
+}

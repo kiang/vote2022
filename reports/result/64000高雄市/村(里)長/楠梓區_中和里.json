@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊亷政",
+            "party": "無"
+        },
+        "2": {
+            "name": "李東宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楠梓區",
+            "cunli": "中和里",
+            "house_no": "587",
+            "candidates": {
+                "1": 186,
+                "2": 514
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "中和里",
+            "house_no": "588",
+            "candidates": {
+                "1": 263,
+                "2": 456
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1382
+        },
+        {
+            "area": "楠梓區",
+            "cunli": "中和里",
+            "house_no": "589",
+            "candidates": {
+                "1": 405,
+                "2": 389
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1700
+        }
+    ]
+}

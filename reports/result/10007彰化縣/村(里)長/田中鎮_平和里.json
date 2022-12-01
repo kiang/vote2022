@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張曰娥",
+            "party": "無"
+        },
+        "2": {
+            "name": "周錦楷",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳明圳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "平和里",
+            "house_no": "775",
+            "candidates": {
+                "1": 73,
+                "2": 186,
+                "3": 137
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 686
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "平和里",
+            "house_no": "776",
+            "candidates": {
+                "1": 68,
+                "2": 101,
+                "3": 246
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 678
+        }
+    ]
+}

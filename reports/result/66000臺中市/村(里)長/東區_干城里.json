@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂彥蓉",
+            "party": "無"
+        },
+        "2": {
+            "name": "張碧芝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "干城里",
+            "house_no": "1377",
+            "candidates": {
+                "1": 281,
+                "2": 410
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "東區",
+            "cunli": "干城里",
+            "house_no": "1378",
+            "candidates": {
+                "1": 140,
+                "2": 347
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 836
+        }
+    ]
+}

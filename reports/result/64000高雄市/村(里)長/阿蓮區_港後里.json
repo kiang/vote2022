@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭文能",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃培基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿蓮區",
+            "cunli": "港後里",
+            "house_no": "236",
+            "candidates": {
+                "1": 294,
+                "2": 145
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 670
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "港後里",
+            "house_no": "237",
+            "candidates": {
+                "1": 339,
+                "2": 157
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "港後里",
+            "house_no": "238",
+            "candidates": {
+                "1": 199,
+                "2": 125
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 535
+        }
+    ]
+}

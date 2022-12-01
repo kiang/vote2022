@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游素珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "沙崙里",
+            "house_no": "622",
+            "candidates": {
+                "1": 485
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "大園區",
+            "cunli": "沙崙里",
+            "house_no": "623",
+            "candidates": {
+                "1": 310
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 575
+        }
+    ]
+}

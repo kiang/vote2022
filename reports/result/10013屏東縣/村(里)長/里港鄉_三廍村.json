@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許福添",
+            "party": "無"
+        },
+        "2": {
+            "name": "張純嘉",
+            "party": "無"
+        },
+        "3": {
+            "name": "林世志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "里港鄉",
+            "cunli": "三廍村",
+            "house_no": "362",
+            "candidates": {
+                "1": 56,
+                "2": 270,
+                "3": 224
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "里港鄉",
+            "cunli": "三廍村",
+            "house_no": "363",
+            "candidates": {
+                "1": 29,
+                "2": 322,
+                "3": 343
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 962
+        }
+    ]
+}

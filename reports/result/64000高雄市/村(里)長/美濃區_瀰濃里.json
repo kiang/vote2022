@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉和昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃玉秋",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾海清",
+            "party": "無"
+        },
+        "4": {
+            "name": "林仁興",
+            "party": "無"
+        },
+        "5": {
+            "name": "鍾仁振",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "瀰濃里",
+            "house_no": "122",
+            "candidates": {
+                "1": 186,
+                "2": 11,
+                "3": 65,
+                "4": 221,
+                "5": 133
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "美濃區",
+            "cunli": "瀰濃里",
+            "house_no": "123",
+            "candidates": {
+                "1": 154,
+                "2": 10,
+                "3": 91,
+                "4": 231,
+                "5": 141
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1082
+        }
+    ]
+}

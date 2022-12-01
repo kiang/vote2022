@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施晧軒",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "廖慧如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐榮里",
+            "house_no": "67",
+            "candidates": {
+                "1": 354,
+                "2": 246
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐榮里",
+            "house_no": "68",
+            "candidates": {
+                "1": 318,
+                "2": 224
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐榮里",
+            "house_no": "69",
+            "candidates": {
+                "1": 335,
+                "2": 242
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

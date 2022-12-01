@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃賜福",
+            "party": "無"
+        },
+        "2": {
+            "name": "何文發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金山區",
+            "cunli": "美田里",
+            "house_no": "2508",
+            "candidates": {
+                "1": 324,
+                "2": 378
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "金山區",
+            "cunli": "美田里",
+            "house_no": "2509",
+            "candidates": {
+                "1": 394,
+                "2": 323
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "金山區",
+            "cunli": "美田里",
+            "house_no": "2510",
+            "candidates": {
+                "1": 331,
+                "2": 392
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1295
+        }
+    ]
+}

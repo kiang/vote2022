@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳鄧崧",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭順天",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "中興里",
+            "house_no": "63",
+            "candidates": {
+                "1": 436,
+                "2": 213
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "中興里",
+            "house_no": "64",
+            "candidates": {
+                "1": 244,
+                "2": 188
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 763
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "中興里",
+            "house_no": "65",
+            "candidates": {
+                "1": 265,
+                "2": 174
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 783
+        }
+    ]
+}

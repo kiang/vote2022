@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張桂泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏秋梅",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃振宏",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳乾文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三灣鄉",
+            "cunli": "三灣村",
+            "house_no": "416",
+            "candidates": {
+                "1": 193,
+                "2": 347,
+                "3": 45,
+                "4": 118
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "三灣村",
+            "house_no": "417",
+            "candidates": {
+                "1": 258,
+                "2": 396,
+                "3": 56,
+                "4": 154
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1165
+        }
+    ]
+}

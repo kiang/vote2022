@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王百祿",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "東池村",
+            "house_no": "382",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 695
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "東池村",
+            "house_no": "383",
+            "candidates": {
+                "1": 539
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 811
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張正",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊來成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "湖日里",
+            "house_no": "366",
+            "candidates": {
+                "1": 319,
+                "2": 473
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "烏日區",
+            "cunli": "湖日里",
+            "house_no": "367",
+            "candidates": {
+                "1": 329,
+                "2": 485
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1352
+        }
+    ]
+}

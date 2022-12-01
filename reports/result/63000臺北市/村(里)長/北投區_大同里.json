@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃照鍾",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃澤雙",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳文鈴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "大同里",
+            "house_no": "104",
+            "candidates": {
+                "1": 123,
+                "2": 302,
+                "3": 363
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "北投區",
+            "cunli": "大同里",
+            "house_no": "105",
+            "candidates": {
+                "1": 128,
+                "2": 285,
+                "3": 267
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "北投區",
+            "cunli": "大同里",
+            "house_no": "106",
+            "candidates": {
+                "1": 83,
+                "2": 267,
+                "3": 298
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "北投區",
+            "cunli": "大同里",
+            "house_no": "107",
+            "candidates": {
+                "1": 100,
+                "2": 380,
+                "3": 314
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1140
+        }
+    ]
+}

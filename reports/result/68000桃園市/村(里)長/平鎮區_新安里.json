@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聖郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳坤仙",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉佳凌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "新安里",
+            "house_no": "1086",
+            "candidates": {
+                "1": 257,
+                "2": 127,
+                "3": 472
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1460
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新安里",
+            "house_no": "1087",
+            "candidates": {
+                "1": 245,
+                "2": 76,
+                "3": 447
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1433
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "新安里",
+            "house_no": "1088",
+            "candidates": {
+                "1": 263,
+                "2": 89,
+                "3": 400
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1310
+        }
+    ]
+}

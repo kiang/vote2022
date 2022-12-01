@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊成雙",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐福全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "687",
+            "candidates": {
+                "1": 365,
+                "2": 346
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "688",
+            "candidates": {
+                "1": 450,
+                "2": 308
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "689",
+            "candidates": {
+                "1": 411,
+                "2": 238
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "大溪區",
+            "cunli": "南興里",
+            "house_no": "690",
+            "candidates": {
+                "1": 462,
+                "2": 314
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1296
+        }
+    ]
+}

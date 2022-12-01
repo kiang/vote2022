@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳三雄",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "德生里",
+            "house_no": "1234",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 132,
+            "count_unused": 1,
+            "count_total": 1323
+        },
+        {
+            "area": "新興區",
+            "cunli": "德生里",
+            "house_no": "1235",
+            "candidates": {
+                "1": 611
+            },
+            "count_wrong": 126,
+            "count_unused": 0,
+            "count_total": 1329
+        }
+    ]
+}

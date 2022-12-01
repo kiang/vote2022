@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王勝和",
+            "party": "無"
+        },
+        "2": {
+            "name": "黄靖翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "延和里",
+            "house_no": "26",
+            "candidates": {
+                "1": 374,
+                "2": 355
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "彰化市",
+            "cunli": "延和里",
+            "house_no": "27",
+            "candidates": {
+                "1": 410,
+                "2": 333
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1185
+        },
+        {
+            "area": "彰化市",
+            "cunli": "延和里",
+            "house_no": "28",
+            "candidates": {
+                "1": 354,
+                "2": 389
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "彰化市",
+            "cunli": "延和里",
+            "house_no": "29",
+            "candidates": {
+                "1": 399,
+                "2": 293
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

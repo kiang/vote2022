@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林國瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "余國安",
+            "party": "無"
+        },
+        "3": {
+            "name": "周宇軒",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "黃明德",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "民有里",
+            "house_no": "652",
+            "candidates": {
+                "1": 313,
+                "2": 215,
+                "3": 130,
+                "4": 181
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "松山區",
+            "cunli": "民有里",
+            "house_no": "653",
+            "candidates": {
+                "1": 382,
+                "2": 199,
+                "3": 88,
+                "4": 152
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "松山區",
+            "cunli": "民有里",
+            "house_no": "654",
+            "candidates": {
+                "1": 289,
+                "2": 207,
+                "3": 83,
+                "4": 153
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "松山區",
+            "cunli": "民有里",
+            "house_no": "655",
+            "candidates": {
+                "1": 307,
+                "2": 204,
+                "3": 102,
+                "4": 172
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "松山區",
+            "cunli": "民有里",
+            "house_no": "656",
+            "candidates": {
+                "1": 366,
+                "2": 148,
+                "3": 91,
+                "4": 165
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "松山區",
+            "cunli": "民有里",
+            "house_no": "657",
+            "candidates": {
+                "1": 268,
+                "2": 145,
+                "3": 117,
+                "4": 168
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

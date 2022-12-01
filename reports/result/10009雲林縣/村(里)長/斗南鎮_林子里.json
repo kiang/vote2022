@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈松旺",
+            "party": "無"
+        },
+        "2": {
+            "name": "嚴秀鳳",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃高明",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃順助",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "林子里",
+            "house_no": "563",
+            "candidates": {
+                "1": 218,
+                "2": 170,
+                "3": 177,
+                "4": 297
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1247
+        }
+    ]
+}

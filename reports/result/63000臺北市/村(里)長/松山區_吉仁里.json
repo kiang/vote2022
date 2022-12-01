@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李全長",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "吉仁里",
+            "house_no": "712",
+            "candidates": {
+                "1": 597
+            },
+            "count_wrong": 131,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "松山區",
+            "cunli": "吉仁里",
+            "house_no": "713",
+            "candidates": {
+                "1": 539
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "松山區",
+            "cunli": "吉仁里",
+            "house_no": "714",
+            "candidates": {
+                "1": 557
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 967
+        }
+    ]
+}

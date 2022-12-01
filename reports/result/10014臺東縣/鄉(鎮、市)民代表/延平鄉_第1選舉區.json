@@ -1,0 +1,48 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余進坤",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱文俊",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "延平鄉",
+            "cunli": "桃源村",
+            "house_no": "215",
+            "candidates": {
+                "1": 70,
+                "2": 158,
+                "3": 123,
+                "4": 90,
+                "5": 154,
+                "6": 100,
+                "7": 57
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "延平鄉",
+            "cunli": "紅葉村",
+            "house_no": "216",
+            "candidates": {
+                "1": 101,
+                "2": 20,
+                "3": 12,
+                "4": 45,
+                "5": 21,
+                "6": 21,
+                "7": 98
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 398
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹朋樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "江龍飛",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃水來",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿草鄉",
+            "cunli": "下潭村",
+            "house_no": "50",
+            "candidates": {
+                "1": 35,
+                "2": 40,
+                "3": 17,
+                "4": 250,
+                "5": 62,
+                "6": 15,
+                "7": 55
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 771
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "光潭村",
+            "house_no": "51",
+            "candidates": {
+                "1": 81,
+                "2": 40,
+                "3": 31,
+                "4": 303,
+                "5": 82,
+                "6": 46,
+                "7": 46
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "碧潭村",
+            "house_no": "52",
+            "candidates": {
+                "1": 0,
+                "2": 190,
+                "3": 62,
+                "4": 59,
+                "5": 265,
+                "6": 15,
+                "7": 16
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "松竹村",
+            "house_no": "53",
+            "candidates": {
+                "1": 7,
+                "2": 27,
+                "3": 181,
+                "4": 81,
+                "5": 42,
+                "6": 138,
+                "7": 48
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "竹山村",
+            "house_no": "54",
+            "candidates": {
+                "1": 6,
+                "2": 13,
+                "3": 222,
+                "4": 62,
+                "5": 21,
+                "6": 170,
+                "7": 8
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 626
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "竹山村",
+            "house_no": "55",
+            "candidates": {
+                "1": 0,
+                "2": 7,
+                "3": 32,
+                "4": 71,
+                "5": 43,
+                "6": 13,
+                "7": 10
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 237
+        }
+    ]
+}

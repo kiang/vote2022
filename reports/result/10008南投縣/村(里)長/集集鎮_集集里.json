@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許宗壹",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳英居",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡郁昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "集集鎮",
+            "cunli": "集集里",
+            "house_no": "284",
+            "candidates": {
+                "1": 294,
+                "2": 264,
+                "3": 209
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1029
+        }
+    ]
+}

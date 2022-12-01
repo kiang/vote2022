@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王瑞發",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東南里",
+            "house_no": "1400",
+            "candidates": {
+                "1": 599
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1285
+        },
+        {
+            "area": "東區",
+            "cunli": "東南里",
+            "house_no": "1401",
+            "candidates": {
+                "1": 468
+            },
+            "count_wrong": 124,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "東區",
+            "cunli": "東南里",
+            "house_no": "1402",
+            "candidates": {
+                "1": 588
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1212
+        }
+    ]
+}

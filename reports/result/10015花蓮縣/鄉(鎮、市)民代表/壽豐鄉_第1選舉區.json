@@ -1,0 +1,187 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李錦福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張仁俊",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "吳靖雯",
+            "party": "無"
+        },
+        "4": {
+            "name": "周欽南",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "壽豐村",
+            "house_no": "212",
+            "candidates": {
+                "1": 89,
+                "2": 58,
+                "3": 65,
+                "4": 81,
+                "5": 111
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 598
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "壽豐村",
+            "house_no": "213",
+            "candidates": {
+                "1": 48,
+                "2": 27,
+                "3": 73,
+                "4": 69,
+                "5": 61
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 436
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "共和村",
+            "house_no": "214",
+            "candidates": {
+                "1": 138,
+                "2": 54,
+                "3": 49,
+                "4": 75,
+                "5": 60
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 567
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "光榮村",
+            "house_no": "215",
+            "candidates": {
+                "1": 24,
+                "2": 7,
+                "3": 15,
+                "4": 18,
+                "5": 18
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 134
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "池南村",
+            "house_no": "216",
+            "candidates": {
+                "1": 36,
+                "2": 32,
+                "3": 86,
+                "4": 75,
+                "5": 45
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 425
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "平和村",
+            "house_no": "217",
+            "candidates": {
+                "1": 96,
+                "2": 76,
+                "3": 131,
+                "4": 98,
+                "5": 55
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 716
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "平和村",
+            "house_no": "218",
+            "candidates": {
+                "1": 19,
+                "2": 39,
+                "3": 99,
+                "4": 30,
+                "5": 28
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "志學村",
+            "house_no": "219",
+            "candidates": {
+                "1": 40,
+                "2": 194,
+                "3": 126,
+                "4": 42,
+                "5": 44
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "志學村",
+            "house_no": "220",
+            "candidates": {
+                "1": 85,
+                "2": 138,
+                "3": 162,
+                "4": 73,
+                "5": 63
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "志學村",
+            "house_no": "221",
+            "candidates": {
+                "1": 51,
+                "2": 129,
+                "3": 102,
+                "4": 26,
+                "5": 56
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 584
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "月眉村",
+            "house_no": "223",
+            "candidates": {
+                "1": 13,
+                "2": 23,
+                "3": 78,
+                "4": 19,
+                "5": 23
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 226
+        }
+    ]
+}

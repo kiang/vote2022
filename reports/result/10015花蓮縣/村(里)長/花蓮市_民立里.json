@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張萱",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭文龍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民立里",
+            "house_no": "22",
+            "candidates": {
+                "1": 236,
+                "2": 174
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 783
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民立里",
+            "house_no": "23",
+            "candidates": {
+                "1": 139,
+                "2": 125
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 705
+        }
+    ]
+}

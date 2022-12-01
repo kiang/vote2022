@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳長久",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳安國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "山水里",
+            "house_no": "46",
+            "candidates": {
+                "1": 212,
+                "2": 250
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "馬公市",
+            "cunli": "山水里",
+            "house_no": "47",
+            "candidates": {
+                "1": 229,
+                "2": 328
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 903
+        }
+    ]
+}

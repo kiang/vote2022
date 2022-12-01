@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃銘治",
+            "party": "無"
+        },
+        "2": {
+            "name": "王月裡",
+            "party": "無"
+        },
+        "3": {
+            "name": "布落.馬信",
+            "party": "無"
+        },
+        "4": {
+            "name": "李啓民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "第1選舉區",
+            "cunli": "忠治里",
+            "house_no": "2397",
+            "candidates": {
+                "1": 95,
+                "2": 103,
+                "3": 146,
+                "4": 242
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "第1選舉區",
+            "cunli": "忠治里第2選舉區",
+            "house_no": "2398",
+            "candidates": {
+                "1": 10,
+                "2": 198,
+                "3": 223,
+                "4": 39
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 635
+        },
+        {
+            "area": "第1選舉區",
+            "cunli": "烏來里",
+            "house_no": "2399",
+            "candidates": {
+                "1": 134,
+                "2": 119,
+                "3": 17,
+                "4": 97
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "第1選舉區",
+            "cunli": "烏來里",
+            "house_no": "2400",
+            "candidates": {
+                "1": 98,
+                "2": 92,
+                "3": 159,
+                "4": 88
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "第1選舉區",
+            "cunli": "孝義里第3選舉區",
+            "house_no": "2401",
+            "candidates": {
+                "1": 71,
+                "2": 72,
+                "3": 0,
+                "4": 5
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 226
+        },
+        {
+            "area": "第1選舉區",
+            "cunli": "信賢里第4選舉區",
+            "house_no": "2402",
+            "candidates": {
+                "1": 276,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 475
+        },
+        {
+            "area": "第1選舉區",
+            "cunli": "福山里",
+            "house_no": "2403",
+            "candidates": {
+                "1": 215,
+                "2": 252,
+                "3": 0,
+                "4": 0
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 595
+        }
+    ]
+}

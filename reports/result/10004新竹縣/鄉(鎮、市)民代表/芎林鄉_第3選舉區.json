@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭信康",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉自展",
+            "party": "無"
+        },
+        "3": {
+            "name": "林彭玉連",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "劉展源",
+            "party": "無"
+        },
+        "5": {
+            "name": "魏賢祥",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "黃政宏",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "劉名揚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "新鳳村",
+            "house_no": "380",
+            "candidates": {
+                "1": 75,
+                "2": 96,
+                "3": 296
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 746
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "新鳳村",
+            "house_no": "381",
+            "candidates": {
+                "1": 69,
+                "2": 150,
+                "3": 256
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "中坑村",
+            "house_no": "382",
+            "candidates": {
+                "1": 232,
+                "2": 97,
+                "3": 52
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 589
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "水坑村",
+            "house_no": "383",
+            "candidates": {
+                "1": 307,
+                "2": 112,
+                "3": 72
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 746
+        }
+    ]
+}

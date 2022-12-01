@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭忠和",
+            "party": "無"
+        },
+        "2": {
+            "name": "林居宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新港鄉",
+            "cunli": "古民村",
+            "house_no": "168",
+            "candidates": {
+                "1": 262,
+                "2": 202
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 640
+        },
+        {
+            "area": "新港鄉",
+            "cunli": "古民村",
+            "house_no": "169",
+            "candidates": {
+                "1": 261,
+                "2": 219
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 664
+        }
+    ]
+}

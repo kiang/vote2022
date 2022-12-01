@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃晟彰",
+            "party": "無"
+        },
+        "2": {
+            "name": "歐陽禾英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "樟新里",
+            "house_no": "1712",
+            "candidates": {
+                "1": 327,
+                "2": 418
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "文山區",
+            "cunli": "樟新里",
+            "house_no": "1713",
+            "candidates": {
+                "1": 252,
+                "2": 517
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "文山區",
+            "cunli": "樟新里",
+            "house_no": "1714",
+            "candidates": {
+                "1": 352,
+                "2": 358
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1065
+        },
+        {
+            "area": "文山區",
+            "cunli": "樟新里",
+            "house_no": "1715",
+            "candidates": {
+                "1": 330,
+                "2": 437
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1085
+        }
+    ]
+}

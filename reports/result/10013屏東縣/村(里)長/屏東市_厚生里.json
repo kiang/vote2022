@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許世在",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "厚生里",
+            "house_no": "75",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "屏東市",
+            "cunli": "厚生里",
+            "house_no": "76",
+            "candidates": {
+                "1": 756
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1549
+        }
+    ]
+}

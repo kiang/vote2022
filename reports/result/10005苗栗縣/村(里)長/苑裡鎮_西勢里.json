@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅美齡",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳政龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "西勢里",
+            "house_no": "197",
+            "candidates": {
+                "1": 324,
+                "2": 464
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "西勢里",
+            "house_no": "198",
+            "candidates": {
+                "1": 227,
+                "2": 322
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 807
+        }
+    ]
+}

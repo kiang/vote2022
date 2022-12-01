@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳耀墩",
+            "party": "無"
+        },
+        "2": {
+            "name": "張癸賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "麗水里",
+            "house_no": "281",
+            "candidates": {
+                "1": 601,
+                "2": 272
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "龍井區",
+            "cunli": "麗水里",
+            "house_no": "282",
+            "candidates": {
+                "1": 417,
+                "2": 179
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

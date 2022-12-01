@@ -1,0 +1,126 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王朝羣",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡東富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水林鄉",
+            "cunli": "蕃薯村",
+            "house_no": "268",
+            "candidates": {
+                "1": 26,
+                "2": 161,
+                "3": 40,
+                "4": 26,
+                "5": 314,
+                "6": 82
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "山腳村",
+            "house_no": "269",
+            "candidates": {
+                "1": 10,
+                "2": 196,
+                "3": 45,
+                "4": 39,
+                "5": 196,
+                "6": 18
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 741
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "松北村",
+            "house_no": "270",
+            "candidates": {
+                "1": 56,
+                "2": 94,
+                "3": 165,
+                "4": 241,
+                "5": 102,
+                "6": 2
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "松中村",
+            "house_no": "271",
+            "candidates": {
+                "1": 60,
+                "2": 69,
+                "3": 93,
+                "4": 94,
+                "5": 41,
+                "6": 1
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 471
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "松西村",
+            "house_no": "272",
+            "candidates": {
+                "1": 19,
+                "2": 81,
+                "3": 113,
+                "4": 114,
+                "5": 76,
+                "6": 0
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 603
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "瓊埔村",
+            "house_no": "273",
+            "candidates": {
+                "1": 17,
+                "2": 104,
+                "3": 78,
+                "4": 93,
+                "5": 91,
+                "6": 0
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 630
+        },
+        {
+            "area": "水林鄉",
+            "cunli": "塭底村",
+            "house_no": "274",
+            "candidates": {
+                "1": 23,
+                "2": 56,
+                "3": 63,
+                "4": 109,
+                "5": 119,
+                "6": 2
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 633
+        }
+    ]
+}

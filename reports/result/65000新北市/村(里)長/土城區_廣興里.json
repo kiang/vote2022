@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張淑玲",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "廣興里",
+            "house_no": "1991",
+            "candidates": {
+                "1": 704
+            },
+            "count_wrong": 122,
+            "count_unused": 0,
+            "count_total": 1546
+        },
+        {
+            "area": "土城區",
+            "cunli": "廣興里",
+            "house_no": "1992",
+            "candidates": {
+                "1": 646
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1345
+        }
+    ]
+}

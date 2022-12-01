@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "錢瑋",
+            "party": "無"
+        },
+        "2": {
+            "name": "馮瑞枝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "暖暖區",
+            "cunli": "碇祥里",
+            "house_no": "231",
+            "candidates": {
+                "1": 327,
+                "2": 300
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "碇祥里",
+            "house_no": "232",
+            "candidates": {
+                "1": 213,
+                "2": 333
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "碇祥里",
+            "house_no": "233",
+            "candidates": {
+                "1": 250,
+                "2": 257
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "碇祥里",
+            "house_no": "234",
+            "candidates": {
+                "1": 342,
+                "2": 385
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 1326
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "碇祥里",
+            "house_no": "235",
+            "candidates": {
+                "1": 228,
+                "2": 376
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

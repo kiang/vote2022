@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許添福",
+            "party": "無"
+        },
+        "2": {
+            "name": "諶仲泰",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭鴻基",
+            "party": "無"
+        },
+        "4": {
+            "name": "盧榮泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "壽豐村",
+            "house_no": "212",
+            "candidates": {
+                "1": 80,
+                "2": 112,
+                "3": 139,
+                "4": 122
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "壽豐村",
+            "house_no": "213",
+            "candidates": {
+                "1": 88,
+                "2": 195,
+                "3": 92,
+                "4": 161
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 855
+        }
+    ]
+}

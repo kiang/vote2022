@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張世源",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓學火",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "245",
+            "candidates": {
+                "1": 223,
+                "2": 416
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "246",
+            "candidates": {
+                "1": 221,
+                "2": 309
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 923
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "247",
+            "candidates": {
+                "1": 258,
+                "2": 326
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "248",
+            "candidates": {
+                "1": 179,
+                "2": 310
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 973
+        }
+    ]
+}

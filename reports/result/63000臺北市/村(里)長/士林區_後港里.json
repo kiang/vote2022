@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀建漢",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳建翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "後港里",
+            "house_no": "196",
+            "candidates": {
+                "1": 504,
+                "2": 351
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "士林區",
+            "cunli": "後港里",
+            "house_no": "197",
+            "candidates": {
+                "1": 466,
+                "2": 345
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "士林區",
+            "cunli": "後港里",
+            "house_no": "198",
+            "candidates": {
+                "1": 559,
+                "2": 270
+            },
+            "count_wrong": 24,
+            "count_unused": 3,
+            "count_total": 1314
+        },
+        {
+            "area": "士林區",
+            "cunli": "後港里",
+            "house_no": "199",
+            "candidates": {
+                "1": 601,
+                "2": 191
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "士林區",
+            "cunli": "後港里",
+            "house_no": "200",
+            "candidates": {
+                "1": 649,
+                "2": 219
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1313
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳永昌",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "永吉里",
+            "house_no": "780",
+            "candidates": {
+                "1": 529
+            },
+            "count_wrong": 98,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "信義區",
+            "cunli": "永吉里",
+            "house_no": "781",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "信義區",
+            "cunli": "永吉里",
+            "house_no": "782",
+            "candidates": {
+                "1": 669
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1170
+        }
+    ]
+}

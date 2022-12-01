@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴明進",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "許秀鳳",
+            "party": "無"
+        },
+        "3": {
+            "name": "林耀盛",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "廖文鵬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "98",
+            "candidates": {
+                "1": 238,
+                "2": 38,
+                "3": 86,
+                "4": 105
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "99",
+            "candidates": {
+                "1": 274,
+                "2": 55,
+                "3": 85,
+                "4": 67
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "100",
+            "candidates": {
+                "1": 203,
+                "2": 41,
+                "3": 100,
+                "4": 67
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 730
+        }
+    ]
+}

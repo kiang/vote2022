@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐劉惠蘇",
+            "party": "無"
+        },
+        "2": {
+            "name": "凃明仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "張恩仁",
+            "party": "無"
+        },
+        "4": {
+            "name": "張宏榮",
+            "party": "無"
+        },
+        "5": {
+            "name": "徐英綸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "義民村",
+            "house_no": "743",
+            "candidates": {
+                "1": 286,
+                "2": 15,
+                "3": 14,
+                "4": 47,
+                "5": 199
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "義民村",
+            "house_no": "744",
+            "candidates": {
+                "1": 200,
+                "2": 21,
+                "3": 50,
+                "4": 32,
+                "5": 164
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 685
+        }
+    ]
+}

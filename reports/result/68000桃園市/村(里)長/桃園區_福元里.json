@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊瑞麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "福元里",
+            "house_no": "247",
+            "candidates": {
+                "1": 611
+            },
+            "count_wrong": 169,
+            "count_unused": 0,
+            "count_total": 1286
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福元里",
+            "house_no": "248",
+            "candidates": {
+                "1": 661
+            },
+            "count_wrong": 159,
+            "count_unused": 0,
+            "count_total": 1459
+        },
+        {
+            "area": "桃園區",
+            "cunli": "福元里",
+            "house_no": "249",
+            "candidates": {
+                "1": 738
+            },
+            "count_wrong": 173,
+            "count_unused": 0,
+            "count_total": 1622
+        }
+    ]
+}

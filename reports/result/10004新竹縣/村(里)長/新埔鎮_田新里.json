@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭俊彬",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉興堃",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡瑞慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新埔鎮",
+            "cunli": "田新里",
+            "house_no": "217",
+            "candidates": {
+                "1": 73,
+                "2": 246,
+                "3": 279
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "田新里",
+            "house_no": "218",
+            "candidates": {
+                "1": 72,
+                "2": 189,
+                "3": 185
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 675
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "田新里",
+            "house_no": "219",
+            "candidates": {
+                "1": 99,
+                "2": 121,
+                "3": 271
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "新埔鎮",
+            "cunli": "田新里",
+            "house_no": "220",
+            "candidates": {
+                "1": 114,
+                "2": 167,
+                "3": 259
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 834
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "龔榮源",
+            "party": "無"
+        },
+        "2": {
+            "name": "高慈剛",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "燕巢區",
+            "cunli": "南燕里",
+            "house_no": "370",
+            "candidates": {
+                "1": 308,
+                "2": 362
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "南燕里",
+            "house_no": "371",
+            "candidates": {
+                "1": 343,
+                "2": 347
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1328
+        },
+        {
+            "area": "燕巢區",
+            "cunli": "南燕里",
+            "house_no": "372",
+            "candidates": {
+                "1": 462,
+                "2": 334
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1315
+        }
+    ]
+}

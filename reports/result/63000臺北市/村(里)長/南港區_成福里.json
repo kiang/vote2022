@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李宜柏",
+            "party": "無"
+        },
+        "2": {
+            "name": "卜學明",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "林宥彤",
+            "party": "無"
+        },
+        "4": {
+            "name": "方秋香",
+            "party": "無"
+        },
+        "5": {
+            "name": "王秋娥",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "成福里",
+            "house_no": "587",
+            "candidates": {
+                "1": 63,
+                "2": 198,
+                "3": 49,
+                "4": 241,
+                "5": 312
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "南港區",
+            "cunli": "成福里",
+            "house_no": "588",
+            "candidates": {
+                "1": 68,
+                "2": 279,
+                "3": 33,
+                "4": 198,
+                "5": 322
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "南港區",
+            "cunli": "成福里",
+            "house_no": "589",
+            "candidates": {
+                "1": 45,
+                "2": 189,
+                "3": 64,
+                "4": 202,
+                "5": 240
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "南港區",
+            "cunli": "成福里",
+            "house_no": "590",
+            "candidates": {
+                "1": 46,
+                "2": 190,
+                "3": 56,
+                "4": 202,
+                "5": 379
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "南港區",
+            "cunli": "成福里",
+            "house_no": "591",
+            "candidates": {
+                "1": 49,
+                "2": 177,
+                "3": 52,
+                "4": 197,
+                "5": 323
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1165
+        }
+    ]
+}

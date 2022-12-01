@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慶發",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳若昕",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃秀麗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "大埔里",
+            "house_no": "5",
+            "candidates": {
+                "1": 213,
+                "2": 174,
+                "3": 173
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大埔里",
+            "house_no": "6",
+            "candidates": {
+                "1": 192,
+                "2": 202,
+                "3": 55
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 683
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "華國雄",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "新東里",
+            "house_no": "617",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "松山區",
+            "cunli": "新東里",
+            "house_no": "618",
+            "candidates": {
+                "1": 589
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "松山區",
+            "cunli": "新東里",
+            "house_no": "619",
+            "candidates": {
+                "1": 562
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "松山區",
+            "cunli": "新東里",
+            "house_no": "620",
+            "candidates": {
+                "1": 553
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

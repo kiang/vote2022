@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何禮飛",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張明賢",
+            "party": "無"
+        },
+        "3": {
+            "name": "游象蓁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "佳林村",
+            "house_no": "109",
+            "candidates": {
+                "1": 233,
+                "2": 181,
+                "3": 134
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 927
+        }
+    ]
+}

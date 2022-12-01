@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭錦明",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳錫庸",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳登葟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "清水村",
+            "house_no": "832",
+            "candidates": {
+                "1": 196,
+                "2": 263,
+                "3": 113,
+                "4": 311
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1212
+        }
+    ]
+}

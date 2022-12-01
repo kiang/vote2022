@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李孟都",
+            "party": "無"
+        },
+        "2": {
+            "name": "林煌陸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彌陀區",
+            "cunli": "彌陀里",
+            "house_no": "385",
+            "candidates": {
+                "1": 260,
+                "2": 309
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "彌陀區",
+            "cunli": "彌陀里",
+            "house_no": "386",
+            "candidates": {
+                "1": 285,
+                "2": 334
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 861
+        }
+    ]
+}

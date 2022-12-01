@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張奕喬",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾孟儒",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳明煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "文化里",
+            "house_no": "383",
+            "candidates": {
+                "1": 135,
+                "2": 312,
+                "3": 194
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "頭份市",
+            "cunli": "文化里",
+            "house_no": "384",
+            "candidates": {
+                "1": 142,
+                "2": 311,
+                "3": 232
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "頭份市",
+            "cunli": "文化里",
+            "house_no": "385",
+            "candidates": {
+                "1": 150,
+                "2": 264,
+                "3": 337
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1232
+        }
+    ]
+}

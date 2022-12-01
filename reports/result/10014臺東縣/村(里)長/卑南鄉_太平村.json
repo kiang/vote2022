@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈姿伶",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳志銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "太平村",
+            "house_no": "129",
+            "candidates": {
+                "1": 380,
+                "2": 440
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "太平村",
+            "house_no": "130",
+            "candidates": {
+                "1": 216,
+                "2": 253
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "太平村",
+            "house_no": "131",
+            "candidates": {
+                "1": 235,
+                "2": 385
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

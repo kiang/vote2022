@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李滄洲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秀雪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "集集鎮",
+            "cunli": "田寮里",
+            "house_no": "287",
+            "candidates": {
+                "1": 119,
+                "2": 291
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 583
+        },
+        {
+            "area": "集集鎮",
+            "cunli": "田寮里",
+            "house_no": "288",
+            "candidates": {
+                "1": 110,
+                "2": 246
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 491
+        }
+    ]
+}

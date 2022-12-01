@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康玉榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳志煉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "國泰里",
+            "house_no": "1240",
+            "candidates": {
+                "1": 309,
+                "2": 533
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1416
+        },
+        {
+            "area": "板橋區",
+            "cunli": "國泰里",
+            "house_no": "1241",
+            "candidates": {
+                "1": 389,
+                "2": 609
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 1536
+        }
+    ]
+}

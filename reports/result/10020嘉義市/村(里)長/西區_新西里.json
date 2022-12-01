@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊文玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "新西里",
+            "house_no": "114",
+            "candidates": {
+                "1": 483
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "西區",
+            "cunli": "新西里",
+            "house_no": "115",
+            "candidates": {
+                "1": 508
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1004
+        }
+    ]
+}

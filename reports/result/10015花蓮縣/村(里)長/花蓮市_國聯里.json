@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊春來",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林靜芬",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃啟文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國聯里",
+            "house_no": "69",
+            "candidates": {
+                "1": 79,
+                "2": 220,
+                "3": 87
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 744
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國聯里",
+            "house_no": "70",
+            "candidates": {
+                "1": 107,
+                "2": 267,
+                "3": 140
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國聯里",
+            "house_no": "71",
+            "candidates": {
+                "1": 95,
+                "2": 246,
+                "3": 138
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 949
+        }
+    ]
+}

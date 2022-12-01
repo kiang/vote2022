@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳俊清",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏永吉",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "楊松柏",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "劉瑋榕",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳三存",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳淑君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "和豊村",
+            "house_no": "916",
+            "candidates": {
+                "1": 167,
+                "2": 167,
+                "3": 113,
+                "4": 203
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "和豊村",
+            "house_no": "917",
+            "candidates": {
+                "1": 195,
+                "2": 202,
+                "3": 68,
+                "4": 219
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "興農村",
+            "house_no": "918",
+            "candidates": {
+                "1": 120,
+                "2": 197,
+                "3": 188,
+                "4": 121
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "興農村",
+            "house_no": "919",
+            "candidates": {
+                "1": 84,
+                "2": 69,
+                "3": 241,
+                "4": 70
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 757
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "埤頭村",
+            "house_no": "920",
+            "candidates": {
+                "1": 81,
+                "2": 156,
+                "3": 82,
+                "4": 66
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 681
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "埤頭村",
+            "house_no": "921",
+            "candidates": {
+                "1": 93,
+                "2": 232,
+                "3": 77,
+                "4": 85
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 828
+        }
+    ]
+}

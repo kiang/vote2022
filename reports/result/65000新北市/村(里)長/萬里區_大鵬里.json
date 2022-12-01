@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李建才",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬里區",
+            "cunli": "大鵬里",
+            "house_no": "2530",
+            "candidates": {
+                "1": 315
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "萬里區",
+            "cunli": "大鵬里",
+            "house_no": "2531",
+            "candidates": {
+                "1": 356
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "萬里區",
+            "cunli": "大鵬里",
+            "house_no": "2532",
+            "candidates": {
+                "1": 303
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 807
+        }
+    ]
+}

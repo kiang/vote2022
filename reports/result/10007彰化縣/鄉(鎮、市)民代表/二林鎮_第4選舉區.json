@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳元清",
+            "party": "無"
+        },
+        "2": {
+            "name": "傅子瑋",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾安允",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "東勢里",
+            "house_no": "1008",
+            "candidates": {
+                "1": 127,
+                "2": 482,
+                "3": 57
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "大永里",
+            "house_no": "1009",
+            "candidates": {
+                "1": 285,
+                "2": 166,
+                "3": 60
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 829
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "原斗里",
+            "house_no": "1010",
+            "candidates": {
+                "1": 238,
+                "2": 302,
+                "3": 213
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "西斗里",
+            "house_no": "1011",
+            "candidates": {
+                "1": 215,
+                "2": 300,
+                "3": 171
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "東華里",
+            "house_no": "1012",
+            "candidates": {
+                "1": 154,
+                "2": 203,
+                "3": 259
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "復豐里",
+            "house_no": "1013",
+            "candidates": {
+                "1": 65,
+                "2": 94,
+                "3": 264
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 667
+        }
+    ]
+}

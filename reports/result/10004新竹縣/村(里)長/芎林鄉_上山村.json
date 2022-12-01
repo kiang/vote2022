@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林祺堯",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭達棟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "388",
+            "candidates": {
+                "1": 283,
+                "2": 447
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "389",
+            "candidates": {
+                "1": 365,
+                "2": 480
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1491
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "390",
+            "candidates": {
+                "1": 300,
+                "2": 239
+            },
+            "count_wrong": 59,
+            "count_unused": 1,
+            "count_total": 1006
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "上山村",
+            "house_no": "391",
+            "candidates": {
+                "1": 317,
+                "2": 263
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

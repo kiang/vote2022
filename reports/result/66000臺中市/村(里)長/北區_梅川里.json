@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴家增",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "梅川里",
+            "house_no": "1242",
+            "candidates": {
+                "1": 693
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 1563
+        },
+        {
+            "area": "北區",
+            "cunli": "梅川里",
+            "house_no": "1243",
+            "candidates": {
+                "1": 715
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 1509
+        }
+    ]
+}

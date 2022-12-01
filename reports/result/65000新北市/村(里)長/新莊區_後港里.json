@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李沛",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱冠豪",
+            "party": "無"
+        },
+        "3": {
+            "name": "林大木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "後港里",
+            "house_no": "582",
+            "candidates": {
+                "1": 79,
+                "2": 259,
+                "3": 248
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1107
+        },
+        {
+            "area": "新莊區",
+            "cunli": "後港里",
+            "house_no": "583",
+            "candidates": {
+                "1": 182,
+                "2": 303,
+                "3": 219
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "新莊區",
+            "cunli": "後港里",
+            "house_no": "584",
+            "candidates": {
+                "1": 245,
+                "2": 191,
+                "3": 259
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "新莊區",
+            "cunli": "後港里",
+            "house_no": "585",
+            "candidates": {
+                "1": 158,
+                "2": 256,
+                "3": 303
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "新莊區",
+            "cunli": "後港里",
+            "house_no": "586",
+            "candidates": {
+                "1": 139,
+                "2": 316,
+                "3": 267
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 1300
+        }
+    ]
+}

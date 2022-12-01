@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王濃峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "張興順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "自強里",
+            "house_no": "1530",
+            "candidates": {
+                "1": 415,
+                "2": 417
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1451
+        },
+        {
+            "area": "中和區",
+            "cunli": "自強里",
+            "house_no": "1531",
+            "candidates": {
+                "1": 386,
+                "2": 440
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1462
+        },
+        {
+            "area": "中和區",
+            "cunli": "自強里",
+            "house_no": "1532",
+            "candidates": {
+                "1": 328,
+                "2": 407
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1293
+        }
+    ]
+}

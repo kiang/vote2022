@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施柏男",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃豐村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "南興里",
+            "house_no": "734",
+            "candidates": {
+                "1": 364,
+                "2": 285
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "安南區",
+            "cunli": "南興里",
+            "house_no": "735",
+            "candidates": {
+                "1": 311,
+                "2": 272
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 928
+        }
+    ]
+}

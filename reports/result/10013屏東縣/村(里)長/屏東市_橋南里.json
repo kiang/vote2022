@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方明上",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳富美",
+            "party": "無"
+        },
+        "3": {
+            "name": "王亭懿",
+            "party": "無"
+        },
+        "4": {
+            "name": "王桂英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "橋南里",
+            "house_no": "12",
+            "candidates": {
+                "1": 128,
+                "2": 293,
+                "3": 264,
+                "4": 160
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1443
+        }
+    ]
+}

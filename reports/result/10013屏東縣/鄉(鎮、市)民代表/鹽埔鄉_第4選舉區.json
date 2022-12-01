@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李錫忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳冬桂",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘慶記",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾順龍",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳俊宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "彭厝村",
+            "house_no": "385",
+            "candidates": {
+                "1": 130,
+                "2": 337,
+                "3": 107,
+                "4": 82,
+                "5": 34
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "洛陽村",
+            "house_no": "386",
+            "candidates": {
+                "1": 146,
+                "2": 65,
+                "3": 37,
+                "4": 86,
+                "5": 174
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "洛陽村",
+            "house_no": "387",
+            "candidates": {
+                "1": 152,
+                "2": 60,
+                "3": 21,
+                "4": 251,
+                "5": 116
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 843
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "永隆村",
+            "house_no": "388",
+            "candidates": {
+                "1": 107,
+                "2": 64,
+                "3": 218,
+                "4": 19,
+                "5": 19
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 539
+        }
+    ]
+}

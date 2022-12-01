@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王育柔",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉秋冬",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭黃君誠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "溪洲村",
+            "house_no": "410",
+            "candidates": {
+                "1": 150,
+                "2": 11,
+                "3": 217
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 490
+        },
+        {
+            "area": "義竹鄉",
+            "cunli": "溪洲村",
+            "house_no": "411",
+            "candidates": {
+                "1": 21,
+                "2": 2,
+                "3": 66
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 116
+        }
+    ]
+}

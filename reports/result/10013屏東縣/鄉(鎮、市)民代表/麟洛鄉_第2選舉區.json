@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱春櫻",
+            "party": "無"
+        },
+        "2": {
+            "name": "林信雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭吉男",
+            "party": "無"
+        },
+        "4": {
+            "name": "徐淑亮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麟洛鄉",
+            "cunli": "麟頂村",
+            "house_no": "322",
+            "candidates": {
+                "1": 188,
+                "2": 58,
+                "3": 98,
+                "4": 293
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 895
+        },
+        {
+            "area": "麟洛鄉",
+            "cunli": "麟蹄村",
+            "house_no": "323",
+            "candidates": {
+                "1": 119,
+                "2": 43,
+                "3": 95,
+                "4": 181
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "麟洛鄉",
+            "cunli": "麟蹄村",
+            "house_no": "324",
+            "candidates": {
+                "1": 119,
+                "2": 66,
+                "3": 145,
+                "4": 191
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 754
+        }
+    ]
+}

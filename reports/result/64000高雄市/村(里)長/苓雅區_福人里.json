@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳學偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾黃金華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "福人里",
+            "house_no": "1379",
+            "candidates": {
+                "1": 347,
+                "2": 300
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "福人里",
+            "house_no": "1380",
+            "candidates": {
+                "1": 233,
+                "2": 244
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 857
+        }
+    ]
+}

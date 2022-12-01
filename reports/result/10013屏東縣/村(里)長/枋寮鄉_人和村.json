@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳燦森",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳惠珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "人和村",
+            "house_no": "516",
+            "candidates": {
+                "1": 140,
+                "2": 446
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 953
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "人和村",
+            "house_no": "517",
+            "candidates": {
+                "1": 154,
+                "2": 501
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 993
+        }
+    ]
+}

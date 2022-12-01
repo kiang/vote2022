@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "左麗芳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "涂士翔",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "林紹剛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "開明里",
+            "house_no": "123",
+            "candidates": {
+                "1": 356,
+                "2": 101,
+                "3": 403
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1297
+        },
+        {
+            "area": "北投區",
+            "cunli": "開明里",
+            "house_no": "124",
+            "candidates": {
+                "1": 514,
+                "2": 135,
+                "3": 208
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1326
+        },
+        {
+            "area": "北投區",
+            "cunli": "開明里",
+            "house_no": "125",
+            "candidates": {
+                "1": 575,
+                "2": 122,
+                "3": 211
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1440
+        },
+        {
+            "area": "北投區",
+            "cunli": "開明里",
+            "house_no": "126",
+            "candidates": {
+                "1": 441,
+                "2": 122,
+                "3": 348
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1386
+        }
+    ]
+}

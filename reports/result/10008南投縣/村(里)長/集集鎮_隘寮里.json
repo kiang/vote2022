@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳政義",
+            "party": "無"
+        },
+        "2": {
+            "name": "游世文",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊正郎",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴炎川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "集集鎮",
+            "cunli": "隘寮里",
+            "house_no": "289",
+            "candidates": {
+                "1": 68,
+                "2": 117,
+                "3": 116,
+                "4": 38
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 450
+        }
+    ]
+}

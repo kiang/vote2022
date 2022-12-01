@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱尾玟",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "范文輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "錦昌里",
+            "house_no": "1496",
+            "candidates": {
+                "1": 428,
+                "2": 139
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "中和區",
+            "cunli": "錦昌里",
+            "house_no": "1497",
+            "candidates": {
+                "1": 401,
+                "2": 207
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 961
+        }
+    ]
+}

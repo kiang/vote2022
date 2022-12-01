@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳千惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉竹英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "景行里",
+            "house_no": "1581",
+            "candidates": {
+                "1": 385,
+                "2": 377
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "文山區",
+            "cunli": "景行里",
+            "house_no": "1582",
+            "candidates": {
+                "1": 412,
+                "2": 345
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "文山區",
+            "cunli": "景行里",
+            "house_no": "1583",
+            "candidates": {
+                "1": 455,
+                "2": 322
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1167
+        },
+        {
+            "area": "文山區",
+            "cunli": "景行里",
+            "house_no": "1584",
+            "candidates": {
+                "1": 416,
+                "2": 325
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1200
+        },
+        {
+            "area": "文山區",
+            "cunli": "景行里",
+            "house_no": "1585",
+            "candidates": {
+                "1": 375,
+                "2": 446
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1185
+        }
+    ]
+}

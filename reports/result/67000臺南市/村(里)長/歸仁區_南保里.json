@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳忠育",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹凱元",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃良生",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉源祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "南保里",
+            "house_no": "1443",
+            "candidates": {
+                "1": 147,
+                "2": 166,
+                "3": 230,
+                "4": 142
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "南保里",
+            "house_no": "1444",
+            "candidates": {
+                "1": 117,
+                "2": 219,
+                "3": 255,
+                "4": 119
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "南保里",
+            "house_no": "1445",
+            "candidates": {
+                "1": 99,
+                "2": 141,
+                "3": 240,
+                "4": 136
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "南保里",
+            "house_no": "1446",
+            "candidates": {
+                "1": 164,
+                "2": 172,
+                "3": 217,
+                "4": 139
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "南保里",
+            "house_no": "1447",
+            "candidates": {
+                "1": 121,
+                "2": 170,
+                "3": 198,
+                "4": 221
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1262
+        }
+    ]
+}

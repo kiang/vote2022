@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范姜財",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃承澤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "三民里",
+            "house_no": "22",
+            "candidates": {
+                "1": 345,
+                "2": 215
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "東區",
+            "cunli": "三民里",
+            "house_no": "23",
+            "candidates": {
+                "1": 411,
+                "2": 274
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "東區",
+            "cunli": "三民里",
+            "house_no": "24",
+            "candidates": {
+                "1": 347,
+                "2": 310
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1029
+        },
+        {
+            "area": "東區",
+            "cunli": "三民里",
+            "house_no": "25",
+            "candidates": {
+                "1": 424,
+                "2": 317
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1197
+        }
+    ]
+}

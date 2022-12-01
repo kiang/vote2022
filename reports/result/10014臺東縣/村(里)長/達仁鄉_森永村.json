@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡元豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "林正義",
+            "party": "無"
+        },
+        "3": {
+            "name": "葛長榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "達仁鄉",
+            "cunli": "森永村",
+            "house_no": "229",
+            "candidates": {
+                "1": 76,
+                "2": 106,
+                "3": 113
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 365
+        }
+    ]
+}

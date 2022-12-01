@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡淑惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃碧瑜",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳振峰",
+            "party": "無"
+        },
+        "4": {
+            "name": "徐明勲",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東石鄉",
+            "cunli": "東石村",
+            "house_no": "328",
+            "candidates": {
+                "1": 224,
+                "2": 411,
+                "3": 631
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1857
+        },
+        {
+            "area": "東石鄉",
+            "cunli": "猿樹村",
+            "house_no": "329",
+            "candidates": {
+                "1": 194,
+                "2": 157,
+                "3": 183
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "東石鄉",
+            "cunli": "型厝村",
+            "house_no": "330",
+            "candidates": {
+                "1": 347,
+                "2": 110,
+                "3": 289
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1289
+        },
+        {
+            "area": "東石鄉",
+            "cunli": "塭港村",
+            "house_no": "331",
+            "candidates": {
+                "1": 632,
+                "2": 144,
+                "3": 233
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1568
+        }
+    ]
+}

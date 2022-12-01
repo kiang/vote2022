@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃信義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "陽明里",
+            "house_no": "17",
+            "candidates": {
+                "1": 519
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "馬公市",
+            "cunli": "陽明里",
+            "house_no": "18",
+            "candidates": {
+                "1": 547
+            },
+            "count_wrong": 152,
+            "count_unused": 0,
+            "count_total": 1233
+        }
+    ]
+}

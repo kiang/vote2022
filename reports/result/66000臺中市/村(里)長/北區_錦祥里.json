@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇彩",
+            "party": "無"
+        },
+        "2": {
+            "name": "林鴻明",
+            "party": "無"
+        },
+        "3": {
+            "name": "林美玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "錦祥里",
+            "house_no": "1206",
+            "candidates": {
+                "1": 266,
+                "2": 36,
+                "3": 572
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "北區",
+            "cunli": "錦祥里",
+            "house_no": "1207",
+            "candidates": {
+                "1": 307,
+                "2": 75,
+                "3": 562
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1740
+        },
+        {
+            "area": "北區",
+            "cunli": "錦祥里",
+            "house_no": "1208",
+            "candidates": {
+                "1": 153,
+                "2": 106,
+                "3": 502
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1298
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳雅莉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳守欽",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳勝利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔鹽鄉",
+            "cunli": "埔南村",
+            "house_no": "710",
+            "candidates": {
+                "1": 221,
+                "2": 86,
+                "3": 183
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "埔鹽鄉",
+            "cunli": "埔南村",
+            "house_no": "711",
+            "candidates": {
+                "1": 193,
+                "2": 105,
+                "3": 239
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 768
+        }
+    ]
+}

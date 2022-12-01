@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪明輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "高秀珍",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "李金榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "水源村",
+            "house_no": "129",
+            "candidates": {
+                "1": 546,
+                "2": 235,
+                "3": 123
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1204
+        }
+    ]
+}

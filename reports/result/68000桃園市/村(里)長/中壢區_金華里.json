@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林慶昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝岩介",
+            "party": "無"
+        },
+        "3": {
+            "name": "奚潔珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "金華里",
+            "house_no": "882",
+            "candidates": {
+                "1": 26,
+                "2": 481,
+                "3": 361
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "中壢區",
+            "cunli": "金華里",
+            "house_no": "883",
+            "candidates": {
+                "1": 41,
+                "2": 369,
+                "3": 428
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1269
+        },
+        {
+            "area": "中壢區",
+            "cunli": "金華里",
+            "house_no": "884",
+            "candidates": {
+                "1": 40,
+                "2": 461,
+                "3": 266
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1201
+        }
+    ]
+}

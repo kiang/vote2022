@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳得福",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "佳和里",
+            "house_no": "1397",
+            "candidates": {
+                "1": 794
+            },
+            "count_wrong": 155,
+            "count_unused": 0,
+            "count_total": 1694
+        },
+        {
+            "area": "中和區",
+            "cunli": "佳和里",
+            "house_no": "1398",
+            "candidates": {
+                "1": 726
+            },
+            "count_wrong": 189,
+            "count_unused": 0,
+            "count_total": 1498
+        },
+        {
+            "area": "中和區",
+            "cunli": "佳和里",
+            "house_no": "1399",
+            "candidates": {
+                "1": 446
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1021
+        }
+    ]
+}

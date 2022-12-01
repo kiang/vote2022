@@ -1,0 +1,138 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳鏗芳",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳慧珠",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "蔡東海",
+            "party": "無"
+        },
+        "4": {
+            "name": "游浩詮",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "江松茂",
+            "party": "無"
+        },
+        "6": {
+            "name": "游宜恆",
+            "party": "民主進步黨"
+        },
+        "7": {
+            "name": "陳麗娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "冬山鄉",
+            "cunli": "武淵村",
+            "house_no": "330",
+            "candidates": {
+                "1": 283,
+                "2": 228,
+                "3": 296
+            },
+            "count_wrong": 63,
+            "count_unused": 1,
+            "count_total": 1276
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "331",
+            "candidates": {
+                "1": 331,
+                "2": 188,
+                "3": 236
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1445
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "332",
+            "candidates": {
+                "1": 232,
+                "2": 146,
+                "3": 154
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "333",
+            "candidates": {
+                "1": 251,
+                "2": 147,
+                "3": 166
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "群英村",
+            "house_no": "334",
+            "candidates": {
+                "1": 241,
+                "2": 153,
+                "3": 155
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "335",
+            "candidates": {
+                "1": 288,
+                "2": 140,
+                "3": 309
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1298
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "336",
+            "candidates": {
+                "1": 351,
+                "2": 149,
+                "3": 253
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "冬山鄉",
+            "cunli": "清溝村",
+            "house_no": "337",
+            "candidates": {
+                "1": 311,
+                "2": 138,
+                "3": 238
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1169
+        }
+    ]
+}

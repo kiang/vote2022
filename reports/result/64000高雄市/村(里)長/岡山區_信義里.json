@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "汪拓谷",
+            "party": "無"
+        },
+        "2": {
+            "name": "石秀霞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "信義里",
+            "house_no": "352",
+            "candidates": {
+                "1": 234,
+                "2": 289
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "岡山區",
+            "cunli": "信義里",
+            "house_no": "353",
+            "candidates": {
+                "1": 203,
+                "2": 237
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 692
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳南海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "北峰里",
+            "house_no": "2607",
+            "candidates": {
+                "1": 685
+            },
+            "count_wrong": 176,
+            "count_unused": 0,
+            "count_total": 1709
+        },
+        {
+            "area": "汐止區",
+            "cunli": "北峰里",
+            "house_no": "2608",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 115,
+            "count_unused": 1,
+            "count_total": 1394
+        },
+        {
+            "area": "汐止區",
+            "cunli": "北峰里",
+            "house_no": "2609",
+            "candidates": {
+                "1": 508
+            },
+            "count_wrong": 122,
+            "count_unused": 9,
+            "count_total": 1333
+        }
+    ]
+}

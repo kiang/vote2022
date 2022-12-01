@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃德勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃松河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "竹林里",
+            "house_no": "127",
+            "candidates": {
+                "1": 228,
+                "2": 299
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "竹林里",
+            "house_no": "128",
+            "candidates": {
+                "1": 216,
+                "2": 326
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 918
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "竹林里",
+            "house_no": "129",
+            "candidates": {
+                "1": 271,
+                "2": 244
+            },
+            "count_wrong": 24,
+            "count_unused": 2,
+            "count_total": 884
+        }
+    ]
+}

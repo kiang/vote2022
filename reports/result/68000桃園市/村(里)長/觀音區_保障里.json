@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡春梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "李秀玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "保障里",
+            "house_no": "1349",
+            "candidates": {
+                "1": 447,
+                "2": 285
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "觀音區",
+            "cunli": "保障里",
+            "house_no": "1350",
+            "candidates": {
+                "1": 447,
+                "2": 223
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 942
+        }
+    ]
+}

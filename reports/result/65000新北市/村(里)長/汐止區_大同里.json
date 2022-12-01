@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃翠華",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉金英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "大同里",
+            "house_no": "2544",
+            "candidates": {
+                "1": 469,
+                "2": 227
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "汐止區",
+            "cunli": "大同里",
+            "house_no": "2545",
+            "candidates": {
+                "1": 535,
+                "2": 103
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1235
+        }
+    ]
+}

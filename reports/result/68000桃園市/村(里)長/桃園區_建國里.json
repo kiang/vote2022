@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭秋城",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐揚帆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "建國里",
+            "house_no": "12",
+            "candidates": {
+                "1": 403,
+                "2": 365
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "桃園區",
+            "cunli": "建國里",
+            "house_no": "13",
+            "candidates": {
+                "1": 399,
+                "2": 419
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "桃園區",
+            "cunli": "建國里",
+            "house_no": "14",
+            "candidates": {
+                "1": 299,
+                "2": 369
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "桃園區",
+            "cunli": "建國里",
+            "house_no": "15",
+            "candidates": {
+                "1": 276,
+                "2": 389
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

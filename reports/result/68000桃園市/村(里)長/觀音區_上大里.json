@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏秀有",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋士林",
+            "party": "無"
+        },
+        "3": {
+            "name": "卓聖禪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "上大里",
+            "house_no": "1342",
+            "candidates": {
+                "1": 33,
+                "2": 314,
+                "3": 353
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1049
+        },
+        {
+            "area": "觀音區",
+            "cunli": "上大里",
+            "house_no": "1343",
+            "candidates": {
+                "1": 182,
+                "2": 302,
+                "3": 301
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1344
+        }
+    ]
+}

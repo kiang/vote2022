@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林明雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "中東里",
+            "house_no": "1263",
+            "candidates": {
+                "1": 436
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "新興區",
+            "cunli": "中東里",
+            "house_no": "1264",
+            "candidates": {
+                "1": 588
+            },
+            "count_wrong": 128,
+            "count_unused": 0,
+            "count_total": 1294
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪沛緹",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "何素蓮",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳瑞基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "安泰里",
+            "house_no": "488",
+            "candidates": {
+                "1": 187,
+                "2": 560,
+                "3": 287
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1581
+        },
+        {
+            "area": "內湖區",
+            "cunli": "安泰里",
+            "house_no": "489",
+            "candidates": {
+                "1": 180,
+                "2": 482,
+                "3": 311
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1479
+        },
+        {
+            "area": "內湖區",
+            "cunli": "安泰里",
+            "house_no": "490",
+            "candidates": {
+                "1": 187,
+                "2": 482,
+                "3": 158
+            },
+            "count_wrong": 22,
+            "count_unused": 2,
+            "count_total": 1235
+        }
+    ]
+}

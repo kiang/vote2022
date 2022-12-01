@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝宏達",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉銀昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "勝利里",
+            "house_no": "24",
+            "candidates": {
+                "1": 255,
+                "2": 452
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "勝利里",
+            "house_no": "25",
+            "candidates": {
+                "1": 227,
+                "2": 447
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "勝利里",
+            "house_no": "26",
+            "candidates": {
+                "1": 155,
+                "2": 299
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 709
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "勝利里",
+            "house_no": "27",
+            "candidates": {
+                "1": 152,
+                "2": 259
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 717
+        }
+    ]
+}

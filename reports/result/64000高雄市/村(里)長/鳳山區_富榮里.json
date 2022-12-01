@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝綉",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭登臨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "富榮里",
+            "house_no": "1624",
+            "candidates": {
+                "1": 322,
+                "2": 333
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1020
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "富榮里",
+            "house_no": "1625",
+            "candidates": {
+                "1": 339,
+                "2": 409
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1246
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧惠琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳俊雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "董賢明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑪家鄉",
+            "cunli": "三和村",
+            "house_no": "667",
+            "candidates": {
+                "1": 105,
+                "2": 27,
+                "3": 406
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 668
+        },
+        {
+            "area": "瑪家鄉",
+            "cunli": "三和村",
+            "house_no": "668",
+            "candidates": {
+                "1": 315,
+                "2": 98,
+                "3": 176
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "瑪家鄉",
+            "cunli": "三和村",
+            "house_no": "669",
+            "candidates": {
+                "1": 53,
+                "2": 418,
+                "3": 49
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 645
+        }
+    ]
+}

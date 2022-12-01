@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉樹生",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾兆良",
+            "party": "無"
+        },
+        "3": {
+            "name": "張維翰",
+            "party": "無"
+        },
+        "4": {
+            "name": "李棋明",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳日盛",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "朱啓棠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "樟樹村",
+            "house_no": "118",
+            "candidates": {
+                "1": 246,
+                "2": 206,
+                "3": 480
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "九湖村",
+            "house_no": "119",
+            "candidates": {
+                "1": 422,
+                "2": 262,
+                "3": 112
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1081
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方榮村",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "葉德耀",
+            "party": "無"
+        },
+        "3": {
+            "name": "許順彰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "枋寮村",
+            "house_no": "502",
+            "candidates": {
+                "1": 140,
+                "2": 83,
+                "3": 525
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1152
+        }
+    ]
+}

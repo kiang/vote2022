@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡招治",
+            "party": "無"
+        },
+        "2": {
+            "name": "王吉義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "大湖里",
+            "house_no": "269",
+            "candidates": {
+                "1": 555,
+                "2": 278
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1630
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大湖里",
+            "house_no": "270",
+            "candidates": {
+                "1": 430,
+                "2": 198
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1342
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大湖里",
+            "house_no": "271",
+            "candidates": {
+                "1": 336,
+                "2": 117
+            },
+            "count_wrong": 9,
+            "count_unused": 9,
+            "count_total": 1047
+        },
+        {
+            "area": "龜山區",
+            "cunli": "大湖里",
+            "house_no": "272",
+            "candidates": {
+                "1": 467,
+                "2": 180
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1181
+        }
+    ]
+}

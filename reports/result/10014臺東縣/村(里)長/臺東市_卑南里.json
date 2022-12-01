@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建隆",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳俊雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴俊呈",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳建利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "卑南里",
+            "house_no": "39",
+            "candidates": {
+                "1": 154,
+                "2": 136,
+                "3": 59,
+                "4": 192
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 848
+        },
+        {
+            "area": "臺東市",
+            "cunli": "卑南里",
+            "house_no": "40",
+            "candidates": {
+                "1": 128,
+                "2": 221,
+                "3": 58,
+                "4": 161
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "臺東市",
+            "cunli": "卑南里",
+            "house_no": "41",
+            "candidates": {
+                "1": 232,
+                "2": 183,
+                "3": 78,
+                "4": 215
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1114
+        }
+    ]
+}

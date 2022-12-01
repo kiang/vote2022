@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "伍靜華",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林惠華",
+            "party": "無"
+        },
+        "3": {
+            "name": "詹士霆",
+            "party": "無"
+        },
+        "4": {
+            "name": "林羣雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "楠樹里",
+            "house_no": "9",
+            "candidates": {
+                "1": 153,
+                "2": 76,
+                "3": 379,
+                "4": 87
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "屏東市",
+            "cunli": "楠樹里",
+            "house_no": "10",
+            "candidates": {
+                "1": 355,
+                "2": 95,
+                "3": 176,
+                "4": 12
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

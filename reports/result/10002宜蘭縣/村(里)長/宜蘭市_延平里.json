@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林水蓮",
+            "party": "無"
+        },
+        "2": {
+            "name": "林子豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "延平里",
+            "house_no": "41",
+            "candidates": {
+                "1": 317,
+                "2": 311
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "延平里",
+            "house_no": "42",
+            "candidates": {
+                "1": 292,
+                "2": 300
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1085
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "延平里",
+            "house_no": "43",
+            "candidates": {
+                "1": 270,
+                "2": 351
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1041
+        }
+    ]
+}

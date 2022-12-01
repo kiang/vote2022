@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂世名",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊國寶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "富林里",
+            "house_no": "1360",
+            "candidates": {
+                "1": 260,
+                "2": 417
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "觀音區",
+            "cunli": "富林里",
+            "house_no": "1361",
+            "candidates": {
+                "1": 217,
+                "2": 244
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

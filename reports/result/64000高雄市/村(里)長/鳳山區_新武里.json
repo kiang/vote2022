@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭遷圖",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳志強",
+            "party": "無"
+        },
+        "3": {
+            "name": "李戊琳",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃龍秋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "新武里",
+            "house_no": "1557",
+            "candidates": {
+                "1": 142,
+                "2": 56,
+                "3": 266,
+                "4": 399
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新武里",
+            "house_no": "1558",
+            "candidates": {
+                "1": 104,
+                "2": 38,
+                "3": 280,
+                "4": 262
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1052
+        }
+    ]
+}

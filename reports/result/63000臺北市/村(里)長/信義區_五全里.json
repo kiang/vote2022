@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳秀好",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "李英豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "五全里",
+            "house_no": "776",
+            "candidates": {
+                "1": 470,
+                "2": 119
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "信義區",
+            "cunli": "五全里",
+            "house_no": "777",
+            "candidates": {
+                "1": 576,
+                "2": 131
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "信義區",
+            "cunli": "五全里",
+            "house_no": "778",
+            "candidates": {
+                "1": 425,
+                "2": 131
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "信義區",
+            "cunli": "五全里",
+            "house_no": "779",
+            "candidates": {
+                "1": 558,
+                "2": 169
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1077
+        }
+    ]
+}

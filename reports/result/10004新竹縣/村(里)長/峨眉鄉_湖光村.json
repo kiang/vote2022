@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林春綺",
+            "party": "無"
+        },
+        "2": {
+            "name": "林煥源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "峨眉鄉",
+            "cunli": "湖光村",
+            "house_no": "441",
+            "candidates": {
+                "1": 182,
+                "2": 120
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 440
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "湖光村",
+            "house_no": "442",
+            "candidates": {
+                "1": 191,
+                "2": 126
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 404
+        }
+    ]
+}

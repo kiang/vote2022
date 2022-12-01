@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郝名亮",
+            "party": "無"
+        },
+        "2": {
+            "name": "林督欽",
+            "party": "無"
+        },
+        "3": {
+            "name": "方荷生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "忠勤里",
+            "house_no": "1146",
+            "candidates": {
+                "1": 234,
+                "2": 121,
+                "3": 262
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "中正區",
+            "cunli": "忠勤里",
+            "house_no": "1147",
+            "candidates": {
+                "1": 153,
+                "2": 193,
+                "3": 337
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "中正區",
+            "cunli": "忠勤里",
+            "house_no": "1148",
+            "candidates": {
+                "1": 118,
+                "2": 180,
+                "3": 234
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 863
+        },
+        {
+            "area": "中正區",
+            "cunli": "忠勤里",
+            "house_no": "1149",
+            "candidates": {
+                "1": 133,
+                "2": 200,
+                "3": 314
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "中正區",
+            "cunli": "忠勤里",
+            "house_no": "1150",
+            "candidates": {
+                "1": 185,
+                "2": 221,
+                "3": 283
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1088
+        }
+    ]
+}

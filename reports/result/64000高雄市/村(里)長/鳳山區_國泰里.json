@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃如聲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃昭清",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳應杰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "國泰里",
+            "house_no": "1539",
+            "candidates": {
+                "1": 137,
+                "2": 371,
+                "3": 156
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "國泰里",
+            "house_no": "1540",
+            "candidates": {
+                "1": 164,
+                "2": 372,
+                "3": 126
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "國泰里",
+            "house_no": "1541",
+            "candidates": {
+                "1": 212,
+                "2": 363,
+                "3": 118
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

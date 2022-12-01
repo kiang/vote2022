@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅仁錦",
+            "party": "無"
+        },
+        "2": {
+            "name": "張秋菊",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾泰崇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "莊雅村",
+            "house_no": "355",
+            "candidates": {
+                "1": 253,
+                "2": 193,
+                "3": 161
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "莊雅村",
+            "house_no": "356",
+            "candidates": {
+                "1": 246,
+                "2": 149,
+                "3": 81
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "莊雅村",
+            "house_no": "357",
+            "candidates": {
+                "1": 359,
+                "2": 130,
+                "3": 75
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 839
+        }
+    ]
+}

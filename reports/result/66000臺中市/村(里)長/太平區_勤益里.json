@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳桂花",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "馮耀祖",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "勤益里",
+            "house_no": "1545",
+            "candidates": {
+                "1": 280,
+                "2": 321
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "太平區",
+            "cunli": "勤益里",
+            "house_no": "1546",
+            "candidates": {
+                "1": 295,
+                "2": 324
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1041
+        }
+    ]
+}

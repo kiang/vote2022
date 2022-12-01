@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅春海",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳聰文",
+            "party": "無"
+        },
+        "3": {
+            "name": "林添福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "頭分村",
+            "house_no": "291",
+            "candidates": {
+                "1": 100,
+                "2": 92,
+                "3": 210
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 583
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "頭分村",
+            "house_no": "292",
+            "candidates": {
+                "1": 115,
+                "2": 144,
+                "3": 151
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 663
+        }
+    ]
+}

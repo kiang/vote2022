@@ -1,0 +1,178 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃建元",
+            "party": "無"
+        },
+        "2": {
+            "name": "粘文交",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "洪石原",
+            "party": "無"
+        },
+        "4": {
+            "name": "粘惠青",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "黃厚綿",
+            "party": "無"
+        },
+        "6": {
+            "name": "施有信",
+            "party": "無"
+        },
+        "7": {
+            "name": "張建斌",
+            "party": "無"
+        },
+        "8": {
+            "name": "黃怡雯",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "橋頭村",
+            "house_no": "326",
+            "candidates": {
+                "1": 165,
+                "2": 363,
+                "3": 84,
+                "4": 139
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "橋頭村",
+            "house_no": "327",
+            "candidates": {
+                "1": 153,
+                "2": 411,
+                "3": 69,
+                "4": 170
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "社尾村",
+            "house_no": "328",
+            "candidates": {
+                "1": 442,
+                "2": 201,
+                "3": 83,
+                "4": 158
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "番社村",
+            "house_no": "329",
+            "candidates": {
+                "1": 333,
+                "2": 259,
+                "3": 87,
+                "4": 237
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1414
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "西勢村",
+            "house_no": "330",
+            "candidates": {
+                "1": 270,
+                "2": 82,
+                "3": 69,
+                "4": 129
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 839
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "西勢村",
+            "house_no": "331",
+            "candidates": {
+                "1": 295,
+                "2": 85,
+                "3": 74,
+                "4": 152
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "同安村",
+            "house_no": "332",
+            "candidates": {
+                "1": 149,
+                "2": 45,
+                "3": 148,
+                "4": 315
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "同安村",
+            "house_no": "333",
+            "candidates": {
+                "1": 424,
+                "2": 58,
+                "3": 96,
+                "4": 222
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "秀厝村",
+            "house_no": "334",
+            "candidates": {
+                "1": 72,
+                "2": 74,
+                "3": 530,
+                "4": 72
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "秀厝村",
+            "house_no": "335",
+            "candidates": {
+                "1": 90,
+                "2": 89,
+                "3": 746,
+                "4": 93
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1443
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林慶楨",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉醇良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "北港村",
+            "house_no": "415",
+            "candidates": {
+                "1": 394,
+                "2": 277
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "北港村",
+            "house_no": "416",
+            "candidates": {
+                "1": 313,
+                "2": 299
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 815
+        }
+    ]
+}

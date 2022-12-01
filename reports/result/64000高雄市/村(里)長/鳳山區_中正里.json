@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄒家駿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王陸生",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳智義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "中正里",
+            "house_no": "1534",
+            "candidates": {
+                "1": 349,
+                "2": 124,
+                "3": 247
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中正里",
+            "house_no": "1535",
+            "candidates": {
+                "1": 603,
+                "2": 68,
+                "3": 185
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1484
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中正里",
+            "house_no": "1536",
+            "candidates": {
+                "1": 533,
+                "2": 62,
+                "3": 126
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1240
+        }
+    ]
+}

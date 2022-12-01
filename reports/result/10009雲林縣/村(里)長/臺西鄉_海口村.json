@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳志雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "海口村",
+            "house_no": "40",
+            "candidates": {
+                "1": 553
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "海口村",
+            "house_no": "41",
+            "candidates": {
+                "1": 599
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 940
+        }
+    ]
+}

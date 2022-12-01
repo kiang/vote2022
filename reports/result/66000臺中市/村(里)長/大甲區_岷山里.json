@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文笔",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "岷山里",
+            "house_no": "13",
+            "candidates": {
+                "1": 332,
+                "2": 316
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "大甲區",
+            "cunli": "岷山里",
+            "house_no": "14",
+            "candidates": {
+                "1": 302,
+                "2": 365
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

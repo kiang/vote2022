@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林耀宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭明成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗山區",
+            "cunli": "太平里",
+            "house_no": "64",
+            "candidates": {
+                "1": 299,
+                "2": 396
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "旗山區",
+            "cunli": "太平里",
+            "house_no": "65",
+            "candidates": {
+                "1": 335,
+                "2": 350
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1067
+        }
+    ]
+}

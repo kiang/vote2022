@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴錦泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳相進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹北市",
+            "cunli": "白地里",
+            "house_no": "124",
+            "candidates": {
+                "1": 270,
+                "2": 367
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 964
+        },
+        {
+            "area": "竹北市",
+            "cunli": "白地里",
+            "house_no": "125",
+            "candidates": {
+                "1": 225,
+                "2": 505
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1185
+        }
+    ]
+}

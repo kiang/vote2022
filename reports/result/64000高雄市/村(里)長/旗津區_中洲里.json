@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐秋琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭美伶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗津區",
+            "cunli": "中洲里",
+            "house_no": "984",
+            "candidates": {
+                "1": 110,
+                "2": 472
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "旗津區",
+            "cunli": "中洲里",
+            "house_no": "985",
+            "candidates": {
+                "1": 196,
+                "2": 218
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 731
+        }
+    ]
+}

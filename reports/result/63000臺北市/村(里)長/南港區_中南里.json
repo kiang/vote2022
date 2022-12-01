@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹坤隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "中南里",
+            "house_no": "521",
+            "candidates": {
+                "1": 518
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "南港區",
+            "cunli": "中南里",
+            "house_no": "522",
+            "candidates": {
+                "1": 557
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "南港區",
+            "cunli": "中南里",
+            "house_no": "523",
+            "candidates": {
+                "1": 495
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 891
+        }
+    ]
+}

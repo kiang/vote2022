@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文聿",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "許昭偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "鵬程里",
+            "house_no": "782",
+            "candidates": {
+                "1": 328,
+                "2": 432
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1272
+        },
+        {
+            "area": "西屯區",
+            "cunli": "鵬程里",
+            "house_no": "783",
+            "candidates": {
+                "1": 438,
+                "2": 323
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1204
+        }
+    ]
+}

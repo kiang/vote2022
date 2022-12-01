@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳子文",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳素慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "六甲區",
+            "cunli": "甲東里",
+            "house_no": "390",
+            "candidates": {
+                "1": 486,
+                "2": 458
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1446
+        },
+        {
+            "area": "六甲區",
+            "cunli": "甲東里",
+            "house_no": "391",
+            "candidates": {
+                "1": 443,
+                "2": 294
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1083
+        }
+    ]
+}

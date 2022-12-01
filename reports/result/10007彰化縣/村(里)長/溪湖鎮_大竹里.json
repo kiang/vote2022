@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳存利",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊儒斌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "大竹里",
+            "house_no": "691",
+            "candidates": {
+                "1": 205,
+                "2": 564
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "大竹里",
+            "house_no": "692",
+            "candidates": {
+                "1": 165,
+                "2": 520
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1109
+        }
+    ]
+}

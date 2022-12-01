@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉陽劍",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "高海傑",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "江山里",
+            "house_no": "1003",
+            "candidates": {
+                "1": 517,
+                "2": 297
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "中山區",
+            "cunli": "江山里",
+            "house_no": "1004",
+            "candidates": {
+                "1": 502,
+                "2": 292
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "中山區",
+            "cunli": "江山里",
+            "house_no": "1005",
+            "candidates": {
+                "1": 349,
+                "2": 399
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "中山區",
+            "cunli": "江山里",
+            "house_no": "1006",
+            "candidates": {
+                "1": 423,
+                "2": 348
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "中山區",
+            "cunli": "江山里",
+            "house_no": "1007",
+            "candidates": {
+                "1": 470,
+                "2": 317
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1149
+        }
+    ]
+}

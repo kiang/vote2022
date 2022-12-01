@@ -1,0 +1,91 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂清陣",
+            "party": "無"
+        },
+        "2": {
+            "name": "李家萱",
+            "party": "無"
+        },
+        "3": {
+            "name": "薛美華",
+            "party": "無"
+        },
+        "4": {
+            "name": "許見情",
+            "party": "無"
+        },
+        "5": {
+            "name": "洪耀幸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西嶼鄉",
+            "cunli": "大池村",
+            "house_no": "97",
+            "candidates": {
+                "1": 81,
+                "2": 200,
+                "3": 41
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 637
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "二崁村",
+            "house_no": "98",
+            "candidates": {
+                "1": 14,
+                "2": 24,
+                "3": 20
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 132
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "池東村",
+            "house_no": "99",
+            "candidates": {
+                "1": 141,
+                "2": 155,
+                "3": 68
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 649
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "池西村",
+            "house_no": "100",
+            "candidates": {
+                "1": 25,
+                "2": 68,
+                "3": 40
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 214
+        },
+        {
+            "area": "西嶼鄉",
+            "cunli": "赤馬村",
+            "house_no": "101",
+            "candidates": {
+                "1": 73,
+                "2": 89,
+                "3": 124
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 588
+        }
+    ]
+}

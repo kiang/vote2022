@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳世寳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李智賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "誠德里",
+            "house_no": "1520",
+            "candidates": {
+                "1": 516,
+                "2": 211
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "誠德里",
+            "house_no": "1521",
+            "candidates": {
+                "1": 393,
+                "2": 263
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1216
+        }
+    ]
+}

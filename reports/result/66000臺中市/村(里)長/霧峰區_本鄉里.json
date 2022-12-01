@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林瑞德",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "侯品聿",
+            "party": "無"
+        },
+        "3": {
+            "name": "林揚展",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "本鄉里",
+            "house_no": "1754",
+            "candidates": {
+                "1": 151,
+                "2": 121,
+                "3": 433
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "本鄉里",
+            "house_no": "1755",
+            "candidates": {
+                "1": 149,
+                "2": 113,
+                "3": 453
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1165
+        }
+    ]
+}

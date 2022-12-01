@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃登凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "林德恩",
+            "party": "無"
+        },
+        "3": {
+            "name": "林立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南州鄉",
+            "cunli": "米崙村",
+            "house_no": "591",
+            "candidates": {
+                "1": 15,
+                "2": 31,
+                "3": 22,
+                "4": 380,
+                "5": 6,
+                "6": 278
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "南州鄉",
+            "cunli": "壽元村",
+            "house_no": "592",
+            "candidates": {
+                "1": 28,
+                "2": 369,
+                "3": 197,
+                "4": 55,
+                "5": 43,
+                "6": 30
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1019
+        }
+    ]
+}

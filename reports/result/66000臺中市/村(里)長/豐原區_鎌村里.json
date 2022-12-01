@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉春輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "林隆源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "鎌村里",
+            "house_no": "517",
+            "candidates": {
+                "1": 426,
+                "2": 505
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1494
+        },
+        {
+            "area": "豐原區",
+            "cunli": "鎌村里",
+            "house_no": "518",
+            "candidates": {
+                "1": 438,
+                "2": 449
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1415
+        },
+        {
+            "area": "豐原區",
+            "cunli": "鎌村里",
+            "house_no": "519",
+            "candidates": {
+                "1": 361,
+                "2": 622
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1524
+        }
+    ]
+}

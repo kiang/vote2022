@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉丁泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林淑靜",
+            "party": "無"
+        },
+        "3": {
+            "name": "林一民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "中勝村",
+            "house_no": "81",
+            "candidates": {
+                "1": 186,
+                "2": 36,
+                "3": 31,
+                "4": 76,
+                "5": 105,
+                "6": 83
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 705
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "中勝村",
+            "house_no": "82",
+            "candidates": {
+                "1": 152,
+                "2": 64,
+                "3": 60,
+                "4": 45,
+                "5": 115,
+                "6": 74
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 691
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "馬鳴村",
+            "house_no": "83",
+            "candidates": {
+                "1": 32,
+                "2": 41,
+                "3": 16,
+                "4": 26,
+                "5": 55,
+                "6": 164
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 446
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "馬鳴村",
+            "house_no": "84",
+            "candidates": {
+                "1": 21,
+                "2": 147,
+                "3": 245,
+                "4": 45,
+                "5": 185,
+                "6": 39
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "新湖村",
+            "house_no": "85",
+            "candidates": {
+                "1": 36,
+                "2": 30,
+                "3": 22,
+                "4": 196,
+                "5": 52,
+                "6": 22
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 435
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "新湖村",
+            "house_no": "86",
+            "candidates": {
+                "1": 102,
+                "2": 52,
+                "3": 63,
+                "4": 61,
+                "5": 167,
+                "6": 86
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 692
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李水池",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "趙展成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "力行里",
+            "house_no": "1200",
+            "candidates": {
+                "1": 370,
+                "2": 337
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 982
+        }
+    ]
+}

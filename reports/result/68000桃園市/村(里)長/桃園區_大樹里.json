@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊文進",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳文郎",
+            "party": "無"
+        },
+        "3": {
+            "name": "孫偉祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "大樹里",
+            "house_no": "6",
+            "candidates": {
+                "1": 309,
+                "2": 204,
+                "3": 270
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大樹里",
+            "house_no": "7",
+            "candidates": {
+                "1": 291,
+                "2": 258,
+                "3": 205
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大樹里",
+            "house_no": "8",
+            "candidates": {
+                "1": 226,
+                "2": 202,
+                "3": 245
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1152
+        }
+    ]
+}

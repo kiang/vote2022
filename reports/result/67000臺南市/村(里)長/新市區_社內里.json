@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏千富",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳烱昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新市區",
+            "cunli": "社內里",
+            "house_no": "594",
+            "candidates": {
+                "1": 338,
+                "2": 230
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "新市區",
+            "cunli": "社內里",
+            "house_no": "595",
+            "candidates": {
+                "1": 399,
+                "2": 175
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "新市區",
+            "cunli": "社內里",
+            "house_no": "596",
+            "candidates": {
+                "1": 269,
+                "2": 207
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 797
+        }
+    ]
+}

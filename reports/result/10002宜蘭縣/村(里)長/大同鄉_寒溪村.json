@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫英花",
+            "party": "無"
+        },
+        "2": {
+            "name": "董經國",
+            "party": "無"
+        },
+        "3": {
+            "name": "胡芳榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同鄉",
+            "cunli": "寒溪村",
+            "house_no": "410",
+            "candidates": {
+                "1": 124,
+                "2": 321,
+                "3": 238
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 879
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建名",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈春蜜",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉星語",
+            "party": "無"
+        },
+        "4": {
+            "name": "林鴻銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "僑真里",
+            "house_no": "576",
+            "candidates": {
+                "1": 74,
+                "2": 275,
+                "3": 158,
+                "4": 43
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "僑真里",
+            "house_no": "577",
+            "candidates": {
+                "1": 293,
+                "2": 203,
+                "3": 146,
+                "4": 175
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1298
+        }
+    ]
+}

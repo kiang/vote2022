@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明憲",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "王瑞慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "福居里",
+            "house_no": "1383",
+            "candidates": {
+                "1": 409,
+                "2": 379
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "福居里",
+            "house_no": "1384",
+            "candidates": {
+                "1": 466,
+                "2": 323
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1232
+        }
+    ]
+}

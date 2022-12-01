@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張財良",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東勢里",
+            "house_no": "1403",
+            "candidates": {
+                "1": 518
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "東區",
+            "cunli": "東勢里",
+            "house_no": "1404",
+            "candidates": {
+                "1": 599
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1284
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊順益",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉順治",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "隆山村",
+            "house_no": "508",
+            "candidates": {
+                "1": 314,
+                "2": 347
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "隆山村",
+            "house_no": "509",
+            "candidates": {
+                "1": 266,
+                "2": 440
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "隆山村",
+            "house_no": "510",
+            "candidates": {
+                "1": 316,
+                "2": 359
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "隆山村",
+            "house_no": "511",
+            "candidates": {
+                "1": 282,
+                "2": 366
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 985
+        }
+    ]
+}

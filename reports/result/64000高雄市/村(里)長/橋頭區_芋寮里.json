@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "凌俊隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "凌天福",
+            "party": "無"
+        },
+        "3": {
+            "name": "凌陽賢",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "傅壽勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "芋寮里",
+            "house_no": "435",
+            "candidates": {
+                "1": 205,
+                "2": 47,
+                "3": 296,
+                "4": 331
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1141
+        }
+    ]
+}

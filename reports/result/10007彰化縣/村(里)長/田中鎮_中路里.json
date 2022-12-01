@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝泰鈿",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳月嬌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "中路里",
+            "house_no": "790",
+            "candidates": {
+                "1": 260,
+                "2": 295
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "中路里",
+            "house_no": "791",
+            "candidates": {
+                "1": 287,
+                "2": 305
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 963
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭清白",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭俊良",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭邕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹崎鄉",
+            "cunli": "紫雲村",
+            "house_no": "471",
+            "candidates": {
+                "1": 398,
+                "2": 423,
+                "3": 88
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1317
+        }
+    ]
+}

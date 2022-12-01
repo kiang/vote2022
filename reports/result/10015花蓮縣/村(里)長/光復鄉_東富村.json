@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃建桐",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "光復鄉",
+            "cunli": "東富村",
+            "house_no": "246",
+            "candidates": {
+                "1": 424
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 765
+        },
+        {
+            "area": "光復鄉",
+            "cunli": "東富村",
+            "house_no": "247",
+            "candidates": {
+                "1": 85
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 183
+        }
+    ]
+}

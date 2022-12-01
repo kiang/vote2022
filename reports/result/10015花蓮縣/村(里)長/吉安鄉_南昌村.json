@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "石崑助",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳振興",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張天民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "165",
+            "candidates": {
+                "1": 215,
+                "2": 241,
+                "3": 113
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "166",
+            "candidates": {
+                "1": 195,
+                "2": 256,
+                "3": 118
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "167",
+            "candidates": {
+                "1": 95,
+                "2": 139,
+                "3": 184
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "吉安鄉",
+            "cunli": "南昌村",
+            "house_no": "168",
+            "candidates": {
+                "1": 77,
+                "2": 228,
+                "3": 115
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

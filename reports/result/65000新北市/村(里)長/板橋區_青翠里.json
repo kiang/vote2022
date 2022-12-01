@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林森照",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊信昱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "青翠里",
+            "house_no": "1154",
+            "candidates": {
+                "1": 348,
+                "2": 396
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "板橋區",
+            "cunli": "青翠里",
+            "house_no": "1155",
+            "candidates": {
+                "1": 485,
+                "2": 318
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1331
+        }
+    ]
+}

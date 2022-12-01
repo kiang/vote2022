@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林進發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "宜昌里",
+            "house_no": "1567",
+            "candidates": {
+                "1": 893
+            },
+            "count_wrong": 70,
+            "count_unused": 1,
+            "count_total": 1718
+        },
+        {
+            "area": "太平區",
+            "cunli": "宜昌里",
+            "house_no": "1568",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "太平區",
+            "cunli": "宜昌里",
+            "house_no": "1569",
+            "candidates": {
+                "1": 469
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

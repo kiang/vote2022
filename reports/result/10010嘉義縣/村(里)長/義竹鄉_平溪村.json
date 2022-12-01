@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温哲男",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡明清",
+            "party": "無"
+        },
+        "3": {
+            "name": "蕭文上",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "平溪村",
+            "house_no": "396",
+            "candidates": {
+                "1": 158,
+                "2": 150,
+                "3": 25
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 404
+        }
+    ]
+}

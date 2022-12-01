@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林卿華",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾東堯",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊欽鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "蘇南里",
+            "house_no": "161",
+            "candidates": {
+                "1": 63,
+                "2": 98,
+                "3": 120
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 414
+        }
+    ]
+}

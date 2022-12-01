@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝文加",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳竑達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福安里",
+            "house_no": "259",
+            "candidates": {
+                "1": 508,
+                "2": 469
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "士林區",
+            "cunli": "福安里",
+            "house_no": "260",
+            "candidates": {
+                "1": 592,
+                "2": 389
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1410
+        },
+        {
+            "area": "士林區",
+            "cunli": "福安里",
+            "house_no": "261",
+            "candidates": {
+                "1": 503,
+                "2": 536
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1478
+        }
+    ]
+}

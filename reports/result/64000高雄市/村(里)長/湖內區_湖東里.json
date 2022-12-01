@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃太平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖內區",
+            "cunli": "湖東里",
+            "house_no": "185",
+            "candidates": {
+                "1": 391
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 895
+        },
+        {
+            "area": "湖內區",
+            "cunli": "湖東里",
+            "house_no": "186",
+            "candidates": {
+                "1": 336
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "湖內區",
+            "cunli": "湖東里",
+            "house_no": "187",
+            "candidates": {
+                "1": 290
+            },
+            "count_wrong": 77,
+            "count_unused": 2,
+            "count_total": 861
+        }
+    ]
+}

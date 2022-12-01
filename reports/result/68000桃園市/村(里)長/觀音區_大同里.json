@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱德貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉秀華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "大同里",
+            "house_no": "1332",
+            "candidates": {
+                "1": 364,
+                "2": 554
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1483
+        },
+        {
+            "area": "觀音區",
+            "cunli": "大同里",
+            "house_no": "1333",
+            "candidates": {
+                "1": 474,
+                "2": 426
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1547
+        }
+    ]
+}

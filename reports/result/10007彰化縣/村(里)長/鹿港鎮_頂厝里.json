@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳慶津",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏禎祥",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂厝里",
+            "house_no": "312",
+            "candidates": {
+                "1": 343,
+                "2": 343
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂厝里",
+            "house_no": "313",
+            "candidates": {
+                "1": 314,
+                "2": 218
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頂厝里",
+            "house_no": "314",
+            "candidates": {
+                "1": 304,
+                "2": 227
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 871
+        }
+    ]
+}

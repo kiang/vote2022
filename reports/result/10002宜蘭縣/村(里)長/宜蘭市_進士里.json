@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳正達",
+            "party": "無"
+        },
+        "2": {
+            "name": "林麗玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "進士里",
+            "house_no": "30",
+            "candidates": {
+                "1": 517,
+                "2": 221
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "進士里",
+            "house_no": "31",
+            "candidates": {
+                "1": 357,
+                "2": 159
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 921
+        }
+    ]
+}

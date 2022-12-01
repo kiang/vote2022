@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉尚恩",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "賴政庸",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "集英里",
+            "house_no": "917",
+            "candidates": {
+                "1": 191,
+                "2": 434
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "中山區",
+            "cunli": "集英里",
+            "house_no": "918",
+            "candidates": {
+                "1": 151,
+                "2": 539
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "中山區",
+            "cunli": "集英里",
+            "house_no": "919",
+            "candidates": {
+                "1": 154,
+                "2": 552
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "中山區",
+            "cunli": "集英里",
+            "house_no": "920",
+            "candidates": {
+                "1": 162,
+                "2": 471
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "中山區",
+            "cunli": "集英里",
+            "house_no": "921",
+            "candidates": {
+                "1": 220,
+                "2": 467
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1139
+        }
+    ]
+}

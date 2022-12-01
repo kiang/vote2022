@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭振旺",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱永妹",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅朝仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "福源里",
+            "house_no": "173",
+            "candidates": {
+                "1": 122,
+                "2": 218,
+                "3": 183
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 743
+        }
+    ]
+}

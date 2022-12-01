@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳煥勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃美雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "頂竹里",
+            "house_no": "136",
+            "candidates": {
+                "1": 241,
+                "2": 209
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "東區",
+            "cunli": "頂竹里",
+            "house_no": "137",
+            "candidates": {
+                "1": 270,
+                "2": 278
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "東區",
+            "cunli": "頂竹里",
+            "house_no": "138",
+            "candidates": {
+                "1": 322,
+                "2": 283
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 977
+        }
+    ]
+}

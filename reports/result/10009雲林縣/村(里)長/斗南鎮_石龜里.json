@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許耀文",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳村田",
+            "party": "無"
+        },
+        "3": {
+            "name": "林安國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "石龜里",
+            "house_no": "564",
+            "candidates": {
+                "1": 188,
+                "2": 295,
+                "3": 52
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 704
+        }
+    ]
+}

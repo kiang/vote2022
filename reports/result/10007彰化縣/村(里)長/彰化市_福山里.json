@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周文樹",
+            "party": "無"
+        },
+        "2": {
+            "name": "張海堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "福山里",
+            "house_no": "172",
+            "candidates": {
+                "1": 423,
+                "2": 208
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1083
+        },
+        {
+            "area": "彰化市",
+            "cunli": "福山里",
+            "house_no": "173",
+            "candidates": {
+                "1": 437,
+                "2": 236
+            },
+            "count_wrong": 31,
+            "count_unused": 1,
+            "count_total": 1189
+        },
+        {
+            "area": "彰化市",
+            "cunli": "福山里",
+            "house_no": "174",
+            "candidates": {
+                "1": 384,
+                "2": 284
+            },
+            "count_wrong": 32,
+            "count_unused": 2,
+            "count_total": 1113
+        },
+        {
+            "area": "彰化市",
+            "cunli": "福山里",
+            "house_no": "175",
+            "candidates": {
+                "1": 339,
+                "2": 314
+            },
+            "count_wrong": 22,
+            "count_unused": 2,
+            "count_total": 1108
+        },
+        {
+            "area": "彰化市",
+            "cunli": "福山里",
+            "house_no": "176",
+            "candidates": {
+                "1": 316,
+                "2": 317
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "彰化市",
+            "cunli": "福山里",
+            "house_no": "177",
+            "candidates": {
+                "1": 244,
+                "2": 305
+            },
+            "count_wrong": 15,
+            "count_unused": 2,
+            "count_total": 896
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林美蘭",
+            "party": "無"
+        },
+        "2": {
+            "name": "龔一隆",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉信邦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "128",
+            "candidates": {
+                "1": 95,
+                "2": 120,
+                "3": 419
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "129",
+            "candidates": {
+                "1": 106,
+                "2": 111,
+                "3": 383
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "130",
+            "candidates": {
+                "1": 92,
+                "2": 200,
+                "3": 317
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "131",
+            "candidates": {
+                "1": 79,
+                "2": 137,
+                "3": 283
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "彰化市",
+            "cunli": "下廍里",
+            "house_no": "132",
+            "candidates": {
+                "1": 114,
+                "2": 174,
+                "3": 284
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 907
+        }
+    ]
+}

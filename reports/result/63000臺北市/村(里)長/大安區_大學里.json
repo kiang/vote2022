@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳沛璇",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "何承翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "大學里",
+            "house_no": "1527",
+            "candidates": {
+                "1": 658,
+                "2": 267
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1367
+        },
+        {
+            "area": "大安區",
+            "cunli": "大學里",
+            "house_no": "1528",
+            "candidates": {
+                "1": 525,
+                "2": 257
+            },
+            "count_wrong": 54,
+            "count_unused": 3,
+            "count_total": 1247
+        },
+        {
+            "area": "大安區",
+            "cunli": "大學里",
+            "house_no": "1529",
+            "candidates": {
+                "1": 591,
+                "2": 250
+            },
+            "count_wrong": 43,
+            "count_unused": 2,
+            "count_total": 1261
+        },
+        {
+            "area": "大安區",
+            "cunli": "大學里",
+            "house_no": "1530",
+            "candidates": {
+                "1": 589,
+                "2": 264
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "大安區",
+            "cunli": "大學里",
+            "house_no": "1531",
+            "candidates": {
+                "1": 577,
+                "2": 266
+            },
+            "count_wrong": 40,
+            "count_unused": 19,
+            "count_total": 1247
+        }
+    ]
+}

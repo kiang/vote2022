@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林哲生",
+            "party": "無"
+        },
+        "2": {
+            "name": "張晏維",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾明憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "振興里",
+            "house_no": "1711",
+            "candidates": {
+                "1": 42,
+                "2": 254,
+                "3": 347
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "振興里",
+            "house_no": "1712",
+            "candidates": {
+                "1": 66,
+                "2": 146,
+                "3": 450
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1144
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "巫寶田",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈柔安",
+            "party": "無"
+        },
+        "3": {
+            "name": "李朝程",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "通霄鎮",
+            "cunli": "通南里",
+            "house_no": "165",
+            "candidates": {
+                "1": 396,
+                "2": 27,
+                "3": 210
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "通南里",
+            "house_no": "166",
+            "candidates": {
+                "1": 250,
+                "2": 47,
+                "3": 182
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 766
+        },
+        {
+            "area": "通霄鎮",
+            "cunli": "通南里",
+            "house_no": "167",
+            "candidates": {
+                "1": 291,
+                "2": 24,
+                "3": 261
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 831
+        }
+    ]
+}

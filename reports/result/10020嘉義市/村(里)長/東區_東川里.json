@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉寬鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳琇瑩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "東川里",
+            "house_no": "5",
+            "candidates": {
+                "1": 269,
+                "2": 141
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "東區",
+            "cunli": "東川里",
+            "house_no": "6",
+            "candidates": {
+                "1": 237,
+                "2": 254
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 863
+        }
+    ]
+}

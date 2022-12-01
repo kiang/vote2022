@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃素琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃再興",
+            "party": "無"
+        },
+        "3": {
+            "name": "林淑如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "樹林里",
+            "house_no": "124",
+            "candidates": {
+                "1": 161,
+                "2": 306,
+                "3": 376
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "樹林里",
+            "house_no": "125",
+            "candidates": {
+                "1": 71,
+                "2": 213,
+                "3": 241
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "樹林里",
+            "house_no": "126",
+            "candidates": {
+                "1": 104,
+                "2": 226,
+                "3": 301
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1083
+        }
+    ]
+}

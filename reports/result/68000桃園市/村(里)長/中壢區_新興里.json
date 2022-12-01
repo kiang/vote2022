@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李偉民",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐永鑑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "新興里",
+            "house_no": "864",
+            "candidates": {
+                "1": 398,
+                "2": 272
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "中壢區",
+            "cunli": "新興里",
+            "house_no": "865",
+            "candidates": {
+                "1": 443,
+                "2": 235
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "中壢區",
+            "cunli": "新興里",
+            "house_no": "866",
+            "candidates": {
+                "1": 413,
+                "2": 303
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1137
+        }
+    ]
+}

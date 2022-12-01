@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃百祿",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘錦上",
+            "party": "無"
+        },
+        "3": {
+            "name": "黎玉微",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "南村里",
+            "house_no": "137",
+            "candidates": {
+                "1": 183,
+                "2": 431,
+                "3": 251
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1282
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭文昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "至善里",
+            "house_no": "736",
+            "candidates": {
+                "1": 634
+            },
+            "count_wrong": 118,
+            "count_unused": 1,
+            "count_total": 1399
+        },
+        {
+            "area": "西屯區",
+            "cunli": "至善里",
+            "house_no": "737",
+            "candidates": {
+                "1": 623
+            },
+            "count_wrong": 128,
+            "count_unused": 0,
+            "count_total": 1395
+        },
+        {
+            "area": "西屯區",
+            "cunli": "至善里",
+            "house_no": "738",
+            "candidates": {
+                "1": 700
+            },
+            "count_wrong": 98,
+            "count_unused": 0,
+            "count_total": 1407
+        }
+    ]
+}

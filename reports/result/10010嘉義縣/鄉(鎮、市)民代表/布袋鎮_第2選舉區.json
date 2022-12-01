@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王佳儀",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭柏坊",
+            "party": "無"
+        },
+        "3": {
+            "name": "邱宏齊",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡崇仕",
+            "party": "無"
+        },
+        "5": {
+            "name": "邱彬",
+            "party": "無"
+        },
+        "6": {
+            "name": "蘇邱麗月",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "布袋鎮",
+            "cunli": "西安里",
+            "house_no": "366",
+            "candidates": {
+                "1": 272,
+                "2": 130,
+                "3": 168,
+                "4": 129
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "中安里",
+            "house_no": "367",
+            "candidates": {
+                "1": 136,
+                "2": 318,
+                "3": 330,
+                "4": 65
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1308
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東安里",
+            "house_no": "368",
+            "candidates": {
+                "1": 182,
+                "2": 167,
+                "3": 185,
+                "4": 278
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "樹林里",
+            "house_no": "369",
+            "candidates": {
+                "1": 44,
+                "2": 88,
+                "3": 70,
+                "4": 49
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 295
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "樹林里",
+            "house_no": "370",
+            "candidates": {
+                "1": 34,
+                "2": 22,
+                "3": 55,
+                "4": 75
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 233
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "貴舍里",
+            "house_no": "371",
+            "candidates": {
+                "1": 141,
+                "2": 129,
+                "3": 89,
+                "4": 102
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 607
+        }
+    ]
+}

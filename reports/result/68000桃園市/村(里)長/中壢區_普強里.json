@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江長榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "普強里",
+            "house_no": "756",
+            "candidates": {
+                "1": 662
+            },
+            "count_wrong": 39,
+            "count_unused": 1,
+            "count_total": 1072
+        },
+        {
+            "area": "中壢區",
+            "cunli": "普強里",
+            "house_no": "757",
+            "candidates": {
+                "1": 685
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "中壢區",
+            "cunli": "普強里",
+            "house_no": "758",
+            "candidates": {
+                "1": 747
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1306
+        }
+    ]
+}

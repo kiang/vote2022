@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴錫應",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "大村村",
+            "house_no": "600",
+            "candidates": {
+                "1": 488
+            },
+            "count_wrong": 159,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "大村村",
+            "house_no": "601",
+            "candidates": {
+                "1": 556
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "大村村",
+            "house_no": "602",
+            "candidates": {
+                "1": 739
+            },
+            "count_wrong": 193,
+            "count_unused": 2,
+            "count_total": 1383
+        }
+    ]
+}

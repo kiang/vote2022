@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧浩賢",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "福民里",
+            "house_no": "2199",
+            "candidates": {
+                "1": 723
+            },
+            "count_wrong": 146,
+            "count_unused": 0,
+            "count_total": 1432
+        },
+        {
+            "area": "新店區",
+            "cunli": "福民里",
+            "house_no": "2200",
+            "candidates": {
+                "1": 494
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "新店區",
+            "cunli": "福民里",
+            "house_no": "2201",
+            "candidates": {
+                "1": 484
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1060
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姫月美",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊柏松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "旗山區",
+            "cunli": "大林里",
+            "house_no": "74",
+            "candidates": {
+                "1": 273,
+                "2": 260
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 805
+        },
+        {
+            "area": "旗山區",
+            "cunli": "大林里",
+            "house_no": "75",
+            "candidates": {
+                "1": 93,
+                "2": 180
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 474
+        }
+    ]
+}

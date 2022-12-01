@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林有定",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張家偉",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "林華里",
+            "house_no": "1324",
+            "candidates": {
+                "1": 264,
+                "2": 329
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林華里",
+            "house_no": "1325",
+            "candidates": {
+                "1": 282,
+                "2": 242
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 775
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林華里",
+            "house_no": "1326",
+            "candidates": {
+                "1": 203,
+                "2": 236
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 724
+        }
+    ]
+}

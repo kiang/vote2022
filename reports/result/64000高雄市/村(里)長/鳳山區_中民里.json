@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃金利",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝吉原",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "中民里",
+            "house_no": "1580",
+            "candidates": {
+                "1": 577,
+                "2": 268
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1396
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中民里",
+            "house_no": "1581",
+            "candidates": {
+                "1": 594,
+                "2": 286
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1517
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "中民里",
+            "house_no": "1582",
+            "candidates": {
+                "1": 561,
+                "2": 266
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1382
+        }
+    ]
+}

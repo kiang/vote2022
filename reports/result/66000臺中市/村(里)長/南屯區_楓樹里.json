@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江鳳英",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳伯仲",
+            "party": "無"
+        },
+        "3": {
+            "name": "余泮欽",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴敬翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "楓樹里",
+            "house_no": "893",
+            "candidates": {
+                "1": 160,
+                "2": 549,
+                "3": 10,
+                "4": 45
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1173
+        },
+        {
+            "area": "南屯區",
+            "cunli": "楓樹里",
+            "house_no": "894",
+            "candidates": {
+                "1": 226,
+                "2": 661,
+                "3": 13,
+                "4": 67
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1467
+        },
+        {
+            "area": "南屯區",
+            "cunli": "楓樹里",
+            "house_no": "895",
+            "candidates": {
+                "1": 217,
+                "2": 660,
+                "3": 12,
+                "4": 75
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1549
+        },
+        {
+            "area": "南屯區",
+            "cunli": "楓樹里",
+            "house_no": "896",
+            "candidates": {
+                "1": 203,
+                "2": 663,
+                "3": 10,
+                "4": 74
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1534
+        }
+    ]
+}

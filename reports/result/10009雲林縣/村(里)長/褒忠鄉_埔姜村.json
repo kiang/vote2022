@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金北",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖慧義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "褒忠鄉",
+            "cunli": "埔姜村",
+            "house_no": "79",
+            "candidates": {
+                "1": 236,
+                "2": 260
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 691
+        },
+        {
+            "area": "褒忠鄉",
+            "cunli": "埔姜村",
+            "house_no": "80",
+            "candidates": {
+                "1": 279,
+                "2": 207
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 682
+        }
+    ]
+}

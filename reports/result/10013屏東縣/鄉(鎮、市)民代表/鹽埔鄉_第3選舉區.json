@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李錫忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳冬桂",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘慶記",
+            "party": "無"
+        },
+        "4": {
+            "name": "曾順龍",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳俊宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新圍村",
+            "house_no": "379",
+            "candidates": {
+                "1": 120,
+                "2": 40,
+                "3": 174,
+                "4": 168,
+                "5": 149
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 938
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新圍村",
+            "house_no": "380",
+            "candidates": {
+                "1": 173,
+                "2": 48,
+                "3": 190,
+                "4": 166,
+                "5": 219
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新圍村",
+            "house_no": "381",
+            "candidates": {
+                "1": 97,
+                "2": 38,
+                "3": 198,
+                "4": 147,
+                "5": 195
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新二村",
+            "house_no": "382",
+            "candidates": {
+                "1": 264,
+                "2": 45,
+                "3": 126,
+                "4": 114,
+                "5": 127
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新二村",
+            "house_no": "383",
+            "candidates": {
+                "1": 233,
+                "2": 55,
+                "3": 160,
+                "4": 234,
+                "5": 144
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "新二村",
+            "house_no": "384",
+            "candidates": {
+                "1": 199,
+                "2": 73,
+                "3": 194,
+                "4": 182,
+                "5": 115
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1143
+        }
+    ]
+}

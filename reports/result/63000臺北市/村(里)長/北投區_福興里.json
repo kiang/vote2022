@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃漢堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡柳池",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "福興里",
+            "house_no": "11",
+            "candidates": {
+                "1": 277,
+                "2": 485
+            },
+            "count_wrong": 41,
+            "count_unused": 4,
+            "count_total": 1138
+        },
+        {
+            "area": "北投區",
+            "cunli": "福興里",
+            "house_no": "12",
+            "candidates": {
+                "1": 304,
+                "2": 417
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "北投區",
+            "cunli": "福興里",
+            "house_no": "13",
+            "candidates": {
+                "1": 250,
+                "2": 544
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "北投區",
+            "cunli": "福興里",
+            "house_no": "14",
+            "candidates": {
+                "1": 287,
+                "2": 444
+            },
+            "count_wrong": 46,
+            "count_unused": 2,
+            "count_total": 1104
+        },
+        {
+            "area": "北投區",
+            "cunli": "福興里",
+            "house_no": "15",
+            "candidates": {
+                "1": 212,
+                "2": 511
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

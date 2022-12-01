@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李國榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "西安里",
+            "house_no": "363",
+            "candidates": {
+                "1": 682
+            },
+            "count_wrong": 157,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西安里",
+            "house_no": "364",
+            "candidates": {
+                "1": 740
+            },
+            "count_wrong": 156,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西安里",
+            "house_no": "365",
+            "candidates": {
+                "1": 703
+            },
+            "count_wrong": 174,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "內湖區",
+            "cunli": "西安里",
+            "house_no": "366",
+            "candidates": {
+                "1": 823
+            },
+            "count_wrong": 172,
+            "count_unused": 0,
+            "count_total": 1437
+        }
+    ]
+}

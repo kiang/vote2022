@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宗勳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林俊儀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東山區",
+            "cunli": "聖賢里",
+            "house_no": "72",
+            "candidates": {
+                "1": 253,
+                "2": 186
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 716
+        },
+        {
+            "area": "東山區",
+            "cunli": "聖賢里",
+            "house_no": "73",
+            "candidates": {
+                "1": 119,
+                "2": 165
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 464
+        },
+        {
+            "area": "東山區",
+            "cunli": "聖賢里",
+            "house_no": "74",
+            "candidates": {
+                "1": 142,
+                "2": 203
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 581
+        }
+    ]
+}

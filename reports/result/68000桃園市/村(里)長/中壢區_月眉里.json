@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張源峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱垂宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "月眉里",
+            "house_no": "951",
+            "candidates": {
+                "1": 412,
+                "2": 475
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1480
+        },
+        {
+            "area": "中壢區",
+            "cunli": "月眉里",
+            "house_no": "952",
+            "candidates": {
+                "1": 346,
+                "2": 410
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 1340
+        },
+        {
+            "area": "中壢區",
+            "cunli": "月眉里",
+            "house_no": "953",
+            "candidates": {
+                "1": 459,
+                "2": 549
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1569
+        },
+        {
+            "area": "中壢區",
+            "cunli": "月眉里",
+            "house_no": "954",
+            "candidates": {
+                "1": 348,
+                "2": 381
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1132
+        }
+    ]
+}

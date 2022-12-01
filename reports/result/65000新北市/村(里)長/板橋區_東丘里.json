@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高翊峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃淑姿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "東丘里",
+            "house_no": "1222",
+            "candidates": {
+                "1": 412,
+                "2": 382
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "板橋區",
+            "cunli": "東丘里",
+            "house_no": "1223",
+            "candidates": {
+                "1": 330,
+                "2": 397
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1249
+        },
+        {
+            "area": "板橋區",
+            "cunli": "東丘里",
+            "house_no": "1224",
+            "candidates": {
+                "1": 389,
+                "2": 372
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

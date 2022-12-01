@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋美玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "林信介",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "高添喜",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "雅祥里",
+            "house_no": "769",
+            "candidates": {
+                "1": 331,
+                "2": 105,
+                "3": 226
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "信義區",
+            "cunli": "雅祥里",
+            "house_no": "770",
+            "candidates": {
+                "1": 284,
+                "2": 135,
+                "3": 279
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "信義區",
+            "cunli": "雅祥里",
+            "house_no": "771",
+            "candidates": {
+                "1": 315,
+                "2": 104,
+                "3": 275
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 990
+        },
+        {
+            "area": "信義區",
+            "cunli": "雅祥里",
+            "house_no": "772",
+            "candidates": {
+                "1": 335,
+                "2": 106,
+                "3": 227
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

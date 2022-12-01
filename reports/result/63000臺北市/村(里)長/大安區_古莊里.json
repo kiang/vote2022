@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉泓麟",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳宗雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "古莊里",
+            "house_no": "1435",
+            "candidates": {
+                "1": 343,
+                "2": 360
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "大安區",
+            "cunli": "古莊里",
+            "house_no": "1436",
+            "candidates": {
+                "1": 324,
+                "2": 404
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "大安區",
+            "cunli": "古莊里",
+            "house_no": "1437",
+            "candidates": {
+                "1": 425,
+                "2": 538
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "大安區",
+            "cunli": "古莊里",
+            "house_no": "1438",
+            "candidates": {
+                "1": 386,
+                "2": 355
+            },
+            "count_wrong": 38,
+            "count_unused": 1,
+            "count_total": 1129
+        },
+        {
+            "area": "大安區",
+            "cunli": "古莊里",
+            "house_no": "1439",
+            "candidates": {
+                "1": 397,
+                "2": 344
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1155
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許先忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳杰敏",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉豐皇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐濱鄉",
+            "cunli": "港口村",
+            "house_no": "259",
+            "candidates": {
+                "1": 204,
+                "2": 202,
+                "3": 141
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 738
+        }
+    ]
+}

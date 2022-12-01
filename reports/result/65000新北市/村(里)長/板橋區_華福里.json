@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳素玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "林金明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "華福里",
+            "house_no": "1280",
+            "candidates": {
+                "1": 375,
+                "2": 224
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "板橋區",
+            "cunli": "華福里",
+            "house_no": "1281",
+            "candidates": {
+                "1": 267,
+                "2": 204
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 757
+        }
+    ]
+}

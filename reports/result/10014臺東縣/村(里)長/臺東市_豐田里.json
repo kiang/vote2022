@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許振興",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃泉智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐田里",
+            "house_no": "80",
+            "candidates": {
+                "1": 204,
+                "2": 439
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐田里",
+            "house_no": "81",
+            "candidates": {
+                "1": 327,
+                "2": 390
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1064
+        }
+    ]
+}

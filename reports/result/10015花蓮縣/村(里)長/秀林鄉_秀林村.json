@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周賢德 Tmang Sasak",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "秀林村",
+            "house_no": "123",
+            "candidates": {
+                "1": 216
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 383
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "秀林村",
+            "house_no": "124",
+            "candidates": {
+                "1": 303
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 579
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "秀林村",
+            "house_no": "125",
+            "candidates": {
+                "1": 459
+            },
+            "count_wrong": 124,
+            "count_unused": 1,
+            "count_total": 791
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳梨娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪添財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "大庄里",
+            "house_no": "335",
+            "candidates": {
+                "1": 337,
+                "2": 347
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "香山區",
+            "cunli": "大庄里",
+            "house_no": "336",
+            "candidates": {
+                "1": 297,
+                "2": 241
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "香山區",
+            "cunli": "大庄里",
+            "house_no": "337",
+            "candidates": {
+                "1": 295,
+                "2": 198
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 887
+        }
+    ]
+}

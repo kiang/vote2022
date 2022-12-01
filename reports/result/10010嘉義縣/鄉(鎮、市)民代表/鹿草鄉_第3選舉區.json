@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹朋樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "江龍飛",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃水來",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿草鄉",
+            "cunli": "後堀村",
+            "house_no": "56",
+            "candidates": {
+                "1": 154,
+                "2": 227,
+                "3": 115
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 816
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "後堀村",
+            "house_no": "57",
+            "candidates": {
+                "1": 45,
+                "2": 71,
+                "3": 44
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 279
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "三角村",
+            "house_no": "58",
+            "candidates": {
+                "1": 139,
+                "2": 169,
+                "3": 415
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 978
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "三角村",
+            "house_no": "59",
+            "candidates": {
+                "1": 87,
+                "2": 51,
+                "3": 116
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 353
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "下麻村",
+            "house_no": "60",
+            "candidates": {
+                "1": 140,
+                "2": 68,
+                "3": 40
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 314
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "下麻村",
+            "house_no": "61",
+            "candidates": {
+                "1": 42,
+                "2": 112,
+                "3": 32
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 259
+        }
+    ]
+}

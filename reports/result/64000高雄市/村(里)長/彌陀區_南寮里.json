@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳宏桂",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉金忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彌陀區",
+            "cunli": "南寮里",
+            "house_no": "396",
+            "candidates": {
+                "1": 460,
+                "2": 391
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "彌陀區",
+            "cunli": "南寮里",
+            "house_no": "397",
+            "candidates": {
+                "1": 327,
+                "2": 253
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 827
+        }
+    ]
+}

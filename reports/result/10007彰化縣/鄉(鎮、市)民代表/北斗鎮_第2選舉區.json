@@ -1,0 +1,114 @@
+{
+    "candidates": {
+        "1": {
+            "name": "程勝煥",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳世凱",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃志偉",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "張凱偉",
+            "party": "無"
+        },
+        "5": {
+            "name": "王俊超",
+            "party": "無"
+        },
+        "6": {
+            "name": "張美芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "西德里",
+            "house_no": "866",
+            "candidates": {
+                "1": 194,
+                "2": 88,
+                "3": 139,
+                "4": 193
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "西德里",
+            "house_no": "867",
+            "candidates": {
+                "1": 247,
+                "2": 66,
+                "3": 119,
+                "4": 209
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "西德里",
+            "house_no": "868",
+            "candidates": {
+                "1": 212,
+                "2": 102,
+                "3": 171,
+                "4": 212
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "西德里",
+            "house_no": "869",
+            "candidates": {
+                "1": 276,
+                "2": 83,
+                "3": 129,
+                "4": 168
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "西安里",
+            "house_no": "870",
+            "candidates": {
+                "1": 106,
+                "2": 67,
+                "3": 120,
+                "4": 127
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 762
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "西安里",
+            "house_no": "871",
+            "candidates": {
+                "1": 122,
+                "2": 157,
+                "3": 67,
+                "4": 190
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 916
+        }
+    ]
+}

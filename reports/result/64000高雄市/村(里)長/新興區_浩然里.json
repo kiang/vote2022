@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張榮源",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新興區",
+            "cunli": "浩然里",
+            "house_no": "1231",
+            "candidates": {
+                "1": 344
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 741
+        },
+        {
+            "area": "新興區",
+            "cunli": "浩然里",
+            "house_no": "1232",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

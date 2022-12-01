@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾秀華",
+            "party": "無"
+        },
+        "2": {
+            "name": "張綺苓",
+            "party": "無"
+        },
+        "3": {
+            "name": "張勝興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "莿桐鄉",
+            "cunli": "六合村",
+            "house_no": "432",
+            "candidates": {
+                "1": 515,
+                "2": 264,
+                "3": 5
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "六合村",
+            "house_no": "433",
+            "candidates": {
+                "1": 110,
+                "2": 361,
+                "3": 5
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 614
+        }
+    ]
+}

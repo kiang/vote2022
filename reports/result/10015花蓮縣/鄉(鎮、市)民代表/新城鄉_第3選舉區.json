@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田金峰",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王聰山",
+            "party": "無"
+        },
+        "3": {
+            "name": "葛秋夫 Di‧Han‧Ulawer‧Panay",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "呂春美 Iku‧Karang",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "佳林村",
+            "house_no": "109",
+            "candidates": {
+                "1": 39,
+                "2": 75,
+                "3": 161,
+                "4": 159
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 764
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "110",
+            "candidates": {
+                "1": 66,
+                "2": 64,
+                "3": 127,
+                "4": 133
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 815
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "111",
+            "candidates": {
+                "1": 41,
+                "2": 50,
+                "3": 147,
+                "4": 143
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "112",
+            "candidates": {
+                "1": 53,
+                "2": 48,
+                "3": 116,
+                "4": 164
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 673
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "113",
+            "candidates": {
+                "1": 42,
+                "2": 72,
+                "3": 114,
+                "4": 142
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 746
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "114",
+            "candidates": {
+                "1": 151,
+                "2": 58,
+                "3": 95,
+                "4": 31
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 579
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "115",
+            "candidates": {
+                "1": 20,
+                "2": 23,
+                "3": 41,
+                "4": 39
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 231
+        }
+    ]
+}

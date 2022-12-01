@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金發",
+            "party": "無"
+        },
+        "2": {
+            "name": "沈金錫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "貢寮區",
+            "cunli": "和美里",
+            "house_no": "2495",
+            "candidates": {
+                "1": 234,
+                "2": 79
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 471
+        },
+        {
+            "area": "貢寮區",
+            "cunli": "和美里",
+            "house_no": "2496",
+            "candidates": {
+                "1": 147,
+                "2": 73
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 452
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳春福",
+            "party": "無"
+        },
+        "2": {
+            "name": "周聰明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "力行里",
+            "house_no": "1364",
+            "candidates": {
+                "1": 313,
+                "2": 738
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1854
+        },
+        {
+            "area": "中和區",
+            "cunli": "力行里",
+            "house_no": "1365",
+            "candidates": {
+                "1": 372,
+                "2": 607
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1561
+        },
+        {
+            "area": "中和區",
+            "cunli": "力行里",
+            "house_no": "1366",
+            "candidates": {
+                "1": 286,
+                "2": 626
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1625
+        }
+    ]
+}

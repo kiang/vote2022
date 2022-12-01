@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黄翠華",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃明同",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "西橋里",
+            "house_no": "856",
+            "candidates": {
+                "1": 180,
+                "2": 297
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "永康區",
+            "cunli": "西橋里",
+            "house_no": "857",
+            "candidates": {
+                "1": 197,
+                "2": 341
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "永康區",
+            "cunli": "西橋里",
+            "house_no": "858",
+            "candidates": {
+                "1": 184,
+                "2": 314
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 964
+        }
+    ]
+}

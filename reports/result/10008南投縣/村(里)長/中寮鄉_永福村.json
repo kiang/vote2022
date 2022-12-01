@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張彩琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "田坤發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中寮鄉",
+            "cunli": "永福村",
+            "house_no": "369",
+            "candidates": {
+                "1": 106,
+                "2": 121
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 306
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永福村",
+            "house_no": "370",
+            "candidates": {
+                "1": 395,
+                "2": 313
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 981
+        }
+    ]
+}

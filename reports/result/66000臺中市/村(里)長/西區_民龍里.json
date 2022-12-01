@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳國楨",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "民龍里",
+            "house_no": "1324",
+            "candidates": {
+                "1": 475
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "西區",
+            "cunli": "民龍里",
+            "house_no": "1325",
+            "candidates": {
+                "1": 646
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1346
+        },
+        {
+            "area": "西區",
+            "cunli": "民龍里",
+            "house_no": "1326",
+            "candidates": {
+                "1": 413
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 929
+        }
+    ]
+}

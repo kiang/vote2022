@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯美惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "姜豊田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "振興里",
+            "house_no": "981",
+            "candidates": {
+                "1": 342,
+                "2": 156
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 875
+        },
+        {
+            "area": "北區",
+            "cunli": "振興里",
+            "house_no": "982",
+            "candidates": {
+                "1": 391,
+                "2": 97
+            },
+            "count_wrong": 35,
+            "count_unused": 1,
+            "count_total": 965
+        }
+    ]
+}

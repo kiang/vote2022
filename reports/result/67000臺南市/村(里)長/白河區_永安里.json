@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉辛芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "永安里",
+            "house_no": "32",
+            "candidates": {
+                "1": 377
+            },
+            "count_wrong": 82,
+            "count_unused": 1,
+            "count_total": 805
+        },
+        {
+            "area": "白河區",
+            "cunli": "永安里",
+            "house_no": "33",
+            "candidates": {
+                "1": 409
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 937
+        },
+        {
+            "area": "白河區",
+            "cunli": "永安里",
+            "house_no": "34",
+            "candidates": {
+                "1": 480
+            },
+            "count_wrong": 117,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

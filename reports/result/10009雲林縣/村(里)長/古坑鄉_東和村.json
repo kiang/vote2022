@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳爵忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "高榮淇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "東和村",
+            "house_no": "593",
+            "candidates": {
+                "1": 297,
+                "2": 274
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 897
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "東和村",
+            "house_no": "594",
+            "candidates": {
+                "1": 378,
+                "2": 305
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "東和村",
+            "house_no": "595",
+            "candidates": {
+                "1": 267,
+                "2": 302
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1009
+        }
+    ]
+}

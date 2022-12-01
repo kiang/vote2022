@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳雋發",
+            "party": "無"
+        },
+        "2": {
+            "name": "林坤鎮",
+            "party": "無"
+        },
+        "3": {
+            "name": "林俊欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "七張里",
+            "house_no": "54",
+            "candidates": {
+                "1": 141,
+                "2": 228,
+                "3": 145
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 733
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "七張里",
+            "house_no": "55",
+            "candidates": {
+                "1": 213,
+                "2": 131,
+                "3": 80
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 659
+        }
+    ]
+}

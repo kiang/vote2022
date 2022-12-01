@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李裕驊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "永昌村",
+            "house_no": "609",
+            "candidates": {
+                "1": 610
+            },
+            "count_wrong": 70,
+            "count_unused": 1,
+            "count_total": 1054
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "永昌村",
+            "house_no": "610",
+            "candidates": {
+                "1": 550
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 908
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘宮立",
+            "party": "無"
+        },
+        "2": {
+            "name": "田吳綉花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "泰山村",
+            "house_no": "402",
+            "candidates": {
+                "1": 276,
+                "2": 315
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 855
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "泰山村",
+            "house_no": "403",
+            "candidates": {
+                "1": 298,
+                "2": 324
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 898
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明澤",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾濬",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "林賢錡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "景美里",
+            "house_no": "1590",
+            "candidates": {
+                "1": 232,
+                "2": 291,
+                "3": 346
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1350
+        },
+        {
+            "area": "文山區",
+            "cunli": "景美里",
+            "house_no": "1591",
+            "candidates": {
+                "1": 151,
+                "2": 349,
+                "3": 336
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1259
+        },
+        {
+            "area": "文山區",
+            "cunli": "景美里",
+            "house_no": "1592",
+            "candidates": {
+                "1": 113,
+                "2": 340,
+                "3": 454
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1341
+        }
+    ]
+}

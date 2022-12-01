@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李芳美",
+            "party": "無"
+        },
+        "2": {
+            "name": "張帛絃",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "保庄里",
+            "house_no": "509",
+            "candidates": {
+                "1": 475,
+                "2": 379
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1419
+        },
+        {
+            "area": "斗六市",
+            "cunli": "保庄里",
+            "house_no": "510",
+            "candidates": {
+                "1": 460,
+                "2": 445
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "斗六市",
+            "cunli": "保庄里",
+            "house_no": "511",
+            "candidates": {
+                "1": 382,
+                "2": 357
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "斗六市",
+            "cunli": "保庄里",
+            "house_no": "512",
+            "candidates": {
+                "1": 425,
+                "2": 378
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1251
+        }
+    ]
+}

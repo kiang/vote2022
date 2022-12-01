@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂峻安",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "高明里",
+            "house_no": "410",
+            "candidates": {
+                "1": 674
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1305
+        },
+        {
+            "area": "八德區",
+            "cunli": "高明里",
+            "house_no": "411",
+            "candidates": {
+                "1": 496
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "八德區",
+            "cunli": "高明里",
+            "house_no": "412",
+            "candidates": {
+                "1": 604
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1250
+        }
+    ]
+}

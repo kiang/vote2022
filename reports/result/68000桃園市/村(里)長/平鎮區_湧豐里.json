@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳上建",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "湧豐里",
+            "house_no": "999",
+            "candidates": {
+                "1": 462
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "湧豐里",
+            "house_no": "1000",
+            "candidates": {
+                "1": 454
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 797
+        }
+    ]
+}

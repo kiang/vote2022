@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳世明",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張新郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "龍洲里",
+            "house_no": "1027",
+            "candidates": {
+                "1": 425,
+                "2": 218
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "中山區",
+            "cunli": "龍洲里",
+            "house_no": "1028",
+            "candidates": {
+                "1": 406,
+                "2": 277
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "中山區",
+            "cunli": "龍洲里",
+            "house_no": "1029",
+            "candidates": {
+                "1": 369,
+                "2": 287
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "中山區",
+            "cunli": "龍洲里",
+            "house_no": "1030",
+            "candidates": {
+                "1": 424,
+                "2": 326
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1091
+        }
+    ]
+}

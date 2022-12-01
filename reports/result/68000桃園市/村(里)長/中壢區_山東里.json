@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉來發",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳振槖",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝夆林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "山東里",
+            "house_no": "955",
+            "candidates": {
+                "1": 273,
+                "2": 207,
+                "3": 297
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "中壢區",
+            "cunli": "山東里",
+            "house_no": "956",
+            "candidates": {
+                "1": 309,
+                "2": 326,
+                "3": 179
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1242
+        },
+        {
+            "area": "中壢區",
+            "cunli": "山東里",
+            "house_no": "957",
+            "candidates": {
+                "1": 331,
+                "2": 266,
+                "3": 136
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1175
+        }
+    ]
+}

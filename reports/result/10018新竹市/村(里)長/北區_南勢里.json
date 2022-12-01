@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭文銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂榮華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "南勢里",
+            "house_no": "191",
+            "candidates": {
+                "1": 366,
+                "2": 292
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "北區",
+            "cunli": "南勢里",
+            "house_no": "192",
+            "candidates": {
+                "1": 391,
+                "2": 273
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "北區",
+            "cunli": "南勢里",
+            "house_no": "193",
+            "candidates": {
+                "1": 470,
+                "2": 315
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "北區",
+            "cunli": "南勢里",
+            "house_no": "195",
+            "candidates": {
+                "1": 260,
+                "2": 188
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 757
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭築煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭昆財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "城北里",
+            "house_no": "792",
+            "candidates": {
+                "1": 165,
+                "2": 469
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "安南區",
+            "cunli": "城北里",
+            "house_no": "793",
+            "candidates": {
+                "1": 147,
+                "2": 297
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 637
+        }
+    ]
+}

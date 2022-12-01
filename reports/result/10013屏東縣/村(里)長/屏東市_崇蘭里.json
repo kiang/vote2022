@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴榮彬",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "李進鐘",
+            "party": "無"
+        },
+        "3": {
+            "name": "張志維",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "崇蘭里",
+            "house_no": "90",
+            "candidates": {
+                "1": 295,
+                "2": 254,
+                "3": 197
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1354
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇蘭里",
+            "house_no": "91",
+            "candidates": {
+                "1": 232,
+                "2": 156,
+                "3": 244
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇蘭里",
+            "house_no": "92",
+            "candidates": {
+                "1": 300,
+                "2": 222,
+                "3": 181
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇蘭里",
+            "house_no": "93",
+            "candidates": {
+                "1": 296,
+                "2": 240,
+                "3": 200
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1331
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇蘭里",
+            "house_no": "94",
+            "candidates": {
+                "1": 357,
+                "2": 173,
+                "3": 178
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1240
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇蘭里",
+            "house_no": "95",
+            "candidates": {
+                "1": 411,
+                "2": 148,
+                "3": 122
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1272
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳洺豐",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳明宗",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "富民里",
+            "house_no": "247",
+            "candidates": {
+                "1": 276,
+                "2": 375
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "七堵區",
+            "cunli": "富民里",
+            "house_no": "248",
+            "candidates": {
+                "1": 355,
+                "2": 393
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "七堵區",
+            "cunli": "富民里",
+            "house_no": "249",
+            "candidates": {
+                "1": 278,
+                "2": 411
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1103
+        }
+    ]
+}

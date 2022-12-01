@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張澱濱",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭玉盆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "瓦北村",
+            "house_no": "746",
+            "candidates": {
+                "1": 170,
+                "2": 248
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 585
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "瓦北村",
+            "house_no": "747",
+            "candidates": {
+                "1": 295,
+                "2": 439
+            },
+            "count_wrong": 17,
+            "count_unused": 2,
+            "count_total": 1107
+        }
+    ]
+}

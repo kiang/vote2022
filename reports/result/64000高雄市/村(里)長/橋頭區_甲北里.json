@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張原瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "李林足素",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "甲北里",
+            "house_no": "450",
+            "candidates": {
+                "1": 322,
+                "2": 342
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "甲北里",
+            "house_no": "451",
+            "candidates": {
+                "1": 263,
+                "2": 406
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1248
+        }
+    ]
+}

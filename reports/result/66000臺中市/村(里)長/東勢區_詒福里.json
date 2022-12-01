@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉德興",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴素華",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭丞漢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "詒福里",
+            "house_no": "1794",
+            "candidates": {
+                "1": 212,
+                "2": 112,
+                "3": 270
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "東勢區",
+            "cunli": "詒福里",
+            "house_no": "1795",
+            "candidates": {
+                "1": 146,
+                "2": 84,
+                "3": 195
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 685
+        }
+    ]
+}

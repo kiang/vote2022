@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉玲瑜",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝岳錡",
+            "party": "無"
+        },
+        "3": {
+            "name": "李宜蓁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "糖廍里",
+            "house_no": "1298",
+            "candidates": {
+                "1": 431,
+                "2": 118,
+                "3": 222
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "萬華區",
+            "cunli": "糖廍里",
+            "house_no": "1299",
+            "candidates": {
+                "1": 293,
+                "2": 166,
+                "3": 284
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "萬華區",
+            "cunli": "糖廍里",
+            "house_no": "1300",
+            "candidates": {
+                "1": 252,
+                "2": 263,
+                "3": 233
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "萬華區",
+            "cunli": "糖廍里",
+            "house_no": "1301",
+            "candidates": {
+                "1": 351,
+                "2": 120,
+                "3": 258
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1044
+        }
+    ]
+}

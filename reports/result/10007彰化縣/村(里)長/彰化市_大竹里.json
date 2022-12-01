@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳朝琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳長春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "大竹里",
+            "house_no": "181",
+            "candidates": {
+                "1": 393,
+                "2": 208
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "彰化市",
+            "cunli": "大竹里",
+            "house_no": "182",
+            "candidates": {
+                "1": 377,
+                "2": 284
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "彰化市",
+            "cunli": "大竹里",
+            "house_no": "183",
+            "candidates": {
+                "1": 344,
+                "2": 277
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1074
+        }
+    ]
+}

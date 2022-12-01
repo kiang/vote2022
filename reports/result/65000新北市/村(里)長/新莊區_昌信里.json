@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯明啓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "昌信里",
+            "house_no": "422",
+            "candidates": {
+                "1": 531
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌信里",
+            "house_no": "423",
+            "candidates": {
+                "1": 467
+            },
+            "count_wrong": 53,
+            "count_unused": 1,
+            "count_total": 922
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌信里",
+            "house_no": "424",
+            "candidates": {
+                "1": 529
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1079
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張擎",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王雅蘭",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳堃信",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "建國里",
+            "house_no": "25",
+            "candidates": {
+                "1": 153,
+                "2": 396,
+                "3": 125
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "中正區",
+            "cunli": "建國里",
+            "house_no": "26",
+            "candidates": {
+                "1": 120,
+                "2": 265,
+                "3": 121
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 798
+        }
+    ]
+}

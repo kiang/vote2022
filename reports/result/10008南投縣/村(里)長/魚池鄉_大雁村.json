@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉建興",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秋坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "大雁村",
+            "house_no": "394",
+            "candidates": {
+                "1": 119,
+                "2": 55
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 260
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "大雁村",
+            "house_no": "395",
+            "candidates": {
+                "1": 95,
+                "2": 125
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 330
+        }
+    ]
+}

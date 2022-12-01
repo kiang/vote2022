@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李貞儀",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡義雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "三民里",
+            "house_no": "170",
+            "candidates": {
+                "1": 234,
+                "2": 492
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "安樂區",
+            "cunli": "三民里",
+            "house_no": "171",
+            "candidates": {
+                "1": 252,
+                "2": 493
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1221
+        }
+    ]
+}

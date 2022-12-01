@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游孟哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾南國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "10",
+            "candidates": {
+                "1": 244,
+                "2": 347
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "11",
+            "candidates": {
+                "1": 204,
+                "2": 346
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "12",
+            "candidates": {
+                "1": 262,
+                "2": 359
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "思源里",
+            "house_no": "13",
+            "candidates": {
+                "1": 222,
+                "2": 415
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1081
+        }
+    ]
+}

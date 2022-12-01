@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊守義",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文印",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永安區",
+            "cunli": "保寧里",
+            "house_no": "277",
+            "candidates": {
+                "1": 444,
+                "2": 462
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "永安區",
+            "cunli": "保寧里",
+            "house_no": "278",
+            "candidates": {
+                "1": 360,
+                "2": 397
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李志文",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳明信",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳文生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "龍潭村",
+            "house_no": "242",
+            "candidates": {
+                "1": 357,
+                "2": 196,
+                "3": 190
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1034
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "龍潭村",
+            "house_no": "243",
+            "candidates": {
+                "1": 434,
+                "2": 236,
+                "3": 181
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1211
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "龍潭村",
+            "house_no": "244",
+            "candidates": {
+                "1": 296,
+                "2": 253,
+                "3": 163
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1036
+        }
+    ]
+}

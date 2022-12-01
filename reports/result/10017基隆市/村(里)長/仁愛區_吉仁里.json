@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振宗",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "李建德",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉世垚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "吉仁里",
+            "house_no": "98",
+            "candidates": {
+                "1": 222,
+                "2": 440,
+                "3": 65
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "吉仁里",
+            "house_no": "99",
+            "candidates": {
+                "1": 210,
+                "2": 428,
+                "3": 55
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1202
+        }
+    ]
+}

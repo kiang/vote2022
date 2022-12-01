@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳星宏",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "范振乾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芎林鄉",
+            "cunli": "華龍村",
+            "house_no": "374",
+            "candidates": {
+                "1": 215,
+                "2": 50
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 360
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "五龍村",
+            "house_no": "375",
+            "candidates": {
+                "1": 305,
+                "2": 92
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 470
+        },
+        {
+            "area": "芎林鄉",
+            "cunli": "秀湖村",
+            "house_no": "376",
+            "candidates": {
+                "1": 403,
+                "2": 129
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 893
+        }
+    ]
+}

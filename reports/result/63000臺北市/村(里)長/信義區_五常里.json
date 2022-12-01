@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃河村",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳勇誠",
+            "party": "無"
+        },
+        "3": {
+            "name": "游育靖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "五常里",
+            "house_no": "773",
+            "candidates": {
+                "1": 279,
+                "2": 71,
+                "3": 255
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "信義區",
+            "cunli": "五常里",
+            "house_no": "774",
+            "candidates": {
+                "1": 233,
+                "2": 73,
+                "3": 315
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "信義區",
+            "cunli": "五常里",
+            "house_no": "775",
+            "candidates": {
+                "1": 318,
+                "2": 68,
+                "3": 273
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 991
+        }
+    ]
+}

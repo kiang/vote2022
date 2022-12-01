@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉宗益",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡福來",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴秀絨",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "松光里",
+            "house_no": "814",
+            "candidates": {
+                "1": 37,
+                "2": 354,
+                "3": 203
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "信義區",
+            "cunli": "松光里",
+            "house_no": "815",
+            "candidates": {
+                "1": 45,
+                "2": 364,
+                "3": 226
+            },
+            "count_wrong": 25,
+            "count_unused": 3,
+            "count_total": 1004
+        },
+        {
+            "area": "信義區",
+            "cunli": "松光里",
+            "house_no": "816",
+            "candidates": {
+                "1": 36,
+                "2": 347,
+                "3": 232
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "信義區",
+            "cunli": "松光里",
+            "house_no": "817",
+            "candidates": {
+                "1": 49,
+                "2": 397,
+                "3": 211
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

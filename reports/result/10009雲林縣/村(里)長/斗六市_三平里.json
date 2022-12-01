@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃玉昭",
+            "party": "無"
+        },
+        "2": {
+            "name": "江永清",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "三平里",
+            "house_no": "463",
+            "candidates": {
+                "1": 406,
+                "2": 502
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 1582
+        },
+        {
+            "area": "斗六市",
+            "cunli": "三平里",
+            "house_no": "464",
+            "candidates": {
+                "1": 316,
+                "2": 411
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "斗六市",
+            "cunli": "三平里",
+            "house_no": "465",
+            "candidates": {
+                "1": 205,
+                "2": 295
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 787
+        },
+        {
+            "area": "斗六市",
+            "cunli": "三平里",
+            "house_no": "466",
+            "candidates": {
+                "1": 379,
+                "2": 267
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1030
+        }
+    ]
+}

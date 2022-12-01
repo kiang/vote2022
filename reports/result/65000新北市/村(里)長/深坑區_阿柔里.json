@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳錦煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅定國",
+            "party": "無"
+        },
+        "3": {
+            "name": "許智超",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "深坑區",
+            "cunli": "阿柔里",
+            "house_no": "2373",
+            "candidates": {
+                "1": 60,
+                "2": 174,
+                "3": 158
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 544
+        }
+    ]
+}

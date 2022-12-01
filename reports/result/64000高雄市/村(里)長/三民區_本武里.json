@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳阿吉",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林輝桓",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡天和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "本武里",
+            "house_no": "1038",
+            "candidates": {
+                "1": 294,
+                "2": 126,
+                "3": 70
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 798
+        },
+        {
+            "area": "三民區",
+            "cunli": "本武里",
+            "house_no": "1039",
+            "candidates": {
+                "1": 193,
+                "2": 65,
+                "3": 108
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 660
+        }
+    ]
+}

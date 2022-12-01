@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "唐國榮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "夏啟業",
+            "party": "無"
+        },
+        "3": {
+            "name": "石淑貞",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "任天霸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶盛里",
+            "house_no": "1086",
+            "candidates": {
+                "1": 151,
+                "2": 124,
+                "3": 314,
+                "4": 352
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1544
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶盛里",
+            "house_no": "1087",
+            "candidates": {
+                "1": 111,
+                "2": 118,
+                "3": 229,
+                "4": 291
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶盛里",
+            "house_no": "1088",
+            "candidates": {
+                "1": 72,
+                "2": 208,
+                "3": 205,
+                "4": 433
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1633
+        }
+    ]
+}

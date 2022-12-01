@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施天賜",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "姚國光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "玫瑰里",
+            "house_no": "2325",
+            "candidates": {
+                "1": 321,
+                "2": 288
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "新店區",
+            "cunli": "玫瑰里",
+            "house_no": "2326",
+            "candidates": {
+                "1": 405,
+                "2": 250
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "新店區",
+            "cunli": "玫瑰里",
+            "house_no": "2327",
+            "candidates": {
+                "1": 334,
+                "2": 336
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "新店區",
+            "cunli": "玫瑰里",
+            "house_no": "2328",
+            "candidates": {
+                "1": 450,
+                "2": 429
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1519
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明松",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭吉祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "舊佳里",
+            "house_no": "187",
+            "candidates": {
+                "1": 512,
+                "2": 332
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "士林區",
+            "cunli": "舊佳里",
+            "house_no": "188",
+            "candidates": {
+                "1": 371,
+                "2": 368
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "士林區",
+            "cunli": "舊佳里",
+            "house_no": "189",
+            "candidates": {
+                "1": 580,
+                "2": 359
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "士林區",
+            "cunli": "舊佳里",
+            "house_no": "190",
+            "candidates": {
+                "1": 442,
+                "2": 332
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

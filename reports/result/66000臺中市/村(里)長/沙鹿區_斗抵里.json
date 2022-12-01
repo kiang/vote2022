@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳維銓",
+            "party": "無"
+        },
+        "2": {
+            "name": "王宏書",
+            "party": "無"
+        },
+        "3": {
+            "name": "何杏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "斗抵里",
+            "house_no": "211",
+            "candidates": {
+                "1": 180,
+                "2": 343,
+                "3": 235
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1086
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "斗抵里",
+            "house_no": "212",
+            "candidates": {
+                "1": 129,
+                "2": 267,
+                "3": 230
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "斗抵里",
+            "house_no": "213",
+            "candidates": {
+                "1": 96,
+                "2": 424,
+                "3": 390
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "斗抵里",
+            "house_no": "214",
+            "candidates": {
+                "1": 98,
+                "2": 308,
+                "3": 194
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

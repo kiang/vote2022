@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林辛福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王金堂",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "劉邦柱",
+            "party": "無"
+        },
+        "4": {
+            "name": "宋秋竹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "本安里",
+            "house_no": "1044",
+            "candidates": {
+                "1": 333,
+                "2": 253,
+                "3": 130,
+                "4": 98
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1386
+        },
+        {
+            "area": "三民區",
+            "cunli": "本安里",
+            "house_no": "1045",
+            "candidates": {
+                "1": 327,
+                "2": 233,
+                "3": 94,
+                "4": 55
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1280
+        },
+        {
+            "area": "三民區",
+            "cunli": "本安里",
+            "house_no": "1046",
+            "candidates": {
+                "1": 238,
+                "2": 300,
+                "3": 178,
+                "4": 53
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1363
+        }
+    ]
+}

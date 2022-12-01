@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林炳儀",
+            "party": "無"
+        },
+        "2": {
+            "name": "何俊億",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "城隍里",
+            "house_no": "1425",
+            "candidates": {
+                "1": 389,
+                "2": 263
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1070
+        },
+        {
+            "area": "南區",
+            "cunli": "城隍里",
+            "house_no": "1426",
+            "candidates": {
+                "1": 414,
+                "2": 278
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "南區",
+            "cunli": "城隍里",
+            "house_no": "1427",
+            "candidates": {
+                "1": 380,
+                "2": 259
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

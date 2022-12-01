@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃國輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "溪州里",
+            "house_no": "1980",
+            "candidates": {
+                "1": 676
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "林園區",
+            "cunli": "溪州里",
+            "house_no": "1981",
+            "candidates": {
+                "1": 595
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 1213
+        },
+        {
+            "area": "林園區",
+            "cunli": "溪州里",
+            "house_no": "1982",
+            "candidates": {
+                "1": 708
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1490
+        }
+    ]
+}

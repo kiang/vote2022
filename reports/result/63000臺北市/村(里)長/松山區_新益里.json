@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王敏茹",
+            "party": "無"
+        },
+        "2": {
+            "name": "諸葛芬",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "葉美淑",
+            "party": "無"
+        },
+        "4": {
+            "name": "林寶錢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "新益里",
+            "house_no": "610",
+            "candidates": {
+                "1": 408,
+                "2": 229,
+                "3": 164,
+                "4": 58
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "松山區",
+            "cunli": "新益里",
+            "house_no": "611",
+            "candidates": {
+                "1": 359,
+                "2": 257,
+                "3": 167,
+                "4": 74
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "松山區",
+            "cunli": "新益里",
+            "house_no": "612",
+            "candidates": {
+                "1": 331,
+                "2": 234,
+                "3": 192,
+                "4": 56
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1152
+        }
+    ]
+}

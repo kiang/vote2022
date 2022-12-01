@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許鈞翔",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉榮堂",
+            "party": "無"
+        },
+        "3": {
+            "name": "李佳惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "中港里",
+            "house_no": "315",
+            "candidates": {
+                "1": 236,
+                "2": 223,
+                "3": 235
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1037
+        }
+    ]
+}

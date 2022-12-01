@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳仕宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳楊月琴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "瑞德里",
+            "house_no": "903",
+            "candidates": {
+                "1": 377,
+                "2": 258
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "三重區",
+            "cunli": "瑞德里",
+            "house_no": "904",
+            "candidates": {
+                "1": 455,
+                "2": 256
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1060
+        }
+    ]
+}

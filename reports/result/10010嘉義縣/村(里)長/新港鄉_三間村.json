@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許永鋐",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭金修",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新港鄉",
+            "cunli": "三間村",
+            "house_no": "187",
+            "candidates": {
+                "1": 177,
+                "2": 238
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 576
+        },
+        {
+            "area": "新港鄉",
+            "cunli": "三間村",
+            "house_no": "188",
+            "candidates": {
+                "1": 309,
+                "2": 351
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 855
+        }
+    ]
+}

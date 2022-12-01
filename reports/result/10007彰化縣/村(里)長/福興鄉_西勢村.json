@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳琬美",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "西勢村",
+            "house_no": "330",
+            "candidates": {
+                "1": 366,
+                "2": 188
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 838
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "西勢村",
+            "house_no": "331",
+            "candidates": {
+                "1": 390,
+                "2": 219
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 979
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡天國",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "江清輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "胡淑貞",
+            "party": "無"
+        },
+        "4": {
+            "name": "拉尼琥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "海端鄉",
+            "cunli": "加拿村",
+            "house_no": "209",
+            "candidates": {
+                "1": 21,
+                "2": 93,
+                "3": 209,
+                "4": 14
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 483
+        },
+        {
+            "area": "海端鄉",
+            "cunli": "崁頂村",
+            "house_no": "210",
+            "candidates": {
+                "1": 156,
+                "2": 64,
+                "3": 110,
+                "4": 62
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 579
+        }
+    ]
+}

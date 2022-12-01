@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許玉屏",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂文雄",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "安寮里",
+            "house_no": "59",
+            "candidates": {
+                "1": 352,
+                "2": 357
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1352
+        },
+        {
+            "area": "東區",
+            "cunli": "安寮里",
+            "house_no": "60",
+            "candidates": {
+                "1": 357,
+                "2": 279
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1239
+        }
+    ]
+}

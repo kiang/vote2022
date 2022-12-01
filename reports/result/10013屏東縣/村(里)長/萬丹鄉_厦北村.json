@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭祐",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭宇城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦北村",
+            "house_no": "281",
+            "candidates": {
+                "1": 248,
+                "2": 371
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "萬丹鄉",
+            "cunli": "厦北村",
+            "house_no": "282",
+            "candidates": {
+                "1": 267,
+                "2": 299
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 712
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張淑玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "董建林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "252",
+            "candidates": {
+                "1": 114,
+                "2": 414
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "253",
+            "candidates": {
+                "1": 145,
+                "2": 492
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "254",
+            "candidates": {
+                "1": 107,
+                "2": 344
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 805
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "255",
+            "candidates": {
+                "1": 90,
+                "2": 320
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 698
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "埔崙里",
+            "house_no": "256",
+            "candidates": {
+                "1": 136,
+                "2": 678
+            },
+            "count_wrong": 48,
+            "count_unused": 2,
+            "count_total": 1364
+        }
+    ]
+}

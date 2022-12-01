@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李福源",
+            "party": "無"
+        },
+        "2": {
+            "name": "張煌盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "日和里",
+            "house_no": "1962",
+            "candidates": {
+                "1": 582,
+                "2": 444
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1737
+        },
+        {
+            "area": "土城區",
+            "cunli": "日和里",
+            "house_no": "1963",
+            "candidates": {
+                "1": 462,
+                "2": 501
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1636
+        },
+        {
+            "area": "土城區",
+            "cunli": "日和里",
+            "house_no": "1964",
+            "candidates": {
+                "1": 416,
+                "2": 414
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1457
+        },
+        {
+            "area": "土城區",
+            "cunli": "日和里",
+            "house_no": "1965",
+            "candidates": {
+                "1": 386,
+                "2": 326
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1193
+        }
+    ]
+}

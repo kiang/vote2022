@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施永泉",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊芊華",
+            "party": "無"
+        },
+        "3": {
+            "name": "連圀堂",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "四育里",
+            "house_no": "786",
+            "candidates": {
+                "1": 109,
+                "2": 260,
+                "3": 345
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "信義區",
+            "cunli": "四育里",
+            "house_no": "787",
+            "candidates": {
+                "1": 117,
+                "2": 280,
+                "3": 360
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "信義區",
+            "cunli": "四育里",
+            "house_no": "788",
+            "candidates": {
+                "1": 126,
+                "2": 209,
+                "3": 457
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "信義區",
+            "cunli": "四育里",
+            "house_no": "789",
+            "candidates": {
+                "1": 99,
+                "2": 290,
+                "3": 380
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1169
+        }
+    ]
+}

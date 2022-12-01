@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林俊德",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝孟翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "七堵區",
+            "cunli": "堵北里",
+            "house_no": "266",
+            "candidates": {
+                "1": 393,
+                "2": 627
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1734
+        },
+        {
+            "area": "七堵區",
+            "cunli": "堵北里",
+            "house_no": "267",
+            "candidates": {
+                "1": 412,
+                "2": 602
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1760
+        }
+    ]
+}

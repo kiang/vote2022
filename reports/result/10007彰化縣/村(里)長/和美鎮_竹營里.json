@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃耀博",
+            "party": "無"
+        },
+        "2": {
+            "name": "王金英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "竹營里",
+            "house_no": "389",
+            "candidates": {
+                "1": 191,
+                "2": 482
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1250
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "竹營里",
+            "house_no": "390",
+            "candidates": {
+                "1": 192,
+                "2": 411
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "竹營里",
+            "house_no": "391",
+            "candidates": {
+                "1": 181,
+                "2": 492
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "竹營里",
+            "house_no": "392",
+            "candidates": {
+                "1": 173,
+                "2": 452
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "竹營里",
+            "house_no": "393",
+            "candidates": {
+                "1": 223,
+                "2": 347
+            },
+            "count_wrong": 27,
+            "count_unused": 1,
+            "count_total": 1094
+        }
+    ]
+}

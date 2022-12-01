@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清月",
+            "party": "無"
+        },
+        "3": {
+            "name": "康天財",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "張榮典",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "內關帝里",
+            "house_no": "188",
+            "candidates": {
+                "1": 188,
+                "2": 148,
+                "3": 214,
+                "4": 234
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "內關帝里",
+            "house_no": "189",
+            "candidates": {
+                "1": 177,
+                "2": 142,
+                "3": 131,
+                "4": 159
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1000
+        }
+    ]
+}

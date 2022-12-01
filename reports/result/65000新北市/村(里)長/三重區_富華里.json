@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋美滿",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂子隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "富華里",
+            "house_no": "973",
+            "candidates": {
+                "1": 327,
+                "2": 435
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1327
+        },
+        {
+            "area": "三重區",
+            "cunli": "富華里",
+            "house_no": "974",
+            "candidates": {
+                "1": 467,
+                "2": 354
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1465
+        }
+    ]
+}

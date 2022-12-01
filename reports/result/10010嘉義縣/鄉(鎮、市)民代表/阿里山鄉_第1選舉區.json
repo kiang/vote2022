@@ -1,0 +1,98 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林清良",
+            "party": "無"
+        },
+        "2": {
+            "name": "汪之龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "石信忠",
+            "party": "無"
+        },
+        "4": {
+            "name": "梁宗賢",
+            "party": "無"
+        },
+        "5": {
+            "name": "薛文鎰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿里山鄉",
+            "cunli": "中山村",
+            "house_no": "520",
+            "candidates": {
+                "1": 151,
+                "2": 23
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 352
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "中正村",
+            "house_no": "521",
+            "candidates": {
+                "1": 62,
+                "2": 17
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 168
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "香林村",
+            "house_no": "522",
+            "candidates": {
+                "1": 57,
+                "2": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 126
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "十字村",
+            "house_no": "523",
+            "candidates": {
+                "1": 37,
+                "2": 80
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 225
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "十字村",
+            "house_no": "524",
+            "candidates": {
+                "1": 3,
+                "2": 24
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 76
+        },
+        {
+            "area": "阿里山鄉",
+            "cunli": "豐山村",
+            "house_no": "525",
+            "candidates": {
+                "1": 145,
+                "2": 34
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 287
+        }
+    ]
+}

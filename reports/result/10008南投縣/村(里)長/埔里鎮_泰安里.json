@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李嘉琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋梓賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "泰安里",
+            "house_no": "115",
+            "candidates": {
+                "1": 151,
+                "2": 532
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "泰安里",
+            "house_no": "116",
+            "candidates": {
+                "1": 117,
+                "2": 500
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 976
+        }
+    ]
+}

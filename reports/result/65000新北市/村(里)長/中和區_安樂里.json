@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂福來",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "安樂里",
+            "house_no": "1564",
+            "candidates": {
+                "1": 562
+            },
+            "count_wrong": 184,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "中和區",
+            "cunli": "安樂里",
+            "house_no": "1565",
+            "candidates": {
+                "1": 438
+            },
+            "count_wrong": 106,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "中和區",
+            "cunli": "安樂里",
+            "house_no": "1566",
+            "candidates": {
+                "1": 492
+            },
+            "count_wrong": 107,
+            "count_unused": 0,
+            "count_total": 960
+        }
+    ]
+}

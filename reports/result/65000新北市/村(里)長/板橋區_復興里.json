@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "丁祥豪",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭宗輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "復興里",
+            "house_no": "1311",
+            "candidates": {
+                "1": 89,
+                "2": 128
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 336
+        },
+        {
+            "area": "板橋區",
+            "cunli": "復興里",
+            "house_no": "1312",
+            "candidates": {
+                "1": 140,
+                "2": 175
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 466
+        }
+    ]
+}

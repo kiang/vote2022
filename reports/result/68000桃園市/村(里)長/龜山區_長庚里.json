@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王家一",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳元信",
+            "party": "無"
+        },
+        "3": {
+            "name": "林俊源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "長庚里",
+            "house_no": "309",
+            "candidates": {
+                "1": 208,
+                "2": 53,
+                "3": 442
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1378
+        },
+        {
+            "area": "龜山區",
+            "cunli": "長庚里",
+            "house_no": "310",
+            "candidates": {
+                "1": 276,
+                "2": 41,
+                "3": 447
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "龜山區",
+            "cunli": "長庚里",
+            "house_no": "311",
+            "candidates": {
+                "1": 358,
+                "2": 26,
+                "3": 499
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1718
+        }
+    ]
+}

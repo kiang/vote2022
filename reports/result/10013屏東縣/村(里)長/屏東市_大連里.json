@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "董憲坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "大連里",
+            "house_no": "14",
+            "candidates": {
+                "1": 619
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1239
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大連里",
+            "house_no": "15",
+            "candidates": {
+                "1": 620
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1293
+        },
+        {
+            "area": "屏東市",
+            "cunli": "大連里",
+            "house_no": "16",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1413
+        }
+    ]
+}

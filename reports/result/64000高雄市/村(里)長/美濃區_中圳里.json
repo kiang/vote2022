@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃其添",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃淨枝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "中圳里",
+            "house_no": "117",
+            "candidates": {
+                "1": 398,
+                "2": 227
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "美濃區",
+            "cunli": "中圳里",
+            "house_no": "118",
+            "candidates": {
+                "1": 349,
+                "2": 262
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 951
+        }
+    ]
+}

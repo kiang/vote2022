@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧蜀江",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "民族里",
+            "house_no": "1",
+            "candidates": {
+                "1": 547
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "民族里",
+            "house_no": "2",
+            "candidates": {
+                "1": 555
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 986
+        }
+    ]
+}

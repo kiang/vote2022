@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭珍珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "林靖惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "龍福里",
+            "house_no": "1170",
+            "candidates": {
+                "1": 303,
+                "2": 266
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍福里",
+            "house_no": "1171",
+            "candidates": {
+                "1": 388,
+                "2": 306
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍福里",
+            "house_no": "1172",
+            "candidates": {
+                "1": 286,
+                "2": 210
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 796
+        },
+        {
+            "area": "中正區",
+            "cunli": "龍福里",
+            "house_no": "1173",
+            "candidates": {
+                "1": 337,
+                "2": 307
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

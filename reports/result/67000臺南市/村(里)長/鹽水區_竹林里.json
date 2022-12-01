@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周忠信",
+            "party": "無"
+        },
+        "2": {
+            "name": "佘美卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊漢霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "竹林里",
+            "house_no": "111",
+            "candidates": {
+                "1": 144,
+                "2": 152,
+                "3": 194
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 692
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "竹林里",
+            "house_no": "112",
+            "candidates": {
+                "1": 51,
+                "2": 128,
+                "3": 48
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 324
+        }
+    ]
+}

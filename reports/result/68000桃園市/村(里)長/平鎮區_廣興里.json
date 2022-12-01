@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明香",
+            "party": "無"
+        },
+        "2": {
+            "name": "温秀英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "廣興里",
+            "house_no": "1011",
+            "candidates": {
+                "1": 444,
+                "2": 339
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣興里",
+            "house_no": "1012",
+            "candidates": {
+                "1": 400,
+                "2": 238
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣興里",
+            "house_no": "1013",
+            "candidates": {
+                "1": 581,
+                "2": 390
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1502
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "廣興里",
+            "house_no": "1014",
+            "candidates": {
+                "1": 508,
+                "2": 390
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1431
+        }
+    ]
+}

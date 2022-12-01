@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳璟祈",
+            "party": "無"
+        },
+        "2": {
+            "name": "林文明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "福安里",
+            "house_no": "111",
+            "candidates": {
+                "1": 505,
+                "2": 219
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "西區",
+            "cunli": "福安里",
+            "house_no": "112",
+            "candidates": {
+                "1": 425,
+                "2": 301
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "西區",
+            "cunli": "福安里",
+            "house_no": "113",
+            "candidates": {
+                "1": 480,
+                "2": 203
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1382
+        }
+    ]
+}

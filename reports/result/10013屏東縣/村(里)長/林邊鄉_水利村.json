@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張志陽",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭秉富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林邊鄉",
+            "cunli": "水利村",
+            "house_no": "579",
+            "candidates": {
+                "1": 333,
+                "2": 157
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 710
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "水利村",
+            "house_no": "580",
+            "candidates": {
+                "1": 456,
+                "2": 262
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

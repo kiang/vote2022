@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳乙諄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "謝富雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓溪鄉",
+            "cunli": "古風村",
+            "house_no": "330",
+            "candidates": {
+                "1": 111,
+                "2": 108
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 319
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "古風村",
+            "house_no": "331",
+            "candidates": {
+                "1": 212,
+                "2": 92
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 405
+        },
+        {
+            "area": "卓溪鄉",
+            "cunli": "古風村",
+            "house_no": "332",
+            "candidates": {
+                "1": 50,
+                "2": 63
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 173
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "董金廷",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳谷智",
+            "party": "無"
+        },
+        "3": {
+            "name": "周春典",
+            "party": "無"
+        },
+        "4": {
+            "name": "王家正",
+            "party": "民主進步黨"
+        },
+        "5": {
+            "name": "胡平讚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳冬鄉",
+            "cunli": "佳冬村",
+            "house_no": "595",
+            "candidates": {
+                "1": 206,
+                "2": 156,
+                "3": 52,
+                "4": 167,
+                "5": 174,
+                "6": 210
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1415
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "六根村",
+            "house_no": "596",
+            "candidates": {
+                "1": 189,
+                "2": 117,
+                "3": 52,
+                "4": 129,
+                "5": 180,
+                "6": 173
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "賴家村",
+            "house_no": "597",
+            "candidates": {
+                "1": 22,
+                "2": 130,
+                "3": 88,
+                "4": 159,
+                "5": 105,
+                "6": 52
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 722
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "萬建村",
+            "house_no": "598",
+            "candidates": {
+                "1": 167,
+                "2": 67,
+                "3": 8,
+                "4": 59,
+                "5": 50,
+                "6": 261
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 883
+        },
+        {
+            "area": "佳冬鄉",
+            "cunli": "萬建村",
+            "house_no": "599",
+            "candidates": {
+                "1": 95,
+                "2": 78,
+                "3": 25,
+                "4": 71,
+                "5": 91,
+                "6": 187
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 851
+        }
+    ]
+}

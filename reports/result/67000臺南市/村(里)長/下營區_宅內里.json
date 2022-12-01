@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾麗玉",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "曾進發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "宅內里",
+            "house_no": "368",
+            "candidates": {
+                "1": 137,
+                "2": 340
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 698
+        },
+        {
+            "area": "下營區",
+            "cunli": "宅內里",
+            "house_no": "369",
+            "candidates": {
+                "1": 167,
+                "2": 376
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 816
+        }
+    ]
+}

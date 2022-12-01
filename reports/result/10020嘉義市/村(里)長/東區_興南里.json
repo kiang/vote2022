@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "殷大為",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹瑞棠",
+            "party": "無"
+        },
+        "3": {
+            "name": "盧麗惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "興南里",
+            "house_no": "49",
+            "candidates": {
+                "1": 229,
+                "2": 78,
+                "3": 165
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "東區",
+            "cunli": "興南里",
+            "house_no": "50",
+            "candidates": {
+                "1": 197,
+                "2": 138,
+                "3": 115
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 743
+        }
+    ]
+}

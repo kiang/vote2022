@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林瓊菱",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃玉卿",
+            "party": "無"
+        },
+        "3": {
+            "name": "王婕伃",
+            "party": "無"
+        },
+        "4": {
+            "name": "張啓仲",
+            "party": "無"
+        },
+        "5": {
+            "name": "廖淑君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "錦華里",
+            "house_no": "8",
+            "candidates": {
+                "1": 41,
+                "2": 166,
+                "3": 66,
+                "4": 62,
+                "5": 83
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 706
+        },
+        {
+            "area": "東區",
+            "cunli": "錦華里",
+            "house_no": "9",
+            "candidates": {
+                "1": 54,
+                "2": 187,
+                "3": 158,
+                "4": 65,
+                "5": 188
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1079
+        }
+    ]
+}

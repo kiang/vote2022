@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王國在",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "文心里",
+            "house_no": "967",
+            "candidates": {
+                "1": 546
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "南屯區",
+            "cunli": "文心里",
+            "house_no": "968",
+            "candidates": {
+                "1": 596
+            },
+            "count_wrong": 151,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "南屯區",
+            "cunli": "文心里",
+            "house_no": "969",
+            "candidates": {
+                "1": 467
+            },
+            "count_wrong": 150,
+            "count_unused": 0,
+            "count_total": 1067
+        }
+    ]
+}

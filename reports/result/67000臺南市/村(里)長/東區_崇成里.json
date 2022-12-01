@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文進",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "崇成里",
+            "house_no": "1304",
+            "candidates": {
+                "1": 384
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "東區",
+            "cunli": "崇成里",
+            "house_no": "1305",
+            "candidates": {
+                "1": 427
+            },
+            "count_wrong": 128,
+            "count_unused": 0,
+            "count_total": 981
+        },
+        {
+            "area": "東區",
+            "cunli": "崇成里",
+            "house_no": "1306",
+            "candidates": {
+                "1": 360
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 845
+        }
+    ]
+}

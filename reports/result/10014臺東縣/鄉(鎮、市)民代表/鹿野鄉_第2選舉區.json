@@ -1,0 +1,87 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陽勝榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "李鴻斌",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳金花",
+            "party": "無"
+        },
+        "4": {
+            "name": "陽志明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞隆村",
+            "house_no": "145",
+            "candidates": {
+                "1": 60,
+                "2": 146,
+                "3": 175
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 593
+        },
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞源村",
+            "house_no": "146",
+            "candidates": {
+                "1": 55,
+                "2": 139,
+                "3": 126
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 484
+        },
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞和村",
+            "house_no": "147",
+            "candidates": {
+                "1": 118,
+                "2": 52,
+                "3": 43
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 301
+        },
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞豐村",
+            "house_no": "148",
+            "candidates": {
+                "1": 111,
+                "2": 52,
+                "3": 68
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 358
+        },
+        {
+            "area": "鹿野鄉",
+            "cunli": "瑞豐村",
+            "house_no": "149",
+            "candidates": {
+                "1": 89,
+                "2": 82,
+                "3": 118
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 418
+        }
+    ]
+}

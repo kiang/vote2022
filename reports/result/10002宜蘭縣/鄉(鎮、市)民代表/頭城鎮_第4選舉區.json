@@ -1,0 +1,146 @@
+{
+    "candidates": {
+        "1": {
+            "name": "尤瑞傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "王欣雅",
+            "party": "無"
+        },
+        "3": {
+            "name": "薛柏平",
+            "party": "無"
+        },
+        "4": {
+            "name": "薛柏新",
+            "party": "無"
+        },
+        "5": {
+            "name": "潘家萬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "石城里",
+            "house_no": "180",
+            "candidates": {
+                "1": 64,
+                "2": 16,
+                "3": 21,
+                "4": 126,
+                "5": 8
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 290
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "大里里",
+            "house_no": "181",
+            "candidates": {
+                "1": 204,
+                "2": 21,
+                "3": 65,
+                "4": 109,
+                "5": 12
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 653
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "龜山里",
+            "house_no": "182",
+            "candidates": {
+                "1": 38,
+                "2": 64,
+                "3": 297,
+                "4": 84,
+                "5": 47
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 677
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "大溪里",
+            "house_no": "183",
+            "candidates": {
+                "1": 126,
+                "2": 61,
+                "3": 218,
+                "4": 198,
+                "5": 23
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 846
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "合興里",
+            "house_no": "184",
+            "candidates": {
+                "1": 39,
+                "2": 11,
+                "3": 85,
+                "4": 82,
+                "5": 11
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 330
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "更新里",
+            "house_no": "185",
+            "candidates": {
+                "1": 77,
+                "2": 21,
+                "3": 118,
+                "4": 219,
+                "5": 10
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 614
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "更新里",
+            "house_no": "186",
+            "candidates": {
+                "1": 60,
+                "2": 16,
+                "3": 102,
+                "4": 280,
+                "5": 22
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 694
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "外澳里",
+            "house_no": "187",
+            "candidates": {
+                "1": 85,
+                "2": 60,
+                "3": 123,
+                "4": 328,
+                "5": 21
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 843
+        }
+    ]
+}

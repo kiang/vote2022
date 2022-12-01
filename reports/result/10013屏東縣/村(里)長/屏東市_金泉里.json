@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊美香",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃茂銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "林凱駖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "金泉里",
+            "house_no": "11",
+            "candidates": {
+                "1": 335,
+                "2": 129,
+                "3": 330
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1110
+        }
+    ]
+}

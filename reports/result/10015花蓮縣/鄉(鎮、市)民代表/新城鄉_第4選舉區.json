@@ -1,0 +1,330 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田金峰",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王聰山",
+            "party": "無"
+        },
+        "3": {
+            "name": "葛秋夫 Di‧Han‧Ulawer‧Panay",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "呂春美 Iku‧Karang",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "94",
+            "candidates": {
+                "1": 3,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 6
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新城村",
+            "house_no": "95",
+            "candidates": {
+                "1": 9,
+                "2": 2,
+                "3": 15,
+                "4": 21
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 72
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "順安村",
+            "house_no": "96",
+            "candidates": {
+                "1": 1,
+                "2": 1,
+                "3": 12,
+                "4": 18
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 46
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "順安村",
+            "house_no": "97",
+            "candidates": {
+                "1": 1,
+                "2": 0,
+                "3": 2,
+                "4": 6
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 19
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "98",
+            "candidates": {
+                "1": 14,
+                "2": 2,
+                "3": 22,
+                "4": 26
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 106
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "99",
+            "candidates": {
+                "1": 16,
+                "2": 5,
+                "3": 24,
+                "4": 28
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 162
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "康樂村",
+            "house_no": "100",
+            "candidates": {
+                "1": 15,
+                "2": 0,
+                "3": 23,
+                "4": 30
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 133
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "大漢村",
+            "house_no": "101",
+            "candidates": {
+                "1": 82,
+                "2": 11,
+                "3": 48,
+                "4": 101
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 420
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "大漢村",
+            "house_no": "102",
+            "candidates": {
+                "1": 52,
+                "2": 10,
+                "3": 30,
+                "4": 82
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 356
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "大漢村",
+            "house_no": "103",
+            "candidates": {
+                "1": 4,
+                "2": 1,
+                "3": 4,
+                "4": 4
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 33
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新秀村",
+            "house_no": "104",
+            "candidates": {
+                "1": 7,
+                "2": 7,
+                "3": 45,
+                "4": 33
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 171
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新秀村",
+            "house_no": "105",
+            "candidates": {
+                "1": 26,
+                "2": 15,
+                "3": 30,
+                "4": 46
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 209
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "106",
+            "candidates": {
+                "1": 10,
+                "2": 2,
+                "3": 35,
+                "4": 20
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 117
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "107",
+            "candidates": {
+                "1": 8,
+                "2": 10,
+                "3": 24,
+                "4": 23
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 137
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "北埔村",
+            "house_no": "108",
+            "candidates": {
+                "1": 24,
+                "2": 9,
+                "3": 20,
+                "4": 27
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 203
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "佳林村",
+            "house_no": "109",
+            "candidates": {
+                "1": 30,
+                "2": 5,
+                "3": 30,
+                "4": 35
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 165
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "110",
+            "candidates": {
+                "1": 12,
+                "2": 1,
+                "3": 13,
+                "4": 27
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 99
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "111",
+            "candidates": {
+                "1": 28,
+                "2": 2,
+                "3": 22,
+                "4": 41
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 165
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "112",
+            "candidates": {
+                "1": 23,
+                "2": 1,
+                "3": 26,
+                "4": 25
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 146
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉里村",
+            "house_no": "113",
+            "candidates": {
+                "1": 29,
+                "2": 2,
+                "3": 20,
+                "4": 33
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 225
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "114",
+            "candidates": {
+                "1": 74,
+                "2": 7,
+                "3": 19,
+                "4": 47
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 254
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "嘉新村",
+            "house_no": "115",
+            "candidates": {
+                "1": 40,
+                "2": 1,
+                "3": 3,
+                "4": 23
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 112
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝宿惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳榮瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "北汕里",
+            "house_no": "1999",
+            "candidates": {
+                "1": 158,
+                "2": 182
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 543
+        },
+        {
+            "area": "林園區",
+            "cunli": "北汕里",
+            "house_no": "2000",
+            "candidates": {
+                "1": 400,
+                "2": 213
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

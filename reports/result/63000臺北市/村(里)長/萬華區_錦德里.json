@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李念禧",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪啓敏",
+            "party": "無"
+        },
+        "3": {
+            "name": "林明華",
+            "party": "無"
+        },
+        "4": {
+            "name": "林育德",
+            "party": "無"
+        },
+        "5": {
+            "name": "張菀庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "錦德里",
+            "house_no": "1332",
+            "candidates": {
+                "1": 55,
+                "2": 160,
+                "3": 67,
+                "4": 151,
+                "5": 315
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "萬華區",
+            "cunli": "錦德里",
+            "house_no": "1333",
+            "candidates": {
+                "1": 98,
+                "2": 119,
+                "3": 39,
+                "4": 131,
+                "5": 354
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "萬華區",
+            "cunli": "錦德里",
+            "house_no": "1334",
+            "candidates": {
+                "1": 79,
+                "2": 171,
+                "3": 33,
+                "4": 98,
+                "5": 389
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "萬華區",
+            "cunli": "錦德里",
+            "house_no": "1335",
+            "candidates": {
+                "1": 67,
+                "2": 160,
+                "3": 23,
+                "4": 122,
+                "5": 336
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1028
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳俊宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳進財",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄒秋蓮",
+            "party": "無"
+        },
+        "4": {
+            "name": "梁德仁",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "豐山村",
+            "house_no": "207",
+            "candidates": {
+                "1": 84,
+                "2": 104,
+                "3": 177,
+                "4": 223
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "豐山村",
+            "house_no": "208",
+            "candidates": {
+                "1": 75,
+                "2": 106,
+                "3": 152,
+                "4": 249
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 850
+        }
+    ]
+}

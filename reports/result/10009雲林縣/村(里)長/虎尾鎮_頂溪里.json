@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周啟振",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳天飛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "頂溪里",
+            "house_no": "163",
+            "candidates": {
+                "1": 437,
+                "2": 451
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "頂溪里",
+            "house_no": "164",
+            "candidates": {
+                "1": 331,
+                "2": 490
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1189
+        }
+    ]
+}

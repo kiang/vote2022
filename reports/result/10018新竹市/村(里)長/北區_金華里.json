@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文中",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "金華里",
+            "house_no": "231",
+            "candidates": {
+                "1": 540
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "北區",
+            "cunli": "金華里",
+            "house_no": "232",
+            "candidates": {
+                "1": 577
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "北區",
+            "cunli": "金華里",
+            "house_no": "233",
+            "candidates": {
+                "1": 668
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "北區",
+            "cunli": "金華里",
+            "house_no": "234",
+            "candidates": {
+                "1": 669
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1219
+        }
+    ]
+}

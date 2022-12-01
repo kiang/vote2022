@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張臺勝",
+            "party": "人民最大黨"
+        },
+        "2": {
+            "name": "潘萬生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "永欣里",
+            "house_no": "42",
+            "candidates": {
+                "1": 262,
+                "2": 510
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "北投區",
+            "cunli": "永欣里",
+            "house_no": "43",
+            "candidates": {
+                "1": 210,
+                "2": 502
+            },
+            "count_wrong": 66,
+            "count_unused": 1,
+            "count_total": 1169
+        },
+        {
+            "area": "北投區",
+            "cunli": "永欣里",
+            "house_no": "44",
+            "candidates": {
+                "1": 265,
+                "2": 546
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "北投區",
+            "cunli": "永欣里",
+            "house_no": "45",
+            "candidates": {
+                "1": 282,
+                "2": 581
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "北投區",
+            "cunli": "永欣里",
+            "house_no": "46",
+            "candidates": {
+                "1": 244,
+                "2": 511
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1204
+        }
+    ]
+}

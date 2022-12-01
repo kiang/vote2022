@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹海寶",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾中成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "詔豐里",
+            "house_no": "49",
+            "candidates": {
+                "1": 63,
+                "2": 396
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 748
+        },
+        {
+            "area": "白河區",
+            "cunli": "詔豐里",
+            "house_no": "50",
+            "candidates": {
+                "1": 307,
+                "2": 305
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1095
+        }
+    ]
+}

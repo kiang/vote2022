@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文淵",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳銘聰",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳明海",
+            "party": "無"
+        },
+        "4": {
+            "name": "林榮男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "城北里",
+            "house_no": "194",
+            "candidates": {
+                "1": 147,
+                "2": 40,
+                "3": 35,
+                "4": 138
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 458
+        }
+    ]
+}

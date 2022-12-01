@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃慶華",
+            "party": "無"
+        },
+        "2": {
+            "name": "王元正",
+            "party": "無"
+        },
+        "3": {
+            "name": "王志榮",
+            "party": "無"
+        },
+        "4": {
+            "name": "李翊宸",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東山區",
+            "cunli": "科里里",
+            "house_no": "69",
+            "candidates": {
+                "1": 32,
+                "2": 222,
+                "3": 23,
+                "4": 112
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 588
+        },
+        {
+            "area": "東山區",
+            "cunli": "科里里",
+            "house_no": "70",
+            "candidates": {
+                "1": 4,
+                "2": 267,
+                "3": 5,
+                "4": 98
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 532
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇正隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇進格",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉千慈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "成功鎮",
+            "cunli": "忠仁里",
+            "house_no": "96",
+            "candidates": {
+                "1": 24,
+                "2": 56,
+                "3": 85
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 313
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "忠仁里",
+            "house_no": "97",
+            "candidates": {
+                "1": 179,
+                "2": 170,
+                "3": 263
+            },
+            "count_wrong": 15,
+            "count_unused": 2,
+            "count_total": 920
+        },
+        {
+            "area": "成功鎮",
+            "cunli": "忠仁里",
+            "house_no": "98",
+            "candidates": {
+                "1": 164,
+                "2": 168,
+                "3": 201
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 785
+        }
+    ]
+}

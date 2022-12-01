@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡錩宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴冠丞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "新城里",
+            "house_no": "1579",
+            "candidates": {
+                "1": 357,
+                "2": 260
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "太平區",
+            "cunli": "新城里",
+            "house_no": "1580",
+            "candidates": {
+                "1": 402,
+                "2": 313
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1447
+        },
+        {
+            "area": "太平區",
+            "cunli": "新城里",
+            "house_no": "1581",
+            "candidates": {
+                "1": 300,
+                "2": 331
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "太平區",
+            "cunli": "新城里",
+            "house_no": "1582",
+            "candidates": {
+                "1": 452,
+                "2": 236
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1423
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄒長浩",
+            "party": "無"
+        },
+        "2": {
+            "name": "周宥竣",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "寶興里",
+            "house_no": "2230",
+            "candidates": {
+                "1": 137,
+                "2": 771
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1591
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶興里",
+            "house_no": "2231",
+            "candidates": {
+                "1": 136,
+                "2": 476
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶興里",
+            "house_no": "2232",
+            "candidates": {
+                "1": 146,
+                "2": 464
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "新店區",
+            "cunli": "寶興里",
+            "house_no": "2233",
+            "candidates": {
+                "1": 168,
+                "2": 388
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

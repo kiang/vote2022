@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃開相",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱騰森",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三灣鄉",
+            "cunli": "頂寮村",
+            "house_no": "420",
+            "candidates": {
+                "1": 79,
+                "2": 71
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 209
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "北埔村",
+            "house_no": "421",
+            "candidates": {
+                "1": 301,
+                "2": 92
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 506
+        }
+    ]
+}

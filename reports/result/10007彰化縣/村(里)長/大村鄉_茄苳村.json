@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳蔡玉琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳萬船",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "茄苳村",
+            "house_no": "603",
+            "candidates": {
+                "1": 315,
+                "2": 229
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "茄苳村",
+            "house_no": "604",
+            "candidates": {
+                "1": 211,
+                "2": 298
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 711
+        }
+    ]
+}

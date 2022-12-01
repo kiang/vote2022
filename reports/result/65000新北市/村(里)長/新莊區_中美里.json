@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明卿",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中美里",
+            "house_no": "450",
+            "candidates": {
+                "1": 612
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中美里",
+            "house_no": "451",
+            "candidates": {
+                "1": 620
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中美里",
+            "house_no": "452",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中美里",
+            "house_no": "453",
+            "candidates": {
+                "1": 787
+            },
+            "count_wrong": 125,
+            "count_unused": 0,
+            "count_total": 1569
+        }
+    ]
+}

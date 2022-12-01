@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂理宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "安和里",
+            "house_no": "1567",
+            "candidates": {
+                "1": 365,
+                "2": 455
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1272
+        },
+        {
+            "area": "中和區",
+            "cunli": "安和里",
+            "house_no": "1568",
+            "candidates": {
+                "1": 433,
+                "2": 404
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1352
+        }
+    ]
+}

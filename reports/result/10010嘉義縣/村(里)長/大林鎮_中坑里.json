@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林勝平",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉境鎮",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡富賢",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉清源",
+            "party": "無"
+        },
+        "5": {
+            "name": "蔡坤利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大林鎮",
+            "cunli": "中坑里",
+            "house_no": "210",
+            "candidates": {
+                "1": 74,
+                "2": 188,
+                "3": 81,
+                "4": 253,
+                "5": 32
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "大林鎮",
+            "cunli": "中坑里",
+            "house_no": "211",
+            "candidates": {
+                "1": 8,
+                "2": 46,
+                "3": 44,
+                "4": 122,
+                "5": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 329
+        }
+    ]
+}

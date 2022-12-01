@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林美慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "瑞溪里",
+            "house_no": "1126",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞溪里",
+            "house_no": "1127",
+            "candidates": {
+                "1": 532
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1162
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "瑞溪里",
+            "house_no": "1128",
+            "candidates": {
+                "1": 428
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1066
+        }
+    ]
+}

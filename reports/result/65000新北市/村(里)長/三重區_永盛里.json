@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡清誥",
+            "party": "無"
+        },
+        "2": {
+            "name": "侯錦足",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "永盛里",
+            "house_no": "926",
+            "candidates": {
+                "1": 144,
+                "2": 556
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1297
+        },
+        {
+            "area": "三重區",
+            "cunli": "永盛里",
+            "house_no": "927",
+            "candidates": {
+                "1": 139,
+                "2": 598
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1369
+        }
+    ]
+}

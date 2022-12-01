@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳美玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "何秋香",
+            "party": "無"
+        },
+        "3": {
+            "name": "温修汝",
+            "party": "無"
+        },
+        "4": {
+            "name": "莊少雀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "峨眉鄉",
+            "cunli": "峨眉村",
+            "house_no": "434",
+            "candidates": {
+                "1": 81,
+                "2": 157,
+                "3": 67,
+                "4": 144,
+                "5": 211
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 811
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "中盛村",
+            "house_no": "435",
+            "candidates": {
+                "1": 144,
+                "2": 85,
+                "3": 224,
+                "4": 42,
+                "5": 53
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "七星村",
+            "house_no": "437",
+            "candidates": {
+                "1": 29,
+                "2": 33,
+                "3": 41,
+                "4": 136,
+                "5": 28
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 327
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "七星村",
+            "house_no": "438",
+            "candidates": {
+                "1": 36,
+                "2": 43,
+                "3": 18,
+                "4": 63,
+                "5": 25
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 250
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭瑞騰",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "葉柱權",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "長嶺村",
+            "house_no": "305",
+            "candidates": {
+                "1": 397,
+                "2": 272
+            },
+            "count_wrong": 37,
+            "count_unused": 2,
+            "count_total": 1131
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "長嶺村",
+            "house_no": "306",
+            "candidates": {
+                "1": 298,
+                "2": 160
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 751
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "長嶺村",
+            "house_no": "307",
+            "candidates": {
+                "1": 361,
+                "2": 266
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1177
+        }
+    ]
+}

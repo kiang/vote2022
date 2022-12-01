@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹明德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "同興里",
+            "house_no": "330",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "泰山區",
+            "cunli": "同興里",
+            "house_no": "331",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "泰山區",
+            "cunli": "同興里",
+            "house_no": "332",
+            "candidates": {
+                "1": 505
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 993
+        }
+    ]
+}

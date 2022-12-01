@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡志明",
+            "party": "無"
+        },
+        "2": {
+            "name": "張培哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "經口村",
+            "house_no": "752",
+            "candidates": {
+                "1": 370,
+                "2": 400
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "經口村",
+            "house_no": "753",
+            "candidates": {
+                "1": 229,
+                "2": 375
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 960
+        }
+    ]
+}

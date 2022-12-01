@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施承佑",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡郁陞",
+            "party": "無"
+        },
+        "3": {
+            "name": "林騫順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "春日里",
+            "house_no": "237",
+            "candidates": {
+                "1": 393,
+                "2": 407,
+                "3": 19
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1439
+        },
+        {
+            "area": "桃園區",
+            "cunli": "春日里",
+            "house_no": "238",
+            "candidates": {
+                "1": 413,
+                "2": 374,
+                "3": 32
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1396
+        },
+        {
+            "area": "桃園區",
+            "cunli": "春日里",
+            "house_no": "239",
+            "candidates": {
+                "1": 390,
+                "2": 428,
+                "3": 22
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1465
+        },
+        {
+            "area": "桃園區",
+            "cunli": "春日里",
+            "house_no": "240",
+            "candidates": {
+                "1": 368,
+                "2": 381,
+                "3": 27
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1561
+        }
+    ]
+}

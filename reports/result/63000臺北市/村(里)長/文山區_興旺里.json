@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳忠榮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蘇瓏議",
+            "party": "無"
+        },
+        "3": {
+            "name": "翁細文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興旺里",
+            "house_no": "1656",
+            "candidates": {
+                "1": 216,
+                "2": 355,
+                "3": 208
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "文山區",
+            "cunli": "興旺里",
+            "house_no": "1657",
+            "candidates": {
+                "1": 288,
+                "2": 392,
+                "3": 124
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "文山區",
+            "cunli": "興旺里",
+            "house_no": "1658",
+            "candidates": {
+                "1": 348,
+                "2": 318,
+                "3": 118
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "文山區",
+            "cunli": "興旺里",
+            "house_no": "1659",
+            "candidates": {
+                "1": 283,
+                "2": 306,
+                "3": 133
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1075
+        },
+        {
+            "area": "文山區",
+            "cunli": "興旺里",
+            "house_no": "1660",
+            "candidates": {
+                "1": 263,
+                "2": 244,
+                "3": 201
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "文山區",
+            "cunli": "興旺里",
+            "house_no": "1661",
+            "candidates": {
+                "1": 251,
+                "2": 291,
+                "3": 190
+            },
+            "count_wrong": 12,
+            "count_unused": 3,
+            "count_total": 1086
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖士謀",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "郭素貞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "羅東鎮",
+            "cunli": "漢民里",
+            "house_no": "100",
+            "candidates": {
+                "1": 286,
+                "2": 302
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "漢民里",
+            "house_no": "101",
+            "candidates": {
+                "1": 415,
+                "2": 336
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "羅東鎮",
+            "cunli": "漢民里",
+            "house_no": "102",
+            "candidates": {
+                "1": 353,
+                "2": 325
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1206
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林繼爰",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝徐金蓮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "福丘里",
+            "house_no": "1232",
+            "candidates": {
+                "1": 345,
+                "2": 479
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福丘里",
+            "house_no": "1233",
+            "candidates": {
+                "1": 276,
+                "2": 503
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1308
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福丘里",
+            "house_no": "1234",
+            "candidates": {
+                "1": 240,
+                "2": 415
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1226
+        }
+    ]
+}

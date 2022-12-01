@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯原庭",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝進發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "桂林里",
+            "house_no": "1867",
+            "candidates": {
+                "1": 439,
+                "2": 386
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1474
+        },
+        {
+            "area": "小港區",
+            "cunli": "桂林里",
+            "house_no": "1868",
+            "candidates": {
+                "1": 519,
+                "2": 353
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1495
+        },
+        {
+            "area": "小港區",
+            "cunli": "桂林里",
+            "house_no": "1869",
+            "candidates": {
+                "1": 475,
+                "2": 415
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1499
+        },
+        {
+            "area": "小港區",
+            "cunli": "桂林里",
+            "house_no": "1870",
+            "candidates": {
+                "1": 498,
+                "2": 254
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1392
+        },
+        {
+            "area": "小港區",
+            "cunli": "桂林里",
+            "house_no": "1871",
+            "candidates": {
+                "1": 477,
+                "2": 310
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1460
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡德勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "中和里",
+            "house_no": "897",
+            "candidates": {
+                "1": 689
+            },
+            "count_wrong": 136,
+            "count_unused": 0,
+            "count_total": 1432
+        },
+        {
+            "area": "南屯區",
+            "cunli": "中和里",
+            "house_no": "898",
+            "candidates": {
+                "1": 685
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "南屯區",
+            "cunli": "中和里",
+            "house_no": "899",
+            "candidates": {
+                "1": 740
+            },
+            "count_wrong": 111,
+            "count_unused": 3,
+            "count_total": 1382
+        }
+    ]
+}

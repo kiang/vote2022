@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余岱沅",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "宋明軒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "文化里",
+            "house_no": "1",
+            "candidates": {
+                "1": 146,
+                "2": 242
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 879
+        },
+        {
+            "area": "臺東市",
+            "cunli": "文化里",
+            "house_no": "2",
+            "candidates": {
+                "1": 333,
+                "2": 121
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 711
+        }
+    ]
+}

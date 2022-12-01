@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林茂堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "李文崗",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳英芳",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳麗琴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬巒村",
+            "house_no": "413",
+            "candidates": {
+                "1": 231,
+                "2": 116,
+                "3": 246,
+                "4": 183
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1142
+        }
+    ]
+}

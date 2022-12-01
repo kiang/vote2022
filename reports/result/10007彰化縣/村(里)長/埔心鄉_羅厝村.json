@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱建順",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉振翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "羅厝村",
+            "house_no": "764",
+            "candidates": {
+                "1": 130,
+                "2": 176,
+                "3": 163
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "羅厝村",
+            "house_no": "765",
+            "candidates": {
+                "1": 157,
+                "2": 168,
+                "3": 105
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 624
+        }
+    ]
+}

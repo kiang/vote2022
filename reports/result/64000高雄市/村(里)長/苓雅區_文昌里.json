@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "宋芯慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "林博文",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "文昌里",
+            "house_no": "1413",
+            "candidates": {
+                "1": 309,
+                "2": 398
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "文昌里",
+            "house_no": "1414",
+            "candidates": {
+                "1": 297,
+                "2": 402
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "文昌里",
+            "house_no": "1415",
+            "candidates": {
+                "1": 258,
+                "2": 409
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1120
+        }
+    ]
+}

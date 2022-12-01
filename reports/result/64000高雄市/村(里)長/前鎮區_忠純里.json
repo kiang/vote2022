@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "艾台民",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張誠銀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "忠純里",
+            "house_no": "1698",
+            "candidates": {
+                "1": 444,
+                "2": 286
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "忠純里",
+            "house_no": "1699",
+            "candidates": {
+                "1": 544,
+                "2": 289
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "忠純里",
+            "house_no": "1700",
+            "candidates": {
+                "1": 298,
+                "2": 320
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "忠純里",
+            "house_no": "1701",
+            "candidates": {
+                "1": 405,
+                "2": 344
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1383
+        }
+    ]
+}

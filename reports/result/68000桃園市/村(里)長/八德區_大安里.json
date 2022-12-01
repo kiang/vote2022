@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姜佩萱",
+            "party": "無"
+        },
+        "2": {
+            "name": "江朝雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大安里",
+            "house_no": "428",
+            "candidates": {
+                "1": 415,
+                "2": 357
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "八德區",
+            "cunli": "大安里",
+            "house_no": "429",
+            "candidates": {
+                "1": 275,
+                "2": 359
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "八德區",
+            "cunli": "大安里",
+            "house_no": "430",
+            "candidates": {
+                "1": 293,
+                "2": 353
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1050
+        }
+    ]
+}

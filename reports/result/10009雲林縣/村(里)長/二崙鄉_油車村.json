@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文河",
+            "party": "無"
+        },
+        "2": {
+            "name": "江永欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二崙鄉",
+            "cunli": "油車村",
+            "house_no": "363",
+            "candidates": {
+                "1": 343,
+                "2": 290
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "二崙鄉",
+            "cunli": "油車村",
+            "house_no": "364",
+            "candidates": {
+                "1": 198,
+                "2": 162
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 642
+        }
+    ]
+}

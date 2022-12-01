@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳合吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "盧茂林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "嘉蓮里",
+            "house_no": "210",
+            "candidates": {
+                "1": 295,
+                "2": 158
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 651
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "嘉蓮里",
+            "house_no": "211",
+            "candidates": {
+                "1": 326,
+                "2": 176
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 670
+        }
+    ]
+}

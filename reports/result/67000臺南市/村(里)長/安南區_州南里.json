@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "涂文財",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "黄國基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "州南里",
+            "house_no": "667",
+            "candidates": {
+                "1": 424,
+                "2": 258
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "安南區",
+            "cunli": "州南里",
+            "house_no": "668",
+            "candidates": {
+                "1": 485,
+                "2": 316
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1339
+        },
+        {
+            "area": "安南區",
+            "cunli": "州南里",
+            "house_no": "669",
+            "candidates": {
+                "1": 482,
+                "2": 286
+            },
+            "count_wrong": 40,
+            "count_unused": 1,
+            "count_total": 1245
+        },
+        {
+            "area": "安南區",
+            "cunli": "州南里",
+            "house_no": "670",
+            "candidates": {
+                "1": 367,
+                "2": 199
+            },
+            "count_wrong": 52,
+            "count_unused": 0,
+            "count_total": 1090
+        }
+    ]
+}

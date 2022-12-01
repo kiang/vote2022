@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪雪珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "王國耀",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝秀芝",
+            "party": "無"
+        },
+        "4": {
+            "name": "石陵英",
+            "party": "無"
+        },
+        "5": {
+            "name": "蕭源聖",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "豐年里",
+            "house_no": "17",
+            "candidates": {
+                "1": 9,
+                "2": 143,
+                "3": 136,
+                "4": 200,
+                "5": 177
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1140
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐年里",
+            "house_no": "18",
+            "candidates": {
+                "1": 13,
+                "2": 89,
+                "3": 178,
+                "4": 200,
+                "5": 273
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐年里",
+            "house_no": "19",
+            "candidates": {
+                "1": 6,
+                "2": 118,
+                "3": 149,
+                "4": 142,
+                "5": 220
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "屏東市",
+            "cunli": "豐年里",
+            "house_no": "20",
+            "candidates": {
+                "1": 5,
+                "2": 84,
+                "3": 130,
+                "4": 127,
+                "5": 292
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1158
+        }
+    ]
+}

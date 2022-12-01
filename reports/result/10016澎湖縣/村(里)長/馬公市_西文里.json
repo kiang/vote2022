@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林見芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "李石川",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳見智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "西文里",
+            "house_no": "24",
+            "candidates": {
+                "1": 224,
+                "2": 93,
+                "3": 197
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "馬公市",
+            "cunli": "西文里",
+            "house_no": "25",
+            "candidates": {
+                "1": 252,
+                "2": 125,
+                "3": 199
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "馬公市",
+            "cunli": "西文里",
+            "house_no": "26",
+            "candidates": {
+                "1": 216,
+                "2": 145,
+                "3": 192
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1109
+        }
+    ]
+}

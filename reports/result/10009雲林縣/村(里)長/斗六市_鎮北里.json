@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張體憲",
+            "party": "無"
+        },
+        "2": {
+            "name": "林怡君",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉弘暉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "鎮北里",
+            "house_no": "470",
+            "candidates": {
+                "1": 214,
+                "2": 180,
+                "3": 298
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "斗六市",
+            "cunli": "鎮北里",
+            "house_no": "471",
+            "candidates": {
+                "1": 125,
+                "2": 132,
+                "3": 168
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 716
+        },
+        {
+            "area": "斗六市",
+            "cunli": "鎮北里",
+            "house_no": "472",
+            "candidates": {
+                "1": 180,
+                "2": 143,
+                "3": 190
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 744
+        }
+    ]
+}

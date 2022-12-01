@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王俊琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱美足",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "鶯歌里",
+            "house_no": "188",
+            "candidates": {
+                "1": 216,
+                "2": 395
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "安樂區",
+            "cunli": "鶯歌里",
+            "house_no": "189",
+            "candidates": {
+                "1": 438,
+                "2": 359
+            },
+            "count_wrong": 12,
+            "count_unused": 6,
+            "count_total": 1294
+        }
+    ]
+}

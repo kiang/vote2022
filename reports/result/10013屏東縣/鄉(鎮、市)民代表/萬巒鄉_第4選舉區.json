@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭雲文",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明標",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝春香",
+            "party": "無"
+        },
+        "4": {
+            "name": "沈淑玲",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳平貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬巒鄉",
+            "cunli": "佳佐村",
+            "house_no": "426",
+            "candidates": {
+                "1": 94,
+                "2": 89,
+                "3": 20,
+                "4": 97,
+                "5": 191
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 785
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "佳佐村",
+            "house_no": "427",
+            "candidates": {
+                "1": 96,
+                "2": 91,
+                "3": 70,
+                "4": 100,
+                "5": 198
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "佳和村",
+            "house_no": "428",
+            "candidates": {
+                "1": 202,
+                "2": 225,
+                "3": 87,
+                "4": 259,
+                "5": 126
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "新厝村",
+            "house_no": "429",
+            "candidates": {
+                "1": 252,
+                "2": 141,
+                "3": 300,
+                "4": 57,
+                "5": 122
+            },
+            "count_wrong": 35,
+            "count_unused": 2,
+            "count_total": 1174
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "新置村",
+            "house_no": "430",
+            "candidates": {
+                "1": 134,
+                "2": 83,
+                "3": 120,
+                "4": 37,
+                "5": 48
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 555
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "新置村",
+            "house_no": "431",
+            "candidates": {
+                "1": 181,
+                "2": 97,
+                "3": 55,
+                "4": 20,
+                "5": 39
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 558
+        }
+    ]
+}

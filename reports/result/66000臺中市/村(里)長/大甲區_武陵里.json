@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉枝來",
+            "party": "無"
+        },
+        "2": {
+            "name": "方如玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "林根源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "武陵里",
+            "house_no": "23",
+            "candidates": {
+                "1": 75,
+                "2": 500,
+                "3": 273
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1119
+        }
+    ]
+}

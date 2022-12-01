@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃朝登",
+            "party": "無"
+        },
+        "2": {
+            "name": "張慶尉",
+            "party": "無"
+        },
+        "3": {
+            "name": "許富榮",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝春錦",
+            "party": "無"
+        },
+        "5": {
+            "name": "王美莉",
+            "party": "無"
+        },
+        "6": {
+            "name": "謝美美",
+            "party": "無"
+        },
+        "7": {
+            "name": "廖宥淇",
+            "party": "無"
+        },
+        "8": {
+            "name": "陳文貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "線西鄉",
+            "cunli": "塭仔村",
+            "house_no": "492",
+            "candidates": {
+                "1": 129,
+                "2": 300,
+                "3": 433
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "線西鄉",
+            "cunli": "溝內村",
+            "house_no": "493",
+            "candidates": {
+                "1": 280,
+                "2": 330,
+                "3": 182
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1180
+        }
+    ]
+}

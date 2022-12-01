@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳岳宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁福德",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡鈴木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "貴賢里",
+            "house_no": "356",
+            "candidates": {
+                "1": 380,
+                "2": 271,
+                "3": 82
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "泰山區",
+            "cunli": "貴賢里",
+            "house_no": "357",
+            "candidates": {
+                "1": 335,
+                "2": 239,
+                "3": 70
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1091
+        },
+        {
+            "area": "泰山區",
+            "cunli": "貴賢里",
+            "house_no": "358",
+            "candidates": {
+                "1": 327,
+                "2": 183,
+                "3": 160
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃廣明",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "許中令",
+            "party": "無"
+        },
+        "3": {
+            "name": "范瑞珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "龍雲里",
+            "house_no": "1473",
+            "candidates": {
+                "1": 380,
+                "2": 131,
+                "3": 264
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍雲里",
+            "house_no": "1474",
+            "candidates": {
+                "1": 377,
+                "2": 164,
+                "3": 272
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "大安區",
+            "cunli": "龍雲里",
+            "house_no": "1475",
+            "candidates": {
+                "1": 397,
+                "2": 68,
+                "3": 282
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1189
+        }
+    ]
+}

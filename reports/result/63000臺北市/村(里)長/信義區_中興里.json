@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙惠美",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳孟環",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "中興里",
+            "house_no": "739",
+            "candidates": {
+                "1": 337,
+                "2": 120
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 743
+        },
+        {
+            "area": "信義區",
+            "cunli": "中興里",
+            "house_no": "740",
+            "candidates": {
+                "1": 383,
+                "2": 184
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "信義區",
+            "cunli": "中興里",
+            "house_no": "741",
+            "candidates": {
+                "1": 327,
+                "2": 189
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 860
+        }
+    ]
+}

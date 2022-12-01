@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐素津",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪豐盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "興村里",
+            "house_no": "63",
+            "candidates": {
+                "1": 289,
+                "2": 341
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "東區",
+            "cunli": "興村里",
+            "house_no": "64",
+            "candidates": {
+                "1": 229,
+                "2": 349
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "東區",
+            "cunli": "興村里",
+            "house_no": "65",
+            "candidates": {
+                "1": 278,
+                "2": 390
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1510
+        }
+    ]
+}

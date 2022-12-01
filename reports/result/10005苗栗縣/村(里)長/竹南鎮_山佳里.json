@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾錦土",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱振生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "山佳里",
+            "house_no": "308",
+            "candidates": {
+                "1": 321,
+                "2": 305
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "山佳里",
+            "house_no": "309",
+            "candidates": {
+                "1": 347,
+                "2": 267
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "山佳里",
+            "house_no": "310",
+            "candidates": {
+                "1": 353,
+                "2": 342
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "山佳里",
+            "house_no": "311",
+            "candidates": {
+                "1": 377,
+                "2": 336
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1258
+        }
+    ]
+}

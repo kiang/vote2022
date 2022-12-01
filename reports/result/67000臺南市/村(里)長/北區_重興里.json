@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙品絜",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭林阿雪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "重興里",
+            "house_no": "974",
+            "candidates": {
+                "1": 264,
+                "2": 288
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 945
+        },
+        {
+            "area": "北區",
+            "cunli": "重興里",
+            "house_no": "975",
+            "candidates": {
+                "1": 190,
+                "2": 293
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 796
+        }
+    ]
+}

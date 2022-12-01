@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉坤山",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳蘆恩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "孔宅里",
+            "house_no": "1858",
+            "candidates": {
+                "1": 516,
+                "2": 329
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "小港區",
+            "cunli": "孔宅里",
+            "house_no": "1859",
+            "candidates": {
+                "1": 300,
+                "2": 339
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1179
+        },
+        {
+            "area": "小港區",
+            "cunli": "孔宅里",
+            "house_no": "1860",
+            "candidates": {
+                "1": 305,
+                "2": 325
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "小港區",
+            "cunli": "孔宅里",
+            "house_no": "1861",
+            "candidates": {
+                "1": 213,
+                "2": 316
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1025
+        }
+    ]
+}

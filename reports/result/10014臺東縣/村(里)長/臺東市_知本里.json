@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王正元",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "利春仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃振國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "知本里",
+            "house_no": "87",
+            "candidates": {
+                "1": 226,
+                "2": 158,
+                "3": 25
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 649
+        },
+        {
+            "area": "臺東市",
+            "cunli": "知本里",
+            "house_no": "88",
+            "candidates": {
+                "1": 314,
+                "2": 158,
+                "3": 13
+            },
+            "count_wrong": 5,
+            "count_unused": 2,
+            "count_total": 727
+        },
+        {
+            "area": "臺東市",
+            "cunli": "知本里",
+            "house_no": "89",
+            "candidates": {
+                "1": 303,
+                "2": 202,
+                "3": 59
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 862
+        }
+    ]
+}

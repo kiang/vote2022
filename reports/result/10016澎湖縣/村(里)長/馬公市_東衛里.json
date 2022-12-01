@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊駿偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂俊褞",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊福氣",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "陳方金治",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "東衛里",
+            "house_no": "38",
+            "candidates": {
+                "1": 23,
+                "2": 128,
+                "3": 415,
+                "4": 144
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "馬公市",
+            "cunli": "東衛里",
+            "house_no": "39",
+            "candidates": {
+                "1": 29,
+                "2": 78,
+                "3": 321,
+                "4": 136
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 952
+        }
+    ]
+}

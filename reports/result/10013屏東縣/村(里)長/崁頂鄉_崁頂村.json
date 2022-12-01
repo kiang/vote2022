@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周美宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭雅陽",
+            "party": "無"
+        },
+        "3": {
+            "name": "蘇明智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崁頂鄉",
+            "cunli": "崁頂村",
+            "house_no": "555",
+            "candidates": {
+                "1": 123,
+                "2": 325,
+                "3": 360
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "崁頂村",
+            "house_no": "556",
+            "candidates": {
+                "1": 91,
+                "2": 248,
+                "3": 312
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 983
+        }
+    ]
+}

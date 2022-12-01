@@ -1,0 +1,94 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡特文",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張順和Udjui Ljavur",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "朱彥政",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝志強",
+            "party": "無"
+        },
+        "5": {
+            "name": "楊緯震",
+            "party": "無"
+        },
+        "6": {
+            "name": "方秀美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "獅子鄉",
+            "cunli": "內文村",
+            "house_no": "696",
+            "candidates": {
+                "1": 33,
+                "2": 40,
+                "3": 31,
+                "4": 31,
+                "5": 22,
+                "6": 9
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 221
+        },
+        {
+            "area": "獅子鄉",
+            "cunli": "草埔村",
+            "house_no": "697",
+            "candidates": {
+                "1": 59,
+                "2": 105,
+                "3": 53,
+                "4": 190,
+                "5": 41,
+                "6": 39
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 628
+        },
+        {
+            "area": "獅子鄉",
+            "cunli": "丹路村",
+            "house_no": "698",
+            "candidates": {
+                "1": 78,
+                "2": 59,
+                "3": 217,
+                "4": 84,
+                "5": 112,
+                "6": 32
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 745
+        },
+        {
+            "area": "獅子鄉",
+            "cunli": "楓林村",
+            "house_no": "699",
+            "candidates": {
+                "1": 170,
+                "2": 36,
+                "3": 65,
+                "4": 58,
+                "5": 132,
+                "6": 107
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 711
+        }
+    ]
+}

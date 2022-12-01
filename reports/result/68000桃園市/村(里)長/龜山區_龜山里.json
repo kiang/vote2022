@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國銓",
+            "party": "無"
+        },
+        "2": {
+            "name": "高華駿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "龜山里",
+            "house_no": "349",
+            "candidates": {
+                "1": 277,
+                "2": 370
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "龜山區",
+            "cunli": "龜山里",
+            "house_no": "350",
+            "candidates": {
+                "1": 256,
+                "2": 422
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "龜山區",
+            "cunli": "龜山里",
+            "house_no": "351",
+            "candidates": {
+                "1": 388,
+                "2": 436
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1443
+        },
+        {
+            "area": "龜山區",
+            "cunli": "龜山里",
+            "house_no": "352",
+            "candidates": {
+                "1": 266,
+                "2": 386
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1322
+        },
+        {
+            "area": "龜山區",
+            "cunli": "龜山里",
+            "house_no": "353",
+            "candidates": {
+                "1": 303,
+                "2": 347
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1251
+        }
+    ]
+}

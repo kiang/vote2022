@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林榮一",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃錦妙",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊茂松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "中山里",
+            "house_no": "455",
+            "candidates": {
+                "1": 355,
+                "2": 59,
+                "3": 152
+            },
+            "count_wrong": 8,
+            "count_unused": 1,
+            "count_total": 746
+        }
+    ]
+}

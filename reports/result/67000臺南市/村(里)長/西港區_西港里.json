@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐國安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西港區",
+            "cunli": "西港里",
+            "house_no": "343",
+            "candidates": {
+                "1": 421
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 894
+        },
+        {
+            "area": "西港區",
+            "cunli": "西港里",
+            "house_no": "344",
+            "candidates": {
+                "1": 445
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 869
+        },
+        {
+            "area": "西港區",
+            "cunli": "西港里",
+            "house_no": "345",
+            "candidates": {
+                "1": 563
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 1251
+        }
+    ]
+}

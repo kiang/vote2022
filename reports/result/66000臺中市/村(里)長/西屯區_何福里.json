@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何淑玲",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "鄧凱勛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "何福里",
+            "house_no": "810",
+            "candidates": {
+                "1": 438,
+                "2": 409
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1370
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何福里",
+            "house_no": "811",
+            "candidates": {
+                "1": 417,
+                "2": 425
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1354
+        },
+        {
+            "area": "西屯區",
+            "cunli": "何福里",
+            "house_no": "812",
+            "candidates": {
+                "1": 477,
+                "2": 397
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1388
+        }
+    ]
+}

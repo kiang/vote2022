@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張勝鋒",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大樹區",
+            "cunli": "久堂里",
+            "house_no": "835",
+            "candidates": {
+                "1": 732
+            },
+            "count_wrong": 106,
+            "count_unused": 0,
+            "count_total": 1458
+        },
+        {
+            "area": "大樹區",
+            "cunli": "久堂里",
+            "house_no": "836",
+            "candidates": {
+                "1": 671
+            },
+            "count_wrong": 70,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "大樹區",
+            "cunli": "久堂里",
+            "house_no": "837",
+            "candidates": {
+                "1": 638
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1280
+        }
+    ]
+}

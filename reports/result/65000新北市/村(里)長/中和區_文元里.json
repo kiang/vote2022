@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳欣怡",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "文元里",
+            "house_no": "1512",
+            "candidates": {
+                "1": 659
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "中和區",
+            "cunli": "文元里",
+            "house_no": "1513",
+            "candidates": {
+                "1": 679
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1463
+        },
+        {
+            "area": "中和區",
+            "cunli": "文元里",
+            "house_no": "1514",
+            "candidates": {
+                "1": 679
+            },
+            "count_wrong": 130,
+            "count_unused": 1,
+            "count_total": 1465
+        }
+    ]
+}

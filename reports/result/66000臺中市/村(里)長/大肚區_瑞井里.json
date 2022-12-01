@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪忠祿",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪朝源",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭玉華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "瑞井里",
+            "house_no": "349",
+            "candidates": {
+                "1": 541,
+                "2": 76,
+                "3": 261
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1417
+        },
+        {
+            "area": "大肚區",
+            "cunli": "瑞井里",
+            "house_no": "350",
+            "candidates": {
+                "1": 427,
+                "2": 69,
+                "3": 270
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "大肚區",
+            "cunli": "瑞井里",
+            "house_no": "351",
+            "candidates": {
+                "1": 458,
+                "2": 73,
+                "3": 201
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "大肚區",
+            "cunli": "瑞井里",
+            "house_no": "352",
+            "candidates": {
+                "1": 348,
+                "2": 50,
+                "3": 250
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1124
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施明朝",
+            "party": "無"
+        },
+        "2": {
+            "name": "王燕銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "柳營區",
+            "cunli": "人和里",
+            "house_no": "183",
+            "candidates": {
+                "1": 134,
+                "2": 114
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 373
+        },
+        {
+            "area": "柳營區",
+            "cunli": "人和里",
+            "house_no": "184",
+            "candidates": {
+                "1": 137,
+                "2": 66
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 318
+        }
+    ]
+}

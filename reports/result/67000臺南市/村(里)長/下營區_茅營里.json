@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馮政凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "馮朝義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "下營區",
+            "cunli": "茅營里",
+            "house_no": "378",
+            "candidates": {
+                "1": 409,
+                "2": 292
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "下營區",
+            "cunli": "茅營里",
+            "house_no": "379",
+            "candidates": {
+                "1": 428,
+                "2": 216
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1013
+        }
+    ]
+}

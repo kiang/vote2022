@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林讚生",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鼎哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "東村里",
+            "house_no": "47",
+            "candidates": {
+                "1": 258,
+                "2": 388
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "東村里",
+            "house_no": "48",
+            "candidates": {
+                "1": 244,
+                "2": 428
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳淑美",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "黃文良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "灣成里",
+            "house_no": "1135",
+            "candidates": {
+                "1": 289,
+                "2": 491
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣成里",
+            "house_no": "1136",
+            "candidates": {
+                "1": 275,
+                "2": 537
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1261
+        }
+    ]
+}

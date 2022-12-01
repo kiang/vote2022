@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡坤達",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃榮茂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "慶安里",
+            "house_no": "164",
+            "candidates": {
+                "1": 231,
+                "2": 261
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 714
+        },
+        {
+            "area": "西區",
+            "cunli": "慶安里",
+            "house_no": "165",
+            "candidates": {
+                "1": 224,
+                "2": 266
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 755
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林賢杉",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂春木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "東湖村",
+            "house_no": "116",
+            "candidates": {
+                "1": 117,
+                "2": 333
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 672
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "東湖村",
+            "house_no": "117",
+            "candidates": {
+                "1": 181,
+                "2": 520
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林浩隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳美霞",
+            "party": "無"
+        },
+        "3": {
+            "name": "俞偉明",
+            "party": "無"
+        },
+        "4": {
+            "name": "倪建川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "暖暖區",
+            "cunli": "八中里",
+            "house_no": "211",
+            "candidates": {
+                "1": 117,
+                "2": 15,
+                "3": 115,
+                "4": 44
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 398
+        }
+    ]
+}

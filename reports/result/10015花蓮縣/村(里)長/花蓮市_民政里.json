@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志鵬",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "姚臺林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "18",
+            "candidates": {
+                "1": 232,
+                "2": 171
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 878
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "19",
+            "candidates": {
+                "1": 294,
+                "2": 166
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "20",
+            "candidates": {
+                "1": 254,
+                "2": 150
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民政里",
+            "house_no": "21",
+            "candidates": {
+                "1": 284,
+                "2": 187
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 905
+        }
+    ]
+}

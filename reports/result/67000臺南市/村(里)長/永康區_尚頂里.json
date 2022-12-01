@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈水應",
+            "party": "無"
+        },
+        "2": {
+            "name": "周三貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "尚頂里",
+            "house_no": "881",
+            "candidates": {
+                "1": 354,
+                "2": 332
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "永康區",
+            "cunli": "尚頂里",
+            "house_no": "882",
+            "candidates": {
+                "1": 231,
+                "2": 382
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "永康區",
+            "cunli": "尚頂里",
+            "house_no": "883",
+            "candidates": {
+                "1": 328,
+                "2": 365
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1451
+        }
+    ]
+}

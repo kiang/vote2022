@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳王華",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊宗軒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "海埔里",
+            "house_no": "436",
+            "candidates": {
+                "1": 126,
+                "2": 490
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "海埔里",
+            "house_no": "437",
+            "candidates": {
+                "1": 237,
+                "2": 187
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 623
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "海埔里",
+            "house_no": "438",
+            "candidates": {
+                "1": 162,
+                "2": 153
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 436
+        }
+    ]
+}

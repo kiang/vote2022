@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳堃禾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "草湖村",
+            "house_no": "1056",
+            "candidates": {
+                "1": 319,
+                "2": 457
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 1079
+        },
+        {
+            "area": "芳苑鄉",
+            "cunli": "草湖村",
+            "house_no": "1057",
+            "candidates": {
+                "1": 69,
+                "2": 131
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 293
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "巫清詔",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳秀珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "後寮里",
+            "house_no": "710",
+            "candidates": {
+                "1": 605,
+                "2": 270
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1456
+        },
+        {
+            "area": "中壢區",
+            "cunli": "後寮里",
+            "house_no": "711",
+            "candidates": {
+                "1": 525,
+                "2": 334
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1617
+        },
+        {
+            "area": "中壢區",
+            "cunli": "後寮里",
+            "house_no": "712",
+            "candidates": {
+                "1": 574,
+                "2": 239
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1579
+        }
+    ]
+}

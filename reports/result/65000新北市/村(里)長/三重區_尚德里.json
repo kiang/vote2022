@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許朝順",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉錫慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "尚德里",
+            "house_no": "912",
+            "candidates": {
+                "1": 544,
+                "2": 381
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1508
+        },
+        {
+            "area": "三重區",
+            "cunli": "尚德里",
+            "house_no": "913",
+            "candidates": {
+                "1": 459,
+                "2": 206
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1046
+        }
+    ]
+}

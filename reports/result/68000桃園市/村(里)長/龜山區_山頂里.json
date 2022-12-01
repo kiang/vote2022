@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱奕洋",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃呈科",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "山頂里",
+            "house_no": "279",
+            "candidates": {
+                "1": 355,
+                "2": 478
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1653
+        },
+        {
+            "area": "龜山區",
+            "cunli": "山頂里",
+            "house_no": "280",
+            "candidates": {
+                "1": 375,
+                "2": 589
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1829
+        },
+        {
+            "area": "龜山區",
+            "cunli": "山頂里",
+            "house_no": "281",
+            "candidates": {
+                "1": 419,
+                "2": 617
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1715
+        }
+    ]
+}

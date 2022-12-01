@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林廷昱",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳森榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳雅惠",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝伯昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "元長鄉",
+            "cunli": "下寮村",
+            "house_no": "215",
+            "candidates": {
+                "1": 32,
+                "2": 266,
+                "3": 36,
+                "4": 24
+            },
+            "count_wrong": 11,
+            "count_unused": 1,
+            "count_total": 536
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "下寮村",
+            "house_no": "216",
+            "candidates": {
+                "1": 159,
+                "2": 241,
+                "3": 60,
+                "4": 144
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 877
+        }
+    ]
+}

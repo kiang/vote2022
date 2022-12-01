@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施桂英",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴量",
+            "party": "無"
+        },
+        "3": {
+            "name": "李易儒",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "車層里",
+            "house_no": "1569",
+            "candidates": {
+                "1": 256,
+                "2": 107,
+                "3": 359
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1125
+        },
+        {
+            "area": "大安區",
+            "cunli": "車層里",
+            "house_no": "1570",
+            "candidates": {
+                "1": 259,
+                "2": 101,
+                "3": 375
+            },
+            "count_wrong": 22,
+            "count_unused": 3,
+            "count_total": 1135
+        },
+        {
+            "area": "大安區",
+            "cunli": "車層里",
+            "house_no": "1571",
+            "candidates": {
+                "1": 257,
+                "2": 113,
+                "3": 437
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "大安區",
+            "cunli": "車層里",
+            "house_no": "1572",
+            "candidates": {
+                "1": 309,
+                "2": 52,
+                "3": 400
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1200
+        }
+    ]
+}

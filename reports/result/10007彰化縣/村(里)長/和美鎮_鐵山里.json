@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭雅如",
+            "party": "無"
+        },
+        "2": {
+            "name": "李添鎮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "鐵山里",
+            "house_no": "429",
+            "candidates": {
+                "1": 280,
+                "2": 534
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "鐵山里",
+            "house_no": "430",
+            "candidates": {
+                "1": 287,
+                "2": 467
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1277
+        }
+    ]
+}

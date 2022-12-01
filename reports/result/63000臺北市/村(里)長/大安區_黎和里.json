@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李啟宏",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳水河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "黎和里",
+            "house_no": "1545",
+            "candidates": {
+                "1": 458,
+                "2": 371
+            },
+            "count_wrong": 63,
+            "count_unused": 6,
+            "count_total": 1332
+        },
+        {
+            "area": "大安區",
+            "cunli": "黎和里",
+            "house_no": "1546",
+            "candidates": {
+                "1": 447,
+                "2": 308
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "大安區",
+            "cunli": "黎和里",
+            "house_no": "1547",
+            "candidates": {
+                "1": 528,
+                "2": 290
+            },
+            "count_wrong": 72,
+            "count_unused": 1,
+            "count_total": 1261
+        }
+    ]
+}

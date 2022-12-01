@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周文勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "張峻榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "張清標",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "康樂里",
+            "house_no": "60",
+            "candidates": {
+                "1": 72,
+                "2": 293,
+                "3": 505
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1271
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳宏岳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳賜發",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金沙鎮",
+            "cunli": "三山里",
+            "house_no": "87",
+            "candidates": {
+                "1": 112,
+                "2": 194
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "金沙鎮",
+            "cunli": "三山里",
+            "house_no": "88",
+            "candidates": {
+                "1": 125,
+                "2": 231
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 893
+        }
+    ]
+}

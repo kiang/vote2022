@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志明",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "松山區",
+            "cunli": "東昌里",
+            "house_no": "643",
+            "candidates": {
+                "1": 588
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "松山區",
+            "cunli": "東昌里",
+            "house_no": "644",
+            "candidates": {
+                "1": 584
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 978
+        }
+    ]
+}

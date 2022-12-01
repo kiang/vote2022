@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊裕源",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳權勝",
+            "party": "無"
+        },
+        "3": {
+            "name": "江欽饒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "三和里",
+            "house_no": "564",
+            "candidates": {
+                "1": 195,
+                "2": 384,
+                "3": 100
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1068
+        },
+        {
+            "area": "員林市",
+            "cunli": "三和里",
+            "house_no": "565",
+            "candidates": {
+                "1": 91,
+                "2": 254,
+                "3": 120
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "員林市",
+            "cunli": "三和里",
+            "house_no": "566",
+            "candidates": {
+                "1": 170,
+                "2": 368,
+                "3": 109
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "員林市",
+            "cunli": "三和里",
+            "house_no": "567",
+            "candidates": {
+                "1": 210,
+                "2": 315,
+                "3": 57
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1137
+        },
+        {
+            "area": "員林市",
+            "cunli": "三和里",
+            "house_no": "568",
+            "candidates": {
+                "1": 149,
+                "2": 338,
+                "3": 72
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "員林市",
+            "cunli": "三和里",
+            "house_no": "569",
+            "candidates": {
+                "1": 112,
+                "2": 339,
+                "3": 47
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 846
+        }
+    ]
+}

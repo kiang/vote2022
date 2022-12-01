@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊美滿",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾建榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊嘉生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "長安里",
+            "house_no": "525",
+            "candidates": {
+                "1": 286,
+                "2": 628,
+                "3": 36
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1383
+        },
+        {
+            "area": "斗六市",
+            "cunli": "長安里",
+            "house_no": "526",
+            "candidates": {
+                "1": 505,
+                "2": 108,
+                "3": 51
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1016
+        },
+        {
+            "area": "斗六市",
+            "cunli": "長安里",
+            "house_no": "527",
+            "candidates": {
+                "1": 303,
+                "2": 76,
+                "3": 44
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 662
+        }
+    ]
+}

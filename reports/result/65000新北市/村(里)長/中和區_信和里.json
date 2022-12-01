@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許泰銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "信和里",
+            "house_no": "1412",
+            "candidates": {
+                "1": 538
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "中和區",
+            "cunli": "信和里",
+            "house_no": "1413",
+            "candidates": {
+                "1": 536
+            },
+            "count_wrong": 20,
+            "count_unused": 82,
+            "count_total": 1153
+        },
+        {
+            "area": "中和區",
+            "cunli": "信和里",
+            "house_no": "1414",
+            "candidates": {
+                "1": 661
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1325
+        }
+    ]
+}

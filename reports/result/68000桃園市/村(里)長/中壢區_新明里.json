@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧肇興",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "新明里",
+            "house_no": "919",
+            "candidates": {
+                "1": 593
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "中壢區",
+            "cunli": "新明里",
+            "house_no": "920",
+            "candidates": {
+                "1": 580
+            },
+            "count_wrong": 98,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "中壢區",
+            "cunli": "新明里",
+            "house_no": "921",
+            "candidates": {
+                "1": 590
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1249
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊丁垣",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉俊毅",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "北苗里",
+            "house_no": "33",
+            "candidates": {
+                "1": 374,
+                "2": 307
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1129
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "北苗里",
+            "house_no": "34",
+            "candidates": {
+                "1": 401,
+                "2": 380
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "北苗里",
+            "house_no": "35",
+            "candidates": {
+                "1": 330,
+                "2": 365
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "北苗里",
+            "house_no": "36",
+            "candidates": {
+                "1": 348,
+                "2": 333
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1194
+        }
+    ]
+}

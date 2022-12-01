@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張錦順",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文啓",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "朴子里",
+            "house_no": "557",
+            "candidates": {
+                "1": 389,
+                "2": 302
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "豐原區",
+            "cunli": "朴子里",
+            "house_no": "558",
+            "candidates": {
+                "1": 375,
+                "2": 224
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "豐原區",
+            "cunli": "朴子里",
+            "house_no": "559",
+            "candidates": {
+                "1": 255,
+                "2": 476
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1091
+        }
+    ]
+}

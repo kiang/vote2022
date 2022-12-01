@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭卜瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾國益",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "新生里",
+            "house_no": "975",
+            "candidates": {
+                "1": 313,
+                "2": 441
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "中山區",
+            "cunli": "新生里",
+            "house_no": "976",
+            "candidates": {
+                "1": 279,
+                "2": 537
+            },
+            "count_wrong": 39,
+            "count_unused": 2,
+            "count_total": 1262
+        },
+        {
+            "area": "中山區",
+            "cunli": "新生里",
+            "house_no": "977",
+            "candidates": {
+                "1": 254,
+                "2": 644
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1397
+        }
+    ]
+}

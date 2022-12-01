@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田亦生",
+            "party": "無"
+        },
+        "2": {
+            "name": "田貴寶",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "綠島鄉",
+            "cunli": "公舘村",
+            "house_no": "207",
+            "candidates": {
+                "1": 190,
+                "2": 72,
+                "3": 253
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 779
+        },
+        {
+            "area": "綠島鄉",
+            "cunli": "公舘村",
+            "house_no": "208",
+            "candidates": {
+                "1": 73,
+                "2": 25,
+                "3": 58
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 198
+        }
+    ]
+}

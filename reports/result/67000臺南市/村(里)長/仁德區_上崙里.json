@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "李紫瑀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁德區",
+            "cunli": "上崙里",
+            "house_no": "1421",
+            "candidates": {
+                "1": 126,
+                "2": 314
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "仁德區",
+            "cunli": "上崙里",
+            "house_no": "1422",
+            "candidates": {
+                "1": 90,
+                "2": 302
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "仁德區",
+            "cunli": "上崙里",
+            "house_no": "1423",
+            "candidates": {
+                "1": 330,
+                "2": 408
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1400
+        },
+        {
+            "area": "仁德區",
+            "cunli": "上崙里",
+            "house_no": "1424",
+            "candidates": {
+                "1": 189,
+                "2": 225
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "仁德區",
+            "cunli": "上崙里",
+            "house_no": "1425",
+            "candidates": {
+                "1": 248,
+                "2": 311
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 970
+        },
+        {
+            "area": "仁德區",
+            "cunli": "上崙里",
+            "house_no": "1426",
+            "candidates": {
+                "1": 261,
+                "2": 451
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1185
+        }
+    ]
+}

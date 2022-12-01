@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳梁金枝",
+            "party": "無"
+        },
+        "2": {
+            "name": "馮彩庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "新坡里",
+            "house_no": "1344",
+            "candidates": {
+                "1": 291,
+                "2": 683
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1448
+        },
+        {
+            "area": "觀音區",
+            "cunli": "新坡里",
+            "house_no": "1345",
+            "candidates": {
+                "1": 277,
+                "2": 596
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1440
+        }
+    ]
+}

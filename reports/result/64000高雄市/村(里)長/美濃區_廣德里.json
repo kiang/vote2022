@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃沛文",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊興雲",
+            "party": "無"
+        },
+        "3": {
+            "name": "傅增忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "美濃區",
+            "cunli": "廣德里",
+            "house_no": "115",
+            "candidates": {
+                "1": 416,
+                "2": 270,
+                "3": 166
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1248
+        }
+    ]
+}

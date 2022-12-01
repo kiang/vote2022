@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林鳳秋",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱錦盛",
+            "party": "無"
+        },
+        "3": {
+            "name": "施岱伶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "過田里",
+            "house_no": "779",
+            "candidates": {
+                "1": 313,
+                "2": 300,
+                "3": 197
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 4527
+        },
+        {
+            "area": "三重區",
+            "cunli": "過田里",
+            "house_no": "780",
+            "candidates": {
+                "1": 284,
+                "2": 244,
+                "3": 183
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "三重區",
+            "cunli": "過田里",
+            "house_no": "781",
+            "candidates": {
+                "1": 326,
+                "2": 314,
+                "3": 227
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "三重區",
+            "cunli": "過田里",
+            "house_no": "782",
+            "candidates": {
+                "1": 308,
+                "2": 185,
+                "3": 279
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1365
+        }
+    ]
+}

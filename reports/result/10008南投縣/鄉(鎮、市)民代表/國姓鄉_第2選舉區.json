@@ -1,0 +1,130 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃建勳",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉峻潛",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴權藝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "國姓鄉",
+            "cunli": "大旗村",
+            "house_no": "410",
+            "candidates": {
+                "1": 72,
+                "2": 64,
+                "3": 50,
+                "4": 153,
+                "5": 71,
+                "6": 59
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 625
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "長流村",
+            "house_no": "411",
+            "candidates": {
+                "1": 90,
+                "2": 23,
+                "3": 38,
+                "4": 87,
+                "5": 106,
+                "6": 102
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 621
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "長流村",
+            "house_no": "412",
+            "candidates": {
+                "1": 65,
+                "2": 24,
+                "3": 59,
+                "4": 75,
+                "5": 150,
+                "6": 124
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 686
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "長豐村",
+            "house_no": "413",
+            "candidates": {
+                "1": 310,
+                "2": 21,
+                "3": 29,
+                "4": 73,
+                "5": 37,
+                "6": 79
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 729
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "長福村",
+            "house_no": "414",
+            "candidates": {
+                "1": 168,
+                "2": 26,
+                "3": 81,
+                "4": 109,
+                "5": 60,
+                "6": 76
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 666
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "北港村",
+            "house_no": "415",
+            "candidates": {
+                "1": 30,
+                "2": 279,
+                "3": 149,
+                "4": 69,
+                "5": 104,
+                "6": 44
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "國姓鄉",
+            "cunli": "北港村",
+            "house_no": "416",
+            "candidates": {
+                "1": 47,
+                "2": 208,
+                "3": 180,
+                "4": 54,
+                "5": 74,
+                "6": 45
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 815
+        }
+    ]
+}

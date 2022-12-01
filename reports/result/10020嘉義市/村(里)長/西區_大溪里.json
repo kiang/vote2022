@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黄石君",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉秋蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "大溪里",
+            "house_no": "103",
+            "candidates": {
+                "1": 401,
+                "2": 270
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1000
+        },
+        {
+            "area": "西區",
+            "cunli": "大溪里",
+            "house_no": "104",
+            "candidates": {
+                "1": 376,
+                "2": 367
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

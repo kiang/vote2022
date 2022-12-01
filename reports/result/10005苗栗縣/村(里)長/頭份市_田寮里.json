@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張鈺昇",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅正田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "田寮里",
+            "house_no": "404",
+            "candidates": {
+                "1": 412,
+                "2": 287
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "頭份市",
+            "cunli": "田寮里",
+            "house_no": "405",
+            "candidates": {
+                "1": 464,
+                "2": 360
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "頭份市",
+            "cunli": "田寮里",
+            "house_no": "406",
+            "candidates": {
+                "1": 416,
+                "2": 324
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1313
+        }
+    ]
+}

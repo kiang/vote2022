@@ -1,0 +1,65 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘獎",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳忠義",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "黃金海",
+            "party": "無"
+        },
+        "4": {
+            "name": "呂萬福",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "林春雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同鄉",
+            "cunli": "英士村",
+            "house_no": "414",
+            "candidates": {
+                "1": 62,
+                "2": 130,
+                "3": 48
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 304
+        },
+        {
+            "area": "大同鄉",
+            "cunli": "樂水村",
+            "house_no": "415",
+            "candidates": {
+                "1": 177,
+                "2": 68,
+                "3": 64
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 384
+        },
+        {
+            "area": "大同鄉",
+            "cunli": "太平村",
+            "house_no": "416",
+            "candidates": {
+                "1": 9,
+                "2": 16,
+                "3": 3
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 41
+        }
+    ]
+}

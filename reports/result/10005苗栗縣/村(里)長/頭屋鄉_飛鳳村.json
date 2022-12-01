@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱仁浪",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳漢康",
+            "party": "無"
+        },
+        "3": {
+            "name": "江萬祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭屋鄉",
+            "cunli": "飛鳳村",
+            "house_no": "108",
+            "candidates": {
+                "1": 130,
+                "2": 75,
+                "3": 104
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 368
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邢紀藩",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭文明",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "鄭水波",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "通安里",
+            "house_no": "1491",
+            "candidates": {
+                "1": 71,
+                "2": 224,
+                "3": 367
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "大安區",
+            "cunli": "通安里",
+            "house_no": "1492",
+            "candidates": {
+                "1": 75,
+                "2": 259,
+                "3": 300
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "大安區",
+            "cunli": "通安里",
+            "house_no": "1493",
+            "candidates": {
+                "1": 108,
+                "2": 351,
+                "3": 291
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "大安區",
+            "cunli": "通安里",
+            "house_no": "1494",
+            "candidates": {
+                "1": 113,
+                "2": 278,
+                "3": 369
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1103
+        }
+    ]
+}

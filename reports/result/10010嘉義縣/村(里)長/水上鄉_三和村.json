@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾文一",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅建華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "三和村",
+            "house_no": "72",
+            "candidates": {
+                "1": 236,
+                "2": 283
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "三和村",
+            "house_no": "73",
+            "candidates": {
+                "1": 273,
+                "2": 183
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 705
+        }
+    ]
+}

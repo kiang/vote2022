@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林秋貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳清好",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "安樂村",
+            "house_no": "506",
+            "candidates": {
+                "1": 253,
+                "2": 285
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "安樂村",
+            "house_no": "507",
+            "candidates": {
+                "1": 253,
+                "2": 223
+            },
+            "count_wrong": 22,
+            "count_unused": 2,
+            "count_total": 700
+        }
+    ]
+}

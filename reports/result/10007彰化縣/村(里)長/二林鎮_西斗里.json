@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡淑芬",
+            "party": "無"
+        },
+        "2": {
+            "name": "凃朝崴",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊清董",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "西斗里",
+            "house_no": "1011",
+            "candidates": {
+                "1": 329,
+                "2": 81,
+                "3": 294
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1003
+        }
+    ]
+}

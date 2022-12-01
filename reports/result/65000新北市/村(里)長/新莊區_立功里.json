@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳易澤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "立功里",
+            "house_no": "515",
+            "candidates": {
+                "1": 450
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "新莊區",
+            "cunli": "立功里",
+            "house_no": "516",
+            "candidates": {
+                "1": 499
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1043
+        },
+        {
+            "area": "新莊區",
+            "cunli": "立功里",
+            "house_no": "517",
+            "candidates": {
+                "1": 534
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 1058
+        }
+    ]
+}

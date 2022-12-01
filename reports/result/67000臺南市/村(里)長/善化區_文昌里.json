@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李立先",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "善化區",
+            "cunli": "文昌里",
+            "house_no": "533",
+            "candidates": {
+                "1": 630
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1484
+        },
+        {
+            "area": "善化區",
+            "cunli": "文昌里",
+            "house_no": "534",
+            "candidates": {
+                "1": 520
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1125
+        }
+    ]
+}

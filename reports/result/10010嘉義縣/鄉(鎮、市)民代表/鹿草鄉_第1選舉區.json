@@ -1,0 +1,178 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳彥成",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡莉芳",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡朝陽",
+            "party": "無"
+        },
+        "4": {
+            "name": "施坤霖",
+            "party": "無"
+        },
+        "5": {
+            "name": "劉寶玉",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳旭池",
+            "party": "無"
+        },
+        "7": {
+            "name": "簡嘉惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿草鄉",
+            "cunli": "後寮村",
+            "house_no": "42",
+            "candidates": {
+                "1": 70,
+                "2": 88,
+                "3": 3,
+                "4": 71,
+                "5": 62,
+                "6": 19,
+                "7": 35,
+                "8": 18
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 485
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "鹿東村",
+            "house_no": "43",
+            "candidates": {
+                "1": 66,
+                "2": 18,
+                "3": 8,
+                "4": 58,
+                "5": 103,
+                "6": 20,
+                "7": 59,
+                "8": 35
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 521
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "鹿草村",
+            "house_no": "44",
+            "candidates": {
+                "1": 137,
+                "2": 106,
+                "3": 9,
+                "4": 45,
+                "5": 250,
+                "6": 61,
+                "7": 243,
+                "8": 43
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "西井村",
+            "house_no": "45",
+            "candidates": {
+                "1": 215,
+                "2": 151,
+                "3": 23,
+                "4": 95,
+                "5": 192,
+                "6": 52,
+                "7": 117,
+                "8": 35
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "豊稠村",
+            "house_no": "46",
+            "candidates": {
+                "1": 33,
+                "2": 26,
+                "3": 2,
+                "4": 13,
+                "5": 14,
+                "6": 103,
+                "7": 19,
+                "8": 27
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 309
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "豊稠村",
+            "house_no": "47",
+            "candidates": {
+                "1": 8,
+                "2": 2,
+                "3": 2,
+                "4": 9,
+                "5": 6,
+                "6": 72,
+                "7": 4,
+                "8": 6
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 381
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "重寮村",
+            "house_no": "48",
+            "candidates": {
+                "1": 74,
+                "2": 23,
+                "3": 46,
+                "4": 84,
+                "5": 108,
+                "6": 17,
+                "7": 66,
+                "8": 244
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "施家村",
+            "house_no": "49",
+            "candidates": {
+                "1": 34,
+                "2": 6,
+                "3": 14,
+                "4": 90,
+                "5": 41,
+                "6": 4,
+                "7": 10,
+                "8": 65
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 414
+        }
+    ]
+}

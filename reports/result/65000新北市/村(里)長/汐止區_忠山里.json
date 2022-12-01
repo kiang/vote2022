@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳國全",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "洪忠華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "忠山里",
+            "house_no": "2651",
+            "candidates": {
+                "1": 545,
+                "2": 302
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1359
+        },
+        {
+            "area": "汐止區",
+            "cunli": "忠山里",
+            "house_no": "2652",
+            "candidates": {
+                "1": 544,
+                "2": 418
+            },
+            "count_wrong": 28,
+            "count_unused": 1,
+            "count_total": 1545
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許明霞",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭秀鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "水田里",
+            "house_no": "222",
+            "candidates": {
+                "1": 339,
+                "2": 324
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "北區",
+            "cunli": "水田里",
+            "house_no": "223",
+            "candidates": {
+                "1": 302,
+                "2": 319
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 1045
+        },
+        {
+            "area": "北區",
+            "cunli": "水田里",
+            "house_no": "224",
+            "candidates": {
+                "1": 326,
+                "2": 269
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 984
+        }
+    ]
+}

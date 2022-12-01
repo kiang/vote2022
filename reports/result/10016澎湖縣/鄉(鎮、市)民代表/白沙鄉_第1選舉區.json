@@ -1,0 +1,100 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳良添",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃宗妙",
+            "party": "無"
+        },
+        "3": {
+            "name": "涂憲鐘",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭惠英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白沙鄉",
+            "cunli": "中屯村",
+            "house_no": "77",
+            "candidates": {
+                "1": 148,
+                "2": 43,
+                "3": 190
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 531
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "講美村",
+            "house_no": "78",
+            "candidates": {
+                "1": 77,
+                "2": 261,
+                "3": 47
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "城前村",
+            "house_no": "79",
+            "candidates": {
+                "1": 19,
+                "2": 22,
+                "3": 20
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 96
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "鎮海村",
+            "house_no": "80",
+            "candidates": {
+                "1": 55,
+                "2": 10,
+                "3": 18
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 143
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "港子村",
+            "house_no": "81",
+            "candidates": {
+                "1": 40,
+                "2": 66,
+                "3": 69
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 276
+        },
+        {
+            "area": "白沙鄉",
+            "cunli": "大倉村",
+            "house_no": "92",
+            "candidates": {
+                "1": 20,
+                "2": 56,
+                "3": 43
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 260
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游茂山",
+            "party": "無"
+        },
+        "2": {
+            "name": "林建銘",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "400",
+            "candidates": {
+                "1": 345,
+                "2": 215
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "401",
+            "candidates": {
+                "1": 399,
+                "2": 221
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1044
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "402",
+            "candidates": {
+                "1": 375,
+                "2": 302
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大隱村",
+            "house_no": "403",
+            "candidates": {
+                "1": 397,
+                "2": 380
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1180
+        }
+    ]
+}

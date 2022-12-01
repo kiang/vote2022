@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林曾麗環",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張宏成",
+            "party": "無"
+        },
+        "3": {
+            "name": "柯嘉榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "龍山里",
+            "house_no": "103",
+            "candidates": {
+                "1": 283,
+                "2": 210,
+                "3": 160
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍山里",
+            "house_no": "104",
+            "candidates": {
+                "1": 238,
+                "2": 285,
+                "3": 107
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍山里",
+            "house_no": "105",
+            "candidates": {
+                "1": 232,
+                "2": 211,
+                "3": 172
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1126
+        }
+    ]
+}

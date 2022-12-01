@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施國熙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "大恩里",
+            "house_no": "1163",
+            "candidates": {
+                "1": 427
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 882
+        },
+        {
+            "area": "南區",
+            "cunli": "大恩里",
+            "house_no": "1164",
+            "candidates": {
+                "1": 537
+            },
+            "count_wrong": 93,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "南區",
+            "cunli": "大恩里",
+            "house_no": "1165",
+            "candidates": {
+                "1": 565
+            },
+            "count_wrong": 116,
+            "count_unused": 3,
+            "count_total": 1188
+        }
+    ]
+}

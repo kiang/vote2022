@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳惠加",
+            "party": "無"
+        },
+        "2": {
+            "name": "李鴻勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "正苓里",
+            "house_no": "1817",
+            "candidates": {
+                "1": 531,
+                "2": 170
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "小港區",
+            "cunli": "正苓里",
+            "house_no": "1818",
+            "candidates": {
+                "1": 497,
+                "2": 157
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "小港區",
+            "cunli": "正苓里",
+            "house_no": "1819",
+            "candidates": {
+                "1": 519,
+                "2": 179
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1197
+        }
+    ]
+}

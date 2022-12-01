@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "張淑敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "武慶里",
+            "house_no": "1549",
+            "candidates": {
+                "1": 346,
+                "2": 286
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "武慶里",
+            "house_no": "1550",
+            "candidates": {
+                "1": 287,
+                "2": 342
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1109
+        }
+    ]
+}

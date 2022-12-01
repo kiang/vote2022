@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝銀樹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "新吉里",
+            "house_no": "144",
+            "candidates": {
+                "1": 704
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "新吉里",
+            "house_no": "145",
+            "candidates": {
+                "1": 635
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "新吉里",
+            "house_no": "146",
+            "candidates": {
+                "1": 554
+            },
+            "count_wrong": 150,
+            "count_unused": 0,
+            "count_total": 1124
+        }
+    ]
+}

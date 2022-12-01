@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭仁鈺",
+            "party": "無"
+        },
+        "2": {
+            "name": "孔憲娟",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "古風里",
+            "house_no": "1432",
+            "candidates": {
+                "1": 173,
+                "2": 517
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "大安區",
+            "cunli": "古風里",
+            "house_no": "1433",
+            "candidates": {
+                "1": 208,
+                "2": 608
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "大安區",
+            "cunli": "古風里",
+            "house_no": "1434",
+            "candidates": {
+                "1": 152,
+                "2": 544
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1018
+        }
+    ]
+}

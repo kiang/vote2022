@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳宗生",
+            "party": "無"
+        },
+        "2": {
+            "name": "袁鳳珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "高雙里",
+            "house_no": "1041",
+            "candidates": {
+                "1": 295,
+                "2": 693
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1605
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "高雙里",
+            "house_no": "1042",
+            "candidates": {
+                "1": 256,
+                "2": 491
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "高雙里",
+            "house_no": "1043",
+            "candidates": {
+                "1": 296,
+                "2": 485
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1243
+        }
+    ]
+}

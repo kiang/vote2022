@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "連馬世驍",
+            "party": "無"
+        },
+        "2": {
+            "name": "林麗珠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "全安里",
+            "house_no": "1501",
+            "candidates": {
+                "1": 353,
+                "2": 345
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "大安區",
+            "cunli": "全安里",
+            "house_no": "1502",
+            "candidates": {
+                "1": 462,
+                "2": 325
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "大安區",
+            "cunli": "全安里",
+            "house_no": "1503",
+            "candidates": {
+                "1": 324,
+                "2": 364
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

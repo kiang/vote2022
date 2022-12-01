@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王齊國",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國星",
+            "party": "無"
+        },
+        "3": {
+            "name": "余羿廷",
+            "party": "無"
+        },
+        "4": {
+            "name": "孫立君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛區",
+            "cunli": "水錦里",
+            "house_no": "85",
+            "candidates": {
+                "1": 8,
+                "2": 210,
+                "3": 25,
+                "4": 257
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "仁愛區",
+            "cunli": "水錦里",
+            "house_no": "86",
+            "candidates": {
+                "1": 12,
+                "2": 245,
+                "3": 25,
+                "4": 211
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 778
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王嵐",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王松俊",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾榮裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "942",
+            "candidates": {
+                "1": 291,
+                "2": 494,
+                "3": 38
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1545
+        },
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "943",
+            "candidates": {
+                "1": 270,
+                "2": 383,
+                "3": 18
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1298
+        },
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "944",
+            "candidates": {
+                "1": 229,
+                "2": 393,
+                "3": 20
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "945",
+            "candidates": {
+                "1": 239,
+                "2": 380,
+                "3": 24
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "946",
+            "candidates": {
+                "1": 235,
+                "2": 477,
+                "3": 34
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1282
+        },
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "947",
+            "candidates": {
+                "1": 196,
+                "2": 535,
+                "3": 37
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "永康區",
+            "cunli": "復華里",
+            "house_no": "948",
+            "candidates": {
+                "1": 142,
+                "2": 433,
+                "3": 23
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1037
+        }
+    ]
+}

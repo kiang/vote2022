@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "阮隆山",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭坤朗",
+            "party": "無"
+        },
+        "3": {
+            "name": "李鳳榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新園鄉",
+            "cunli": "南龍村",
+            "house_no": "545",
+            "candidates": {
+                "1": 407,
+                "2": 319,
+                "3": 206
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1316
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳銘堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "卓建璋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田中鎮",
+            "cunli": "三安里",
+            "house_no": "793",
+            "candidates": {
+                "1": 242,
+                "2": 276
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 776
+        },
+        {
+            "area": "田中鎮",
+            "cunli": "三安里",
+            "house_no": "794",
+            "candidates": {
+                "1": 111,
+                "2": 342
+            },
+            "count_wrong": 10,
+            "count_unused": 1,
+            "count_total": 712
+        }
+    ]
+}

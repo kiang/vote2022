@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "侯雲靚",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭少茵",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝明魁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "大同里",
+            "house_no": "1282",
+            "candidates": {
+                "1": 173,
+                "2": 88,
+                "3": 144
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 763
+        },
+        {
+            "area": "東區",
+            "cunli": "大同里",
+            "house_no": "1283",
+            "candidates": {
+                "1": 219,
+                "2": 162,
+                "3": 167
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "東區",
+            "cunli": "大同里",
+            "house_no": "1284",
+            "candidates": {
+                "1": 218,
+                "2": 150,
+                "3": 169
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1023
+        }
+    ]
+}

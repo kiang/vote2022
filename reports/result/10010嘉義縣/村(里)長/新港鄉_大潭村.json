@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳耀夏",
+            "party": "無"
+        },
+        "2": {
+            "name": "林陳麥",
+            "party": "無"
+        },
+        "3": {
+            "name": "林壽山",
+            "party": "無"
+        },
+        "4": {
+            "name": "張銘聲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新港鄉",
+            "cunli": "大潭村",
+            "house_no": "172",
+            "candidates": {
+                "1": 74,
+                "2": 295,
+                "3": 25,
+                "4": 149
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 769
+        },
+        {
+            "area": "新港鄉",
+            "cunli": "大潭村",
+            "house_no": "173",
+            "candidates": {
+                "1": 86,
+                "2": 328,
+                "3": 21,
+                "4": 137
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 814
+        }
+    ]
+}

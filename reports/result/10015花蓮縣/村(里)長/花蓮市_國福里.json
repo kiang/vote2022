@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康貴州",
+            "party": "無"
+        },
+        "2": {
+            "name": "李鳳凰",
+            "party": "無"
+        },
+        "3": {
+            "name": "林光祥",
+            "party": "無"
+        },
+        "4": {
+            "name": "湯雪梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國福里",
+            "house_no": "92",
+            "candidates": {
+                "1": 86,
+                "2": 197,
+                "3": 34,
+                "4": 63
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國福里",
+            "house_no": "93",
+            "candidates": {
+                "1": 114,
+                "2": 182,
+                "3": 49,
+                "4": 69
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 704
+        }
+    ]
+}

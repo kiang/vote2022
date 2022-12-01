@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭明霞",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉國平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "貿商里",
+            "house_no": "308",
+            "candidates": {
+                "1": 496,
+                "2": 345
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "五股區",
+            "cunli": "貿商里",
+            "house_no": "309",
+            "candidates": {
+                "1": 470,
+                "2": 336
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1286
+        }
+    ]
+}

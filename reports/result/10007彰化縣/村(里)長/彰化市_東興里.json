@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林淑娟",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "東興里",
+            "house_no": "4",
+            "candidates": {
+                "1": 373
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "彰化市",
+            "cunli": "東興里",
+            "house_no": "5",
+            "candidates": {
+                "1": 362
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 719
+        }
+    ]
+}

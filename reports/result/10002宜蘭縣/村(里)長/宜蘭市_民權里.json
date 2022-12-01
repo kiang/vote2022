@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉國基",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤榮淋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "民權里",
+            "house_no": "22",
+            "candidates": {
+                "1": 205,
+                "2": 215
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 978
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "民權里",
+            "house_no": "23",
+            "candidates": {
+                "1": 163,
+                "2": 232
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 682
+        }
+    ]
+}

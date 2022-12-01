@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秋月",
+            "party": "無"
+        },
+        "2": {
+            "name": "施宥均",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "民本里",
+            "house_no": "613",
+            "candidates": {
+                "1": 517,
+                "2": 244
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "新莊區",
+            "cunli": "民本里",
+            "house_no": "614",
+            "candidates": {
+                "1": 446,
+                "2": 220
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1252
+        }
+    ]
+}

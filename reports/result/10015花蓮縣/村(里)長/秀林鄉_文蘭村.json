@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃春怡",
+            "party": "無"
+        },
+        "2": {
+            "name": "田文才Bunjay·Tadaw",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "文蘭村",
+            "house_no": "132",
+            "candidates": {
+                "1": 296,
+                "2": 329
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "秀林鄉",
+            "cunli": "文蘭村",
+            "house_no": "133",
+            "candidates": {
+                "1": 95,
+                "2": 110
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 310
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳桂香",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張保德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "福恩里",
+            "house_no": "870",
+            "candidates": {
+                "1": 310,
+                "2": 338
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1112
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福恩里",
+            "house_no": "871",
+            "candidates": {
+                "1": 305,
+                "2": 458
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福恩里",
+            "house_no": "872",
+            "candidates": {
+                "1": 306,
+                "2": 332
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福恩里",
+            "house_no": "873",
+            "candidates": {
+                "1": 332,
+                "2": 329
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

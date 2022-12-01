@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐清鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊添鏿",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭銅欣",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "北曾村",
+            "house_no": "896",
+            "candidates": {
+                "1": 71,
+                "2": 196,
+                "3": 140
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 619
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "北曾村",
+            "house_no": "897",
+            "candidates": {
+                "1": 169,
+                "2": 223,
+                "3": 166
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 844
+        }
+    ]
+}

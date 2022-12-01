@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黎星琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "林俊彥",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃連進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "福麗里",
+            "house_no": "54",
+            "candidates": {
+                "1": 305,
+                "2": 281,
+                "3": 67
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "福麗里",
+            "house_no": "55",
+            "candidates": {
+                "1": 340,
+                "2": 246,
+                "3": 103
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "福麗里",
+            "house_no": "56",
+            "candidates": {
+                "1": 360,
+                "2": 318,
+                "3": 99
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1293
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "福麗里",
+            "house_no": "57",
+            "candidates": {
+                "1": 337,
+                "2": 369,
+                "3": 105
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1527
+        }
+    ]
+}

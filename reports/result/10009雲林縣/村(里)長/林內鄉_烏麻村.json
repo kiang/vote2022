@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹飛聲",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃聰敏",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡佳勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "烏麻村",
+            "house_no": "447",
+            "candidates": {
+                "1": 450,
+                "2": 208,
+                "3": 66
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 992
+        }
+    ]
+}

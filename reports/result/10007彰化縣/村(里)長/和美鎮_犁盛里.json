@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃正炘",
+            "party": "無"
+        },
+        "2": {
+            "name": "王詩文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "犁盛里",
+            "house_no": "437",
+            "candidates": {
+                "1": 414,
+                "2": 235
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "犁盛里",
+            "house_no": "438",
+            "candidates": {
+                "1": 475,
+                "2": 288
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1160
+        }
+    ]
+}

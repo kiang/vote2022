@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜玉如",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳巧慧",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳俊宇",
+            "party": "無"
+        },
+        "4": {
+            "name": "張薷璟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "砂子里",
+            "house_no": "2",
+            "candidates": {
+                "1": 38,
+                "2": 256,
+                "3": 272,
+                "4": 24
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1166
+        },
+        {
+            "area": "中正區",
+            "cunli": "砂子里",
+            "house_no": "3",
+            "candidates": {
+                "1": 55,
+                "2": 209,
+                "3": 412,
+                "4": 64
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "中正區",
+            "cunli": "砂子里",
+            "house_no": "4",
+            "candidates": {
+                "1": 81,
+                "2": 193,
+                "3": 311,
+                "4": 143
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1536
+        },
+        {
+            "area": "中正區",
+            "cunli": "砂子里",
+            "house_no": "5",
+            "candidates": {
+                "1": 84,
+                "2": 193,
+                "3": 298,
+                "4": 91
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1431
+        }
+    ]
+}

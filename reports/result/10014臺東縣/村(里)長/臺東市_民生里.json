@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱欽國",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭靖凱",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾美英",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳春輝",
+            "party": "無"
+        },
+        "5": {
+            "name": "王秋霞",
+            "party": "無"
+        },
+        "6": {
+            "name": "陳宥安",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "民生里",
+            "house_no": "24",
+            "candidates": {
+                "1": 6,
+                "2": 117,
+                "3": 156,
+                "4": 39,
+                "5": 77,
+                "6": 93
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "臺東市",
+            "cunli": "民生里",
+            "house_no": "25",
+            "candidates": {
+                "1": 8,
+                "2": 63,
+                "3": 187,
+                "4": 38,
+                "5": 63,
+                "6": 114
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "臺東市",
+            "cunli": "民生里",
+            "house_no": "26",
+            "candidates": {
+                "1": 34,
+                "2": 95,
+                "3": 207,
+                "4": 43,
+                "5": 112,
+                "6": 152
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1041
+        }
+    ]
+}

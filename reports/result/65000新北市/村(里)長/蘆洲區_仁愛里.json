@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宏典",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "仁愛里",
+            "house_no": "742",
+            "candidates": {
+                "1": 725
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1484
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "仁愛里",
+            "house_no": "743",
+            "candidates": {
+                "1": 750
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1590
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "仁愛里",
+            "house_no": "744",
+            "candidates": {
+                "1": 734
+            },
+            "count_wrong": 60,
+            "count_unused": 1,
+            "count_total": 1438
+        }
+    ]
+}

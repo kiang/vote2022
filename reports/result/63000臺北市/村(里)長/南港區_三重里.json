@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江輝吉",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "杜志勇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "三重里",
+            "house_no": "524",
+            "candidates": {
+                "1": 510,
+                "2": 210
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "南港區",
+            "cunli": "三重里",
+            "house_no": "525",
+            "candidates": {
+                "1": 532,
+                "2": 168
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "南港區",
+            "cunli": "三重里",
+            "house_no": "526",
+            "candidates": {
+                "1": 568,
+                "2": 159
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "南港區",
+            "cunli": "三重里",
+            "house_no": "527",
+            "candidates": {
+                "1": 542,
+                "2": 145
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "南港區",
+            "cunli": "三重里",
+            "house_no": "528",
+            "candidates": {
+                "1": 568,
+                "2": 142
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 1233
+        }
+    ]
+}

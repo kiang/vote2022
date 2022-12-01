@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳品謙",
+            "party": "無"
+        },
+        "2": {
+            "name": "張斯達",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "僑愛里",
+            "house_no": "671",
+            "candidates": {
+                "1": 375,
+                "2": 366
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "大溪區",
+            "cunli": "僑愛里",
+            "house_no": "672",
+            "candidates": {
+                "1": 347,
+                "2": 310
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1207
+        }
+    ]
+}

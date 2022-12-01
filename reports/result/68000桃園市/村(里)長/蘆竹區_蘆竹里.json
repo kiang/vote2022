@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡清雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱創益",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "蘆竹里",
+            "house_no": "510",
+            "candidates": {
+                "1": 368,
+                "2": 341
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1122
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "蘆竹里",
+            "house_no": "511",
+            "candidates": {
+                "1": 529,
+                "2": 368
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1337
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "蘆竹里",
+            "house_no": "512",
+            "candidates": {
+                "1": 478,
+                "2": 355
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1351
+        }
+    ]
+}

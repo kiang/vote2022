@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "丁增義",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鄧瑞興",
+            "party": "無"
+        },
+        "3": {
+            "name": "尤敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "萬美里",
+            "house_no": "1732",
+            "candidates": {
+                "1": 52,
+                "2": 428,
+                "3": 287
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬美里",
+            "house_no": "1733",
+            "candidates": {
+                "1": 98,
+                "2": 296,
+                "3": 284
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬美里",
+            "house_no": "1734",
+            "candidates": {
+                "1": 64,
+                "2": 353,
+                "3": 377
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬美里",
+            "house_no": "1735",
+            "candidates": {
+                "1": 63,
+                "2": 445,
+                "3": 239
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬美里",
+            "house_no": "1736",
+            "candidates": {
+                "1": 82,
+                "2": 399,
+                "3": 259
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1138
+        }
+    ]
+}

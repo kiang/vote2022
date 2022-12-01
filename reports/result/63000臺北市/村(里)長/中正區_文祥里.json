@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "嚴可英",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐年祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "李淑珍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "文祥里",
+            "house_no": "1205",
+            "candidates": {
+                "1": 60,
+                "2": 140,
+                "3": 571
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1262
+        },
+        {
+            "area": "中正區",
+            "cunli": "文祥里",
+            "house_no": "1206",
+            "candidates": {
+                "1": 72,
+                "2": 144,
+                "3": 498
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "中正區",
+            "cunli": "文祥里",
+            "house_no": "1207",
+            "candidates": {
+                "1": 76,
+                "2": 133,
+                "3": 589
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1265
+        },
+        {
+            "area": "中正區",
+            "cunli": "文祥里",
+            "house_no": "1208",
+            "candidates": {
+                "1": 60,
+                "2": 129,
+                "3": 454
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "中正區",
+            "cunli": "文祥里",
+            "house_no": "1209",
+            "candidates": {
+                "1": 85,
+                "2": 119,
+                "3": 522
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張益禎",
+            "party": "無"
+        },
+        "2": {
+            "name": "王增財",
+            "party": "無"
+        },
+        "3": {
+            "name": "王一脩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "大林村",
+            "house_no": "384",
+            "candidates": {
+                "1": 48,
+                "2": 156,
+                "3": 122
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 464
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "大林村",
+            "house_no": "385",
+            "candidates": {
+                "1": 129,
+                "2": 156,
+                "3": 97
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 545
+        }
+    ]
+}

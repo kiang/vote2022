@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃玉樹",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭淑珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "一德里",
+            "house_no": "151",
+            "candidates": {
+                "1": 370,
+                "2": 265
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1070
+        },
+        {
+            "area": "北投區",
+            "cunli": "一德里",
+            "house_no": "152",
+            "candidates": {
+                "1": 431,
+                "2": 296
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "北投區",
+            "cunli": "一德里",
+            "house_no": "153",
+            "candidates": {
+                "1": 489,
+                "2": 294
+            },
+            "count_wrong": 29,
+            "count_unused": 1,
+            "count_total": 1225
+        },
+        {
+            "area": "北投區",
+            "cunli": "一德里",
+            "house_no": "154",
+            "candidates": {
+                "1": 602,
+                "2": 297
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1276
+        },
+        {
+            "area": "北投區",
+            "cunli": "一德里",
+            "house_no": "155",
+            "candidates": {
+                "1": 656,
+                "2": 182
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1277
+        }
+    ]
+}

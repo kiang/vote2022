@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林芳志",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳俊昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "西榮里",
+            "house_no": "99",
+            "candidates": {
+                "1": 458,
+                "2": 194
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "西區",
+            "cunli": "西榮里",
+            "house_no": "100",
+            "candidates": {
+                "1": 444,
+                "2": 179
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1038
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭明聰",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭振添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "大潭里",
+            "house_no": "1319",
+            "candidates": {
+                "1": 393,
+                "2": 250
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "觀音區",
+            "cunli": "大潭里",
+            "house_no": "1320",
+            "candidates": {
+                "1": 508,
+                "2": 205
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1043
+        }
+    ]
+}

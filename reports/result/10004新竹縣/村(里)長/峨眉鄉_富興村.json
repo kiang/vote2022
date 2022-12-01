@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭鶬松",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾鎮賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "峨眉鄉",
+            "cunli": "富興村",
+            "house_no": "439",
+            "candidates": {
+                "1": 256,
+                "2": 238
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 646
+        },
+        {
+            "area": "峨眉鄉",
+            "cunli": "富興村",
+            "house_no": "440",
+            "candidates": {
+                "1": 242,
+                "2": 212
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 696
+        }
+    ]
+}

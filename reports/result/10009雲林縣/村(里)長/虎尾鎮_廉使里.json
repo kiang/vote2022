@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴國華",
+            "party": "無"
+        },
+        "2": {
+            "name": "林麗娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "廉使里",
+            "house_no": "158",
+            "candidates": {
+                "1": 400,
+                "2": 298
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1107
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "廉使里",
+            "house_no": "159",
+            "candidates": {
+                "1": 337,
+                "2": 362
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1109
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "廉使里",
+            "house_no": "160",
+            "candidates": {
+                "1": 370,
+                "2": 429
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1225
+        }
+    ]
+}

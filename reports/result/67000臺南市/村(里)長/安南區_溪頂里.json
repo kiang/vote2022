@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡金華",
+            "party": "無"
+        },
+        "2": {
+            "name": "施建安",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝文仁",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "溪頂里",
+            "house_no": "700",
+            "candidates": {
+                "1": 160,
+                "2": 257,
+                "3": 167
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1034
+        },
+        {
+            "area": "安南區",
+            "cunli": "溪頂里",
+            "house_no": "701",
+            "candidates": {
+                "1": 167,
+                "2": 282,
+                "3": 231
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "安南區",
+            "cunli": "溪頂里",
+            "house_no": "702",
+            "candidates": {
+                "1": 132,
+                "2": 296,
+                "3": 210
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1061
+        },
+        {
+            "area": "安南區",
+            "cunli": "溪頂里",
+            "house_no": "703",
+            "candidates": {
+                "1": 81,
+                "2": 343,
+                "3": 103
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 994
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許寶祿",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭慶鋒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "石門區",
+            "cunli": "老梅里",
+            "house_no": "3",
+            "candidates": {
+                "1": 278,
+                "2": 230
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 849
+        },
+        {
+            "area": "石門區",
+            "cunli": "老梅里",
+            "house_no": "4",
+            "candidates": {
+                "1": 355,
+                "2": 296
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

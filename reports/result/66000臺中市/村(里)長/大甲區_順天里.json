@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳威宇",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪裕隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "順天里",
+            "house_no": "3",
+            "candidates": {
+                "1": 269,
+                "2": 160
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 645
+        },
+        {
+            "area": "大甲區",
+            "cunli": "順天里",
+            "house_no": "4",
+            "candidates": {
+                "1": 271,
+                "2": 242
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 789
+        }
+    ]
+}

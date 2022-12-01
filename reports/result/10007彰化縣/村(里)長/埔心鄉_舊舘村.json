@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊羿蔙",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡昇助",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "舊舘村",
+            "house_no": "758",
+            "candidates": {
+                "1": 277,
+                "2": 209
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 718
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "舊舘村",
+            "house_no": "759",
+            "candidates": {
+                "1": 288,
+                "2": 178
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 725
+        }
+    ]
+}

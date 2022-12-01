@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳易芯",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳萬",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭義能",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "海岸里",
+            "house_no": "199",
+            "candidates": {
+                "1": 326,
+                "2": 272,
+                "3": 129
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 993
+        }
+    ]
+}

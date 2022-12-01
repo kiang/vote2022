@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許進宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "林松霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "18",
+            "candidates": {
+                "1": 354,
+                "2": 293
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "19",
+            "candidates": {
+                "1": 298,
+                "2": 238
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 919
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "後安村",
+            "house_no": "20",
+            "candidates": {
+                "1": 383,
+                "2": 242
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1017
+        }
+    ]
+}

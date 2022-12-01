@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱柏伍",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳正龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "王連修",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳湟仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水林鄉",
+            "cunli": "後寮村",
+            "house_no": "261",
+            "candidates": {
+                "1": 130,
+                "2": 195,
+                "3": 40,
+                "4": 53
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 615
+        }
+    ]
+}

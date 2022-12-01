@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳振議",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊平國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "中山里",
+            "house_no": "674",
+            "candidates": {
+                "1": 327,
+                "2": 442
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "中山里",
+            "house_no": "675",
+            "candidates": {
+                "1": 400,
+                "2": 363
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1119
+        }
+    ]
+}

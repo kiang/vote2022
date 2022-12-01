@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張大茂",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡家俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "210",
+            "candidates": {
+                "1": 544,
+                "2": 424
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1558
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "211",
+            "candidates": {
+                "1": 378,
+                "2": 370
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "212",
+            "candidates": {
+                "1": 228,
+                "2": 361
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "213",
+            "candidates": {
+                "1": 215,
+                "2": 293
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 983
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "214",
+            "candidates": {
+                "1": 294,
+                "2": 367
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "富寮里",
+            "house_no": "215",
+            "candidates": {
+                "1": 183,
+                "2": 233
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 633
+        }
+    ]
+}

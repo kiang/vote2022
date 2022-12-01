@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡鈴惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧碧惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳惠風",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳佳賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "集集鎮",
+            "cunli": "集集里",
+            "house_no": "284",
+            "candidates": {
+                "1": 105,
+                "2": 196,
+                "3": 161,
+                "4": 122,
+                "5": 103,
+                "6": 76
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1030
+        },
+        {
+            "area": "集集鎮",
+            "cunli": "和平里",
+            "house_no": "285",
+            "candidates": {
+                "1": 69,
+                "2": 104,
+                "3": 179,
+                "4": 125,
+                "5": 58,
+                "6": 108
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 853
+        },
+        {
+            "area": "集集鎮",
+            "cunli": "林尾里",
+            "house_no": "286",
+            "candidates": {
+                "1": 27,
+                "2": 74,
+                "3": 71,
+                "4": 54,
+                "5": 36,
+                "6": 110
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 531
+        }
+    ]
+}

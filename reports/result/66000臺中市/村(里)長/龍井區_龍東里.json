@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林金鍊",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳翰儀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍井區",
+            "cunli": "龍東里",
+            "house_no": "273",
+            "candidates": {
+                "1": 403,
+                "2": 477
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1318
+        },
+        {
+            "area": "龍井區",
+            "cunli": "龍東里",
+            "house_no": "274",
+            "candidates": {
+                "1": 475,
+                "2": 379
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1406
+        }
+    ]
+}

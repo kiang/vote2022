@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏寶玉",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝丁來",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "溪尾里",
+            "house_no": "409",
+            "candidates": {
+                "1": 6,
+                "2": 347,
+                "3": 233
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 791
+        }
+    ]
+}

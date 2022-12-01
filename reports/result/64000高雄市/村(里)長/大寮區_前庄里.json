@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張弘憲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金晚",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "前庄里",
+            "house_no": "1915",
+            "candidates": {
+                "1": 332,
+                "2": 446
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "大寮區",
+            "cunli": "前庄里",
+            "house_no": "1916",
+            "candidates": {
+                "1": 320,
+                "2": 337
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 961
+        }
+    ]
+}

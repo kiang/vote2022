@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴文成",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳聯政",
+            "party": "無"
+        },
+        "3": {
+            "name": "曹耀棕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "八爺里",
+            "house_no": "166",
+            "candidates": {
+                "1": 109,
+                "2": 468,
+                "3": 239
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "潮州鎮",
+            "cunli": "八爺里",
+            "house_no": "167",
+            "candidates": {
+                "1": 75,
+                "2": 309,
+                "3": 221
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1014
+        }
+    ]
+}

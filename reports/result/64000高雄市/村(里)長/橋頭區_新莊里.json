@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭袁踴",
+            "party": "無"
+        },
+        "2": {
+            "name": "林守吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "朱正清",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳一如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "橋頭區",
+            "cunli": "新莊里",
+            "house_no": "445",
+            "candidates": {
+                "1": 33,
+                "2": 285,
+                "3": 178,
+                "4": 55
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 772
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "新莊里",
+            "house_no": "446",
+            "candidates": {
+                "1": 78,
+                "2": 50,
+                "3": 104,
+                "4": 16
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 330
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "新莊里",
+            "house_no": "447",
+            "candidates": {
+                "1": 157,
+                "2": 101,
+                "3": 400,
+                "4": 119
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1682
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "新莊里",
+            "house_no": "448",
+            "candidates": {
+                "1": 76,
+                "2": 99,
+                "3": 269,
+                "4": 75
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1038
+        },
+        {
+            "area": "橋頭區",
+            "cunli": "新莊里",
+            "house_no": "449",
+            "candidates": {
+                "1": 92,
+                "2": 64,
+                "3": 245,
+                "4": 79
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 989
+        }
+    ]
+}

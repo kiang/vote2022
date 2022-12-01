@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃耀德",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林永賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五股區",
+            "cunli": "德泰里",
+            "house_no": "305",
+            "candidates": {
+                "1": 210,
+                "2": 391
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "五股區",
+            "cunli": "德泰里",
+            "house_no": "306",
+            "candidates": {
+                "1": 247,
+                "2": 471
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "五股區",
+            "cunli": "德泰里",
+            "house_no": "307",
+            "candidates": {
+                "1": 342,
+                "2": 451
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1356
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王玉鍊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "湖西村",
+            "house_no": "177",
+            "candidates": {
+                "1": 529
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 824
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "湖西村",
+            "house_no": "178",
+            "candidates": {
+                "1": 270
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 440
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "湖西村",
+            "house_no": "179",
+            "candidates": {
+                "1": 544
+            },
+            "count_wrong": 112,
+            "count_unused": 1,
+            "count_total": 874
+        }
+    ]
+}

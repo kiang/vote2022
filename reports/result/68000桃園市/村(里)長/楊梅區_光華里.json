@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陸建強",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐逢漳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "光華里",
+            "house_no": "1107",
+            "candidates": {
+                "1": 172,
+                "2": 668
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1428
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "光華里",
+            "house_no": "1108",
+            "candidates": {
+                "1": 198,
+                "2": 704
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1549
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫麒傑",
+            "party": "無"
+        },
+        "3": {
+            "name": "毛美麗",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴明賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新化區",
+            "cunli": "協興里",
+            "house_no": "639",
+            "candidates": {
+                "1": 131,
+                "2": 343,
+                "3": 43,
+                "4": 92
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "新化區",
+            "cunli": "協興里",
+            "house_no": "640",
+            "candidates": {
+                "1": 164,
+                "2": 315,
+                "3": 37,
+                "4": 88
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "新化區",
+            "cunli": "協興里",
+            "house_no": "641",
+            "candidates": {
+                "1": 211,
+                "2": 319,
+                "3": 86,
+                "4": 127
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1178
+        }
+    ]
+}

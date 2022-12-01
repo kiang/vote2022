@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "滕月蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "延壽里",
+            "house_no": "2048",
+            "candidates": {
+                "1": 509
+            },
+            "count_wrong": 117,
+            "count_unused": 0,
+            "count_total": 1238
+        },
+        {
+            "area": "土城區",
+            "cunli": "延壽里",
+            "house_no": "2049",
+            "candidates": {
+                "1": 503
+            },
+            "count_wrong": 136,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "土城區",
+            "cunli": "延壽里",
+            "house_no": "2050",
+            "candidates": {
+                "1": 518
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1254
+        }
+    ]
+}

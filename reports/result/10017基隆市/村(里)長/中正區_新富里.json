@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊紫濠",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭猷盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "新富里",
+            "house_no": "8",
+            "candidates": {
+                "1": 410,
+                "2": 312
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1354
+        },
+        {
+            "area": "中正區",
+            "cunli": "新富里",
+            "house_no": "9",
+            "candidates": {
+                "1": 416,
+                "2": 453
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1511
+        },
+        {
+            "area": "中正區",
+            "cunli": "新富里",
+            "house_no": "10",
+            "candidates": {
+                "1": 172,
+                "2": 213
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 760
+        },
+        {
+            "area": "中正區",
+            "cunli": "新富里",
+            "house_no": "11",
+            "candidates": {
+                "1": 288,
+                "2": 276
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1259
+        }
+    ]
+}

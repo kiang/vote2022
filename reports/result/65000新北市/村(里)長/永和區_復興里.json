@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉斯修",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "復興里",
+            "house_no": "1610",
+            "candidates": {
+                "1": 455
+            },
+            "count_wrong": 96,
+            "count_unused": 1,
+            "count_total": 986
+        },
+        {
+            "area": "永和區",
+            "cunli": "復興里",
+            "house_no": "1611",
+            "candidates": {
+                "1": 504
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1009
+        }
+    ]
+}

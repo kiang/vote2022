@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張有城",
+            "party": "無"
+        },
+        "2": {
+            "name": "何永池",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉振裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "東園里",
+            "house_no": "400",
+            "candidates": {
+                "1": 421,
+                "2": 227,
+                "3": 193
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "烏日區",
+            "cunli": "東園里",
+            "house_no": "401",
+            "candidates": {
+                "1": 356,
+                "2": 191,
+                "3": 104
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 947
+        }
+    ]
+}

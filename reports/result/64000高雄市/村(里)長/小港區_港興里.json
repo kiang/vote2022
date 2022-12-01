@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐慧玲",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "港興里",
+            "house_no": "1802",
+            "candidates": {
+                "1": 567
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1078
+        },
+        {
+            "area": "小港區",
+            "cunli": "港興里",
+            "house_no": "1803",
+            "candidates": {
+                "1": 478
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 995
+        }
+    ]
+}

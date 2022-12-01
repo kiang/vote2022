@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳萬清",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳德霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "四湖鄉",
+            "cunli": "崙北村",
+            "house_no": "191",
+            "candidates": {
+                "1": 410,
+                "2": 175
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "四湖鄉",
+            "cunli": "崙北村",
+            "house_no": "192",
+            "candidates": {
+                "1": 202,
+                "2": 358
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 778
+        }
+    ]
+}

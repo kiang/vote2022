@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林蔡秀英",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳佶容",
+            "party": "無"
+        },
+        "3": {
+            "name": "林子瓏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芬園鄉",
+            "cunli": "同安村",
+            "house_no": "245",
+            "candidates": {
+                "1": 273,
+                "2": 169,
+                "3": 352
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

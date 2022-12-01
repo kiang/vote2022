@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許明熙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金山區",
+            "cunli": "磺港里",
+            "house_no": "2500",
+            "candidates": {
+                "1": 405
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "金山區",
+            "cunli": "磺港里",
+            "house_no": "2501",
+            "candidates": {
+                "1": 443
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 885
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹瑞美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "南灣里",
+            "house_no": "915",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 145,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "永康區",
+            "cunli": "南灣里",
+            "house_no": "916",
+            "candidates": {
+                "1": 551
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "永康區",
+            "cunli": "南灣里",
+            "house_no": "917",
+            "candidates": {
+                "1": 533
+            },
+            "count_wrong": 141,
+            "count_unused": 1,
+            "count_total": 1203
+        }
+    ]
+}

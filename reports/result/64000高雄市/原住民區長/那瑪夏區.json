@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孔賢傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫榮貴 Istanda．Vachi",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "那瑪夏區",
+            "cunli": "達卡努瓦里",
+            "house_no": "9",
+            "candidates": {
+                "1": 447,
+                "2": 166
+            },
+            "count_wrong": 9,
+            "count_unused": 1,
+            "count_total": 754
+        },
+        {
+            "area": "那瑪夏區",
+            "cunli": "達卡努瓦里",
+            "house_no": "10",
+            "candidates": {
+                "1": 348,
+                "2": 153
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 586
+        },
+        {
+            "area": "那瑪夏區",
+            "cunli": "瑪雅里",
+            "house_no": "11",
+            "candidates": {
+                "1": 221,
+                "2": 302
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 616
+        },
+        {
+            "area": "那瑪夏區",
+            "cunli": "南沙魯里",
+            "house_no": "12",
+            "candidates": {
+                "1": 220,
+                "2": 151
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 461
+        }
+    ]
+}

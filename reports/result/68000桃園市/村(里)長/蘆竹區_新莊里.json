@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王淑華",
+            "party": "無"
+        },
+        "2": {
+            "name": "王金榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "新莊里",
+            "house_no": "497",
+            "candidates": {
+                "1": 555,
+                "2": 427
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1647
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "新莊里",
+            "house_no": "498",
+            "candidates": {
+                "1": 355,
+                "2": 353
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "新莊里",
+            "house_no": "499",
+            "candidates": {
+                "1": 378,
+                "2": 305
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1077
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "新莊里",
+            "house_no": "500",
+            "candidates": {
+                "1": 373,
+                "2": 310
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1038
+        }
+    ]
+}

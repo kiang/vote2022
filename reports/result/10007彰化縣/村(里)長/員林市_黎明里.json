@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝宜芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳秀戀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "黎明里",
+            "house_no": "526",
+            "candidates": {
+                "1": 260,
+                "2": 218
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 805
+        },
+        {
+            "area": "員林市",
+            "cunli": "黎明里",
+            "house_no": "527",
+            "candidates": {
+                "1": 324,
+                "2": 218
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 902
+        }
+    ]
+}

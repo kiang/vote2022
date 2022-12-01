@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊錦龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "卓志勇",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "朱馥里",
+            "house_no": "1023",
+            "candidates": {
+                "1": 308,
+                "2": 449
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "中山區",
+            "cunli": "朱馥里",
+            "house_no": "1024",
+            "candidates": {
+                "1": 297,
+                "2": 422
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1133
+        },
+        {
+            "area": "中山區",
+            "cunli": "朱馥里",
+            "house_no": "1025",
+            "candidates": {
+                "1": 267,
+                "2": 366
+            },
+            "count_wrong": 49,
+            "count_unused": 0,
+            "count_total": 1043
+        },
+        {
+            "area": "中山區",
+            "cunli": "朱馥里",
+            "house_no": "1026",
+            "candidates": {
+                "1": 359,
+                "2": 345
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1131
+        }
+    ]
+}

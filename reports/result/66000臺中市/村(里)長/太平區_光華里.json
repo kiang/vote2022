@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃鐵騫",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "光華里",
+            "house_no": "1547",
+            "candidates": {
+                "1": 674
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "太平區",
+            "cunli": "光華里",
+            "house_no": "1548",
+            "candidates": {
+                "1": 784
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1492
+        },
+        {
+            "area": "太平區",
+            "cunli": "光華里",
+            "house_no": "1549",
+            "candidates": {
+                "1": 512
+            },
+            "count_wrong": 6,
+            "count_unused": 82,
+            "count_total": 1090
+        },
+        {
+            "area": "太平區",
+            "cunli": "光華里",
+            "house_no": "1550",
+            "candidates": {
+                "1": 492
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 1098
+        }
+    ]
+}

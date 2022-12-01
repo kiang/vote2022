@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林佩玲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "六安里",
+            "house_no": "322",
+            "candidates": {
+                "1": 676
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "佳里區",
+            "cunli": "六安里",
+            "house_no": "323",
+            "candidates": {
+                "1": 677
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "佳里區",
+            "cunli": "六安里",
+            "house_no": "324",
+            "candidates": {
+                "1": 596
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1259
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹昌勳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳基寶",
+            "party": "無"
+        },
+        "3": {
+            "name": "林俊廷",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃永岡",
+            "party": "無"
+        },
+        "5": {
+            "name": "劉國成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "山脚里",
+            "house_no": "210",
+            "candidates": {
+                "1": 139,
+                "2": 204,
+                "3": 19,
+                "4": 45
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 617
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "山脚里",
+            "house_no": "211",
+            "candidates": {
+                "1": 107,
+                "2": 258,
+                "3": 17,
+                "4": 51
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 663
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "舊社里",
+            "house_no": "212",
+            "candidates": {
+                "1": 220,
+                "2": 267,
+                "3": 32,
+                "4": 65
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "舊社里",
+            "house_no": "213",
+            "candidates": {
+                "1": 187,
+                "2": 258,
+                "3": 35,
+                "4": 96
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "福田里",
+            "house_no": "214",
+            "candidates": {
+                "1": 242,
+                "2": 340,
+                "3": 72,
+                "4": 184
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "石鎮里",
+            "house_no": "215",
+            "candidates": {
+                "1": 42,
+                "2": 133,
+                "3": 10,
+                "4": 157
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 504
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "蕉埔里",
+            "house_no": "216",
+            "candidates": {
+                "1": 124,
+                "2": 209,
+                "3": 11,
+                "4": 126
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "南勢里",
+            "house_no": "217",
+            "candidates": {
+                "1": 131,
+                "2": 213,
+                "3": 35,
+                "4": 109
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 685
+        }
+    ]
+}

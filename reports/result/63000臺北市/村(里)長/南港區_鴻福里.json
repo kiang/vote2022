@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉明康",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "鴻福里",
+            "house_no": "581",
+            "candidates": {
+                "1": 714
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1257
+        },
+        {
+            "area": "南港區",
+            "cunli": "鴻福里",
+            "house_no": "582",
+            "candidates": {
+                "1": 702
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "南港區",
+            "cunli": "鴻福里",
+            "house_no": "583",
+            "candidates": {
+                "1": 739
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1237
+        }
+    ]
+}

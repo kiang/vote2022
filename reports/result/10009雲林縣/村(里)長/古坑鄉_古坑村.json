@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張村田",
+            "party": "無"
+        },
+        "2": {
+            "name": "韓秋森",
+            "party": "無"
+        },
+        "3": {
+            "name": "阮裕仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "古坑村",
+            "house_no": "601",
+            "candidates": {
+                "1": 288,
+                "2": 265,
+                "3": 148
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1084
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "古坑村",
+            "house_no": "602",
+            "candidates": {
+                "1": 274,
+                "2": 310,
+                "3": 116
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1090
+        }
+    ]
+}

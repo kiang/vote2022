@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張百孝",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖景春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "日興里",
+            "house_no": "2320",
+            "candidates": {
+                "1": 147,
+                "2": 294
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "新店區",
+            "cunli": "日興里",
+            "house_no": "2321",
+            "candidates": {
+                "1": 131,
+                "2": 338
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "新店區",
+            "cunli": "日興里",
+            "house_no": "2322",
+            "candidates": {
+                "1": 143,
+                "2": 312
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 874
+        },
+        {
+            "area": "新店區",
+            "cunli": "日興里",
+            "house_no": "2323",
+            "candidates": {
+                "1": 213,
+                "2": 348
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "新店區",
+            "cunli": "日興里",
+            "house_no": "2324",
+            "candidates": {
+                "1": 161,
+                "2": 405
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1151
+        }
+    ]
+}

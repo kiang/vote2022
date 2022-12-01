@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱文瑞",
+            "party": "無"
+        },
+        "2": {
+            "name": "周綉苡",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "九如鄉",
+            "cunli": "玉泉村",
+            "house_no": "335",
+            "candidates": {
+                "1": 222,
+                "2": 283,
+                "3": 208
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 963
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "玉泉村",
+            "house_no": "336",
+            "candidates": {
+                "1": 134,
+                "2": 194,
+                "3": 62
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 559
+        }
+    ]
+}

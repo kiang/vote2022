@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李臺生",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "潘振玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "親仁里",
+            "house_no": "2",
+            "candidates": {
+                "1": 383,
+                "2": 289
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "東區",
+            "cunli": "親仁里",
+            "house_no": "3",
+            "candidates": {
+                "1": 252,
+                "2": 144
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 655
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周恆功",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鼓山區",
+            "cunli": "裕豐里",
+            "house_no": "925",
+            "candidates": {
+                "1": 555
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1056
+        },
+        {
+            "area": "鼓山區",
+            "cunli": "裕豐里",
+            "house_no": "926",
+            "candidates": {
+                "1": 688
+            },
+            "count_wrong": 61,
+            "count_unused": 3,
+            "count_total": 1283
+        }
+    ]
+}

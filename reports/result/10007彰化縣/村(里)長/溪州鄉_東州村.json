@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明桂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪州鄉",
+            "cunli": "東州村",
+            "house_no": "951",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "溪州鄉",
+            "cunli": "東州村",
+            "house_no": "952",
+            "candidates": {
+                "1": 480
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 798
+        }
+    ]
+}

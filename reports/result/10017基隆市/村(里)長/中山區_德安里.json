@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓憶如",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝銘傳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "德安里",
+            "house_no": "137",
+            "candidates": {
+                "1": 329,
+                "2": 401
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "中山區",
+            "cunli": "德安里",
+            "house_no": "138",
+            "candidates": {
+                "1": 349,
+                "2": 422
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1357
+        },
+        {
+            "area": "中山區",
+            "cunli": "德安里",
+            "house_no": "139",
+            "candidates": {
+                "1": 376,
+                "2": 316
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

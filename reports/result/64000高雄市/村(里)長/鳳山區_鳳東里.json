@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡瑋寧",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "胡登科",
+            "party": "無"
+        },
+        "3": {
+            "name": "王議億",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "鳳東里",
+            "house_no": "1526",
+            "candidates": {
+                "1": 382,
+                "2": 223,
+                "3": 258
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鳳東里",
+            "house_no": "1527",
+            "candidates": {
+                "1": 454,
+                "2": 259,
+                "3": 253
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1538
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鳳東里",
+            "house_no": "1528",
+            "candidates": {
+                "1": 417,
+                "2": 186,
+                "3": 268
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1438
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "鳳東里",
+            "house_no": "1529",
+            "candidates": {
+                "1": 501,
+                "2": 227,
+                "3": 254
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1700
+        }
+    ]
+}

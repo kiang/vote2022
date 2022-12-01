@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅詠晏",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃文亮",
+            "party": "無"
+        },
+        "3": {
+            "name": "張靜宜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "北湳里",
+            "house_no": "463",
+            "candidates": {
+                "1": 105,
+                "2": 352,
+                "3": 376
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "豐原區",
+            "cunli": "北湳里",
+            "house_no": "464",
+            "candidates": {
+                "1": 140,
+                "2": 350,
+                "3": 393
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1373
+        }
+    ]
+}

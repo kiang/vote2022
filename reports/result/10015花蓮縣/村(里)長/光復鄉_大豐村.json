@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳俊佑",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃紹貫",
+            "party": "無"
+        },
+        "3": {
+            "name": "游錦勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "光復鄉",
+            "cunli": "大豐村",
+            "house_no": "257",
+            "candidates": {
+                "1": 119,
+                "2": 120,
+                "3": 36
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 401
+        }
+    ]
+}

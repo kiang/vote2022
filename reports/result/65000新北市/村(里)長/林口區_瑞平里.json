@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "駱程遠",
+            "party": "無"
+        },
+        "2": {
+            "name": "駱志琨",
+            "party": "無"
+        },
+        "3": {
+            "name": "駱清波",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪淑芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林口區",
+            "cunli": "瑞平里",
+            "house_no": "254",
+            "candidates": {
+                "1": 72,
+                "2": 181,
+                "3": 96,
+                "4": 218
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 735
+        }
+    ]
+}

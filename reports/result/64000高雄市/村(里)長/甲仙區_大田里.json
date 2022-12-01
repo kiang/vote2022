@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張琪",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭建菁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "甲仙區",
+            "cunli": "大田里",
+            "house_no": "16",
+            "candidates": {
+                "1": 227,
+                "2": 145
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 723
+        },
+        {
+            "area": "甲仙區",
+            "cunli": "大田里",
+            "house_no": "17",
+            "candidates": {
+                "1": 319,
+                "2": 102
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 752
+        }
+    ]
+}

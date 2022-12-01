@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江建春",
+            "party": "無"
+        },
+        "2": {
+            "name": "林秋城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "雷厝村",
+            "house_no": "35",
+            "candidates": {
+                "1": 128,
+                "2": 798
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "雷厝村",
+            "house_no": "36",
+            "candidates": {
+                "1": 218,
+                "2": 563
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1023
+        }
+    ]
+}

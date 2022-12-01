@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王新添",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉侑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麻豆區",
+            "cunli": "新興里",
+            "house_no": "406",
+            "candidates": {
+                "1": 370,
+                "2": 383
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1142
+        },
+        {
+            "area": "麻豆區",
+            "cunli": "新興里",
+            "house_no": "407",
+            "candidates": {
+                "1": 166,
+                "2": 224
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 647
+        }
+    ]
+}

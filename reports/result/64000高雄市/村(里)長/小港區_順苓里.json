@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁金城",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂在和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "順苓里",
+            "house_no": "1820",
+            "candidates": {
+                "1": 312,
+                "2": 406
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1456
+        },
+        {
+            "area": "小港區",
+            "cunli": "順苓里",
+            "house_no": "1821",
+            "candidates": {
+                "1": 310,
+                "2": 383
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "小港區",
+            "cunli": "順苓里",
+            "house_no": "1822",
+            "candidates": {
+                "1": 315,
+                "2": 372
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1392
+        }
+    ]
+}

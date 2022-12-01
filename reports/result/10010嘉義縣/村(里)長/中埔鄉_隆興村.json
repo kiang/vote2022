@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧秀美",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁清輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "隆興村",
+            "house_no": "434",
+            "candidates": {
+                "1": 204,
+                "2": 260
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "隆興村",
+            "house_no": "435",
+            "candidates": {
+                "1": 244,
+                "2": 381
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1018
+        }
+    ]
+}

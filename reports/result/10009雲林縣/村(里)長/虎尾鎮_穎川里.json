@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭惠珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳新財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "穎川里",
+            "house_no": "147",
+            "candidates": {
+                "1": 403,
+                "2": 346
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "穎川里",
+            "house_no": "148",
+            "candidates": {
+                "1": 286,
+                "2": 259
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 852
+        }
+    ]
+}

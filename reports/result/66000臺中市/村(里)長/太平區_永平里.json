@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴義涼",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐錦玄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "永平里",
+            "house_no": "1525",
+            "candidates": {
+                "1": 414,
+                "2": 342
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "太平區",
+            "cunli": "永平里",
+            "house_no": "1526",
+            "candidates": {
+                "1": 381,
+                "2": 367
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "太平區",
+            "cunli": "永平里",
+            "house_no": "1527",
+            "candidates": {
+                "1": 393,
+                "2": 282
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1282
+        }
+    ]
+}

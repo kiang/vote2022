@@ -1,0 +1,112 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宜ᬏ",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊見義",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉建聰",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳癸全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大埔鄉",
+            "cunli": "大埔村",
+            "house_no": "510",
+            "candidates": {
+                "1": 114,
+                "2": 129,
+                "3": 95,
+                "4": 41,
+                "5": 90
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 714
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "大埔村",
+            "house_no": "511",
+            "candidates": {
+                "1": 109,
+                "2": 164,
+                "3": 122,
+                "4": 57,
+                "5": 82
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 717
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "和平村",
+            "house_no": "512",
+            "candidates": {
+                "1": 30,
+                "2": 92,
+                "3": 33,
+                "4": 45,
+                "5": 35
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 322
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "和平村",
+            "house_no": "513",
+            "candidates": {
+                "1": 50,
+                "2": 82,
+                "3": 35,
+                "4": 22,
+                "5": 40
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 304
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "永樂村",
+            "house_no": "514",
+            "candidates": {
+                "1": 7,
+                "2": 42,
+                "3": 10,
+                "4": 44,
+                "5": 19
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 168
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "永樂村",
+            "house_no": "515",
+            "candidates": {
+                "1": 25,
+                "2": 45,
+                "3": 21,
+                "4": 22,
+                "5": 79
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 229
+        }
+    ]
+}

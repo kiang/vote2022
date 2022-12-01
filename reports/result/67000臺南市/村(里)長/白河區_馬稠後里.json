@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭坤鐘",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳石圍",
+            "party": "無"
+        },
+        "3": {
+            "name": "李寶珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "馬稠後里",
+            "house_no": "60",
+            "candidates": {
+                "1": 39,
+                "2": 305,
+                "3": 175
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "白河區",
+            "cunli": "馬稠後里",
+            "house_no": "61",
+            "candidates": {
+                "1": 110,
+                "2": 74,
+                "3": 86
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 469
+        }
+    ]
+}

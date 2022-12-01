@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃寅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "三信里",
+            "house_no": "576",
+            "candidates": {
+                "1": 643
+            },
+            "count_wrong": 83,
+            "count_unused": 1,
+            "count_total": 1165
+        },
+        {
+            "area": "員林市",
+            "cunli": "三信里",
+            "house_no": "577",
+            "candidates": {
+                "1": 579
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

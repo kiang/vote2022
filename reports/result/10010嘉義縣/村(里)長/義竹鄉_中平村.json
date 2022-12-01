@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝添丁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "中平村",
+            "house_no": "393",
+            "candidates": {
+                "1": 113
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 300
+        },
+        {
+            "area": "義竹鄉",
+            "cunli": "中平村",
+            "house_no": "394",
+            "candidates": {
+                "1": 59
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 90
+        }
+    ]
+}

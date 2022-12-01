@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳銘達",
+            "party": "無"
+        },
+        "2": {
+            "name": "苗志文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "信綠里",
+            "house_no": "52",
+            "candidates": {
+                "1": 376,
+                "2": 210
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "信義區",
+            "cunli": "信綠里",
+            "house_no": "53",
+            "candidates": {
+                "1": 294,
+                "2": 285
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 944
+        }
+    ]
+}

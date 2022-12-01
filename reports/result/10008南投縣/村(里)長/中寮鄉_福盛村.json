@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭永華",
+            "party": "無"
+        },
+        "2": {
+            "name": "李慶忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中寮鄉",
+            "cunli": "福盛村",
+            "house_no": "361",
+            "candidates": {
+                "1": 100,
+                "2": 160
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "福盛村",
+            "house_no": "362",
+            "candidates": {
+                "1": 101,
+                "2": 111
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 292
+        }
+    ]
+}

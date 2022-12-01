@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王生源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "新美里",
+            "house_no": "10",
+            "candidates": {
+                "1": 555
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1014
+        },
+        {
+            "area": "大甲區",
+            "cunli": "新美里",
+            "house_no": "11",
+            "candidates": {
+                "1": 742
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "大甲區",
+            "cunli": "新美里",
+            "house_no": "12",
+            "candidates": {
+                "1": 564
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 994
+        }
+    ]
+}

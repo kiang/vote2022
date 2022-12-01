@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳承芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "合興里",
+            "house_no": "969",
+            "candidates": {
+                "1": 627
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1219
+        },
+        {
+            "area": "北區",
+            "cunli": "合興里",
+            "house_no": "970",
+            "candidates": {
+                "1": 475
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "北區",
+            "cunli": "合興里",
+            "house_no": "971",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1016
+        }
+    ]
+}

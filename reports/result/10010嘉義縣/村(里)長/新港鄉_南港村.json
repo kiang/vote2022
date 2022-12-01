@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭錦煌",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉裕仁",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭國城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新港鄉",
+            "cunli": "南港村",
+            "house_no": "191",
+            "candidates": {
+                "1": 198,
+                "2": 314,
+                "3": 156,
+                "4": 55
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 984
+        }
+    ]
+}

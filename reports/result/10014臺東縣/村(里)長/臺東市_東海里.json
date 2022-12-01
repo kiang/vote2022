@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張長江",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃淑娟",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪素蓉",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "吳信億",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "東海里",
+            "house_no": "50",
+            "candidates": {
+                "1": 85,
+                "2": 173,
+                "3": 140,
+                "4": 211
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 994
+        },
+        {
+            "area": "臺東市",
+            "cunli": "東海里",
+            "house_no": "51",
+            "candidates": {
+                "1": 88,
+                "2": 114,
+                "3": 158,
+                "4": 226
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 889
+        }
+    ]
+}

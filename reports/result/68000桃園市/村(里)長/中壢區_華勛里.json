@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱夢奇",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林建國",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "華勛里",
+            "house_no": "789",
+            "candidates": {
+                "1": 545,
+                "2": 88
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "中壢區",
+            "cunli": "華勛里",
+            "house_no": "790",
+            "candidates": {
+                "1": 607,
+                "2": 150
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1387
+        },
+        {
+            "area": "中壢區",
+            "cunli": "華勛里",
+            "house_no": "791",
+            "candidates": {
+                "1": 542,
+                "2": 198
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1452
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭阿添",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳清池",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊柳枝",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳日方",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "存仁里",
+            "house_no": "142",
+            "candidates": {
+                "1": 139,
+                "2": 96,
+                "3": 89,
+                "4": 62
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 516
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "存仁里",
+            "house_no": "143",
+            "candidates": {
+                "1": 8,
+                "2": 5,
+                "3": 39,
+                "4": 178
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 292
+        }
+    ]
+}

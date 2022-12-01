@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭素瓊",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊仁瑰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "文聖里",
+            "house_no": "1149",
+            "candidates": {
+                "1": 252,
+                "2": 644
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1582
+        },
+        {
+            "area": "板橋區",
+            "cunli": "文聖里",
+            "house_no": "1150",
+            "candidates": {
+                "1": 257,
+                "2": 743
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1745
+        }
+    ]
+}

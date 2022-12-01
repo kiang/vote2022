@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施學志",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤增雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐原里",
+            "house_no": "78",
+            "candidates": {
+                "1": 217,
+                "2": 208
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 602
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐原里",
+            "house_no": "79",
+            "candidates": {
+                "1": 188,
+                "2": 198
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 597
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "金冠宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾文俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "成功里",
+            "house_no": "950",
+            "candidates": {
+                "1": 218,
+                "2": 406
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "永康區",
+            "cunli": "成功里",
+            "house_no": "951",
+            "candidates": {
+                "1": 217,
+                "2": 397
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

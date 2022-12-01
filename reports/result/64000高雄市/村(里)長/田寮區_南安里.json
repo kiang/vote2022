@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉正諒",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃朝添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田寮區",
+            "cunli": "南安里",
+            "house_no": "258",
+            "candidates": {
+                "1": 205,
+                "2": 234
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 604
+        },
+        {
+            "area": "田寮區",
+            "cunli": "南安里",
+            "house_no": "259",
+            "candidates": {
+                "1": 153,
+                "2": 125
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 359
+        }
+    ]
+}

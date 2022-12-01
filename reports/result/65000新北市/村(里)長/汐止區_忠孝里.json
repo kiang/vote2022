@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張炳鍾",
+            "party": "新華勞動黨"
+        },
+        "2": {
+            "name": "丁彥伶",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "忠孝里",
+            "house_no": "2614",
+            "candidates": {
+                "1": 140,
+                "2": 530
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "汐止區",
+            "cunli": "忠孝里",
+            "house_no": "2615",
+            "candidates": {
+                "1": 153,
+                "2": 573
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1466
+        },
+        {
+            "area": "汐止區",
+            "cunli": "忠孝里",
+            "house_no": "2616",
+            "candidates": {
+                "1": 127,
+                "2": 571
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1460
+        },
+        {
+            "area": "汐止區",
+            "cunli": "忠孝里",
+            "house_no": "2617",
+            "candidates": {
+                "1": 142,
+                "2": 556
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1431
+        },
+        {
+            "area": "汐止區",
+            "cunli": "忠孝里",
+            "house_no": "2618",
+            "candidates": {
+                "1": 123,
+                "2": 555
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1470
+        }
+    ]
+}

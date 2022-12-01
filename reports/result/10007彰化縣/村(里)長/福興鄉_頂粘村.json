@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "粘財本",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "福興鄉",
+            "cunli": "頂粘村",
+            "house_no": "345",
+            "candidates": {
+                "1": 520
+            },
+            "count_wrong": 118,
+            "count_unused": 1,
+            "count_total": 955
+        },
+        {
+            "area": "福興鄉",
+            "cunli": "頂粘村",
+            "house_no": "346",
+            "candidates": {
+                "1": 730
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1243
+        }
+    ]
+}

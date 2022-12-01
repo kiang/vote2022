@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭明洲",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "廣福里",
+            "house_no": "410",
+            "candidates": {
+                "1": 449
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "后里區",
+            "cunli": "廣福里",
+            "house_no": "411",
+            "candidates": {
+                "1": 595
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1148
+        }
+    ]
+}

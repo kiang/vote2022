@@ -1,0 +1,118 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴英瑜",
+            "party": "無"
+        },
+        "2": {
+            "name": "施俊仲",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴俊豪",
+            "party": "台灣民眾黨"
+        },
+        "4": {
+            "name": "賴瑞盛",
+            "party": "無"
+        },
+        "5": {
+            "name": "賴慶昇",
+            "party": "無"
+        },
+        "6": {
+            "name": "賴玟廷",
+            "party": "無"
+        },
+        "7": {
+            "name": "許居明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "擺塘村",
+            "house_no": "616",
+            "candidates": {
+                "1": 161,
+                "2": 163,
+                "3": 285,
+                "4": 199
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "擺塘村",
+            "house_no": "617",
+            "candidates": {
+                "1": 65,
+                "2": 249,
+                "3": 372,
+                "4": 229
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "過溝村",
+            "house_no": "618",
+            "candidates": {
+                "1": 413,
+                "2": 89,
+                "3": 101,
+                "4": 122
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "過溝村",
+            "house_no": "619",
+            "candidates": {
+                "1": 357,
+                "2": 79,
+                "3": 61,
+                "4": 74
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 889
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "過溝村",
+            "house_no": "620",
+            "candidates": {
+                "1": 279,
+                "2": 85,
+                "3": 119,
+                "4": 113
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "村上村",
+            "house_no": "621",
+            "candidates": {
+                "1": 190,
+                "2": 184,
+                "3": 209,
+                "4": 321
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1450
+        }
+    ]
+}

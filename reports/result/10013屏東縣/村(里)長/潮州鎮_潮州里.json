@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱祐馴",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝素靜",
+            "party": "無"
+        },
+        "3": {
+            "name": "李思慧",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳啓榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潮州鎮",
+            "cunli": "潮州里",
+            "house_no": "138",
+            "candidates": {
+                "1": 128,
+                "2": 45,
+                "3": 79,
+                "4": 70
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 466
+        }
+    ]
+}

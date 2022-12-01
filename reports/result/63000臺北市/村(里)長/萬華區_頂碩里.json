@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "溫宗霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧富軒",
+            "party": "無"
+        },
+        "3": {
+            "name": "李智聰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "頂碩里",
+            "house_no": "1305",
+            "candidates": {
+                "1": 276,
+                "2": 98,
+                "3": 224
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "萬華區",
+            "cunli": "頂碩里",
+            "house_no": "1306",
+            "candidates": {
+                "1": 352,
+                "2": 126,
+                "3": 278
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1088
+        },
+        {
+            "area": "萬華區",
+            "cunli": "頂碩里",
+            "house_no": "1307",
+            "candidates": {
+                "1": 292,
+                "2": 115,
+                "3": 280
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "萬華區",
+            "cunli": "頂碩里",
+            "house_no": "1308",
+            "candidates": {
+                "1": 589,
+                "2": 78,
+                "3": 243
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1365
+        },
+        {
+            "area": "萬華區",
+            "cunli": "頂碩里",
+            "house_no": "1309",
+            "candidates": {
+                "1": 502,
+                "2": 125,
+                "3": 260
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1322
+        }
+    ]
+}

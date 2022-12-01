@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏丞章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "中興里",
+            "house_no": "489",
+            "candidates": {
+                "1": 749
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "豐原區",
+            "cunli": "中興里",
+            "house_no": "490",
+            "candidates": {
+                "1": 813
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1425
+        }
+    ]
+}

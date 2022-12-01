@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳欽貴",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉清順",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳俊良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新屋區",
+            "cunli": "大坡里",
+            "house_no": "1301",
+            "candidates": {
+                "1": 371,
+                "2": 85,
+                "3": 464
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1274
+        }
+    ]
+}

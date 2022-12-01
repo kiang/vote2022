@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳朝琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜佳福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "林中里",
+            "house_no": "1329",
+            "candidates": {
+                "1": 131,
+                "2": 398
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 878
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林中里",
+            "house_no": "1330",
+            "candidates": {
+                "1": 112,
+                "2": 404
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林中里",
+            "house_no": "1331",
+            "candidates": {
+                "1": 137,
+                "2": 374
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 853
+        }
+    ]
+}

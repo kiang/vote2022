@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉清仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁德區",
+            "cunli": "中洲里",
+            "house_no": "1441",
+            "candidates": {
+                "1": 510
+            },
+            "count_wrong": 147,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "仁德區",
+            "cunli": "中洲里",
+            "house_no": "1442",
+            "candidates": {
+                "1": 651
+            },
+            "count_wrong": 166,
+            "count_unused": 3,
+            "count_total": 1397
+        }
+    ]
+}

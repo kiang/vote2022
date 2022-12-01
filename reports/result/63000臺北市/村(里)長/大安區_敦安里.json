@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王復",
+            "party": "無"
+        },
+        "2": {
+            "name": "王瑞泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "敦安里",
+            "house_no": "1555",
+            "candidates": {
+                "1": 548,
+                "2": 136
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "大安區",
+            "cunli": "敦安里",
+            "house_no": "1556",
+            "candidates": {
+                "1": 538,
+                "2": 246
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "大安區",
+            "cunli": "敦安里",
+            "house_no": "1557",
+            "candidates": {
+                "1": 458,
+                "2": 216
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1123
+        },
+        {
+            "area": "大安區",
+            "cunli": "敦安里",
+            "house_no": "1558",
+            "candidates": {
+                "1": 461,
+                "2": 279
+            },
+            "count_wrong": 38,
+            "count_unused": 2,
+            "count_total": 1170
+        }
+    ]
+}

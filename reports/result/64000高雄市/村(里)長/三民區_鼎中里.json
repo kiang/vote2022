@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李水發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "鼎中里",
+            "house_no": "1008",
+            "candidates": {
+                "1": 465
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎中里",
+            "house_no": "1009",
+            "candidates": {
+                "1": 500
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎中里",
+            "house_no": "1010",
+            "candidates": {
+                "1": 553
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1263
+        }
+    ]
+}

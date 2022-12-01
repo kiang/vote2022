@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林春福",
+            "party": "無"
+        },
+        "2": {
+            "name": "凌飛龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺西鄉",
+            "cunli": "五港村",
+            "house_no": "50",
+            "candidates": {
+                "1": 359,
+                "2": 472
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1180
+        },
+        {
+            "area": "臺西鄉",
+            "cunli": "五港村",
+            "house_no": "51",
+            "candidates": {
+                "1": 211,
+                "2": 156
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 524
+        }
+    ]
+}

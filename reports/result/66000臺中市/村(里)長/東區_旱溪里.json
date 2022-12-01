@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高秀鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭松益",
+            "party": "無"
+        },
+        "3": {
+            "name": "林仁洲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "旱溪里",
+            "house_no": "1379",
+            "candidates": {
+                "1": 118,
+                "2": 305,
+                "3": 126
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "東區",
+            "cunli": "旱溪里",
+            "house_no": "1380",
+            "candidates": {
+                "1": 107,
+                "2": 231,
+                "3": 151
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "東區",
+            "cunli": "旱溪里",
+            "house_no": "1381",
+            "candidates": {
+                "1": 105,
+                "2": 289,
+                "3": 133
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 800
+        }
+    ]
+}

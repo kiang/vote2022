@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊宗賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "余瑞民",
+            "party": "無"
+        },
+        "3": {
+            "name": "李有財",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃艶聆",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "碧紅里",
+            "house_no": "298",
+            "candidates": {
+                "1": 93,
+                "2": 121,
+                "3": 234,
+                "4": 277
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "岡山區",
+            "cunli": "碧紅里",
+            "house_no": "299",
+            "candidates": {
+                "1": 97,
+                "2": 106,
+                "3": 280,
+                "4": 237
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "岡山區",
+            "cunli": "碧紅里",
+            "house_no": "300",
+            "candidates": {
+                "1": 80,
+                "2": 112,
+                "3": 306,
+                "4": 271
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1315
+        }
+    ]
+}

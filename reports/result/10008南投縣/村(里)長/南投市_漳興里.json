@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡木水",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝慶同",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "漳興里",
+            "house_no": "57",
+            "candidates": {
+                "1": 444,
+                "2": 503
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1286
+        },
+        {
+            "area": "南投市",
+            "cunli": "漳興里",
+            "house_no": "58",
+            "candidates": {
+                "1": 369,
+                "2": 426
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1188
+        }
+    ]
+}

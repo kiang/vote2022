@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝建設",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏文龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "林肇卿",
+            "party": "無"
+        },
+        "4": {
+            "name": "林文徹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "溪頂村",
+            "house_no": "905",
+            "candidates": {
+                "1": 83,
+                "2": 223,
+                "3": 49,
+                "4": 42
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 588
+        }
+    ]
+}

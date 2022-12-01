@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林江鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳君宜",
+            "party": "無"
+        },
+        "3": {
+            "name": "林錡享",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿谷鄉",
+            "cunli": "初鄉村",
+            "house_no": "351",
+            "candidates": {
+                "1": 120,
+                "2": 54,
+                "3": 262
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "初鄉村",
+            "house_no": "352",
+            "candidates": {
+                "1": 129,
+                "2": 63,
+                "3": 264
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "秀峰村",
+            "house_no": "353",
+            "candidates": {
+                "1": 178,
+                "2": 120,
+                "3": 152
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "清水村",
+            "house_no": "354",
+            "candidates": {
+                "1": 81,
+                "2": 317,
+                "3": 120
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "鹿谷鄉",
+            "cunli": "瑞田村",
+            "house_no": "355",
+            "candidates": {
+                "1": 75,
+                "2": 319,
+                "3": 110
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 672
+        }
+    ]
+}

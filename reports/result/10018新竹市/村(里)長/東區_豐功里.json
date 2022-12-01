@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "翁秀瓊",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "豐功里",
+            "house_no": "59",
+            "candidates": {
+                "1": 613
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "東區",
+            "cunli": "豐功里",
+            "house_no": "60",
+            "candidates": {
+                "1": 440
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "東區",
+            "cunli": "豐功里",
+            "house_no": "61",
+            "candidates": {
+                "1": 549
+            },
+            "count_wrong": 114,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "東區",
+            "cunli": "豐功里",
+            "house_no": "62",
+            "candidates": {
+                "1": 634
+            },
+            "count_wrong": 124,
+            "count_unused": 0,
+            "count_total": 1105
+        }
+    ]
+}

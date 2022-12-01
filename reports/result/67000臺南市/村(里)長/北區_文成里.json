@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏吳珠華",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇來椿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "文成里",
+            "house_no": "1036",
+            "candidates": {
+                "1": 231,
+                "2": 316
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "北區",
+            "cunli": "文成里",
+            "house_no": "1037",
+            "candidates": {
+                "1": 220,
+                "2": 335
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "北區",
+            "cunli": "文成里",
+            "house_no": "1038",
+            "candidates": {
+                "1": 199,
+                "2": 331
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 915
+        }
+    ]
+}

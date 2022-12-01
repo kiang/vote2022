@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳建宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中西區",
+            "cunli": "郡王里",
+            "house_no": "1063",
+            "candidates": {
+                "1": 469
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 1012
+        },
+        {
+            "area": "中西區",
+            "cunli": "郡王里",
+            "house_no": "1064",
+            "candidates": {
+                "1": 379
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "中西區",
+            "cunli": "郡王里",
+            "house_no": "1065",
+            "candidates": {
+                "1": 350
+            },
+            "count_wrong": 78,
+            "count_unused": 0,
+            "count_total": 908
+        }
+    ]
+}

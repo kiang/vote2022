@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃清陽",
+            "party": "無"
+        },
+        "2": {
+            "name": "施明通",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊順利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳林鎮",
+            "cunli": "鳳禮里",
+            "house_no": "228",
+            "candidates": {
+                "1": 216,
+                "2": 155,
+                "3": 70
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 551
+        }
+    ]
+}

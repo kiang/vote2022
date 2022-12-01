@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹益利",
+            "party": "無"
+        },
+        "2": {
+            "name": "張湘琪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "光榮里",
+            "house_no": "621",
+            "candidates": {
+                "1": 254,
+                "2": 508
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "新莊區",
+            "cunli": "光榮里",
+            "house_no": "622",
+            "candidates": {
+                "1": 243,
+                "2": 477
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "新莊區",
+            "cunli": "光榮里",
+            "house_no": "623",
+            "candidates": {
+                "1": 309,
+                "2": 406
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1214
+        }
+    ]
+}

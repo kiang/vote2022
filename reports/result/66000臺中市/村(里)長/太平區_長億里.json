@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林泳鰡",
+            "party": "無"
+        },
+        "2": {
+            "name": "馬振濯",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "呂也好",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳櫻如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "長億里",
+            "house_no": "1505",
+            "candidates": {
+                "1": 432,
+                "2": 44,
+                "3": 303,
+                "4": 238
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1546
+        },
+        {
+            "area": "太平區",
+            "cunli": "長億里",
+            "house_no": "1506",
+            "candidates": {
+                "1": 285,
+                "2": 43,
+                "3": 262,
+                "4": 245
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1318
+        },
+        {
+            "area": "太平區",
+            "cunli": "長億里",
+            "house_no": "1507",
+            "candidates": {
+                "1": 315,
+                "2": 31,
+                "3": 265,
+                "4": 192
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "太平區",
+            "cunli": "長億里",
+            "house_no": "1508",
+            "candidates": {
+                "1": 324,
+                "2": 76,
+                "3": 379,
+                "4": 211
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1710
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊勝鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "施啓淯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "福山里",
+            "house_no": "83",
+            "candidates": {
+                "1": 402,
+                "2": 257
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "南投市",
+            "cunli": "福山里",
+            "house_no": "84",
+            "candidates": {
+                "1": 251,
+                "2": 385
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

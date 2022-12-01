@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳永忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳瑞龍",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義鄉",
+            "cunli": "明德村",
+            "house_no": "448",
+            "candidates": {
+                "1": 126,
+                "2": 244
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 526
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "明德村",
+            "house_no": "449",
+            "candidates": {
+                "1": 167,
+                "2": 230
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 584
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "明德村",
+            "house_no": "450",
+            "candidates": {
+                "1": 35,
+                "2": 186
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 298
+        }
+    ]
+}

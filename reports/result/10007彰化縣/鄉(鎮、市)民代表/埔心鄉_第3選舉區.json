@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃坤鼎",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃俊寰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔心鄉",
+            "cunli": "梧鳳村",
+            "house_no": "766",
+            "candidates": {
+                "1": 268,
+                "2": 248
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 860
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "二重村",
+            "house_no": "767",
+            "candidates": {
+                "1": 581,
+                "2": 419
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1389
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "埤霞村",
+            "house_no": "768",
+            "candidates": {
+                "1": 210,
+                "2": 287
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "埔心鄉",
+            "cunli": "埤脚村",
+            "house_no": "769",
+            "candidates": {
+                "1": 263,
+                "2": 298
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 882
+        }
+    ]
+}

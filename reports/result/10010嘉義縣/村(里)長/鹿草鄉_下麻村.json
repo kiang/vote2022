@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施俊德",
+            "party": "無"
+        },
+        "2": {
+            "name": "張世榮",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡慶成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿草鄉",
+            "cunli": "下麻村",
+            "house_no": "60",
+            "candidates": {
+                "1": 67,
+                "2": 79,
+                "3": 109
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 314
+        },
+        {
+            "area": "鹿草鄉",
+            "cunli": "下麻村",
+            "house_no": "61",
+            "candidates": {
+                "1": 33,
+                "2": 79,
+                "3": 72
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 259
+        }
+    ]
+}

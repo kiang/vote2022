@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國堯",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐勝昌",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "296",
+            "candidates": {
+                "1": 394,
+                "2": 291
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1410
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "297",
+            "candidates": {
+                "1": 465,
+                "2": 255
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1302
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "298",
+            "candidates": {
+                "1": 385,
+                "2": 270
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "信勢村",
+            "house_no": "299",
+            "candidates": {
+                "1": 449,
+                "2": 296
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1314
+        }
+    ]
+}

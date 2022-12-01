@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王美華",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁榮華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "松山里",
+            "house_no": "1849",
+            "candidates": {
+                "1": 662,
+                "2": 284
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1596
+        },
+        {
+            "area": "小港區",
+            "cunli": "松山里",
+            "house_no": "1850",
+            "candidates": {
+                "1": 596,
+                "2": 260
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1405
+        }
+    ]
+}

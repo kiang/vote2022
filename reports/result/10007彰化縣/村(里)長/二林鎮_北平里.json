@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳凱偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪建榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "北平里",
+            "house_no": "981",
+            "candidates": {
+                "1": 305,
+                "2": 323
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 949
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "北平里",
+            "house_no": "982",
+            "candidates": {
+                "1": 288,
+                "2": 342
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "北平里",
+            "house_no": "983",
+            "candidates": {
+                "1": 298,
+                "2": 295
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 935
+        }
+    ]
+}

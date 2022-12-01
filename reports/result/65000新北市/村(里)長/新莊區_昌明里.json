@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許澤清",
+            "party": "無"
+        },
+        "2": {
+            "name": "呂嘉群",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "昌明里",
+            "house_no": "425",
+            "candidates": {
+                "1": 231,
+                "2": 340
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 952
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌明里",
+            "house_no": "426",
+            "candidates": {
+                "1": 227,
+                "2": 365
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "新莊區",
+            "cunli": "昌明里",
+            "house_no": "427",
+            "candidates": {
+                "1": 255,
+                "2": 394
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1078
+        }
+    ]
+}

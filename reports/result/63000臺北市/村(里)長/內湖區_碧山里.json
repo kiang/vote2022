@@ -1,0 +1,110 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡景瑞",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳培德",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "莊國棟",
+            "party": "無"
+        },
+        "4": {
+            "name": "張國欽",
+            "party": "無"
+        },
+        "5": {
+            "name": "曹連燊",
+            "party": "無"
+        },
+        "6": {
+            "name": "游德欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "碧山里",
+            "house_no": "409",
+            "candidates": {
+                "1": 6,
+                "2": 16,
+                "3": 35,
+                "4": 12,
+                "5": 146,
+                "6": 31
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 389
+        },
+        {
+            "area": "內湖區",
+            "cunli": "碧山里",
+            "house_no": "410",
+            "candidates": {
+                "1": 143,
+                "2": 185,
+                "3": 60,
+                "4": 243,
+                "5": 233,
+                "6": 149
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1517
+        },
+        {
+            "area": "內湖區",
+            "cunli": "碧山里",
+            "house_no": "411",
+            "candidates": {
+                "1": 153,
+                "2": 162,
+                "3": 38,
+                "4": 147,
+                "5": 273,
+                "6": 99
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "內湖區",
+            "cunli": "碧山里",
+            "house_no": "412",
+            "candidates": {
+                "1": 119,
+                "2": 171,
+                "3": 67,
+                "4": 194,
+                "5": 186,
+                "6": 99
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1261
+        },
+        {
+            "area": "內湖區",
+            "cunli": "碧山里",
+            "house_no": "413",
+            "candidates": {
+                "1": 186,
+                "2": 101,
+                "3": 76,
+                "4": 118,
+                "5": 247,
+                "6": 69
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1307
+        }
+    ]
+}

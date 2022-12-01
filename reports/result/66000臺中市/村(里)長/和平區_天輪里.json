@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林敏㨗",
+            "party": "無"
+        },
+        "2": {
+            "name": "張睿碧",
+            "party": "無"
+        },
+        "3": {
+            "name": "張勝元",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉興水",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "天輪里",
+            "house_no": "1866",
+            "candidates": {
+                "1": 72,
+                "2": 117,
+                "3": 5,
+                "4": 143
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 450
+        }
+    ]
+}

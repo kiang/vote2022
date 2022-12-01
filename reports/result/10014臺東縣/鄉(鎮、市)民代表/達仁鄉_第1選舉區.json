@@ -1,0 +1,46 @@
+{
+    "candidates": {
+        "1": {
+            "name": "石振雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉仁宗",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳明忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "達仁鄉",
+            "cunli": "南田村",
+            "house_no": "228",
+            "candidates": {
+                "1": 19,
+                "2": 100,
+                "3": 23,
+                "4": 87
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 298
+        },
+        {
+            "area": "達仁鄉",
+            "cunli": "森永村",
+            "house_no": "229",
+            "candidates": {
+                "1": 76,
+                "2": 12,
+                "3": 140,
+                "4": 66
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 365
+        }
+    ]
+}

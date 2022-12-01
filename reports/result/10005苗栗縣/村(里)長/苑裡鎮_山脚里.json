@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂奇文",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭志成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苑裡鎮",
+            "cunli": "山脚里",
+            "house_no": "210",
+            "candidates": {
+                "1": 169,
+                "2": 240
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 616
+        },
+        {
+            "area": "苑裡鎮",
+            "cunli": "山脚里",
+            "house_no": "211",
+            "candidates": {
+                "1": 143,
+                "2": 298
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 663
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈清進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "中原里",
+            "house_no": "830",
+            "candidates": {
+                "1": 561
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "中壢區",
+            "cunli": "中原里",
+            "house_no": "831",
+            "candidates": {
+                "1": 563
+            },
+            "count_wrong": 120,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "中壢區",
+            "cunli": "中原里",
+            "house_no": "832",
+            "candidates": {
+                "1": 588
+            },
+            "count_wrong": 90,
+            "count_unused": 0,
+            "count_total": 1191
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張秋月",
+            "party": "無"
+        },
+        "2": {
+            "name": "林佳惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳芳明",
+            "party": "無"
+        },
+        "4": {
+            "name": "簡孟涵",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "崇德里",
+            "house_no": "905",
+            "candidates": {
+                "1": 30,
+                "2": 286,
+                "3": 351,
+                "4": 115
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "三重區",
+            "cunli": "崇德里",
+            "house_no": "906",
+            "candidates": {
+                "1": 43,
+                "2": 142,
+                "3": 341,
+                "4": 109
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "三重區",
+            "cunli": "崇德里",
+            "house_no": "907",
+            "candidates": {
+                "1": 105,
+                "2": 145,
+                "3": 408,
+                "4": 82
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1247
+        }
+    ]
+}

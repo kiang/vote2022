@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李秉樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "文華里",
+            "house_no": "1192",
+            "candidates": {
+                "1": 457
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "南區",
+            "cunli": "文華里",
+            "house_no": "1193",
+            "candidates": {
+                "1": 484
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "南區",
+            "cunli": "文華里",
+            "house_no": "1194",
+            "candidates": {
+                "1": 476
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1024
+        }
+    ]
+}

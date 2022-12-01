@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀萬星",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳培育",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡水松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "公明里",
+            "house_no": "262",
+            "candidates": {
+                "1": 18,
+                "2": 287,
+                "3": 505
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "公明里",
+            "house_no": "263",
+            "candidates": {
+                "1": 7,
+                "2": 199,
+                "3": 311
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "公明里",
+            "house_no": "264",
+            "candidates": {
+                "1": 12,
+                "2": 212,
+                "3": 336
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "公明里",
+            "house_no": "265",
+            "candidates": {
+                "1": 11,
+                "2": 306,
+                "3": 362
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1072
+        }
+    ]
+}

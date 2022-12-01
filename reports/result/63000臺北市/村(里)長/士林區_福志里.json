@@ -1,0 +1,92 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳啓福",
+            "party": "無"
+        },
+        "2": {
+            "name": "歐芳如",
+            "party": "無"
+        },
+        "3": {
+            "name": "許近勇",
+            "party": "無"
+        },
+        "4": {
+            "name": "邱邱田",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福志里",
+            "house_no": "182",
+            "candidates": {
+                "1": 76,
+                "2": 201,
+                "3": 49,
+                "4": 425
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1105
+        },
+        {
+            "area": "士林區",
+            "cunli": "福志里",
+            "house_no": "183",
+            "candidates": {
+                "1": 27,
+                "2": 159,
+                "3": 73,
+                "4": 495
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "士林區",
+            "cunli": "福志里",
+            "house_no": "184",
+            "candidates": {
+                "1": 84,
+                "2": 282,
+                "3": 39,
+                "4": 344
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "士林區",
+            "cunli": "福志里",
+            "house_no": "185",
+            "candidates": {
+                "1": 85,
+                "2": 345,
+                "3": 78,
+                "4": 398
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "士林區",
+            "cunli": "福志里",
+            "house_no": "186",
+            "candidates": {
+                "1": 66,
+                "2": 436,
+                "3": 65,
+                "4": 453
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1415
+        }
+    ]
+}

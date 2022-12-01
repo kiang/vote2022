@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳銘澤",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃靖娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿蓮區",
+            "cunli": "阿蓮里",
+            "house_no": "240",
+            "candidates": {
+                "1": 102,
+                "2": 485
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1154
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "阿蓮里",
+            "house_no": "241",
+            "candidates": {
+                "1": 95,
+                "2": 459
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "阿蓮里",
+            "house_no": "242",
+            "candidates": {
+                "1": 93,
+                "2": 494
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1161
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "阿蓮里",
+            "house_no": "243",
+            "candidates": {
+                "1": 114,
+                "2": 506
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1255
+        }
+    ]
+}

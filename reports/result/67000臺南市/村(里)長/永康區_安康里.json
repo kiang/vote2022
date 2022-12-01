@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭順鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "王君哲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "安康里",
+            "house_no": "859",
+            "candidates": {
+                "1": 211,
+                "2": 291
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1048
+        },
+        {
+            "area": "永康區",
+            "cunli": "安康里",
+            "house_no": "860",
+            "candidates": {
+                "1": 244,
+                "2": 302
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1285
+        },
+        {
+            "area": "永康區",
+            "cunli": "安康里",
+            "house_no": "861",
+            "candidates": {
+                "1": 254,
+                "2": 389
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "永康區",
+            "cunli": "安康里",
+            "house_no": "862",
+            "candidates": {
+                "1": 268,
+                "2": 299
+            },
+            "count_wrong": 15,
+            "count_unused": 2,
+            "count_total": 1041
+        }
+    ]
+}

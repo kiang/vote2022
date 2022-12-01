@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳樹源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "楓樹里",
+            "house_no": "333",
+            "candidates": {
+                "1": 601
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "龜山區",
+            "cunli": "楓樹里",
+            "house_no": "334",
+            "candidates": {
+                "1": 631
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "龜山區",
+            "cunli": "楓樹里",
+            "house_no": "335",
+            "candidates": {
+                "1": 743
+            },
+            "count_wrong": 134,
+            "count_unused": 0,
+            "count_total": 1456
+        }
+    ]
+}

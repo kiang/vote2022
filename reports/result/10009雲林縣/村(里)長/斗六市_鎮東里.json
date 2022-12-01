@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊鴻玉",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳碧芬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "鎮東里",
+            "house_no": "459",
+            "candidates": {
+                "1": 436,
+                "2": 344
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "斗六市",
+            "cunli": "鎮東里",
+            "house_no": "460",
+            "candidates": {
+                "1": 345,
+                "2": 315
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1011
+        }
+    ]
+}

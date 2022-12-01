@@ -1,0 +1,124 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖英機",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "施宜宏",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "林玉森",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "吳明德",
+            "party": "無"
+        },
+        "5": {
+            "name": "卓上龍 Watan．Haru",
+            "party": "中國國民黨"
+        },
+        "6": {
+            "name": "潘佩琪",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "陳秀惠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "南豐村",
+            "house_no": "470",
+            "candidates": {
+                "1": 102,
+                "2": 353,
+                "3": 49,
+                "4": 5,
+                "5": 151
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "南豐村",
+            "house_no": "471",
+            "candidates": {
+                "1": 78,
+                "2": 34,
+                "3": 45,
+                "4": 6,
+                "5": 84
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 348
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "大同村",
+            "house_no": "472",
+            "candidates": {
+                "1": 230,
+                "2": 30,
+                "3": 178,
+                "4": 9,
+                "5": 136
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 815
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "大同村",
+            "house_no": "473",
+            "candidates": {
+                "1": 43,
+                "2": 45,
+                "3": 134,
+                "4": 2,
+                "5": 96
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 463
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "大同村",
+            "house_no": "474",
+            "candidates": {
+                "1": 31,
+                "2": 19,
+                "3": 107,
+                "4": 4,
+                "5": 72
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 308
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "榮興村",
+            "house_no": "475",
+            "candidates": {
+                "1": 2,
+                "2": 0,
+                "3": 5,
+                "4": 6,
+                "5": 14
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 47
+        }
+    ]
+}

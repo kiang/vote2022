@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴釗儒",
+            "party": "無"
+        },
+        "2": {
+            "name": "張明文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "車城鄉",
+            "cunli": "保力村",
+            "house_no": "627",
+            "candidates": {
+                "1": 97,
+                "2": 302
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 567
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "保力村",
+            "house_no": "628",
+            "candidates": {
+                "1": 129,
+                "2": 279
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 602
+        }
+    ]
+}

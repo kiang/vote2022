@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭文宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "李正吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "許木春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福佳里",
+            "house_no": "191",
+            "candidates": {
+                "1": 90,
+                "2": 237,
+                "3": 360
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1020
+        },
+        {
+            "area": "士林區",
+            "cunli": "福佳里",
+            "house_no": "192",
+            "candidates": {
+                "1": 134,
+                "2": 387,
+                "3": 326
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "士林區",
+            "cunli": "福佳里",
+            "house_no": "193",
+            "candidates": {
+                "1": 169,
+                "2": 182,
+                "3": 515
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "士林區",
+            "cunli": "福佳里",
+            "house_no": "194",
+            "candidates": {
+                "1": 217,
+                "2": 306,
+                "3": 474
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1360
+        },
+        {
+            "area": "士林區",
+            "cunli": "福佳里",
+            "house_no": "195",
+            "candidates": {
+                "1": 140,
+                "2": 144,
+                "3": 455
+            },
+            "count_wrong": 40,
+            "count_unused": 1,
+            "count_total": 1151
+        }
+    ]
+}

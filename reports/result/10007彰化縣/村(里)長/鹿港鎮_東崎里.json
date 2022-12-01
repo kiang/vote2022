@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡順",
+            "party": "無"
+        },
+        "2": {
+            "name": "王明順",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "306",
+            "candidates": {
+                "1": 98,
+                "2": 577
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "307",
+            "candidates": {
+                "1": 199,
+                "2": 468
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1149
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "308",
+            "candidates": {
+                "1": 117,
+                "2": 660
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "東崎里",
+            "house_no": "309",
+            "candidates": {
+                "1": 250,
+                "2": 491
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1452
+        }
+    ]
+}

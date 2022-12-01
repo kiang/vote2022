@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林義平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "西安里",
+            "house_no": "870",
+            "candidates": {
+                "1": 391
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "西安里",
+            "house_no": "871",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 914
+        }
+    ]
+}

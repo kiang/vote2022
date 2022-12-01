@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林其發",
+            "party": "無"
+        },
+        "2": {
+            "name": "林哲政",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹山鎮",
+            "cunli": "福興里",
+            "house_no": "276",
+            "candidates": {
+                "1": 57,
+                "2": 88
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 172
+        },
+        {
+            "area": "竹山鎮",
+            "cunli": "福興里",
+            "house_no": "277",
+            "candidates": {
+                "1": 258,
+                "2": 56
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 385
+        }
+    ]
+}

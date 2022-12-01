@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈榮華",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳坤助",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "將軍里",
+            "house_no": "569",
+            "candidates": {
+                "1": 222,
+                "2": 363
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 825
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "將軍里",
+            "house_no": "570",
+            "candidates": {
+                "1": 264,
+                "2": 238
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 803
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李武雄",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "楊宗翰",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "杭雲河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "東南里",
+            "house_no": "1436",
+            "candidates": {
+                "1": 223,
+                "2": 224,
+                "3": 182
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "中和區",
+            "cunli": "東南里",
+            "house_no": "1437",
+            "candidates": {
+                "1": 348,
+                "2": 169,
+                "3": 182
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "中和區",
+            "cunli": "東南里",
+            "house_no": "1438",
+            "candidates": {
+                "1": 416,
+                "2": 264,
+                "3": 83
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1237
+        }
+    ]
+}

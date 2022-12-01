@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳正宇",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳慶章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "嘉芳里",
+            "house_no": "168",
+            "candidates": {
+                "1": 355,
+                "2": 240
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 991
+        },
+        {
+            "area": "新營區",
+            "cunli": "嘉芳里",
+            "house_no": "169",
+            "candidates": {
+                "1": 281,
+                "2": 184
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 802
+        }
+    ]
+}

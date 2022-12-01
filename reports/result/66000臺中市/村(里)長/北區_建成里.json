@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何美純",
+            "party": "無"
+        },
+        "2": {
+            "name": "林寬仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "建成里",
+            "house_no": "1196",
+            "candidates": {
+                "1": 371,
+                "2": 506
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "北區",
+            "cunli": "建成里",
+            "house_no": "1197",
+            "candidates": {
+                "1": 323,
+                "2": 314
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "北區",
+            "cunli": "建成里",
+            "house_no": "1198",
+            "candidates": {
+                "1": 427,
+                "2": 572
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1629
+        },
+        {
+            "area": "北區",
+            "cunli": "建成里",
+            "house_no": "1199",
+            "candidates": {
+                "1": 388,
+                "2": 419
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1494
+        }
+    ]
+}

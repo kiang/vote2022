@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊龍傳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金寧鄉",
+            "cunli": "榜林村",
+            "house_no": "38",
+            "candidates": {
+                "1": 375
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 968
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "榜林村",
+            "house_no": "39",
+            "candidates": {
+                "1": 300
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "榜林村",
+            "house_no": "40",
+            "candidates": {
+                "1": 530
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 1752
+        },
+        {
+            "area": "金寧鄉",
+            "cunli": "榜林村",
+            "house_no": "41",
+            "candidates": {
+                "1": 525
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1523
+        }
+    ]
+}

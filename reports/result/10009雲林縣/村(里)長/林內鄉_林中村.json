@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王志忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉懷宇",
+            "party": "無"
+        },
+        "3": {
+            "name": "詹文邦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "435",
+            "candidates": {
+                "1": 238,
+                "2": 241,
+                "3": 300
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "436",
+            "candidates": {
+                "1": 243,
+                "2": 166,
+                "3": 138
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "437",
+            "candidates": {
+                "1": 255,
+                "2": 131,
+                "3": 117
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 781
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "438",
+            "candidates": {
+                "1": 139,
+                "2": 115,
+                "3": 174
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 627
+        }
+    ]
+}

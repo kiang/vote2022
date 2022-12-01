@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭麗玉",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張景舜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "元埔村",
+            "house_no": "933",
+            "candidates": {
+                "1": 238,
+                "2": 145
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 537
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "芙朝村",
+            "house_no": "934",
+            "candidates": {
+                "1": 263,
+                "2": 234
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 702
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "芙朝村",
+            "house_no": "935",
+            "candidates": {
+                "1": 277,
+                "2": 210
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 692
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "新庄村",
+            "house_no": "936",
+            "candidates": {
+                "1": 438,
+                "2": 185
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 955
+        }
+    ]
+}

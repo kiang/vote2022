@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林韋辰",
+            "party": "無"
+        },
+        "2": {
+            "name": "林慶聰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "莿桐鄉",
+            "cunli": "興桐村",
+            "house_no": "414",
+            "candidates": {
+                "1": 94,
+                "2": 273
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 544
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "興桐村",
+            "house_no": "415",
+            "candidates": {
+                "1": 171,
+                "2": 260
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 563
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林高田",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏銘城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "網寮里",
+            "house_no": "814",
+            "candidates": {
+                "1": 357,
+                "2": 386
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "永康區",
+            "cunli": "網寮里",
+            "house_no": "815",
+            "candidates": {
+                "1": 356,
+                "2": 354
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "永康區",
+            "cunli": "網寮里",
+            "house_no": "816",
+            "candidates": {
+                "1": 331,
+                "2": 393
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "永康區",
+            "cunli": "網寮里",
+            "house_no": "817",
+            "candidates": {
+                "1": 381,
+                "2": 375
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1298
+        },
+        {
+            "area": "永康區",
+            "cunli": "網寮里",
+            "house_no": "818",
+            "candidates": {
+                "1": 406,
+                "2": 401
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1488
+        }
+    ]
+}

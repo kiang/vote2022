@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清香",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳紫渝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "永福里",
+            "house_no": "1639",
+            "candidates": {
+                "1": 378,
+                "2": 403
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "永和區",
+            "cunli": "永福里",
+            "house_no": "1640",
+            "candidates": {
+                "1": 343,
+                "2": 385
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1081
+        }
+    ]
+}

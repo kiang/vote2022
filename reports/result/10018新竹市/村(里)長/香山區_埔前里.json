@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊建標",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡萱燁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "埔前里",
+            "house_no": "307",
+            "candidates": {
+                "1": 241,
+                "2": 471
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 1095
+        },
+        {
+            "area": "香山區",
+            "cunli": "埔前里",
+            "house_no": "308",
+            "candidates": {
+                "1": 227,
+                "2": 324
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 826
+        },
+        {
+            "area": "香山區",
+            "cunli": "埔前里",
+            "house_no": "309",
+            "candidates": {
+                "1": 278,
+                "2": 452
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1130
+        }
+    ]
+}

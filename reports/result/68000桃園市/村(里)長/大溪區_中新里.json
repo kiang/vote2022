@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀春",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳芳善",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "中新里",
+            "house_no": "661",
+            "candidates": {
+                "1": 295,
+                "2": 313
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 797
+        },
+        {
+            "area": "大溪區",
+            "cunli": "中新里",
+            "house_no": "662",
+            "candidates": {
+                "1": 232,
+                "2": 250
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 662
+        }
+    ]
+}

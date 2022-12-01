@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林駿麟",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱聰益",
+            "party": "無"
+        },
+        "3": {
+            "name": "侯焜煜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新港鄉",
+            "cunli": "宮前村",
+            "house_no": "160",
+            "candidates": {
+                "1": 333,
+                "2": 342,
+                "3": 40
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "新港鄉",
+            "cunli": "宮前村",
+            "house_no": "161",
+            "candidates": {
+                "1": 355,
+                "2": 405,
+                "3": 49
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1127
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "姚源明",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡宜閔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林邊鄉",
+            "cunli": "林邊村",
+            "house_no": "567",
+            "candidates": {
+                "1": 340,
+                "2": 124
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 639
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "林邊村",
+            "house_no": "568",
+            "candidates": {
+                "1": 373,
+                "2": 146
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 698
+        }
+    ]
+}

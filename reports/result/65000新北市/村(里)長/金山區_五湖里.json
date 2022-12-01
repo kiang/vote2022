@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文俊",
+            "party": "無"
+        },
+        "2": {
+            "name": "李進發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金山區",
+            "cunli": "五湖里",
+            "house_no": "2506",
+            "candidates": {
+                "1": 222,
+                "2": 253
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 753
+        },
+        {
+            "area": "金山區",
+            "cunli": "五湖里",
+            "house_no": "2507",
+            "candidates": {
+                "1": 299,
+                "2": 273
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 834
+        }
+    ]
+}

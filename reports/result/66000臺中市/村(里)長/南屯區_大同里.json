@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游月珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴俞蓁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "大同里",
+            "house_no": "974",
+            "candidates": {
+                "1": 493,
+                "2": 241
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "南屯區",
+            "cunli": "大同里",
+            "house_no": "975",
+            "candidates": {
+                "1": 442,
+                "2": 208
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "南屯區",
+            "cunli": "大同里",
+            "house_no": "976",
+            "candidates": {
+                "1": 511,
+                "2": 180
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "南屯區",
+            "cunli": "大同里",
+            "house_no": "977",
+            "candidates": {
+                "1": 482,
+                "2": 189
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1127
+        }
+    ]
+}

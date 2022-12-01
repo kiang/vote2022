@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜丙戍",
+            "party": "無"
+        },
+        "2": {
+            "name": "李進興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖內區",
+            "cunli": "海埔里",
+            "house_no": "178",
+            "candidates": {
+                "1": 344,
+                "2": 129
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 868
+        },
+        {
+            "area": "湖內區",
+            "cunli": "海埔里",
+            "house_no": "179",
+            "candidates": {
+                "1": 293,
+                "2": 110
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 814
+        }
+    ]
+}

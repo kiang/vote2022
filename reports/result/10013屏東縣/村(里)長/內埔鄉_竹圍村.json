@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林錦富",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐冠蓉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "竹圍村",
+            "house_no": "453",
+            "candidates": {
+                "1": 130,
+                "2": 173
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 512
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "竹圍村",
+            "house_no": "454",
+            "candidates": {
+                "1": 303,
+                "2": 435
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1256
+        }
+    ]
+}

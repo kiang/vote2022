@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "尤煥青",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林智勇",
+            "party": "無"
+        },
+        "3": {
+            "name": "林秀瑛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀林鄉",
+            "cunli": "佳民村",
+            "house_no": "128",
+            "candidates": {
+                "1": 356,
+                "2": 145,
+                "3": 212
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1031
+        }
+    ]
+}

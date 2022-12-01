@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉明昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "張益浤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐原區",
+            "cunli": "豐西里",
+            "house_no": "475",
+            "candidates": {
+                "1": 357,
+                "2": 156
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "豐原區",
+            "cunli": "豐西里",
+            "house_no": "476",
+            "candidates": {
+                "1": 378,
+                "2": 85
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 728
+        }
+    ]
+}

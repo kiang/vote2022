@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林首相",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "阿蓮區",
+            "cunli": "南蓮里",
+            "house_no": "254",
+            "candidates": {
+                "1": 486
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "南蓮里",
+            "house_no": "255",
+            "candidates": {
+                "1": 452
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "阿蓮區",
+            "cunli": "南蓮里",
+            "house_no": "256",
+            "candidates": {
+                "1": 369
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 794
+        }
+    ]
+}

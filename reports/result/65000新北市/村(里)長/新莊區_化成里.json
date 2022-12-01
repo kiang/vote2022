@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林淑惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "張春櫻",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳林秀花",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳裔興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "化成里",
+            "house_no": "386",
+            "candidates": {
+                "1": 141,
+                "2": 39,
+                "3": 169,
+                "4": 240
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "新莊區",
+            "cunli": "化成里",
+            "house_no": "387",
+            "candidates": {
+                "1": 111,
+                "2": 46,
+                "3": 224,
+                "4": 247
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1021
+        },
+        {
+            "area": "新莊區",
+            "cunli": "化成里",
+            "house_no": "388",
+            "candidates": {
+                "1": 83,
+                "2": 55,
+                "3": 212,
+                "4": 303
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1242
+        }
+    ]
+}

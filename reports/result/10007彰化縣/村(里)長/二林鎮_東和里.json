@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪大順",
+            "party": "無"
+        },
+        "2": {
+            "name": "林詣佩",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "東和里",
+            "house_no": "975",
+            "candidates": {
+                "1": 219,
+                "2": 243
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "東和里",
+            "house_no": "976",
+            "candidates": {
+                "1": 460,
+                "2": 341
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1221
+        }
+    ]
+}

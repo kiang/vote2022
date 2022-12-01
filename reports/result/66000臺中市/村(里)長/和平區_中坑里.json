@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇慶祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "李明毅",
+            "party": "無"
+        },
+        "3": {
+            "name": "李宇陞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "中坑里",
+            "house_no": "1874",
+            "candidates": {
+                "1": 147,
+                "2": 167,
+                "3": 21
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 444
+        }
+    ]
+}

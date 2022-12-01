@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "柯淑華",
+            "party": "無"
+        },
+        "2": {
+            "name": "任文才",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "文新里",
+            "house_no": "310",
+            "candidates": {
+                "1": 298,
+                "2": 265
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "佳里區",
+            "cunli": "文新里",
+            "house_no": "311",
+            "candidates": {
+                "1": 279,
+                "2": 390
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "佳里區",
+            "cunli": "文新里",
+            "house_no": "312",
+            "candidates": {
+                "1": 300,
+                "2": 320
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "佳里區",
+            "cunli": "文新里",
+            "house_no": "313",
+            "candidates": {
+                "1": 363,
+                "2": 246
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1215
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅慧蓉",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡玉芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "興仁里",
+            "house_no": "359",
+            "candidates": {
+                "1": 261,
+                "2": 397
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1184
+        },
+        {
+            "area": "八德區",
+            "cunli": "興仁里",
+            "house_no": "360",
+            "candidates": {
+                "1": 365,
+                "2": 350
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "八德區",
+            "cunli": "興仁里",
+            "house_no": "361",
+            "candidates": {
+                "1": 265,
+                "2": 243
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1669
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉献章",
+            "party": "無"
+        },
+        "2": {
+            "name": "王之憤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪口鄉",
+            "cunli": "柳溝村",
+            "house_no": "225",
+            "candidates": {
+                "1": 332,
+                "2": 229
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 854
+        },
+        {
+            "area": "溪口鄉",
+            "cunli": "柳溝村",
+            "house_no": "226",
+            "candidates": {
+                "1": 69,
+                "2": 181
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 371
+        }
+    ]
+}

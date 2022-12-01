@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁峯楠",
+            "party": "無"
+        },
+        "2": {
+            "name": "李建志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "大橋里",
+            "house_no": "846",
+            "candidates": {
+                "1": 280,
+                "2": 287
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "永康區",
+            "cunli": "大橋里",
+            "house_no": "847",
+            "candidates": {
+                "1": 255,
+                "2": 283
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "永康區",
+            "cunli": "大橋里",
+            "house_no": "848",
+            "candidates": {
+                "1": 296,
+                "2": 318
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1079
+        },
+        {
+            "area": "永康區",
+            "cunli": "大橋里",
+            "house_no": "849",
+            "candidates": {
+                "1": 268,
+                "2": 316
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1036
+        },
+        {
+            "area": "永康區",
+            "cunli": "大橋里",
+            "house_no": "850",
+            "candidates": {
+                "1": 300,
+                "2": 268
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1036
+        }
+    ]
+}

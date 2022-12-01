@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李天助",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "仁愛里",
+            "house_no": "1734",
+            "candidates": {
+                "1": 615
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "永和區",
+            "cunli": "仁愛里",
+            "house_no": "1735",
+            "candidates": {
+                "1": 593
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

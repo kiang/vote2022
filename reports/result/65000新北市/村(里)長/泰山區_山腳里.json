@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王國超",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳金利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "山腳里",
+            "house_no": "316",
+            "candidates": {
+                "1": 582,
+                "2": 226
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1615
+        },
+        {
+            "area": "泰山區",
+            "cunli": "山腳里",
+            "house_no": "317",
+            "candidates": {
+                "1": 565,
+                "2": 371
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1786
+        },
+        {
+            "area": "泰山區",
+            "cunli": "山腳里",
+            "house_no": "318",
+            "candidates": {
+                "1": 388,
+                "2": 201
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "泰山區",
+            "cunli": "山腳里",
+            "house_no": "319",
+            "candidates": {
+                "1": 460,
+                "2": 207
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1220
+        }
+    ]
+}

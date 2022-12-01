@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳世雍",
+            "party": "無"
+        },
+        "2": {
+            "name": "薛仁岳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龜山區",
+            "cunli": "楓福里",
+            "house_no": "331",
+            "candidates": {
+                "1": 395,
+                "2": 754
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1790
+        },
+        {
+            "area": "龜山區",
+            "cunli": "楓福里",
+            "house_no": "332",
+            "candidates": {
+                "1": 266,
+                "2": 641
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1423
+        }
+    ]
+}

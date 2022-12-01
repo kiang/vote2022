@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "白明堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "白珮嫺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "坪林區",
+            "cunli": "漁光里",
+            "house_no": "2395",
+            "candidates": {
+                "1": 115,
+                "2": 168
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 384
+        },
+        {
+            "area": "坪林區",
+            "cunli": "漁光里",
+            "house_no": "2396",
+            "candidates": {
+                "1": 110,
+                "2": 181
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 439
+        }
+    ]
+}

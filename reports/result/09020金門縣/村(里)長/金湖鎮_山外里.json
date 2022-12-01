@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳晚開",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "關志武",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金湖鎮",
+            "cunli": "山外里",
+            "house_no": "61",
+            "candidates": {
+                "1": 430,
+                "2": 264
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1896
+        },
+        {
+            "area": "金湖鎮",
+            "cunli": "山外里",
+            "house_no": "62",
+            "candidates": {
+                "1": 354,
+                "2": 229
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1400
+        }
+    ]
+}

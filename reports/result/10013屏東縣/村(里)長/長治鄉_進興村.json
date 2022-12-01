@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧喜源",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁錦文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "進興村",
+            "house_no": "298",
+            "candidates": {
+                "1": 241,
+                "2": 385
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "進興村",
+            "house_no": "299",
+            "candidates": {
+                "1": 452,
+                "2": 523
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1617
+        }
+    ]
+}

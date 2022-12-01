@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳先鳴",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "百和里",
+            "house_no": "2191",
+            "candidates": {
+                "1": 688
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "新店區",
+            "cunli": "百和里",
+            "house_no": "2192",
+            "candidates": {
+                "1": 681
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1344
+        }
+    ]
+}

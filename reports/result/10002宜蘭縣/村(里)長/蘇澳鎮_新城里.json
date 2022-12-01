@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳樹福",
+            "party": "無"
+        },
+        "2": {
+            "name": "張義隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "新城里",
+            "house_no": "149",
+            "candidates": {
+                "1": 218,
+                "2": 507
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "新城里",
+            "house_no": "150",
+            "candidates": {
+                "1": 176,
+                "2": 119
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 420
+        }
+    ]
+}

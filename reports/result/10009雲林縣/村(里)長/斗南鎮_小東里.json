@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張木霖",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麗惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "張長國",
+            "party": "無"
+        },
+        "4": {
+            "name": "呂登華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "小東里",
+            "house_no": "588",
+            "candidates": {
+                "1": 241,
+                "2": 99,
+                "3": 250,
+                "4": 379
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1382
+        }
+    ]
+}

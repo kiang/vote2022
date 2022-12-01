@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "祝毅成",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "空翔里",
+            "house_no": "102",
+            "candidates": {
+                "1": 608
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "屏東市",
+            "cunli": "空翔里",
+            "house_no": "103",
+            "candidates": {
+                "1": 706
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1321
+        },
+        {
+            "area": "屏東市",
+            "cunli": "空翔里",
+            "house_no": "104",
+            "candidates": {
+                "1": 572
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1278
+        }
+    ]
+}

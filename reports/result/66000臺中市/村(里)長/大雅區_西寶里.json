@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉孝民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "西寶里",
+            "house_no": "627",
+            "candidates": {
+                "1": 731
+            },
+            "count_wrong": 128,
+            "count_unused": 1,
+            "count_total": 1628
+        },
+        {
+            "area": "大雅區",
+            "cunli": "西寶里",
+            "house_no": "628",
+            "candidates": {
+                "1": 764
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1521
+        },
+        {
+            "area": "大雅區",
+            "cunli": "西寶里",
+            "house_no": "629",
+            "candidates": {
+                "1": 663
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1484
+        }
+    ]
+}

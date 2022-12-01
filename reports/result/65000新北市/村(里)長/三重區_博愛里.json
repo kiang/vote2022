@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林廣",
+            "party": "無"
+        },
+        "2": {
+            "name": "范玉琦",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "博愛里",
+            "house_no": "755",
+            "candidates": {
+                "1": 346,
+                "2": 411
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "三重區",
+            "cunli": "博愛里",
+            "house_no": "756",
+            "candidates": {
+                "1": 343,
+                "2": 475
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "三重區",
+            "cunli": "博愛里",
+            "house_no": "757",
+            "candidates": {
+                "1": 311,
+                "2": 393
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1230
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明灶",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳建立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "馬興村",
+            "house_no": "370",
+            "candidates": {
+                "1": 344,
+                "2": 79
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 673
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "馬興村",
+            "house_no": "371",
+            "candidates": {
+                "1": 310,
+                "2": 69
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 645
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "馬興村",
+            "house_no": "372",
+            "candidates": {
+                "1": 424,
+                "2": 90
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 829
+        }
+    ]
+}

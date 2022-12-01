@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳山林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "海濱里",
+            "house_no": "126",
+            "candidates": {
+                "1": 679
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1007
+        },
+        {
+            "area": "清水區",
+            "cunli": "海濱里",
+            "house_no": "127",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1033
+        }
+    ]
+}

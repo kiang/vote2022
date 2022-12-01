@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳永良",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳良誌",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳金英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "初鹿村",
+            "house_no": "123",
+            "candidates": {
+                "1": 107,
+                "2": 288,
+                "3": 71
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 702
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "初鹿村",
+            "house_no": "124",
+            "candidates": {
+                "1": 61,
+                "2": 221,
+                "3": 45
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 471
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉亦銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴福林",
+            "party": "無"
+        },
+        "3": {
+            "name": "朱忠義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "文雅里",
+            "house_no": "612",
+            "candidates": {
+                "1": 418,
+                "2": 198,
+                "3": 271
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1498
+        },
+        {
+            "area": "大雅區",
+            "cunli": "文雅里",
+            "house_no": "613",
+            "candidates": {
+                "1": 427,
+                "2": 270,
+                "3": 189
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1447
+        },
+        {
+            "area": "大雅區",
+            "cunli": "文雅里",
+            "house_no": "614",
+            "candidates": {
+                "1": 444,
+                "2": 267,
+                "3": 164
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1429
+        },
+        {
+            "area": "大雅區",
+            "cunli": "文雅里",
+            "house_no": "615",
+            "candidates": {
+                "1": 340,
+                "2": 364,
+                "3": 170
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1376
+        }
+    ]
+}

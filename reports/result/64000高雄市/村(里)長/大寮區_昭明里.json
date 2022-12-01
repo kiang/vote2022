@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張簡助昇",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃榮文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "昭明里",
+            "house_no": "1967",
+            "candidates": {
+                "1": 487,
+                "2": 298
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "大寮區",
+            "cunli": "昭明里",
+            "house_no": "1968",
+            "candidates": {
+                "1": 399,
+                "2": 310
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "大寮區",
+            "cunli": "昭明里",
+            "house_no": "1969",
+            "candidates": {
+                "1": 391,
+                "2": 298
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1192
+        }
+    ]
+}

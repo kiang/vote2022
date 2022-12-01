@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張哲生",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃日新",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "大智里",
+            "house_no": "1314",
+            "candidates": {
+                "1": 323,
+                "2": 375
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "東區",
+            "cunli": "大智里",
+            "house_no": "1315",
+            "candidates": {
+                "1": 419,
+                "2": 396
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "東區",
+            "cunli": "大智里",
+            "house_no": "1316",
+            "candidates": {
+                "1": 334,
+                "2": 354
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "東區",
+            "cunli": "大智里",
+            "house_no": "1317",
+            "candidates": {
+                "1": 316,
+                "2": 397
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "東區",
+            "cunli": "大智里",
+            "house_no": "1318",
+            "candidates": {
+                "1": 351,
+                "2": 396
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1263
+        }
+    ]
+}

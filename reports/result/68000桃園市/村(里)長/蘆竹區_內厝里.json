@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡義峰",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳昌言",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "內厝里",
+            "house_no": "567",
+            "candidates": {
+                "1": 350,
+                "2": 177
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "內厝里",
+            "house_no": "568",
+            "candidates": {
+                "1": 391,
+                "2": 492
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1215
+        }
+    ]
+}

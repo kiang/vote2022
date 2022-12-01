@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃登凱",
+            "party": "無"
+        },
+        "2": {
+            "name": "林德恩",
+            "party": "無"
+        },
+        "3": {
+            "name": "林立",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南州鄉",
+            "cunli": "同安村",
+            "house_no": "593",
+            "candidates": {
+                "1": 157,
+                "2": 277,
+                "3": 214
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "南州鄉",
+            "cunli": "南安村",
+            "house_no": "594",
+            "candidates": {
+                "1": 226,
+                "2": 42,
+                "3": 85
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 499
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳銘坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "余素雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "永康里",
+            "house_no": "164",
+            "candidates": {
+                "1": 482,
+                "2": 352
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "安樂區",
+            "cunli": "永康里",
+            "house_no": "165",
+            "candidates": {
+                "1": 169,
+                "2": 88
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 441
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉慶海",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大湖鄉",
+            "cunli": "靜湖村",
+            "house_no": "438",
+            "candidates": {
+                "1": 500
+            },
+            "count_wrong": 53,
+            "count_unused": 1,
+            "count_total": 818
+        },
+        {
+            "area": "大湖鄉",
+            "cunli": "靜湖村",
+            "house_no": "439",
+            "candidates": {
+                "1": 506
+            },
+            "count_wrong": 67,
+            "count_unused": 1,
+            "count_total": 829
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾太山",
+            "party": "無"
+        },
+        "2": {
+            "name": "方智彥",
+            "party": "無"
+        },
+        "3": {
+            "name": "胡建中",
+            "party": "無"
+        },
+        "4": {
+            "name": "趙育璿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "東澳里",
+            "house_no": "176",
+            "candidates": {
+                "1": 139,
+                "2": 125
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 312
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "南強里",
+            "house_no": "177",
+            "candidates": {
+                "1": 178,
+                "2": 268
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 673
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "朝陽里",
+            "house_no": "178",
+            "candidates": {
+                "1": 147,
+                "2": 70
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 347
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "朝陽里",
+            "house_no": "179",
+            "candidates": {
+                "1": 62,
+                "2": 55
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 205
+        }
+    ]
+}

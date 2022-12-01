@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張志強",
+            "party": "無"
+        },
+        "2": {
+            "name": "李清發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新市區",
+            "cunli": "大社里",
+            "house_no": "604",
+            "candidates": {
+                "1": 291,
+                "2": 336
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "新市區",
+            "cunli": "大社里",
+            "house_no": "605",
+            "candidates": {
+                "1": 244,
+                "2": 285
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "新市區",
+            "cunli": "大社里",
+            "house_no": "606",
+            "candidates": {
+                "1": 300,
+                "2": 377
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "新市區",
+            "cunli": "大社里",
+            "house_no": "607",
+            "candidates": {
+                "1": 271,
+                "2": 327
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 987
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳坤炎",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉孝明",
+            "party": "無"
+        },
+        "3": {
+            "name": "譚立權",
+            "party": "無"
+        },
+        "4": {
+            "name": "謝金榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "鹿寮里",
+            "house_no": "7",
+            "candidates": {
+                "1": 60,
+                "2": 185,
+                "3": 137,
+                "4": 200
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1017
+        }
+    ]
+}

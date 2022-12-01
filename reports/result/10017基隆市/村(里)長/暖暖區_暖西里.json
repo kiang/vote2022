@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王奕荃",
+            "party": "無"
+        },
+        "2": {
+            "name": "詹凱傑",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐德忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "暖暖區",
+            "cunli": "暖西里",
+            "house_no": "222",
+            "candidates": {
+                "1": 305,
+                "2": 489,
+                "3": 50
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1436
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "暖西里",
+            "house_no": "223",
+            "candidates": {
+                "1": 237,
+                "2": 337,
+                "3": 28
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "暖西里",
+            "house_no": "224",
+            "candidates": {
+                "1": 244,
+                "2": 314,
+                "3": 42
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1034
+        },
+        {
+            "area": "暖暖區",
+            "cunli": "暖西里",
+            "house_no": "225",
+            "candidates": {
+                "1": 208,
+                "2": 366,
+                "3": 44
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

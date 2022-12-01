@@ -1,0 +1,120 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳姵潔",
+            "party": "無"
+        },
+        "2": {
+            "name": "萬宇恆",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張采明",
+            "party": "經濟黨"
+        },
+        "4": {
+            "name": "楊嘉能",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "759",
+            "candidates": {
+                "1": 125,
+                "2": 400,
+                "3": 51,
+                "4": 250
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "760",
+            "candidates": {
+                "1": 122,
+                "2": 391,
+                "3": 74,
+                "4": 135
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1150
+        },
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "761",
+            "candidates": {
+                "1": 212,
+                "2": 277,
+                "3": 36,
+                "4": 130
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "762",
+            "candidates": {
+                "1": 148,
+                "2": 246,
+                "3": 19,
+                "4": 213
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 913
+        },
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "763",
+            "candidates": {
+                "1": 137,
+                "2": 349,
+                "3": 54,
+                "4": 155
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "764",
+            "candidates": {
+                "1": 135,
+                "2": 375,
+                "3": 65,
+                "4": 113
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "信義區",
+            "cunli": "安康里",
+            "house_no": "765",
+            "candidates": {
+                "1": 123,
+                "2": 462,
+                "3": 61,
+                "4": 80
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 1264
+        }
+    ]
+}

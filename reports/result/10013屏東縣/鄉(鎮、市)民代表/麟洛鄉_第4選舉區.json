@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳勝隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉志德",
+            "party": "無"
+        },
+        "3": {
+            "name": "馮和源",
+            "party": "無"
+        },
+        "4": {
+            "name": "楊永富",
+            "party": "無"
+        },
+        "5": {
+            "name": "劉文山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麟洛鄉",
+            "cunli": "田中村",
+            "house_no": "327",
+            "candidates": {
+                "1": 61,
+                "2": 285,
+                "3": 111,
+                "4": 166,
+                "5": 189
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "麟洛鄉",
+            "cunli": "田心村",
+            "house_no": "328",
+            "candidates": {
+                "1": 252,
+                "2": 63,
+                "3": 84,
+                "4": 56,
+                "5": 106
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "麟洛鄉",
+            "cunli": "田道村",
+            "house_no": "329",
+            "candidates": {
+                "1": 40,
+                "2": 45,
+                "3": 194,
+                "4": 55,
+                "5": 101
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 637
+        }
+    ]
+}

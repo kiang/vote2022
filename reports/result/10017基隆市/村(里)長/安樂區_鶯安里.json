@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉大維",
+            "party": "無"
+        },
+        "2": {
+            "name": "王曉菁",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳登財",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "鶯安里",
+            "house_no": "190",
+            "candidates": {
+                "1": 534,
+                "2": 111,
+                "3": 299
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "安樂區",
+            "cunli": "鶯安里",
+            "house_no": "191",
+            "candidates": {
+                "1": 434,
+                "2": 129,
+                "3": 227
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "安樂區",
+            "cunli": "鶯安里",
+            "house_no": "192",
+            "candidates": {
+                "1": 256,
+                "2": 240,
+                "3": 117
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1054
+        },
+        {
+            "area": "安樂區",
+            "cunli": "鶯安里",
+            "house_no": "193",
+            "candidates": {
+                "1": 221,
+                "2": 235,
+                "3": 90
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 918
+        }
+    ]
+}

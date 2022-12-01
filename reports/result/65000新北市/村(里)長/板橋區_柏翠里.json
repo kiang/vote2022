@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林陳秀菊",
+            "party": "無"
+        },
+        "2": {
+            "name": "林世文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "柏翠里",
+            "house_no": "1129",
+            "candidates": {
+                "1": 541,
+                "2": 196
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "板橋區",
+            "cunli": "柏翠里",
+            "house_no": "1130",
+            "candidates": {
+                "1": 474,
+                "2": 233
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "板橋區",
+            "cunli": "柏翠里",
+            "house_no": "1131",
+            "candidates": {
+                "1": 506,
+                "2": 244
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1463
+        }
+    ]
+}

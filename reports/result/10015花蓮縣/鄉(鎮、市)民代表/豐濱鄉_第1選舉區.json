@@ -1,0 +1,119 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張仕學",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳素英",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘禎祥",
+            "party": "無"
+        },
+        "4": {
+            "name": "何俊雄",
+            "party": "無"
+        },
+        "5": {
+            "name": "司玉花 Akiyok‧Sawmah",
+            "party": "無"
+        },
+        "6": {
+            "name": "吳耀福",
+            "party": "無"
+        },
+        "7": {
+            "name": "李威寰",
+            "party": "中國國民黨"
+        },
+        "8": {
+            "name": "劉靜芳",
+            "party": "中國國民黨"
+        },
+        "9": {
+            "name": "林健正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "豐濱鄉",
+            "cunli": "靜浦村",
+            "house_no": "258",
+            "candidates": {
+                "1": 25
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 58
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "港口村",
+            "house_no": "259",
+            "candidates": {
+                "1": 61
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 122
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "豐濱村",
+            "house_no": "260",
+            "candidates": {
+                "1": 85
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 151
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "豐濱村",
+            "house_no": "261",
+            "candidates": {
+                "1": 104
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 211
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "豐濱村",
+            "house_no": "262",
+            "candidates": {
+                "1": 12
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 28
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "新社村",
+            "house_no": "263",
+            "candidates": {
+                "1": 35
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 77
+        },
+        {
+            "area": "豐濱鄉",
+            "cunli": "磯崎村",
+            "house_no": "264",
+            "candidates": {
+                "1": 59
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 112
+        }
+    ]
+}

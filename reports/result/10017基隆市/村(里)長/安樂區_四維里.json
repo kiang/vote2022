@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃雅玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳仕效",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "四維里",
+            "house_no": "175",
+            "candidates": {
+                "1": 607,
+                "2": 377
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1477
+        },
+        {
+            "area": "安樂區",
+            "cunli": "四維里",
+            "house_no": "176",
+            "candidates": {
+                "1": 613,
+                "2": 349
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1662
+        },
+        {
+            "area": "安樂區",
+            "cunli": "四維里",
+            "house_no": "177",
+            "candidates": {
+                "1": 584,
+                "2": 298
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1346
+        }
+    ]
+}

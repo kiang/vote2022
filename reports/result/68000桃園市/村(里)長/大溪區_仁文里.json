@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "巫村田",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱素月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "仁文里",
+            "house_no": "684",
+            "candidates": {
+                "1": 400,
+                "2": 326
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁文里",
+            "house_no": "685",
+            "candidates": {
+                "1": 270,
+                "2": 349
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1010
+        },
+        {
+            "area": "大溪區",
+            "cunli": "仁文里",
+            "house_no": "686",
+            "candidates": {
+                "1": 428,
+                "2": 425
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1432
+        }
+    ]
+}

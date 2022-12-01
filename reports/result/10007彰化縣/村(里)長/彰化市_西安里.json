@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙慶忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "西安里",
+            "house_no": "46",
+            "candidates": {
+                "1": 460
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "彰化市",
+            "cunli": "西安里",
+            "house_no": "47",
+            "candidates": {
+                "1": 496
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "彰化市",
+            "cunli": "西安里",
+            "house_no": "48",
+            "candidates": {
+                "1": 506
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 986
+        }
+    ]
+}

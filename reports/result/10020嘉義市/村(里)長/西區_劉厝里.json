@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳江圳",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏正城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "劉厝里",
+            "house_no": "124",
+            "candidates": {
+                "1": 334,
+                "2": 373
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "西區",
+            "cunli": "劉厝里",
+            "house_no": "125",
+            "candidates": {
+                "1": 290,
+                "2": 297
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1195
+        },
+        {
+            "area": "西區",
+            "cunli": "劉厝里",
+            "house_no": "126",
+            "candidates": {
+                "1": 284,
+                "2": 372
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1420
+        },
+        {
+            "area": "西區",
+            "cunli": "劉厝里",
+            "house_no": "127",
+            "candidates": {
+                "1": 304,
+                "2": 298
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1210
+        },
+        {
+            "area": "西區",
+            "cunli": "劉厝里",
+            "house_no": "128",
+            "candidates": {
+                "1": 321,
+                "2": 422
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1393
+        }
+    ]
+}

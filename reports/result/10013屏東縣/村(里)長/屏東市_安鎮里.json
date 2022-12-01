@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭棟樑",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃寶霞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "安鎮里",
+            "house_no": "57",
+            "candidates": {
+                "1": 282,
+                "2": 256
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "屏東市",
+            "cunli": "安鎮里",
+            "house_no": "58",
+            "candidates": {
+                "1": 292,
+                "2": 316
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1018
+        }
+    ]
+}

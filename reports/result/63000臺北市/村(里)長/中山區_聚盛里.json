@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "舒贑臺",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "聚盛里",
+            "house_no": "914",
+            "candidates": {
+                "1": 586
+            },
+            "count_wrong": 106,
+            "count_unused": 0,
+            "count_total": 1141
+        },
+        {
+            "area": "中山區",
+            "cunli": "聚盛里",
+            "house_no": "915",
+            "candidates": {
+                "1": 527
+            },
+            "count_wrong": 172,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "中山區",
+            "cunli": "聚盛里",
+            "house_no": "916",
+            "candidates": {
+                "1": 598
+            },
+            "count_wrong": 80,
+            "count_unused": 0,
+            "count_total": 1162
+        }
+    ]
+}

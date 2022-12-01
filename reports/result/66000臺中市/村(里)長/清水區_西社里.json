@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊茂雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "西社里",
+            "house_no": "109",
+            "candidates": {
+                "1": 663
+            },
+            "count_wrong": 229,
+            "count_unused": 0,
+            "count_total": 1376
+        },
+        {
+            "area": "清水區",
+            "cunli": "西社里",
+            "house_no": "110",
+            "candidates": {
+                "1": 369
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 741
+        }
+    ]
+}

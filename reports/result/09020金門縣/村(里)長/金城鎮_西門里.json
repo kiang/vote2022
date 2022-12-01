@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許程勛",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊雨川",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "西門里",
+            "house_no": "7",
+            "candidates": {
+                "1": 255,
+                "2": 340
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1522
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "西門里",
+            "house_no": "8",
+            "candidates": {
+                "1": 250,
+                "2": 308
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1513
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "西門里",
+            "house_no": "9",
+            "candidates": {
+                "1": 234,
+                "2": 318
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1489
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "西門里",
+            "house_no": "10",
+            "candidates": {
+                "1": 279,
+                "2": 290
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1562
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "西門里",
+            "house_no": "11",
+            "candidates": {
+                "1": 316,
+                "2": 378
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1672
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "西門里",
+            "house_no": "12",
+            "candidates": {
+                "1": 280,
+                "2": 280
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1436
+        }
+    ]
+}

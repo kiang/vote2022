@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝明宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "盧亘男",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "劉朱英眉",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "興北里",
+            "house_no": "115",
+            "candidates": {
+                "1": 96,
+                "2": 143,
+                "3": 187
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 724
+        },
+        {
+            "area": "彰化市",
+            "cunli": "興北里",
+            "house_no": "116",
+            "candidates": {
+                "1": 214,
+                "2": 125,
+                "3": 157
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 824
+        }
+    ]
+}

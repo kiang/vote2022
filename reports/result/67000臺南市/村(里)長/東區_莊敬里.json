@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志勲",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永俊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "莊敬里",
+            "house_no": "1366",
+            "candidates": {
+                "1": 398,
+                "2": 389
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1281
+        },
+        {
+            "area": "東區",
+            "cunli": "莊敬里",
+            "house_no": "1367",
+            "candidates": {
+                "1": 273,
+                "2": 277
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "東區",
+            "cunli": "莊敬里",
+            "house_no": "1368",
+            "candidates": {
+                "1": 342,
+                "2": 295
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1052
+        }
+    ]
+}

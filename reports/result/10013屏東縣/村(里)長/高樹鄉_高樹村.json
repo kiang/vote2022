@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁國忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐文輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "高樹村",
+            "house_no": "389",
+            "candidates": {
+                "1": 312,
+                "2": 280
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 865
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "高樹村",
+            "house_no": "390",
+            "candidates": {
+                "1": 452,
+                "2": 349
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1170
+        }
+    ]
+}

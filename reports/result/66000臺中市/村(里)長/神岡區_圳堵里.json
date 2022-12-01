@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王鴻福",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鄭秀燕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "圳堵里",
+            "house_no": "571",
+            "candidates": {
+                "1": 242,
+                "2": 396
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 901
+        },
+        {
+            "area": "神岡區",
+            "cunli": "圳堵里",
+            "house_no": "572",
+            "candidates": {
+                "1": 286,
+                "2": 431
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1092
+        }
+    ]
+}

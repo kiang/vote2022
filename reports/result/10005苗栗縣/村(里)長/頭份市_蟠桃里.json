@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃玉桃",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "蟠桃里",
+            "house_no": "388",
+            "candidates": {
+                "1": 603
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "頭份市",
+            "cunli": "蟠桃里",
+            "house_no": "389",
+            "candidates": {
+                "1": 600
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1120
+        },
+        {
+            "area": "頭份市",
+            "cunli": "蟠桃里",
+            "house_no": "390",
+            "candidates": {
+                "1": 433
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1006
+        }
+    ]
+}

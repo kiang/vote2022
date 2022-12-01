@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃希義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "榮和里",
+            "house_no": "382",
+            "candidates": {
+                "1": 479
+            },
+            "count_wrong": 126,
+            "count_unused": 0,
+            "count_total": 1151
+        },
+        {
+            "area": "新莊區",
+            "cunli": "榮和里",
+            "house_no": "383",
+            "candidates": {
+                "1": 832
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 3819
+        }
+    ]
+}

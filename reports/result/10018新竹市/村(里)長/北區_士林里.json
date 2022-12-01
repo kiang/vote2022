@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳月梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "范貴華",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃偉文",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭宗源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "士林里",
+            "house_no": "270",
+            "candidates": {
+                "1": 84,
+                "2": 15,
+                "3": 444,
+                "4": 298
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "北區",
+            "cunli": "士林里",
+            "house_no": "271",
+            "candidates": {
+                "1": 20,
+                "2": 10,
+                "3": 224,
+                "4": 155
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 596
+        }
+    ]
+}

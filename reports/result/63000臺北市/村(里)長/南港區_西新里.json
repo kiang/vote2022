@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳東村",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡家瑒",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳庚霖",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "西新里",
+            "house_no": "561",
+            "candidates": {
+                "1": 362,
+                "2": 397,
+                "3": 59
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "南港區",
+            "cunli": "西新里",
+            "house_no": "562",
+            "candidates": {
+                "1": 370,
+                "2": 397,
+                "3": 55
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1258
+        },
+        {
+            "area": "南港區",
+            "cunli": "西新里",
+            "house_no": "563",
+            "candidates": {
+                "1": 328,
+                "2": 452,
+                "3": 40
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1264
+        }
+    ]
+}

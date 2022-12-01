@@ -1,0 +1,52 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許政輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張新發",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "賴念榮",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "胡昭青",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金峰鄉",
+            "cunli": "嘉蘭村",
+            "house_no": "220",
+            "candidates": {
+                "1": 115,
+                "2": 102,
+                "3": 104,
+                "4": 114,
+                "5": 57
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 592
+        },
+        {
+            "area": "金峰鄉",
+            "cunli": "嘉蘭村",
+            "house_no": "221",
+            "candidates": {
+                "1": 120,
+                "2": 91,
+                "3": 115,
+                "4": 98,
+                "5": 45
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 555
+        }
+    ]
+}

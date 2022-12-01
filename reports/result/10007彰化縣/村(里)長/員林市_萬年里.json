@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許美月",
+            "party": "無"
+        },
+        "2": {
+            "name": "林張阿賞",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "萬年里",
+            "house_no": "542",
+            "candidates": {
+                "1": 156,
+                "2": 325
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 819
+        },
+        {
+            "area": "員林市",
+            "cunli": "萬年里",
+            "house_no": "543",
+            "candidates": {
+                "1": 353,
+                "2": 325
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "員林市",
+            "cunli": "萬年里",
+            "house_no": "544",
+            "candidates": {
+                "1": 321,
+                "2": 186
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 786
+        },
+        {
+            "area": "員林市",
+            "cunli": "萬年里",
+            "house_no": "545",
+            "candidates": {
+                "1": 253,
+                "2": 284
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 852
+        }
+    ]
+}

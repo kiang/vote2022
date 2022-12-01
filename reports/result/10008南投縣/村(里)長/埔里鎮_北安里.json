@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏志忠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "葉俊宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃淑伶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "北安里",
+            "house_no": "109",
+            "candidates": {
+                "1": 217,
+                "2": 228,
+                "3": 149
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "北安里",
+            "house_no": "110",
+            "candidates": {
+                "1": 243,
+                "2": 289,
+                "3": 175
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "北安里",
+            "house_no": "111",
+            "candidates": {
+                "1": 232,
+                "2": 280,
+                "3": 158
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 996
+        }
+    ]
+}

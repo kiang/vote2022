@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉宥慈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "金陵村",
+            "house_no": "384",
+            "candidates": {
+                "1": 468
+            },
+            "count_wrong": 47,
+            "count_unused": 1,
+            "count_total": 777
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "金陵村",
+            "house_no": "385",
+            "candidates": {
+                "1": 499
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 889
+        }
+    ]
+}

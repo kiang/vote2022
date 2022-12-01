@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭雲文",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明標",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝春香",
+            "party": "無"
+        },
+        "4": {
+            "name": "沈淑玲",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳平貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬巒鄉",
+            "cunli": "赤山村",
+            "house_no": "422",
+            "candidates": {
+                "1": 319,
+                "2": 84
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "赤山村",
+            "house_no": "423",
+            "candidates": {
+                "1": 330,
+                "2": 99
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 781
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬金村",
+            "house_no": "424",
+            "candidates": {
+                "1": 243,
+                "2": 273
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "萬金村",
+            "house_no": "425",
+            "candidates": {
+                "1": 262,
+                "2": 269
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 953
+        }
+    ]
+}

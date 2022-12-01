@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊金土",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "長和里",
+            "house_no": "201",
+            "candidates": {
+                "1": 393
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 746
+        },
+        {
+            "area": "北區",
+            "cunli": "長和里",
+            "house_no": "202",
+            "candidates": {
+                "1": 266
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 555
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉金龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉明華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "新民里",
+            "house_no": "247",
+            "candidates": {
+                "1": 263,
+                "2": 205
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 641
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "新民里",
+            "house_no": "248",
+            "candidates": {
+                "1": 219,
+                "2": 202
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 595
+        }
+    ]
+}

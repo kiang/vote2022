@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝有煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳淑惠",
+            "party": "無"
+        },
+        "3": {
+            "name": "張萬芳",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭坤煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "古夷里",
+            "house_no": "138",
+            "candidates": {
+                "1": 153,
+                "2": 163,
+                "3": 97,
+                "4": 105
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "彰化市",
+            "cunli": "古夷里",
+            "house_no": "139",
+            "candidates": {
+                "1": 157,
+                "2": 101,
+                "3": 107,
+                "4": 151
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "彰化市",
+            "cunli": "古夷里",
+            "house_no": "140",
+            "candidates": {
+                "1": 130,
+                "2": 78,
+                "3": 162,
+                "4": 68
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 662
+        }
+    ]
+}

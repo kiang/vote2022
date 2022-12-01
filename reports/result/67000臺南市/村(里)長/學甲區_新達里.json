@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳敏男",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "學甲區",
+            "cunli": "新達里",
+            "house_no": "230",
+            "candidates": {
+                "1": 310
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 696
+        },
+        {
+            "area": "學甲區",
+            "cunli": "新達里",
+            "house_no": "231",
+            "candidates": {
+                "1": 273
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 703
+        },
+        {
+            "area": "學甲區",
+            "cunli": "新達里",
+            "house_no": "232",
+            "candidates": {
+                "1": 212
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 577
+        }
+    ]
+}

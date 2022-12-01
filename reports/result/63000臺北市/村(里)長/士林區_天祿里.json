@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林宏杰",
+            "party": "無"
+        },
+        "2": {
+            "name": "王俊智",
+            "party": "無"
+        },
+        "3": {
+            "name": "李錦琿",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "天祿里",
+            "house_no": "313",
+            "candidates": {
+                "1": 136,
+                "2": 291,
+                "3": 430
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "士林區",
+            "cunli": "天祿里",
+            "house_no": "314",
+            "candidates": {
+                "1": 176,
+                "2": 223,
+                "3": 558
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1392
+        },
+        {
+            "area": "士林區",
+            "cunli": "天祿里",
+            "house_no": "315",
+            "candidates": {
+                "1": 175,
+                "2": 183,
+                "3": 488
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1291
+        }
+    ]
+}

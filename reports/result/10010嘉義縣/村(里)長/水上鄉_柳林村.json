@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃奇鋒",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃秋豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水上鄉",
+            "cunli": "柳林村",
+            "house_no": "90",
+            "candidates": {
+                "1": 187,
+                "2": 287
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "水上鄉",
+            "cunli": "柳林村",
+            "house_no": "91",
+            "candidates": {
+                "1": 327,
+                "2": 284
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1147
+        }
+    ]
+}

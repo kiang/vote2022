@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林連生",
+            "party": "無"
+        },
+        "2": {
+            "name": "林阿貴",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳莉蘋",
+            "party": "無"
+        },
+        "4": {
+            "name": "潘旭瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "池上鄉",
+            "cunli": "錦園村",
+            "house_no": "158",
+            "candidates": {
+                "1": 126,
+                "2": 91
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 311
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "萬安村",
+            "house_no": "159",
+            "candidates": {
+                "1": 112,
+                "2": 106
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 287
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "富興村",
+            "house_no": "160",
+            "candidates": {
+                "1": 144,
+                "2": 35
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 245
+        },
+        {
+            "area": "池上鄉",
+            "cunli": "振興村",
+            "house_no": "161",
+            "candidates": {
+                "1": 62,
+                "2": 15
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 120
+        }
+    ]
+}

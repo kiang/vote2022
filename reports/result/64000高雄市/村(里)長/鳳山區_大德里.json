@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭智元",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯銘芳",
+            "party": "無"
+        },
+        "3": {
+            "name": "侯俊傑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "大德里",
+            "house_no": "1637",
+            "candidates": {
+                "1": 257,
+                "2": 61,
+                "3": 468
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1384
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "大德里",
+            "house_no": "1638",
+            "candidates": {
+                "1": 224,
+                "2": 64,
+                "3": 512
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1333
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "大德里",
+            "house_no": "1639",
+            "candidates": {
+                "1": 327,
+                "2": 69,
+                "3": 497
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1460
+        }
+    ]
+}

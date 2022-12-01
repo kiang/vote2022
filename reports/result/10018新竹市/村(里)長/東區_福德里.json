@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳嘉福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "福德里",
+            "house_no": "123",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "東區",
+            "cunli": "福德里",
+            "house_no": "124",
+            "candidates": {
+                "1": 246
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 425
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "薛麗惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉巫銀梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "興和里",
+            "house_no": "912",
+            "candidates": {
+                "1": 290,
+                "2": 348
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興和里",
+            "house_no": "913",
+            "candidates": {
+                "1": 627,
+                "2": 575
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1646
+        }
+    ]
+}

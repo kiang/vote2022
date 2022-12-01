@@ -1,0 +1,434 @@
+{
+    "candidates": {
+        "1": {
+            "name": "田明元",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃學臺",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "馬亦廷",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "李芳媚",
+            "party": "無"
+        },
+        "5": {
+            "name": "王尚美",
+            "party": "無"
+        },
+        "6": {
+            "name": "洪吉雄",
+            "party": "民主進步黨"
+        },
+        "7": {
+            "name": "林雪玉",
+            "party": "無"
+        },
+        "8": {
+            "name": "李德良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "賓朗村",
+            "house_no": "118",
+            "candidates": {
+                "1": 3,
+                "2": 17,
+                "3": 5,
+                "4": 38,
+                "5": 7,
+                "6": 6,
+                "7": 1,
+                "8": 10
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 167
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "賓朗村",
+            "house_no": "119",
+            "candidates": {
+                "1": 11,
+                "2": 25,
+                "3": 6,
+                "4": 26,
+                "5": 91,
+                "6": 20,
+                "7": 8,
+                "8": 10
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 357
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "美農村",
+            "house_no": "120",
+            "candidates": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 1,
+                "7": 0,
+                "8": 0
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 3
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "美農村",
+            "house_no": "121",
+            "candidates": {
+                "1": 1,
+                "2": 5,
+                "3": 2,
+                "4": 6,
+                "5": 3,
+                "6": 1,
+                "7": 2,
+                "8": 12
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 59
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "美農村",
+            "house_no": "122",
+            "candidates": {
+                "1": 1,
+                "2": 4,
+                "3": 2,
+                "4": 2,
+                "5": 4,
+                "6": 5,
+                "7": 0,
+                "8": 7
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 32
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "初鹿村",
+            "house_no": "123",
+            "candidates": {
+                "1": 20,
+                "2": 23,
+                "3": 3,
+                "4": 2,
+                "5": 10,
+                "6": 34,
+                "7": 2,
+                "8": 51
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 235
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "初鹿村",
+            "house_no": "124",
+            "candidates": {
+                "1": 10,
+                "2": 27,
+                "3": 9,
+                "4": 5,
+                "5": 0,
+                "6": 13,
+                "7": 1,
+                "8": 19
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 126
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "明峰村",
+            "house_no": "125",
+            "candidates": {
+                "1": 4,
+                "2": 11,
+                "3": 4,
+                "4": 6,
+                "5": 3,
+                "6": 8,
+                "7": 7,
+                "8": 25
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 115
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "明峰村",
+            "house_no": "126",
+            "candidates": {
+                "1": 7,
+                "2": 16,
+                "3": 10,
+                "4": 7,
+                "5": 2,
+                "6": 7,
+                "7": 6,
+                "8": 40
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 148
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "嘉豐村",
+            "house_no": "127",
+            "candidates": {
+                "1": 9,
+                "2": 10,
+                "3": 0,
+                "4": 0,
+                "5": 1,
+                "6": 0,
+                "7": 0,
+                "8": 52
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 126
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "嘉豐村",
+            "house_no": "128",
+            "candidates": {
+                "1": 59,
+                "2": 3,
+                "3": 4,
+                "4": 4,
+                "5": 1,
+                "6": 16,
+                "7": 0,
+                "8": 39
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 179
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "太平村",
+            "house_no": "129",
+            "candidates": {
+                "1": 13,
+                "2": 43,
+                "3": 1,
+                "4": 8,
+                "5": 13,
+                "6": 17,
+                "7": 12,
+                "8": 11
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 203
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "太平村",
+            "house_no": "130",
+            "candidates": {
+                "1": 15,
+                "2": 25,
+                "3": 1,
+                "4": 8,
+                "5": 5,
+                "6": 29,
+                "7": 11,
+                "8": 12
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 190
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "太平村",
+            "house_no": "131",
+            "candidates": {
+                "1": 30,
+                "2": 41,
+                "3": 3,
+                "4": 32,
+                "5": 8,
+                "6": 27,
+                "7": 7,
+                "8": 41
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 327
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "泰安村",
+            "house_no": "132",
+            "candidates": {
+                "1": 13,
+                "2": 99,
+                "3": 2,
+                "4": 98,
+                "5": 13,
+                "6": 60,
+                "7": 6,
+                "8": 24
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 483
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "利嘉村",
+            "house_no": "133",
+            "candidates": {
+                "1": 10,
+                "2": 191,
+                "3": 4,
+                "4": 75,
+                "5": 14,
+                "6": 130,
+                "7": 55,
+                "8": 10
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "東興村",
+            "house_no": "134",
+            "candidates": {
+                "1": 425,
+                "2": 106,
+                "3": 0,
+                "4": 5,
+                "5": 4,
+                "6": 68,
+                "7": 16,
+                "8": 16
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 915
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "溫泉村",
+            "house_no": "135",
+            "candidates": {
+                "1": 8,
+                "2": 9,
+                "3": 1,
+                "4": 5,
+                "5": 1,
+                "6": 20,
+                "7": 4,
+                "8": 3
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 69
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "溫泉村",
+            "house_no": "136",
+            "candidates": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 0,
+                "8": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 2
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "富山村",
+            "house_no": "137",
+            "candidates": {
+                "1": 26,
+                "2": 31,
+                "3": 3,
+                "4": 7,
+                "5": 4,
+                "6": 11,
+                "7": 2,
+                "8": 7
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 161
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "富源村",
+            "house_no": "138",
+            "candidates": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 4
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 11
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "利吉村",
+            "house_no": "139",
+            "candidates": {
+                "1": 89,
+                "2": 10,
+                "3": 0,
+                "4": 6,
+                "5": 14,
+                "6": 3,
+                "7": 1,
+                "8": 6
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 199
+        }
+    ]
+}

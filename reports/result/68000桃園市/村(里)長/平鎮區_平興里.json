@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王煥恕",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳金容",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "平興里",
+            "house_no": "1007",
+            "candidates": {
+                "1": 475,
+                "2": 248
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1299
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平興里",
+            "house_no": "1008",
+            "candidates": {
+                "1": 423,
+                "2": 335
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平興里",
+            "house_no": "1009",
+            "candidates": {
+                "1": 359,
+                "2": 374
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "平興里",
+            "house_no": "1010",
+            "candidates": {
+                "1": 385,
+                "2": 375
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1335
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃榮葵",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "學士里",
+            "house_no": "2001",
+            "candidates": {
+                "1": 648
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1376
+        },
+        {
+            "area": "土城區",
+            "cunli": "學士里",
+            "house_no": "2002",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 1349
+        },
+        {
+            "area": "土城區",
+            "cunli": "學士里",
+            "house_no": "2003",
+            "candidates": {
+                "1": 690
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

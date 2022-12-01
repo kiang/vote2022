@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林平發",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "華南里",
+            "house_no": "1439",
+            "candidates": {
+                "1": 720
+            },
+            "count_wrong": 128,
+            "count_unused": 0,
+            "count_total": 1520
+        },
+        {
+            "area": "中和區",
+            "cunli": "華南里",
+            "house_no": "1440",
+            "candidates": {
+                "1": 724
+            },
+            "count_wrong": 111,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "中和區",
+            "cunli": "華南里",
+            "house_no": "1441",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1234
+        }
+    ]
+}

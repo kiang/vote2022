@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳勝章",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁明樹",
+            "party": "無"
+        },
+        "3": {
+            "name": "許朝基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "開元里",
+            "house_no": "963",
+            "candidates": {
+                "1": 99,
+                "2": 227,
+                "3": 162
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1099
+        },
+        {
+            "area": "北區",
+            "cunli": "開元里",
+            "house_no": "964",
+            "candidates": {
+                "1": 138,
+                "2": 288,
+                "3": 172
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "北區",
+            "cunli": "開元里",
+            "house_no": "965",
+            "candidates": {
+                "1": 162,
+                "2": 360,
+                "3": 126
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1047
+        }
+    ]
+}

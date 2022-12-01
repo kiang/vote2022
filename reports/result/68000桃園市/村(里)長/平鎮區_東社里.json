@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳月琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉進羿",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳武平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "東社里",
+            "house_no": "1095",
+            "candidates": {
+                "1": 387,
+                "2": 28,
+                "3": 545
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1625
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "東社里",
+            "house_no": "1096",
+            "candidates": {
+                "1": 414,
+                "2": 29,
+                "3": 456
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1562
+        }
+    ]
+}

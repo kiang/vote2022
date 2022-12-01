@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹偉廷",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉蓁",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉文彬",
+            "party": "無"
+        },
+        "4": {
+            "name": "詹永光",
+            "party": "無"
+        },
+        "5": {
+            "name": "賴秋蓉",
+            "party": "無"
+        },
+        "6": {
+            "name": "詹偉強",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卓蘭鎮",
+            "cunli": "豐田里",
+            "house_no": "462",
+            "candidates": {
+                "1": 140,
+                "2": 274,
+                "3": 221
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 877
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "苗豐里",
+            "house_no": "464",
+            "candidates": {
+                "1": 196,
+                "2": 84,
+                "3": 206
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 671
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "西坪里",
+            "house_no": "463",
+            "candidates": {
+                "1": 112,
+                "2": 101,
+                "3": 246
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 646
+        },
+        {
+            "area": "卓蘭鎮",
+            "cunli": "西坪里",
+            "house_no": "473",
+            "candidates": {
+                "1": 7,
+                "2": 10,
+                "3": 35
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 84
+        }
+    ]
+}

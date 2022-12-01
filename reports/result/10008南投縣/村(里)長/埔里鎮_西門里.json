@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉建宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "王美慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "西門里",
+            "house_no": "103",
+            "candidates": {
+                "1": 206,
+                "2": 292
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 820
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "西門里",
+            "house_no": "104",
+            "candidates": {
+                "1": 169,
+                "2": 391
+            },
+            "count_wrong": 6,
+            "count_unused": 1,
+            "count_total": 908
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "西門里",
+            "house_no": "105",
+            "candidates": {
+                "1": 326,
+                "2": 382
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1095
+        }
+    ]
+}

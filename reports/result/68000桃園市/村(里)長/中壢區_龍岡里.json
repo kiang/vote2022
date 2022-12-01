@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳淑情",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "龍岡里",
+            "house_no": "729",
+            "candidates": {
+                "1": 854
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1585
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍岡里",
+            "house_no": "730",
+            "candidates": {
+                "1": 731
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1430
+        },
+        {
+            "area": "中壢區",
+            "cunli": "龍岡里",
+            "house_no": "731",
+            "candidates": {
+                "1": 760
+            },
+            "count_wrong": 89,
+            "count_unused": 0,
+            "count_total": 1411
+        }
+    ]
+}

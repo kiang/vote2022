@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王士章",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉佳龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "高苗里",
+            "house_no": "15",
+            "candidates": {
+                "1": 373,
+                "2": 160
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 985
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "高苗里",
+            "house_no": "16",
+            "candidates": {
+                "1": 367,
+                "2": 164
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 976
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "高苗里",
+            "house_no": "17",
+            "candidates": {
+                "1": 543,
+                "2": 158
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1097
+        }
+    ]
+}

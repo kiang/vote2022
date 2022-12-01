@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉永正",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "南勢里",
+            "house_no": "66",
+            "candidates": {
+                "1": 530
+            },
+            "count_wrong": 77,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "南勢里",
+            "house_no": "67",
+            "candidates": {
+                "1": 403
+            },
+            "count_wrong": 80,
+            "count_unused": 1,
+            "count_total": 838
+        }
+    ]
+}

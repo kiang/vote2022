@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "金宏癸",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃富廷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "興南村",
+            "house_no": "148",
+            "candidates": {
+                "1": 300,
+                "2": 482
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1259
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "興南村",
+            "house_no": "149",
+            "candidates": {
+                "1": 382,
+                "2": 351
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1384
+        }
+    ]
+}

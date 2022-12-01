@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陸天賜",
+            "party": "無"
+        },
+        "2": {
+            "name": "姚生輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "礁溪鄉",
+            "cunli": "白雲村",
+            "house_no": "212",
+            "candidates": {
+                "1": 360,
+                "2": 328
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1020
+        },
+        {
+            "area": "礁溪鄉",
+            "cunli": "白雲村",
+            "house_no": "213",
+            "candidates": {
+                "1": 188,
+                "2": 144
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 485
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴惠敏",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱治田",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "武松里",
+            "house_no": "1438",
+            "candidates": {
+                "1": 550,
+                "2": 331
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "武松里",
+            "house_no": "1439",
+            "candidates": {
+                "1": 379,
+                "2": 274
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1142
+        }
+    ]
+}

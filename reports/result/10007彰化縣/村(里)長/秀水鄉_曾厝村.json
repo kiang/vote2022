@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林榮生",
+            "party": "無"
+        },
+        "2": {
+            "name": "林榮秋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "秀水鄉",
+            "cunli": "曾厝村",
+            "house_no": "382",
+            "candidates": {
+                "1": 407,
+                "2": 205
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "秀水鄉",
+            "cunli": "曾厝村",
+            "house_no": "383",
+            "candidates": {
+                "1": 279,
+                "2": 265
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 754
+        }
+    ]
+}

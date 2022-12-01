@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾文堂",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳順源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梅山鄉",
+            "cunli": "大南村",
+            "house_no": "249",
+            "candidates": {
+                "1": 428,
+                "2": 187
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "大南村",
+            "house_no": "250",
+            "candidates": {
+                "1": 246,
+                "2": 301
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 725
+        }
+    ]
+}

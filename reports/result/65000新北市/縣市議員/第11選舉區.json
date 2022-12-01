@@ -1,0 +1,2702 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭立信",
+            "party": "台灣民眾黨"
+        },
+        "2": {
+            "name": "周雅玲",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "廖先翔",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "白珮茹",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "黃瑞傳",
+            "party": "無"
+        },
+        "6": {
+            "name": "張錦豪",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金山區",
+            "cunli": "和平里",
+            "house_no": "2497",
+            "candidates": {
+                "1": 6,
+                "2": 81,
+                "3": 59,
+                "4": 39,
+                "5": 9,
+                "6": 38
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 425
+        },
+        {
+            "area": "金山區",
+            "cunli": "大同里",
+            "house_no": "2498",
+            "candidates": {
+                "1": 9,
+                "2": 148,
+                "3": 57,
+                "4": 80,
+                "5": 13,
+                "6": 55
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 657
+        },
+        {
+            "area": "金山區",
+            "cunli": "豐漁里",
+            "house_no": "2499",
+            "candidates": {
+                "1": 5,
+                "2": 138,
+                "3": 28,
+                "4": 37,
+                "5": 6,
+                "6": 29
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 482
+        },
+        {
+            "area": "金山區",
+            "cunli": "磺港里",
+            "house_no": "2500",
+            "candidates": {
+                "1": 9,
+                "2": 188,
+                "3": 30,
+                "4": 56,
+                "5": 0,
+                "6": 117
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 760
+        },
+        {
+            "area": "金山區",
+            "cunli": "磺港里",
+            "house_no": "2501",
+            "candidates": {
+                "1": 2,
+                "2": 227,
+                "3": 24,
+                "4": 63,
+                "5": 7,
+                "6": 126
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 885
+        },
+        {
+            "area": "金山區",
+            "cunli": "金美里",
+            "house_no": "2502",
+            "candidates": {
+                "1": 6,
+                "2": 242,
+                "3": 87,
+                "4": 121,
+                "5": 17,
+                "6": 108
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "金山區",
+            "cunli": "金美里",
+            "house_no": "2503",
+            "candidates": {
+                "1": 11,
+                "2": 291,
+                "3": 107,
+                "4": 116,
+                "5": 17,
+                "6": 98
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1310
+        },
+        {
+            "area": "金山區",
+            "cunli": "金美里",
+            "house_no": "2504",
+            "candidates": {
+                "1": 7,
+                "2": 274,
+                "3": 73,
+                "4": 99,
+                "5": 13,
+                "6": 91
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "金山區",
+            "cunli": "金美里",
+            "house_no": "2505",
+            "candidates": {
+                "1": 11,
+                "2": 238,
+                "3": 49,
+                "4": 107,
+                "5": 6,
+                "6": 64
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "金山區",
+            "cunli": "五湖里",
+            "house_no": "2506",
+            "candidates": {
+                "1": 13,
+                "2": 246,
+                "3": 41,
+                "4": 77,
+                "5": 31,
+                "6": 62
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 757
+        },
+        {
+            "area": "金山區",
+            "cunli": "五湖里",
+            "house_no": "2507",
+            "candidates": {
+                "1": 10,
+                "2": 321,
+                "3": 62,
+                "4": 91,
+                "5": 14,
+                "6": 72
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 831
+        },
+        {
+            "area": "金山區",
+            "cunli": "美田里",
+            "house_no": "2508",
+            "candidates": {
+                "1": 15,
+                "2": 359,
+                "3": 88,
+                "4": 99,
+                "5": 14,
+                "6": 135
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "金山區",
+            "cunli": "美田里",
+            "house_no": "2509",
+            "candidates": {
+                "1": 12,
+                "2": 376,
+                "3": 91,
+                "4": 121,
+                "5": 15,
+                "6": 96
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "金山區",
+            "cunli": "美田里",
+            "house_no": "2510",
+            "candidates": {
+                "1": 22,
+                "2": 297,
+                "3": 93,
+                "4": 147,
+                "5": 19,
+                "6": 138
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1288
+        },
+        {
+            "area": "金山區",
+            "cunli": "重和里",
+            "house_no": "2511",
+            "candidates": {
+                "1": 15,
+                "2": 243,
+                "3": 67,
+                "4": 84,
+                "5": 27,
+                "6": 105
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1119
+        },
+        {
+            "area": "金山區",
+            "cunli": "兩湖里",
+            "house_no": "2512",
+            "candidates": {
+                "1": 8,
+                "2": 100,
+                "3": 39,
+                "4": 43,
+                "5": 2,
+                "6": 44
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 369
+        },
+        {
+            "area": "金山區",
+            "cunli": "六股里",
+            "house_no": "2513",
+            "candidates": {
+                "1": 10,
+                "2": 215,
+                "3": 39,
+                "4": 104,
+                "5": 14,
+                "6": 76
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 636
+        },
+        {
+            "area": "金山區",
+            "cunli": "三界里",
+            "house_no": "2514",
+            "candidates": {
+                "1": 8,
+                "2": 138,
+                "3": 67,
+                "4": 98,
+                "5": 39,
+                "6": 42
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 590
+        },
+        {
+            "area": "金山區",
+            "cunli": "萬壽里",
+            "house_no": "2515",
+            "candidates": {
+                "1": 5,
+                "2": 141,
+                "3": 29,
+                "4": 52,
+                "5": 9,
+                "6": 60
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 433
+        },
+        {
+            "area": "金山區",
+            "cunli": "清泉里",
+            "house_no": "2516",
+            "candidates": {
+                "1": 5,
+                "2": 149,
+                "3": 66,
+                "4": 77,
+                "5": 68,
+                "6": 57
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 773
+        },
+        {
+            "area": "金山區",
+            "cunli": "西湖里",
+            "house_no": "2517",
+            "candidates": {
+                "1": 1,
+                "2": 56,
+                "3": 7,
+                "4": 33,
+                "5": 0,
+                "6": 15
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 170
+        },
+        {
+            "area": "金山區",
+            "cunli": "永興里萬里區",
+            "house_no": "2518",
+            "candidates": {
+                "1": 6,
+                "2": 178,
+                "3": 18,
+                "4": 89,
+                "5": 8,
+                "6": 65
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 538
+        },
+        {
+            "area": "金山區",
+            "cunli": "萬里里",
+            "house_no": "2519",
+            "candidates": {
+                "1": 13,
+                "2": 158,
+                "3": 85,
+                "4": 145,
+                "5": 8,
+                "6": 105
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "金山區",
+            "cunli": "萬里里",
+            "house_no": "2520",
+            "candidates": {
+                "1": 6,
+                "2": 160,
+                "3": 79,
+                "4": 135,
+                "5": 3,
+                "6": 83
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 875
+        },
+        {
+            "area": "金山區",
+            "cunli": "萬里里",
+            "house_no": "2521",
+            "candidates": {
+                "1": 14,
+                "2": 154,
+                "3": 88,
+                "4": 126,
+                "5": 2,
+                "6": 113
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 904
+        },
+        {
+            "area": "金山區",
+            "cunli": "萬里里",
+            "house_no": "2522",
+            "candidates": {
+                "1": 17,
+                "2": 224,
+                "3": 152,
+                "4": 156,
+                "5": 9,
+                "6": 171
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1348
+        },
+        {
+            "area": "金山區",
+            "cunli": "北基里",
+            "house_no": "2523",
+            "candidates": {
+                "1": 19,
+                "2": 121,
+                "3": 75,
+                "4": 158,
+                "5": 7,
+                "6": 147
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1287
+        },
+        {
+            "area": "金山區",
+            "cunli": "北基里",
+            "house_no": "2524",
+            "candidates": {
+                "1": 12,
+                "2": 119,
+                "3": 77,
+                "4": 133,
+                "5": 4,
+                "6": 148
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "金山區",
+            "cunli": "龜吼里",
+            "house_no": "2525",
+            "candidates": {
+                "1": 19,
+                "2": 169,
+                "3": 60,
+                "4": 156,
+                "5": 7,
+                "6": 134
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1174
+        },
+        {
+            "area": "金山區",
+            "cunli": "龜吼里",
+            "house_no": "2526",
+            "candidates": {
+                "1": 17,
+                "2": 282,
+                "3": 148,
+                "4": 157,
+                "5": 13,
+                "6": 183
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1277
+        },
+        {
+            "area": "金山區",
+            "cunli": "野柳里",
+            "house_no": "2527",
+            "candidates": {
+                "1": 7,
+                "2": 207,
+                "3": 118,
+                "4": 155,
+                "5": 10,
+                "6": 66
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "金山區",
+            "cunli": "野柳里",
+            "house_no": "2528",
+            "candidates": {
+                "1": 12,
+                "2": 211,
+                "3": 69,
+                "4": 149,
+                "5": 6,
+                "6": 77
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "金山區",
+            "cunli": "野柳里",
+            "house_no": "2529",
+            "candidates": {
+                "1": 18,
+                "2": 289,
+                "3": 115,
+                "4": 150,
+                "5": 13,
+                "6": 83
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "金山區",
+            "cunli": "大鵬里",
+            "house_no": "2530",
+            "candidates": {
+                "1": 5,
+                "2": 249,
+                "3": 38,
+                "4": 71,
+                "5": 5,
+                "6": 33
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 899
+        },
+        {
+            "area": "金山區",
+            "cunli": "大鵬里",
+            "house_no": "2531",
+            "candidates": {
+                "1": 10,
+                "2": 222,
+                "3": 63,
+                "4": 75,
+                "5": 8,
+                "6": 42
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 867
+        },
+        {
+            "area": "金山區",
+            "cunli": "大鵬里",
+            "house_no": "2532",
+            "candidates": {
+                "1": 13,
+                "2": 164,
+                "3": 51,
+                "4": 99,
+                "5": 5,
+                "6": 42
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 806
+        },
+        {
+            "area": "金山區",
+            "cunli": "磺潭里",
+            "house_no": "2533",
+            "candidates": {
+                "1": 9,
+                "2": 95,
+                "3": 32,
+                "4": 97,
+                "5": 7,
+                "6": 32
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 557
+        },
+        {
+            "area": "金山區",
+            "cunli": "雙興里",
+            "house_no": "2534",
+            "candidates": {
+                "1": 20,
+                "2": 293,
+                "3": 55,
+                "4": 130,
+                "5": 7,
+                "6": 117
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 925
+        },
+        {
+            "area": "金山區",
+            "cunli": "溪底里",
+            "house_no": "2535",
+            "candidates": {
+                "1": 5,
+                "2": 107,
+                "3": 50,
+                "4": 48,
+                "5": 10,
+                "6": 36
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 613
+        },
+        {
+            "area": "金山區",
+            "cunli": "崁脚里",
+            "house_no": "2536",
+            "candidates": {
+                "1": 5,
+                "2": 108,
+                "3": 45,
+                "4": 36,
+                "5": 2,
+                "6": 44
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 377
+        },
+        {
+            "area": "金山區",
+            "cunli": "中幅里汐止區",
+            "house_no": "2537",
+            "candidates": {
+                "1": 15,
+                "2": 250,
+                "3": 106,
+                "4": 134,
+                "5": 15,
+                "6": 140
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "金山區",
+            "cunli": "仁德里",
+            "house_no": "2538",
+            "candidates": {
+                "1": 25,
+                "2": 129,
+                "3": 355,
+                "4": 240,
+                "5": 24,
+                "6": 219
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1634
+        },
+        {
+            "area": "金山區",
+            "cunli": "義民里",
+            "house_no": "2539",
+            "candidates": {
+                "1": 16,
+                "2": 100,
+                "3": 291,
+                "4": 151,
+                "5": 16,
+                "6": 131
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "金山區",
+            "cunli": "禮門里",
+            "house_no": "2540",
+            "candidates": {
+                "1": 17,
+                "2": 82,
+                "3": 205,
+                "4": 121,
+                "5": 10,
+                "6": 147
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 961
+        },
+        {
+            "area": "金山區",
+            "cunli": "智慧里",
+            "house_no": "2541",
+            "candidates": {
+                "1": 20,
+                "2": 80,
+                "3": 235,
+                "4": 203,
+                "5": 13,
+                "6": 125
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1316
+        },
+        {
+            "area": "金山區",
+            "cunli": "智慧里",
+            "house_no": "2542",
+            "candidates": {
+                "1": 28,
+                "2": 77,
+                "3": 246,
+                "4": 214,
+                "5": 5,
+                "6": 123
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "金山區",
+            "cunli": "智慧里",
+            "house_no": "2543",
+            "candidates": {
+                "1": 18,
+                "2": 84,
+                "3": 236,
+                "4": 172,
+                "5": 9,
+                "6": 150
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1418
+        },
+        {
+            "area": "金山區",
+            "cunli": "大同里",
+            "house_no": "2544",
+            "candidates": {
+                "1": 11,
+                "2": 105,
+                "3": 285,
+                "4": 126,
+                "5": 7,
+                "6": 142
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "金山區",
+            "cunli": "大同里",
+            "house_no": "2545",
+            "candidates": {
+                "1": 23,
+                "2": 63,
+                "3": 284,
+                "4": 127,
+                "5": 8,
+                "6": 145
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "金山區",
+            "cunli": "信望里",
+            "house_no": "2546",
+            "candidates": {
+                "1": 2,
+                "2": 37,
+                "3": 57,
+                "4": 47,
+                "5": 6,
+                "6": 37
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 315
+        },
+        {
+            "area": "金山區",
+            "cunli": "新昌里",
+            "house_no": "2547",
+            "candidates": {
+                "1": 25,
+                "2": 85,
+                "3": 306,
+                "4": 164,
+                "5": 9,
+                "6": 235
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1534
+        },
+        {
+            "area": "金山區",
+            "cunli": "新昌里",
+            "house_no": "2548",
+            "candidates": {
+                "1": 17,
+                "2": 109,
+                "3": 290,
+                "4": 164,
+                "5": 13,
+                "6": 194
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1553
+        },
+        {
+            "area": "金山區",
+            "cunli": "新昌里",
+            "house_no": "2549",
+            "candidates": {
+                "1": 20,
+                "2": 85,
+                "3": 260,
+                "4": 158,
+                "5": 28,
+                "6": 180
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "金山區",
+            "cunli": "福安里",
+            "house_no": "2550",
+            "candidates": {
+                "1": 10,
+                "2": 94,
+                "3": 229,
+                "4": 128,
+                "5": 5,
+                "6": 133
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1290
+        },
+        {
+            "area": "金山區",
+            "cunli": "福安里",
+            "house_no": "2551",
+            "candidates": {
+                "1": 15,
+                "2": 92,
+                "3": 315,
+                "4": 119,
+                "5": 7,
+                "6": 140
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "金山區",
+            "cunli": "福安里",
+            "house_no": "2552",
+            "candidates": {
+                "1": 23,
+                "2": 98,
+                "3": 259,
+                "4": 145,
+                "5": 7,
+                "6": 123
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "金山區",
+            "cunli": "福安里",
+            "house_no": "2553",
+            "candidates": {
+                "1": 30,
+                "2": 89,
+                "3": 292,
+                "4": 115,
+                "5": 10,
+                "6": 140
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1400
+        },
+        {
+            "area": "金山區",
+            "cunli": "秀峰里",
+            "house_no": "2554",
+            "candidates": {
+                "1": 12,
+                "2": 66,
+                "3": 95,
+                "4": 74,
+                "5": 3,
+                "6": 68
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1784
+        },
+        {
+            "area": "金山區",
+            "cunli": "秀峰里",
+            "house_no": "2555",
+            "candidates": {
+                "1": 16,
+                "2": 129,
+                "3": 290,
+                "4": 125,
+                "5": 8,
+                "6": 151
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1506
+        },
+        {
+            "area": "金山區",
+            "cunli": "秀峰里",
+            "house_no": "2556",
+            "candidates": {
+                "1": 25,
+                "2": 128,
+                "3": 229,
+                "4": 122,
+                "5": 8,
+                "6": 119
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "金山區",
+            "cunli": "秀山里",
+            "house_no": "2557",
+            "candidates": {
+                "1": 34,
+                "2": 129,
+                "3": 276,
+                "4": 176,
+                "5": 6,
+                "6": 140
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "金山區",
+            "cunli": "秀山里",
+            "house_no": "2558",
+            "candidates": {
+                "1": 31,
+                "2": 116,
+                "3": 220,
+                "4": 155,
+                "5": 13,
+                "6": 120
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1220
+        },
+        {
+            "area": "金山區",
+            "cunli": "秀山里",
+            "house_no": "2559",
+            "candidates": {
+                "1": 28,
+                "2": 92,
+                "3": 207,
+                "4": 227,
+                "5": 9,
+                "6": 117
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1324
+        },
+        {
+            "area": "金山區",
+            "cunli": "復興里",
+            "house_no": "2560",
+            "candidates": {
+                "1": 33,
+                "2": 128,
+                "3": 351,
+                "4": 195,
+                "5": 4,
+                "6": 157
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1552
+        },
+        {
+            "area": "金山區",
+            "cunli": "復興里",
+            "house_no": "2561",
+            "candidates": {
+                "1": 33,
+                "2": 106,
+                "3": 401,
+                "4": 175,
+                "5": 9,
+                "6": 153
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1504
+        },
+        {
+            "area": "金山區",
+            "cunli": "復興里",
+            "house_no": "2562",
+            "candidates": {
+                "1": 19,
+                "2": 122,
+                "3": 306,
+                "4": 167,
+                "5": 3,
+                "6": 161
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1406
+        },
+        {
+            "area": "金山區",
+            "cunli": "復興里",
+            "house_no": "2563",
+            "candidates": {
+                "1": 29,
+                "2": 123,
+                "3": 358,
+                "4": 207,
+                "5": 6,
+                "6": 186
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1528
+        },
+        {
+            "area": "金山區",
+            "cunli": "自強里",
+            "house_no": "2564",
+            "candidates": {
+                "1": 36,
+                "2": 107,
+                "3": 393,
+                "4": 203,
+                "5": 7,
+                "6": 199
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1634
+        },
+        {
+            "area": "金山區",
+            "cunli": "自強里",
+            "house_no": "2565",
+            "candidates": {
+                "1": 22,
+                "2": 131,
+                "3": 346,
+                "4": 202,
+                "5": 6,
+                "6": 193
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 1674
+        },
+        {
+            "area": "金山區",
+            "cunli": "自強里",
+            "house_no": "2566",
+            "candidates": {
+                "1": 36,
+                "2": 139,
+                "3": 358,
+                "4": 209,
+                "5": 5,
+                "6": 166
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1669
+        },
+        {
+            "area": "金山區",
+            "cunli": "文化里",
+            "house_no": "2567",
+            "candidates": {
+                "1": 25,
+                "2": 106,
+                "3": 266,
+                "4": 185,
+                "5": 4,
+                "6": 165
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1496
+        },
+        {
+            "area": "金山區",
+            "cunli": "文化里",
+            "house_no": "2568",
+            "candidates": {
+                "1": 27,
+                "2": 97,
+                "3": 278,
+                "4": 226,
+                "5": 5,
+                "6": 141
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1435
+        },
+        {
+            "area": "金山區",
+            "cunli": "文化里",
+            "house_no": "2569",
+            "candidates": {
+                "1": 11,
+                "2": 86,
+                "3": 185,
+                "4": 114,
+                "5": 5,
+                "6": 128
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1047
+        },
+        {
+            "area": "金山區",
+            "cunli": "白雲里",
+            "house_no": "2570",
+            "candidates": {
+                "1": 16,
+                "2": 87,
+                "3": 237,
+                "4": 141,
+                "5": 2,
+                "6": 141
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "金山區",
+            "cunli": "白雲里",
+            "house_no": "2571",
+            "candidates": {
+                "1": 14,
+                "2": 115,
+                "3": 244,
+                "4": 160,
+                "5": 4,
+                "6": 158
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "金山區",
+            "cunli": "白雲里",
+            "house_no": "2572",
+            "candidates": {
+                "1": 22,
+                "2": 54,
+                "3": 287,
+                "4": 133,
+                "5": 5,
+                "6": 191
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1295
+        },
+        {
+            "area": "金山區",
+            "cunli": "茄苳里",
+            "house_no": "2573",
+            "candidates": {
+                "1": 12,
+                "2": 87,
+                "3": 259,
+                "4": 154,
+                "5": 13,
+                "6": 215
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "金山區",
+            "cunli": "茄苳里",
+            "house_no": "2574",
+            "candidates": {
+                "1": 23,
+                "2": 107,
+                "3": 263,
+                "4": 161,
+                "5": 6,
+                "6": 133
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1331
+        },
+        {
+            "area": "金山區",
+            "cunli": "茄苳里",
+            "house_no": "2575",
+            "candidates": {
+                "1": 10,
+                "2": 87,
+                "3": 229,
+                "4": 154,
+                "5": 4,
+                "6": 145
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "金山區",
+            "cunli": "崇德里",
+            "house_no": "2576",
+            "candidates": {
+                "1": 25,
+                "2": 86,
+                "3": 340,
+                "4": 139,
+                "5": 7,
+                "6": 224
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1597
+        },
+        {
+            "area": "金山區",
+            "cunli": "崇德里",
+            "house_no": "2577",
+            "candidates": {
+                "1": 26,
+                "2": 78,
+                "3": 286,
+                "4": 149,
+                "5": 12,
+                "6": 196
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1519
+        },
+        {
+            "area": "金山區",
+            "cunli": "崇德里",
+            "house_no": "2578",
+            "candidates": {
+                "1": 20,
+                "2": 43,
+                "3": 240,
+                "4": 125,
+                "5": 6,
+                "6": 185
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "金山區",
+            "cunli": "城中里",
+            "house_no": "2579",
+            "candidates": {
+                "1": 18,
+                "2": 87,
+                "3": 278,
+                "4": 108,
+                "5": 12,
+                "6": 151
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "金山區",
+            "cunli": "城中里",
+            "house_no": "2580",
+            "candidates": {
+                "1": 19,
+                "2": 77,
+                "3": 301,
+                "4": 182,
+                "5": 11,
+                "6": 159
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "金山區",
+            "cunli": "城中里",
+            "house_no": "2581",
+            "candidates": {
+                "1": 24,
+                "2": 82,
+                "3": 306,
+                "4": 227,
+                "5": 10,
+                "6": 156
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1448
+        },
+        {
+            "area": "金山區",
+            "cunli": "橋東里",
+            "house_no": "2582",
+            "candidates": {
+                "1": 48,
+                "2": 102,
+                "3": 304,
+                "4": 165,
+                "5": 7,
+                "6": 204
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1505
+        },
+        {
+            "area": "金山區",
+            "cunli": "橋東里",
+            "house_no": "2583",
+            "candidates": {
+                "1": 30,
+                "2": 96,
+                "3": 359,
+                "4": 165,
+                "5": 10,
+                "6": 168
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1500
+        },
+        {
+            "area": "金山區",
+            "cunli": "建成里",
+            "house_no": "2584",
+            "candidates": {
+                "1": 35,
+                "2": 112,
+                "3": 367,
+                "4": 177,
+                "5": 11,
+                "6": 164
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1572
+        },
+        {
+            "area": "金山區",
+            "cunli": "建成里",
+            "house_no": "2585",
+            "candidates": {
+                "1": 30,
+                "2": 96,
+                "3": 419,
+                "4": 180,
+                "5": 9,
+                "6": 134
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1622
+        },
+        {
+            "area": "金山區",
+            "cunli": "建成里",
+            "house_no": "2586",
+            "candidates": {
+                "1": 12,
+                "2": 73,
+                "3": 317,
+                "4": 120,
+                "5": 11,
+                "6": 141
+            },
+            "count_wrong": 18,
+            "count_unused": 3,
+            "count_total": 1201
+        },
+        {
+            "area": "金山區",
+            "cunli": "長安里",
+            "house_no": "2587",
+            "candidates": {
+                "1": 22,
+                "2": 148,
+                "3": 332,
+                "4": 148,
+                "5": 6,
+                "6": 179
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1411
+        },
+        {
+            "area": "金山區",
+            "cunli": "保安里",
+            "house_no": "2588",
+            "candidates": {
+                "1": 17,
+                "2": 90,
+                "3": 307,
+                "4": 167,
+                "5": 9,
+                "6": 162
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1457
+        },
+        {
+            "area": "金山區",
+            "cunli": "東山里",
+            "house_no": "2589",
+            "candidates": {
+                "1": 6,
+                "2": 66,
+                "3": 136,
+                "4": 56,
+                "5": 2,
+                "6": 62
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 513
+        },
+        {
+            "area": "金山區",
+            "cunli": "保長里",
+            "house_no": "2590",
+            "candidates": {
+                "1": 16,
+                "2": 134,
+                "3": 243,
+                "4": 143,
+                "5": 5,
+                "6": 133
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "金山區",
+            "cunli": "保長里",
+            "house_no": "2591",
+            "candidates": {
+                "1": 30,
+                "2": 98,
+                "3": 266,
+                "4": 172,
+                "5": 7,
+                "6": 162
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1538
+        },
+        {
+            "area": "金山區",
+            "cunli": "保長里",
+            "house_no": "2592",
+            "candidates": {
+                "1": 21,
+                "2": 79,
+                "3": 263,
+                "4": 147,
+                "5": 5,
+                "6": 130
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "金山區",
+            "cunli": "保新里",
+            "house_no": "2593",
+            "candidates": {
+                "1": 48,
+                "2": 96,
+                "3": 360,
+                "4": 220,
+                "5": 8,
+                "6": 108
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1871
+        },
+        {
+            "area": "金山區",
+            "cunli": "保新里",
+            "house_no": "2594",
+            "candidates": {
+                "1": 12,
+                "2": 48,
+                "3": 78,
+                "4": 78,
+                "5": 1,
+                "6": 84
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 617
+        },
+        {
+            "area": "金山區",
+            "cunli": "鄉長里",
+            "house_no": "2595",
+            "candidates": {
+                "1": 18,
+                "2": 147,
+                "3": 283,
+                "4": 163,
+                "5": 11,
+                "6": 177
+            },
+            "count_wrong": 39,
+            "count_unused": 1,
+            "count_total": 1257
+        },
+        {
+            "area": "金山區",
+            "cunli": "鄉長里",
+            "house_no": "2596",
+            "candidates": {
+                "1": 17,
+                "2": 65,
+                "3": 193,
+                "4": 89,
+                "5": 2,
+                "6": 120
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "金山區",
+            "cunli": "江北里",
+            "house_no": "2597",
+            "candidates": {
+                "1": 24,
+                "2": 85,
+                "3": 264,
+                "4": 170,
+                "5": 6,
+                "6": 131
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1211
+        },
+        {
+            "area": "金山區",
+            "cunli": "江北里",
+            "house_no": "2598",
+            "candidates": {
+                "1": 24,
+                "2": 93,
+                "3": 216,
+                "4": 166,
+                "5": 9,
+                "6": 139
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "金山區",
+            "cunli": "江北里",
+            "house_no": "2599",
+            "candidates": {
+                "1": 20,
+                "2": 106,
+                "3": 235,
+                "4": 193,
+                "5": 7,
+                "6": 160
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1491
+        },
+        {
+            "area": "金山區",
+            "cunli": "江北里",
+            "house_no": "2600",
+            "candidates": {
+                "1": 8,
+                "2": 123,
+                "3": 249,
+                "4": 178,
+                "5": 8,
+                "6": 133
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1245
+        },
+        {
+            "area": "金山區",
+            "cunli": "拱北里",
+            "house_no": "2601",
+            "candidates": {
+                "1": 13,
+                "2": 115,
+                "3": 203,
+                "4": 175,
+                "5": 3,
+                "6": 131
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "金山區",
+            "cunli": "拱北里",
+            "house_no": "2602",
+            "candidates": {
+                "1": 17,
+                "2": 164,
+                "3": 233,
+                "4": 173,
+                "5": 9,
+                "6": 168
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1463
+        },
+        {
+            "area": "金山區",
+            "cunli": "拱北里",
+            "house_no": "2603",
+            "candidates": {
+                "1": 35,
+                "2": 129,
+                "3": 231,
+                "4": 203,
+                "5": 5,
+                "6": 154
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1556
+        },
+        {
+            "area": "金山區",
+            "cunli": "烘內里",
+            "house_no": "2604",
+            "candidates": {
+                "1": 24,
+                "2": 134,
+                "3": 325,
+                "4": 191,
+                "5": 9,
+                "6": 133
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1377
+        },
+        {
+            "area": "金山區",
+            "cunli": "八連里",
+            "house_no": "2605",
+            "candidates": {
+                "1": 13,
+                "2": 104,
+                "3": 183,
+                "4": 151,
+                "5": 5,
+                "6": 127
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "金山區",
+            "cunli": "長青里",
+            "house_no": "2606",
+            "candidates": {
+                "1": 30,
+                "2": 86,
+                "3": 156,
+                "4": 112,
+                "5": 7,
+                "6": 85
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 820
+        },
+        {
+            "area": "金山區",
+            "cunli": "北峰里",
+            "house_no": "2607",
+            "candidates": {
+                "1": 22,
+                "2": 103,
+                "3": 169,
+                "4": 278,
+                "5": 11,
+                "6": 249
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1695
+        },
+        {
+            "area": "金山區",
+            "cunli": "北峰里",
+            "house_no": "2608",
+            "candidates": {
+                "1": 20,
+                "2": 72,
+                "3": 150,
+                "4": 201,
+                "5": 6,
+                "6": 175
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1364
+        },
+        {
+            "area": "金山區",
+            "cunli": "北峰里",
+            "house_no": "2609",
+            "candidates": {
+                "1": 22,
+                "2": 85,
+                "3": 135,
+                "4": 195,
+                "5": 6,
+                "6": 175
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1322
+        },
+        {
+            "area": "金山區",
+            "cunli": "金龍里",
+            "house_no": "2610",
+            "candidates": {
+                "1": 17,
+                "2": 76,
+                "3": 169,
+                "4": 210,
+                "5": 5,
+                "6": 198
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1560
+        },
+        {
+            "area": "金山區",
+            "cunli": "金龍里",
+            "house_no": "2611",
+            "candidates": {
+                "1": 13,
+                "2": 68,
+                "3": 170,
+                "4": 252,
+                "5": 2,
+                "6": 239
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1591
+        },
+        {
+            "area": "金山區",
+            "cunli": "金龍里",
+            "house_no": "2612",
+            "candidates": {
+                "1": 18,
+                "2": 88,
+                "3": 149,
+                "4": 303,
+                "5": 8,
+                "6": 243
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1545
+        },
+        {
+            "area": "金山區",
+            "cunli": "樟樹里",
+            "house_no": "2613",
+            "candidates": {
+                "1": 30,
+                "2": 198,
+                "3": 296,
+                "4": 272,
+                "5": 9,
+                "6": 269
+            },
+            "count_wrong": 44,
+            "count_unused": 1,
+            "count_total": 1898
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠孝里",
+            "house_no": "2614",
+            "candidates": {
+                "1": 15,
+                "2": 93,
+                "3": 211,
+                "4": 213,
+                "5": 5,
+                "6": 105
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1264
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠孝里",
+            "house_no": "2615",
+            "candidates": {
+                "1": 20,
+                "2": 91,
+                "3": 186,
+                "4": 227,
+                "5": 12,
+                "6": 156
+            },
+            "count_wrong": 21,
+            "count_unused": 2,
+            "count_total": 1387
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠孝里",
+            "house_no": "2616",
+            "candidates": {
+                "1": 15,
+                "2": 102,
+                "3": 239,
+                "4": 223,
+                "5": 5,
+                "6": 101
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1420
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠孝里",
+            "house_no": "2617",
+            "candidates": {
+                "1": 21,
+                "2": 89,
+                "3": 194,
+                "4": 237,
+                "5": 4,
+                "6": 125
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1330
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠孝里",
+            "house_no": "2618",
+            "candidates": {
+                "1": 24,
+                "2": 62,
+                "3": 224,
+                "4": 247,
+                "5": 9,
+                "6": 127
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1456
+        },
+        {
+            "area": "金山區",
+            "cunli": "厚德里",
+            "house_no": "2619",
+            "candidates": {
+                "1": 29,
+                "2": 97,
+                "3": 237,
+                "4": 215,
+                "5": 4,
+                "6": 157
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1586
+        },
+        {
+            "area": "金山區",
+            "cunli": "厚德里",
+            "house_no": "2620",
+            "candidates": {
+                "1": 13,
+                "2": 75,
+                "3": 203,
+                "4": 254,
+                "5": 2,
+                "6": 121
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1452
+        },
+        {
+            "area": "金山區",
+            "cunli": "厚德里",
+            "house_no": "2621",
+            "candidates": {
+                "1": 26,
+                "2": 87,
+                "3": 266,
+                "4": 229,
+                "5": 3,
+                "6": 147
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1613
+        },
+        {
+            "area": "金山區",
+            "cunli": "厚德里",
+            "house_no": "2622",
+            "candidates": {
+                "1": 16,
+                "2": 68,
+                "3": 194,
+                "4": 206,
+                "5": 2,
+                "6": 105
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "金山區",
+            "cunli": "山光里",
+            "house_no": "2623",
+            "candidates": {
+                "1": 13,
+                "2": 58,
+                "3": 213,
+                "4": 240,
+                "5": 4,
+                "6": 116
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1272
+        },
+        {
+            "area": "金山區",
+            "cunli": "山光里",
+            "house_no": "2624",
+            "candidates": {
+                "1": 13,
+                "2": 63,
+                "3": 195,
+                "4": 205,
+                "5": 5,
+                "6": 120
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "金山區",
+            "cunli": "中興里",
+            "house_no": "2625",
+            "candidates": {
+                "1": 17,
+                "2": 85,
+                "3": 161,
+                "4": 203,
+                "5": 6,
+                "6": 150
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "金山區",
+            "cunli": "中興里",
+            "house_no": "2626",
+            "candidates": {
+                "1": 25,
+                "2": 95,
+                "3": 141,
+                "4": 201,
+                "5": 2,
+                "6": 139
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "金山區",
+            "cunli": "中興里",
+            "house_no": "2627",
+            "candidates": {
+                "1": 27,
+                "2": 86,
+                "3": 174,
+                "4": 202,
+                "5": 8,
+                "6": 133
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1376
+        },
+        {
+            "area": "金山區",
+            "cunli": "中興里",
+            "house_no": "2628",
+            "candidates": {
+                "1": 17,
+                "2": 76,
+                "3": 186,
+                "4": 189,
+                "5": 7,
+                "6": 172
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1349
+        },
+        {
+            "area": "金山區",
+            "cunli": "中興里",
+            "house_no": "2629",
+            "candidates": {
+                "1": 24,
+                "2": 79,
+                "3": 187,
+                "4": 213,
+                "5": 9,
+                "6": 163
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1412
+        },
+        {
+            "area": "金山區",
+            "cunli": "福德里",
+            "house_no": "2630",
+            "candidates": {
+                "1": 25,
+                "2": 124,
+                "3": 203,
+                "4": 237,
+                "5": 8,
+                "6": 192
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1587
+        },
+        {
+            "area": "金山區",
+            "cunli": "福德里",
+            "house_no": "2631",
+            "candidates": {
+                "1": 6,
+                "2": 63,
+                "3": 196,
+                "4": 250,
+                "5": 4,
+                "6": 126
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1404
+        },
+        {
+            "area": "金山區",
+            "cunli": "興福里",
+            "house_no": "2632",
+            "candidates": {
+                "1": 31,
+                "2": 96,
+                "3": 255,
+                "4": 264,
+                "5": 5,
+                "6": 127
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1347
+        },
+        {
+            "area": "金山區",
+            "cunli": "興福里",
+            "house_no": "2633",
+            "candidates": {
+                "1": 28,
+                "2": 94,
+                "3": 208,
+                "4": 242,
+                "5": 4,
+                "6": 164
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1444
+        },
+        {
+            "area": "金山區",
+            "cunli": "康福里",
+            "house_no": "2634",
+            "candidates": {
+                "1": 30,
+                "2": 86,
+                "3": 189,
+                "4": 254,
+                "5": 3,
+                "6": 197
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1501
+        },
+        {
+            "area": "金山區",
+            "cunli": "康福里",
+            "house_no": "2635",
+            "candidates": {
+                "1": 17,
+                "2": 97,
+                "3": 192,
+                "4": 225,
+                "5": 6,
+                "6": 205
+            },
+            "count_wrong": 19,
+            "count_unused": 1,
+            "count_total": 1441
+        },
+        {
+            "area": "金山區",
+            "cunli": "康福里",
+            "house_no": "2636",
+            "candidates": {
+                "1": 28,
+                "2": 87,
+                "3": 212,
+                "4": 310,
+                "5": 4,
+                "6": 211
+            },
+            "count_wrong": 30,
+            "count_unused": 1,
+            "count_total": 1630
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖光里",
+            "house_no": "2637",
+            "candidates": {
+                "1": 29,
+                "2": 92,
+                "3": 152,
+                "4": 269,
+                "5": 4,
+                "6": 210
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1349
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖光里",
+            "house_no": "2638",
+            "candidates": {
+                "1": 27,
+                "2": 71,
+                "3": 184,
+                "4": 300,
+                "5": 6,
+                "6": 145
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖光里",
+            "house_no": "2639",
+            "candidates": {
+                "1": 18,
+                "2": 77,
+                "3": 166,
+                "4": 367,
+                "5": 2,
+                "6": 168
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖光里",
+            "house_no": "2640",
+            "candidates": {
+                "1": 31,
+                "2": 52,
+                "3": 234,
+                "4": 273,
+                "5": 8,
+                "6": 115
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1291
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖蓮里",
+            "house_no": "2641",
+            "candidates": {
+                "1": 30,
+                "2": 32,
+                "3": 141,
+                "4": 177,
+                "5": 2,
+                "6": 316
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1115
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖蓮里",
+            "house_no": "2642",
+            "candidates": {
+                "1": 22,
+                "2": 48,
+                "3": 206,
+                "4": 236,
+                "5": 5,
+                "6": 340
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖興里",
+            "house_no": "2643",
+            "candidates": {
+                "1": 13,
+                "2": 71,
+                "3": 158,
+                "4": 446,
+                "5": 26,
+                "6": 107
+            },
+            "count_wrong": 22,
+            "count_unused": 1,
+            "count_total": 1454
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖興里",
+            "house_no": "2644",
+            "candidates": {
+                "1": 9,
+                "2": 72,
+                "3": 188,
+                "4": 344,
+                "5": 3,
+                "6": 129
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖興里",
+            "house_no": "2645",
+            "candidates": {
+                "1": 23,
+                "2": 77,
+                "3": 211,
+                "4": 316,
+                "5": 6,
+                "6": 149
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1484
+        },
+        {
+            "area": "金山區",
+            "cunli": "湖興里",
+            "house_no": "2646",
+            "candidates": {
+                "1": 15,
+                "2": 84,
+                "3": 238,
+                "4": 330,
+                "5": 10,
+                "6": 120
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1335
+        },
+        {
+            "area": "金山區",
+            "cunli": "北山里",
+            "house_no": "2647",
+            "candidates": {
+                "1": 43,
+                "2": 159,
+                "3": 163,
+                "4": 288,
+                "5": 6,
+                "6": 117
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1424
+        },
+        {
+            "area": "金山區",
+            "cunli": "北山里",
+            "house_no": "2648",
+            "candidates": {
+                "1": 35,
+                "2": 125,
+                "3": 159,
+                "4": 307,
+                "5": 5,
+                "6": 141
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1279
+        },
+        {
+            "area": "金山區",
+            "cunli": "北山里",
+            "house_no": "2649",
+            "candidates": {
+                "1": 16,
+                "2": 129,
+                "3": 165,
+                "4": 249,
+                "5": 9,
+                "6": 189
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "金山區",
+            "cunli": "北山里",
+            "house_no": "2650",
+            "candidates": {
+                "1": 16,
+                "2": 91,
+                "3": 151,
+                "4": 181,
+                "5": 6,
+                "6": 171
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠山里",
+            "house_no": "2651",
+            "candidates": {
+                "1": 30,
+                "2": 86,
+                "3": 255,
+                "4": 325,
+                "5": 1,
+                "6": 145
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "金山區",
+            "cunli": "忠山里",
+            "house_no": "2652",
+            "candidates": {
+                "1": 41,
+                "2": 87,
+                "3": 296,
+                "4": 303,
+                "5": 2,
+                "6": 228
+            },
+            "count_wrong": 35,
+            "count_unused": 2,
+            "count_total": 1542
+        },
+        {
+            "area": "金山區",
+            "cunli": "環河里",
+            "house_no": "2653",
+            "candidates": {
+                "1": 10,
+                "2": 119,
+                "3": 114,
+                "4": 211,
+                "5": 7,
+                "6": 167
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "金山區",
+            "cunli": "橫科里",
+            "house_no": "2654",
+            "candidates": {
+                "1": 39,
+                "2": 138,
+                "3": 176,
+                "4": 248,
+                "5": 9,
+                "6": 124
+            },
+            "count_wrong": 17,
+            "count_unused": 10,
+            "count_total": 1404
+        },
+        {
+            "area": "金山區",
+            "cunli": "橫科里",
+            "house_no": "2655",
+            "candidates": {
+                "1": 35,
+                "2": 146,
+                "3": 184,
+                "4": 231,
+                "5": 2,
+                "6": 95
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1312
+        },
+        {
+            "area": "金山區",
+            "cunli": "橫科里",
+            "house_no": "2656",
+            "candidates": {
+                "1": 32,
+                "2": 138,
+                "3": 151,
+                "4": 251,
+                "5": 5,
+                "6": 133
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1357
+        },
+        {
+            "area": "金山區",
+            "cunli": "福山里",
+            "house_no": "2657",
+            "candidates": {
+                "1": 48,
+                "2": 149,
+                "3": 213,
+                "4": 284,
+                "5": 5,
+                "6": 133
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1651
+        },
+        {
+            "area": "金山區",
+            "cunli": "福山里",
+            "house_no": "2658",
+            "candidates": {
+                "1": 36,
+                "2": 140,
+                "3": 196,
+                "4": 324,
+                "5": 9,
+                "6": 133
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1560
+        },
+        {
+            "area": "金山區",
+            "cunli": "宜興里",
+            "house_no": "2659",
+            "candidates": {
+                "1": 37,
+                "2": 82,
+                "3": 186,
+                "4": 252,
+                "5": 9,
+                "6": 83
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "金山區",
+            "cunli": "宜興里",
+            "house_no": "2660",
+            "candidates": {
+                "1": 32,
+                "2": 146,
+                "3": 167,
+                "4": 274,
+                "5": 12,
+                "6": 108
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1325
+        },
+        {
+            "area": "金山區",
+            "cunli": "東勢里",
+            "house_no": "2661",
+            "candidates": {
+                "1": 23,
+                "2": 138,
+                "3": 148,
+                "4": 229,
+                "5": 7,
+                "6": 115
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1138
+        },
+        {
+            "area": "金山區",
+            "cunli": "東勢里",
+            "house_no": "2662",
+            "candidates": {
+                "1": 42,
+                "2": 76,
+                "3": 202,
+                "4": 226,
+                "5": 3,
+                "6": 105
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1230
+        },
+        {
+            "area": "金山區",
+            "cunli": "東勢里",
+            "house_no": "2663",
+            "candidates": {
+                "1": 62,
+                "2": 120,
+                "3": 259,
+                "4": 319,
+                "5": 7,
+                "6": 182
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1764
+        }
+    ]
+}

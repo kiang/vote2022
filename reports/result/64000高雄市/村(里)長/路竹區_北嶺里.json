@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林御風",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪素月",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃松德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "北嶺里",
+            "house_no": "194",
+            "candidates": {
+                "1": 240,
+                "2": 183,
+                "3": 482
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1186
+        }
+    ]
+}

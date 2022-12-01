@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴秀臺",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡河彬",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "和平里",
+            "house_no": "409",
+            "candidates": {
+                "1": 245,
+                "2": 462
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1384
+        },
+        {
+            "area": "新莊區",
+            "cunli": "和平里",
+            "house_no": "410",
+            "candidates": {
+                "1": 238,
+                "2": 496
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "新莊區",
+            "cunli": "和平里",
+            "house_no": "411",
+            "candidates": {
+                "1": 250,
+                "2": 395
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1243
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃承羿",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃永成",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳國淵",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水林鄉",
+            "cunli": "松北村",
+            "house_no": "270",
+            "candidates": {
+                "1": 39,
+                "2": 301,
+                "3": 322
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 940
+        }
+    ]
+}

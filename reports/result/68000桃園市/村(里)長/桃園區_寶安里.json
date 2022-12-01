@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳月花",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "卓啓書",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "寶安里",
+            "house_no": "194",
+            "candidates": {
+                "1": 595,
+                "2": 215
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1457
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶安里",
+            "house_no": "195",
+            "candidates": {
+                "1": 546,
+                "2": 206
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1555
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶安里",
+            "house_no": "196",
+            "candidates": {
+                "1": 569,
+                "2": 303
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1492
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶安里",
+            "house_no": "197",
+            "candidates": {
+                "1": 609,
+                "2": 263
+            },
+            "count_wrong": 24,
+            "count_unused": 3,
+            "count_total": 1543
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶安里",
+            "house_no": "198",
+            "candidates": {
+                "1": 596,
+                "2": 267
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1649
+        }
+    ]
+}

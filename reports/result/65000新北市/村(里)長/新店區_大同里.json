@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "俞賢明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "大同里",
+            "house_no": "2221",
+            "candidates": {
+                "1": 490
+            },
+            "count_wrong": 94,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "新店區",
+            "cunli": "大同里",
+            "house_no": "2222",
+            "candidates": {
+                "1": 666
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1165
+        },
+        {
+            "area": "新店區",
+            "cunli": "大同里",
+            "house_no": "2223",
+            "candidates": {
+                "1": 576
+            },
+            "count_wrong": 112,
+            "count_unused": 0,
+            "count_total": 1173
+        }
+    ]
+}

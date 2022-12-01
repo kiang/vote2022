@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "杜忠有",
+            "party": "無"
+        },
+        "2": {
+            "name": "林紹憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "魚池鄉",
+            "cunli": "五城村",
+            "house_no": "396",
+            "candidates": {
+                "1": 147,
+                "2": 223
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 507
+        },
+        {
+            "area": "魚池鄉",
+            "cunli": "五城村",
+            "house_no": "397",
+            "candidates": {
+                "1": 55,
+                "2": 54
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 160
+        }
+    ]
+}

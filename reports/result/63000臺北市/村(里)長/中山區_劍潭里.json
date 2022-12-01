@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王迎珠",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鄭秋明",
+            "party": "無"
+        },
+        "3": {
+            "name": "王廣漢",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃開芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "劍潭里",
+            "house_no": "939",
+            "candidates": {
+                "1": 218,
+                "2": 49,
+                "3": 98,
+                "4": 236
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 886
+        },
+        {
+            "area": "中山區",
+            "cunli": "劍潭里",
+            "house_no": "940",
+            "candidates": {
+                "1": 204,
+                "2": 101,
+                "3": 77,
+                "4": 264
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "中山區",
+            "cunli": "劍潭里",
+            "house_no": "941",
+            "candidates": {
+                "1": 249,
+                "2": 49,
+                "3": 179,
+                "4": 259
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

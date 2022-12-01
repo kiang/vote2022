@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘明勲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳雅娟",
+            "party": "無"
+        },
+        "3": {
+            "name": "席蕊婷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "義村里",
+            "house_no": "1407",
+            "candidates": {
+                "1": 334,
+                "2": 177,
+                "3": 35
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "大安區",
+            "cunli": "義村里",
+            "house_no": "1408",
+            "candidates": {
+                "1": 481,
+                "2": 257,
+                "3": 69
+            },
+            "count_wrong": 9,
+            "count_unused": 24,
+            "count_total": 1197
+        },
+        {
+            "area": "大安區",
+            "cunli": "義村里",
+            "house_no": "1409",
+            "candidates": {
+                "1": 373,
+                "2": 326,
+                "3": 47
+            },
+            "count_wrong": 23,
+            "count_unused": 18,
+            "count_total": 1110
+        },
+        {
+            "area": "大安區",
+            "cunli": "義村里",
+            "house_no": "1410",
+            "candidates": {
+                "1": 343,
+                "2": 314,
+                "3": 83
+            },
+            "count_wrong": 34,
+            "count_unused": 1,
+            "count_total": 1133
+        }
+    ]
+}

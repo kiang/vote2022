@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊蔭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭城鎮",
+            "cunli": "竹安里",
+            "house_no": "197",
+            "candidates": {
+                "1": 600
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "頭城鎮",
+            "cunli": "竹安里",
+            "house_no": "198",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 995
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭豐進",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳福全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "佳里區",
+            "cunli": "東寧里",
+            "house_no": "296",
+            "candidates": {
+                "1": 202,
+                "2": 386
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1002
+        },
+        {
+            "area": "佳里區",
+            "cunli": "東寧里",
+            "house_no": "297",
+            "candidates": {
+                "1": 326,
+                "2": 360
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1070
+        }
+    ]
+}

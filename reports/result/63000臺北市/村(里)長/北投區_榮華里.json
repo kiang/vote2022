@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐健春",
+            "party": "無"
+        },
+        "2": {
+            "name": "何漢清",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "施佩君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "榮華里",
+            "house_no": "21",
+            "candidates": {
+                "1": 53,
+                "2": 397,
+                "3": 291
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮華里",
+            "house_no": "22",
+            "candidates": {
+                "1": 69,
+                "2": 416,
+                "3": 355
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮華里",
+            "house_no": "23",
+            "candidates": {
+                "1": 63,
+                "2": 424,
+                "3": 397
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮華里",
+            "house_no": "24",
+            "candidates": {
+                "1": 82,
+                "2": 357,
+                "3": 321
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮華里",
+            "house_no": "25",
+            "candidates": {
+                "1": 90,
+                "2": 365,
+                "3": 280
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1031
+        }
+    ]
+}

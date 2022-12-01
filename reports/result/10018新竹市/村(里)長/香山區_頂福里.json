@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳烈如",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾孟溱",
+            "party": "台灣民眾黨"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "頂福里",
+            "house_no": "296",
+            "candidates": {
+                "1": 299,
+                "2": 166
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 742
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂福里",
+            "house_no": "297",
+            "candidates": {
+                "1": 483,
+                "2": 247
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂福里",
+            "house_no": "298",
+            "candidates": {
+                "1": 533,
+                "2": 173
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "香山區",
+            "cunli": "頂福里",
+            "house_no": "299",
+            "candidates": {
+                "1": 430,
+                "2": 176
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1125
+        }
+    ]
+}

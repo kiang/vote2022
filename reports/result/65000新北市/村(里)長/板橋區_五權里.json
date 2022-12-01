@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳童",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "五權里",
+            "house_no": "1272",
+            "candidates": {
+                "1": 563
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "板橋區",
+            "cunli": "五權里",
+            "house_no": "1273",
+            "candidates": {
+                "1": 528
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1143
+        },
+        {
+            "area": "板橋區",
+            "cunli": "五權里",
+            "house_no": "1274",
+            "candidates": {
+                "1": 463
+            },
+            "count_wrong": 135,
+            "count_unused": 0,
+            "count_total": 1115
+        }
+    ]
+}

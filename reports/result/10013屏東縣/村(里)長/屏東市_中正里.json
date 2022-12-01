@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林毓毅",
+            "party": "無"
+        },
+        "2": {
+            "name": "李育丞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "中正里",
+            "house_no": "130",
+            "candidates": {
+                "1": 362,
+                "2": 466
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1435
+        },
+        {
+            "area": "屏東市",
+            "cunli": "中正里",
+            "house_no": "131",
+            "candidates": {
+                "1": 269,
+                "2": 442
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1338
+        },
+        {
+            "area": "屏東市",
+            "cunli": "中正里",
+            "house_no": "132",
+            "candidates": {
+                "1": 365,
+                "2": 442
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1454
+        }
+    ]
+}

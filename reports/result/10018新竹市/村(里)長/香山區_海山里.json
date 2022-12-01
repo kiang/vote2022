@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "林漢文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "海山里",
+            "house_no": "341",
+            "candidates": {
+                "1": 603,
+                "2": 214
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1209
+        },
+        {
+            "area": "香山區",
+            "cunli": "海山里",
+            "house_no": "342",
+            "candidates": {
+                "1": 290,
+                "2": 382
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

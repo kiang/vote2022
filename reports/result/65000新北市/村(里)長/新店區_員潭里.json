@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊昌宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭朝棟",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "施美女",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "員潭里",
+            "house_no": "2344",
+            "candidates": {
+                "1": 132,
+                "2": 332,
+                "3": 318
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1427
+        },
+        {
+            "area": "新店區",
+            "cunli": "員潭里",
+            "house_no": "2345",
+            "candidates": {
+                "1": 173,
+                "2": 413,
+                "3": 470
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1863
+        },
+        {
+            "area": "新店區",
+            "cunli": "員潭里",
+            "house_no": "2346",
+            "candidates": {
+                "1": 228,
+                "2": 217,
+                "3": 271
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1251
+        }
+    ]
+}

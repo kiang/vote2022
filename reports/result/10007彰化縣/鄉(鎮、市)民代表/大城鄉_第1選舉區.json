@@ -1,0 +1,52 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游玉美",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡天瑞",
+            "party": "無"
+        },
+        "3": {
+            "name": "許瑞芳",
+            "party": "無"
+        },
+        "4": {
+            "name": "林玉堂",
+            "party": "無"
+        },
+        "5": {
+            "name": "洪景宏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大城鄉",
+            "cunli": "山腳村",
+            "house_no": "1014",
+            "candidates": {
+                "1": 451,
+                "2": 385,
+                "3": 60
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1222
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "潭墘村",
+            "house_no": "1015",
+            "candidates": {
+                "1": 154,
+                "2": 151,
+                "3": 390
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1021
+        }
+    ]
+}

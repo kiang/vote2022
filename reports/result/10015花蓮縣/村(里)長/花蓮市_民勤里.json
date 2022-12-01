@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黎新順",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民勤里",
+            "house_no": "3",
+            "candidates": {
+                "1": 396
+            },
+            "count_wrong": 56,
+            "count_unused": 1,
+            "count_total": 938
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民勤里",
+            "house_no": "4",
+            "candidates": {
+                "1": 362
+            },
+            "count_wrong": 59,
+            "count_unused": 0,
+            "count_total": 938
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民勤里",
+            "house_no": "5",
+            "candidates": {
+                "1": 451
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1050
+        }
+    ]
+}

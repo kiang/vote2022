@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭麗花",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "謝縉霟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "會稽里",
+            "house_no": "243",
+            "candidates": {
+                "1": 533,
+                "2": 210
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "桃園區",
+            "cunli": "會稽里",
+            "house_no": "244",
+            "candidates": {
+                "1": 486,
+                "2": 148
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "桃園區",
+            "cunli": "會稽里",
+            "house_no": "245",
+            "candidates": {
+                "1": 518,
+                "2": 121
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1182
+        }
+    ]
+}

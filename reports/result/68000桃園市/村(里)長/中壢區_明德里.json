@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游新榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "王派泉",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳朝福",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄧淑月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "明德里",
+            "house_no": "713",
+            "candidates": {
+                "1": 181,
+                "2": 284,
+                "3": 228,
+                "4": 303
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1626
+        },
+        {
+            "area": "中壢區",
+            "cunli": "明德里",
+            "house_no": "714",
+            "candidates": {
+                "1": 305,
+                "2": 150,
+                "3": 191,
+                "4": 175
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "中壢區",
+            "cunli": "明德里",
+            "house_no": "715",
+            "candidates": {
+                "1": 224,
+                "2": 223,
+                "3": 314,
+                "4": 211
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1457
+        }
+    ]
+}

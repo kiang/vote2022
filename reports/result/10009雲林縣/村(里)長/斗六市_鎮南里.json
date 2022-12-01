@@ -1,0 +1,71 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李春忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "林家泰",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃劭偉",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳玉森",
+            "party": "無"
+        },
+        "5": {
+            "name": "莊志成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗六市",
+            "cunli": "鎮南里",
+            "house_no": "489",
+            "candidates": {
+                "1": 37,
+                "2": 220,
+                "3": 72,
+                "4": 117,
+                "5": 174
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "斗六市",
+            "cunli": "鎮南里",
+            "house_no": "490",
+            "candidates": {
+                "1": 97,
+                "2": 280,
+                "3": 69,
+                "4": 78,
+                "5": 213
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1206
+        },
+        {
+            "area": "斗六市",
+            "cunli": "鎮南里",
+            "house_no": "491",
+            "candidates": {
+                "1": 128,
+                "2": 153,
+                "3": 72,
+                "4": 82,
+                "5": 198
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1085
+        }
+    ]
+}

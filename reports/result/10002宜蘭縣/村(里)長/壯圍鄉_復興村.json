@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林彦瑾",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秀英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壯圍鄉",
+            "cunli": "復興村",
+            "house_no": "255",
+            "candidates": {
+                "1": 160,
+                "2": 392
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 773
+        },
+        {
+            "area": "壯圍鄉",
+            "cunli": "復興村",
+            "house_no": "256",
+            "candidates": {
+                "1": 147,
+                "2": 434
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 792
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "彭永泰",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭東漢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "海濱里",
+            "house_no": "284",
+            "candidates": {
+                "1": 385,
+                "2": 263
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1009
+        },
+        {
+            "area": "北區",
+            "cunli": "海濱里",
+            "house_no": "285",
+            "candidates": {
+                "1": 298,
+                "2": 261
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "北區",
+            "cunli": "海濱里",
+            "house_no": "286",
+            "candidates": {
+                "1": 309,
+                "2": 323
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "北區",
+            "cunli": "海濱里",
+            "house_no": "287",
+            "candidates": {
+                "1": 324,
+                "2": 339
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1166
+        }
+    ]
+}

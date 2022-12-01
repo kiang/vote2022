@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡弘振",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳文仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡素",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "水里鄉",
+            "cunli": "郡坑村",
+            "house_no": "443",
+            "candidates": {
+                "1": 132,
+                "2": 93,
+                "3": 31
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 306
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭峻毅",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳訓彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "灣利里",
+            "house_no": "1117",
+            "candidates": {
+                "1": 627,
+                "2": 259
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1504
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣利里",
+            "house_no": "1118",
+            "candidates": {
+                "1": 595,
+                "2": 231
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1355
+        }
+    ]
+}

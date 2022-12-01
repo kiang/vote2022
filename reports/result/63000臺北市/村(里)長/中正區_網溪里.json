@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "夏萬浪",
+            "party": "無"
+        },
+        "2": {
+            "name": "林佳惠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "網溪里",
+            "house_no": "1236",
+            "candidates": {
+                "1": 438,
+                "2": 339
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "中正區",
+            "cunli": "網溪里",
+            "house_no": "1237",
+            "candidates": {
+                "1": 467,
+                "2": 334
+            },
+            "count_wrong": 25,
+            "count_unused": 1,
+            "count_total": 1202
+        },
+        {
+            "area": "中正區",
+            "cunli": "網溪里",
+            "house_no": "1238",
+            "candidates": {
+                "1": 378,
+                "2": 330
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "中正區",
+            "cunli": "網溪里",
+            "house_no": "1239",
+            "candidates": {
+                "1": 356,
+                "2": 390
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1137
+        }
+    ]
+}

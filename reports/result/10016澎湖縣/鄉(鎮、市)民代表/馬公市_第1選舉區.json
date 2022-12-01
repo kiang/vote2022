@@ -1,0 +1,122 @@
+{
+    "candidates": {
+        "1": {
+            "name": "薛淑娟",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳仁祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃春燕",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃旭輝",
+            "party": "無"
+        },
+        "5": {
+            "name": "吳鴻任",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "莊國輝",
+            "party": "台灣民眾黨"
+        },
+        "7": {
+            "name": "王南昕",
+            "party": "時代力量"
+        },
+        "8": {
+            "name": "譚蘭芬",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "復興里",
+            "house_no": "1",
+            "candidates": {
+                "1": 55,
+                "2": 35,
+                "3": 43,
+                "4": 42
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 456
+        },
+        {
+            "area": "馬公市",
+            "cunli": "長安里",
+            "house_no": "2",
+            "candidates": {
+                "1": 101,
+                "2": 42,
+                "3": 48,
+                "4": 84
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 511
+        },
+        {
+            "area": "馬公市",
+            "cunli": "中央里",
+            "house_no": "3",
+            "candidates": {
+                "1": 141,
+                "2": 40,
+                "3": 73,
+                "4": 67
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 519
+        },
+        {
+            "area": "馬公市",
+            "cunli": "啟明里",
+            "house_no": "4",
+            "candidates": {
+                "1": 144,
+                "2": 46,
+                "3": 135,
+                "4": 145
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 847
+        },
+        {
+            "area": "馬公市",
+            "cunli": "重慶里",
+            "house_no": "5",
+            "candidates": {
+                "1": 205,
+                "2": 53,
+                "3": 105,
+                "4": 184
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 893
+        },
+        {
+            "area": "馬公市",
+            "cunli": "中興里",
+            "house_no": "6",
+            "candidates": {
+                "1": 143,
+                "2": 66,
+                "3": 95,
+                "4": 85
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 773
+        }
+    ]
+}

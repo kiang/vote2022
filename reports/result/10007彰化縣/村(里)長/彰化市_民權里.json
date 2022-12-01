@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國村",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "陳孟圭",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳添明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "彰化市",
+            "cunli": "民權里",
+            "house_no": "54",
+            "candidates": {
+                "1": 66,
+                "2": 352,
+                "3": 239
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1003
+        }
+    ]
+}

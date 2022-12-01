@@ -1,0 +1,42 @@
+{
+    "candidates": {
+        "1": {
+            "name": "白文宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "張水潮",
+            "party": "無"
+        },
+        "3": {
+            "name": "林文士",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "車城鄉",
+            "cunli": "保力村",
+            "house_no": "627",
+            "candidates": {
+                "1": 236,
+                "2": 161
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 567
+        },
+        {
+            "area": "車城鄉",
+            "cunli": "保力村",
+            "house_no": "628",
+            "candidates": {
+                "1": 161,
+                "2": 252
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 602
+        }
+    ]
+}

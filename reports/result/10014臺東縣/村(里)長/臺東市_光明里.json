@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾淑美",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "光明里",
+            "house_no": "54",
+            "candidates": {
+                "1": 387
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "臺東市",
+            "cunli": "光明里",
+            "house_no": "55",
+            "candidates": {
+                "1": 422
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 858
+        },
+        {
+            "area": "臺東市",
+            "cunli": "光明里",
+            "house_no": "56",
+            "candidates": {
+                "1": 346
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 773
+        }
+    ]
+}

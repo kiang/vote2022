@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳珮琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "游俊良",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃冠穎",
+            "party": "無"
+        },
+        "4": {
+            "name": "王欣文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "加錫村",
+            "house_no": "611",
+            "candidates": {
+                "1": 65,
+                "2": 438
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 694
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "加錫村",
+            "house_no": "612",
+            "candidates": {
+                "1": 80,
+                "2": 530
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 880
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "大崙村",
+            "house_no": "613",
+            "candidates": {
+                "1": 171,
+                "2": 418
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 833
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "大崙村",
+            "house_no": "614",
+            "candidates": {
+                "1": 182,
+                "2": 414
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "新興村",
+            "house_no": "615",
+            "candidates": {
+                "1": 438,
+                "2": 334
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1154
+        }
+    ]
+}

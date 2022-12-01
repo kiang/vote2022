@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱毓奇",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐文喜",
+            "party": "無"
+        },
+        "3": {
+            "name": "張恆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八里區",
+            "cunli": "米倉里",
+            "house_no": "154",
+            "candidates": {
+                "1": 179,
+                "2": 60,
+                "3": 292
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1080
+        },
+        {
+            "area": "八里區",
+            "cunli": "米倉里",
+            "house_no": "155",
+            "candidates": {
+                "1": 231,
+                "2": 31,
+                "3": 330
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "八里區",
+            "cunli": "米倉里",
+            "house_no": "156",
+            "candidates": {
+                "1": 275,
+                "2": 56,
+                "3": 294
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1116
+        }
+    ]
+}

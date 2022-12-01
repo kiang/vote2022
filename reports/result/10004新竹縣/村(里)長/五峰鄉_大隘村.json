@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳從武",
+            "party": "無"
+        },
+        "2": {
+            "name": "林國中",
+            "party": "無"
+        },
+        "3": {
+            "name": "夏文健",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五峰鄉",
+            "cunli": "大隘村",
+            "house_no": "458",
+            "candidates": {
+                "1": 139,
+                "2": 227,
+                "3": 144
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 645
+        },
+        {
+            "area": "五峰鄉",
+            "cunli": "大隘村",
+            "house_no": "459",
+            "candidates": {
+                "1": 238,
+                "2": 62,
+                "3": 186
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 645
+        }
+    ]
+}

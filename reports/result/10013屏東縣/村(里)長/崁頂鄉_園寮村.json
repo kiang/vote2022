@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許月雲",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭光明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崁頂鄉",
+            "cunli": "園寮村",
+            "house_no": "557",
+            "candidates": {
+                "1": 134,
+                "2": 356
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 771
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "園寮村",
+            "house_no": "558",
+            "candidates": {
+                "1": 370,
+                "2": 396
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1187
+        }
+    ]
+}

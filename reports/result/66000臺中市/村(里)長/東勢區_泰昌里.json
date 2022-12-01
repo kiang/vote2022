@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張愛新",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐鎮富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢區",
+            "cunli": "泰昌里",
+            "house_no": "1806",
+            "candidates": {
+                "1": 154,
+                "2": 534
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "東勢區",
+            "cunli": "泰昌里",
+            "house_no": "1807",
+            "candidates": {
+                "1": 158,
+                "2": 583
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "東勢區",
+            "cunli": "泰昌里",
+            "house_no": "1808",
+            "candidates": {
+                "1": 142,
+                "2": 457
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 949
+        }
+    ]
+}

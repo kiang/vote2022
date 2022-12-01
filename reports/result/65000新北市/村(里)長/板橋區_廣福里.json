@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林健光",
+            "party": "無"
+        },
+        "2": {
+            "name": "趙桂菊",
+            "party": "無"
+        },
+        "3": {
+            "name": "沈美妙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "廣福里",
+            "house_no": "1270",
+            "candidates": {
+                "1": 375,
+                "2": 359,
+                "3": 188
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1631
+        },
+        {
+            "area": "板橋區",
+            "cunli": "廣福里",
+            "house_no": "1271",
+            "candidates": {
+                "1": 292,
+                "2": 322,
+                "3": 296
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1676
+        }
+    ]
+}

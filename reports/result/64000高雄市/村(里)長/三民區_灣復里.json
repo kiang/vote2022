@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳國清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "灣復里",
+            "house_no": "1119",
+            "candidates": {
+                "1": 486
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣復里",
+            "house_no": "1120",
+            "candidates": {
+                "1": 515
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "三民區",
+            "cunli": "灣復里",
+            "house_no": "1121",
+            "candidates": {
+                "1": 455
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1023
+        }
+    ]
+}

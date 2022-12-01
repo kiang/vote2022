@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "歐真宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "北屯里",
+            "house_no": "1031",
+            "candidates": {
+                "1": 617
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "北屯區",
+            "cunli": "北屯里",
+            "house_no": "1032",
+            "candidates": {
+                "1": 494
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 990
+        },
+        {
+            "area": "北屯區",
+            "cunli": "北屯里",
+            "house_no": "1033",
+            "candidates": {
+                "1": 539
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1047
+        }
+    ]
+}

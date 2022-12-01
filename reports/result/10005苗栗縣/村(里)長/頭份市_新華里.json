@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張展文",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱龍森",
+            "party": "中華統一促進黨"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "新華里",
+            "house_no": "349",
+            "candidates": {
+                "1": 270,
+                "2": 458
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "頭份市",
+            "cunli": "新華里",
+            "house_no": "350",
+            "candidates": {
+                "1": 184,
+                "2": 417
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 974
+        },
+        {
+            "area": "頭份市",
+            "cunli": "新華里",
+            "house_no": "351",
+            "candidates": {
+                "1": 272,
+                "2": 619
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1488
+        }
+    ]
+}

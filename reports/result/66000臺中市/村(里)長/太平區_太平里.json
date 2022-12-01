@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林龍洲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳中和",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "太平里",
+            "house_no": "1501",
+            "candidates": {
+                "1": 386,
+                "2": 345
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1287
+        },
+        {
+            "area": "太平區",
+            "cunli": "太平里",
+            "house_no": "1502",
+            "candidates": {
+                "1": 404,
+                "2": 405
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "太平區",
+            "cunli": "太平里",
+            "house_no": "1503",
+            "candidates": {
+                "1": 372,
+                "2": 334
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1237
+        },
+        {
+            "area": "太平區",
+            "cunli": "太平里",
+            "house_no": "1504",
+            "candidates": {
+                "1": 390,
+                "2": 312
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1211
+        }
+    ]
+}

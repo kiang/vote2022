@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "古秋源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "安和里",
+            "house_no": "2058",
+            "candidates": {
+                "1": 771
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "土城區",
+            "cunli": "安和里",
+            "house_no": "2059",
+            "candidates": {
+                "1": 605
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "土城區",
+            "cunli": "安和里",
+            "house_no": "2060",
+            "candidates": {
+                "1": 624
+            },
+            "count_wrong": 75,
+            "count_unused": 0,
+            "count_total": 1321
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳昌宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "田文裕",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭文進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "大埔里",
+            "house_no": "331",
+            "candidates": {
+                "1": 178,
+                "2": 187,
+                "3": 282
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大埔里",
+            "house_no": "332",
+            "candidates": {
+                "1": 151,
+                "2": 297,
+                "3": 298
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1241
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大埔里",
+            "house_no": "333",
+            "candidates": {
+                "1": 93,
+                "2": 263,
+                "3": 397
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "大埔里",
+            "house_no": "334",
+            "candidates": {
+                "1": 102,
+                "2": 264,
+                "3": 373
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1103
+        }
+    ]
+}

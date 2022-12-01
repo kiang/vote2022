@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃育洧",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳盈利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "岸內里",
+            "house_no": "95",
+            "candidates": {
+                "1": 351,
+                "2": 419
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1418
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "岸內里",
+            "house_no": "96",
+            "candidates": {
+                "1": 272,
+                "2": 440
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1247
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "岸內里",
+            "house_no": "97",
+            "candidates": {
+                "1": 210,
+                "2": 331
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1044
+        }
+    ]
+}

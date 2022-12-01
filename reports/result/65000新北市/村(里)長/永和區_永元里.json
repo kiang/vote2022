@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂卓春英",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "柯泳瑜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "永元里",
+            "house_no": "1646",
+            "candidates": {
+                "1": 372,
+                "2": 405
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 1355
+        },
+        {
+            "area": "永和區",
+            "cunli": "永元里",
+            "house_no": "1647",
+            "candidates": {
+                "1": 376,
+                "2": 308
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1164
+        },
+        {
+            "area": "永和區",
+            "cunli": "永元里",
+            "house_no": "1648",
+            "candidates": {
+                "1": 399,
+                "2": 303
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1289
+        }
+    ]
+}

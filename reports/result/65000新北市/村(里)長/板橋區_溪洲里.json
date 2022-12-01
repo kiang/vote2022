@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王山崎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "溪洲里",
+            "house_no": "1337",
+            "candidates": {
+                "1": 744
+            },
+            "count_wrong": 109,
+            "count_unused": 0,
+            "count_total": 1700
+        },
+        {
+            "area": "板橋區",
+            "cunli": "溪洲里",
+            "house_no": "1338",
+            "candidates": {
+                "1": 759
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1654
+        },
+        {
+            "area": "板橋區",
+            "cunli": "溪洲里",
+            "house_no": "1339",
+            "candidates": {
+                "1": 705
+            },
+            "count_wrong": 127,
+            "count_unused": 0,
+            "count_total": 1562
+        }
+    ]
+}

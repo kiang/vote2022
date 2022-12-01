@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清華",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉益昌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林邊鄉",
+            "cunli": "光林村",
+            "house_no": "569",
+            "candidates": {
+                "1": 344,
+                "2": 280
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 835
+        },
+        {
+            "area": "林邊鄉",
+            "cunli": "光林村",
+            "house_no": "570",
+            "candidates": {
+                "1": 205,
+                "2": 255
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 644
+        }
+    ]
+}

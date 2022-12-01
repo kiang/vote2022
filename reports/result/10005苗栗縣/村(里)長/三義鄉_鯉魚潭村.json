@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹源添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "鯉魚潭村",
+            "house_no": "144",
+            "candidates": {
+                "1": 347
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 608
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "鯉魚潭村",
+            "house_no": "145",
+            "candidates": {
+                "1": 346
+            },
+            "count_wrong": 128,
+            "count_unused": 1,
+            "count_total": 616
+        }
+    ]
+}

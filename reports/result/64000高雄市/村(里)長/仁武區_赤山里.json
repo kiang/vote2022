@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳永宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝青原",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "赤山里",
+            "house_no": "790",
+            "candidates": {
+                "1": 320,
+                "2": 491
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1358
+        },
+        {
+            "area": "仁武區",
+            "cunli": "赤山里",
+            "house_no": "791",
+            "candidates": {
+                "1": 331,
+                "2": 408
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "仁武區",
+            "cunli": "赤山里",
+            "house_no": "792",
+            "candidates": {
+                "1": 293,
+                "2": 463
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "仁武區",
+            "cunli": "赤山里",
+            "house_no": "793",
+            "candidates": {
+                "1": 354,
+                "2": 330
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "仁武區",
+            "cunli": "赤山里",
+            "house_no": "794",
+            "candidates": {
+                "1": 368,
+                "2": 434
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1430
+        }
+    ]
+}

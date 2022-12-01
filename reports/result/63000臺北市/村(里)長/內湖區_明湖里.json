@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何應賢",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "翁勝德",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內湖區",
+            "cunli": "明湖里",
+            "house_no": "501",
+            "candidates": {
+                "1": 603,
+                "2": 330
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1388
+        },
+        {
+            "area": "內湖區",
+            "cunli": "明湖里",
+            "house_no": "502",
+            "candidates": {
+                "1": 544,
+                "2": 378
+            },
+            "count_wrong": 77,
+            "count_unused": 1,
+            "count_total": 1488
+        },
+        {
+            "area": "內湖區",
+            "cunli": "明湖里",
+            "house_no": "503",
+            "candidates": {
+                "1": 495,
+                "2": 341
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1355
+        }
+    ]
+}

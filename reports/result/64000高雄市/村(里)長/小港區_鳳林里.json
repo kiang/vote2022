@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張校銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "許再生",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "鳳林里",
+            "house_no": "1881",
+            "candidates": {
+                "1": 501,
+                "2": 439
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1458
+        },
+        {
+            "area": "小港區",
+            "cunli": "鳳林里",
+            "house_no": "1882",
+            "candidates": {
+                "1": 491,
+                "2": 515
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1488
+        }
+    ]
+}

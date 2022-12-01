@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉美慧",
+            "party": "無"
+        },
+        "2": {
+            "name": "余碧玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "泰山區",
+            "cunli": "貴和里",
+            "house_no": "359",
+            "candidates": {
+                "1": 336,
+                "2": 430
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1343
+        },
+        {
+            "area": "泰山區",
+            "cunli": "貴和里",
+            "house_no": "360",
+            "candidates": {
+                "1": 427,
+                "2": 349
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1303
+        },
+        {
+            "area": "泰山區",
+            "cunli": "貴和里",
+            "house_no": "361",
+            "candidates": {
+                "1": 402,
+                "2": 468
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1598
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高旭光",
+            "party": "無"
+        },
+        "2": {
+            "name": "金春華",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭志誠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "新生村",
+            "house_no": "493",
+            "candidates": {
+                "1": 149,
+                "2": 20,
+                "3": 170
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 387
+        }
+    ]
+}

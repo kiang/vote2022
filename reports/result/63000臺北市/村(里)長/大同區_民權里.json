@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林美菊",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "郭國堅",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳玉女",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "民權里",
+            "house_no": "1087",
+            "candidates": {
+                "1": 334,
+                "2": 87,
+                "3": 472
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1311
+        },
+        {
+            "area": "大同區",
+            "cunli": "民權里",
+            "house_no": "1088",
+            "candidates": {
+                "1": 235,
+                "2": 83,
+                "3": 504
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "大同區",
+            "cunli": "民權里",
+            "house_no": "1089",
+            "candidates": {
+                "1": 232,
+                "2": 77,
+                "3": 541
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "大同區",
+            "cunli": "民權里",
+            "house_no": "1090",
+            "candidates": {
+                "1": 238,
+                "2": 79,
+                "3": 460
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1183
+        }
+    ]
+}

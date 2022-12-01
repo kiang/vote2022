@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳碧珣",
+            "party": "無"
+        },
+        "2": {
+            "name": "王若薰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "田心里",
+            "house_no": "960",
+            "candidates": {
+                "1": 507,
+                "2": 364
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1491
+        },
+        {
+            "area": "南屯區",
+            "cunli": "田心里",
+            "house_no": "961",
+            "candidates": {
+                "1": 531,
+                "2": 337
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1456
+        },
+        {
+            "area": "南屯區",
+            "cunli": "田心里",
+            "house_no": "962",
+            "candidates": {
+                "1": 477,
+                "2": 467
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1522
+        },
+        {
+            "area": "南屯區",
+            "cunli": "田心里",
+            "house_no": "963",
+            "candidates": {
+                "1": 525,
+                "2": 367
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1528
+        }
+    ]
+}

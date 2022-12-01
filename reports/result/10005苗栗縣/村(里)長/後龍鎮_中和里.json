@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張海桐",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "中和里",
+            "house_no": "261",
+            "candidates": {
+                "1": 195
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 371
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "中和里",
+            "house_no": "262",
+            "candidates": {
+                "1": 325
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 573
+        }
+    ]
+}

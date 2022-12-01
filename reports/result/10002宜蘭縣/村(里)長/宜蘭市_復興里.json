@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭美珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "蕭壽金",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "復興里",
+            "house_no": "19",
+            "candidates": {
+                "1": 248,
+                "2": 256
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "復興里",
+            "house_no": "20",
+            "candidates": {
+                "1": 271,
+                "2": 170
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "復興里",
+            "house_no": "21",
+            "candidates": {
+                "1": 272,
+                "2": 244
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 910
+        }
+    ]
+}

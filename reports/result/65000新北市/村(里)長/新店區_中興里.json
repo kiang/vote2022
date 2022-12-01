@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林騰彬",
+            "party": "無"
+        },
+        "2": {
+            "name": "張正義",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "中興里",
+            "house_no": "2146",
+            "candidates": {
+                "1": 306,
+                "2": 330
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "新店區",
+            "cunli": "中興里",
+            "house_no": "2147",
+            "candidates": {
+                "1": 207,
+                "2": 272
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 833
+        },
+        {
+            "area": "新店區",
+            "cunli": "中興里",
+            "house_no": "2148",
+            "candidates": {
+                "1": 145,
+                "2": 157
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 2455
+        },
+        {
+            "area": "新店區",
+            "cunli": "中興里",
+            "house_no": "2149",
+            "candidates": {
+                "1": 293,
+                "2": 385
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1173
+        },
+        {
+            "area": "新店區",
+            "cunli": "中興里",
+            "house_no": "2150",
+            "candidates": {
+                "1": 245,
+                "2": 239
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 926
+        }
+    ]
+}

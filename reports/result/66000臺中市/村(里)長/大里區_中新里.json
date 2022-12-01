@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖榮木",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉凡萱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大里區",
+            "cunli": "中新里",
+            "house_no": "1657",
+            "candidates": {
+                "1": 436,
+                "2": 271
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "大里區",
+            "cunli": "中新里",
+            "house_no": "1658",
+            "candidates": {
+                "1": 418,
+                "2": 237
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1244
+        },
+        {
+            "area": "大里區",
+            "cunli": "中新里",
+            "house_no": "1659",
+            "candidates": {
+                "1": 457,
+                "2": 304
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1419
+        },
+        {
+            "area": "大里區",
+            "cunli": "中新里",
+            "house_no": "1660",
+            "candidates": {
+                "1": 458,
+                "2": 267
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1231
+        }
+    ]
+}

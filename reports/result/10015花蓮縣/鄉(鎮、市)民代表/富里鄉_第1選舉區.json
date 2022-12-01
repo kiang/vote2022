@@ -1,0 +1,112 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何貴香",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡明志",
+            "party": "無"
+        },
+        "3": {
+            "name": "杜金模",
+            "party": "無"
+        },
+        "4": {
+            "name": "張信興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "富里鄉",
+            "cunli": "吳江村",
+            "house_no": "310",
+            "candidates": {
+                "1": 58,
+                "2": 15,
+                "3": 17,
+                "4": 69,
+                "5": 74
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 365
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "東里村",
+            "house_no": "311",
+            "candidates": {
+                "1": 104,
+                "2": 42,
+                "3": 63,
+                "4": 57,
+                "5": 207
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "萬寧村",
+            "house_no": "312",
+            "candidates": {
+                "1": 56,
+                "2": 11,
+                "3": 7,
+                "4": 38,
+                "5": 156
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 435
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "新興村",
+            "house_no": "313",
+            "candidates": {
+                "1": 88,
+                "2": 17,
+                "3": 6,
+                "4": 106,
+                "5": 53
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 445
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "竹田村",
+            "house_no": "314",
+            "candidates": {
+                "1": 175,
+                "2": 67,
+                "3": 7,
+                "4": 280,
+                "5": 106
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 931
+        },
+        {
+            "area": "富里鄉",
+            "cunli": "羅山村",
+            "house_no": "315",
+            "candidates": {
+                "1": 60,
+                "2": 12,
+                "3": 10,
+                "4": 120,
+                "5": 72
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 406
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許全守",
+            "party": "無"
+        },
+        "2": {
+            "name": "許文愷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大城鄉",
+            "cunli": "大城村",
+            "house_no": "1016",
+            "candidates": {
+                "1": 110,
+                "2": 42,
+                "3": 139,
+                "4": 277,
+                "5": 62
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 939
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "東城村",
+            "house_no": "1017",
+            "candidates": {
+                "1": 221,
+                "2": 52,
+                "3": 284,
+                "4": 177,
+                "5": 95
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1243
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "西城村",
+            "house_no": "1018",
+            "candidates": {
+                "1": 138,
+                "2": 53,
+                "3": 104,
+                "4": 150,
+                "5": 41
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "上山村",
+            "house_no": "1019",
+            "candidates": {
+                "1": 84,
+                "2": 25,
+                "3": 125,
+                "4": 26,
+                "5": 18
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 480
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "上山村",
+            "house_no": "1020",
+            "candidates": {
+                "1": 27,
+                "2": 18,
+                "3": 97,
+                "4": 34,
+                "5": 163
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 518
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "永和村",
+            "house_no": "1021",
+            "candidates": {
+                "1": 71,
+                "2": 249,
+                "3": 90,
+                "4": 44,
+                "5": 46
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 659
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "公館村",
+            "house_no": "1022",
+            "candidates": {
+                "1": 47,
+                "2": 97,
+                "3": 21,
+                "4": 21,
+                "5": 17
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 352
+        },
+        {
+            "area": "大城鄉",
+            "cunli": "公館村",
+            "house_no": "1023",
+            "candidates": {
+                "1": 29,
+                "2": 196,
+                "3": 42,
+                "4": 41,
+                "5": 32
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 621
+        }
+    ]
+}

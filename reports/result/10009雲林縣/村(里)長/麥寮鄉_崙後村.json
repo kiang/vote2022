@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許賞",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭庭淳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "崙後村",
+            "house_no": "25",
+            "candidates": {
+                "1": 542,
+                "2": 302
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1341
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "崙後村",
+            "house_no": "26",
+            "candidates": {
+                "1": 476,
+                "2": 374
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1356
+        }
+    ]
+}

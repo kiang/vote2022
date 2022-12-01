@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾三郎",
+            "party": "無"
+        },
+        "2": {
+            "name": "林冠伶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "合興里",
+            "house_no": "381",
+            "candidates": {
+                "1": 409,
+                "2": 334
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "頭份市",
+            "cunli": "合興里",
+            "house_no": "382",
+            "candidates": {
+                "1": 511,
+                "2": 296
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1284
+        }
+    ]
+}

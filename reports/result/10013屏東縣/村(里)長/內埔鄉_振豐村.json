@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴傳桂",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾德金",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "振豐村",
+            "house_no": "449",
+            "candidates": {
+                "1": 327,
+                "2": 128
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 710
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "振豐村",
+            "house_no": "450",
+            "candidates": {
+                "1": 353,
+                "2": 183
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

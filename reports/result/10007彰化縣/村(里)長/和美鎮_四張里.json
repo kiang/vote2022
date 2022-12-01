@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝文啟",
+            "party": "無"
+        },
+        "2": {
+            "name": "柯雪月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "四張里",
+            "house_no": "404",
+            "candidates": {
+                "1": 344,
+                "2": 474
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1387
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "四張里",
+            "house_no": "405",
+            "candidates": {
+                "1": 347,
+                "2": 419
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1324
+        }
+    ]
+}

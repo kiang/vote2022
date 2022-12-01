@@ -1,0 +1,130 @@
+{
+    "candidates": {
+        "1": {
+            "name": "苗延竹",
+            "party": "無"
+        },
+        "2": {
+            "name": "王木林",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊春秋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "後龍鎮",
+            "cunli": "大山里",
+            "house_no": "250",
+            "candidates": {
+                "1": 320,
+                "2": 98,
+                "3": 50,
+                "4": 6
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 690
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "大山里",
+            "house_no": "251",
+            "candidates": {
+                "1": 285,
+                "2": 151,
+                "3": 43,
+                "4": 15
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 728
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "溪洲里",
+            "house_no": "252",
+            "candidates": {
+                "1": 191,
+                "2": 181,
+                "3": 364,
+                "4": 23
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "溪洲里",
+            "house_no": "253",
+            "candidates": {
+                "1": 93,
+                "2": 202,
+                "3": 490,
+                "4": 27
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "外埔里",
+            "house_no": "254",
+            "candidates": {
+                "1": 117,
+                "2": 270,
+                "3": 64,
+                "4": 274
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 943
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "海埔里",
+            "house_no": "255",
+            "candidates": {
+                "1": 110,
+                "2": 195,
+                "3": 98,
+                "4": 254
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "秀水里",
+            "house_no": "256",
+            "candidates": {
+                "1": 157,
+                "2": 231,
+                "3": 67,
+                "4": 16
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 640
+        },
+        {
+            "area": "後龍鎮",
+            "cunli": "水尾里",
+            "house_no": "257",
+            "candidates": {
+                "1": 238,
+                "2": 392,
+                "3": 103,
+                "4": 26
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 984
+        }
+    ]
+}

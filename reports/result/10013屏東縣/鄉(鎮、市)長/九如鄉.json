@@ -1,0 +1,266 @@
+{
+    "candidates": {
+        "1": {
+            "name": "藍信",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "張振誠",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳明燦",
+            "party": "無"
+        },
+        "4": {
+            "name": "龔瑞隆",
+            "party": "無"
+        },
+        "5": {
+            "name": "盧譽元",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "九如鄉",
+            "cunli": "九清村",
+            "house_no": "330",
+            "candidates": {
+                "1": 319,
+                "2": 48,
+                "3": 21,
+                "4": 28,
+                "5": 559
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "九塊村",
+            "house_no": "331",
+            "candidates": {
+                "1": 358,
+                "2": 36,
+                "3": 18,
+                "4": 16,
+                "5": 515
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1343
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "九明村",
+            "house_no": "332",
+            "candidates": {
+                "1": 385,
+                "2": 57,
+                "3": 19,
+                "4": 24,
+                "5": 677
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1601
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "大坵村",
+            "house_no": "333",
+            "candidates": {
+                "1": 270,
+                "2": 34,
+                "3": 9,
+                "4": 24,
+                "5": 443
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1111
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "玉水村",
+            "house_no": "334",
+            "candidates": {
+                "1": 408,
+                "2": 57,
+                "3": 8,
+                "4": 11,
+                "5": 285
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1196
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "玉泉村",
+            "house_no": "335",
+            "candidates": {
+                "1": 322,
+                "2": 59,
+                "3": 20,
+                "4": 28,
+                "5": 278
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 964
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "玉泉村",
+            "house_no": "336",
+            "candidates": {
+                "1": 177,
+                "2": 65,
+                "3": 18,
+                "4": 28,
+                "5": 101
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 559
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "東寧村",
+            "house_no": "337",
+            "candidates": {
+                "1": 197,
+                "2": 29,
+                "3": 4,
+                "4": 20,
+                "5": 199
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 631
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "東寧村",
+            "house_no": "338",
+            "candidates": {
+                "1": 277,
+                "2": 40,
+                "3": 3,
+                "4": 13,
+                "5": 350
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "東寧村",
+            "house_no": "339",
+            "candidates": {
+                "1": 255,
+                "2": 25,
+                "3": 8,
+                "4": 22,
+                "5": 306
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "東寧村",
+            "house_no": "340",
+            "candidates": {
+                "1": 444,
+                "2": 46,
+                "3": 15,
+                "4": 25,
+                "5": 258
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "東寧村",
+            "house_no": "341",
+            "candidates": {
+                "1": 196,
+                "2": 49,
+                "3": 8,
+                "4": 9,
+                "5": 182
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 705
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "三塊村",
+            "house_no": "342",
+            "candidates": {
+                "1": 496,
+                "2": 63,
+                "3": 22,
+                "4": 25,
+                "5": 409
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1488
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "耆老村",
+            "house_no": "343",
+            "candidates": {
+                "1": 549,
+                "2": 25,
+                "3": 6,
+                "4": 75,
+                "5": 269
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "後庄村",
+            "house_no": "344",
+            "candidates": {
+                "1": 847,
+                "2": 29,
+                "3": 11,
+                "4": 18,
+                "5": 361
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1695
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "洽興村",
+            "house_no": "345",
+            "candidates": {
+                "1": 738,
+                "2": 15,
+                "3": 9,
+                "4": 35,
+                "5": 337
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1482
+        }
+    ]
+}

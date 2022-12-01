@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何百農",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田寮區",
+            "cunli": "新興里",
+            "house_no": "267",
+            "candidates": {
+                "1": 265
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 561
+        },
+        {
+            "area": "田寮區",
+            "cunli": "新興里",
+            "house_no": "268",
+            "candidates": {
+                "1": 290
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 558
+        }
+    ]
+}

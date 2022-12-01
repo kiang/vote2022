@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅鳳住",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅欣慧",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳春葉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "美源里",
+            "house_no": "130",
+            "candidates": {
+                "1": 236,
+                "2": 97,
+                "3": 203
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 841
+        },
+        {
+            "area": "西區",
+            "cunli": "美源里",
+            "house_no": "131",
+            "candidates": {
+                "1": 359,
+                "2": 174,
+                "3": 277
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1500
+        },
+        {
+            "area": "西區",
+            "cunli": "美源里",
+            "house_no": "132",
+            "candidates": {
+                "1": 237,
+                "2": 136,
+                "3": 232
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1093
+        }
+    ]
+}

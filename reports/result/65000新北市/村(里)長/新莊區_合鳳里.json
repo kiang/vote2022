@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧瑞發",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "合鳳里",
+            "house_no": "544",
+            "candidates": {
+                "1": 257,
+                "2": 416
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1212
+        },
+        {
+            "area": "新莊區",
+            "cunli": "合鳳里",
+            "house_no": "545",
+            "candidates": {
+                "1": 298,
+                "2": 456
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1315
+        },
+        {
+            "area": "新莊區",
+            "cunli": "合鳳里",
+            "house_no": "546",
+            "candidates": {
+                "1": 244,
+                "2": 479
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1264
+        }
+    ]
+}

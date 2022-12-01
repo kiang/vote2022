@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇琮貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "埤墘里",
+            "house_no": "1200",
+            "candidates": {
+                "1": 600
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "板橋區",
+            "cunli": "埤墘里",
+            "house_no": "1201",
+            "candidates": {
+                "1": 616
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "板橋區",
+            "cunli": "埤墘里",
+            "house_no": "1202",
+            "candidates": {
+                "1": 666
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1189
+        }
+    ]
+}

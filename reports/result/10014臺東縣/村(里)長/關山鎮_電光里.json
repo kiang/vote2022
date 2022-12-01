@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曹玉璞",
+            "party": "無"
+        },
+        "2": {
+            "name": "林佳英",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭武麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "關山鎮",
+            "cunli": "電光里",
+            "house_no": "117",
+            "candidates": {
+                "1": 217,
+                "2": 26,
+                "3": 97
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 498
+        }
+    ]
+}

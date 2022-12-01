@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江美珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "福林里",
+            "house_no": "175",
+            "candidates": {
+                "1": 327
+            },
+            "count_wrong": 58,
+            "count_unused": 0,
+            "count_total": 583
+        },
+        {
+            "area": "士林區",
+            "cunli": "福林里",
+            "house_no": "176",
+            "candidates": {
+                "1": 407
+            },
+            "count_wrong": 65,
+            "count_unused": 0,
+            "count_total": 743
+        },
+        {
+            "area": "士林區",
+            "cunli": "福林里",
+            "house_no": "177",
+            "candidates": {
+                "1": 580
+            },
+            "count_wrong": 130,
+            "count_unused": 0,
+            "count_total": 996
+        }
+    ]
+}

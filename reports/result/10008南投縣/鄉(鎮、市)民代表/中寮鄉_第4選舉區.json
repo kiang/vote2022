@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹其清",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝炫樵",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴燕雪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中寮鄉",
+            "cunli": "爽文村",
+            "house_no": "376",
+            "candidates": {
+                "1": 87,
+                "2": 107,
+                "3": 154
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 452
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "龍岩村",
+            "house_no": "377",
+            "candidates": {
+                "1": 145,
+                "2": 219,
+                "3": 125
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 603
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永芳村",
+            "house_no": "378",
+            "candidates": {
+                "1": 73,
+                "2": 88,
+                "3": 225
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 440
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永和村",
+            "house_no": "379",
+            "candidates": {
+                "1": 54,
+                "2": 133,
+                "3": 174
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 481
+        }
+    ]
+}

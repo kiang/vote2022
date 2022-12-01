@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃李月施",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭月霞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "竹西里",
+            "house_no": "211",
+            "candidates": {
+                "1": 378,
+                "2": 305
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "路竹區",
+            "cunli": "竹西里",
+            "house_no": "212",
+            "candidates": {
+                "1": 507,
+                "2": 241
+            },
+            "count_wrong": 12,
+            "count_unused": 1,
+            "count_total": 1106
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張朝帝",
+            "party": "無"
+        },
+        "2": {
+            "name": "張享能",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "高樹鄉",
+            "cunli": "新豐村",
+            "house_no": "400",
+            "candidates": {
+                "1": 122,
+                "2": 353
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 699
+        },
+        {
+            "area": "高樹鄉",
+            "cunli": "新豐村",
+            "house_no": "401",
+            "candidates": {
+                "1": 240,
+                "2": 224
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 675
+        }
+    ]
+}

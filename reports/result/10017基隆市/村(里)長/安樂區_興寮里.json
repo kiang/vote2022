@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃書筠",
+            "party": "無"
+        },
+        "2": {
+            "name": "林容如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "興寮里",
+            "house_no": "194",
+            "candidates": {
+                "1": 374,
+                "2": 540
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1622
+        },
+        {
+            "area": "安樂區",
+            "cunli": "興寮里",
+            "house_no": "195",
+            "candidates": {
+                "1": 342,
+                "2": 245
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "安樂區",
+            "cunli": "興寮里",
+            "house_no": "196",
+            "candidates": {
+                "1": 609,
+                "2": 442
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1878
+        }
+    ]
+}

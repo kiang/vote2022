@@ -1,0 +1,195 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝上財",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳金福",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "林清發",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "蘇忠平",
+            "party": "無"
+        },
+        "5": {
+            "name": "蘇錦堯",
+            "party": "民主進步黨"
+        },
+        "6": {
+            "name": "曾文傑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東港鎮",
+            "cunli": "豐漁里",
+            "house_no": "203",
+            "candidates": {
+                "1": 91,
+                "2": 105,
+                "3": 135,
+                "4": 250,
+                "5": 275
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "盛漁里",
+            "house_no": "204",
+            "candidates": {
+                "1": 82,
+                "2": 86,
+                "3": 139,
+                "4": 192,
+                "5": 127
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "盛漁里",
+            "house_no": "205",
+            "candidates": {
+                "1": 64,
+                "2": 133,
+                "3": 144,
+                "4": 205,
+                "5": 102
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 977
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "興漁里",
+            "house_no": "206",
+            "candidates": {
+                "1": 75,
+                "2": 88,
+                "3": 75,
+                "4": 160,
+                "5": 81
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "興漁里",
+            "house_no": "207",
+            "candidates": {
+                "1": 73,
+                "2": 100,
+                "3": 71,
+                "4": 138,
+                "5": 63
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 666
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "鎮海里",
+            "house_no": "208",
+            "candidates": {
+                "1": 118,
+                "2": 90,
+                "3": 71,
+                "4": 172,
+                "5": 131
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "鎮海里",
+            "house_no": "209",
+            "candidates": {
+                "1": 145,
+                "2": 88,
+                "3": 136,
+                "4": 183,
+                "5": 172
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "嘉蓮里",
+            "house_no": "210",
+            "candidates": {
+                "1": 32,
+                "2": 199,
+                "3": 19,
+                "4": 200,
+                "5": 26
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 651
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "嘉蓮里",
+            "house_no": "211",
+            "candidates": {
+                "1": 54,
+                "2": 90,
+                "3": 45,
+                "4": 264,
+                "5": 68
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 679
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "南平里",
+            "house_no": "212",
+            "candidates": {
+                "1": 432,
+                "2": 14,
+                "3": 93,
+                "4": 29,
+                "5": 10
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 749
+        },
+        {
+            "area": "東港鎮",
+            "cunli": "南平里",
+            "house_no": "213",
+            "candidates": {
+                "1": 311,
+                "2": 56,
+                "3": 153,
+                "4": 37,
+                "5": 8
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 746
+        }
+    ]
+}

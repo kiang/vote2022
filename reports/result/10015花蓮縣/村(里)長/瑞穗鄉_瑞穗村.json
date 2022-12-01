@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂政軒",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉恭誠",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "羅文鑑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞穗村",
+            "house_no": "272",
+            "candidates": {
+                "1": 134,
+                "2": 125,
+                "3": 200
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 740
+        },
+        {
+            "area": "瑞穗鄉",
+            "cunli": "瑞穗村",
+            "house_no": "273",
+            "candidates": {
+                "1": 205,
+                "2": 168,
+                "3": 260
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "卓建隆",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇寶鈴",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾均睿",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "榮光里",
+            "house_no": "16",
+            "candidates": {
+                "1": 183,
+                "2": 377,
+                "3": 116
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1172
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮光里",
+            "house_no": "17",
+            "candidates": {
+                "1": 190,
+                "2": 412,
+                "3": 105
+            },
+            "count_wrong": 35,
+            "count_unused": 2,
+            "count_total": 1191
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮光里",
+            "house_no": "18",
+            "candidates": {
+                "1": 215,
+                "2": 437,
+                "3": 101
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮光里",
+            "house_no": "19",
+            "candidates": {
+                "1": 194,
+                "2": 443,
+                "3": 104
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "北投區",
+            "cunli": "榮光里",
+            "house_no": "20",
+            "candidates": {
+                "1": 130,
+                "2": 415,
+                "3": 141
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1080
+        }
+    ]
+}

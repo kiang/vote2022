@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴一山",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊貴生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "東勢里",
+            "house_no": "2661",
+            "candidates": {
+                "1": 395,
+                "2": 276
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1155
+        },
+        {
+            "area": "汐止區",
+            "cunli": "東勢里",
+            "house_no": "2662",
+            "candidates": {
+                "1": 426,
+                "2": 242
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1232
+        },
+        {
+            "area": "汐止區",
+            "cunli": "東勢里",
+            "house_no": "2663",
+            "candidates": {
+                "1": 493,
+                "2": 463
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1776
+        }
+    ]
+}

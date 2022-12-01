@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉清輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳瑞發",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "永清里",
+            "house_no": "938",
+            "candidates": {
+                "1": 491,
+                "2": 380
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1486
+        },
+        {
+            "area": "三重區",
+            "cunli": "永清里",
+            "house_no": "939",
+            "candidates": {
+                "1": 463,
+                "2": 475
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1550
+        },
+        {
+            "area": "三重區",
+            "cunli": "永清里",
+            "house_no": "940",
+            "candidates": {
+                "1": 361,
+                "2": 514
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1403
+        }
+    ]
+}

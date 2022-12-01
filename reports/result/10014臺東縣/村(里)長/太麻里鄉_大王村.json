@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "易作嘉",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃貞英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太麻里鄉",
+            "cunli": "大王村",
+            "house_no": "189",
+            "candidates": {
+                "1": 112,
+                "2": 485
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 905
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "大王村",
+            "house_no": "190",
+            "candidates": {
+                "1": 141,
+                "2": 326
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 780
+        }
+    ]
+}

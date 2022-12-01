@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳金雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳運樂",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳運來",
+            "party": "無"
+        },
+        "4": {
+            "name": "廖盛雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "建國里",
+            "house_no": "391",
+            "candidates": {
+                "1": 188,
+                "2": 185,
+                "3": 165,
+                "4": 163
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "頭份市",
+            "cunli": "建國里",
+            "house_no": "392",
+            "candidates": {
+                "1": 207,
+                "2": 203,
+                "3": 113,
+                "4": 159
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1075
+        },
+        {
+            "area": "頭份市",
+            "cunli": "建國里",
+            "house_no": "393",
+            "candidates": {
+                "1": 226,
+                "2": 97,
+                "3": 108,
+                "4": 177
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 983
+        }
+    ]
+}

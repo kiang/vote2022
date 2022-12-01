@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳和祥",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永康區",
+            "cunli": "甲頂里",
+            "house_no": "879",
+            "candidates": {
+                "1": 365
+            },
+            "count_wrong": 74,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "永康區",
+            "cunli": "甲頂里",
+            "house_no": "880",
+            "candidates": {
+                "1": 642
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1290
+        }
+    ]
+}

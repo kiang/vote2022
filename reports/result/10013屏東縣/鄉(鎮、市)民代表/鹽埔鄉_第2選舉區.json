@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭仁德",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉文欽",
+            "party": "無"
+        },
+        "3": {
+            "name": "郭榮俊",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳勝雄",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳國基",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "振興村",
+            "house_no": "376",
+            "candidates": {
+                "1": 356,
+                "2": 218
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 807
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "振興村",
+            "house_no": "377",
+            "candidates": {
+                "1": 398,
+                "2": 262
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "久愛村",
+            "house_no": "378",
+            "candidates": {
+                "1": 273,
+                "2": 415
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

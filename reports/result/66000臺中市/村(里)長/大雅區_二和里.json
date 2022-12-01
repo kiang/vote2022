@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張柏洋",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳明村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "二和里",
+            "house_no": "620",
+            "candidates": {
+                "1": 199,
+                "2": 617
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1373
+        },
+        {
+            "area": "大雅區",
+            "cunli": "二和里",
+            "house_no": "621",
+            "candidates": {
+                "1": 215,
+                "2": 639
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1527
+        },
+        {
+            "area": "大雅區",
+            "cunli": "二和里",
+            "house_no": "622",
+            "candidates": {
+                "1": 258,
+                "2": 562
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1373
+        },
+        {
+            "area": "大雅區",
+            "cunli": "二和里",
+            "house_no": "623",
+            "candidates": {
+                "1": 182,
+                "2": 655
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1473
+        }
+    ]
+}

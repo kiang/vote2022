@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐振坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "許琇筑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大園區",
+            "cunli": "橫峰里",
+            "house_no": "594",
+            "candidates": {
+                "1": 511,
+                "2": 338
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1412
+        },
+        {
+            "area": "大園區",
+            "cunli": "橫峰里",
+            "house_no": "595",
+            "candidates": {
+                "1": 510,
+                "2": 359
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1444
+        },
+        {
+            "area": "大園區",
+            "cunli": "橫峰里",
+            "house_no": "596",
+            "candidates": {
+                "1": 559,
+                "2": 413
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1466
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "易世朋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "七星里",
+            "house_no": "877",
+            "candidates": {
+                "1": 342
+            },
+            "count_wrong": 56,
+            "count_unused": 0,
+            "count_total": 624
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "七星里",
+            "house_no": "878",
+            "candidates": {
+                "1": 420
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 724
+        }
+    ]
+}

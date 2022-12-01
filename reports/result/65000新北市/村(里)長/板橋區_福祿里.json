@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂春蘭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "福祿里",
+            "house_no": "1235",
+            "candidates": {
+                "1": 792
+            },
+            "count_wrong": 117,
+            "count_unused": 0,
+            "count_total": 1728
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福祿里",
+            "house_no": "1236",
+            "candidates": {
+                "1": 807
+            },
+            "count_wrong": 144,
+            "count_unused": 1,
+            "count_total": 1589
+        }
+    ]
+}

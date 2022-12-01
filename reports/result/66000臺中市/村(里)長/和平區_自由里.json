@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳茂井",
+            "party": "無"
+        },
+        "2": {
+            "name": "林永智",
+            "party": "無"
+        },
+        "3": {
+            "name": "張陽生",
+            "party": "無"
+        },
+        "4": {
+            "name": "張弘承",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和平區",
+            "cunli": "自由里",
+            "house_no": "1869",
+            "candidates": {
+                "1": 16,
+                "2": 88,
+                "3": 59,
+                "4": 38
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 271
+        },
+        {
+            "area": "和平區",
+            "cunli": "自由里",
+            "house_no": "1870",
+            "candidates": {
+                "1": 22,
+                "2": 152,
+                "3": 139,
+                "4": 20
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 439
+        },
+        {
+            "area": "和平區",
+            "cunli": "自由里",
+            "house_no": "1871",
+            "candidates": {
+                "1": 10,
+                "2": 69,
+                "3": 26,
+                "4": 119
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 314
+        }
+    ]
+}

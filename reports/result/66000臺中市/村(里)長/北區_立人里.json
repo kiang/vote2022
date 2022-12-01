@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃韻化",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉素珍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "立人里",
+            "house_no": "1269",
+            "candidates": {
+                "1": 381,
+                "2": 275
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "北區",
+            "cunli": "立人里",
+            "house_no": "1270",
+            "candidates": {
+                "1": 382,
+                "2": 302
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "北區",
+            "cunli": "立人里",
+            "house_no": "1271",
+            "candidates": {
+                "1": 362,
+                "2": 304
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1217
+        }
+    ]
+}

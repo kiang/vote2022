@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱政富",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡素英",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉德明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "錦眾村",
+            "house_no": "377",
+            "candidates": {
+                "1": 97,
+                "2": 28,
+                "3": 310
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 603
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "錦眾村",
+            "house_no": "378",
+            "candidates": {
+                "1": 296,
+                "2": 147,
+                "3": 85
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 767
+        }
+    ]
+}

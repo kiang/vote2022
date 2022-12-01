@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾譯樂",
+            "party": "無"
+        },
+        "2": {
+            "name": "施志聰",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興泰里",
+            "house_no": "1662",
+            "candidates": {
+                "1": 267,
+                "2": 443
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1035
+        },
+        {
+            "area": "文山區",
+            "cunli": "興泰里",
+            "house_no": "1663",
+            "candidates": {
+                "1": 308,
+                "2": 486
+            },
+            "count_wrong": 33,
+            "count_unused": 11,
+            "count_total": 1129
+        },
+        {
+            "area": "文山區",
+            "cunli": "興泰里",
+            "house_no": "1664",
+            "candidates": {
+                "1": 353,
+                "2": 458
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1219
+        }
+    ]
+}

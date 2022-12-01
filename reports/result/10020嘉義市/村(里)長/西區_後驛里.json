@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳其生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "後驛里",
+            "house_no": "169",
+            "candidates": {
+                "1": 443
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "西區",
+            "cunli": "後驛里",
+            "house_no": "170",
+            "candidates": {
+                "1": 408
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

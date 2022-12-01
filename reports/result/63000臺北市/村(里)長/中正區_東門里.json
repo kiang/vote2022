@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李世宗",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "牟桂富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中正區",
+            "cunli": "東門里",
+            "house_no": "1198",
+            "candidates": {
+                "1": 274,
+                "2": 348
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 944
+        },
+        {
+            "area": "中正區",
+            "cunli": "東門里",
+            "house_no": "1199",
+            "candidates": {
+                "1": 277,
+                "2": 299
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "中正區",
+            "cunli": "東門里",
+            "house_no": "1200",
+            "candidates": {
+                "1": 280,
+                "2": 312
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 949
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余俊輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "錢素菊",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南化區",
+            "cunli": "南化里",
+            "house_no": "489",
+            "candidates": {
+                "1": 254,
+                "2": 225
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 656
+        },
+        {
+            "area": "南化區",
+            "cunli": "南化里",
+            "house_no": "490",
+            "candidates": {
+                "1": 271,
+                "2": 211
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 649
+        }
+    ]
+}

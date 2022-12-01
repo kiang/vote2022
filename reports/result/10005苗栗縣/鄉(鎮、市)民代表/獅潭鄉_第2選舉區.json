@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉榮煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉雪梅",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴炫樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "獅潭鄉",
+            "cunli": "和興村",
+            "house_no": "452",
+            "candidates": {
+                "1": 121,
+                "2": 227,
+                "3": 120
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 539
+        },
+        {
+            "area": "獅潭鄉",
+            "cunli": "豐林村",
+            "house_no": "453",
+            "candidates": {
+                "1": 210,
+                "2": 46,
+                "3": 234
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 568
+        }
+    ]
+}

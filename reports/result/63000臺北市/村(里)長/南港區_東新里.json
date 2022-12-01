@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蕭漢榮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "闕陳月英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南港區",
+            "cunli": "東新里",
+            "house_no": "548",
+            "candidates": {
+                "1": 460,
+                "2": 185
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "南港區",
+            "cunli": "東新里",
+            "house_no": "549",
+            "candidates": {
+                "1": 499,
+                "2": 241
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1226
+        },
+        {
+            "area": "南港區",
+            "cunli": "東新里",
+            "house_no": "550",
+            "candidates": {
+                "1": 474,
+                "2": 219
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "南港區",
+            "cunli": "東新里",
+            "house_no": "551",
+            "candidates": {
+                "1": 447,
+                "2": 240
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "南港區",
+            "cunli": "東新里",
+            "house_no": "552",
+            "candidates": {
+                "1": 377,
+                "2": 289
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1060
+        }
+    ]
+}

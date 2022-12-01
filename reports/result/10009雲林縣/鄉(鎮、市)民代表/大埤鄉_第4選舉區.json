@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝進鎰",
+            "party": "無"
+        },
+        "2": {
+            "name": "王萬來",
+            "party": "無"
+        },
+        "3": {
+            "name": "王明輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大埤鄉",
+            "cunli": "怡然村",
+            "house_no": "549",
+            "candidates": {
+                "1": 218,
+                "2": 144,
+                "3": 145
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 707
+        },
+        {
+            "area": "大埤鄉",
+            "cunli": "北鎮村",
+            "house_no": "550",
+            "candidates": {
+                "1": 293,
+                "2": 79,
+                "3": 114
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 650
+        },
+        {
+            "area": "大埤鄉",
+            "cunli": "興安村",
+            "house_no": "551",
+            "candidates": {
+                "1": 70,
+                "2": 404,
+                "3": 27
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "大埤鄉",
+            "cunli": "西鎮村",
+            "house_no": "552",
+            "candidates": {
+                "1": 86,
+                "2": 29,
+                "3": 337
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 669
+        }
+    ]
+}

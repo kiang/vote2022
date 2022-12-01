@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林國石",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉貴㨗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "鼎強里",
+            "house_no": "997",
+            "candidates": {
+                "1": 343,
+                "2": 279
+            },
+            "count_wrong": 57,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎強里",
+            "house_no": "998",
+            "candidates": {
+                "1": 363,
+                "2": 270
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 1223
+        },
+        {
+            "area": "三民區",
+            "cunli": "鼎強里",
+            "house_no": "999",
+            "candidates": {
+                "1": 392,
+                "2": 208
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1209
+        }
+    ]
+}

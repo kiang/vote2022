@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周勝騰",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳福來",
+            "party": "無"
+        },
+        "3": {
+            "name": "李安二",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "下溪里",
+            "house_no": "166",
+            "candidates": {
+                "1": 137,
+                "2": 272,
+                "3": 39
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 564
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "下溪里",
+            "house_no": "167",
+            "candidates": {
+                "1": 361,
+                "2": 149,
+                "3": 173
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 889
+        }
+    ]
+}

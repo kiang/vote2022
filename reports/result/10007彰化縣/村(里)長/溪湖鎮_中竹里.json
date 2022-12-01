@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黄璿銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃柑立",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃柏勳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "中竹里",
+            "house_no": "678",
+            "candidates": {
+                "1": 92,
+                "2": 114,
+                "3": 371
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 768
+        }
+    ]
+}

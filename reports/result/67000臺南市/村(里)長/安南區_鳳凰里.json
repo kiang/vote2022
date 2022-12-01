@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳美瑩",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "施文瑞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "鳳凰里",
+            "house_no": "706",
+            "candidates": {
+                "1": 348,
+                "2": 546
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1492
+        },
+        {
+            "area": "安南區",
+            "cunli": "鳳凰里",
+            "house_no": "707",
+            "candidates": {
+                "1": 362,
+                "2": 451
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1399
+        },
+        {
+            "area": "安南區",
+            "cunli": "鳳凰里",
+            "house_no": "708",
+            "candidates": {
+                "1": 229,
+                "2": 471
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1273
+        }
+    ]
+}

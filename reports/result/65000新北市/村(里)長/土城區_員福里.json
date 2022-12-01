@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "粘靜順",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧興國",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃崇煒",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "員福里",
+            "house_no": "1958",
+            "candidates": {
+                "1": 195,
+                "2": 138,
+                "3": 347
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1228
+        },
+        {
+            "area": "土城區",
+            "cunli": "員福里",
+            "house_no": "1959",
+            "candidates": {
+                "1": 191,
+                "2": 185,
+                "3": 209
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1063
+        },
+        {
+            "area": "土城區",
+            "cunli": "員福里",
+            "house_no": "1960",
+            "candidates": {
+                "1": 145,
+                "2": 221,
+                "3": 293
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "土城區",
+            "cunli": "員福里",
+            "house_no": "1961",
+            "candidates": {
+                "1": 191,
+                "2": 210,
+                "3": 234
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1107
+        }
+    ]
+}

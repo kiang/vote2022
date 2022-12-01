@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林珈宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "林陳秀燕",
+            "party": "無"
+        },
+        "3": {
+            "name": "丁棟財",
+            "party": "無"
+        },
+        "4": {
+            "name": "林惠如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東勢鄉",
+            "cunli": "月眉村",
+            "house_no": "61",
+            "candidates": {
+                "1": 462,
+                "2": 122,
+                "3": 18,
+                "4": 85
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "復興村",
+            "house_no": "62",
+            "candidates": {
+                "1": 67,
+                "2": 80,
+                "3": 7,
+                "4": 200
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 510
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "嘉隆村",
+            "house_no": "63",
+            "candidates": {
+                "1": 32,
+                "2": 317,
+                "3": 152,
+                "4": 82
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "東勢鄉",
+            "cunli": "嘉隆村",
+            "house_no": "64",
+            "candidates": {
+                "1": 10,
+                "2": 222,
+                "3": 160,
+                "4": 58
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 638
+        }
+    ]
+}

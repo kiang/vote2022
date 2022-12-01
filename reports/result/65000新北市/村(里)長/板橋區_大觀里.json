@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何明山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "大觀里",
+            "house_no": "1303",
+            "candidates": {
+                "1": 686
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1503
+        },
+        {
+            "area": "板橋區",
+            "cunli": "大觀里",
+            "house_no": "1304",
+            "candidates": {
+                "1": 641
+            },
+            "count_wrong": 157,
+            "count_unused": 0,
+            "count_total": 1545
+        }
+    ]
+}

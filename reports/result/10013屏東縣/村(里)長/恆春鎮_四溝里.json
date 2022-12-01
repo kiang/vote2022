@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "盧燕豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "林信揚",
+            "party": "無"
+        },
+        "3": {
+            "name": "廖文志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "四溝里",
+            "house_no": "236",
+            "candidates": {
+                "1": 186,
+                "2": 72,
+                "3": 376
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 973
+        }
+    ]
+}

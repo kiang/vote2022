@@ -1,0 +1,134 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張志誠Haisul ·Ispalavi",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜司偉Andrew Isbabanal",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝正忠",
+            "party": "無"
+        },
+        "4": {
+            "name": "賴金龍",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃源區",
+            "cunli": "梅山里",
+            "house_no": "1",
+            "candidates": {
+                "1": 56,
+                "2": 73,
+                "3": 85,
+                "4": 11
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 255
+        },
+        {
+            "area": "桃源區",
+            "cunli": "拉芙蘭里",
+            "house_no": "2",
+            "candidates": {
+                "1": 70,
+                "2": 61,
+                "3": 64,
+                "4": 0
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 229
+        },
+        {
+            "area": "桃源區",
+            "cunli": "復興里",
+            "house_no": "3",
+            "candidates": {
+                "1": 60,
+                "2": 96,
+                "3": 63,
+                "4": 3
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 284
+        },
+        {
+            "area": "桃源區",
+            "cunli": "勤和里",
+            "house_no": "4",
+            "candidates": {
+                "1": 54,
+                "2": 41,
+                "3": 63,
+                "4": 4
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 203
+        },
+        {
+            "area": "桃源區",
+            "cunli": "桃源里",
+            "house_no": "5",
+            "candidates": {
+                "1": 205,
+                "2": 194,
+                "3": 155,
+                "4": 16
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 750
+        },
+        {
+            "area": "桃源區",
+            "cunli": "高中里",
+            "house_no": "6",
+            "candidates": {
+                "1": 199,
+                "2": 143,
+                "3": 101,
+                "4": 49
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 632
+        },
+        {
+            "area": "桃源區",
+            "cunli": "建山里",
+            "house_no": "7",
+            "candidates": {
+                "1": 136,
+                "2": 237,
+                "3": 59,
+                "4": 26
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 590
+        },
+        {
+            "area": "桃源區",
+            "cunli": "寶山里",
+            "house_no": "8",
+            "candidates": {
+                "1": 115,
+                "2": 132,
+                "3": 34,
+                "4": 85
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 455
+        }
+    ]
+}

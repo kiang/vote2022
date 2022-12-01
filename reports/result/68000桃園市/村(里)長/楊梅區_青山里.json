@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳孋庭",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "葉福州",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "吳水登",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "青山里",
+            "house_no": "1190",
+            "candidates": {
+                "1": 336,
+                "2": 160,
+                "3": 281
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1469
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "青山里",
+            "house_no": "1191",
+            "candidates": {
+                "1": 188,
+                "2": 274,
+                "3": 254
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1546
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "青山里",
+            "house_no": "1192",
+            "candidates": {
+                "1": 157,
+                "2": 183,
+                "3": 400
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1370
+        }
+    ]
+}

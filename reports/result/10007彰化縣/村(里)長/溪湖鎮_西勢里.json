@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡福助",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "西勢里",
+            "house_no": "705",
+            "candidates": {
+                "1": 586
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "西勢里",
+            "house_no": "706",
+            "candidates": {
+                "1": 600
+            },
+            "count_wrong": 51,
+            "count_unused": 0,
+            "count_total": 1074
+        }
+    ]
+}

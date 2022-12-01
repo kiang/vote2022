@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡慧妤",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝德憲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽埔鄉",
+            "cunli": "鹽南村",
+            "house_no": "370",
+            "candidates": {
+                "1": 202,
+                "2": 294
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 712
+        },
+        {
+            "area": "鹽埔鄉",
+            "cunli": "鹽南村",
+            "house_no": "371",
+            "candidates": {
+                "1": 371,
+                "2": 309
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 946
+        }
+    ]
+}

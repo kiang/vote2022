@@ -1,0 +1,146 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡綺萱",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡坤堂",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳名周",
+            "party": "無"
+        },
+        "4": {
+            "name": "郭文宇",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳皇評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梅山鄉",
+            "cunli": "太平村",
+            "house_no": "254",
+            "candidates": {
+                "1": 66,
+                "2": 24,
+                "3": 22,
+                "4": 9,
+                "5": 176
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 454
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "太興村",
+            "house_no": "255",
+            "candidates": {
+                "1": 56,
+                "2": 44,
+                "3": 101,
+                "4": 27,
+                "5": 110
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 414
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "龍眼村",
+            "house_no": "256",
+            "candidates": {
+                "1": 127,
+                "2": 37,
+                "3": 18,
+                "4": 2,
+                "5": 35
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 381
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "碧湖村",
+            "house_no": "257",
+            "candidates": {
+                "1": 48,
+                "2": 28,
+                "3": 23,
+                "4": 4,
+                "5": 111
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 269
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "瑞峯村",
+            "house_no": "258",
+            "candidates": {
+                "1": 73,
+                "2": 161,
+                "3": 128,
+                "4": 25,
+                "5": 38
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 682
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "瑞里村",
+            "house_no": "259",
+            "candidates": {
+                "1": 75,
+                "2": 66,
+                "3": 276,
+                "4": 30,
+                "5": 36
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 590
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "太和村",
+            "house_no": "260",
+            "candidates": {
+                "1": 34,
+                "2": 203,
+                "3": 7,
+                "4": 98,
+                "5": 9
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 510
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "太和村",
+            "house_no": "261",
+            "candidates": {
+                "1": 17,
+                "2": 167,
+                "3": 21,
+                "4": 72,
+                "5": 2
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 387
+        }
+    ]
+}

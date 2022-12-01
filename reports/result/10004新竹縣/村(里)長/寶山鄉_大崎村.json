@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊火炎",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "萬瑞珠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "寶山鄉",
+            "cunli": "大崎村",
+            "house_no": "425",
+            "candidates": {
+                "1": 239,
+                "2": 282
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "寶山鄉",
+            "cunli": "大崎村",
+            "house_no": "426",
+            "candidates": {
+                "1": 233,
+                "2": 249
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 797
+        }
+    ]
+}

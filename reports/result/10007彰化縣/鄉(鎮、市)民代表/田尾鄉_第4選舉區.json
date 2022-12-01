@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃榮校",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳振銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "張勝彬",
+            "party": "台灣民眾黨"
+        },
+        "4": {
+            "name": "陳孟杰",
+            "party": "無"
+        },
+        "5": {
+            "name": "范俊昇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "田尾鄉",
+            "cunli": "睦宜村",
+            "house_no": "910",
+            "candidates": {
+                "1": 26,
+                "2": 240,
+                "3": 102,
+                "4": 314,
+                "5": 25
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "新生村",
+            "house_no": "911",
+            "candidates": {
+                "1": 170,
+                "2": 85,
+                "3": 233,
+                "4": 185,
+                "5": 193
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 1286
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "北鎮村",
+            "house_no": "912",
+            "candidates": {
+                "1": 56,
+                "2": 72,
+                "3": 419,
+                "4": 102,
+                "5": 45
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "南鎮村",
+            "house_no": "913",
+            "candidates": {
+                "1": 20,
+                "2": 86,
+                "3": 169,
+                "4": 98,
+                "5": 62
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 586
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "福田村",
+            "house_no": "914",
+            "candidates": {
+                "1": 75,
+                "2": 111,
+                "3": 149,
+                "4": 125,
+                "5": 34
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 722
+        },
+        {
+            "area": "田尾鄉",
+            "cunli": "新興村",
+            "house_no": "915",
+            "candidates": {
+                "1": 196,
+                "2": 113,
+                "3": 154,
+                "4": 122,
+                "5": 41
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 994
+        }
+    ]
+}

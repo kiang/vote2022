@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許欽煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "許文吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "27",
+            "candidates": {
+                "1": 370,
+                "2": 426
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "28",
+            "candidates": {
+                "1": 375,
+                "2": 292
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "29",
+            "candidates": {
+                "1": 293,
+                "2": 295
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 892
+        },
+        {
+            "area": "麥寮鄉",
+            "cunli": "橋頭村",
+            "house_no": "30",
+            "candidates": {
+                "1": 334,
+                "2": 262
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 909
+        }
+    ]
+}

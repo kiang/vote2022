@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許績才",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "北門里",
+            "house_no": "13",
+            "candidates": {
+                "1": 456
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1266
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "北門里",
+            "house_no": "14",
+            "candidates": {
+                "1": 411
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "北門里",
+            "house_no": "15",
+            "candidates": {
+                "1": 472
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1379
+        }
+    ]
+}

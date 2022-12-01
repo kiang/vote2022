@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏榮生",
+            "party": "無"
+        },
+        "2": {
+            "name": "姜學文",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "潘建成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "中城里",
+            "house_no": "285",
+            "candidates": {
+                "1": 110,
+                "2": 256,
+                "3": 191
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 993
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "中城里",
+            "house_no": "286",
+            "candidates": {
+                "1": 107,
+                "2": 251,
+                "3": 162
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 845
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "中城里",
+            "house_no": "287",
+            "candidates": {
+                "1": 87,
+                "2": 183,
+                "3": 104
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 584
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "中城里",
+            "house_no": "288",
+            "candidates": {
+                "1": 88,
+                "2": 228,
+                "3": 159
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 814
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "中城里",
+            "house_no": "289",
+            "candidates": {
+                "1": 83,
+                "2": 218,
+                "3": 148
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 728
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "中城里",
+            "house_no": "290",
+            "candidates": {
+                "1": 81,
+                "2": 261,
+                "3": 180
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

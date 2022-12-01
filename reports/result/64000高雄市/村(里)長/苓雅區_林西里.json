@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方伯明",
+            "party": "無"
+        },
+        "2": {
+            "name": "方琪麟",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "林西里",
+            "house_no": "1327",
+            "candidates": {
+                "1": 150,
+                "2": 274
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 749
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "林西里",
+            "house_no": "1328",
+            "candidates": {
+                "1": 142,
+                "2": 274
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 689
+        }
+    ]
+}

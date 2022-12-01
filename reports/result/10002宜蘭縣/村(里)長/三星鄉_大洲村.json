@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳信仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳豐敏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三星鄉",
+            "cunli": "大洲村",
+            "house_no": "406",
+            "candidates": {
+                "1": 356,
+                "2": 193
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "三星鄉",
+            "cunli": "大洲村",
+            "house_no": "407",
+            "candidates": {
+                "1": 326,
+                "2": 187
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 748
+        }
+    ]
+}

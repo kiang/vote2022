@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃麗花",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳安妮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "軍功里",
+            "house_no": "33",
+            "candidates": {
+                "1": 440,
+                "2": 398
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "南投市",
+            "cunli": "軍功里",
+            "house_no": "34",
+            "candidates": {
+                "1": 466,
+                "2": 463
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "南投市",
+            "cunli": "軍功里",
+            "house_no": "35",
+            "candidates": {
+                "1": 428,
+                "2": 496
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1462
+        }
+    ]
+}

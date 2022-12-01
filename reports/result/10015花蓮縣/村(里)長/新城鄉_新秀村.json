@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "朱筱蕾",
+            "party": "無"
+        },
+        "2": {
+            "name": "王秋香",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "孟煒庭",
+            "party": "無"
+        },
+        "4": {
+            "name": "李建呈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新城鄉",
+            "cunli": "新秀村",
+            "house_no": "104",
+            "candidates": {
+                "1": 54,
+                "2": 165,
+                "3": 51,
+                "4": 78
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 674
+        },
+        {
+            "area": "新城鄉",
+            "cunli": "新秀村",
+            "house_no": "105",
+            "candidates": {
+                "1": 16,
+                "2": 263,
+                "3": 38,
+                "4": 112
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 794
+        }
+    ]
+}

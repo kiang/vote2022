@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡美雪",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏宗吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "忠孝里",
+            "house_no": "1494",
+            "candidates": {
+                "1": 470,
+                "2": 116
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠孝里",
+            "house_no": "1495",
+            "candidates": {
+                "1": 374,
+                "2": 126
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 911
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠孝里",
+            "house_no": "1496",
+            "candidates": {
+                "1": 403,
+                "2": 139
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1043
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠孝里",
+            "house_no": "1497",
+            "candidates": {
+                "1": 540,
+                "2": 145
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1229
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "忠孝里",
+            "house_no": "1498",
+            "candidates": {
+                "1": 407,
+                "2": 148
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 988
+        }
+    ]
+}

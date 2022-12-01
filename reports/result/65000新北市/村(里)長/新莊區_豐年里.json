@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林麗華",
+            "party": "無"
+        },
+        "2": {
+            "name": "張中順",
+            "party": "無"
+        },
+        "3": {
+            "name": "歐士民",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "豐年里",
+            "house_no": "524",
+            "candidates": {
+                "1": 340,
+                "2": 91,
+                "3": 149
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "新莊區",
+            "cunli": "豐年里",
+            "house_no": "525",
+            "candidates": {
+                "1": 333,
+                "2": 109,
+                "3": 230
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "新莊區",
+            "cunli": "豐年里",
+            "house_no": "526",
+            "candidates": {
+                "1": 312,
+                "2": 89,
+                "3": 211
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 998
+        }
+    ]
+}

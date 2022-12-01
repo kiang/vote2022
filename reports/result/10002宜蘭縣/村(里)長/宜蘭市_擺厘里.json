@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊德源",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳明標",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "擺厘里",
+            "house_no": "38",
+            "candidates": {
+                "1": 285,
+                "2": 312
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "擺厘里",
+            "house_no": "39",
+            "candidates": {
+                "1": 165,
+                "2": 347
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 857
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "擺厘里",
+            "house_no": "40",
+            "candidates": {
+                "1": 216,
+                "2": 304
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 931
+        }
+    ]
+}

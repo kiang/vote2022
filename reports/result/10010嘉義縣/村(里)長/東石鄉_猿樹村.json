@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聰吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳俊德",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳吉源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東石鄉",
+            "cunli": "猿樹村",
+            "house_no": "329",
+            "candidates": {
+                "1": 273,
+                "2": 97,
+                "3": 197
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 885
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳國鐘",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴元淵",
+            "party": "無"
+        },
+        "3": {
+            "name": "林明宗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "南正里",
+            "house_no": "168",
+            "candidates": {
+                "1": 143,
+                "2": 148,
+                "3": 230
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 823
+        }
+    ]
+}

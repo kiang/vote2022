@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐智禧",
+            "party": "無"
+        },
+        "2": {
+            "name": "鍾桂梅",
+            "party": "無"
+        },
+        "3": {
+            "name": "羅鴻來",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新屋區",
+            "cunli": "石磊里",
+            "house_no": "1289",
+            "candidates": {
+                "1": 24,
+                "2": 334,
+                "3": 257
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "新屋區",
+            "cunli": "石磊里",
+            "house_no": "1290",
+            "candidates": {
+                "1": 52,
+                "2": 330,
+                "3": 333
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

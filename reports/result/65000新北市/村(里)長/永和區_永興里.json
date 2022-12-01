@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳錦松",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "永興里",
+            "house_no": "1623",
+            "candidates": {
+                "1": 550
+            },
+            "count_wrong": 134,
+            "count_unused": 0,
+            "count_total": 1253
+        },
+        {
+            "area": "永和區",
+            "cunli": "永興里",
+            "house_no": "1624",
+            "candidates": {
+                "1": 613
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1315
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔣添榮",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "文聖里",
+            "house_no": "377",
+            "candidates": {
+                "1": 756
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 1401
+        },
+        {
+            "area": "新莊區",
+            "cunli": "文聖里",
+            "house_no": "378",
+            "candidates": {
+                "1": 793
+            },
+            "count_wrong": 71,
+            "count_unused": 1,
+            "count_total": 1407
+        }
+    ]
+}

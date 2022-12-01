@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高銀祝",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳智偉",
+            "party": "無"
+        },
+        "3": {
+            "name": "林進吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "正義里",
+            "house_no": "764",
+            "candidates": {
+                "1": 420,
+                "2": 237,
+                "3": 144
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "中壢區",
+            "cunli": "正義里",
+            "house_no": "765",
+            "candidates": {
+                "1": 423,
+                "2": 148,
+                "3": 218
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1317
+        },
+        {
+            "area": "中壢區",
+            "cunli": "正義里",
+            "house_no": "766",
+            "candidates": {
+                "1": 401,
+                "2": 339,
+                "3": 123
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1429
+        }
+    ]
+}

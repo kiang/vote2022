@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李清樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶華里",
+            "house_no": "1071",
+            "candidates": {
+                "1": 651
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1444
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶華里",
+            "house_no": "1072",
+            "candidates": {
+                "1": 633
+            },
+            "count_wrong": 123,
+            "count_unused": 0,
+            "count_total": 1479
+        }
+    ]
+}

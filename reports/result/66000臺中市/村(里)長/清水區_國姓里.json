@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉福榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃秀英",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "清水區",
+            "cunli": "國姓里",
+            "house_no": "140",
+            "candidates": {
+                "1": 178,
+                "2": 476
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "清水區",
+            "cunli": "國姓里",
+            "house_no": "141",
+            "candidates": {
+                "1": 117,
+                "2": 465
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 863
+        }
+    ]
+}

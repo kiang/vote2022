@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王瑞隆",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "尤瑞珍",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉原良",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民權里",
+            "house_no": "29",
+            "candidates": {
+                "1": 24,
+                "2": 55,
+                "3": 147
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 406
+        }
+    ]
+}

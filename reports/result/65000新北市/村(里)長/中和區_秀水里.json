@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳炳男",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳禮貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "秀水里",
+            "house_no": "1603",
+            "candidates": {
+                "1": 440,
+                "2": 211
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "中和區",
+            "cunli": "秀水里",
+            "house_no": "1604",
+            "candidates": {
+                "1": 448,
+                "2": 221
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "中和區",
+            "cunli": "秀水里",
+            "house_no": "1605",
+            "candidates": {
+                "1": 400,
+                "2": 221
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 974
+        }
+    ]
+}

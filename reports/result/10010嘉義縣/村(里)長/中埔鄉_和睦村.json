@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "嚴添福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中埔鄉",
+            "cunli": "和睦村",
+            "house_no": "415",
+            "candidates": {
+                "1": 560
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1236
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "和睦村",
+            "house_no": "416",
+            "candidates": {
+                "1": 381
+            },
+            "count_wrong": 110,
+            "count_unused": 0,
+            "count_total": 862
+        },
+        {
+            "area": "中埔鄉",
+            "cunli": "和睦村",
+            "house_no": "417",
+            "candidates": {
+                "1": 479
+            },
+            "count_wrong": 139,
+            "count_unused": 5,
+            "count_total": 1114
+        }
+    ]
+}

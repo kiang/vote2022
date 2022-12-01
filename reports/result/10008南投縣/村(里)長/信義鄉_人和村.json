@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "松永盛",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "金慕義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義鄉",
+            "cunli": "人和村",
+            "house_no": "465",
+            "candidates": {
+                "1": 270,
+                "2": 340
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "信義鄉",
+            "cunli": "人和村",
+            "house_no": "466",
+            "candidates": {
+                "1": 57,
+                "2": 87
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 243
+        }
+    ]
+}

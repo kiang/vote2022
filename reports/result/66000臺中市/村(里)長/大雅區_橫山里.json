@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張聖河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "橫山里",
+            "house_no": "654",
+            "candidates": {
+                "1": 723
+            },
+            "count_wrong": 118,
+            "count_unused": 0,
+            "count_total": 1362
+        },
+        {
+            "area": "大雅區",
+            "cunli": "橫山里",
+            "house_no": "655",
+            "candidates": {
+                "1": 765
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1497
+        },
+        {
+            "area": "大雅區",
+            "cunli": "橫山里",
+            "house_no": "656",
+            "candidates": {
+                "1": 650
+            },
+            "count_wrong": 85,
+            "count_unused": 0,
+            "count_total": 1270
+        }
+    ]
+}

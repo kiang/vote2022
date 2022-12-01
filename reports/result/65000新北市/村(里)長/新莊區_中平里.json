@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鞏台興",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "林建良",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新莊區",
+            "cunli": "中平里",
+            "house_no": "498",
+            "candidates": {
+                "1": 340,
+                "2": 386
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中平里",
+            "house_no": "499",
+            "candidates": {
+                "1": 318,
+                "2": 379
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中平里",
+            "house_no": "500",
+            "candidates": {
+                "1": 356,
+                "2": 295
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中平里",
+            "house_no": "501",
+            "candidates": {
+                "1": 381,
+                "2": 308
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1237
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中平里",
+            "house_no": "502",
+            "candidates": {
+                "1": 287,
+                "2": 350
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1182
+        },
+        {
+            "area": "新莊區",
+            "cunli": "中平里",
+            "house_no": "503",
+            "candidates": {
+                "1": 345,
+                "2": 390
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1332
+        }
+    ]
+}

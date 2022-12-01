@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭錦興",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳學禮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "溝墘里",
+            "house_no": "946",
+            "candidates": {
+                "1": 541,
+                "2": 159
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "南屯區",
+            "cunli": "溝墘里",
+            "house_no": "947",
+            "candidates": {
+                "1": 631,
+                "2": 157
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "南屯區",
+            "cunli": "溝墘里",
+            "house_no": "948",
+            "candidates": {
+                "1": 580,
+                "2": 199
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "南屯區",
+            "cunli": "溝墘里",
+            "house_no": "949",
+            "candidates": {
+                "1": 642,
+                "2": 157
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1247
+        }
+    ]
+}

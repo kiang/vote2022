@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉世標",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "堂春里",
+            "house_no": "1350",
+            "candidates": {
+                "1": 526
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1136
+        },
+        {
+            "area": "板橋區",
+            "cunli": "堂春里",
+            "house_no": "1351",
+            "candidates": {
+                "1": 479
+            },
+            "count_wrong": 87,
+            "count_unused": 0,
+            "count_total": 1050
+        },
+        {
+            "area": "板橋區",
+            "cunli": "堂春里",
+            "house_no": "1352",
+            "candidates": {
+                "1": 634
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1349
+        }
+    ]
+}

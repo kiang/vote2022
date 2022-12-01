@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王崇炫",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳宗憲",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳國泰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "朴子市",
+            "cunli": "松華里",
+            "house_no": "296",
+            "candidates": {
+                "1": 362,
+                "2": 212,
+                "3": 211
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1161
+        }
+    ]
+}

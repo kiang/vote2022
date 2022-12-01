@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄒阿日",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鍾文生",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "橫山鄉",
+            "cunli": "沙坑村",
+            "house_no": "404",
+            "candidates": {
+                "1": 215,
+                "2": 247
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 622
+        },
+        {
+            "area": "橫山鄉",
+            "cunli": "沙坑村",
+            "house_no": "405",
+            "candidates": {
+                "1": 71,
+                "2": 115
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 260
+        }
+    ]
+}

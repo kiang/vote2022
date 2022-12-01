@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳標吉",
+            "party": "無"
+        },
+        "2": {
+            "name": "王擎豪",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "竹南鎮",
+            "cunli": "中華里",
+            "house_no": "316",
+            "candidates": {
+                "1": 315,
+                "2": 209
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 792
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "中華里",
+            "house_no": "317",
+            "candidates": {
+                "1": 232,
+                "2": 238
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 735
+        },
+        {
+            "area": "竹南鎮",
+            "cunli": "中華里",
+            "house_no": "318",
+            "candidates": {
+                "1": 390,
+                "2": 346
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1122
+        }
+    ]
+}

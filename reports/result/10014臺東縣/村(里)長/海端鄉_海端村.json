@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王永振",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱春龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "賴世山",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "海端鄉",
+            "cunli": "海端村",
+            "house_no": "211",
+            "candidates": {
+                "1": 230,
+                "2": 206,
+                "3": 151
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 931
+        }
+    ]
+}

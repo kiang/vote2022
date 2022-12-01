@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "龔志慧",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃志焜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "錦安里",
+            "house_no": "1444",
+            "candidates": {
+                "1": 443,
+                "2": 192
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦安里",
+            "house_no": "1445",
+            "candidates": {
+                "1": 527,
+                "2": 261
+            },
+            "count_wrong": 63,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦安里",
+            "house_no": "1446",
+            "candidates": {
+                "1": 467,
+                "2": 208
+            },
+            "count_wrong": 60,
+            "count_unused": 4,
+            "count_total": 1072
+        },
+        {
+            "area": "大安區",
+            "cunli": "錦安里",
+            "house_no": "1447",
+            "candidates": {
+                "1": 425,
+                "2": 265
+            },
+            "count_wrong": 55,
+            "count_unused": 1,
+            "count_total": 1160
+        }
+    ]
+}

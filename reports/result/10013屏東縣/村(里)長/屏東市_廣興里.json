@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭國石",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "廣興里",
+            "house_no": "105",
+            "candidates": {
+                "1": 788
+            },
+            "count_wrong": 212,
+            "count_unused": 0,
+            "count_total": 1547
+        },
+        {
+            "area": "屏東市",
+            "cunli": "廣興里",
+            "house_no": "106",
+            "candidates": {
+                "1": 569
+            },
+            "count_wrong": 147,
+            "count_unused": 0,
+            "count_total": 1263
+        }
+    ]
+}

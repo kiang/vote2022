@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "倪振國",
+            "party": "無"
+        },
+        "2": {
+            "name": "董倫智",
+            "party": "無"
+        },
+        "3": {
+            "name": "辛文進",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "古城里",
+            "house_no": "20",
+            "candidates": {
+                "1": 73,
+                "2": 27,
+                "3": 398
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1301
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "古城里",
+            "house_no": "21",
+            "candidates": {
+                "1": 98,
+                "2": 41,
+                "3": 320
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "金城鎮",
+            "cunli": "古城里",
+            "house_no": "22",
+            "candidates": {
+                "1": 37,
+                "2": 282,
+                "3": 188
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1435
+        }
+    ]
+}

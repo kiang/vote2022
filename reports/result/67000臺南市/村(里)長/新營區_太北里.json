@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪進忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "石淑娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "太北里",
+            "house_no": "163",
+            "candidates": {
+                "1": 344,
+                "2": 286
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 924
+        },
+        {
+            "area": "新營區",
+            "cunli": "太北里",
+            "house_no": "164",
+            "candidates": {
+                "1": 286,
+                "2": 206
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 738
+        }
+    ]
+}

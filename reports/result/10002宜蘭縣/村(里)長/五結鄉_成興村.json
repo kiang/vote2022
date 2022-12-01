@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張金發",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁木川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "五結鄉",
+            "cunli": "成興村",
+            "house_no": "381",
+            "candidates": {
+                "1": 244,
+                "2": 310
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1069
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "成興村",
+            "house_no": "382",
+            "candidates": {
+                "1": 290,
+                "2": 487
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "五結鄉",
+            "cunli": "成興村",
+            "house_no": "383",
+            "candidates": {
+                "1": 295,
+                "2": 203
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 890
+        }
+    ]
+}

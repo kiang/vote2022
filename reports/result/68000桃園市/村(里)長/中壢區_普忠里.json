@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許志煒",
+            "party": "無"
+        },
+        "2": {
+            "name": "夏元慶",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳威羽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "普忠里",
+            "house_no": "754",
+            "candidates": {
+                "1": 595,
+                "2": 85,
+                "3": 280
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1618
+        },
+        {
+            "area": "中壢區",
+            "cunli": "普忠里",
+            "house_no": "755",
+            "candidates": {
+                "1": 507,
+                "2": 79,
+                "3": 281
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1465
+        }
+    ]
+}

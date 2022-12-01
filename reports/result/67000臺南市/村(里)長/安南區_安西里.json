@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃文沛",
+            "party": "無"
+        },
+        "2": {
+            "name": "林慶文",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "黃泳順",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉昆河",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "安西里",
+            "house_no": "697",
+            "candidates": {
+                "1": 252,
+                "2": 86,
+                "3": 132,
+                "4": 243
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1103
+        },
+        {
+            "area": "安南區",
+            "cunli": "安西里",
+            "house_no": "698",
+            "candidates": {
+                "1": 306,
+                "2": 86,
+                "3": 124,
+                "4": 225
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "安南區",
+            "cunli": "安西里",
+            "house_no": "699",
+            "candidates": {
+                "1": 179,
+                "2": 126,
+                "3": 163,
+                "4": 241
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

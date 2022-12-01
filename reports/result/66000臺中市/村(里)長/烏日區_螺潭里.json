@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "凃景惠",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "林國貞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "螺潭里",
+            "house_no": "405",
+            "candidates": {
+                "1": 170,
+                "2": 501
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "烏日區",
+            "cunli": "螺潭里",
+            "house_no": "406",
+            "candidates": {
+                "1": 207,
+                "2": 515
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

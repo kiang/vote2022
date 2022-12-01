@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃開相",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱騰森",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三灣鄉",
+            "cunli": "大河村",
+            "house_no": "422",
+            "candidates": {
+                "1": 121,
+                "2": 261
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 524
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "大坪村",
+            "house_no": "423",
+            "candidates": {
+                "1": 181,
+                "2": 117
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 376
+        },
+        {
+            "area": "三灣鄉",
+            "cunli": "永和村",
+            "house_no": "424",
+            "candidates": {
+                "1": 100,
+                "2": 131
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 357
+        }
+    ]
+}

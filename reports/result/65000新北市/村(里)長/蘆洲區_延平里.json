@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張明德",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "詹益正",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆洲區",
+            "cunli": "延平里",
+            "house_no": "654",
+            "candidates": {
+                "1": 725,
+                "2": 224
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1783
+        },
+        {
+            "area": "蘆洲區",
+            "cunli": "延平里",
+            "house_no": "655",
+            "candidates": {
+                "1": 667,
+                "2": 255
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1739
+        }
+    ]
+}

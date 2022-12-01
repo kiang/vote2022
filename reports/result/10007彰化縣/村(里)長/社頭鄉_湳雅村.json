@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張傳亨",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉志明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "社頭鄉",
+            "cunli": "湳雅村",
+            "house_no": "842",
+            "candidates": {
+                "1": 348,
+                "2": 133
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 728
+        },
+        {
+            "area": "社頭鄉",
+            "cunli": "湳雅村",
+            "house_no": "843",
+            "candidates": {
+                "1": 323,
+                "2": 98
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 680
+        }
+    ]
+}

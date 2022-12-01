@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李英哲",
+            "party": "無"
+        },
+        "2": {
+            "name": "李啟仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭福利",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "歸仁區",
+            "cunli": "西埔里",
+            "house_no": "1496",
+            "candidates": {
+                "1": 292,
+                "2": 90,
+                "3": 265
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 907
+        },
+        {
+            "area": "歸仁區",
+            "cunli": "西埔里",
+            "house_no": "1497",
+            "candidates": {
+                "1": 66,
+                "2": 62,
+                "3": 358
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 688
+        }
+    ]
+}

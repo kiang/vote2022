@@ -1,0 +1,88 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡誌山",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁献東",
+            "party": "無"
+        },
+        "3": {
+            "name": "林丁財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "崙前村",
+            "house_no": "325",
+            "candidates": {
+                "1": 43,
+                "2": 61,
+                "3": 357,
+                "4": 183
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1024
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙前村",
+            "house_no": "326",
+            "candidates": {
+                "1": 69,
+                "2": 47,
+                "3": 231,
+                "4": 176
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "羅厝村",
+            "house_no": "327",
+            "candidates": {
+                "1": 90,
+                "2": 278,
+                "3": 105,
+                "4": 137
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "羅厝村",
+            "house_no": "328",
+            "candidates": {
+                "1": 109,
+                "2": 234,
+                "3": 133,
+                "4": 165
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "港尾村",
+            "house_no": "329",
+            "candidates": {
+                "1": 457,
+                "2": 116,
+                "3": 71,
+                "4": 94
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1214
+        }
+    ]
+}

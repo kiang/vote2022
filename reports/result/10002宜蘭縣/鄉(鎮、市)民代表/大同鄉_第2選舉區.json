@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡進",
+            "party": "無"
+        },
+        "2": {
+            "name": "鐘進財",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "依基洛．馬紹 YCIRO．MASAW",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同鄉",
+            "cunli": "崙埤村",
+            "house_no": "411",
+            "candidates": {
+                "1": 290,
+                "2": 153,
+                "3": 73
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 628
+        },
+        {
+            "area": "大同鄉",
+            "cunli": "松羅村",
+            "house_no": "412",
+            "candidates": {
+                "1": 97,
+                "2": 95,
+                "3": 376
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 700
+        },
+        {
+            "area": "大同鄉",
+            "cunli": "復興村",
+            "house_no": "413",
+            "candidates": {
+                "1": 83,
+                "2": 92,
+                "3": 52
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 270
+        }
+    ]
+}

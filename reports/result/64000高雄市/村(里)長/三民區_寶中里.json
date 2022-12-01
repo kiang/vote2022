@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "任憲慶",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "劉碧月",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "寶中里",
+            "house_no": "1069",
+            "candidates": {
+                "1": 618,
+                "2": 253
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1378
+        },
+        {
+            "area": "三民區",
+            "cunli": "寶中里",
+            "house_no": "1070",
+            "candidates": {
+                "1": 399,
+                "2": 356
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1267
+        }
+    ]
+}

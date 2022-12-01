@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鍾朝麟",
+            "party": "無"
+        },
+        "2": {
+            "name": "古智仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "龍潭里",
+            "house_no": "1235",
+            "candidates": {
+                "1": 259,
+                "2": 349
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 872
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "龍潭里",
+            "house_no": "1236",
+            "candidates": {
+                "1": 295,
+                "2": 290
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 866
+        }
+    ]
+}

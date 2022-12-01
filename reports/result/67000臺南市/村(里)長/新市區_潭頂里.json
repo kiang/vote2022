@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林芳甄",
+            "party": "無"
+        },
+        "2": {
+            "name": "李淑帆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新市區",
+            "cunli": "潭頂里",
+            "house_no": "608",
+            "candidates": {
+                "1": 361,
+                "2": 214
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 839
+        },
+        {
+            "area": "新市區",
+            "cunli": "潭頂里",
+            "house_no": "609",
+            "candidates": {
+                "1": 207,
+                "2": 429
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 890
+        }
+    ]
+}

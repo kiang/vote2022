@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉順圓",
+            "party": "無"
+        },
+        "2": {
+            "name": "張忠華",
+            "party": "無"
+        },
+        "3": {
+            "name": "徐惠生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "馬公市",
+            "cunli": "烏崁里",
+            "house_no": "42",
+            "candidates": {
+                "1": 360,
+                "2": 161,
+                "3": 135
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

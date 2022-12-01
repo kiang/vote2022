@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蘇乙青",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "北京里",
+            "house_no": "1034",
+            "candidates": {
+                "1": 523
+            },
+            "count_wrong": 73,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "北屯區",
+            "cunli": "北京里",
+            "house_no": "1035",
+            "candidates": {
+                "1": 414
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "北屯區",
+            "cunli": "北京里",
+            "house_no": "1036",
+            "candidates": {
+                "1": 587
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

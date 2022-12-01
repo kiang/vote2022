@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明智",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊秀慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉井區",
+            "cunli": "玉田里",
+            "house_no": "500",
+            "candidates": {
+                "1": 163,
+                "2": 347
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "玉井區",
+            "cunli": "玉田里",
+            "house_no": "501",
+            "candidates": {
+                "1": 183,
+                "2": 257
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 761
+        },
+        {
+            "area": "玉井區",
+            "cunli": "玉田里",
+            "house_no": "502",
+            "candidates": {
+                "1": 141,
+                "2": 292
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 790
+        },
+        {
+            "area": "玉井區",
+            "cunli": "玉田里",
+            "house_no": "503",
+            "candidates": {
+                "1": 214,
+                "2": 349
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 950
+        }
+    ]
+}

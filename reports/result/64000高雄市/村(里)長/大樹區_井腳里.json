@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃沼人",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃錦祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃國雄",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大樹區",
+            "cunli": "井腳里",
+            "house_no": "849",
+            "candidates": {
+                "1": 238,
+                "2": 180,
+                "3": 99
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "大樹區",
+            "cunli": "井腳里",
+            "house_no": "850",
+            "candidates": {
+                "1": 212,
+                "2": 121,
+                "3": 159
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 717
+        }
+    ]
+}

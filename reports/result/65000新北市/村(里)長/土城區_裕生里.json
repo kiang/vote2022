@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳其發",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "楊忠富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "裕生里",
+            "house_no": "1969",
+            "candidates": {
+                "1": 205,
+                "2": 445
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1097
+        },
+        {
+            "area": "土城區",
+            "cunli": "裕生里",
+            "house_no": "1970",
+            "candidates": {
+                "1": 278,
+                "2": 406
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "土城區",
+            "cunli": "裕生里",
+            "house_no": "1971",
+            "candidates": {
+                "1": 253,
+                "2": 439
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1248
+        },
+        {
+            "area": "土城區",
+            "cunli": "裕生里",
+            "house_no": "1972",
+            "candidates": {
+                "1": 181,
+                "2": 381
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1058
+        }
+    ]
+}

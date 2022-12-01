@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃永富",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭錦昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃淑鳳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭南里",
+            "house_no": "287",
+            "candidates": {
+                "1": 88,
+                "2": 574,
+                "3": 51
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1156
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "頭南里",
+            "house_no": "288",
+            "candidates": {
+                "1": 28,
+                "2": 523,
+                "3": 40
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 955
+        }
+    ]
+}

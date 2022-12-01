@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "虞閎立",
+            "party": "無"
+        },
+        "2": {
+            "name": "周葉長",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "惠安里",
+            "house_no": "841",
+            "candidates": {
+                "1": 266,
+                "2": 337
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "信義區",
+            "cunli": "惠安里",
+            "house_no": "842",
+            "candidates": {
+                "1": 284,
+                "2": 328
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 948
+        },
+        {
+            "area": "信義區",
+            "cunli": "惠安里",
+            "house_no": "843",
+            "candidates": {
+                "1": 313,
+                "2": 386
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1131
+        },
+        {
+            "area": "信義區",
+            "cunli": "惠安里",
+            "house_no": "844",
+            "candidates": {
+                "1": 291,
+                "2": 379
+            },
+            "count_wrong": 26,
+            "count_unused": 1,
+            "count_total": 985
+        },
+        {
+            "area": "信義區",
+            "cunli": "惠安里",
+            "house_no": "845",
+            "candidates": {
+                "1": 253,
+                "2": 522
+            },
+            "count_wrong": 8,
+            "count_unused": 17,
+            "count_total": 1146
+        }
+    ]
+}

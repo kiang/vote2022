@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李朝國",
+            "party": "無"
+        },
+        "2": {
+            "name": "傅湘庭",
+            "party": "無"
+        },
+        "3": {
+            "name": "黎俊雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西湖鄉",
+            "cunli": "龍洞村",
+            "house_no": "151",
+            "candidates": {
+                "1": 240,
+                "2": 19,
+                "3": 79
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 431
+        }
+    ]
+}

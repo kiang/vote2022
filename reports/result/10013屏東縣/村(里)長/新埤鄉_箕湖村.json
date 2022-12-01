@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王永豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "曹秀英",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘秀輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新埤鄉",
+            "cunli": "箕湖村",
+            "house_no": "500",
+            "candidates": {
+                "1": 72,
+                "2": 104,
+                "3": 218
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 528
+        },
+        {
+            "area": "新埤鄉",
+            "cunli": "箕湖村",
+            "house_no": "501",
+            "candidates": {
+                "1": 381,
+                "2": 27,
+                "3": 20
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 556
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊春福",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "藍耀庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "社南里",
+            "house_no": "583",
+            "candidates": {
+                "1": 461,
+                "2": 321
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "神岡區",
+            "cunli": "社南里",
+            "house_no": "584",
+            "candidates": {
+                "1": 342,
+                "2": 334
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1058
+        },
+        {
+            "area": "神岡區",
+            "cunli": "社南里",
+            "house_no": "585",
+            "candidates": {
+                "1": 481,
+                "2": 380
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1403
+        },
+        {
+            "area": "神岡區",
+            "cunli": "社南里",
+            "house_no": "586",
+            "candidates": {
+                "1": 400,
+                "2": 309
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1195
+        }
+    ]
+}

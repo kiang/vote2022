@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林華龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "林忠森",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "新興里",
+            "house_no": "331",
+            "candidates": {
+                "1": 533,
+                "2": 340
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "大肚區",
+            "cunli": "新興里",
+            "house_no": "332",
+            "candidates": {
+                "1": 496,
+                "2": 283
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1141
+        }
+    ]
+}

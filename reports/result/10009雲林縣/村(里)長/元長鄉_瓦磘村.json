@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳中一",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "元長鄉",
+            "cunli": "瓦磘村",
+            "house_no": "221",
+            "candidates": {
+                "1": 300
+            },
+            "count_wrong": 117,
+            "count_unused": 0,
+            "count_total": 612
+        },
+        {
+            "area": "元長鄉",
+            "cunli": "瓦磘村",
+            "house_no": "222",
+            "candidates": {
+                "1": 360
+            },
+            "count_wrong": 160,
+            "count_unused": 0,
+            "count_total": 776
+        }
+    ]
+}

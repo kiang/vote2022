@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李明忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麒翔",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "霧峰區",
+            "cunli": "甲寅里",
+            "house_no": "1750",
+            "candidates": {
+                "1": 287,
+                "2": 426
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "甲寅里",
+            "house_no": "1751",
+            "candidates": {
+                "1": 376,
+                "2": 332
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1201
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "甲寅里",
+            "house_no": "1752",
+            "candidates": {
+                "1": 355,
+                "2": 305
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "霧峰區",
+            "cunli": "甲寅里",
+            "house_no": "1753",
+            "candidates": {
+                "1": 347,
+                "2": 308
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1050
+        }
+    ]
+}

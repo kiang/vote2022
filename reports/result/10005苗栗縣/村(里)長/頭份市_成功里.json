@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅田春",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭份市",
+            "cunli": "成功里",
+            "house_no": "394",
+            "candidates": {
+                "1": 594
+            },
+            "count_wrong": 72,
+            "count_unused": 0,
+            "count_total": 1101
+        },
+        {
+            "area": "頭份市",
+            "cunli": "成功里",
+            "house_no": "395",
+            "candidates": {
+                "1": 691
+            },
+            "count_wrong": 102,
+            "count_unused": 0,
+            "count_total": 1234
+        },
+        {
+            "area": "頭份市",
+            "cunli": "成功里",
+            "house_no": "396",
+            "candidates": {
+                "1": 579
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1112
+        }
+    ]
+}

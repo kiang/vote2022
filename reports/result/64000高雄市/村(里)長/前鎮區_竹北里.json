@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫偉光",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊吉良",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊吉村",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "竹北里",
+            "house_no": "1741",
+            "candidates": {
+                "1": 310,
+                "2": 77,
+                "3": 361
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "竹北里",
+            "house_no": "1742",
+            "candidates": {
+                "1": 289,
+                "2": 137,
+                "3": 274
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1156
+        }
+    ]
+}

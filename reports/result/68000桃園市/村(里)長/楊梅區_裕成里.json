@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李昱宏",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅財漢",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃靜淑",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "裕成里",
+            "house_no": "1139",
+            "candidates": {
+                "1": 434,
+                "2": 56,
+                "3": 449
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1543
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "裕成里",
+            "house_no": "1140",
+            "candidates": {
+                "1": 429,
+                "2": 84,
+                "3": 370
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1570
+        }
+    ]
+}

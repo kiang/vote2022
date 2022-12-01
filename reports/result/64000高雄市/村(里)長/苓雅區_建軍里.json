@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黄錫聰",
+            "party": "無"
+        },
+        "2": {
+            "name": "蘇昆明",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "建軍里",
+            "house_no": "1416",
+            "candidates": {
+                "1": 235,
+                "2": 340
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 870
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "建軍里",
+            "house_no": "1417",
+            "candidates": {
+                "1": 311,
+                "2": 308
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 969
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳維坤",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉驊慶",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "興仁里",
+            "house_no": "205",
+            "candidates": {
+                "1": 165,
+                "2": 331
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 746
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "興仁里",
+            "house_no": "206",
+            "candidates": {
+                "1": 268,
+                "2": 353
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 906
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "興仁里",
+            "house_no": "207",
+            "candidates": {
+                "1": 179,
+                "2": 276
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 675
+        }
+    ]
+}

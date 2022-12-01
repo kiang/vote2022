@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱柏崴",
+            "party": "無"
+        },
+        "2": {
+            "name": "張宜瀅",
+            "party": "無"
+        },
+        "3": {
+            "name": "許政鎧",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "永樂里",
+            "house_no": "1694",
+            "candidates": {
+                "1": 140,
+                "2": 74,
+                "3": 386
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "永和區",
+            "cunli": "永樂里",
+            "house_no": "1695",
+            "candidates": {
+                "1": 161,
+                "2": 56,
+                "3": 327
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 949
+        }
+    ]
+}

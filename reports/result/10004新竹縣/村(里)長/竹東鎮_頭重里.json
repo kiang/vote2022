@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾俊傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉醇峰",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "竹東鎮",
+            "cunli": "頭重里",
+            "house_no": "207",
+            "candidates": {
+                "1": 354,
+                "2": 238
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1102
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "頭重里",
+            "house_no": "208",
+            "candidates": {
+                "1": 353,
+                "2": 244
+            },
+            "count_wrong": 17,
+            "count_unused": 2,
+            "count_total": 1120
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "頭重里",
+            "house_no": "209",
+            "candidates": {
+                "1": 326,
+                "2": 279
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "頭重里",
+            "house_no": "210",
+            "candidates": {
+                "1": 335,
+                "2": 269
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1065
+        }
+    ]
+}

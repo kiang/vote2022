@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳慶煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉至青",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大埔鄉",
+            "cunli": "和平村",
+            "house_no": "512",
+            "candidates": {
+                "1": 121,
+                "2": 108
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 322
+        },
+        {
+            "area": "大埔鄉",
+            "cunli": "和平村",
+            "house_no": "513",
+            "candidates": {
+                "1": 119,
+                "2": 96
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 304
+        }
+    ]
+}

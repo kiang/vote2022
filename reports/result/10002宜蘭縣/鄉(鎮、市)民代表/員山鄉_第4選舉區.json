@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李筱婷",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "江益杉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "湖東村",
+            "house_no": "299",
+            "candidates": {
+                "1": 393,
+                "2": 147
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 839
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "逸仙村",
+            "house_no": "300",
+            "candidates": {
+                "1": 354,
+                "2": 276
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 896
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "湖北村",
+            "house_no": "301",
+            "candidates": {
+                "1": 327,
+                "2": 336
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 951
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "湖西村",
+            "house_no": "302",
+            "candidates": {
+                "1": 310,
+                "2": 100
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 617
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "湖西村",
+            "house_no": "303",
+            "candidates": {
+                "1": 360,
+                "2": 83
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 658
+        }
+    ]
+}

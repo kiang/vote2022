@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃佳玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "杜明昌",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃振亮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "路竹區",
+            "cunli": "新達里",
+            "house_no": "192",
+            "candidates": {
+                "1": 304,
+                "2": 383,
+                "3": 125
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1159
+        }
+    ]
+}

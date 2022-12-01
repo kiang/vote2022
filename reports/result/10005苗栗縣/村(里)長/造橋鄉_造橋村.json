@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "温春福",
+            "party": "無"
+        },
+        "2": {
+            "name": "江昌華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "造橋鄉",
+            "cunli": "造橋村",
+            "house_no": "265",
+            "candidates": {
+                "1": 314,
+                "2": 372
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1082
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "造橋村",
+            "house_no": "266",
+            "candidates": {
+                "1": 271,
+                "2": 283
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 817
+        }
+    ]
+}

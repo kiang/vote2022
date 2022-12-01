@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾金榜",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖國清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "振興里",
+            "house_no": "29",
+            "candidates": {
+                "1": 207,
+                "2": 186
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 556
+        },
+        {
+            "area": "南投市",
+            "cunli": "振興里",
+            "house_no": "30",
+            "candidates": {
+                "1": 305,
+                "2": 232
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 709
+        },
+        {
+            "area": "南投市",
+            "cunli": "振興里",
+            "house_no": "31",
+            "candidates": {
+                "1": 268,
+                "2": 221
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 679
+        }
+    ]
+}

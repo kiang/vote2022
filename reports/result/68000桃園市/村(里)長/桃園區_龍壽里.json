@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張玉華",
+            "party": "無"
+        },
+        "2": {
+            "name": "林清涼",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "龍壽里",
+            "house_no": "117",
+            "candidates": {
+                "1": 577,
+                "2": 345
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1558
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍壽里",
+            "house_no": "118",
+            "candidates": {
+                "1": 501,
+                "2": 383
+            },
+            "count_wrong": 21,
+            "count_unused": 1,
+            "count_total": 1551
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍壽里",
+            "house_no": "119",
+            "candidates": {
+                "1": 609,
+                "2": 299
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1654
+        },
+        {
+            "area": "桃園區",
+            "cunli": "龍壽里",
+            "house_no": "120",
+            "candidates": {
+                "1": 601,
+                "2": 260
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1572
+        }
+    ]
+}

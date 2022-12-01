@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李瑞山",
+            "party": "無"
+        },
+        "2": {
+            "name": "林明龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "簡淵川",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大溪區",
+            "cunli": "義和里",
+            "house_no": "652",
+            "candidates": {
+                "1": 340,
+                "2": 36,
+                "3": 367
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1057
+        },
+        {
+            "area": "大溪區",
+            "cunli": "義和里",
+            "house_no": "653",
+            "candidates": {
+                "1": 198,
+                "2": 22,
+                "3": 174
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 597
+        }
+    ]
+}

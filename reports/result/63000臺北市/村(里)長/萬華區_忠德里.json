@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭明裕",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "施育婷",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "忠德里",
+            "house_no": "1329",
+            "candidates": {
+                "1": 310,
+                "2": 512
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "萬華區",
+            "cunli": "忠德里",
+            "house_no": "1330",
+            "candidates": {
+                "1": 276,
+                "2": 498
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1130
+        },
+        {
+            "area": "萬華區",
+            "cunli": "忠德里",
+            "house_no": "1331",
+            "candidates": {
+                "1": 279,
+                "2": 563
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1249
+        }
+    ]
+}

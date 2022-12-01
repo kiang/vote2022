@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林曾桂花",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "興仁里",
+            "house_no": "1483",
+            "candidates": {
+                "1": 465
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1003
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "興仁里",
+            "house_no": "1484",
+            "candidates": {
+                "1": 492
+            },
+            "count_wrong": 142,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "興仁里",
+            "house_no": "1485",
+            "candidates": {
+                "1": 517
+            },
+            "count_wrong": 122,
+            "count_unused": 0,
+            "count_total": 1064
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱招景",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "邱勇志",
+            "party": "無"
+        },
+        "3": {
+            "name": "張淑貞",
+            "party": "無"
+        },
+        "4": {
+            "name": "黃紫羚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長治鄉",
+            "cunli": "新潭村",
+            "house_no": "300",
+            "candidates": {
+                "1": 237,
+                "2": 366,
+                "3": 386,
+                "4": 103
+            },
+            "count_wrong": 46,
+            "count_unused": 0,
+            "count_total": 1804
+        },
+        {
+            "area": "長治鄉",
+            "cunli": "新潭村",
+            "house_no": "301",
+            "candidates": {
+                "1": 223,
+                "2": 246,
+                "3": 498,
+                "4": 72
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1724
+        }
+    ]
+}

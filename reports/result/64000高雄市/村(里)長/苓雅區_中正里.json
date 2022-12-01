@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡維成",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "中正里",
+            "house_no": "1337",
+            "candidates": {
+                "1": 442
+            },
+            "count_wrong": 54,
+            "count_unused": 0,
+            "count_total": 864
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "中正里",
+            "house_no": "1338",
+            "candidates": {
+                "1": 382
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 809
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "中正里",
+            "house_no": "1339",
+            "candidates": {
+                "1": 427
+            },
+            "count_wrong": 61,
+            "count_unused": 0,
+            "count_total": 896
+        }
+    ]
+}

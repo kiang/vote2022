@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張裕勝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "壽豐鄉",
+            "cunli": "平和村",
+            "house_no": "217",
+            "candidates": {
+                "1": 565
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 950
+        },
+        {
+            "area": "壽豐鄉",
+            "cunli": "平和村",
+            "house_no": "218",
+            "candidates": {
+                "1": 225
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 398
+        }
+    ]
+}

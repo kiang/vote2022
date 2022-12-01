@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾裕理",
+            "party": "無"
+        },
+        "2": {
+            "name": "湯鈞任",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "中興里",
+            "house_no": "1338",
+            "candidates": {
+                "1": 171,
+                "2": 479
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1094
+        },
+        {
+            "area": "西區",
+            "cunli": "中興里",
+            "house_no": "1339",
+            "candidates": {
+                "1": 213,
+                "2": 502
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1159
+        },
+        {
+            "area": "西區",
+            "cunli": "中興里",
+            "house_no": "1340",
+            "candidates": {
+                "1": 185,
+                "2": 484
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1076
+        }
+    ]
+}

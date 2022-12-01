@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐石全",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾增有",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "富豐里",
+            "house_no": "1171",
+            "candidates": {
+                "1": 324,
+                "2": 673
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1472
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "富豐里",
+            "house_no": "1172",
+            "candidates": {
+                "1": 521,
+                "2": 420
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1526
+        }
+    ]
+}

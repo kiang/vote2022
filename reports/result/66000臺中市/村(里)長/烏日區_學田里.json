@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖明宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉枝銓",
+            "party": "無"
+        },
+        "3": {
+            "name": "孫禾昀",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "烏日區",
+            "cunli": "學田里",
+            "house_no": "377",
+            "candidates": {
+                "1": 187,
+                "2": 380,
+                "3": 280
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1321
+        },
+        {
+            "area": "烏日區",
+            "cunli": "學田里",
+            "house_no": "378",
+            "candidates": {
+                "1": 128,
+                "2": 252,
+                "3": 395
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1190
+        }
+    ]
+}

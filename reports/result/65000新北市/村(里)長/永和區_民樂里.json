@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉善珍",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘慶忠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "民樂里",
+            "house_no": "1672",
+            "candidates": {
+                "1": 264,
+                "2": 472
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "永和區",
+            "cunli": "民樂里",
+            "house_no": "1673",
+            "candidates": {
+                "1": 183,
+                "2": 612
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1323
+        },
+        {
+            "area": "永和區",
+            "cunli": "民樂里",
+            "house_no": "1674",
+            "candidates": {
+                "1": 163,
+                "2": 604
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1219
+        }
+    ]
+}

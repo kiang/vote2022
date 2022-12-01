@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張朝雄",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "興邦里",
+            "house_no": "1629",
+            "candidates": {
+                "1": 760
+            },
+            "count_wrong": 135,
+            "count_unused": 0,
+            "count_total": 1313
+        },
+        {
+            "area": "文山區",
+            "cunli": "興邦里",
+            "house_no": "1630",
+            "candidates": {
+                "1": 875
+            },
+            "count_wrong": 105,
+            "count_unused": 0,
+            "count_total": 1404
+        },
+        {
+            "area": "文山區",
+            "cunli": "興邦里",
+            "house_no": "1631",
+            "candidates": {
+                "1": 806
+            },
+            "count_wrong": 108,
+            "count_unused": 6,
+            "count_total": 1340
+        }
+    ]
+}

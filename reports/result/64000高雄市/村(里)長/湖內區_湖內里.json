@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志聰",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏漢仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖內區",
+            "cunli": "湖內里",
+            "house_no": "174",
+            "candidates": {
+                "1": 134,
+                "2": 426
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 749
+        },
+        {
+            "area": "湖內區",
+            "cunli": "湖內里",
+            "house_no": "175",
+            "candidates": {
+                "1": 172,
+                "2": 423
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 785
+        },
+        {
+            "area": "湖內區",
+            "cunli": "湖內里",
+            "house_no": "176",
+            "candidates": {
+                "1": 476,
+                "2": 181
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "湖內區",
+            "cunli": "湖內里",
+            "house_no": "177",
+            "candidates": {
+                "1": 439,
+                "2": 222
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1096
+        }
+    ]
+}

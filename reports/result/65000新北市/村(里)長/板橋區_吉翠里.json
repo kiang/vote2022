@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清玉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "吉翠里",
+            "house_no": "1110",
+            "candidates": {
+                "1": 547
+            },
+            "count_wrong": 96,
+            "count_unused": 1,
+            "count_total": 1078
+        },
+        {
+            "area": "板橋區",
+            "cunli": "吉翠里",
+            "house_no": "1111",
+            "candidates": {
+                "1": 513
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 1083
+        },
+        {
+            "area": "板橋區",
+            "cunli": "吉翠里",
+            "house_no": "1112",
+            "candidates": {
+                "1": 505
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 968
+        }
+    ]
+}

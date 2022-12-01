@@ -1,0 +1,1496 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊國寬",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭玲惠",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "游淑雲",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪如萍",
+            "party": "民主進步黨"
+        },
+        "5": {
+            "name": "梁銘忠",
+            "party": "無"
+        },
+        "6": {
+            "name": "廖偉晴",
+            "party": "中國國民黨"
+        },
+        "7": {
+            "name": "李明哲",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "東明村",
+            "house_no": "321",
+            "candidates": {
+                "1": 91,
+                "2": 31,
+                "3": 34,
+                "4": 192,
+                "5": 184,
+                "6": 77,
+                "7": 93
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "西榮村",
+            "house_no": "322",
+            "candidates": {
+                "1": 59,
+                "2": 34,
+                "3": 74,
+                "4": 236,
+                "5": 293,
+                "6": 79,
+                "7": 126
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1390
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "南陽村",
+            "house_no": "323",
+            "candidates": {
+                "1": 52,
+                "2": 22,
+                "3": 35,
+                "4": 225,
+                "5": 183,
+                "6": 73,
+                "7": 92
+            },
+            "count_wrong": 27,
+            "count_unused": 2,
+            "count_total": 1085
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "南陽村",
+            "house_no": "324",
+            "candidates": {
+                "1": 72,
+                "2": 5,
+                "3": 36,
+                "4": 212,
+                "5": 292,
+                "6": 35,
+                "7": 142
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1144
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙前村",
+            "house_no": "325",
+            "candidates": {
+                "1": 29,
+                "2": 22,
+                "3": 26,
+                "4": 290,
+                "5": 156,
+                "6": 43,
+                "7": 74
+            },
+            "count_wrong": 20,
+            "count_unused": 1,
+            "count_total": 1025
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙前村",
+            "house_no": "326",
+            "candidates": {
+                "1": 23,
+                "2": 8,
+                "3": 23,
+                "4": 233,
+                "5": 149,
+                "6": 45,
+                "7": 48
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "羅厝村",
+            "house_no": "327",
+            "candidates": {
+                "1": 54,
+                "2": 6,
+                "3": 23,
+                "4": 328,
+                "5": 90,
+                "6": 77,
+                "7": 41
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "羅厝村",
+            "house_no": "328",
+            "candidates": {
+                "1": 69,
+                "2": 18,
+                "3": 21,
+                "4": 322,
+                "5": 121,
+                "6": 60,
+                "7": 53
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "港尾村",
+            "house_no": "329",
+            "candidates": {
+                "1": 45,
+                "2": 10,
+                "3": 64,
+                "4": 371,
+                "5": 129,
+                "6": 45,
+                "7": 72
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "阿勸村",
+            "house_no": "330",
+            "candidates": {
+                "1": 54,
+                "2": 23,
+                "3": 7,
+                "4": 75,
+                "5": 241,
+                "6": 20,
+                "7": 200
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "阿勸村",
+            "house_no": "331",
+            "candidates": {
+                "1": 65,
+                "2": 14,
+                "3": 43,
+                "4": 141,
+                "5": 227,
+                "6": 25,
+                "7": 118
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "五魁村",
+            "house_no": "332",
+            "candidates": {
+                "1": 68,
+                "2": 6,
+                "3": 32,
+                "4": 63,
+                "5": 205,
+                "6": 24,
+                "7": 97
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 739
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大有村",
+            "house_no": "333",
+            "candidates": {
+                "1": 12,
+                "2": 8,
+                "3": 25,
+                "4": 39,
+                "5": 281,
+                "6": 4,
+                "7": 75
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 648
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大有村",
+            "house_no": "334",
+            "candidates": {
+                "1": 7,
+                "2": 13,
+                "3": 23,
+                "4": 63,
+                "5": 366,
+                "6": 12,
+                "7": 34
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "豐榮村",
+            "house_no": "335",
+            "candidates": {
+                "1": 42,
+                "2": 12,
+                "3": 25,
+                "4": 117,
+                "5": 176,
+                "6": 9,
+                "7": 99
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "豐榮村",
+            "house_no": "336",
+            "candidates": {
+                "1": 51,
+                "2": 9,
+                "3": 26,
+                "4": 59,
+                "5": 182,
+                "6": 17,
+                "7": 94
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 799
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "草湖村",
+            "house_no": "337",
+            "candidates": {
+                "1": 34,
+                "2": 11,
+                "3": 11,
+                "4": 47,
+                "5": 114,
+                "6": 35,
+                "7": 170
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 633
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "草湖村",
+            "house_no": "338",
+            "candidates": {
+                "1": 83,
+                "2": 5,
+                "3": 41,
+                "4": 47,
+                "5": 97,
+                "6": 24,
+                "7": 182
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 699
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "舊庄村",
+            "house_no": "339",
+            "candidates": {
+                "1": 15,
+                "2": 9,
+                "3": 7,
+                "4": 113,
+                "5": 182,
+                "6": 15,
+                "7": 291
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1052
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "水尾村",
+            "house_no": "340",
+            "candidates": {
+                "1": 60,
+                "2": 29,
+                "3": 29,
+                "4": 207,
+                "5": 150,
+                "6": 44,
+                "7": 133
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "枋南村二崙鄉",
+            "house_no": "341",
+            "candidates": {
+                "1": 30,
+                "2": 20,
+                "3": 17,
+                "4": 162,
+                "5": 122,
+                "6": 46,
+                "7": 121
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 710
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙東村",
+            "house_no": "342",
+            "candidates": {
+                "1": 109,
+                "2": 31,
+                "3": 31,
+                "4": 31,
+                "5": 17,
+                "6": 249,
+                "7": 75
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 818
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙東村",
+            "house_no": "343",
+            "candidates": {
+                "1": 49,
+                "2": 23,
+                "3": 25,
+                "4": 40,
+                "5": 6,
+                "6": 194,
+                "7": 40
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 582
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙西村",
+            "house_no": "344",
+            "candidates": {
+                "1": 109,
+                "2": 23,
+                "3": 24,
+                "4": 70,
+                "5": 28,
+                "6": 226,
+                "7": 126
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 896
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "崙西村",
+            "house_no": "345",
+            "candidates": {
+                "1": 98,
+                "2": 17,
+                "3": 33,
+                "4": 48,
+                "5": 11,
+                "6": 228,
+                "7": 78
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 769
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "來惠村",
+            "house_no": "346",
+            "candidates": {
+                "1": 107,
+                "2": 14,
+                "3": 20,
+                "4": 26,
+                "5": 6,
+                "6": 141,
+                "7": 58
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 581
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "來惠村",
+            "house_no": "347",
+            "candidates": {
+                "1": 195,
+                "2": 23,
+                "3": 32,
+                "4": 91,
+                "5": 7,
+                "6": 210,
+                "7": 42
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 930
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "三和村",
+            "house_no": "348",
+            "candidates": {
+                "1": 44,
+                "2": 4,
+                "3": 14,
+                "4": 27,
+                "5": 2,
+                "6": 136,
+                "7": 12
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 418
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "三和村",
+            "house_no": "349",
+            "candidates": {
+                "1": 40,
+                "2": 23,
+                "3": 46,
+                "4": 103,
+                "5": 7,
+                "6": 303,
+                "7": 47
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "湳仔村",
+            "house_no": "350",
+            "candidates": {
+                "1": 60,
+                "2": 20,
+                "3": 12,
+                "4": 44,
+                "5": 21,
+                "6": 521,
+                "7": 91
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1096
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "田尾村",
+            "house_no": "351",
+            "candidates": {
+                "1": 75,
+                "2": 18,
+                "3": 46,
+                "4": 91,
+                "5": 8,
+                "6": 240,
+                "7": 129
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 980
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "田尾村",
+            "house_no": "352",
+            "candidates": {
+                "1": 46,
+                "2": 26,
+                "3": 35,
+                "4": 52,
+                "5": 7,
+                "6": 293,
+                "7": 95
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 791
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "定安村",
+            "house_no": "353",
+            "candidates": {
+                "1": 77,
+                "2": 35,
+                "3": 175,
+                "4": 44,
+                "5": 18,
+                "6": 118,
+                "7": 136
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 834
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "永定村",
+            "house_no": "354",
+            "candidates": {
+                "1": 163,
+                "2": 42,
+                "3": 50,
+                "4": 41,
+                "5": 25,
+                "6": 95,
+                "7": 74
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "永定村",
+            "house_no": "355",
+            "candidates": {
+                "1": 81,
+                "2": 21,
+                "3": 38,
+                "4": 56,
+                "5": 11,
+                "6": 85,
+                "7": 55
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 572
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大華村",
+            "house_no": "356",
+            "candidates": {
+                "1": 165,
+                "2": 29,
+                "3": 43,
+                "4": 33,
+                "5": 27,
+                "6": 90,
+                "7": 87
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 830
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "義庄村",
+            "house_no": "357",
+            "candidates": {
+                "1": 156,
+                "2": 101,
+                "3": 36,
+                "4": 18,
+                "5": 8,
+                "6": 84,
+                "7": 39
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 708
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "楊賢村",
+            "house_no": "358",
+            "candidates": {
+                "1": 261,
+                "2": 10,
+                "3": 12,
+                "4": 21,
+                "5": 5,
+                "6": 55,
+                "7": 21
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 625
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "楊賢村",
+            "house_no": "359",
+            "candidates": {
+                "1": 383,
+                "2": 25,
+                "3": 15,
+                "4": 12,
+                "5": 4,
+                "6": 52,
+                "7": 35
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 772
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "港後村",
+            "house_no": "360",
+            "candidates": {
+                "1": 224,
+                "2": 25,
+                "3": 39,
+                "4": 83,
+                "5": 44,
+                "6": 142,
+                "7": 59
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "港後村",
+            "house_no": "361",
+            "candidates": {
+                "1": 93,
+                "2": 17,
+                "3": 34,
+                "4": 41,
+                "5": 15,
+                "6": 126,
+                "7": 58
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 621
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大義村",
+            "house_no": "362",
+            "candidates": {
+                "1": 114,
+                "2": 13,
+                "3": 20,
+                "4": 88,
+                "5": 40,
+                "6": 106,
+                "7": 84
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "油車村",
+            "house_no": "363",
+            "candidates": {
+                "1": 119,
+                "2": 34,
+                "3": 56,
+                "4": 80,
+                "5": 58,
+                "6": 204,
+                "7": 86
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1008
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "油車村",
+            "house_no": "364",
+            "candidates": {
+                "1": 91,
+                "2": 24,
+                "3": 55,
+                "4": 53,
+                "5": 22,
+                "6": 83,
+                "7": 30
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 642
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大庄村",
+            "house_no": "365",
+            "candidates": {
+                "1": 157,
+                "2": 37,
+                "3": 132,
+                "4": 102,
+                "5": 41,
+                "6": 198,
+                "7": 108
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1173
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "庄西村",
+            "house_no": "366",
+            "candidates": {
+                "1": 105,
+                "2": 18,
+                "3": 37,
+                "4": 50,
+                "5": 22,
+                "6": 151,
+                "7": 75
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 867
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大同村",
+            "house_no": "367",
+            "candidates": {
+                "1": 152,
+                "2": 17,
+                "3": 38,
+                "4": 69,
+                "5": 26,
+                "6": 136,
+                "7": 73
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 790
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "復興村西螺鎮",
+            "house_no": "368",
+            "candidates": {
+                "1": 150,
+                "2": 15,
+                "3": 51,
+                "4": 84,
+                "5": 70,
+                "6": 144,
+                "7": 115
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "振興里",
+            "house_no": "369",
+            "candidates": {
+                "1": 46,
+                "2": 83,
+                "3": 141,
+                "4": 52,
+                "5": 16,
+                "6": 63,
+                "7": 60
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 716
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "振興里",
+            "house_no": "370",
+            "candidates": {
+                "1": 47,
+                "2": 102,
+                "3": 176,
+                "4": 32,
+                "5": 15,
+                "6": 36,
+                "7": 91
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 737
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大園里",
+            "house_no": "371",
+            "candidates": {
+                "1": 44,
+                "2": 96,
+                "3": 144,
+                "4": 37,
+                "5": 20,
+                "6": 42,
+                "7": 114
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 780
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大園里",
+            "house_no": "372",
+            "candidates": {
+                "1": 68,
+                "2": 104,
+                "3": 119,
+                "4": 22,
+                "5": 15,
+                "6": 91,
+                "7": 144
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 875
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "廣福里",
+            "house_no": "373",
+            "candidates": {
+                "1": 53,
+                "2": 130,
+                "3": 122,
+                "4": 51,
+                "5": 15,
+                "6": 96,
+                "7": 222
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "廣福里",
+            "house_no": "374",
+            "candidates": {
+                "1": 61,
+                "2": 111,
+                "3": 144,
+                "4": 53,
+                "5": 12,
+                "6": 47,
+                "7": 207
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 982
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "正興里",
+            "house_no": "375",
+            "candidates": {
+                "1": 93,
+                "2": 111,
+                "3": 123,
+                "4": 41,
+                "5": 32,
+                "6": 50,
+                "7": 186
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 942
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "正興里",
+            "house_no": "376",
+            "candidates": {
+                "1": 82,
+                "2": 87,
+                "3": 125,
+                "4": 37,
+                "5": 20,
+                "6": 48,
+                "7": 159
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 816
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "正興里",
+            "house_no": "377",
+            "candidates": {
+                "1": 66,
+                "2": 113,
+                "3": 134,
+                "4": 32,
+                "5": 22,
+                "6": 58,
+                "7": 218
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1033
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "永安里",
+            "house_no": "378",
+            "candidates": {
+                "1": 30,
+                "2": 24,
+                "3": 29,
+                "4": 15,
+                "5": 9,
+                "6": 31,
+                "7": 72
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 298
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "中和里",
+            "house_no": "379",
+            "candidates": {
+                "1": 33,
+                "2": 75,
+                "3": 43,
+                "4": 23,
+                "5": 5,
+                "6": 27,
+                "7": 110
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 521
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "福興里",
+            "house_no": "380",
+            "candidates": {
+                "1": 69,
+                "2": 74,
+                "3": 61,
+                "4": 44,
+                "5": 15,
+                "6": 29,
+                "7": 94
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 545
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "光華里",
+            "house_no": "381",
+            "candidates": {
+                "1": 71,
+                "2": 108,
+                "3": 126,
+                "4": 57,
+                "5": 21,
+                "6": 53,
+                "7": 188
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 966
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "中興里",
+            "house_no": "382",
+            "candidates": {
+                "1": 103,
+                "2": 149,
+                "3": 231,
+                "4": 74,
+                "5": 22,
+                "6": 91,
+                "7": 262
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1436
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "中興里",
+            "house_no": "383",
+            "candidates": {
+                "1": 94,
+                "2": 129,
+                "3": 201,
+                "4": 77,
+                "5": 22,
+                "6": 84,
+                "7": 239
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "漢光里",
+            "house_no": "384",
+            "candidates": {
+                "1": 81,
+                "2": 107,
+                "3": 181,
+                "4": 53,
+                "5": 14,
+                "6": 66,
+                "7": 125
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "漢光里",
+            "house_no": "385",
+            "candidates": {
+                "1": 67,
+                "2": 101,
+                "3": 159,
+                "4": 33,
+                "5": 32,
+                "6": 82,
+                "7": 173
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1087
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "漢光里",
+            "house_no": "386",
+            "candidates": {
+                "1": 72,
+                "2": 93,
+                "3": 205,
+                "4": 71,
+                "5": 14,
+                "6": 44,
+                "7": 149
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1071
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "漢光里",
+            "house_no": "387",
+            "candidates": {
+                "1": 73,
+                "2": 144,
+                "3": 218,
+                "4": 52,
+                "5": 27,
+                "6": 64,
+                "7": 178
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1251
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "新安里",
+            "house_no": "388",
+            "candidates": {
+                "1": 65,
+                "2": 242,
+                "3": 235,
+                "4": 55,
+                "5": 17,
+                "6": 51,
+                "7": 104
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1218
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "新豐里",
+            "house_no": "389",
+            "candidates": {
+                "1": 64,
+                "2": 223,
+                "3": 277,
+                "4": 45,
+                "5": 15,
+                "6": 92,
+                "7": 166
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1409
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大新里",
+            "house_no": "390",
+            "candidates": {
+                "1": 61,
+                "2": 244,
+                "3": 122,
+                "4": 32,
+                "5": 7,
+                "6": 21,
+                "7": 55
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 784
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "大新里",
+            "house_no": "391",
+            "candidates": {
+                "1": 38,
+                "2": 238,
+                "3": 117,
+                "4": 14,
+                "5": 21,
+                "6": 24,
+                "7": 52
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 736
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "埤頭里",
+            "house_no": "392",
+            "candidates": {
+                "1": 68,
+                "2": 144,
+                "3": 72,
+                "4": 48,
+                "5": 11,
+                "6": 64,
+                "7": 93
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "東興里",
+            "house_no": "393",
+            "candidates": {
+                "1": 63,
+                "2": 123,
+                "3": 122,
+                "4": 79,
+                "5": 13,
+                "6": 67,
+                "7": 133
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "鹿場里",
+            "house_no": "394",
+            "candidates": {
+                "1": 71,
+                "2": 244,
+                "3": 115,
+                "4": 75,
+                "5": 26,
+                "6": 114,
+                "7": 292
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1410
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "廣興里",
+            "house_no": "395",
+            "candidates": {
+                "1": 60,
+                "2": 138,
+                "3": 83,
+                "4": 37,
+                "5": 17,
+                "6": 63,
+                "7": 195
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 820
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "頂湳里",
+            "house_no": "396",
+            "candidates": {
+                "1": 48,
+                "2": 278,
+                "3": 81,
+                "4": 33,
+                "5": 34,
+                "6": 51,
+                "7": 82
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "吳厝里",
+            "house_no": "397",
+            "candidates": {
+                "1": 68,
+                "2": 98,
+                "3": 40,
+                "4": 42,
+                "5": 8,
+                "6": 491,
+                "7": 79
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1252
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "九隆里",
+            "house_no": "398",
+            "candidates": {
+                "1": 18,
+                "2": 146,
+                "3": 39,
+                "4": 12,
+                "5": 4,
+                "6": 188,
+                "7": 57
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 684
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "下湳里",
+            "house_no": "399",
+            "candidates": {
+                "1": 82,
+                "2": 63,
+                "3": 58,
+                "4": 44,
+                "5": 10,
+                "6": 200,
+                "7": 153
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 782
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "七座里",
+            "house_no": "400",
+            "candidates": {
+                "1": 59,
+                "2": 122,
+                "3": 112,
+                "4": 57,
+                "5": 10,
+                "6": 107,
+                "7": 145
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 846
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "公舘里",
+            "house_no": "401",
+            "candidates": {
+                "1": 127,
+                "2": 181,
+                "3": 87,
+                "4": 55,
+                "5": 45,
+                "6": 240,
+                "7": 156
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1283
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "詔安里",
+            "house_no": "402",
+            "candidates": {
+                "1": 36,
+                "2": 79,
+                "3": 54,
+                "4": 66,
+                "5": 4,
+                "6": 27,
+                "7": 332
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 933
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "河南里",
+            "house_no": "403",
+            "candidates": {
+                "1": 19,
+                "2": 89,
+                "3": 91,
+                "4": 37,
+                "5": 27,
+                "6": 53,
+                "7": 338
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1081
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "安定里",
+            "house_no": "404",
+            "candidates": {
+                "1": 29,
+                "2": 91,
+                "3": 85,
+                "4": 23,
+                "5": 4,
+                "6": 45,
+                "7": 337
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 907
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "安定里",
+            "house_no": "405",
+            "candidates": {
+                "1": 28,
+                "2": 78,
+                "3": 100,
+                "4": 30,
+                "5": 8,
+                "6": 34,
+                "7": 252
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "福田里",
+            "house_no": "406",
+            "candidates": {
+                "1": 62,
+                "2": 260,
+                "3": 214,
+                "4": 76,
+                "5": 22,
+                "6": 90,
+                "7": 281
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1419
+        }
+    ]
+}

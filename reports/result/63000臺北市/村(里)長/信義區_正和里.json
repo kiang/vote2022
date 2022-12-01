@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "尹俊富",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "董玲娥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "正和里",
+            "house_no": "734",
+            "candidates": {
+                "1": 374,
+                "2": 431
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1145
+        },
+        {
+            "area": "信義區",
+            "cunli": "正和里",
+            "house_no": "735",
+            "candidates": {
+                "1": 384,
+                "2": 458
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1158
+        },
+        {
+            "area": "信義區",
+            "cunli": "正和里",
+            "house_no": "736",
+            "candidates": {
+                "1": 401,
+                "2": 361
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1116
+        }
+    ]
+}

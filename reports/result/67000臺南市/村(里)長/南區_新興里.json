@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱志初",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "新興里",
+            "house_no": "1183",
+            "candidates": {
+                "1": 391
+            },
+            "count_wrong": 54,
+            "count_unused": 1,
+            "count_total": 845
+        },
+        {
+            "area": "南區",
+            "cunli": "新興里",
+            "house_no": "1184",
+            "candidates": {
+                "1": 431
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "南區",
+            "cunli": "新興里",
+            "house_no": "1185",
+            "candidates": {
+                "1": 389
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 891
+        }
+    ]
+}

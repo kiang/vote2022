@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "余碧霞",
+            "party": "無"
+        },
+        "2": {
+            "name": "張鎮正",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳茂松",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "庄前里",
+            "house_no": "563",
+            "candidates": {
+                "1": 98,
+                "2": 466,
+                "3": 245
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1192
+        },
+        {
+            "area": "神岡區",
+            "cunli": "庄前里",
+            "house_no": "564",
+            "candidates": {
+                "1": 66,
+                "2": 479,
+                "3": 154
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1008
+        }
+    ]
+}

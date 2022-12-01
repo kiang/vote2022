@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳源邦",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉進福",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "潭子區",
+            "cunli": "頭家東里",
+            "house_no": "684",
+            "candidates": {
+                "1": 224,
+                "2": 455
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "潭子區",
+            "cunli": "頭家東里",
+            "house_no": "685",
+            "candidates": {
+                "1": 273,
+                "2": 485
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1194
+        },
+        {
+            "area": "潭子區",
+            "cunli": "頭家東里",
+            "house_no": "686",
+            "candidates": {
+                "1": 151,
+                "2": 209
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 657
+        },
+        {
+            "area": "潭子區",
+            "cunli": "頭家東里",
+            "house_no": "687",
+            "candidates": {
+                "1": 255,
+                "2": 300
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1029
+        }
+    ]
+}

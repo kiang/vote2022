@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾寧旖",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "忠順里",
+            "house_no": "1704",
+            "candidates": {
+                "1": 636
+            },
+            "count_wrong": 163,
+            "count_unused": 0,
+            "count_total": 1148
+        },
+        {
+            "area": "文山區",
+            "cunli": "忠順里",
+            "house_no": "1705",
+            "candidates": {
+                "1": 702
+            },
+            "count_wrong": 105,
+            "count_unused": 3,
+            "count_total": 1152
+        },
+        {
+            "area": "文山區",
+            "cunli": "忠順里",
+            "house_no": "1706",
+            "candidates": {
+                "1": 644
+            },
+            "count_wrong": 138,
+            "count_unused": 1,
+            "count_total": 1125
+        }
+    ]
+}

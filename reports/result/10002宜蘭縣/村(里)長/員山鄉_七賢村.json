@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林主義",
+            "party": "無"
+        },
+        "2": {
+            "name": "朱文愉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "七賢村",
+            "house_no": "280",
+            "candidates": {
+                "1": 382,
+                "2": 108
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 721
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "七賢村",
+            "house_no": "281",
+            "candidates": {
+                "1": 183,
+                "2": 338
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 722
+        }
+    ]
+}

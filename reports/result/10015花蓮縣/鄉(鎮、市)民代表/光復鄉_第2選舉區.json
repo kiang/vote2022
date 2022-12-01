@@ -1,0 +1,86 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡智輝",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳榮豊",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "張惠美",
+            "party": "無"
+        },
+        "4": {
+            "name": "鄭萬正Ipay-Kaeti",
+            "party": "中國國民黨"
+        },
+        "5": {
+            "name": "理新‧哈魯蔚 Lisin‧Haluwey",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "光復鄉",
+            "cunli": "大全村",
+            "house_no": "253",
+            "candidates": {
+                "1": 147,
+                "2": 127
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 372
+        },
+        {
+            "area": "光復鄉",
+            "cunli": "大全村",
+            "house_no": "254",
+            "candidates": {
+                "1": 39,
+                "2": 28
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 106
+        },
+        {
+            "area": "光復鄉",
+            "cunli": "大興村",
+            "house_no": "255",
+            "candidates": {
+                "1": 92,
+                "2": 69
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 241
+        },
+        {
+            "area": "光復鄉",
+            "cunli": "大富村",
+            "house_no": "256",
+            "candidates": {
+                "1": 141,
+                "2": 60
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 269
+        },
+        {
+            "area": "光復鄉",
+            "cunli": "大豐村",
+            "house_no": "257",
+            "candidates": {
+                "1": 170,
+                "2": 84
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 379
+        }
+    ]
+}

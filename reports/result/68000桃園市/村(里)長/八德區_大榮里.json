@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊兆強",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴美雲",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大榮里",
+            "house_no": "480",
+            "candidates": {
+                "1": 415,
+                "2": 156
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "八德區",
+            "cunli": "大榮里",
+            "house_no": "481",
+            "candidates": {
+                "1": 334,
+                "2": 171
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 885
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林昆龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "周朝明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "六甲區",
+            "cunli": "二甲里",
+            "house_no": "395",
+            "candidates": {
+                "1": 319,
+                "2": 396
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1305
+        },
+        {
+            "area": "六甲區",
+            "cunli": "二甲里",
+            "house_no": "396",
+            "candidates": {
+                "1": 250,
+                "2": 256
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 917
+        },
+        {
+            "area": "六甲區",
+            "cunli": "二甲里",
+            "house_no": "397",
+            "candidates": {
+                "1": 234,
+                "2": 311
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

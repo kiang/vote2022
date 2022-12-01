@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳忠政",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡錦騰",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡介午",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "林北村",
+            "house_no": "439",
+            "candidates": {
+                "1": 235,
+                "2": 498,
+                "3": 174
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林北村",
+            "house_no": "440",
+            "candidates": {
+                "1": 89,
+                "2": 310,
+                "3": 67
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 677
+        }
+    ]
+}

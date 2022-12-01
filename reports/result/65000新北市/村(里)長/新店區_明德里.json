@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅曜程",
+            "party": "無"
+        },
+        "2": {
+            "name": "許漢隆",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "王正偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "明德里",
+            "house_no": "2215",
+            "candidates": {
+                "1": 40,
+                "2": 533,
+                "3": 184
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1325
+        },
+        {
+            "area": "新店區",
+            "cunli": "明德里",
+            "house_no": "2216",
+            "candidates": {
+                "1": 54,
+                "2": 385,
+                "3": 127
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "新店區",
+            "cunli": "明德里",
+            "house_no": "2217",
+            "candidates": {
+                "1": 44,
+                "2": 436,
+                "3": 158
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1100
+        }
+    ]
+}

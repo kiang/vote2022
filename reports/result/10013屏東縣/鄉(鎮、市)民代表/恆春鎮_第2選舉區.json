@@ -1,0 +1,162 @@
+{
+    "candidates": {
+        "1": {
+            "name": "方俊尉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳厚仁",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳新賢",
+            "party": "無"
+        },
+        "4": {
+            "name": "吳啓春",
+            "party": "無"
+        },
+        "5": {
+            "name": "柯政隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "網紗里",
+            "house_no": "230",
+            "candidates": {
+                "1": 27,
+                "2": 127,
+                "3": 55,
+                "4": 21,
+                "5": 151,
+                "6": 55,
+                "7": 177
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "網紗里",
+            "house_no": "231",
+            "candidates": {
+                "1": 18,
+                "2": 119,
+                "3": 78,
+                "4": 21,
+                "5": 127,
+                "6": 41,
+                "7": 142
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 957
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "網紗里",
+            "house_no": "232",
+            "candidates": {
+                "1": 17,
+                "2": 121,
+                "3": 149,
+                "4": 12,
+                "5": 136,
+                "6": 54,
+                "7": 83
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "仁壽里",
+            "house_no": "233",
+            "candidates": {
+                "1": 27,
+                "2": 98,
+                "3": 81,
+                "4": 21,
+                "5": 147,
+                "6": 51,
+                "7": 90
+            },
+            "count_wrong": 16,
+            "count_unused": 3,
+            "count_total": 827
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "茄湖里",
+            "house_no": "234",
+            "candidates": {
+                "1": 4,
+                "2": 33,
+                "3": 112,
+                "4": 2,
+                "5": 51,
+                "6": 23,
+                "7": 64
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 474
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "頭溝里",
+            "house_no": "235",
+            "candidates": {
+                "1": 11,
+                "2": 45,
+                "3": 55,
+                "4": 2,
+                "5": 221,
+                "6": 23,
+                "7": 10
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 465
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "四溝里",
+            "house_no": "236",
+            "candidates": {
+                "1": 9,
+                "2": 58,
+                "3": 66,
+                "4": 37,
+                "5": 366,
+                "6": 41,
+                "7": 58
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 975
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "德和里",
+            "house_no": "237",
+            "candidates": {
+                "1": 11,
+                "2": 146,
+                "3": 51,
+                "4": 9,
+                "5": 264,
+                "6": 37,
+                "7": 64
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 909
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許水柳",
+            "party": "無"
+        },
+        "2": {
+            "name": "許建成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埤頭鄉",
+            "cunli": "平原村",
+            "house_no": "930",
+            "candidates": {
+                "1": 298,
+                "2": 319
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 967
+        },
+        {
+            "area": "埤頭鄉",
+            "cunli": "平原村",
+            "house_no": "931",
+            "candidates": {
+                "1": 349,
+                "2": 419
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1217
+        }
+    ]
+}

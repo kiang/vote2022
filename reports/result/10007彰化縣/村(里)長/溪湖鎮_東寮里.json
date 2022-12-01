@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "巫智成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪湖鎮",
+            "cunli": "東寮里",
+            "house_no": "679",
+            "candidates": {
+                "1": 642
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1207
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "東寮里",
+            "house_no": "680",
+            "candidates": {
+                "1": 488
+            },
+            "count_wrong": 95,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "溪湖鎮",
+            "cunli": "東寮里",
+            "house_no": "681",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1071
+        }
+    ]
+}

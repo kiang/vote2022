@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王志剛",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "昌隆里",
+            "house_no": "1415",
+            "candidates": {
+                "1": 683
+            },
+            "count_wrong": 160,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "大安區",
+            "cunli": "昌隆里",
+            "house_no": "1416",
+            "candidates": {
+                "1": 619
+            },
+            "count_wrong": 147,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

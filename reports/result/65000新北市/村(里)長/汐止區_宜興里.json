@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳清溪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "汐止區",
+            "cunli": "宜興里",
+            "house_no": "2659",
+            "candidates": {
+                "1": 573
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1231
+        },
+        {
+            "area": "汐止區",
+            "cunli": "宜興里",
+            "house_no": "2660",
+            "candidates": {
+                "1": 660
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1331
+        }
+    ]
+}

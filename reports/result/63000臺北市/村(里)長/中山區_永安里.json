@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "唐楷瀚",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭怡廷",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉春長",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "永安里",
+            "house_no": "952",
+            "candidates": {
+                "1": 363,
+                "2": 170,
+                "3": 287
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "中山區",
+            "cunli": "永安里",
+            "house_no": "953",
+            "candidates": {
+                "1": 341,
+                "2": 127,
+                "3": 275
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1019
+        },
+        {
+            "area": "中山區",
+            "cunli": "永安里",
+            "house_no": "954",
+            "candidates": {
+                "1": 368,
+                "2": 151,
+                "3": 346
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1250
+        },
+        {
+            "area": "中山區",
+            "cunli": "永安里",
+            "house_no": "955",
+            "candidates": {
+                "1": 368,
+                "2": 129,
+                "3": 247
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1183
+        },
+        {
+            "area": "中山區",
+            "cunli": "永安里",
+            "house_no": "956",
+            "candidates": {
+                "1": 409,
+                "2": 195,
+                "3": 261
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "中山區",
+            "cunli": "永安里",
+            "house_no": "957",
+            "candidates": {
+                "1": 293,
+                "2": 229,
+                "3": 291
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1160
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "白宏明",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖汶凌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "詔安里",
+            "house_no": "427",
+            "candidates": {
+                "1": 212,
+                "2": 366
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 969
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "詔安里",
+            "house_no": "428",
+            "candidates": {
+                "1": 118,
+                "2": 406
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 973
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃麗霓",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳建源",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳高美美",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "文山區",
+            "cunli": "萬有里",
+            "house_no": "1605",
+            "candidates": {
+                "1": 363,
+                "2": 101,
+                "3": 260
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬有里",
+            "house_no": "1606",
+            "candidates": {
+                "1": 327,
+                "2": 142,
+                "3": 314
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬有里",
+            "house_no": "1607",
+            "candidates": {
+                "1": 310,
+                "2": 68,
+                "3": 347
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1059
+        },
+        {
+            "area": "文山區",
+            "cunli": "萬有里",
+            "house_no": "1608",
+            "candidates": {
+                "1": 441,
+                "2": 65,
+                "3": 271
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1048
+        }
+    ]
+}

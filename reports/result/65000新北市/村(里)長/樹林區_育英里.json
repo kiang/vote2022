@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹炳新",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "育英里",
+            "house_no": "1801",
+            "candidates": {
+                "1": 703
+            },
+            "count_wrong": 106,
+            "count_unused": 0,
+            "count_total": 1411
+        },
+        {
+            "area": "樹林區",
+            "cunli": "育英里",
+            "house_no": "1802",
+            "candidates": {
+                "1": 633
+            },
+            "count_wrong": 22,
+            "count_unused": 109,
+            "count_total": 1291
+        }
+    ]
+}

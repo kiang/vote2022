@@ -1,0 +1,107 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳榮華",
+            "party": "無"
+        },
+        "3": {
+            "name": "何朝根",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳裕福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "造橋鄉",
+            "cunli": "大西村",
+            "house_no": "269",
+            "candidates": {
+                "1": 133,
+                "2": 78,
+                "3": 178,
+                "4": 51,
+                "5": 127,
+                "6": 33,
+                "7": 174
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1116
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "大西村",
+            "house_no": "270",
+            "candidates": {
+                "1": 130,
+                "2": 97,
+                "3": 114,
+                "4": 40,
+                "5": 155,
+                "6": 33,
+                "7": 154
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "大西村",
+            "house_no": "271",
+            "candidates": {
+                "1": 134,
+                "2": 85,
+                "3": 107,
+                "4": 222,
+                "5": 113,
+                "6": 18,
+                "7": 64
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1059
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "錦水村",
+            "house_no": "272",
+            "candidates": {
+                "1": 58,
+                "2": 53,
+                "3": 71,
+                "4": 19,
+                "5": 34,
+                "6": 18,
+                "7": 78
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 448
+        },
+        {
+            "area": "造橋鄉",
+            "cunli": "大龍村",
+            "house_no": "273",
+            "candidates": {
+                "1": 69,
+                "2": 26,
+                "3": 175,
+                "4": 25,
+                "5": 24,
+                "6": 12,
+                "7": 17
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 450
+        }
+    ]
+}

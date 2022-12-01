@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林大豐",
+            "party": "無"
+        },
+        "2": {
+            "name": "林彩英",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭莉莉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "玉里鎮",
+            "cunli": "樂合里",
+            "house_no": "300",
+            "candidates": {
+                "1": 126
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 292
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "東豐里",
+            "house_no": "301",
+            "candidates": {
+                "1": 170
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 291
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "觀音里",
+            "house_no": "302",
+            "candidates": {
+                "1": 276
+            },
+            "count_wrong": 55,
+            "count_unused": 1,
+            "count_total": 600
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "觀音里",
+            "house_no": "303",
+            "candidates": {
+                "1": 92
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 183
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "松浦里",
+            "house_no": "304",
+            "candidates": {
+                "1": 30
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 62
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "松浦里",
+            "house_no": "305",
+            "candidates": {
+                "1": 117
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 249
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "春日里",
+            "house_no": "306",
+            "candidates": {
+                "1": 158
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 295
+        },
+        {
+            "area": "玉里鎮",
+            "cunli": "德武里",
+            "house_no": "307",
+            "candidates": {
+                "1": 21
+            },
+            "count_wrong": 2,
+            "count_unused": 1,
+            "count_total": 53
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃信升",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃明道",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "將軍區",
+            "cunli": "苓仔寮里",
+            "house_no": "254",
+            "candidates": {
+                "1": 284,
+                "2": 124
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 556
+        },
+        {
+            "area": "將軍區",
+            "cunli": "苓仔寮里",
+            "house_no": "255",
+            "candidates": {
+                "1": 165,
+                "2": 86
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 367
+        },
+        {
+            "area": "將軍區",
+            "cunli": "苓仔寮里",
+            "house_no": "256",
+            "candidates": {
+                "1": 222,
+                "2": 184
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 551
+        },
+        {
+            "area": "將軍區",
+            "cunli": "苓仔寮里",
+            "house_no": "257",
+            "candidates": {
+                "1": 198,
+                "2": 120
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 448
+        }
+    ]
+}

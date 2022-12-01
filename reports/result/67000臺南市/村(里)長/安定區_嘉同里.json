@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王茂林",
+            "party": "無"
+        },
+        "2": {
+            "name": "王文章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安定區",
+            "cunli": "嘉同里",
+            "house_no": "576",
+            "candidates": {
+                "1": 200,
+                "2": 478
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "安定區",
+            "cunli": "嘉同里",
+            "house_no": "577",
+            "candidates": {
+                "1": 305,
+                "2": 438
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1158
+        }
+    ]
+}

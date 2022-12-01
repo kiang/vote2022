@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李黃玉根",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "徐庶崇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬華區",
+            "cunli": "福星里",
+            "house_no": "1250",
+            "candidates": {
+                "1": 374,
+                "2": 347
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1095
+        },
+        {
+            "area": "萬華區",
+            "cunli": "福星里",
+            "house_no": "1251",
+            "candidates": {
+                "1": 360,
+                "2": 332
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1104
+        },
+        {
+            "area": "萬華區",
+            "cunli": "福星里",
+            "house_no": "1252",
+            "candidates": {
+                "1": 389,
+                "2": 273
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1110
+        },
+        {
+            "area": "萬華區",
+            "cunli": "福星里",
+            "house_no": "1253",
+            "candidates": {
+                "1": 357,
+                "2": 286
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1045
+        }
+    ]
+}

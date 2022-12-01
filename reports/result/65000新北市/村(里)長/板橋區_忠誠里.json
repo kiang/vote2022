@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳玉蘭",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "忠誠里",
+            "house_no": "1066",
+            "candidates": {
+                "1": 598
+            },
+            "count_wrong": 81,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "板橋區",
+            "cunli": "忠誠里",
+            "house_no": "1067",
+            "candidates": {
+                "1": 767
+            },
+            "count_wrong": 86,
+            "count_unused": 1,
+            "count_total": 1307
+        },
+        {
+            "area": "板橋區",
+            "cunli": "忠誠里",
+            "house_no": "1068",
+            "candidates": {
+                "1": 569
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1051
+        }
+    ]
+}

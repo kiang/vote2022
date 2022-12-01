@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏道榮",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉日斌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "東勢里",
+            "house_no": "1089",
+            "candidates": {
+                "1": 258,
+                "2": 376
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "東勢里",
+            "house_no": "1090",
+            "candidates": {
+                "1": 441,
+                "2": 451
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1385
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "東勢里",
+            "house_no": "1091",
+            "candidates": {
+                "1": 457,
+                "2": 292
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "東勢里",
+            "house_no": "1092",
+            "candidates": {
+                "1": 450,
+                "2": 401
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1489
+        }
+    ]
+}

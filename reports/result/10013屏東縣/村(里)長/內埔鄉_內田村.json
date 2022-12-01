@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張耀五",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴榮梧",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "陳玉文",
+            "party": "無"
+        },
+        "4": {
+            "name": "管彥智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "內埔鄉",
+            "cunli": "內田村",
+            "house_no": "435",
+            "candidates": {
+                "1": 253,
+                "2": 168,
+                "3": 306,
+                "4": 71
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1474
+        },
+        {
+            "area": "內埔鄉",
+            "cunli": "內田村",
+            "house_no": "436",
+            "candidates": {
+                "1": 310,
+                "2": 139,
+                "3": 315,
+                "4": 116
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1590
+        }
+    ]
+}

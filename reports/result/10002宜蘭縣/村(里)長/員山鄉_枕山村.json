@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李朝成",
+            "party": "無"
+        },
+        "2": {
+            "name": "莊新隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員山鄉",
+            "cunli": "枕山村",
+            "house_no": "293",
+            "candidates": {
+                "1": 166,
+                "2": 302
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "枕山村",
+            "house_no": "294",
+            "candidates": {
+                "1": 255,
+                "2": 330
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 891
+        },
+        {
+            "area": "員山鄉",
+            "cunli": "枕山村",
+            "house_no": "295",
+            "candidates": {
+                "1": 84,
+                "2": 219
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 539
+        }
+    ]
+}

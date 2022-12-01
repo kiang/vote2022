@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉醇文",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "呂芳營",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "314",
+            "candidates": {
+                "1": 295,
+                "2": 405
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1345
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "315",
+            "candidates": {
+                "1": 162,
+                "2": 354
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 962
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "316",
+            "candidates": {
+                "1": 281,
+                "2": 270
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "317",
+            "candidates": {
+                "1": 314,
+                "2": 333
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1375
+        },
+        {
+            "area": "湖口鄉",
+            "cunli": "中興村",
+            "house_no": "318",
+            "candidates": {
+                "1": 282,
+                "2": 205
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1166
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃聰府",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "莿桐鄉",
+            "cunli": "興貴村",
+            "house_no": "423",
+            "candidates": {
+                "1": 341,
+                "2": 290
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 827
+        },
+        {
+            "area": "莿桐鄉",
+            "cunli": "興貴村",
+            "house_no": "424",
+            "candidates": {
+                "1": 482,
+                "2": 218
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 968
+        }
+    ]
+}

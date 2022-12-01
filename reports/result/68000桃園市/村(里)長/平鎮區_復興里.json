@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王燕惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭恭偉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "復興里",
+            "house_no": "1025",
+            "candidates": {
+                "1": 246,
+                "2": 494
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "復興里",
+            "house_no": "1026",
+            "candidates": {
+                "1": 219,
+                "2": 376
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 965
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "復興里",
+            "house_no": "1027",
+            "candidates": {
+                "1": 338,
+                "2": 563
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1304
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "復興里",
+            "house_no": "1028",
+            "candidates": {
+                "1": 369,
+                "2": 421
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1254
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李國鋒",
+            "party": "無"
+        },
+        "2": {
+            "name": "李賴象",
+            "party": "無"
+        },
+        "3": {
+            "name": "李妙女",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "斗南鎮",
+            "cunli": "田頭里",
+            "house_no": "586",
+            "candidates": {
+                "1": 270,
+                "2": 231,
+                "3": 284
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1171
+        },
+        {
+            "area": "斗南鎮",
+            "cunli": "田頭里",
+            "house_no": "587",
+            "candidates": {
+                "1": 221,
+                "2": 137,
+                "3": 246
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 926
+        }
+    ]
+}

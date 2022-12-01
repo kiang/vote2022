@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王淑美",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "宮玉梅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永和區",
+            "cunli": "福和里",
+            "house_no": "1631",
+            "candidates": {
+                "1": 423,
+                "2": 350
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1381
+        },
+        {
+            "area": "永和區",
+            "cunli": "福和里",
+            "house_no": "1632",
+            "candidates": {
+                "1": 487,
+                "2": 301
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "永和區",
+            "cunli": "福和里",
+            "house_no": "1633",
+            "candidates": {
+                "1": 491,
+                "2": 363
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1482
+        }
+    ]
+}

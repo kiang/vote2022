@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴文章",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "東光里",
+            "house_no": "1109",
+            "candidates": {
+                "1": 507
+            },
+            "count_wrong": 101,
+            "count_unused": 0,
+            "count_total": 1062
+        },
+        {
+            "area": "北屯區",
+            "cunli": "東光里",
+            "house_no": "1110",
+            "candidates": {
+                "1": 382
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "北屯區",
+            "cunli": "東光里",
+            "house_no": "1111",
+            "candidates": {
+                "1": 640
+            },
+            "count_wrong": 141,
+            "count_unused": 1,
+            "count_total": 1228
+        },
+        {
+            "area": "北屯區",
+            "cunli": "東光里",
+            "house_no": "1112",
+            "candidates": {
+                "1": 554
+            },
+            "count_wrong": 104,
+            "count_unused": 0,
+            "count_total": 1247
+        }
+    ]
+}

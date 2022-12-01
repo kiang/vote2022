@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂繼承",
+            "party": "無"
+        },
+        "2": {
+            "name": "李芊樺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林園區",
+            "cunli": "仁愛里",
+            "house_no": "2015",
+            "candidates": {
+                "1": 730,
+                "2": 185
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "林園區",
+            "cunli": "仁愛里",
+            "house_no": "2016",
+            "candidates": {
+                "1": 667,
+                "2": 210
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1418
+        }
+    ]
+}

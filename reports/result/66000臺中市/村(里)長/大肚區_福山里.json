@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖吉鈴",
+            "party": "無"
+        },
+        "2": {
+            "name": "林弘岳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大肚區",
+            "cunli": "福山里",
+            "house_no": "325",
+            "candidates": {
+                "1": 386,
+                "2": 411
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "大肚區",
+            "cunli": "福山里",
+            "house_no": "326",
+            "candidates": {
+                "1": 402,
+                "2": 389
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1208
+        },
+        {
+            "area": "大肚區",
+            "cunli": "福山里",
+            "house_no": "327",
+            "candidates": {
+                "1": 317,
+                "2": 322
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

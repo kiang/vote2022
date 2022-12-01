@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪世春",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳慶峰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "小港區",
+            "cunli": "小港里",
+            "house_no": "1789",
+            "candidates": {
+                "1": 489,
+                "2": 182
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1040
+        },
+        {
+            "area": "小港區",
+            "cunli": "小港里",
+            "house_no": "1790",
+            "candidates": {
+                "1": 403,
+                "2": 300
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1075
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許柏清",
+            "party": "無"
+        },
+        "2": {
+            "name": "周樹香",
+            "party": "無"
+        },
+        "3": {
+            "name": "謝光輝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "忠福里",
+            "house_no": "888",
+            "candidates": {
+                "1": 283,
+                "2": 87,
+                "3": 284
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 916
+        },
+        {
+            "area": "中壢區",
+            "cunli": "忠福里",
+            "house_no": "889",
+            "candidates": {
+                "1": 488,
+                "2": 158,
+                "3": 316
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1678
+        },
+        {
+            "area": "中壢區",
+            "cunli": "忠福里",
+            "house_no": "890",
+            "candidates": {
+                "1": 249,
+                "2": 116,
+                "3": 452
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1301
+        }
+    ]
+}

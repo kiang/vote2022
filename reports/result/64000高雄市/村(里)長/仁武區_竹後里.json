@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳德欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃常志",
+            "party": "無"
+        },
+        "3": {
+            "name": "錢重運",
+            "party": "公民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "仁武區",
+            "cunli": "竹後里",
+            "house_no": "764",
+            "candidates": {
+                "1": 279,
+                "2": 372,
+                "3": 18
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "仁武區",
+            "cunli": "竹後里",
+            "house_no": "765",
+            "candidates": {
+                "1": 327,
+                "2": 420,
+                "3": 13
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1139
+        }
+    ]
+}

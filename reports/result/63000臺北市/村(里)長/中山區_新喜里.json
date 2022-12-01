@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳昇陽",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "新喜里",
+            "house_no": "965",
+            "candidates": {
+                "1": 685
+            },
+            "count_wrong": 226,
+            "count_unused": 0,
+            "count_total": 1421
+        },
+        {
+            "area": "中山區",
+            "cunli": "新喜里",
+            "house_no": "966",
+            "candidates": {
+                "1": 698
+            },
+            "count_wrong": 211,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "中山區",
+            "cunli": "新喜里",
+            "house_no": "967",
+            "candidates": {
+                "1": 707
+            },
+            "count_wrong": 168,
+            "count_unused": 1,
+            "count_total": 1316
+        }
+    ]
+}

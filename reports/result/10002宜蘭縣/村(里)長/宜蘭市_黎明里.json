@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林文杰",
+            "party": "無"
+        },
+        "2": {
+            "name": "尤學揚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "黎明里",
+            "house_no": "52",
+            "candidates": {
+                "1": 179,
+                "2": 388
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 914
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "黎明里",
+            "house_no": "53",
+            "candidates": {
+                "1": 214,
+                "2": 378
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 919
+        }
+    ]
+}

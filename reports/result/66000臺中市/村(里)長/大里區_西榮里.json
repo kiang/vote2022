@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡尚諭",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅文評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大里區",
+            "cunli": "西榮里",
+            "house_no": "1703",
+            "candidates": {
+                "1": 337,
+                "2": 457
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1387
+        },
+        {
+            "area": "大里區",
+            "cunli": "西榮里",
+            "house_no": "1704",
+            "candidates": {
+                "1": 332,
+                "2": 428
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "大里區",
+            "cunli": "西榮里",
+            "house_no": "1705",
+            "candidates": {
+                "1": 298,
+                "2": 405
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1314
+        },
+        {
+            "area": "大里區",
+            "cunli": "西榮里",
+            "house_no": "1706",
+            "candidates": {
+                "1": 244,
+                "2": 512
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1278
+        }
+    ]
+}

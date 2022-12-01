@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王賓崑",
+            "party": "無"
+        },
+        "2": {
+            "name": "江雪卿",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "李宗成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "斯文里",
+            "house_no": "1107",
+            "candidates": {
+                "1": 87,
+                "2": 368,
+                "3": 131
+            },
+            "count_wrong": 17,
+            "count_unused": 1,
+            "count_total": 1001
+        },
+        {
+            "area": "大同區",
+            "cunli": "斯文里",
+            "house_no": "1108",
+            "candidates": {
+                "1": 151,
+                "2": 414,
+                "3": 126
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1026
+        },
+        {
+            "area": "大同區",
+            "cunli": "斯文里",
+            "house_no": "1109",
+            "candidates": {
+                "1": 117,
+                "2": 357,
+                "3": 156
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 958
+        },
+        {
+            "area": "大同區",
+            "cunli": "斯文里",
+            "house_no": "1110",
+            "candidates": {
+                "1": 96,
+                "2": 366,
+                "3": 171
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 895
+        }
+    ]
+}

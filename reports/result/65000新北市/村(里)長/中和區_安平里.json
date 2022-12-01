@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林芳飾",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "熊香鑾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "安平里",
+            "house_no": "1572",
+            "candidates": {
+                "1": 699,
+                "2": 359
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1706
+        },
+        {
+            "area": "中和區",
+            "cunli": "安平里",
+            "house_no": "1573",
+            "candidates": {
+                "1": 604,
+                "2": 357
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1606
+        },
+        {
+            "area": "中和區",
+            "cunli": "安平里",
+            "house_no": "1574",
+            "candidates": {
+                "1": 643,
+                "2": 369
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1638
+        }
+    ]
+}

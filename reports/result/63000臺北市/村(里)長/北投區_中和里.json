@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃景煌",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "中和里",
+            "house_no": "127",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 171,
+            "count_unused": 0,
+            "count_total": 1009
+        },
+        {
+            "area": "北投區",
+            "cunli": "中和里",
+            "house_no": "128",
+            "candidates": {
+                "1": 501
+            },
+            "count_wrong": 152,
+            "count_unused": 0,
+            "count_total": 1015
+        },
+        {
+            "area": "北投區",
+            "cunli": "中和里",
+            "house_no": "129",
+            "candidates": {
+                "1": 362
+            },
+            "count_wrong": 129,
+            "count_unused": 0,
+            "count_total": 747
+        },
+        {
+            "area": "北投區",
+            "cunli": "中和里",
+            "house_no": "130",
+            "candidates": {
+                "1": 613
+            },
+            "count_wrong": 254,
+            "count_unused": 0,
+            "count_total": 1198
+        }
+    ]
+}

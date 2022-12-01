@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "魏品",
+            "party": "無"
+        },
+        "2": {
+            "name": "胡耿銘",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "永靖鄉",
+            "cunli": "永西村",
+            "house_no": "642",
+            "candidates": {
+                "1": 110,
+                "2": 324
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 661
+        },
+        {
+            "area": "永靖鄉",
+            "cunli": "永西村",
+            "house_no": "643",
+            "candidates": {
+                "1": 175,
+                "2": 342
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 783
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹琇淳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秀美",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪正明",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉韋呈",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "海山里",
+            "house_no": "1185",
+            "candidates": {
+                "1": 71,
+                "2": 157,
+                "3": 191,
+                "4": 181
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "板橋區",
+            "cunli": "海山里",
+            "house_no": "1186",
+            "candidates": {
+                "1": 63,
+                "2": 106,
+                "3": 221,
+                "4": 235
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "板橋區",
+            "cunli": "海山里",
+            "house_no": "1187",
+            "candidates": {
+                "1": 46,
+                "2": 128,
+                "3": 230,
+                "4": 219
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 998
+        },
+        {
+            "area": "板橋區",
+            "cunli": "海山里",
+            "house_no": "1188",
+            "candidates": {
+                "1": 83,
+                "2": 136,
+                "3": 231,
+                "4": 182
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "板橋區",
+            "cunli": "海山里",
+            "house_no": "1189",
+            "candidates": {
+                "1": 73,
+                "2": 136,
+                "3": 193,
+                "4": 191
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 955
+        },
+        {
+            "area": "板橋區",
+            "cunli": "海山里",
+            "house_no": "1190",
+            "candidates": {
+                "1": 81,
+                "2": 146,
+                "3": 197,
+                "4": 176
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 954
+        }
+    ]
+}

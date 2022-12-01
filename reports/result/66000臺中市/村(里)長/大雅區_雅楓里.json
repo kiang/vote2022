@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張東開",
+            "party": "無"
+        },
+        "2": {
+            "name": "李桂福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "雅楓里",
+            "house_no": "638",
+            "candidates": {
+                "1": 429,
+                "2": 152
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1076
+        },
+        {
+            "area": "大雅區",
+            "cunli": "雅楓里",
+            "house_no": "639",
+            "candidates": {
+                "1": 436,
+                "2": 149
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1046
+        },
+        {
+            "area": "大雅區",
+            "cunli": "雅楓里",
+            "house_no": "640",
+            "candidates": {
+                "1": 442,
+                "2": 183
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1250
+        }
+    ]
+}

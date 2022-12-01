@@ -1,0 +1,106 @@
+{
+    "candidates": {
+        "1": {
+            "name": "施鴻銘",
+            "party": "無"
+        },
+        "2": {
+            "name": "張庭瑋",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪振恒",
+            "party": "民主進步黨"
+        },
+        "4": {
+            "name": "林堅祺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大同區",
+            "cunli": "雙連里",
+            "house_no": "1078",
+            "candidates": {
+                "1": 129,
+                "2": 138,
+                "3": 320,
+                "4": 180
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1170
+        },
+        {
+            "area": "大同區",
+            "cunli": "雙連里",
+            "house_no": "1079",
+            "candidates": {
+                "1": 131,
+                "2": 177,
+                "3": 374,
+                "4": 166
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "大同區",
+            "cunli": "雙連里",
+            "house_no": "1080",
+            "candidates": {
+                "1": 69,
+                "2": 109,
+                "3": 371,
+                "4": 147
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1067
+        },
+        {
+            "area": "大同區",
+            "cunli": "雙連里",
+            "house_no": "1081",
+            "candidates": {
+                "1": 99,
+                "2": 186,
+                "3": 320,
+                "4": 273
+            },
+            "count_wrong": 43,
+            "count_unused": 0,
+            "count_total": 1275
+        },
+        {
+            "area": "大同區",
+            "cunli": "雙連里",
+            "house_no": "1082",
+            "candidates": {
+                "1": 82,
+                "2": 257,
+                "3": 312,
+                "4": 165
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1266
+        },
+        {
+            "area": "大同區",
+            "cunli": "雙連里",
+            "house_no": "1083",
+            "candidates": {
+                "1": 80,
+                "2": 148,
+                "3": 253,
+                "4": 196
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1029
+        }
+    ]
+}

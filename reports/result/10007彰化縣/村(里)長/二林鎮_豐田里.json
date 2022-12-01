@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳朝章",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "二林鎮",
+            "cunli": "豐田里",
+            "house_no": "972",
+            "candidates": {
+                "1": 315
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "豐田里",
+            "house_no": "973",
+            "candidates": {
+                "1": 485
+            },
+            "count_wrong": 113,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "二林鎮",
+            "cunli": "豐田里",
+            "house_no": "974",
+            "candidates": {
+                "1": 329
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 745
+        }
+    ]
+}

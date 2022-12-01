@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "邱繼村",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "鄭淑霞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "大智里",
+            "house_no": "462",
+            "candidates": {
+                "1": 372,
+                "2": 444
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1402
+        },
+        {
+            "area": "八德區",
+            "cunli": "大智里",
+            "house_no": "463",
+            "candidates": {
+                "1": 448,
+                "2": 379
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1368
+        },
+        {
+            "area": "八德區",
+            "cunli": "大智里",
+            "house_no": "464",
+            "candidates": {
+                "1": 322,
+                "2": 499
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1323
+        }
+    ]
+}

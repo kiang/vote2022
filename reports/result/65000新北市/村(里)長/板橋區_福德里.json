@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉慧琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳志榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "福德里",
+            "house_no": "1244",
+            "candidates": {
+                "1": 333,
+                "2": 303
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1097
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福德里",
+            "house_no": "1245",
+            "candidates": {
+                "1": 564,
+                "2": 439
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1571
+        },
+        {
+            "area": "板橋區",
+            "cunli": "福德里",
+            "house_no": "1246",
+            "candidates": {
+                "1": 414,
+                "2": 433
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1450
+        }
+    ]
+}

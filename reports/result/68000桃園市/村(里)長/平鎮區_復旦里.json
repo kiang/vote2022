@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊允中",
+            "party": "無"
+        },
+        "2": {
+            "name": "李文祥",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳振華",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "復旦里",
+            "house_no": "1021",
+            "candidates": {
+                "1": 163,
+                "2": 319,
+                "3": 323
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1235
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "復旦里",
+            "house_no": "1022",
+            "candidates": {
+                "1": 313,
+                "2": 173,
+                "3": 254
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1278
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "復旦里",
+            "house_no": "1023",
+            "candidates": {
+                "1": 244,
+                "2": 298,
+                "3": 247
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1348
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "復旦里",
+            "house_no": "1024",
+            "candidates": {
+                "1": 195,
+                "2": 207,
+                "3": 368
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1292
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉祥鏗",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖定川",
+            "party": "無"
+        },
+        "3": {
+            "name": "鄭麗鴻",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "五福里",
+            "house_no": "544",
+            "candidates": {
+                "1": 89,
+                "2": 391,
+                "3": 276
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "五福里",
+            "house_no": "545",
+            "candidates": {
+                "1": 82,
+                "2": 267,
+                "3": 310
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1146
+        }
+    ]
+}

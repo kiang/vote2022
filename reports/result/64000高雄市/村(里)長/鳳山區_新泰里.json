@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林振亮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "歐諺霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "新泰里",
+            "house_no": "1559",
+            "candidates": {
+                "1": 293,
+                "2": 464
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新泰里",
+            "house_no": "1560",
+            "candidates": {
+                "1": 303,
+                "2": 387
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新泰里",
+            "house_no": "1561",
+            "candidates": {
+                "1": 284,
+                "2": 381
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1185
+        }
+    ]
+}

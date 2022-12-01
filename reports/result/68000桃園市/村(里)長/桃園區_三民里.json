@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "康進旺",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "三民里",
+            "house_no": "206",
+            "candidates": {
+                "1": 707
+            },
+            "count_wrong": 121,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "桃園區",
+            "cunli": "三民里",
+            "house_no": "207",
+            "candidates": {
+                "1": 727
+            },
+            "count_wrong": 140,
+            "count_unused": 0,
+            "count_total": 1298
+        },
+        {
+            "area": "桃園區",
+            "cunli": "三民里",
+            "house_no": "208",
+            "candidates": {
+                "1": 720
+            },
+            "count_wrong": 96,
+            "count_unused": 0,
+            "count_total": 1324
+        }
+    ]
+}

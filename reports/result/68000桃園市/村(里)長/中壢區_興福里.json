@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂雲釧",
+            "party": "無"
+        },
+        "2": {
+            "name": "廖國光",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "興福里",
+            "house_no": "885",
+            "candidates": {
+                "1": 303,
+                "2": 441
+            },
+            "count_wrong": 37,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興福里",
+            "house_no": "886",
+            "candidates": {
+                "1": 257,
+                "2": 393
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1181
+        },
+        {
+            "area": "中壢區",
+            "cunli": "興福里",
+            "house_no": "887",
+            "candidates": {
+                "1": 363,
+                "2": 444
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1321
+        }
+    ]
+}

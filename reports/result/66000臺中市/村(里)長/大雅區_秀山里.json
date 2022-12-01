@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張銀宗",
+            "party": "無"
+        },
+        "2": {
+            "name": "張嘉宏",
+            "party": "無"
+        },
+        "3": {
+            "name": "蔡亜玲",
+            "party": "無"
+        },
+        "4": {
+            "name": "蔡錦瑭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大雅區",
+            "cunli": "秀山里",
+            "house_no": "651",
+            "candidates": {
+                "1": 24,
+                "2": 182,
+                "3": 96,
+                "4": 359
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1006
+        },
+        {
+            "area": "大雅區",
+            "cunli": "秀山里",
+            "house_no": "652",
+            "candidates": {
+                "1": 56,
+                "2": 190,
+                "3": 85,
+                "4": 439
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1134
+        },
+        {
+            "area": "大雅區",
+            "cunli": "秀山里",
+            "house_no": "653",
+            "candidates": {
+                "1": 51,
+                "2": 324,
+                "3": 74,
+                "4": 358
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳炘炫",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳水波",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳豊平",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "中和里",
+            "house_no": "435",
+            "candidates": {
+                "1": 214,
+                "2": 359,
+                "3": 225
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1160
+        },
+        {
+            "area": "后里區",
+            "cunli": "中和里",
+            "house_no": "436",
+            "candidates": {
+                "1": 189,
+                "2": 335,
+                "3": 206
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1133
+        }
+    ]
+}

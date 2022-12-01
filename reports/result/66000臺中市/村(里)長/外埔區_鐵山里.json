@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王焜達",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉圳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "外埔區",
+            "cunli": "鐵山里",
+            "house_no": "92",
+            "candidates": {
+                "1": 224,
+                "2": 408
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "外埔區",
+            "cunli": "鐵山里",
+            "house_no": "93",
+            "candidates": {
+                "1": 308,
+                "2": 477
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1136
+        }
+    ]
+}

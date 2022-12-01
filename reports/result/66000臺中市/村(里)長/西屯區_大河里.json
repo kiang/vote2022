@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁月玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳資源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "大河里",
+            "house_no": "818",
+            "candidates": {
+                "1": 433,
+                "2": 360
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1197
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大河里",
+            "house_no": "819",
+            "candidates": {
+                "1": 367,
+                "2": 477
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1214
+        },
+        {
+            "area": "西屯區",
+            "cunli": "大河里",
+            "house_no": "820",
+            "candidates": {
+                "1": 296,
+                "2": 469
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1204
+        }
+    ]
+}

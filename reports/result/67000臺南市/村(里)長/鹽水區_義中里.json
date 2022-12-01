@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳續賢",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹽水區",
+            "cunli": "義中里",
+            "house_no": "99",
+            "candidates": {
+                "1": 400
+            },
+            "count_wrong": 66,
+            "count_unused": 0,
+            "count_total": 804
+        },
+        {
+            "area": "鹽水區",
+            "cunli": "義中里",
+            "house_no": "100",
+            "candidates": {
+                "1": 300
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 695
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃永進",
+            "party": "青年陽光黨"
+        },
+        "2": {
+            "name": "李志勇",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "王明明",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "正義里",
+            "house_no": "899",
+            "candidates": {
+                "1": 163,
+                "2": 569,
+                "3": 169
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1494
+        },
+        {
+            "area": "中山區",
+            "cunli": "正義里",
+            "house_no": "900",
+            "candidates": {
+                "1": 86,
+                "2": 621,
+                "3": 137
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1420
+        },
+        {
+            "area": "中山區",
+            "cunli": "正義里",
+            "house_no": "901",
+            "candidates": {
+                "1": 136,
+                "2": 537,
+                "3": 136
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1333
+        }
+    ]
+}

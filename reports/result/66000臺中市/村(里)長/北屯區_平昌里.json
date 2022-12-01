@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉慶雲",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "北屯區",
+            "cunli": "平昌里",
+            "house_no": "1058",
+            "candidates": {
+                "1": 482
+            },
+            "count_wrong": 90,
+            "count_unused": 1,
+            "count_total": 1094
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平昌里",
+            "house_no": "1059",
+            "candidates": {
+                "1": 454
+            },
+            "count_wrong": 91,
+            "count_unused": 0,
+            "count_total": 989
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平昌里",
+            "house_no": "1060",
+            "candidates": {
+                "1": 522
+            },
+            "count_wrong": 120,
+            "count_unused": 0,
+            "count_total": 1139
+        },
+        {
+            "area": "北屯區",
+            "cunli": "平昌里",
+            "house_no": "1061",
+            "candidates": {
+                "1": 448
+            },
+            "count_wrong": 92,
+            "count_unused": 0,
+            "count_total": 957
+        }
+    ]
+}

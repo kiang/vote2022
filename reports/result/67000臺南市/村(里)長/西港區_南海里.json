@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃光暉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西港區",
+            "cunli": "南海里",
+            "house_no": "349",
+            "candidates": {
+                "1": 389
+            },
+            "count_wrong": 76,
+            "count_unused": 0,
+            "count_total": 884
+        },
+        {
+            "area": "西港區",
+            "cunli": "南海里",
+            "house_no": "350",
+            "candidates": {
+                "1": 408
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 863
+        },
+        {
+            "area": "西港區",
+            "cunli": "南海里",
+            "house_no": "351",
+            "candidates": {
+                "1": 348
+            },
+            "count_wrong": 62,
+            "count_unused": 0,
+            "count_total": 722
+        }
+    ]
+}

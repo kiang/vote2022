@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周家才",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "何鴻樟",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "周水池",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金沙鎮",
+            "cunli": "浦山里",
+            "house_no": "82",
+            "candidates": {
+                "1": 255,
+                "2": 124,
+                "3": 154
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1199
+        },
+        {
+            "area": "金沙鎮",
+            "cunli": "浦山里",
+            "house_no": "83",
+            "candidates": {
+                "1": 264,
+                "2": 57,
+                "3": 67
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1085
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃寬量",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "寶山里",
+            "house_no": "254",
+            "candidates": {
+                "1": 742
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1484
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶山里",
+            "house_no": "255",
+            "candidates": {
+                "1": 729
+            },
+            "count_wrong": 55,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "桃園區",
+            "cunli": "寶山里",
+            "house_no": "256",
+            "candidates": {
+                "1": 693
+            },
+            "count_wrong": 64,
+            "count_unused": 0,
+            "count_total": 1280
+        }
+    ]
+}

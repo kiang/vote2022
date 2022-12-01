@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張芝瑜",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "72",
+            "candidates": {
+                "1": 354
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "73",
+            "candidates": {
+                "1": 350
+            },
+            "count_wrong": 50,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "74",
+            "candidates": {
+                "1": 316
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 870
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "國盛里",
+            "house_no": "75",
+            "candidates": {
+                "1": 356
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 875
+        }
+    ]
+}

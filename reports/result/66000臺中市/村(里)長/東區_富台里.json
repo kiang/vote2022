@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳治強",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "宋耀華",
+            "party": "無"
+        },
+        "3": {
+            "name": "石國勳",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "富台里",
+            "house_no": "1412",
+            "candidates": {
+                "1": 175,
+                "2": 64,
+                "3": 217
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 752
+        },
+        {
+            "area": "東區",
+            "cunli": "富台里",
+            "house_no": "1413",
+            "candidates": {
+                "1": 223,
+                "2": 79,
+                "3": 237
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 892
+        }
+    ]
+}

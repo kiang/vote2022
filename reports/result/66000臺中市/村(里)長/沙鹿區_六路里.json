@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳永祥",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄭啟霖",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "沙鹿區",
+            "cunli": "六路里",
+            "house_no": "243",
+            "candidates": {
+                "1": 372,
+                "2": 445
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "六路里",
+            "house_no": "244",
+            "candidates": {
+                "1": 300,
+                "2": 356
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1202
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "六路里",
+            "house_no": "245",
+            "candidates": {
+                "1": 485,
+                "2": 269
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "沙鹿區",
+            "cunli": "六路里",
+            "house_no": "246",
+            "candidates": {
+                "1": 430,
+                "2": 374
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1393
+        }
+    ]
+}

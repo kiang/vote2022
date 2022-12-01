@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳麗梅",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃瑞茹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "聯翠里",
+            "house_no": "1092",
+            "candidates": {
+                "1": 405,
+                "2": 167
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1013
+        },
+        {
+            "area": "板橋區",
+            "cunli": "聯翠里",
+            "house_no": "1093",
+            "candidates": {
+                "1": 477,
+                "2": 145
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1054
+        },
+        {
+            "area": "板橋區",
+            "cunli": "聯翠里",
+            "house_no": "1094",
+            "candidates": {
+                "1": 452,
+                "2": 170
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1054
+        }
+    ]
+}

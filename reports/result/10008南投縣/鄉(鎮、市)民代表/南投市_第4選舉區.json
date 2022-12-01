@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許惠菁",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳銘政",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南投市",
+            "cunli": "鳳山里",
+            "house_no": "80",
+            "candidates": {
+                "1": 208,
+                "2": 442
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 997
+        },
+        {
+            "area": "南投市",
+            "cunli": "永興里",
+            "house_no": "81",
+            "candidates": {
+                "1": 330,
+                "2": 233
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 738
+        },
+        {
+            "area": "南投市",
+            "cunli": "鳳鳴里",
+            "house_no": "82",
+            "candidates": {
+                "1": 145,
+                "2": 270
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 582
+        },
+        {
+            "area": "南投市",
+            "cunli": "福山里",
+            "house_no": "83",
+            "candidates": {
+                "1": 465,
+                "2": 193
+            },
+            "count_wrong": 24,
+            "count_unused": 1,
+            "count_total": 948
+        },
+        {
+            "area": "南投市",
+            "cunli": "福山里",
+            "house_no": "84",
+            "candidates": {
+                "1": 454,
+                "2": 190
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 869
+        }
+    ]
+}

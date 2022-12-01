@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡淑齡",
+            "party": "無"
+        },
+        "2": {
+            "name": "塗夢龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉家榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "金竹里",
+            "house_no": "253",
+            "candidates": {
+                "1": 151,
+                "2": 261,
+                "3": 287
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1126
+        },
+        {
+            "area": "北區",
+            "cunli": "金竹里",
+            "house_no": "254",
+            "candidates": {
+                "1": 147,
+                "2": 295,
+                "3": 268
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1135
+        },
+        {
+            "area": "北區",
+            "cunli": "金竹里",
+            "house_no": "255",
+            "candidates": {
+                "1": 88,
+                "2": 196,
+                "3": 370
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "北區",
+            "cunli": "金竹里",
+            "house_no": "256",
+            "candidates": {
+                "1": 129,
+                "2": 255,
+                "3": 286
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1127
+        },
+        {
+            "area": "北區",
+            "cunli": "金竹里",
+            "house_no": "257",
+            "candidates": {
+                "1": 93,
+                "2": 190,
+                "3": 319
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1027
+        }
+    ]
+}

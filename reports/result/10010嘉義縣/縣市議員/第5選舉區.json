@@ -1,0 +1,820 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡信典",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "翁聰賢",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "黃金茂",
+            "party": "無"
+        },
+        "4": {
+            "name": "陳鳳梅",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "布袋鎮",
+            "cunli": "岱江里",
+            "house_no": "355",
+            "candidates": {
+                "1": 175,
+                "2": 93,
+                "3": 40,
+                "4": 89
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 571
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "九龍里",
+            "house_no": "356",
+            "candidates": {
+                "1": 77,
+                "2": 49,
+                "3": 41,
+                "4": 53
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 344
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "岑海里",
+            "house_no": "357",
+            "candidates": {
+                "1": 242,
+                "2": 168,
+                "3": 58,
+                "4": 98
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 890
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "岑海里",
+            "house_no": "358",
+            "candidates": {
+                "1": 274,
+                "2": 300,
+                "3": 79,
+                "4": 145
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1157
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "興中里",
+            "house_no": "359",
+            "candidates": {
+                "1": 197,
+                "2": 151,
+                "3": 97,
+                "4": 152
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1018
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "光復里",
+            "house_no": "360",
+            "candidates": {
+                "1": 230,
+                "2": 127,
+                "3": 72,
+                "4": 152
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 906
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "光復里",
+            "house_no": "361",
+            "candidates": {
+                "1": 185,
+                "2": 78,
+                "3": 53,
+                "4": 106
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 629
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "見龍里",
+            "house_no": "362",
+            "candidates": {
+                "1": 198,
+                "2": 76,
+                "3": 80,
+                "4": 169
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 817
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "新厝里",
+            "house_no": "363",
+            "candidates": {
+                "1": 106,
+                "2": 94,
+                "3": 58,
+                "4": 152
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 657
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "龍江里",
+            "house_no": "364",
+            "candidates": {
+                "1": 148,
+                "2": 99,
+                "3": 80,
+                "4": 148
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 703
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "振寮里",
+            "house_no": "365",
+            "candidates": {
+                "1": 140,
+                "2": 86,
+                "3": 54,
+                "4": 133
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 675
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "西安里",
+            "house_no": "366",
+            "candidates": {
+                "1": 145,
+                "2": 226,
+                "3": 115,
+                "4": 203
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1072
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "中安里",
+            "house_no": "367",
+            "candidates": {
+                "1": 230,
+                "2": 221,
+                "3": 124,
+                "4": 265
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1307
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東安里",
+            "house_no": "368",
+            "candidates": {
+                "1": 153,
+                "2": 264,
+                "3": 98,
+                "4": 276
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1240
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "樹林里",
+            "house_no": "369",
+            "candidates": {
+                "1": 44,
+                "2": 34,
+                "3": 55,
+                "4": 121
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 295
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "樹林里",
+            "house_no": "370",
+            "candidates": {
+                "1": 52,
+                "2": 37,
+                "3": 21,
+                "4": 84
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 233
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "貴舍里",
+            "house_no": "371",
+            "candidates": {
+                "1": 98,
+                "2": 43,
+                "3": 146,
+                "4": 175
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 607
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "永安里",
+            "house_no": "372",
+            "candidates": {
+                "1": 103,
+                "2": 152,
+                "3": 244,
+                "4": 177
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1055
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東港里",
+            "house_no": "373",
+            "candidates": {
+                "1": 205,
+                "2": 109,
+                "3": 154,
+                "4": 111
+            },
+            "count_wrong": 16,
+            "count_unused": 1,
+            "count_total": 903
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東港里",
+            "house_no": "374",
+            "candidates": {
+                "1": 113,
+                "2": 104,
+                "3": 190,
+                "4": 121
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 900
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "江山里",
+            "house_no": "375",
+            "candidates": {
+                "1": 30,
+                "2": 64,
+                "3": 43,
+                "4": 34
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 264
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "菜舖里",
+            "house_no": "376",
+            "candidates": {
+                "1": 36,
+                "2": 48,
+                "3": 34,
+                "4": 105
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 365
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "考試里",
+            "house_no": "377",
+            "candidates": {
+                "1": 10,
+                "2": 16,
+                "3": 15,
+                "4": 19
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 110
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "考試里",
+            "house_no": "378",
+            "candidates": {
+                "1": 17,
+                "2": 21,
+                "3": 9,
+                "4": 39
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 153
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "新岑里",
+            "house_no": "379",
+            "candidates": {
+                "1": 104,
+                "2": 75,
+                "3": 67,
+                "4": 332
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "新民里",
+            "house_no": "380",
+            "candidates": {
+                "1": 351,
+                "2": 49,
+                "3": 51,
+                "4": 402
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1273
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "復興里",
+            "house_no": "381",
+            "candidates": {
+                "1": 239,
+                "2": 61,
+                "3": 25,
+                "4": 285
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1032
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "復興里",
+            "house_no": "382",
+            "candidates": {
+                "1": 275,
+                "2": 28,
+                "3": 33,
+                "4": 371
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1178
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "好美里義竹鄉",
+            "house_no": "383",
+            "candidates": {
+                "1": 524,
+                "2": 56,
+                "3": 39,
+                "4": 176
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1073
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "岸腳村",
+            "house_no": "384",
+            "candidates": {
+                "1": 42,
+                "2": 119,
+                "3": 128,
+                "4": 29
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 426
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "岸腳村",
+            "house_no": "385",
+            "candidates": {
+                "1": 22,
+                "2": 68,
+                "3": 51,
+                "4": 14
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 196
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "義竹村",
+            "house_no": "386",
+            "candidates": {
+                "1": 126,
+                "2": 214,
+                "3": 185,
+                "4": 43
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 775
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "義竹村",
+            "house_no": "387",
+            "candidates": {
+                "1": 100,
+                "2": 114,
+                "3": 163,
+                "4": 45
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 611
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "六桂村",
+            "house_no": "388",
+            "candidates": {
+                "1": 177,
+                "2": 249,
+                "3": 289,
+                "4": 50
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1098
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "仁里村",
+            "house_no": "389",
+            "candidates": {
+                "1": 214,
+                "2": 154,
+                "3": 191,
+                "4": 46
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 823
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "傳芳村",
+            "house_no": "390",
+            "candidates": {
+                "1": 95,
+                "2": 194,
+                "3": 187,
+                "4": 32
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 706
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "頭竹村",
+            "house_no": "391",
+            "candidates": {
+                "1": 65,
+                "2": 258,
+                "3": 407,
+                "4": 121
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1150
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "五厝村",
+            "house_no": "392",
+            "candidates": {
+                "1": 48,
+                "2": 119,
+                "3": 87,
+                "4": 20
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "中平村",
+            "house_no": "393",
+            "candidates": {
+                "1": 35,
+                "2": 33,
+                "3": 114,
+                "4": 3
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 300
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "中平村",
+            "house_no": "394",
+            "candidates": {
+                "1": 13,
+                "2": 14,
+                "3": 41,
+                "4": 1
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 90
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "埤前村",
+            "house_no": "395",
+            "candidates": {
+                "1": 60,
+                "2": 148,
+                "3": 290,
+                "4": 43
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 688
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "平溪村",
+            "house_no": "396",
+            "candidates": {
+                "1": 45,
+                "2": 110,
+                "3": 137,
+                "4": 37
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 404
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "後鎮村",
+            "house_no": "397",
+            "candidates": {
+                "1": 14,
+                "2": 27,
+                "3": 203,
+                "4": 20
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 400
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "北華村",
+            "house_no": "398",
+            "candidates": {
+                "1": 36,
+                "2": 102,
+                "3": 143,
+                "4": 50
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 558
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "新店村",
+            "house_no": "399",
+            "candidates": {
+                "1": 48,
+                "2": 87,
+                "3": 139,
+                "4": 54
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 513
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "新店村",
+            "house_no": "400",
+            "candidates": {
+                "1": 89,
+                "2": 191,
+                "3": 224,
+                "4": 83
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 881
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東過村",
+            "house_no": "401",
+            "candidates": {
+                "1": 62,
+                "2": 234,
+                "3": 223,
+                "4": 57
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 791
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "西過村",
+            "house_no": "402",
+            "candidates": {
+                "1": 34,
+                "2": 199,
+                "3": 277,
+                "4": 55
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 779
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "官和村",
+            "house_no": "403",
+            "candidates": {
+                "1": 27,
+                "2": 126,
+                "3": 238,
+                "4": 131
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 764
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "官順村",
+            "house_no": "404",
+            "candidates": {
+                "1": 36,
+                "2": 75,
+                "3": 107,
+                "4": 75
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 401
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "新富村",
+            "house_no": "405",
+            "candidates": {
+                "1": 58,
+                "2": 99,
+                "3": 158,
+                "4": 44
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 501
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東光村",
+            "house_no": "406",
+            "candidates": {
+                "1": 12,
+                "2": 162,
+                "3": 205,
+                "4": 23
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 548
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東光村",
+            "house_no": "407",
+            "candidates": {
+                "1": 31,
+                "2": 18,
+                "3": 33,
+                "4": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 127
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "東榮村",
+            "house_no": "408",
+            "candidates": {
+                "1": 29,
+                "2": 90,
+                "3": 139,
+                "4": 18
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 367
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "龍蛟村",
+            "house_no": "409",
+            "candidates": {
+                "1": 66,
+                "2": 146,
+                "3": 177,
+                "4": 33
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 530
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "溪洲村",
+            "house_no": "410",
+            "candidates": {
+                "1": 31,
+                "2": 168,
+                "3": 132,
+                "4": 35
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 488
+        },
+        {
+            "area": "布袋鎮",
+            "cunli": "溪洲村",
+            "house_no": "411",
+            "candidates": {
+                "1": 1,
+                "2": 61,
+                "3": 18,
+                "4": 4
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 116
+        }
+    ]
+}

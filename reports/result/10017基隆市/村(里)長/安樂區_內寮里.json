@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "嚴福神",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳玉慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安樂區",
+            "cunli": "內寮里",
+            "house_no": "206",
+            "candidates": {
+                "1": 461,
+                "2": 225
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1210
+        },
+        {
+            "area": "安樂區",
+            "cunli": "內寮里",
+            "house_no": "207",
+            "candidates": {
+                "1": 455,
+                "2": 281
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1351
+        },
+        {
+            "area": "安樂區",
+            "cunli": "內寮里",
+            "house_no": "208",
+            "candidates": {
+                "1": 445,
+                "2": 347
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "安樂區",
+            "cunli": "內寮里",
+            "house_no": "209",
+            "candidates": {
+                "1": 439,
+                "2": 244
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1289
+        }
+    ]
+}

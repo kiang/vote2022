@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "傅秀錦",
+            "party": "無"
+        },
+        "2": {
+            "name": "郭金龍",
+            "party": "民主進步黨"
+        },
+        "3": {
+            "name": "馮珮媗",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "中央里",
+            "house_no": "855",
+            "candidates": {
+                "1": 111,
+                "2": 342,
+                "3": 491
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1647
+        }
+    ]
+}

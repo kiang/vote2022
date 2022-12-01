@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王世杰",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃慶富",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳咸愿",
+            "party": "無"
+        },
+        "4": {
+            "name": "林坤泉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西區",
+            "cunli": "双龍里",
+            "house_no": "1332",
+            "candidates": {
+                "1": 271,
+                "2": 20,
+                "3": 103,
+                "4": 355
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1204
+        },
+        {
+            "area": "西區",
+            "cunli": "双龍里",
+            "house_no": "1333",
+            "candidates": {
+                "1": 204,
+                "2": 17,
+                "3": 147,
+                "4": 415
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1345
+        }
+    ]
+}

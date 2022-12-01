@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林砡朱",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "蘭潭里",
+            "house_no": "3",
+            "candidates": {
+                "1": 429
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1001
+        },
+        {
+            "area": "東區",
+            "cunli": "蘭潭里",
+            "house_no": "4",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1144
+        }
+    ]
+}

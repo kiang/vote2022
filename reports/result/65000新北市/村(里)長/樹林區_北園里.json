@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王仲卿",
+            "party": "無"
+        },
+        "2": {
+            "name": "林忠池",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "樹林區",
+            "cunli": "北園里",
+            "house_no": "1860",
+            "candidates": {
+                "1": 279,
+                "2": 265
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 912
+        },
+        {
+            "area": "樹林區",
+            "cunli": "北園里",
+            "house_no": "1861",
+            "candidates": {
+                "1": 308,
+                "2": 287
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 937
+        }
+    ]
+}

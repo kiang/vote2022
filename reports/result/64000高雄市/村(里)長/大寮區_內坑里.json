@@ -1,0 +1,96 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃慶福",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "黃裕玲",
+            "party": "無"
+        },
+        "3": {
+            "name": "俞金富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大寮區",
+            "cunli": "內坑里",
+            "house_no": "1890",
+            "candidates": {
+                "1": 516,
+                "2": 227,
+                "3": 52
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1270
+        },
+        {
+            "area": "大寮區",
+            "cunli": "內坑里",
+            "house_no": "1891",
+            "candidates": {
+                "1": 285,
+                "2": 131,
+                "3": 34
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 851
+        },
+        {
+            "area": "大寮區",
+            "cunli": "內坑里",
+            "house_no": "1892",
+            "candidates": {
+                "1": 165,
+                "2": 170,
+                "3": 44
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 713
+        },
+        {
+            "area": "大寮區",
+            "cunli": "內坑里",
+            "house_no": "1893",
+            "candidates": {
+                "1": 125,
+                "2": 102,
+                "3": 17
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 404
+        },
+        {
+            "area": "大寮區",
+            "cunli": "內坑里",
+            "house_no": "1894",
+            "candidates": {
+                "1": 241,
+                "2": 266,
+                "3": 143
+            },
+            "count_wrong": 11,
+            "count_unused": 9,
+            "count_total": 1197
+        },
+        {
+            "area": "大寮區",
+            "cunli": "內坑里",
+            "house_no": "1895",
+            "candidates": {
+                "1": 144,
+                "2": 146,
+                "3": 166
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1124
+        }
+    ]
+}

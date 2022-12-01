@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳勤招",
+            "party": "無"
+        },
+        "2": {
+            "name": "張燈福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "杉林區",
+            "cunli": "新庄里",
+            "house_no": "36",
+            "candidates": {
+                "1": 306,
+                "2": 213
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 946
+        },
+        {
+            "area": "杉林區",
+            "cunli": "新庄里",
+            "house_no": "37",
+            "candidates": {
+                "1": 272,
+                "2": 22
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 448
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "戴大川",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳麗如",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "將軍區",
+            "cunli": "西甲里",
+            "house_no": "247",
+            "candidates": {
+                "1": 208,
+                "2": 284
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 769
+        },
+        {
+            "area": "將軍區",
+            "cunli": "西甲里",
+            "house_no": "248",
+            "candidates": {
+                "1": 250,
+                "2": 172
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 627
+        },
+        {
+            "area": "將軍區",
+            "cunli": "西甲里",
+            "house_no": "249",
+            "candidates": {
+                "1": 332,
+                "2": 251
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 858
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳仁傑",
+            "party": "無"
+        },
+        "2": {
+            "name": "許玉娟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三重區",
+            "cunli": "成功里",
+            "house_no": "767",
+            "candidates": {
+                "1": 242,
+                "2": 372
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "三重區",
+            "cunli": "成功里",
+            "house_no": "768",
+            "candidates": {
+                "1": 283,
+                "2": 339
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1108
+        },
+        {
+            "area": "三重區",
+            "cunli": "成功里",
+            "house_no": "769",
+            "candidates": {
+                "1": 431,
+                "2": 632
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 1941
+        },
+        {
+            "area": "三重區",
+            "cunli": "成功里",
+            "house_no": "770",
+            "candidates": {
+                "1": 354,
+                "2": 597
+            },
+            "count_wrong": 35,
+            "count_unused": 0,
+            "count_total": 1736
+        }
+    ]
+}

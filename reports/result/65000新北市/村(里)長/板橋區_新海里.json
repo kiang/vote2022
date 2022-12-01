@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡慶發",
+            "party": "無"
+        },
+        "2": {
+            "name": "宋靜庭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "新海里",
+            "house_no": "1117",
+            "candidates": {
+                "1": 285,
+                "2": 277
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新海里",
+            "house_no": "1118",
+            "candidates": {
+                "1": 265,
+                "2": 278
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 904
+        },
+        {
+            "area": "板橋區",
+            "cunli": "新海里",
+            "house_no": "1119",
+            "candidates": {
+                "1": 280,
+                "2": 395
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1016
+        }
+    ]
+}

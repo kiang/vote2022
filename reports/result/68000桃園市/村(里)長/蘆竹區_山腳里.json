@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文村",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐慶堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "山腳里",
+            "house_no": "570",
+            "candidates": {
+                "1": 399,
+                "2": 382
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1152
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "山腳里",
+            "house_no": "571",
+            "candidates": {
+                "1": 328,
+                "2": 480
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1177
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "山腳里",
+            "house_no": "572",
+            "candidates": {
+                "1": 310,
+                "2": 424
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1114
+        }
+    ]
+}

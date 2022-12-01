@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉淑珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳秀鑾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "西螺鎮",
+            "cunli": "振興里",
+            "house_no": "369",
+            "candidates": {
+                "1": 110,
+                "2": 347
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 716
+        },
+        {
+            "area": "西螺鎮",
+            "cunli": "振興里",
+            "house_no": "370",
+            "candidates": {
+                "1": 146,
+                "2": 345
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 736
+        }
+    ]
+}

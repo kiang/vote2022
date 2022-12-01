@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林仁凱",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "蔡崇城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "連城里",
+            "house_no": "1360",
+            "candidates": {
+                "1": 598,
+                "2": 349
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1602
+        },
+        {
+            "area": "中和區",
+            "cunli": "連城里",
+            "house_no": "1361",
+            "candidates": {
+                "1": 567,
+                "2": 102
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1028
+        },
+        {
+            "area": "中和區",
+            "cunli": "連城里",
+            "house_no": "1362",
+            "candidates": {
+                "1": 570,
+                "2": 329
+            },
+            "count_wrong": 60,
+            "count_unused": 0,
+            "count_total": 1584
+        },
+        {
+            "area": "中和區",
+            "cunli": "連城里",
+            "house_no": "1363",
+            "candidates": {
+                "1": 532,
+                "2": 171
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1171
+        }
+    ]
+}

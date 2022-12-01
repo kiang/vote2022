@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐誌鴻",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳永金",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃富裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三義鄉",
+            "cunli": "双潭村",
+            "house_no": "137",
+            "candidates": {
+                "1": 173,
+                "2": 69,
+                "3": 152,
+                "4": 30
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 562
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "双潭村",
+            "house_no": "138",
+            "candidates": {
+                "1": 218,
+                "2": 49,
+                "3": 139,
+                "4": 60
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 685
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "双湖村",
+            "house_no": "139",
+            "candidates": {
+                "1": 168,
+                "2": 171,
+                "3": 136,
+                "4": 160
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 940
+        },
+        {
+            "area": "三義鄉",
+            "cunli": "双湖村",
+            "house_no": "140",
+            "candidates": {
+                "1": 97,
+                "2": 186,
+                "3": 84,
+                "4": 185
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 801
+        }
+    ]
+}

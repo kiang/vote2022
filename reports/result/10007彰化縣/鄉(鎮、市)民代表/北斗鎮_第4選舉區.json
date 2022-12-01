@@ -1,0 +1,83 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳大勝",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳國展",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊思瑋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北斗鎮",
+            "cunli": "中和里",
+            "house_no": "886",
+            "candidates": {
+                "1": 237,
+                "2": 340,
+                "3": 285
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "新生里",
+            "house_no": "887",
+            "candidates": {
+                "1": 75,
+                "2": 324,
+                "3": 204
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1051
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "新生里",
+            "house_no": "888",
+            "candidates": {
+                "1": 122,
+                "2": 252,
+                "3": 173
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 921
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "大新里",
+            "house_no": "889",
+            "candidates": {
+                "1": 146,
+                "2": 187,
+                "3": 151
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "北斗鎮",
+            "cunli": "大新里",
+            "house_no": "890",
+            "candidates": {
+                "1": 189,
+                "2": 195,
+                "3": 160
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 922
+        }
+    ]
+}

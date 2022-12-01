@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳清美",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "謝胡源",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "椰油村",
+            "house_no": "233",
+            "candidates": {
+                "1": 312,
+                "2": 144
+            },
+            "count_wrong": 14,
+            "count_unused": 1,
+            "count_total": 932
+        },
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "紅頭村",
+            "house_no": "234",
+            "candidates": {
+                "1": 246,
+                "2": 408
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1256
+        },
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "東清村",
+            "house_no": "235",
+            "candidates": {
+                "1": 213,
+                "2": 511
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "蘭嶼鄉",
+            "cunli": "朗島村",
+            "house_no": "236",
+            "candidates": {
+                "1": 157,
+                "2": 247
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 752
+        }
+    ]
+}

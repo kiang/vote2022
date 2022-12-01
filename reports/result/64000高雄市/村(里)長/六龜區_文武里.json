@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李豐名",
+            "party": "無"
+        },
+        "2": {
+            "name": "林江東",
+            "party": "無"
+        },
+        "3": {
+            "name": "鍾達煌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "六龜區",
+            "cunli": "文武里",
+            "house_no": "31",
+            "candidates": {
+                "1": 13,
+                "2": 387,
+                "3": 458
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1329
+        }
+    ]
+}

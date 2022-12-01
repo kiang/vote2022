@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "呂宗聖",
+            "party": "無"
+        },
+        "2": {
+            "name": "王金月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "新興里",
+            "house_no": "487",
+            "candidates": {
+                "1": 740,
+                "2": 234
+            },
+            "count_wrong": 45,
+            "count_unused": 0,
+            "count_total": 1514
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "新興里",
+            "house_no": "488",
+            "candidates": {
+                "1": 579,
+                "2": 221
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1323
+        }
+    ]
+}

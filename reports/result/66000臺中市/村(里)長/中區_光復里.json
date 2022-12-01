@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡鼎元",
+            "party": "無"
+        },
+        "2": {
+            "name": "張富星",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中區",
+            "cunli": "光復里",
+            "house_no": "1277",
+            "candidates": {
+                "1": 128,
+                "2": 389
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 947
+        },
+        {
+            "area": "中區",
+            "cunli": "光復里",
+            "house_no": "1278",
+            "candidates": {
+                "1": 106,
+                "2": 360
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 856
+        }
+    ]
+}

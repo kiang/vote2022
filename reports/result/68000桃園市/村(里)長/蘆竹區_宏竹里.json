@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林莉芩",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃國林",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘆竹區",
+            "cunli": "宏竹里",
+            "house_no": "504",
+            "candidates": {
+                "1": 337,
+                "2": 669
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1487
+        },
+        {
+            "area": "蘆竹區",
+            "cunli": "宏竹里",
+            "house_no": "505",
+            "candidates": {
+                "1": 232,
+                "2": 706
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1442
+        }
+    ]
+}

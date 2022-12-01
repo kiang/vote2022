@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "倪玉萍",
+            "party": "無"
+        },
+        "2": {
+            "name": "匡淑芳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大社區",
+            "cunli": "翠屏里",
+            "house_no": "737",
+            "candidates": {
+                "1": 130,
+                "2": 316
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 689
+        },
+        {
+            "area": "大社區",
+            "cunli": "翠屏里",
+            "house_no": "738",
+            "candidates": {
+                "1": 243,
+                "2": 289
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 892
+        }
+    ]
+}

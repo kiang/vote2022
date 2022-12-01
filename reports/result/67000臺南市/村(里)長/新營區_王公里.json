@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈崑田",
+            "party": "無"
+        },
+        "2": {
+            "name": "顏國富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新營區",
+            "cunli": "王公里",
+            "house_no": "129",
+            "candidates": {
+                "1": 356,
+                "2": 372
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1225
+        },
+        {
+            "area": "新營區",
+            "cunli": "王公里",
+            "house_no": "130",
+            "candidates": {
+                "1": 363,
+                "2": 340
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "新營區",
+            "cunli": "王公里",
+            "house_no": "131",
+            "candidates": {
+                "1": 384,
+                "2": 366
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1341
+        }
+    ]
+}

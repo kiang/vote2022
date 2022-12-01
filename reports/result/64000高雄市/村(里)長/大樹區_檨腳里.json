@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "孫國憲",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "吳文雄",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大樹區",
+            "cunli": "檨腳里",
+            "house_no": "842",
+            "candidates": {
+                "1": 357,
+                "2": 417
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1221
+        },
+        {
+            "area": "大樹區",
+            "cunli": "檨腳里",
+            "house_no": "843",
+            "candidates": {
+                "1": 352,
+                "2": 282
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1005
+        },
+        {
+            "area": "大樹區",
+            "cunli": "檨腳里",
+            "house_no": "844",
+            "candidates": {
+                "1": 322,
+                "2": 324
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1089
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊明正",
+            "party": "無"
+        },
+        "2": {
+            "name": "李再富",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "岡山區",
+            "cunli": "後協里",
+            "house_no": "322",
+            "candidates": {
+                "1": 380,
+                "2": 398
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1259
+        },
+        {
+            "area": "岡山區",
+            "cunli": "後協里",
+            "house_no": "323",
+            "candidates": {
+                "1": 520,
+                "2": 330
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1332
+        },
+        {
+            "area": "岡山區",
+            "cunli": "後協里",
+            "house_no": "324",
+            "candidates": {
+                "1": 312,
+                "2": 464
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1269
+        },
+        {
+            "area": "岡山區",
+            "cunli": "後協里",
+            "house_no": "325",
+            "candidates": {
+                "1": 336,
+                "2": 384
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1378
+        }
+    ]
+}

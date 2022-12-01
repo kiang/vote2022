@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游清然",
+            "party": "無"
+        },
+        "2": {
+            "name": "童翎宛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔里鎮",
+            "cunli": "清新里",
+            "house_no": "124",
+            "candidates": {
+                "1": 315,
+                "2": 369
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1074
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "清新里",
+            "house_no": "125",
+            "candidates": {
+                "1": 347,
+                "2": 377
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1190
+        },
+        {
+            "area": "埔里鎮",
+            "cunli": "清新里",
+            "house_no": "126",
+            "candidates": {
+                "1": 286,
+                "2": 448
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1236
+        }
+    ]
+}

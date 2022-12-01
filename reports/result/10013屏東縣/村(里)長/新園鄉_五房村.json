@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡明智",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新園鄉",
+            "cunli": "五房村",
+            "house_no": "546",
+            "candidates": {
+                "1": 562
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 828
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "五房村",
+            "house_no": "547",
+            "candidates": {
+                "1": 557
+            },
+            "count_wrong": 71,
+            "count_unused": 0,
+            "count_total": 902
+        },
+        {
+            "area": "新園鄉",
+            "cunli": "五房村",
+            "house_no": "548",
+            "candidates": {
+                "1": 510
+            },
+            "count_wrong": 68,
+            "count_unused": 1,
+            "count_total": 905
+        }
+    ]
+}

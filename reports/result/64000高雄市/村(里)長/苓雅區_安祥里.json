@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡長穎",
+            "party": "無"
+        },
+        "2": {
+            "name": "董輝章",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "安祥里",
+            "house_no": "1346",
+            "candidates": {
+                "1": 297,
+                "2": 357
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1203
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "安祥里",
+            "house_no": "1347",
+            "candidates": {
+                "1": 269,
+                "2": 409
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1194
+        }
+    ]
+}

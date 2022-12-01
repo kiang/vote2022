@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳天香",
+            "party": "無"
+        },
+        "2": {
+            "name": "王永東",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "西山里",
+            "house_no": "1704",
+            "candidates": {
+                "1": 387,
+                "2": 144
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 939
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "西山里",
+            "house_no": "1705",
+            "candidates": {
+                "1": 470,
+                "2": 181
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "西山里",
+            "house_no": "1706",
+            "candidates": {
+                "1": 369,
+                "2": 182
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 969
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "楊春明",
+            "party": "無"
+        },
+        "2": {
+            "name": "謝萬福",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "后里區",
+            "cunli": "后里里",
+            "house_no": "418",
+            "candidates": {
+                "1": 582,
+                "2": 160
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1113
+        },
+        {
+            "area": "后里區",
+            "cunli": "后里里",
+            "house_no": "419",
+            "candidates": {
+                "1": 518,
+                "2": 194
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1107
+        },
+        {
+            "area": "后里區",
+            "cunli": "后里里",
+            "house_no": "420",
+            "candidates": {
+                "1": 632,
+                "2": 165
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1299
+        }
+    ]
+}

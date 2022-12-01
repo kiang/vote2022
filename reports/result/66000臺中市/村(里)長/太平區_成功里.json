@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "馮雪婷",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪大鈞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "成功里",
+            "house_no": "1531",
+            "candidates": {
+                "1": 254,
+                "2": 435
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1147
+        },
+        {
+            "area": "太平區",
+            "cunli": "成功里",
+            "house_no": "1532",
+            "candidates": {
+                "1": 234,
+                "2": 449
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1354
+        },
+        {
+            "area": "太平區",
+            "cunli": "成功里",
+            "house_no": "1533",
+            "candidates": {
+                "1": 227,
+                "2": 478
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1297
+        }
+    ]
+}

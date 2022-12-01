@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張德海",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "呂慧仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大武鄉",
+            "cunli": "大竹村",
+            "house_no": "203",
+            "candidates": {
+                "1": 174,
+                "2": 102
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 354
+        },
+        {
+            "area": "大武鄉",
+            "cunli": "大竹村",
+            "house_no": "204",
+            "candidates": {
+                "1": 172,
+                "2": 104
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 368
+        }
+    ]
+}

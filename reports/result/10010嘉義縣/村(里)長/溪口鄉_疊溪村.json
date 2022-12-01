@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉碧鳳",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉德福",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉慶維",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "溪口鄉",
+            "cunli": "疊溪村",
+            "house_no": "227",
+            "candidates": {
+                "1": 199,
+                "2": 218,
+                "3": 247
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 972
+        }
+    ]
+}

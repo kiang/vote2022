@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林綺芳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "洪文龍",
+            "party": "無"
+        },
+        "3": {
+            "name": "許宇揚",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "瓦磘里",
+            "house_no": "1391",
+            "candidates": {
+                "1": 442,
+                "2": 37,
+                "3": 406
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1574
+        },
+        {
+            "area": "中和區",
+            "cunli": "瓦磘里",
+            "house_no": "1392",
+            "candidates": {
+                "1": 454,
+                "2": 66,
+                "3": 389
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1562
+        },
+        {
+            "area": "中和區",
+            "cunli": "瓦磘里",
+            "house_no": "1393",
+            "candidates": {
+                "1": 392,
+                "2": 68,
+                "3": 442
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1531
+        }
+    ]
+}

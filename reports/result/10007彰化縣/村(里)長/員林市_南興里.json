@@ -1,0 +1,74 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳麗鳳",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王榮展",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "員林市",
+            "cunli": "南興里",
+            "house_no": "591",
+            "candidates": {
+                "1": 264,
+                "2": 248
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 848
+        },
+        {
+            "area": "員林市",
+            "cunli": "南興里",
+            "house_no": "592",
+            "candidates": {
+                "1": 273,
+                "2": 234
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "員林市",
+            "cunli": "南興里",
+            "house_no": "593",
+            "candidates": {
+                "1": 277,
+                "2": 283
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 882
+        },
+        {
+            "area": "員林市",
+            "cunli": "南興里",
+            "house_no": "594",
+            "candidates": {
+                "1": 255,
+                "2": 315
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 971
+        },
+        {
+            "area": "員林市",
+            "cunli": "南興里",
+            "house_no": "595",
+            "candidates": {
+                "1": 306,
+                "2": 326
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1059
+        }
+    ]
+}

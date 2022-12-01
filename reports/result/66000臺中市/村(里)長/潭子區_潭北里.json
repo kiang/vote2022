@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林俊堂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "潭子區",
+            "cunli": "潭北里",
+            "house_no": "661",
+            "candidates": {
+                "1": 552
+            },
+            "count_wrong": 119,
+            "count_unused": 0,
+            "count_total": 1100
+        },
+        {
+            "area": "潭子區",
+            "cunli": "潭北里",
+            "house_no": "662",
+            "candidates": {
+                "1": 617
+            },
+            "count_wrong": 96,
+            "count_unused": 1,
+            "count_total": 1225
+        }
+    ]
+}

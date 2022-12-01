@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃偉珉",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃承熙",
+            "party": "無"
+        },
+        "3": {
+            "name": "莊淑慧",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "西安里",
+            "house_no": "1220",
+            "candidates": {
+                "1": 35,
+                "2": 250,
+                "3": 407
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1125
+        },
+        {
+            "area": "板橋區",
+            "cunli": "西安里",
+            "house_no": "1221",
+            "candidates": {
+                "1": 69,
+                "2": 288,
+                "3": 318
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1102
+        }
+    ]
+}

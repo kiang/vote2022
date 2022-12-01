@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭耀儒",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳郭玉指",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "1337",
+            "candidates": {
+                "1": 200,
+                "2": 411
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1137
+        },
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "1338",
+            "candidates": {
+                "1": 185,
+                "2": 332
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 986
+        },
+        {
+            "area": "東區",
+            "cunli": "復興里",
+            "house_no": "1339",
+            "candidates": {
+                "1": 207,
+                "2": 381
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1005
+        }
+    ]
+}

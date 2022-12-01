@@ -1,0 +1,40 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李舜錢",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭清文",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "頭屋鄉",
+            "cunli": "象山村",
+            "house_no": "109",
+            "candidates": {
+                "1": 216,
+                "2": 203,
+                "3": 189
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 777
+        },
+        {
+            "area": "頭屋鄉",
+            "cunli": "象山村",
+            "house_no": "110",
+            "candidates": {
+                "1": 213,
+                "2": 301,
+                "3": 234
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 934
+        }
+    ]
+}

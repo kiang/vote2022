@@ -1,0 +1,82 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳中才",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃顯樑",
+            "party": "無"
+        },
+        "3": {
+            "name": "余蟬娟",
+            "party": "無"
+        },
+        "4": {
+            "name": "劉永進",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "九如鄉",
+            "cunli": "九清村",
+            "house_no": "330",
+            "candidates": {
+                "1": 199,
+                "2": 240,
+                "3": 132,
+                "4": 204,
+                "5": 185
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 1371
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "九塊村",
+            "house_no": "331",
+            "candidates": {
+                "1": 214,
+                "2": 231,
+                "3": 169,
+                "4": 130,
+                "5": 183
+            },
+            "count_wrong": 36,
+            "count_unused": 1,
+            "count_total": 1342
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "九明村",
+            "house_no": "332",
+            "candidates": {
+                "1": 428,
+                "2": 180,
+                "3": 80,
+                "4": 280,
+                "5": 183
+            },
+            "count_wrong": 44,
+            "count_unused": 0,
+            "count_total": 1601
+        },
+        {
+            "area": "九如鄉",
+            "cunli": "大坵村",
+            "house_no": "333",
+            "candidates": {
+                "1": 85,
+                "2": 51,
+                "3": 70,
+                "4": 102,
+                "5": 461
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1111
+        }
+    ]
+}

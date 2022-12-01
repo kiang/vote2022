@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "詹文定",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中和區",
+            "cunli": "德穗里",
+            "house_no": "1533",
+            "candidates": {
+                "1": 678
+            },
+            "count_wrong": 88,
+            "count_unused": 0,
+            "count_total": 1318
+        },
+        {
+            "area": "中和區",
+            "cunli": "德穗里",
+            "house_no": "1534",
+            "candidates": {
+                "1": 725
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1393
+        },
+        {
+            "area": "中和區",
+            "cunli": "德穗里",
+            "house_no": "1535",
+            "candidates": {
+                "1": 630
+            },
+            "count_wrong": 83,
+            "count_unused": 0,
+            "count_total": 1156
+        }
+    ]
+}

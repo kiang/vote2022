@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "高承洋",
+            "party": "無"
+        },
+        "2": {
+            "name": "何金成",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃勝斌",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "大興里",
+            "house_no": "216",
+            "candidates": {
+                "1": 286,
+                "2": 271,
+                "3": 30
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1198
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大興里",
+            "house_no": "217",
+            "candidates": {
+                "1": 430,
+                "2": 247,
+                "3": 41
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1276
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大興里",
+            "house_no": "218",
+            "candidates": {
+                "1": 402,
+                "2": 334,
+                "3": 48
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1336
+        },
+        {
+            "area": "桃園區",
+            "cunli": "大興里",
+            "house_no": "219",
+            "candidates": {
+                "1": 385,
+                "2": 304,
+                "3": 72
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1314
+        }
+    ]
+}

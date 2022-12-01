@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李金福",
+            "party": "無"
+        },
+        "2": {
+            "name": "石向孝",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "新富里",
+            "house_no": "1572",
+            "candidates": {
+                "1": 367,
+                "2": 296
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1153
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新富里",
+            "house_no": "1573",
+            "candidates": {
+                "1": 431,
+                "2": 301
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1246
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "新富里",
+            "house_no": "1574",
+            "candidates": {
+                "1": 432,
+                "2": 355
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1410
+        }
+    ]
+}

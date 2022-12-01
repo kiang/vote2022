@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李桂杏",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "草屯鎮",
+            "cunli": "明正里",
+            "house_no": "156",
+            "candidates": {
+                "1": 747
+            },
+            "count_wrong": 115,
+            "count_unused": 0,
+            "count_total": 1352
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "明正里",
+            "house_no": "157",
+            "candidates": {
+                "1": 554
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "草屯鎮",
+            "cunli": "明正里",
+            "house_no": "158",
+            "candidates": {
+                "1": 672
+            },
+            "count_wrong": 82,
+            "count_unused": 0,
+            "count_total": 1185
+        }
+    ]
+}

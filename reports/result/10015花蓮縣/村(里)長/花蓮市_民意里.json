@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "顏春有",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民意里",
+            "house_no": "6",
+            "candidates": {
+                "1": 163
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 431
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民意里",
+            "house_no": "7",
+            "candidates": {
+                "1": 312
+            },
+            "count_wrong": 67,
+            "count_unused": 0,
+            "count_total": 794
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民意里",
+            "house_no": "8",
+            "candidates": {
+                "1": 297
+            },
+            "count_wrong": 68,
+            "count_unused": 0,
+            "count_total": 666
+        }
+    ]
+}

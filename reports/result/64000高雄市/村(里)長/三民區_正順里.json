@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃冠惠",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧立彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "正順里",
+            "house_no": "1130",
+            "candidates": {
+                "1": 447,
+                "2": 238
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1195
+        },
+        {
+            "area": "三民區",
+            "cunli": "正順里",
+            "house_no": "1131",
+            "candidates": {
+                "1": 454,
+                "2": 276
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1255
+        },
+        {
+            "area": "三民區",
+            "cunli": "正順里",
+            "house_no": "1132",
+            "candidates": {
+                "1": 466,
+                "2": 148
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1094
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李清水",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "中山區",
+            "cunli": "成功里",
+            "house_no": "948",
+            "candidates": {
+                "1": 758
+            },
+            "count_wrong": 140,
+            "count_unused": 0,
+            "count_total": 1274
+        },
+        {
+            "area": "中山區",
+            "cunli": "成功里",
+            "house_no": "949",
+            "candidates": {
+                "1": 726
+            },
+            "count_wrong": 140,
+            "count_unused": 0,
+            "count_total": 1259
+        },
+        {
+            "area": "中山區",
+            "cunli": "成功里",
+            "house_no": "950",
+            "candidates": {
+                "1": 657
+            },
+            "count_wrong": 132,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "中山區",
+            "cunli": "成功里",
+            "house_no": "951",
+            "candidates": {
+                "1": 630
+            },
+            "count_wrong": 97,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

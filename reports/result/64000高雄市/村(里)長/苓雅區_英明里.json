@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀英",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃秀靜",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "苓雅區",
+            "cunli": "英明里",
+            "house_no": "1367",
+            "candidates": {
+                "1": 202,
+                "2": 335
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 831
+        },
+        {
+            "area": "苓雅區",
+            "cunli": "英明里",
+            "house_no": "1368",
+            "candidates": {
+                "1": 171,
+                "2": 397
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 868
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄭和義",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳文山",
+            "party": "無"
+        },
+        "3": {
+            "name": "葉明桂",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "古坑鄉",
+            "cunli": "水碓村",
+            "house_no": "599",
+            "candidates": {
+                "1": 54,
+                "2": 36,
+                "3": 92,
+                "4": 50,
+                "5": 464,
+                "6": 49
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1145
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "田心村",
+            "house_no": "600",
+            "candidates": {
+                "1": 121,
+                "2": 79,
+                "3": 132,
+                "4": 71,
+                "5": 188,
+                "6": 121
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1042
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "古坑村",
+            "house_no": "601",
+            "candidates": {
+                "1": 75,
+                "2": 173,
+                "3": 97,
+                "4": 107,
+                "5": 38,
+                "6": 206
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1088
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "古坑村",
+            "house_no": "602",
+            "candidates": {
+                "1": 104,
+                "2": 131,
+                "3": 89,
+                "4": 172,
+                "5": 51,
+                "6": 151
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1093
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "朝陽村",
+            "house_no": "603",
+            "candidates": {
+                "1": 65,
+                "2": 150,
+                "3": 121,
+                "4": 85,
+                "5": 49,
+                "6": 105
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 909
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "朝陽村",
+            "house_no": "604",
+            "candidates": {
+                "1": 104,
+                "2": 209,
+                "3": 135,
+                "4": 92,
+                "5": 53,
+                "6": 106
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1085
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "西平村",
+            "house_no": "605",
+            "candidates": {
+                "1": 310,
+                "2": 215,
+                "3": 142,
+                "4": 135,
+                "5": 70,
+                "6": 217
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1560
+        },
+        {
+            "area": "古坑鄉",
+            "cunli": "湳仔村",
+            "house_no": "606",
+            "candidates": {
+                "1": 47,
+                "2": 46,
+                "3": 271,
+                "4": 25,
+                "5": 17,
+                "6": 26
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 676
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王秀璞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "中原里",
+            "house_no": "75",
+            "candidates": {
+                "1": 782
+            },
+            "count_wrong": 103,
+            "count_unused": 0,
+            "count_total": 1569
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中原里",
+            "house_no": "76",
+            "candidates": {
+                "1": 826
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1528
+        },
+        {
+            "area": "桃園區",
+            "cunli": "中原里",
+            "house_no": "77",
+            "candidates": {
+                "1": 721
+            },
+            "count_wrong": 79,
+            "count_unused": 0,
+            "count_total": 1325
+        }
+    ]
+}

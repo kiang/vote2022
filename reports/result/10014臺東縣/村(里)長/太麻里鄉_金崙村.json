@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳志偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳李雲清",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "太麻里鄉",
+            "cunli": "金崙村",
+            "house_no": "195",
+            "candidates": {
+                "1": 384,
+                "2": 156
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 818
+        },
+        {
+            "area": "太麻里鄉",
+            "cunli": "金崙村",
+            "house_no": "196",
+            "candidates": {
+                "1": 282,
+                "2": 232
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 856
+        }
+    ]
+}

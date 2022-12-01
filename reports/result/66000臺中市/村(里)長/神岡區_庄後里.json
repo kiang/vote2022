@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林美玲",
+            "party": "無"
+        },
+        "2": {
+            "name": "林吳春蘭",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "神岡區",
+            "cunli": "庄後里",
+            "house_no": "567",
+            "candidates": {
+                "1": 333,
+                "2": 432
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1112
+        },
+        {
+            "area": "神岡區",
+            "cunli": "庄後里",
+            "house_no": "568",
+            "candidates": {
+                "1": 363,
+                "2": 346
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1036
+        }
+    ]
+}

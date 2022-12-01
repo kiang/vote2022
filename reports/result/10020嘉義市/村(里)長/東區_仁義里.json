@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "貢逸德",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐國榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "仁義里",
+            "house_no": "83",
+            "candidates": {
+                "1": 263,
+                "2": 335
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "東區",
+            "cunli": "仁義里",
+            "house_no": "84",
+            "candidates": {
+                "1": 196,
+                "2": 483
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1365
+        }
+    ]
+}

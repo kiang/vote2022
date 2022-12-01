@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳明桓",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳惠絹",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "和美鎮",
+            "cunli": "柑井里",
+            "house_no": "431",
+            "candidates": {
+                "1": 338,
+                "2": 329
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1090
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "柑井里",
+            "house_no": "432",
+            "candidates": {
+                "1": 306,
+                "2": 309
+            },
+            "count_wrong": 18,
+            "count_unused": 1,
+            "count_total": 1060
+        },
+        {
+            "area": "和美鎮",
+            "cunli": "柑井里",
+            "house_no": "433",
+            "candidates": {
+                "1": 303,
+                "2": 322
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1159
+        }
+    ]
+}

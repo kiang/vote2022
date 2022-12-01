@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳彩琴",
+            "party": "無"
+        },
+        "2": {
+            "name": "林平峯",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "民雄鄉",
+            "cunli": "秀林村",
+            "house_no": "142",
+            "candidates": {
+                "1": 445,
+                "2": 591
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1600
+        },
+        {
+            "area": "民雄鄉",
+            "cunli": "秀林村",
+            "house_no": "143",
+            "candidates": {
+                "1": 312,
+                "2": 291
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 945
+        }
+    ]
+}

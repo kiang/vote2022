@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "何中文",
+            "party": "無"
+        },
+        "2": {
+            "name": "鄧開運",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "銅鑼鄉",
+            "cunli": "中平村",
+            "house_no": "124",
+            "candidates": {
+                "1": 419,
+                "2": 237
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1022
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "中平村",
+            "house_no": "125",
+            "candidates": {
+                "1": 303,
+                "2": 241
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 796
+        },
+        {
+            "area": "銅鑼鄉",
+            "cunli": "中平村",
+            "house_no": "126",
+            "candidates": {
+                "1": 354,
+                "2": 354
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1172
+        }
+    ]
+}

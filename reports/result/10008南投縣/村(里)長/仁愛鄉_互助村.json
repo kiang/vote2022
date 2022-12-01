@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "梁文峯",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張明吉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "仁愛鄉",
+            "cunli": "互助村",
+            "house_no": "491",
+            "candidates": {
+                "1": 240,
+                "2": 300
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 687
+        },
+        {
+            "area": "仁愛鄉",
+            "cunli": "互助村",
+            "house_no": "492",
+            "candidates": {
+                "1": 214,
+                "2": 113
+            },
+            "count_wrong": 3,
+            "count_unused": 0,
+            "count_total": 423
+        }
+    ]
+}

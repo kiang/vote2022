@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉梅菊",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "張智凱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "信義區",
+            "cunli": "黎安里",
+            "house_no": "895",
+            "candidates": {
+                "1": 391,
+                "2": 187
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 920
+        },
+        {
+            "area": "信義區",
+            "cunli": "黎安里",
+            "house_no": "896",
+            "candidates": {
+                "1": 325,
+                "2": 98
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 679
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳金輅",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳凱元",
+            "party": "無"
+        },
+        "3": {
+            "name": "許烜秋",
+            "party": "無"
+        },
+        "4": {
+            "name": "林金生",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北港鎮",
+            "cunli": "草湖里",
+            "house_no": "311",
+            "candidates": {
+                "1": 60,
+                "2": 69,
+                "3": 259,
+                "4": 33
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 574
+        },
+        {
+            "area": "北港鎮",
+            "cunli": "草湖里",
+            "house_no": "312",
+            "candidates": {
+                "1": 165,
+                "2": 17,
+                "3": 207,
+                "4": 60
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 695
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林秀冬",
+            "party": "無"
+        },
+        "2": {
+            "name": "翁聖濰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三峽區",
+            "cunli": "中埔里",
+            "house_no": "2070",
+            "candidates": {
+                "1": 252,
+                "2": 554
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1426
+        },
+        {
+            "area": "三峽區",
+            "cunli": "中埔里",
+            "house_no": "2071",
+            "candidates": {
+                "1": 316,
+                "2": 519
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1491
+        }
+    ]
+}

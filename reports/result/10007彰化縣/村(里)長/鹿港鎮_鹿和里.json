@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "尤振輝",
+            "party": "無"
+        },
+        "2": {
+            "name": "王明鴻",
+            "party": "無"
+        },
+        "3": {
+            "name": "許炳熙",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鹿港鎮",
+            "cunli": "鹿和里",
+            "house_no": "315",
+            "candidates": {
+                "1": 195,
+                "2": 229,
+                "3": 288
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1132
+        },
+        {
+            "area": "鹿港鎮",
+            "cunli": "鹿和里",
+            "house_no": "316",
+            "candidates": {
+                "1": 146,
+                "2": 178,
+                "3": 366
+            },
+            "count_wrong": 27,
+            "count_unused": 0,
+            "count_total": 1117
+        }
+    ]
+}

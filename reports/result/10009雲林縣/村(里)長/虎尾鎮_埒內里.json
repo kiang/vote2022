@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王俊富",
+            "party": "無"
+        },
+        "2": {
+            "name": "鐘大焜",
+            "party": "無"
+        },
+        "3": {
+            "name": "沈義隆",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "虎尾鎮",
+            "cunli": "埒內里",
+            "house_no": "151",
+            "candidates": {
+                "1": 186,
+                "2": 343,
+                "3": 358
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1320
+        },
+        {
+            "area": "虎尾鎮",
+            "cunli": "埒內里",
+            "house_no": "152",
+            "candidates": {
+                "1": 134,
+                "2": 310,
+                "3": 407
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1197
+        }
+    ]
+}

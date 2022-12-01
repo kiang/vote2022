@@ -1,0 +1,64 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鐘健松",
+            "party": "無"
+        },
+        "2": {
+            "name": "曾添鳳",
+            "party": "無"
+        },
+        "3": {
+            "name": "潘祝惠",
+            "party": "無"
+        },
+        "4": {
+            "name": "李世棟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "土城區",
+            "cunli": "復興里",
+            "house_no": "1978",
+            "candidates": {
+                "1": 61,
+                "2": 66,
+                "3": 295,
+                "4": 243
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1186
+        },
+        {
+            "area": "土城區",
+            "cunli": "復興里",
+            "house_no": "1979",
+            "candidates": {
+                "1": 39,
+                "2": 67,
+                "3": 299,
+                "4": 311
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1217
+        },
+        {
+            "area": "土城區",
+            "cunli": "復興里",
+            "house_no": "1980",
+            "candidates": {
+                "1": 80,
+                "2": 83,
+                "3": 405,
+                "4": 306
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1402
+        }
+    ]
+}

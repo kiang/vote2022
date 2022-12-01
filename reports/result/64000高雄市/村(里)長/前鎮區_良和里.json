@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳瑞銓",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "前鎮區",
+            "cunli": "良和里",
+            "house_no": "1713",
+            "candidates": {
+                "1": 658
+            },
+            "count_wrong": 117,
+            "count_unused": 0,
+            "count_total": 1355
+        },
+        {
+            "area": "前鎮區",
+            "cunli": "良和里",
+            "house_no": "1714",
+            "candidates": {
+                "1": 597
+            },
+            "count_wrong": 17,
+            "count_unused": 91,
+            "count_total": 1227
+        }
+    ]
+}

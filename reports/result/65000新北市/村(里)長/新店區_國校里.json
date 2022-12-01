@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "郭儒鈞",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "廖茂興",
+            "party": "無"
+        },
+        "3": {
+            "name": "王秀鳳",
+            "party": "無"
+        },
+        "4": {
+            "name": "周和興",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "新店區",
+            "cunli": "國校里",
+            "house_no": "2140",
+            "candidates": {
+                "1": 319,
+                "2": 13,
+                "3": 40,
+                "4": 241
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "新店區",
+            "cunli": "國校里",
+            "house_no": "2141",
+            "candidates": {
+                "1": 355,
+                "2": 3,
+                "3": 39,
+                "4": 302
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1169
+        }
+    ]
+}

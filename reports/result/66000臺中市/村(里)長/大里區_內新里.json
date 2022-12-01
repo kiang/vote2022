@@ -1,0 +1,116 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林清池",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "阮俊浩",
+            "party": "台灣民眾黨"
+        },
+        "3": {
+            "name": "林明興",
+            "party": "無"
+        },
+        "4": {
+            "name": "林溢源",
+            "party": "無"
+        },
+        "5": {
+            "name": "蔡孟宏",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "大里區",
+            "cunli": "內新里",
+            "house_no": "1651",
+            "candidates": {
+                "1": 177,
+                "2": 32,
+                "3": 60,
+                "4": 290,
+                "5": 164
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1378
+        },
+        {
+            "area": "大里區",
+            "cunli": "內新里",
+            "house_no": "1652",
+            "candidates": {
+                "1": 236,
+                "2": 59,
+                "3": 69,
+                "4": 276,
+                "5": 142
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1432
+        },
+        {
+            "area": "大里區",
+            "cunli": "內新里",
+            "house_no": "1653",
+            "candidates": {
+                "1": 198,
+                "2": 50,
+                "3": 81,
+                "4": 332,
+                "5": 96
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1318
+        },
+        {
+            "area": "大里區",
+            "cunli": "內新里",
+            "house_no": "1654",
+            "candidates": {
+                "1": 127,
+                "2": 23,
+                "3": 63,
+                "4": 427,
+                "5": 110
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1329
+        },
+        {
+            "area": "大里區",
+            "cunli": "內新里",
+            "house_no": "1655",
+            "candidates": {
+                "1": 210,
+                "2": 49,
+                "3": 84,
+                "4": 317,
+                "5": 71
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1331
+        },
+        {
+            "area": "大里區",
+            "cunli": "內新里",
+            "house_no": "1656",
+            "candidates": {
+                "1": 177,
+                "2": 79,
+                "3": 122,
+                "4": 212,
+                "5": 87
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1240
+        }
+    ]
+}

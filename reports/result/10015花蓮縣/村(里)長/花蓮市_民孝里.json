@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李慧琪",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "黃石貴",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "花蓮市",
+            "cunli": "民孝里",
+            "house_no": "13",
+            "candidates": {
+                "1": 291,
+                "2": 216
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1035
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民孝里",
+            "house_no": "14",
+            "candidates": {
+                "1": 204,
+                "2": 273
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1009
+        },
+        {
+            "area": "花蓮市",
+            "cunli": "民孝里",
+            "house_no": "15",
+            "candidates": {
+                "1": 257,
+                "2": 381
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1152
+        }
+    ]
+}

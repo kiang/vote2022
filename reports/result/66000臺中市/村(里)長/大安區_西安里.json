@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "紀木淵",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大安區",
+            "cunli": "西安里",
+            "house_no": "72",
+            "candidates": {
+                "1": 514
+            },
+            "count_wrong": 61,
+            "count_unused": 1,
+            "count_total": 901
+        },
+        {
+            "area": "大安區",
+            "cunli": "西安里",
+            "house_no": "73",
+            "candidates": {
+                "1": 387
+            },
+            "count_wrong": 69,
+            "count_unused": 0,
+            "count_total": 750
+        }
+    ]
+}

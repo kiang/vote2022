@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "周竹抱",
+            "party": "無"
+        },
+        "2": {
+            "name": "王建盛",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "安南區",
+            "cunli": "淵西里",
+            "house_no": "744",
+            "candidates": {
+                "1": 439,
+                "2": 336
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1366
+        },
+        {
+            "area": "安南區",
+            "cunli": "淵西里",
+            "house_no": "745",
+            "candidates": {
+                "1": 287,
+                "2": 312
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1242
+        },
+        {
+            "area": "安南區",
+            "cunli": "淵西里",
+            "house_no": "746",
+            "candidates": {
+                "1": 259,
+                "2": 306
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 996
+        }
+    ]
+}

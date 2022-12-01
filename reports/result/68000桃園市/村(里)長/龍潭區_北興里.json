@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李世安",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "秦永楠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "龍潭區",
+            "cunli": "北興里",
+            "house_no": "1257",
+            "candidates": {
+                "1": 356,
+                "2": 368
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1224
+        },
+        {
+            "area": "龍潭區",
+            "cunli": "北興里",
+            "house_no": "1258",
+            "candidates": {
+                "1": 167,
+                "2": 396
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1005
+        }
+    ]
+}

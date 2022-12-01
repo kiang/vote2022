@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "沈再旺",
+            "party": "無"
+        },
+        "2": {
+            "name": "張是華",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "瑞祥里",
+            "house_no": "386",
+            "candidates": {
+                "1": 441,
+                "2": 557
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1494
+        },
+        {
+            "area": "八德區",
+            "cunli": "瑞祥里",
+            "house_no": "387",
+            "candidates": {
+                "1": 446,
+                "2": 478
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1512
+        }
+    ]
+}

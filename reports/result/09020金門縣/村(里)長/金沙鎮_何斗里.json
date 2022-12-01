@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳福林",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "陳嘉彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金沙鎮",
+            "cunli": "何斗里",
+            "house_no": "80",
+            "candidates": {
+                "1": 244,
+                "2": 164
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 956
+        },
+        {
+            "area": "金沙鎮",
+            "cunli": "何斗里",
+            "house_no": "81",
+            "candidates": {
+                "1": 278,
+                "2": 134
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1057
+        }
+    ]
+}

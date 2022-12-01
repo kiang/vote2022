@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳月利",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪豪澤",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃順興",
+            "party": "無"
+        },
+        "4": {
+            "name": "卓速",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "芳苑鄉",
+            "cunli": "仁愛村",
+            "house_no": "1033",
+            "candidates": {
+                "1": 142,
+                "2": 168,
+                "3": 185,
+                "4": 27
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 703
+        }
+    ]
+}

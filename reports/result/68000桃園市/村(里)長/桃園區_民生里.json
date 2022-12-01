@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳培偉",
+            "party": "無"
+        },
+        "2": {
+            "name": "簡寬毅",
+            "party": "無"
+        },
+        "3": {
+            "name": "劉恩伸",
+            "party": "無"
+        },
+        "4": {
+            "name": "林富明",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "桃園區",
+            "cunli": "民生里",
+            "house_no": "40",
+            "candidates": {
+                "1": 79,
+                "2": 188,
+                "3": 346,
+                "4": 336
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1612
+        }
+    ]
+}

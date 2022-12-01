@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "鄧弘明",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳榮成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "臺東市",
+            "cunli": "豐樂里",
+            "house_no": "52",
+            "candidates": {
+                "1": 242,
+                "2": 254
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 856
+        },
+        {
+            "area": "臺東市",
+            "cunli": "豐樂里",
+            "house_no": "53",
+            "candidates": {
+                "1": 300,
+                "2": 211
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 817
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李瑞福",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "安平區",
+            "cunli": "文平里",
+            "house_no": "1119",
+            "candidates": {
+                "1": 520
+            },
+            "count_wrong": 116,
+            "count_unused": 0,
+            "count_total": 1086
+        },
+        {
+            "area": "安平區",
+            "cunli": "文平里",
+            "house_no": "1120",
+            "candidates": {
+                "1": 615
+            },
+            "count_wrong": 84,
+            "count_unused": 0,
+            "count_total": 1372
+        },
+        {
+            "area": "安平區",
+            "cunli": "文平里",
+            "house_no": "1121",
+            "candidates": {
+                "1": 578
+            },
+            "count_wrong": 86,
+            "count_unused": 1,
+            "count_total": 1266
+        },
+        {
+            "area": "安平區",
+            "cunli": "文平里",
+            "house_no": "1122",
+            "candidates": {
+                "1": 615
+            },
+            "count_wrong": 99,
+            "count_unused": 0,
+            "count_total": 1336
+        }
+    ]
+}

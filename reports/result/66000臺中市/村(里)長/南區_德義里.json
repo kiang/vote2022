@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林志昌",
+            "party": "無"
+        },
+        "2": {
+            "name": "林金忠",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "德義里",
+            "house_no": "1434",
+            "candidates": {
+                "1": 428,
+                "2": 412
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1309
+        },
+        {
+            "area": "南區",
+            "cunli": "德義里",
+            "house_no": "1435",
+            "candidates": {
+                "1": 450,
+                "2": 337
+            },
+            "count_wrong": 38,
+            "count_unused": 0,
+            "count_total": 1377
+        }
+    ]
+}

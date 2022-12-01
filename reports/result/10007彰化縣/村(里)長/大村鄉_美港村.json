@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "賴勝集",
+            "party": "無"
+        },
+        "2": {
+            "name": "賴福財",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大村鄉",
+            "cunli": "美港村",
+            "house_no": "622",
+            "candidates": {
+                "1": 250,
+                "2": 398
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1017
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "美港村",
+            "house_no": "623",
+            "candidates": {
+                "1": 280,
+                "2": 349
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1053
+        },
+        {
+            "area": "大村鄉",
+            "cunli": "美港村",
+            "house_no": "624",
+            "candidates": {
+                "1": 272,
+                "2": 344
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 982
+        }
+    ]
+}

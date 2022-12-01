@@ -1,0 +1,56 @@
+{
+    "candidates": {
+        "1": {
+            "name": "潘美燕",
+            "party": "無"
+        },
+        "2": {
+            "name": "潘進丁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "萬巒鄉",
+            "cunli": "泗溝村",
+            "house_no": "419",
+            "candidates": {
+                "1": 93,
+                "2": 106,
+                "3": 188,
+                "4": 274
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1041
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "五溝村",
+            "house_no": "420",
+            "candidates": {
+                "1": 32,
+                "2": 86,
+                "3": 275,
+                "4": 221
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 941
+        },
+        {
+            "area": "萬巒鄉",
+            "cunli": "成德村",
+            "house_no": "421",
+            "candidates": {
+                "1": 252,
+                "2": 336,
+                "3": 128,
+                "4": 93
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1357
+        }
+    ]
+}

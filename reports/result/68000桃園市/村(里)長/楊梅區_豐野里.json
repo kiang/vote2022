@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張麟造",
+            "party": "無"
+        },
+        "2": {
+            "name": "梁華君",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "豐野里",
+            "house_no": "1166",
+            "candidates": {
+                "1": 287,
+                "2": 443
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1271
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "豐野里",
+            "house_no": "1167",
+            "candidates": {
+                "1": 329,
+                "2": 368
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 1187
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "豐野里",
+            "house_no": "1168",
+            "candidates": {
+                "1": 183,
+                "2": 592
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1270
+        }
+    ]
+}

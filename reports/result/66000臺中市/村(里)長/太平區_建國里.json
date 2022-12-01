@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江德海",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "太平區",
+            "cunli": "建國里",
+            "house_no": "1536",
+            "candidates": {
+                "1": 535
+            },
+            "count_wrong": 136,
+            "count_unused": 0,
+            "count_total": 1300
+        },
+        {
+            "area": "太平區",
+            "cunli": "建國里",
+            "house_no": "1537",
+            "candidates": {
+                "1": 688
+            },
+            "count_wrong": 156,
+            "count_unused": 1,
+            "count_total": 1460
+        }
+    ]
+}

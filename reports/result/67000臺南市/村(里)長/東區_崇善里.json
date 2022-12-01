@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳文仁",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃榮裕",
+            "party": "無"
+        },
+        "3": {
+            "name": "陳建銘",
+            "party": "民主進步黨"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "崇善里",
+            "house_no": "1300",
+            "candidates": {
+                "1": 61,
+                "2": 327,
+                "3": 387
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1363
+        },
+        {
+            "area": "東區",
+            "cunli": "崇善里",
+            "house_no": "1301",
+            "candidates": {
+                "1": 53,
+                "2": 361,
+                "3": 319
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1344
+        },
+        {
+            "area": "東區",
+            "cunli": "崇善里",
+            "house_no": "1302",
+            "candidates": {
+                "1": 46,
+                "2": 376,
+                "3": 323
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1193
+        },
+        {
+            "area": "東區",
+            "cunli": "崇善里",
+            "house_no": "1303",
+            "candidates": {
+                "1": 25,
+                "2": 174,
+                "3": 287
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 882
+        }
+    ]
+}

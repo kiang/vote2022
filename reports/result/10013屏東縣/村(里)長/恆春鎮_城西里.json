@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳文在",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡芬芳",
+            "party": "無"
+        },
+        "3": {
+            "name": "洪睿鴻",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "城西里",
+            "house_no": "229",
+            "candidates": {
+                "1": 127,
+                "2": 362,
+                "3": 148
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1062
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "謝沅廷",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳喜悅",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "華山里",
+            "house_no": "113",
+            "candidates": {
+                "1": 391,
+                "2": 318
+            },
+            "count_wrong": 13,
+            "count_unused": 1,
+            "count_total": 1201
+        },
+        {
+            "area": "屏東市",
+            "cunli": "華山里",
+            "house_no": "114",
+            "candidates": {
+                "1": 354,
+                "2": 315
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1106
+        },
+        {
+            "area": "屏東市",
+            "cunli": "華山里",
+            "house_no": "115",
+            "candidates": {
+                "1": 414,
+                "2": 251
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1121
+        },
+        {
+            "area": "屏東市",
+            "cunli": "華山里",
+            "house_no": "116",
+            "candidates": {
+                "1": 441,
+                "2": 254
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 1223
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "蔡麗莉",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃裕倉",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "士林區",
+            "cunli": "陽明里",
+            "house_no": "341",
+            "candidates": {
+                "1": 260,
+                "2": 261
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 876
+        },
+        {
+            "area": "士林區",
+            "cunli": "陽明里",
+            "house_no": "342",
+            "candidates": {
+                "1": 218,
+                "2": 310
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 800
+        },
+        {
+            "area": "士林區",
+            "cunli": "陽明里",
+            "house_no": "343",
+            "candidates": {
+                "1": 163,
+                "2": 298
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 740
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "廖高源",
+            "party": "無"
+        },
+        "2": {
+            "name": "李乾琿",
+            "party": "無"
+        },
+        "3": {
+            "name": "李日有",
+            "party": "無"
+        },
+        "4": {
+            "name": "李日存",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崙背鄉",
+            "cunli": "東明村",
+            "house_no": "321",
+            "candidates": {
+                "1": 337,
+                "2": 163,
+                "3": 106,
+                "4": 107
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 1064
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "西榮村",
+            "house_no": "322",
+            "candidates": {
+                "1": 284,
+                "2": 323,
+                "3": 178,
+                "4": 128
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1389
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "南陽村",
+            "house_no": "323",
+            "candidates": {
+                "1": 227,
+                "2": 187,
+                "3": 144,
+                "4": 123
+            },
+            "count_wrong": 29,
+            "count_unused": 1,
+            "count_total": 1084
+        },
+        {
+            "area": "崙背鄉",
+            "cunli": "南陽村",
+            "house_no": "324",
+            "candidates": {
+                "1": 211,
+                "2": 176,
+                "3": 245,
+                "4": 164
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1142
+        }
+    ]
+}

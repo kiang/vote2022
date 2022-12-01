@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "江善樓",
+            "party": "無"
+        },
+        "2": {
+            "name": "温松源",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "苗栗市",
+            "cunli": "嘉新里",
+            "house_no": "47",
+            "candidates": {
+                "1": 383,
+                "2": 221
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 959
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "嘉新里",
+            "house_no": "48",
+            "candidates": {
+                "1": 287,
+                "2": 245
+            },
+            "count_wrong": 25,
+            "count_unused": 0,
+            "count_total": 791
+        },
+        {
+            "area": "苗栗市",
+            "cunli": "嘉新里",
+            "house_no": "49",
+            "candidates": {
+                "1": 337,
+                "2": 253
+            },
+            "count_wrong": 41,
+            "count_unused": 0,
+            "count_total": 923
+        }
+    ]
+}

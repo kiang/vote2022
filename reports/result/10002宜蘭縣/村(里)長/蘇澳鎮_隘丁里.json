@@ -1,0 +1,43 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張正榮",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "蘇澳鎮",
+            "cunli": "隘丁里",
+            "house_no": "146",
+            "candidates": {
+                "1": 537
+            },
+            "count_wrong": 108,
+            "count_unused": 0,
+            "count_total": 1025
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "隘丁里",
+            "house_no": "147",
+            "candidates": {
+                "1": 540
+            },
+            "count_wrong": 128,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "蘇澳鎮",
+            "cunli": "隘丁里",
+            "house_no": "148",
+            "candidates": {
+                "1": 482
+            },
+            "count_wrong": 131,
+            "count_unused": 0,
+            "count_total": 955
+        }
+    ]
+}

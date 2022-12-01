@@ -1,0 +1,44 @@
+{
+    "candidates": {
+        "1": {
+            "name": "范姜彬鈔",
+            "party": "無"
+        },
+        "2": {
+            "name": "林芷綾",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "楊閎鈞",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "楊梅區",
+            "cunli": "梅新里",
+            "house_no": "1151",
+            "candidates": {
+                "1": 298,
+                "2": 151,
+                "3": 155
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 908
+        },
+        {
+            "area": "楊梅區",
+            "cunli": "梅新里",
+            "house_no": "1152",
+            "candidates": {
+                "1": 262,
+                "2": 180,
+                "3": 222
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 997
+        }
+    ]
+}

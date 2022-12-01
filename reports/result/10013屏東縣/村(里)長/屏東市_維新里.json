@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳基富",
+            "party": "無"
+        },
+        "2": {
+            "name": "孫德通",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "維新里",
+            "house_no": "7",
+            "candidates": {
+                "1": 371,
+                "2": 315
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1205
+        },
+        {
+            "area": "屏東市",
+            "cunli": "維新里",
+            "house_no": "8",
+            "candidates": {
+                "1": 394,
+                "2": 282
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1197
+        }
+    ]
+}

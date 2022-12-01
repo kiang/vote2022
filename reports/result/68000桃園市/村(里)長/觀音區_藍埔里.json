@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "徐桂本",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳奕欽",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "觀音區",
+            "cunli": "藍埔里",
+            "house_no": "1330",
+            "candidates": {
+                "1": 458,
+                "2": 389
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1306
+        },
+        {
+            "area": "觀音區",
+            "cunli": "藍埔里",
+            "house_no": "1331",
+            "candidates": {
+                "1": 382,
+                "2": 461
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1277
+        }
+    ]
+}

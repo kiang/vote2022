@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊宜燕",
+            "party": "無"
+        },
+        "2": {
+            "name": "楊寶月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "長濱鄉",
+            "cunli": "長濱村",
+            "house_no": "176",
+            "candidates": {
+                "1": 305,
+                "2": 365
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1189
+        },
+        {
+            "area": "長濱鄉",
+            "cunli": "長濱村",
+            "house_no": "177",
+            "candidates": {
+                "1": 340,
+                "2": 81
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 686
+        }
+    ]
+}

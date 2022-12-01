@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林晨彬",
+            "party": "無"
+        },
+        "2": {
+            "name": "葉智添",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "大甲區",
+            "cunli": "幸福里",
+            "house_no": "45",
+            "candidates": {
+                "1": 367,
+                "2": 298
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1066
+        },
+        {
+            "area": "大甲區",
+            "cunli": "幸福里",
+            "house_no": "46",
+            "candidates": {
+                "1": 438,
+                "2": 408
+            },
+            "count_wrong": 28,
+            "count_unused": 0,
+            "count_total": 1321
+        }
+    ]
+}

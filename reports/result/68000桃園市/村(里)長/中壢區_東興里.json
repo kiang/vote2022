@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "莊英起",
+            "party": "無"
+        },
+        "2": {
+            "name": "徐建土",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中壢區",
+            "cunli": "東興里",
+            "house_no": "874",
+            "candidates": {
+                "1": 488,
+                "2": 397
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1571
+        },
+        {
+            "area": "中壢區",
+            "cunli": "東興里",
+            "house_no": "875",
+            "candidates": {
+                "1": 591,
+                "2": 454
+            },
+            "count_wrong": 47,
+            "count_unused": 0,
+            "count_total": 1568
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳靜苑",
+            "party": "無"
+        },
+        "2": {
+            "name": "湯欽福",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "鄭善之",
+            "party": "無"
+        },
+        "4": {
+            "name": "涂煥國",
+            "party": "無"
+        },
+        "5": {
+            "name": "廖克誠",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "屏東市",
+            "cunli": "崇陽里",
+            "house_no": "85",
+            "candidates": {
+                "1": 58,
+                "2": 308,
+                "3": 105,
+                "4": 187,
+                "5": 126
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1296
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇陽里",
+            "house_no": "86",
+            "candidates": {
+                "1": 52,
+                "2": 388,
+                "3": 70,
+                "4": 177,
+                "5": 129
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 1470
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇陽里",
+            "house_no": "87",
+            "candidates": {
+                "1": 45,
+                "2": 368,
+                "3": 66,
+                "4": 138,
+                "5": 233
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1464
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇陽里",
+            "house_no": "88",
+            "candidates": {
+                "1": 391,
+                "2": 71,
+                "3": 50,
+                "4": 86,
+                "5": 66
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1267
+        },
+        {
+            "area": "屏東市",
+            "cunli": "崇陽里",
+            "house_no": "89",
+            "candidates": {
+                "1": 458,
+                "2": 81,
+                "3": 38,
+                "4": 53,
+                "5": 95
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1287
+        }
+    ]
+}

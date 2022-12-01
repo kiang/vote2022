@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林添憶",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "西屯區",
+            "cunli": "福瑞里",
+            "house_no": "860",
+            "candidates": {
+                "1": 602
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1416
+        },
+        {
+            "area": "西屯區",
+            "cunli": "福瑞里",
+            "house_no": "861",
+            "candidates": {
+                "1": 606
+            },
+            "count_wrong": 86,
+            "count_unused": 0,
+            "count_total": 1423
+        }
+    ]
+}

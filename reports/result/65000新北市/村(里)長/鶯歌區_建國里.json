@@ -1,0 +1,62 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林清得",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱皇瑋",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鶯歌區",
+            "cunli": "建國里",
+            "house_no": "1873",
+            "candidates": {
+                "1": 543,
+                "2": 331
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1531
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "建國里",
+            "house_no": "1874",
+            "candidates": {
+                "1": 472,
+                "2": 380
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1442
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "建國里",
+            "house_no": "1875",
+            "candidates": {
+                "1": 501,
+                "2": 271
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 1425
+        },
+        {
+            "area": "鶯歌區",
+            "cunli": "建國里",
+            "house_no": "1876",
+            "candidates": {
+                "1": 575,
+                "2": 305
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 1515
+        }
+    ]
+}

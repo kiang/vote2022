@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李文欽",
+            "party": "無"
+        },
+        "2": {
+            "name": "周黃俊宇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "安宜里",
+            "house_no": "1167",
+            "candidates": {
+                "1": 299,
+                "2": 714
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 1518
+        },
+        {
+            "area": "三民區",
+            "cunli": "安宜里",
+            "house_no": "1168",
+            "candidates": {
+                "1": 296,
+                "2": 653
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1367
+        }
+    ]
+}

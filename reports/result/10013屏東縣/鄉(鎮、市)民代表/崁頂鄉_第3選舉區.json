@@ -1,0 +1,78 @@
+{
+    "candidates": {
+        "1": {
+            "name": "羅崑龍",
+            "party": "無"
+        },
+        "2": {
+            "name": "羅金木",
+            "party": "無"
+        },
+        "3": {
+            "name": "紀東得",
+            "party": "無"
+        },
+        "4": {
+            "name": "洪明山",
+            "party": "無"
+        },
+        "5": {
+            "name": "楊芷瑜",
+            "party": "無"
+        },
+        "6": {
+            "name": "羅雄裕",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "崁頂鄉",
+            "cunli": "洲子村",
+            "house_no": "561",
+            "candidates": {
+                "1": 44,
+                "2": 10,
+                "3": 59,
+                "4": 525,
+                "5": 29,
+                "6": 0
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1004
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "北勢村",
+            "house_no": "562",
+            "candidates": {
+                "1": 211,
+                "2": 22,
+                "3": 41,
+                "4": 57,
+                "5": 180,
+                "6": 0
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 739
+        },
+        {
+            "area": "崁頂鄉",
+            "cunli": "北勢村",
+            "house_no": "563",
+            "candidates": {
+                "1": 115,
+                "2": 2,
+                "3": 146,
+                "4": 37,
+                "5": 152,
+                "6": 2
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 684
+        }
+    ]
+}

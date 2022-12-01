@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "胡李聰明",
+            "party": "無"
+        },
+        "2": {
+            "name": "彭鼎淵",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "平鎮區",
+            "cunli": "龍恩里",
+            "house_no": "1093",
+            "candidates": {
+                "1": 412,
+                "2": 400
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1308
+        },
+        {
+            "area": "平鎮區",
+            "cunli": "龍恩里",
+            "house_no": "1094",
+            "candidates": {
+                "1": 454,
+                "2": 412
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1414
+        }
+    ]
+}

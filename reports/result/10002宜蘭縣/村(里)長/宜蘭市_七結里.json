@@ -1,0 +1,32 @@
+{
+    "candidates": {
+        "1": {
+            "name": "游景清",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "宜蘭市",
+            "cunli": "七結里",
+            "house_no": "14",
+            "candidates": {
+                "1": 657
+            },
+            "count_wrong": 95,
+            "count_unused": 3,
+            "count_total": 1281
+        },
+        {
+            "area": "宜蘭市",
+            "cunli": "七結里",
+            "house_no": "15",
+            "candidates": {
+                "1": 644
+            },
+            "count_wrong": 100,
+            "count_unused": 0,
+            "count_total": 1241
+        }
+    ]
+}

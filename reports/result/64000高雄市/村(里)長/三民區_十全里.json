@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳明皇",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪能通",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳明郎",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "三民區",
+            "cunli": "十全里",
+            "house_no": "1175",
+            "candidates": {
+                "1": 366,
+                "2": 572,
+                "3": 85
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 1596
+        }
+    ]
+}

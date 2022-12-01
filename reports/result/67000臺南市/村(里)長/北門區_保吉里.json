@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "洪銘顯",
+            "party": "無"
+        },
+        "2": {
+            "name": "王俊銘",
+            "party": "無"
+        },
+        "3": {
+            "name": "曾博昀",
+            "party": "無"
+        },
+        "4": {
+            "name": "王忠城",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北門區",
+            "cunli": "保吉里",
+            "house_no": "206",
+            "candidates": {
+                "1": 33,
+                "2": 29,
+                "3": 130,
+                "4": 261
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 667
+        },
+        {
+            "area": "北門區",
+            "cunli": "保吉里",
+            "house_no": "207",
+            "candidates": {
+                "1": 10,
+                "2": 23,
+                "3": 113,
+                "4": 257
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 581
+        }
+    ]
+}

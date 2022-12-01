@@ -1,0 +1,274 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳達琳",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳役州",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "葉日嘉",
+            "party": "無"
+        },
+        "4": {
+            "name": "范國威",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "竹東鎮",
+            "cunli": "上坪里",
+            "house_no": "135",
+            "candidates": {
+                "1": 25,
+                "2": 44,
+                "3": 80,
+                "4": 42
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 288
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "瑞峰里",
+            "house_no": "136",
+            "candidates": {
+                "1": 30,
+                "2": 55,
+                "3": 33,
+                "4": 82
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 377
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "軟橋里",
+            "house_no": "137",
+            "candidates": {
+                "1": 55,
+                "2": 84,
+                "3": 24,
+                "4": 34
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 343
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "員崠里",
+            "house_no": "138",
+            "candidates": {
+                "1": 76,
+                "2": 281,
+                "3": 75,
+                "4": 69
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1037
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "員崠里",
+            "house_no": "139",
+            "candidates": {
+                "1": 112,
+                "2": 288,
+                "3": 98,
+                "4": 66
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1098
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "140",
+            "candidates": {
+                "1": 122,
+                "2": 243,
+                "3": 115,
+                "4": 123
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "141",
+            "candidates": {
+                "1": 189,
+                "2": 186,
+                "3": 96,
+                "4": 177
+            },
+            "count_wrong": 23,
+            "count_unused": 1,
+            "count_total": 1186
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "142",
+            "candidates": {
+                "1": 185,
+                "2": 173,
+                "3": 99,
+                "4": 151
+            },
+            "count_wrong": 40,
+            "count_unused": 0,
+            "count_total": 1227
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "143",
+            "candidates": {
+                "1": 135,
+                "2": 124,
+                "3": 125,
+                "4": 147
+            },
+            "count_wrong": 34,
+            "count_unused": 0,
+            "count_total": 1263
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "144",
+            "candidates": {
+                "1": 207,
+                "2": 109,
+                "3": 134,
+                "4": 146
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "145",
+            "candidates": {
+                "1": 125,
+                "2": 113,
+                "3": 153,
+                "4": 114
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 928
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "146",
+            "candidates": {
+                "1": 117,
+                "2": 126,
+                "3": 131,
+                "4": 143
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "上舘里",
+            "house_no": "147",
+            "candidates": {
+                "1": 168,
+                "2": 154,
+                "3": 144,
+                "4": 95
+            },
+            "count_wrong": 32,
+            "count_unused": 0,
+            "count_total": 1128
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "東寧里",
+            "house_no": "148",
+            "candidates": {
+                "1": 132,
+                "2": 166,
+                "3": 100,
+                "4": 74
+            },
+            "count_wrong": 39,
+            "count_unused": 0,
+            "count_total": 992
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "東寧里",
+            "house_no": "149",
+            "candidates": {
+                "1": 155,
+                "2": 167,
+                "3": 112,
+                "4": 126
+            },
+            "count_wrong": 42,
+            "count_unused": 0,
+            "count_total": 1195
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "東寧里",
+            "house_no": "150",
+            "candidates": {
+                "1": 119,
+                "2": 180,
+                "3": 91,
+                "4": 140
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 988
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "中正里",
+            "house_no": "151",
+            "candidates": {
+                "1": 203,
+                "2": 106,
+                "3": 158,
+                "4": 115
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1092
+        },
+        {
+            "area": "竹東鎮",
+            "cunli": "中正里",
+            "house_no": "152",
+            "candidates": {
+                "1": 262,
+                "2": 191,
+                "3": 162,
+                "4": 126
+            },
+            "count_wrong": 36,
+            "count_unused": 0,
+            "count_total": 1340
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃瑞芳",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃信達",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "善化區",
+            "cunli": "小新里",
+            "house_no": "553",
+            "candidates": {
+                "1": 491,
+                "2": 321
+            },
+            "count_wrong": 48,
+            "count_unused": 0,
+            "count_total": 1394
+        },
+        {
+            "area": "善化區",
+            "cunli": "小新里",
+            "house_no": "554",
+            "candidates": {
+                "1": 475,
+                "2": 322
+            },
+            "count_wrong": 53,
+            "count_unused": 0,
+            "count_total": 1412
+        },
+        {
+            "area": "善化區",
+            "cunli": "小新里",
+            "house_no": "555",
+            "candidates": {
+                "1": 460,
+                "2": 193
+            },
+            "count_wrong": 31,
+            "count_unused": 0,
+            "count_total": 1589
+        }
+    ]
+}

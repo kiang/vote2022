@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張敏生",
+            "party": "無"
+        },
+        "2": {
+            "name": "魏光輝",
+            "party": "無"
+        },
+        "3": {
+            "name": "林錦成",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南區",
+            "cunli": "和平里",
+            "house_no": "1454",
+            "candidates": {
+                "1": 195,
+                "2": 309,
+                "3": 220
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1356
+        },
+        {
+            "area": "南區",
+            "cunli": "和平里",
+            "house_no": "1455",
+            "candidates": {
+                "1": 334,
+                "2": 192,
+                "3": 197
+            },
+            "count_wrong": 26,
+            "count_unused": 0,
+            "count_total": 1292
+        },
+        {
+            "area": "南區",
+            "cunli": "和平里",
+            "house_no": "1456",
+            "candidates": {
+                "1": 280,
+                "2": 158,
+                "3": 172
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1267
+        }
+    ]
+}

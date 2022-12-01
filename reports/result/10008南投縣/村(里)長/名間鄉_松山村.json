@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳秀",
+            "party": "無"
+        },
+        "2": {
+            "name": "李水木",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "名間鄉",
+            "cunli": "松山村",
+            "house_no": "327",
+            "candidates": {
+                "1": 465,
+                "2": 176
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 836
+        },
+        {
+            "area": "名間鄉",
+            "cunli": "松山村",
+            "house_no": "328",
+            "candidates": {
+                "1": 266,
+                "2": 148
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 573
+        }
+    ]
+}

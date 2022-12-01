@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉朝賢",
+            "party": "無"
+        },
+        "2": {
+            "name": "丁千衾",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "義竹鄉",
+            "cunli": "新店村",
+            "house_no": "399",
+            "candidates": {
+                "1": 239,
+                "2": 96
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 513
+        },
+        {
+            "area": "義竹鄉",
+            "cunli": "新店村",
+            "house_no": "400",
+            "candidates": {
+                "1": 383,
+                "2": 204
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 878
+        }
+    ]
+}

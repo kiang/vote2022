@@ -1,0 +1,70 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳淑媚",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "傅書淵",
+            "party": "無"
+        },
+        "3": {
+            "name": "許世傳",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北投區",
+            "cunli": "智仁里",
+            "house_no": "131",
+            "candidates": {
+                "1": 267,
+                "2": 222,
+                "3": 304
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1176
+        },
+        {
+            "area": "北投區",
+            "cunli": "智仁里",
+            "house_no": "132",
+            "candidates": {
+                "1": 252,
+                "2": 242,
+                "3": 336
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "北投區",
+            "cunli": "智仁里",
+            "house_no": "133",
+            "candidates": {
+                "1": 278,
+                "2": 212,
+                "3": 378
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 1268
+        },
+        {
+            "area": "北投區",
+            "cunli": "智仁里",
+            "house_no": "134",
+            "candidates": {
+                "1": 305,
+                "2": 224,
+                "3": 318
+            },
+            "count_wrong": 23,
+            "count_unused": 0,
+            "count_total": 1274
+        }
+    ]
+}

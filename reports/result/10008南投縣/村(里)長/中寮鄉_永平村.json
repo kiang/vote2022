@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉伙木",
+            "party": "無"
+        },
+        "2": {
+            "name": "吳炎泉",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "中寮鄉",
+            "cunli": "永平村",
+            "house_no": "365",
+            "candidates": {
+                "1": 260,
+                "2": 439
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 932
+        },
+        {
+            "area": "中寮鄉",
+            "cunli": "永平村",
+            "house_no": "366",
+            "candidates": {
+                "1": 301,
+                "2": 235
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 724
+        }
+    ]
+}

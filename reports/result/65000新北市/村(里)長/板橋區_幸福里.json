@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "吳朝琦",
+            "party": "無"
+        },
+        "2": {
+            "name": "李逢春",
+            "party": "無"
+        },
+        "3": {
+            "name": "方秀月",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "板橋區",
+            "cunli": "幸福里",
+            "house_no": "1061",
+            "candidates": {
+                "1": 268,
+                "2": 191,
+                "3": 185
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 1118
+        },
+        {
+            "area": "板橋區",
+            "cunli": "幸福里",
+            "house_no": "1062",
+            "candidates": {
+                "1": 346,
+                "2": 147,
+                "3": 233
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1175
+        },
+        {
+            "area": "板橋區",
+            "cunli": "幸福里",
+            "house_no": "1063",
+            "candidates": {
+                "1": 249,
+                "2": 169,
+                "3": 195
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1095
+        }
+    ]
+}

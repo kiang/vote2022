@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "李寶猜",
+            "party": "無"
+        },
+        "2": {
+            "name": "侯信崇",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "東區",
+            "cunli": "富強里",
+            "house_no": "1380",
+            "candidates": {
+                "1": 316,
+                "2": 437
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1340
+        },
+        {
+            "area": "東區",
+            "cunli": "富強里",
+            "house_no": "1381",
+            "candidates": {
+                "1": 433,
+                "2": 324
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1380
+        },
+        {
+            "area": "東區",
+            "cunli": "富強里",
+            "house_no": "1382",
+            "candidates": {
+                "1": 403,
+                "2": 468
+            },
+            "count_wrong": 15,
+            "count_unused": 1,
+            "count_total": 1466
+        }
+    ]
+}

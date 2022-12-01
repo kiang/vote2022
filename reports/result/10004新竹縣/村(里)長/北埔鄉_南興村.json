@@ -1,0 +1,31 @@
+{
+    "candidates": {
+        "1": {
+            "name": "林仁發",
+            "party": "無"
+        },
+        "2": {
+            "name": "陳淇昇",
+            "party": "無"
+        },
+        "3": {
+            "name": "彭瑞麟",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北埔鄉",
+            "cunli": "南興村",
+            "house_no": "411",
+            "candidates": {
+                "1": 322,
+                "2": 295,
+                "3": 136
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 1109
+        }
+    ]
+}

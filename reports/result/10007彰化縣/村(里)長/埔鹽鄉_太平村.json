@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "童永冬",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉仲凱",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "埔鹽鄉",
+            "cunli": "太平村",
+            "house_no": "732",
+            "candidates": {
+                "1": 357,
+                "2": 155
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 778
+        },
+        {
+            "area": "埔鹽鄉",
+            "cunli": "太平村",
+            "house_no": "733",
+            "candidates": {
+                "1": 187,
+                "2": 292
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 703
+        }
+    ]
+}

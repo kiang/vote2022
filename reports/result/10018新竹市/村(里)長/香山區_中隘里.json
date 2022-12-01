@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳士樺",
+            "party": "無"
+        },
+        "2": {
+            "name": "邱煥彬",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "香山區",
+            "cunli": "中隘里",
+            "house_no": "350",
+            "candidates": {
+                "1": 235,
+                "2": 221
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 689
+        },
+        {
+            "area": "香山區",
+            "cunli": "中隘里",
+            "house_no": "351",
+            "candidates": {
+                "1": 360,
+                "2": 220
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1085
+        }
+    ]
+}

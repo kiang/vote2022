@@ -1,0 +1,122 @@
+{
+    "candidates": {
+        "1": {
+            "name": "風志雄",
+            "party": "無"
+        },
+        "2": {
+            "name": "戴賢志",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南庄鄉",
+            "cunli": "東村",
+            "house_no": "425",
+            "candidates": {
+                "1": 32,
+                "2": 9
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 55
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "西村",
+            "house_no": "426",
+            "candidates": {
+                "1": 28,
+                "2": 7
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 48
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "南江村",
+            "house_no": "427",
+            "candidates": {
+                "1": 99,
+                "2": 89
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 283
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "田美村",
+            "house_no": "428",
+            "candidates": {
+                "1": 10,
+                "2": 1
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 15
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "獅山村",
+            "house_no": "429",
+            "candidates": {
+                "1": 3,
+                "2": 6
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 17
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "南富村",
+            "house_no": "430",
+            "candidates": {
+                "1": 2,
+                "2": 1
+            },
+            "count_wrong": 1,
+            "count_unused": 0,
+            "count_total": 6
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "員林村",
+            "house_no": "431",
+            "candidates": {
+                "1": 1,
+                "2": 2
+            },
+            "count_wrong": 0,
+            "count_unused": 0,
+            "count_total": 4
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "蓬萊村",
+            "house_no": "432",
+            "candidates": {
+                "1": 177,
+                "2": 52
+            },
+            "count_wrong": 2,
+            "count_unused": 0,
+            "count_total": 381
+        },
+        {
+            "area": "南庄鄉",
+            "cunli": "東河村",
+            "house_no": "433",
+            "candidates": {
+                "1": 302,
+                "2": 89
+            },
+            "count_wrong": 9,
+            "count_unused": 0,
+            "count_total": 589
+        }
+    ]
+}

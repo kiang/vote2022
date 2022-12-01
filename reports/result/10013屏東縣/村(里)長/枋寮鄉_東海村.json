@@ -1,0 +1,57 @@
+{
+    "candidates": {
+        "1": {
+            "name": "張堉衫",
+            "party": "無"
+        },
+        "2": {
+            "name": "張連雄",
+            "party": "無"
+        },
+        "3": {
+            "name": "黃鳳義",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "枋寮鄉",
+            "cunli": "東海村",
+            "house_no": "520",
+            "candidates": {
+                "1": 112,
+                "2": 272,
+                "3": 256
+            },
+            "count_wrong": 10,
+            "count_unused": 0,
+            "count_total": 922
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "東海村",
+            "house_no": "521",
+            "candidates": {
+                "1": 197,
+                "2": 172,
+                "3": 158
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 755
+        },
+        {
+            "area": "枋寮鄉",
+            "cunli": "東海村",
+            "house_no": "522",
+            "candidates": {
+                "1": 186,
+                "2": 203,
+                "3": 189
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 886
+        }
+    ]
+}

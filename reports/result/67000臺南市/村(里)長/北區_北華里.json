@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "葉政忠",
+            "party": "無"
+        },
+        "2": {
+            "name": "王黃春子",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "北區",
+            "cunli": "北華里",
+            "house_no": "1002",
+            "candidates": {
+                "1": 326,
+                "2": 310
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1188
+        },
+        {
+            "area": "北區",
+            "cunli": "北華里",
+            "house_no": "1003",
+            "candidates": {
+                "1": 226,
+                "2": 476
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1216
+        },
+        {
+            "area": "北區",
+            "cunli": "北華里",
+            "house_no": "1004",
+            "candidates": {
+                "1": 218,
+                "2": 282
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 1433
+        }
+    ]
+}

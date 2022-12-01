@@ -1,0 +1,174 @@
+{
+    "candidates": {
+        "1": {
+            "name": "趙記明",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "韓秀滿",
+            "party": "無"
+        },
+        "3": {
+            "name": "盧榮生",
+            "party": "無"
+        },
+        "4": {
+            "name": "林世茂",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳進義",
+            "party": "無"
+        },
+        "6": {
+            "name": "李衍翰",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "245",
+            "candidates": {
+                "1": 90,
+                "2": 38,
+                "3": 127,
+                "4": 28,
+                "5": 244,
+                "6": 115
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 1124
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "246",
+            "candidates": {
+                "1": 72,
+                "2": 27,
+                "3": 158,
+                "4": 24,
+                "5": 168,
+                "6": 83
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 923
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "247",
+            "candidates": {
+                "1": 72,
+                "2": 22,
+                "3": 203,
+                "4": 18,
+                "5": 136,
+                "6": 123
+            },
+            "count_wrong": 17,
+            "count_unused": 0,
+            "count_total": 995
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "山腳里",
+            "house_no": "248",
+            "candidates": {
+                "1": 80,
+                "2": 41,
+                "3": 90,
+                "4": 31,
+                "5": 123,
+                "6": 130
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 979
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "南灣里",
+            "house_no": "249",
+            "candidates": {
+                "1": 209,
+                "2": 24,
+                "3": 39,
+                "4": 16,
+                "5": 87,
+                "6": 70
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 770
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "南灣里",
+            "house_no": "250",
+            "candidates": {
+                "1": 139,
+                "2": 36,
+                "3": 63,
+                "4": 17,
+                "5": 163,
+                "6": 44
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 837
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "墾丁里",
+            "house_no": "251",
+            "candidates": {
+                "1": 75,
+                "2": 107,
+                "3": 30,
+                "4": 40,
+                "5": 115,
+                "6": 23
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 562
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "墾丁里",
+            "house_no": "252",
+            "candidates": {
+                "1": 93,
+                "2": 57,
+                "3": 56,
+                "4": 39,
+                "5": 111,
+                "6": 49
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 581
+        },
+        {
+            "area": "恆春鎮",
+            "cunli": "鵝鑾里",
+            "house_no": "253",
+            "candidates": {
+                "1": 140,
+                "2": 40,
+                "3": 142,
+                "4": 39,
+                "5": 204,
+                "6": 57
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 1039
+        }
+    ]
+}

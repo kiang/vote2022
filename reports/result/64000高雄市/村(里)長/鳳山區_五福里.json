@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "王劉煌",
+            "party": "無"
+        },
+        "2": {
+            "name": "張碩元",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳山區",
+            "cunli": "五福里",
+            "house_no": "1640",
+            "candidates": {
+                "1": 487,
+                "2": 423
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 1443
+        },
+        {
+            "area": "鳳山區",
+            "cunli": "五福里",
+            "house_no": "1641",
+            "candidates": {
+                "1": 517,
+                "2": 368
+            },
+            "count_wrong": 13,
+            "count_unused": 0,
+            "count_total": 1402
+        }
+    ]
+}

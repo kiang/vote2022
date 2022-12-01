@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "曾能健",
+            "party": "無"
+        },
+        "2": {
+            "name": "李文吉",
+            "party": "無"
+        },
+        "3": {
+            "name": "楊過",
+            "party": "無"
+        },
+        "4": {
+            "name": "郭勻貴",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "卑南鄉",
+            "cunli": "賓朗村",
+            "house_no": "118",
+            "candidates": {
+                "1": 226,
+                "2": 319,
+                "3": 37,
+                "4": 83
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 984
+        },
+        {
+            "area": "卑南鄉",
+            "cunli": "賓朗村",
+            "house_no": "119",
+            "candidates": {
+                "1": 306,
+                "2": 206,
+                "3": 81,
+                "4": 88
+            },
+            "count_wrong": 16,
+            "count_unused": 0,
+            "count_total": 1125
+        }
+    ]
+}

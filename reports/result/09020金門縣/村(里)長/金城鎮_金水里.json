@@ -1,0 +1,36 @@
+{
+    "candidates": {
+        "1": {
+            "name": "黃乃善",
+            "party": "無"
+        },
+        "2": {
+            "name": "黃延良",
+            "party": "中國國民黨"
+        },
+        "3": {
+            "name": "陳海發",
+            "party": "中國國民黨"
+        },
+        "4": {
+            "name": "洪篤全",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "金城鎮",
+            "cunli": "金水里",
+            "house_no": "19",
+            "candidates": {
+                "1": 130,
+                "2": 346,
+                "3": 248,
+                "4": 142
+            },
+            "count_wrong": 35,
+            "count_unused": 1,
+            "count_total": 2200
+        }
+    ]
+}

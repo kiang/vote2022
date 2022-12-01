@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "夏明珠",
+            "party": "無"
+        },
+        "2": {
+            "name": "劉朝仁",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "白河區",
+            "cunli": "河東里",
+            "house_no": "39",
+            "candidates": {
+                "1": 219,
+                "2": 236
+            },
+            "count_wrong": 15,
+            "count_unused": 0,
+            "count_total": 754
+        },
+        {
+            "area": "白河區",
+            "cunli": "河東里",
+            "house_no": "40",
+            "candidates": {
+                "1": 119,
+                "2": 160
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 508
+        }
+    ]
+}

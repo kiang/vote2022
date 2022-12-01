@@ -1,0 +1,53 @@
+{
+    "candidates": {
+        "1": {
+            "name": "劉喜湘",
+            "party": "無"
+        },
+        "2": {
+            "name": "周清豪",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "鳳林鎮",
+            "cunli": "北林里",
+            "house_no": "236",
+            "candidates": {
+                "1": 49,
+                "2": 33,
+                "3": 297
+            },
+            "count_wrong": 5,
+            "count_unused": 0,
+            "count_total": 507
+        },
+        {
+            "area": "鳳林鎮",
+            "cunli": "南平里",
+            "house_no": "237",
+            "candidates": {
+                "1": 106,
+                "2": 62,
+                "3": 214
+            },
+            "count_wrong": 11,
+            "count_unused": 0,
+            "count_total": 490
+        },
+        {
+            "area": "鳳林鎮",
+            "cunli": "林榮里",
+            "house_no": "238",
+            "candidates": {
+                "1": 216,
+                "2": 189,
+                "3": 108
+            },
+            "count_wrong": 20,
+            "count_unused": 0,
+            "count_total": 735
+        }
+    ]
+}

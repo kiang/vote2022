@@ -1,0 +1,110 @@
+{
+    "candidates": {
+        "1": {
+            "name": "簡綺萱",
+            "party": "無"
+        },
+        "2": {
+            "name": "蔡坤堂",
+            "party": "無"
+        },
+        "3": {
+            "name": "吳名周",
+            "party": "無"
+        },
+        "4": {
+            "name": "郭文宇",
+            "party": "無"
+        },
+        "5": {
+            "name": "陳皇評",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "梅山鄉",
+            "cunli": "双溪村",
+            "house_no": "248",
+            "candidates": {
+                "1": 7,
+                "2": 72,
+                "3": 313,
+                "4": 29
+            },
+            "count_wrong": 7,
+            "count_unused": 0,
+            "count_total": 520
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "大南村",
+            "house_no": "249",
+            "candidates": {
+                "1": 52,
+                "2": 291,
+                "3": 175,
+                "4": 109
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 813
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "大南村",
+            "house_no": "250",
+            "candidates": {
+                "1": 91,
+                "2": 131,
+                "3": 204,
+                "4": 124
+            },
+            "count_wrong": 4,
+            "count_unused": 0,
+            "count_total": 725
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "安靖村",
+            "house_no": "251",
+            "candidates": {
+                "1": 17,
+                "2": 162,
+                "3": 75,
+                "4": 291
+            },
+            "count_wrong": 19,
+            "count_unused": 0,
+            "count_total": 780
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "永興村",
+            "house_no": "252",
+            "candidates": {
+                "1": 13,
+                "2": 101,
+                "3": 112,
+                "4": 118
+            },
+            "count_wrong": 8,
+            "count_unused": 0,
+            "count_total": 466
+        },
+        {
+            "area": "梅山鄉",
+            "cunli": "半天村",
+            "house_no": "253",
+            "candidates": {
+                "1": 17,
+                "2": 65,
+                "3": 129,
+                "4": 40
+            },
+            "count_wrong": 6,
+            "count_unused": 0,
+            "count_total": 333
+        }
+    ]
+}

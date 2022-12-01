@@ -1,0 +1,101 @@
+{
+    "candidates": {
+        "1": {
+            "name": "陳錫龍",
+            "party": "民主進步黨"
+        },
+        "2": {
+            "name": "楊瑞安",
+            "party": "無"
+        },
+        "3": {
+            "name": "張宏洲",
+            "party": "無"
+        },
+        "4": {
+            "name": "連順祥",
+            "party": "無"
+        },
+        "5": {
+            "name": "王慶坤",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "林內鄉",
+            "cunli": "林南村",
+            "house_no": "434",
+            "candidates": {
+                "1": 204,
+                "2": 124,
+                "3": 98,
+                "4": 55,
+                "5": 198
+            },
+            "count_wrong": 21,
+            "count_unused": 0,
+            "count_total": 953
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "435",
+            "candidates": {
+                "1": 150,
+                "2": 248,
+                "3": 120,
+                "4": 90,
+                "5": 185
+            },
+            "count_wrong": 22,
+            "count_unused": 0,
+            "count_total": 1185
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "436",
+            "candidates": {
+                "1": 88,
+                "2": 221,
+                "3": 71,
+                "4": 36,
+                "5": 140
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 829
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "437",
+            "candidates": {
+                "1": 75,
+                "2": 196,
+                "3": 50,
+                "4": 44,
+                "5": 155
+            },
+            "count_wrong": 14,
+            "count_unused": 0,
+            "count_total": 781
+        },
+        {
+            "area": "林內鄉",
+            "cunli": "林中村",
+            "house_no": "438",
+            "candidates": {
+                "1": 103,
+                "2": 158,
+                "3": 40,
+                "4": 25,
+                "5": 101
+            },
+            "count_wrong": 12,
+            "count_unused": 0,
+            "count_total": 627
+        }
+    ]
+}

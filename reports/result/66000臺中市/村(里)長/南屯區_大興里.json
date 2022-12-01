@@ -1,0 +1,50 @@
+{
+    "candidates": {
+        "1": {
+            "name": "許鳳凰",
+            "party": "無"
+        },
+        "2": {
+            "name": "洪朝祥",
+            "party": "無"
+        }
+    },
+    "data": [
+        {
+            "area": "南屯區",
+            "cunli": "大興里",
+            "house_no": "978",
+            "candidates": {
+                "1": 531,
+                "2": 243
+            },
+            "count_wrong": 18,
+            "count_unused": 0,
+            "count_total": 1254
+        },
+        {
+            "area": "南屯區",
+            "cunli": "大興里",
+            "house_no": "979",
+            "candidates": {
+                "1": 596,
+                "2": 274
+            },
+            "count_wrong": 33,
+            "count_unused": 0,
+            "count_total": 1481
+        },
+        {
+            "area": "南屯區",
+            "cunli": "大興里",
+            "house_no": "980",
+            "candidates": {
+                "1": 519,
+                "2": 358
+            },
+            "count_wrong": 30,
+            "count_unused": 0,
+            "count_total": 1452
+        }
+    ]
+}

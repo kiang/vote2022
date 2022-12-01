@@ -1,0 +1,38 @@
+{
+    "candidates": {
+        "1": {
+            "name": "安照榮",
+            "party": "中國國民黨"
+        },
+        "2": {
+            "name": "王國棟",
+            "party": "中國國民黨"
+        }
+    },
+    "data": [
+        {
+            "area": "八德區",
+            "cunli": "瑞發里",
+            "house_no": "381",
+            "candidates": {
+                "1": 400,
+                "2": 563
+            },
+            "count_wrong": 24,
+            "count_unused": 0,
+            "count_total": 1504
+        },
+        {
+            "area": "八德區",
+            "cunli": "瑞發里",
+            "house_no": "382",
+            "candidates": {
+                "1": 467,
+                "2": 514
+            },
+            "count_wrong": 29,
+            "count_unused": 0,
+            "count_total": 1492
+        }
+    ]
+}
